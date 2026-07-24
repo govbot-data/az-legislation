@@ -1,0 +1,166 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Health & Human Services
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON HEALTH & HUMAN SERVICES
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1345
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 36, chapter 4, article 1, Arizona Revised
+3 Statutes, is amended by adding section 36-420.06, to read:
+4 36-420.06. Anonymous complaints; prohibition; exceptions
+5 THE DEPARTMENT OF HEALTH SERVICES MAY NOT ACCEPT OR INVESTIGATE AN
+6 ANONYMOUS COMPLAINT AGAINST A HEALTH CARE INSTITUTION UNLESS THE COMPLAINT
+7 IS FROM EITHER OF THE FOLLOWING:
+8 1. THE SUBJECT OF THE ALLEGATION WITHIN THE COMPLAINT.
+9 2. A WITNESS TO THE CONDUCT BEING ALLEGED IN THE COMPLAINT.
+10 <<Sec. 2. Section 36-425, Arizona Revised Statutes, is amended to
+11 read:
+12 36-425. Inspections; issuance of license; posting
+13 requirements; provisional license; denial of
+14 license
+15 A. On receipt of a properly completed application for a health care
+16 institution license, the director shall conduct an inspection of the
+17 health care institution as prescribed by this chapter. If an application
+18 for a license is submitted due to a planned change of ownership, the
+19 director shall determine the need for an inspection of the health care
+20 institution. Based on the results of the inspection and after the
+21 submission of the applicable licensing fee, the director shall either deny
+22 the license or issue a regular or provisional license. A license issued
+23 by the department shall be posted in a conspicuous location in the
+24 reception area of that health care institution.
+25 B. The director shall issue a license if the director determines
+26 that an applicant and the health care institution for which the license is
+27 sought substantially comply with the requirements of this chapter and
+28 rules adopted pursuant to this chapter and the applicant agrees to carry
+
+House Amendments to S.B. 1345
+1 out a plan acceptable to the director to eliminate any deficiencies. The
+2 director shall not require a health care institution that was designated
+3 as a critical access hospital to make any modifications required by this
+4 chapter or rules adopted pursuant to this chapter in order to obtain an
+5 amended license with the same licensed capacity the health care
+6 institution had before it was designated as a critical access hospital if
+7 all of the following are true:
+8 1. The health care institution has subsequently terminated its
+9 critical access hospital designation.
+10 2. The licensed capacity of the health care institution does not
+11 exceed its licensed capacity before its designation as a critical access
+12 hospital.
+13 3. The health care institution remains in compliance with the
+14 applicable codes and standards that were in effect at the time the
+15 facility was originally licensed with the higher licensed capacity.
+16 C. A health care institution license does not expire and remains
+17 valid unless:
+18 1. The department subsequently revokes or suspends the license.
+19 2. The license is considered void because the licensee did not pay
+20 the licensing fee, civil penalties or provider agreement fees before the
+21 relevant due date or did not enter into an agreement with the department
+22 before the relevant due date to pay all outstanding fees or civil
+23 penalties.
+24 D. Except as provided in section 36-424, subsection B and
+25 subsection E of this section, the department shall conduct a compliance
+26 inspection of a health care institution to determine compliance with this
+27 chapter and rules adopted pursuant to this chapter at least once annually.
+28 E. If the department determines a facility, except for a
+29 residential care institution or a nursing care institution that does not
+30 have the same direct owner or indirect owner as a hospital licensed
+31 pursuant to this chapter, to be deficiency free on a compliance survey,
+32 the department shall not conduct a compliance survey of that facility for
+33 twenty-four months after the date of the deficiency free survey. This
+34 subsection does not prohibit the department from enforcing licensing
+35 requirements as authorized by section 36-424.
+36 F. A hospital licensed as a rural general hospital may provide
+37 intensive care services.
+38 G. The director shall issue a provisional license for a period of
+39 not more than one year if an inspection or investigation of a currently
+40 licensed health care institution or a health care institution for which an
+41 applicant is seeking a license reveals that the health care institution is
+42 not in substantial compliance with department licensure requirements and
+43 the director believes that the immediate interests of the patients and the
+44 general public are best served if the health care institution is given an
+45 opportunity to correct deficiencies. The applicant or licensee shall
+46 agree to carry out a plan to eliminate deficiencies that is acceptable to
+47 the director. The director shall not issue consecutive provisional
+-2-
+
+House Amendments to S.B. 1345
+1 licenses to a single health care institution. The director shall not
+2 issue a license to the current licensee or a successor applicant before
+3 the expiration of the provisional license unless the health care
+4 institution submits an application for a substantial compliance survey and
+5 is found to be in substantial compliance. The director may issue a
+6 license only if the director determines that the health care institution
+7 is in substantial compliance with the licensure requirements of the
+8 department and this chapter. This subsection does not prevent the
+9 director from taking action to protect the safety of patients pursuant to
+10 section 36-427.
+11 H. Subject to the confidentiality requirements of articles 4 and 5
+12 of this chapter, title 12, chapter 13, article 7.1 and section 12-2235,
+13 the licensee shall keep current department inspection reports at the
+14 health care institution. Unless federal law requires otherwise, the
+15 licensee shall post in a conspicuous location a notice that identifies the
+16 location at that health care institution where the inspection reports are
+17 available for review.
+18 I. A health care institution shall immediately notify the
+19 department in writing when there is a change of the chief administrative
+20 officer specified in section 36-422, subsection A, paragraph 1,
+21 subdivision (g).
+22 J. When the department issues an original license or an original
+23 provisional license to a health care institution, it shall notify the
+24 owners and lessees of any agricultural land within one-fourth mile of the
+25 health care institution. The health care institution shall provide the
+26 department with the names and addresses of owners or lessees of
+27 agricultural land within one-fourth mile of the proposed health care
+28 institution.
+29 K. In addition to the grounds for denial of licensure prescribed
+30 pursuant to subsection A of this section, the director may deny a license
+31 because an applicant or anyone in a business relationship with the
+32 applicant, including stockholders and controlling persons, has had a
+33 license to operate a health care institution denied, revoked or suspended
+34 or a license or certificate issued by a health profession regulatory board
+35 pursuant to title 32 or issued by a state agency pursuant to chapter 6,
+36 article 7 or chapter 17 of this title denied, revoked or suspended or has
+37 a licensing history of recent serious violations occurring in this state
+38 or in another state that posed a direct risk to the life, health or safety
+39 of patients or residents.
+40 [L. THE DEPARTMENT SHALL:
+41 1. WITHIN SIXTY DAYS AFTER RECEIVING AN INITIAL APPLICATION FOR A
+42 HEALTH CARE INSTITUTION LICENSE, APPROVE OR DENY THE APPLICATION.
+43 2. WITHIN THIRTY DAYS AFTER RECEIVING SURVEY RESULTS COMPLETED BY A
+44 THIRD-PARTY ACCREDITATION ORGANIZATION, REVIEW AND SUBMIT TO THE CENTERS
+45 FOR MEDICARE AND MEDICAID SERVICES FOR CERTIFICATION SURVEY RESULTS THAT
+46 MEET THE REQUIREMENTS OF THE CENTERS FOR MEDICARE AND MEDICAID SERVICES.]
+-3-
+
+House Amendments to S.B. 1345
+1 [L.] [M.] In addition to the requirements of this chapter, the
+2 director may prescribe by rule other licensure requirements.>>
+3 Enroll and engross to conform
+4 Amend title to conform
+And, as so amended, it do pass
+SELINA BLISS
+CHAIRMAN
+1345HEALTH HUMAN SERVICES.docx
+03/23/2026
+05:20 PM
+C: MH
+130DFQMWR
+-4-

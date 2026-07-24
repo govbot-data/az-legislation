@@ -1,0 +1,491 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Judiciary
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON JUDICIARY
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1448
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-1204, Arizona Revised Statutes, as amended by
+3 Laws 2025, chapter 172, section 1, is amended to read:
+4 13-1204. Aggravated assault; classification; definitions
+5 A. Until January 1, 2033, a person commits aggravated assault if
+6 the person commits assault as prescribed by section 13-1203 under any of
+7 the following circumstances:
+8 1. If the person causes serious physical injury to another.
+9 2. If the person uses a deadly weapon or dangerous instrument.
+10 3. If the person commits the assault by any means of force that
+11 causes temporary but substantial disfigurement, temporary but substantial
+12 loss or impairment of any body organ or part or a fracture of any body
+13 part.
+14 4. If the person commits the assault while the victim is bound or
+15 otherwise physically restrained or while the victim's capacity to resist
+16 is substantially impaired.
+17 5. If the person commits the assault after entering the private
+18 home of another with the intent to commit the assault.
+19 6. If the person is eighteen years of age or older and commits the
+20 assault on a minor under fifteen years of age.
+21 7. If the person commits assault as prescribed by section 13-1203,
+22 subsection A, paragraph 1 or 3 and the person is in violation of an order
+23 of protection issued against the person pursuant to section 13-3602 or
+24 13-3624.
+25 8. If the person commits the assault knowing or having reason to
+26 know that the victim is any of the following:
+27 (a) A first responder or a person summoned and directed by the
+28 first responder.
+
+House Amendments to S.B. 1448
+1 (b) A constable or a person summoned and directed by the constable
+2 while engaged in the execution of any official duties or if the assault
+3 results from the execution of the constable's official duties.
+4 (c) A teacher or other person employed by any school and the
+5 teacher or other employee is on the grounds of a school or grounds
+6 adjacent to the school or is in any part of a building or vehicle used for
+7 school purposes, any teacher or school nurse visiting a private home in
+8 the course of the teacher's or nurse's professional duties or any teacher
+9 engaged in any authorized and organized classroom activity held on other
+10 than school grounds.
+11 (d) A health care worker while engaged in the health care worker's
+12 work duties or a health care practitioner who is certified or licensed
+13 pursuant to title 32, chapter 13, 14, 15, 17 or 25, or a person summoned
+14 and directed by the licensed health care practitioner while engaged in the
+15 person's professional duties. This subdivision does not apply if the
+16 person who commits the assault does not have the ability to form the
+17 culpable mental state because of a mental disability, developmental
+18 disability or cognitive disability or because the person is seriously
+19 mentally ill, as defined in section 36-550.
+20 (e) A prosecutor while engaged in the execution of any official
+21 duties or if the assault results from the execution of the prosecutor's
+22 official duties.
+23 (f) A code enforcement officer as defined in section 39-123 while
+24 engaged in the execution of any official duties or if the assault results
+25 from the execution of the code enforcement officer's official duties.
+26 (g) A state or municipal park ranger while engaged in the execution
+27 of any official duties or if the assault results from the execution of the
+28 park ranger's official duties.
+29 (h) A public defender while engaged in the execution of any
+30 official duties or if the assault results from the execution of the public
+31 defender's official duties.
+32 (i) A judicial officer while engaged in the execution of any
+33 official duties or if the assault results from the execution of the
+34 judicial officer's official duties.
+35 (j) An employee of a law enforcement agency, other than a peace
+36 officer, while engaged in the execution of any official duties.
+37 (k) A public transit employee who performs duties on and off a
+38 vehicle while engaged in transferring members of the community to and from
+39 destinations in a bus, van or shuttle.
+40 (l) An airport employee who interacts with the public while engaged
+41 in the airport employee's work duties.
+42 (m) A railway worker while engaged in operating a train, light rail
+43 or passenger rail or performing track maintenance.
+44 (n) AN EMPLOYEE OF ONE OF THE FOLLOWING WHO IS ENGAGED IN THE
+45 EMPLOYEE'S WORK DUTIES:
+46 (i) A PUBLIC UTILITY AS PRESCRIBED IN SECTION 44-1376.
+47 (ii) A LICENSED TELECOMMUNICATIONS PROVIDER.
+-2-
+
+House Amendments to S.B. 1448
+1 (iii) A LICENSED VIDEO SERVICE PROVIDER.
+2 [(iv) A UTILITY AS DEFINED IN SECTION 40-491.]
+3 9. If the person knowingly takes or attempts to exercise control
+4 over any of the following:
+5 (a) A first responder's or other officer's firearm and the person
+6 knows or has reason to know that the victim is a first responder or other
+7 officer employed by one of the agencies listed in paragraph 10,
+8 subdivision (a), item (i), (ii), (iii), (iv) or (v) of this subsection.
+9 (b) Any weapon other than a firearm that is being used by a first
+10 responder or other officer or that the first responder or other officer is
+11 attempting to use, and the person knows or has reason to know that the
+12 victim is a first responder or other officer employed by one of the
+13 agencies listed in paragraph 10, subdivision (a), item (i), (ii), (iii),
+14 (iv) or (v) of this subsection.
+15 (c) Any implement that is being used by a first responder or other
+16 officer or that the first responder or other officer is attempting to use,
+17 and the person knows or has reason to know that the victim is a first
+18 responder or other officer employed by one of the agencies listed in
+19 paragraph 10, subdivision (a), item (i), (ii), (iii), (iv) or (v) of this
+20 subsection. For the purposes of this subdivision, "implement" means an
+21 object that is designed for or that is capable of restraining or injuring
+22 an individual. Implement does not include handcuffs.
+23 10. If the person meets both of the following conditions:
+24 (a) Is imprisoned or otherwise subject to the custody of any of the
+25 following:
+26 (i) The state department of corrections.
+27 (ii) The department of juvenile corrections.
+28 (iii) A law enforcement agency.
+29 (iv) A county or city jail or an adult or juvenile detention
+30 facility of a city or county.
+31 (v) Any other entity that is contracting with the state department
+32 of corrections, the department of juvenile corrections, a law enforcement
+33 agency, another state, any private correctional facility, a county, a city
+34 or the federal bureau of prisons or other federal agency that has
+35 responsibility for sentenced or unsentenced prisoners.
+36 (b) Commits an assault knowing or having reason to know that the
+37 victim is acting in an official capacity as an employee of any of the
+38 entities listed in subdivision (a) of this paragraph.
+39 11. If the person uses a simulated deadly weapon.
+40 12. if the person is aided by two or more accomplices who aid in
+41 committing the assault, the assault is directed at a single person and the
+42 assault results in physical injury.
+43 B. Until January 1, 2033, a person commits aggravated assault if
+44 the person commits assault by either intentionally, knowingly or
+45 recklessly causing any physical injury to another person, intentionally
+46 placing another person in reasonable apprehension of imminent physical
+-3-
+
+House Amendments to S.B. 1448
+1 injury or knowingly touching another person with the intent to injure the
+2 person, and both of the following occur:
+3 1. The person intentionally or knowingly impedes the normal
+4 breathing or circulation of blood of another person by applying pressure
+5 to the throat or neck or by obstructing the nose and mouth either manually
+6 or through the use of an instrument.
+7 2. Any of the circumstances exists that are set forth in section
+8 13-3601, subsection A, paragraph 1, 2, 3, 4, 5 or 6.
+9 C. A person who is convicted of intentionally or knowingly
+10 committing aggravated assault on a first responder pursuant to subsection
+11 A, paragraph 1 or 2 of this section shall be sentenced to imprisonment for
+12 not less than the presumptive sentence authorized under chapter 7 of this
+13 title and is not eligible for suspension of sentence, commutation or
+14 release on any basis until the sentence imposed is served.
+15 D. If a person is convicted of committing aggravated assault on a
+16 peace officer pursuant to this section and the trier of fact determines
+17 that section 13-701, subsection D, paragraph 17 applies, the person shall
+18 be sentenced to two years more than would otherwise be imposed for the
+19 offense. The additional sentence imposed under this subsection is in
+20 addition to any enhanced punishment that may be applicable under this
+21 section or chapter 7 of this title. The person is not eligible for
+22 suspension of sentence, commutation or release from confinement on any
+23 basis, except as specifically authorized by section 31-233, subsection A
+24 or B until the sentence imposed is served, the person is eligible for
+25 release pursuant to section 41-1604.07 or the sentence is commuted.
+26 E. It is not a defense to a prosecution for assaulting a peace
+27 officer or a mitigating circumstance that the peace officer was not on
+28 duty or engaged in the execution of any official duties.
+29 F. Except pursuant to subsections G, H and I of this section,
+30 aggravated assault pursuant to subsection A, paragraph 1 or 2, paragraph
+31 9, subdivision (a) or paragraph 11 of this section is a class 3 felony
+32 except if the aggravated assault is a violation of subsection A, paragraph
+33 1 or 2 of this section and the victim is under fifteen years of age it is
+34 a class 2 felony punishable pursuant to section 13-705. Aggravated
+35 assault pursuant to subsection A, paragraph 3 or 12 or subsection B of
+36 this section is a class 4 felony. Aggravated assault pursuant to
+37 subsection A, paragraph 9, subdivision (b) or paragraph 10 of this section
+38 is a class 5 felony. Aggravated assault pursuant to subsection A,
+39 paragraph 4, 5, 6, 7 or 8 or paragraph 9, subdivision (c) of this section
+40 is a class 6 felony.
+41 G. Aggravated assault pursuant to subsection A, paragraph 1 or 2 of
+42 this section committed on a first responder is a class 2 felony.
+43 Aggravated assault pursuant to subsection A, paragraph 3 of this section
+44 committed on a first responder is a class 3 felony. Aggravated assault
+45 pursuant to subsection A, paragraph 8, subdivision (a) of this section
+46 committed on a first responder is a class 4 felony unless the assault
+-4-
+
+House Amendments to S.B. 1448
+1 results in any physical injury to the first responder, in which case it is
+2 a class 3 felony.
+3 H. Aggravated assault pursuant to subsection A, paragraph 1 or 2 of
+4 this section committed on an employee of a law enforcement agency is a
+5 class 2 felony. Aggravated assault pursuant to subsection A, paragraph 3
+6 of this section committed on an employee of a law enforcement agency is a
+7 class 3 felony. Aggravated assault pursuant to subsection A, paragraph 8,
+8 subdivision (j) of this section committed on an employee of a law
+9 enforcement agency is a class 5 felony unless the assault results in any
+10 physical injury to the employee, in which case it is a class 4 felony.
+11 I. Aggravated assault pursuant to:
+12 1. Subsection A, paragraph 1 or 2 of this section is a class 2
+13 felony if committed on a prosecutor.
+14 2. Subsection A, paragraph 3 of this section is a class 3 felony if
+15 committed on a prosecutor.
+16 3. Subsection A, paragraph 8, subdivision (e) of this section is a
+17 class 5 felony if the assault results in physical injury to a prosecutor.
+18 J. For the purposes of this section:
+19 1. "Cognitive disability" has the same meaning prescribed in
+20 section 36-551.
+21 2. "Developmental disability" has the same meaning prescribed in
+22 section 36-551.
+23 3. "First responder" means:
+24 (a) A peace officer.
+25 (b) A firefighter, a fire marshal, a fire inspector, an emergency
+26 medical care technician or a paramedic who is engaged in the execution of
+27 any official duties.
+28 (c) A tribal police officer.
+29 4. "Health care worker" means:
+30 (a) A person who is employed by or contracted to work at a health
+31 care institution that is licensed pursuant to title 36.
+32 (b) A person who is employed or contracted to provide health care
+33 or related services in a fieldwork setting, including:
+34 (i) Home health care, home-based hospice and home-based social
+35 work, unless the worker is employed or contracted by an individual who
+36 privately employs, in the individual's residence, the worker to perform
+37 covered services for the individual or a family member of the individual.
+38 (ii) Any emergency services and transport, including the services
+39 provided by firefighters and emergency responders.
+40 5. "Judicial officer" means a justice of the supreme court, judge,
+41 justice of the peace or magistrate or a commissioner or hearing officer of
+42 a state, county or municipal court.
+43 6. "Mental disability" means a disabling neurological condition, or
+44 brain injury, or involuntary impairment as a result of a medication that
+45 is administered by a health care provider or a medical procedure that is
+46 performed at a health care treatment site.
+-5-
+
+House Amendments to S.B. 1448
+1 7. "Prosecutor" means a county attorney, a municipal prosecutor or
+2 the attorney general and includes an assistant or deputy county attorney,
+3 municipal prosecutor or attorney general.
+4 Sec. 2. Section 13-1204, Arizona Revised Statutes, as amended by
+5 Laws 2025, chapter 172, section 2, is amended to read:
+6 13-1204. Aggravated assault; classification; definitions
+7 A. Beginning from and after December 31, 2032, a person commits
+8 aggravated assault if the person commits assault as prescribed by section
+9 13-1203 under any of the following circumstances:
+10 1. If the person causes serious physical injury to another.
+11 2. If the person uses a deadly weapon or dangerous instrument.
+12 3. If the person commits the assault by any means of force that
+13 causes temporary but substantial disfigurement, temporary but substantial
+14 loss or impairment of any body organ or part or a fracture of any body
+15 part.
+16 4. If the person commits the assault while the victim is bound or
+17 otherwise physically restrained or while the victim's capacity to resist
+18 is substantially impaired.
+19 5. If the person commits the assault after entering the private
+20 home of another with the intent to commit the assault.
+21 6. If the person is eighteen years of age or older and commits the
+22 assault on a minor under fifteen years of age.
+23 7. If the person commits assault as prescribed by section 13-1203,
+24 subsection A, paragraph 1 or 3 and the person is in violation of an order
+25 of protection issued against the person pursuant to section 13-3602 or
+26 13-3624.
+27 8. If the person commits the assault knowing or having reason to
+28 know that the victim is any of the following:
+29 (a) A peace officer or a person summoned and directed by the
+30 officer.
+31 (b) A constable or a person summoned and directed by the constable
+32 while engaged in the execution of any official duties or if the assault
+33 results from the execution of the constable's official duties.
+34 (c) A firefighter, fire investigator, fire inspector, emergency
+35 medical technician or paramedic engaged in the execution of any official
+36 duties or a person summoned and directed by such individual while engaged
+37 in the execution of any official duties or if the assault results from the
+38 execution of the official duties of the firefighter, fire investigator,
+39 fire inspector, emergency medical technician or paramedic.
+40 (d) A teacher or other person employed by any school and the
+41 teacher or other employee is on the grounds of a school or grounds
+42 adjacent to the school or is in any part of a building or vehicle used for
+43 school purposes, any teacher or school nurse visiting a private home in
+44 the course of the teacher's or nurse's professional duties or any teacher
+45 engaged in any authorized and organized classroom activity held on other
+46 than school grounds.
+-6-
+
+House Amendments to S.B. 1448
+1 (e) A health care worker while engaged in the health care worker's
+2 work duties or a health care practitioner who is certified or licensed
+3 pursuant to title 32, chapter 13, 14, 15, 17 or 25, or a person summoned
+4 and directed by the licensed health care practitioner while engaged in the
+5 person's professional duties. This subdivision does not apply if the
+6 person who commits the assault does not have the ability to form the
+7 culpable mental state because of a mental disability, developmental
+8 disability or cognitive disability or because the person is seriously
+9 mentally ill, as defined in section 36-550.
+10 (f) A prosecutor while engaged in the execution of any official
+11 duties or if the assault results from the execution of the prosecutor's
+12 official duties.
+13 (g) A code enforcement officer as defined in section 39-123 while
+14 engaged in the execution of any official duties or if the assault results
+15 from the execution of the code enforcement officer's official duties.
+16 (h) A state or municipal park ranger while engaged in the execution
+17 of any official duties or if the assault results from the execution of the
+18 park ranger's official duties.
+19 (i) A public defender while engaged in the execution of any
+20 official duties or if the assault results from the execution of the public
+21 defender's official duties.
+22 (j) A judicial officer while engaged in the execution of any
+23 official duties or if the assault results from the execution of the
+24 judicial officer's official duties.
+25 (k) An employee of a law enforcement agency, other than a peace
+26 officer, while engaged in the execution of any official duties.
+27 (l) A public transit employee who performs duties on and off a
+28 vehicle while engaged in transferring members of the community to and from
+29 destinations in a bus, van or shuttle.
+30 (m) An airport employee who interacts with the public while engaged
+31 in the airport employee's work duties.
+32 (n) A railway worker while engaged in operating a train, light rail
+33 or passenger rail or performing track maintenance.
+34 (o) AN EMPLOYEE OF ONE OF THE FOLLOWING WHO IS ENGAGED IN THE
+35 EMPLOYEE'S WORK DUTIES:
+36 (i) A PUBLIC UTILITY AS PRESCRIBED IN SECTION 44-1376.
+37 (ii) A LICENSED TELECOMMUNICATIONS PROVIDER.
+38 (iii) A LICENSED VIDEO SERVICE PROVIDER.
+39 [(iv) A UTILITY AS DEFINED IN SECTION 40-491.]
+40 9. If the person knowingly takes or attempts to exercise control
+41 over any of the following:
+42 (a) A peace officer's or other officer's firearm and the person
+43 knows or has reason to know that the victim is a peace officer or other
+44 officer employed by one of the agencies listed in paragraph 10,
+45 subdivision (a), item (i), (ii), (iii), (iv) or (v) of this subsection.
+46 (b) Any weapon other than a firearm that is being used by a peace
+47 officer or other officer or that the officer is attempting to use, and the
+-7-
+
+House Amendments to S.B. 1448
+1 person knows or has reason to know that the victim is a peace officer or
+2 other officer employed by one of the agencies listed in paragraph 10,
+3 subdivision (a), item (i), (ii), (iii), (iv) or (v) of this subsection.
+4 (c) Any implement that is being used by a peace officer or other
+5 officer or that the officer is attempting to use, and the person knows or
+6 has reason to know that the victim is a peace officer or other officer
+7 employed by one of the agencies listed in paragraph 10, subdivision (a),
+8 item (i), (ii), (iii), (iv) or (v) of this subsection. For the purposes
+9 of this subdivision, "implement" means an object that is designed for or
+10 that is capable of restraining or injuring an individual. Implement does
+11 not include handcuffs.
+12 10. If the person meets both of the following conditions:
+13 (a) Is imprisoned or otherwise subject to the custody of any of the
+14 following:
+15 (i) The state department of corrections.
+16 (ii) The department of juvenile corrections.
+17 (iii) A law enforcement agency.
+18 (iv) A county or city jail or an adult or juvenile detention
+19 facility of a city or county.
+20 (v) Any other entity that is contracting with the state department
+21 of corrections, the department of juvenile corrections, a law enforcement
+22 agency, another state, any private correctional facility, a county, a city
+23 or the federal bureau of prisons or other federal agency that has
+24 responsibility for sentenced or unsentenced prisoners.
+25 (b) Commits an assault knowing or having reason to know that the
+26 victim is acting in an official capacity as an employee of any of the
+27 entities listed in subdivision (a) of this paragraph.
+28 11. If the person uses a simulated deadly weapon.
+29 12. If the person is aided by two or more accomplices WHO aid in
+30 committing the assault, the assault is directed at a single person and the
+31 assault results in physical injury.
+32 B. Beginning from and after December 31, 2032, a person commits
+33 aggravated assault if the person commits assault by either intentionally,
+34 knowingly or recklessly causing any physical injury to another person,
+35 intentionally placing another person in reasonable apprehension of
+36 imminent physical injury or knowingly touching another person with the
+37 intent to injure the person, and both of the following occur:
+38 1. The person intentionally or knowingly impedes the normal
+39 breathing or circulation of blood of another person by applying pressure
+40 to the throat or neck or by obstructing the nose and mouth either manually
+41 or through the use of an instrument.
+42 2. Any of the circumstances exists that are set forth in section
+43 13-3601, subsection A, paragraph 1, 2, 3, 4, 5 or 6.
+44 C. A person who is convicted of intentionally or knowingly
+45 committing aggravated assault on a peace officer pursuant to subsection A,
+46 paragraph 1 or 2 of this section shall be sentenced to imprisonment for
+47 not less than the presumptive sentence authorized under chapter 7 of this
+-8-
+
+House Amendments to S.B. 1448
+1 title and is not eligible for suspension of sentence, commutation or
+2 release on any basis until the sentence imposed is served.
+3 D. If a person is convicted of committing aggravated assault on a
+4 peace officer pursuant to this section and the trier of fact determines
+5 that section 13-701, subsection D, paragraph 17 applies, the person shall
+6 be sentenced to two years more than would otherwise be imposed for the
+7 offense. The additional sentence imposed under this subsection is in
+8 addition to any enhanced punishment that may be applicable under this
+9 section or chapter 7 of this title. The person is not eligible for
+10 suspension of sentence, commutation or release from confinement on any
+11 basis, except as specifically authorized by section 31-233, subsection A
+12 or B until the sentence imposed is served, the person is eligible for
+13 release pursuant to section 41-1604.07 or the sentence is commuted.
+14 E. It is not a defense to a prosecution for assaulting a peace
+15 officer or a mitigating circumstance that the peace officer was not on
+16 duty or engaged in the execution of any official duties.
+17 F. Except pursuant to subsections G, H and I of this section,
+18 aggravated assault pursuant to subsection A, paragraph 1 or 2, paragraph
+19 9, subdivision (a) or paragraph 11 of this section is a class 3 felony
+20 except if the aggravated assault is a violation of subsection A, paragraph
+21 1 or 2 of this section and the victim is under fifteen years of age it is
+22 a class 2 felony punishable pursuant to section 13-705. Aggravated
+23 assault pursuant to subsection A, paragraph 3 or 12 or subsection B of
+24 this section is a class 4 felony. Aggravated assault pursuant to
+25 subsection A, paragraph 9, subdivision (b) or paragraph 10 of this section
+26 is a class 5 felony. Aggravated assault pursuant to subsection A,
+27 paragraph 4, 5, 6, 7 or 8 or paragraph 9, subdivision (c) of this section
+28 is a class 6 felony.
+29 G. Aggravated assault pursuant to subsection A, paragraph 1 or 2 of
+30 this section committed on a peace officer is a class 2 felony. Aggravated
+31 assault pursuant to subsection A, paragraph 3 of this section committed on
+32 a peace officer is a class 3 felony. Aggravated assault pursuant to
+33 subsection A, paragraph 8, subdivision (a) of this section committed on a
+34 peace officer is a class 5 felony unless the assault results in any
+35 physical injury to the peace officer, in which case it is a class 4
+36 felony.
+37 H. Aggravated assault pursuant to subsection A, paragraph 1 or 2 of
+38 this section committed on an employee of a law enforcement agency is a
+39 class 2 felony. Aggravated assault pursuant to subsection A, paragraph 3
+40 of this section committed on an employee of a law enforcement agency is a
+41 class 3 felony. Aggravated assault pursuant to subsection A, paragraph 8,
+42 subdivision (j) of this section committed on an employee of a law
+43 enforcement agency is a class 5 felony unless the assault results in any
+44 physical injury to the employee, in which case it is a class 4 felony.
+-9-
+
+House Amendments to S.B. 1448
+1 I. Aggravated assault pursuant to:
+2 1. Subsection A, paragraph 1 or 2 of this section is a class 2
+3 felony if committed on a prosecutor.
+4 2. Subsection A, paragraph 3 of this section is a class 3 felony if
+5 committed on a prosecutor.
+6 3. Subsection A, paragraph 8, subdivision (f) of this section is a
+7 class 5 felony if the assault results in physical injury to a prosecutor.
+8 J. For the purposes of this section:
+9 1. "Cognitive disability" has the same meaning prescribed in
+10 section 36-551.
+11 2. "Developmental disability" has the same meaning prescribed in
+12 section 36-551.
+13 3. "Health care worker" means:
+14 (a) A person who is employed by or contracted to work at a health
+15 care institution that is licensed pursuant to title 36.
+16 (b) A person who is employed or contracted to provide health care
+17 or related services in a fieldwork setting, including:
+18 (i) Home health care, home-based hospice and home-based social
+19 work, unless the worker is employed or contracted by an individual who
+20 privately employs, in the individual's residence, the worker to perform
+21 covered services for the individual or a family member of the individual.
+22 (ii) Any emergency services and transport, including the services
+23 provided by firefighters and emergency responders.
+24 4. "Judicial officer" means a justice of the supreme court, judge,
+25 justice of the peace or magistrate or a commissioner or hearing officer of
+26 a state, county or municipal court.
+27 5. "Mental disability" means a disabling neurological condition, or
+28 brain injury, or involuntary impairment as a result of a medication that
+29 is administered by a health care provider or a medical procedure that is
+30 performed at a health care treatment site.
+31 6. "Prosecutor" means a county attorney, a municipal prosecutor or
+32 the attorney general and includes an assistant or deputy county attorney,
+33 municipal prosecutor or attorney general.
+34 Enroll and engross to conform
+35 Amend title to conform
+And, as so amended, it do pass
+QUANG H. NGUYEN
+CHAIRMAN
+1448JUDICIARY.docx
+03/11/2026
+10:37 AM
+C: JV
+130CYKKUH
+-10-

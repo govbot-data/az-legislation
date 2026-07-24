@@ -1,0 +1,520 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Federalism and Family Law
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Federalism and Family Law
+Second Regular Session H.B. 2594
+COMMITTEE ON FEDERALISM AND FAMILY LAW
+SENATE AMENDMENTS TO H.B. 2594
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 16-153, Arizona Revised Statutes, is amended
+3 to read:
+4 16-153. Voter registration; confidentiality; definitions
+5 A. Eligible persons, and any other registered voter who resides at
+6 the same residence address as the eligible person, may request that the
+7 general public be prohibited from accessing the eligible person's
+8 identifying information, including any of the following:
+9 1. That person's documents and voting precinct number contained in
+10 that person's voter registration record.
+11 2. If the person is a public official, the address of a property
+12 held in trust by the public official.
+13 B. Eligible persons may request this action by filing an affidavit
+14 that states all of the following on an application form developed by the
+15 administrative office of the courts in agreement with an association of
+16 counties and an organization of peace officers:
+17 1. The person's full legal name, residential address and date of
+18 birth.
+19 2. Unless the person is the spouse of a peace officer or the spouse
+20 or minor child of a deceased peace officer or the person is a former
+21 public official or former judge, the position the person currently holds
+22 and a description of the person's duties, except that an eligible person
+23 who is protected under an order of protection or injunction against
+24 harassment shall instead attach a copy of the order of protection or
+25 injunction against harassment.
+26 3. The reasons for reasonably believing that the person's life or
+27 safety or that of another person is in danger and that sealing the
+28 identifying information and voting precinct number of the person's voting
+29 record will serve to reduce the danger.
+
+Senate Amendments to H.B. 2594
+1 C. The affidavit shall be filed with the presiding judge of the
+2 superior court in the county in which the affiant resides. To prevent
+3 multiple filings, an eligible person who is a peace officer, prosecutor,
+4 public defender, code enforcement officer, corrections or detention
+5 officer, corrections support staff member or law enforcement support staff
+6 member shall deliver the affidavit to the peace officer's commanding
+7 officer, or to the head of the prosecuting, public defender, code
+8 enforcement, law enforcement, corrections or detention agency, as
+9 applicable, or that person's designee, who shall file the affidavits at
+10 one time. In the absence of an affidavit that contains a request for
+11 immediate action and is supported by facts justifying an earlier
+12 presentation, the commanding officer, or the head of the prosecuting,
+13 public defender, code enforcement, law enforcement, corrections or
+14 detention agency, as applicable, or that person's designee, shall not file
+15 affidavits more often than quarterly.
+16 D. On receipt of an affidavit or affidavits, the presiding judge of
+17 the superior court shall file with the clerk of the superior court a
+18 petition on behalf of all requesting affiants. The petition shall have
+19 attached each affidavit presented. In the absence of an affidavit that
+20 contains a request for immediate action and that is supported by facts
+21 justifying an earlier consideration, the presiding judge may accumulate
+22 affidavits and file a petition at the end of each quarter.
+23 E. The presiding judge of the superior court shall review the
+24 petition and each attached affidavit to determine whether the action
+25 requested by each affiant should be granted. The presiding judge of the
+26 superior court shall order the sealing for five years of the information
+27 contained in the voter record of the affiant and, on request, any other
+28 registered voter who resides at the same residence address if the
+29 presiding judge concludes that this action will reduce a danger to the
+30 life or safety of the affiant.
+31 F. The recorder shall remove the restrictions on all voter records
+32 submitted pursuant to subsection E of this section by January 5 in the
+33 year after the court order expires. The county recorder shall send by
+34 mail one notice to either the health professional, election officer,
+35 public official, former public official, peace officer, spouse of a peace
+36 officer, spouse or minor child of a deceased peace officer, public
+37 defender, prosecutor, code enforcement officer, corrections or detention
+38 officer, corrections support staff member, law enforcement support staff
+39 member, employee of the department of child safety or employee of adult
+40 protective services who has direct contact with families in the course of
+41 employment or the employing agency of the peace officer, public defender,
+42 prosecutor, code enforcement officer, corrections or detention officer,
+43 corrections support staff member or law enforcement support staff member
+44 who was granted an order pursuant to this section of the order's
+45 expiration date at least six months before the January 5 removal date. If
+46 the notice is sent to the employing agency, the employing agency shall
+47 immediately notify the person who was granted the order of the upcoming
+-2-
+
+Senate Amendments to H.B. 2594
+1 expiration date. The county recorder may coordinate with the county
+2 assessor and county treasurer to prevent multiple notices from being sent
+3 to the same person.
+4 G. On entry of the court order, the clerk of the superior court
+5 shall file the court order with the county recorder. On receipt of the
+6 court order the county recorder shall seal the voter registration of the
+7 persons listed in the court order not later than one hundred twenty days
+8 from the date of receipt of the court order. To include a subsequent
+9 voter registration in the court order, a person listed in the court order
+10 shall present to the county recorder at the time of registration a
+11 certified copy of the court order or shall provide the county recorder the
+12 recording number of the court order. The information in the registration
+13 shall not be disclosed and is not a public record.
+14 H. If the court denies an affiant's requested sealing of the voter
+15 registration record, the affiant may request a court hearing. The hearing
+16 shall be conducted by the court where the petition was filed.
+17 I. On motion to the court, if the presiding judge of the superior
+18 court concludes that a voter registration record has been sealed in error
+19 or that the cause for the original affidavit no longer exists, the
+20 presiding judge may vacate the court order prohibiting public access to
+21 the voter registration record.
+22 J. On request by a person who is protected under an order of
+23 protection or injunction against harassment and presentation of an order
+24 of protection issued pursuant to section 13-3602, an injunction against
+25 harassment issued pursuant to section 12-1809 or an order of protection or
+26 injunction against harassment issued by a court in another state or a
+27 program participant in the address confidentiality program pursuant to
+28 title 41, chapter 1, article 3, the county recorder shall seal the voter
+29 registration record of the person who is protected and, on request, any
+30 other registered voter who resides at the residence address of the
+31 protected person. The record shall be sealed not later than one hundred
+32 twenty days from the date of receipt of the court order. The information
+33 in the registration shall not be disclosed and is not a public
+34 record. [ON THE RENEWAL OF THE CERTIFICATION OF A PROGRAM PARTICIPANT IN
+35 THE ADDRESS CONFIDENTIALITY PROGRAM PURSUANT TO TITLE 41, CHAPTER 1,
+36 ARTICLE 3, THE COUNTY RECORDER SHALL CONTINUE OR RENEW THE SEALING OF THE
+37 VOTER REGISTRATION RECORD OF THE PERSON WHO IS PROTECTED AND ON REQUEST
+38 ANY HOUSEHOLD RESIDENTS THAT WERE CERTIFIED AS PROGRAM PARTICIPANTS
+39 PURSUANT TO SECTION 41-163, SUBSECTION D THAT ARE REGISTERED VOTERS. THE
+40 VOTER REGISTRATION RECORD OF A PROGRAM PARTICIPANT IN THE ADDRESS
+41 CONFIDENTIALITY PROGRAM PURSUANT TO TITLE 41, CHAPTER 1, ARTICLE 3 SHALL
+42 REMAIN SEALED AFTER THE DEATH OF THE PROGRAM PARTICIPANT.]
+43 K. For the purposes of this section:
+44 1. "Code enforcement officer" means a person who is employed by a
+45 state or local government and whose duties include performing field
+46 inspections of buildings, structures or property to ensure compliance with
+47 and enforce national, state and local laws, ordinances and codes.
+-3-
+
+Senate Amendments to H.B. 2594
+1 2. "Commissioner" means a commissioner of the superior court or
+2 municipal court.
+3 3. "Corrections support staff member" means an adult or juvenile
+4 corrections employee who has direct contact with inmates.
+5 4. "Election officer" means a state, county or municipal employee
+6 who holds an election officer's certificate issued pursuant to section
+7 16-407.
+8 5. "Eligible person" means a health professional, election officer,
+9 public official, former public official, peace officer, spouse of a peace
+10 officer, spouse or minor child of a deceased peace officer, justice,
+11 judge, commissioner, hearing officer, public defender, prosecutor, member
+12 of the commission on appellate court appointments, code enforcement
+13 officer, adult or juvenile corrections officer, corrections support staff
+14 member, probation officer, member of the board of executive clemency, law
+15 enforcement support staff member, employee of the department of child
+16 safety or employee of adult protective services who has direct contact
+17 with families in the course of employment, national guard member who is
+18 acting in support of a law enforcement agency, person who is protected
+19 under an order of protection or injunction against harassment or
+20 firefighter who is assigned to the Arizona counter terrorism information
+21 center in the department of public safety.
+22 6. "Former public official" means a person who was duly elected or
+23 appointed to Congress, the legislature or a statewide office, who ceased
+24 serving in that capacity and who was the victim of a dangerous offense as
+25 defined in section 13-105 while in office.
+26 7. "Health professional" means an individual who is licensed
+27 pursuant to title 32, chapter 13, 15, 17, 19.1, 25 or 33.
+28 8. "Hearing officer" means a hearing officer who is appointed
+29 pursuant to section 28-1553.
+30 9. "Judge" means a judge or former judge of the United States
+31 district court, the United States court of appeals, the United States
+32 magistrate court, the United States bankruptcy court, the United States
+33 immigration court, the Arizona court of appeals, the superior court or a
+34 municipal court.
+35 10. "Justice" means a justice of the United States or Arizona
+36 supreme court or a justice of the peace.
+37 11. "Law enforcement support staff member" means a person who
+38 serves in the role of an investigator or prosecutorial assistant in an
+39 agency that investigates or prosecutes crimes, who is integral to the
+40 investigation or prosecution of crimes and whose name or identity will be
+41 revealed in the course of public proceedings.
+42 12. "Peace officer":
+43 (a) Has the same meaning prescribed in section 1-215.
+44 (b) Includes a federal law enforcement officer or agent who resides
+45 in this state and who has the power to make arrests pursuant to federal
+46 law.
+-4-
+
+Senate Amendments to H.B. 2594
+1 13. "Prosecutor" means a current or former United States attorney,
+2 county attorney, municipal prosecutor or attorney general and includes a
+3 current or former assistant or deputy United States attorney, county
+4 attorney, municipal prosecutor or attorney general.
+5 14. "Public defender" means a federal public defender, county
+6 public defender, county legal defender or county contract indigent defense
+7 counsel and includes an assistant or deputy federal public defender,
+8 county public defender or county legal defender.
+9 15. "Public official" means a person who is duly elected or
+10 appointed to Congress, the legislature, a statewide office or a county,
+11 city or town office.>>
+12 Sec. 2. Section 25-403.06, Arizona Revised Statutes, is amended to
+13 read:
+14 25-403.06. Parental access to prescription medication and
+15 records; address confidentiality program;
+16 applicability
+17 A. Unless otherwise provided by court order or law, on reasonable
+18 request both parents are entitled to have equal access to prescription
+19 medication, documents and other information concerning the child's
+20 education and physical, mental, moral and emotional health, including
+21 medical, school, police, court and other records, directly from the
+22 custodian of the records or from the other parent.
+23 B. A person who does not comply with a reasonable request shall
+24 reimburse the requesting parent for court costs and attorney fees incurred
+25 by that parent to force compliance with this section.
+26 C. A parent with joint legal custody shall not designate one
+27 pharmacy in a single location as the only source of the child's
+28 prescription medication without THE agreement of the other parent.
+29 D. A parent who attempts to restrict the release of documents or
+30 information by the custodian or attempts to withhold prescription
+31 medication without a prior court order is subject to appropriate legal
+32 sanctions.
+33 E. IF A PARENT HAS SOLE LEGAL DECISION-MAKING AUTHORITY AND THAT
+34 PARENT IS A PARTICIPANT IN THE ADDRESS CONFIDENTIALITY PROGRAM ESTABLISHED
+35 PURSUANT TO SECTION 41-162 BECAUSE OF THE ACTIONS OF THE OTHER PARENT,
+36 SUBSECTION A OF THIS SECTION DOES NOT APPLY TO THE PARENT WHO DOES NOT
+37 HAVE SOLE LEGAL DECISION-MAKING AUTHORITY. THE PARENT WITH LEGAL
+38 DECISION-MAKING AUTHORITY WHO IS A PARTICIPANT IN THE ADDRESS
+39 CONFIDENTIALITY PROGRAM MAY PROVIDE THE INFORMATION REQUIRED PURSUANT TO
+40 THIS SUBSECTION BY EMAIL, CELL PHONE APPLICATION OR REGULAR MAIL.
+41 Sec. 3. Title 25, chapter 11, article 1, Arizona Revised Statutes,
+42 is amended by adding section 25-1502, to read:
+43 25-1502. Participants in address confidentiality program; use
+44 of substitute address; applicability; violation;
+45 classification
+46 A. IN ANY MATTER BROUGHT PURSUANT TO THIS TITLE, IF A PARTY TO THE
+47 MATTER IS A PARTICIPANT IN THE ADDRESS CONFIDENTIALITY PROGRAM ESTABLISHED
+-5-
+
+Senate Amendments to H.B. 2594
+1 PURSUANT TO SECTION 41-162, THE COURT SHALL USE THE PARTY'S ADDRESS
+2 CONFIDENTIALITY PROGRAM SUBSTITUTE ADDRESS IN ALL FILINGS, NOTICES AND
+3 COMMUNICATIONS RELATING TO THE MATTER.
+4 B. AN ADDRESS CONFIDENTIALITY PROGRAM PARTICIPANT'S RESIDENCE
+5 ADDRESS SHALL BE SEALED IN ALL COURT RECORDS AND MAY NOT BE DISCLOSED TO
+6 ANY PARTY OR ATTORNEY.
+7 C. THE PARTY WHO IS A PARTICIPANT IN THE ADDRESS CONFIDENTIALITY
+8 PROGRAM MAY RECEIVE SERVICE AS PRESCRIBED IN SECTION 41-162, SUBSECTION C.
+9 D. THE COURT MAY NOT CONSIDER A PARTY'S PARTICIPATION IN THE
+10 ADDRESS CONFIDENTIALITY PROGRAM AS EVIDENCE OF ANY OF THE FOLLOWING:
+11 1. PARENTAL ALIENATION.
+12 2. FAILURE TO COOPERATE WITH THE OTHER PARTY.
+13 3. INSTABILITY.
+14 E. ANY PERSON WHO INTENTIONALLY OR KNOWINGLY OBTAINS OR DISCLOSES
+15 INFORMATION IN VIOLATION OF THIS SECTION OR SECTION 41-165 IS GUILTY OF A
+16 CLASS 1 MISDEMEANOR. ANY PERSON WHO INTENTIONALLY OR KNOWINGLY OBTAINS OR
+17 DISCLOSES INFORMATION IN VIOLATION OF THIS SECTION OR SECTION 41-165 FOR
+18 THE PURPOSE OF HARASSMENT, STALKING OR DOMESTIC VIOLENCE AGAINST A PARTY
+19 TO A MATTER THAT IS BROUGHT PURSUANT TO THIS TITLE IS GUILTY OF A CLASS 6
+20 FELONY.
+21 Sec. 4. Section 41-162, Arizona Revised Statutes, is amended to
+22 read:
+23 41-162. Address confidentiality program; duties of secretary
+24 of state; substitute address; application
+25 assistants
+26 A. On or before December 31, 2012, The secretary of state shall
+27 establish the address confidentiality program to allow persons who have
+28 been subjected to domestic violence offenses, sexual offenses or stalking
+29 to keep their residence addresses confidential and not accessible to the
+30 general public. Participants in the program shall receive a substitute
+31 address that becomes the participant's lawful address of record.
+32 B. The secretary of state shall:
+33 1. Designate a substitute address for a program participant that is
+34 used by state and local government entities as set forth in this section.
+35 2. Receive mail sent to a program participant at a substitute
+36 address and forward the mail to the program participant as set forth in
+37 paragraph 3 of this subsection.
+38 3. Receive first-class, certified or registered mail on behalf of a
+39 program participant and forward the mail to the program participant for no
+40 charge. The secretary of state may arrange to receive and forward other
+41 classes or kinds of mail at the program participant's expense. The
+42 secretary of state is not required to track or otherwise maintain records
+43 of any mail received on behalf of a program participant unless the mail is
+44 certified or registered mail.
+45 C. Notwithstanding any other law and except as provided by court
+46 rule, a program participant may be served by registered mail or by
+47 certified mail, return receipt requested, addressed to the program
+-6-
+
+Senate Amendments to H.B. 2594
+1 participant at the program participant's substitute address with any
+2 process, notice or demand required or allowed by law to be served on the
+3 program participant. This subsection does not prescribe the only means,
+4 or necessarily the required means, of serving a program participant in
+5 this state.
+6 D. A COURT MAY NOT ORDER THE DISCLOSURE OF A PROGRAM PARTICIPANT'S
+7 RESIDENCE ADDRESS OR LOCATION INFORMATION UNLESS THE COURT FINDS, BY CLEAR
+8 AND CONVINCING EVIDENCE, THAT DISCLOSURE OF A PROGRAM PARTICIPANT'S
+9 RESIDENCE ADDRESS IS ESSENTIAL TO A COMPELLING STATE INTEREST AND THAT NO
+10 REASONABLE ALTERNATIVE EXISTS TO ACCOMPLISH THAT PURPOSE WITHOUT THE
+11 DISCLOSURE OF THE PROGRAM PARTICIPANT'S RESIDENCE ADDRESS.
+12 D. E. The secretary of state may designate as an application
+13 assistant any person who:
+14 1. Provides counseling, referral or other services to victims of
+15 domestic violence, a sexual offense or stalking.
+16 2. Completes any training and registration process required by the
+17 secretary of state.
+18 E. F. Any assistance and counseling rendered by the secretary of
+19 state or an application assistant to an applicant related to this section
+20 is not legal advice.
+21 Sec. 5. Section 41-165, Arizona Revised Statutes, is amended to
+22 read:
+23 41-165. Disclosure of actual address prohibited; exceptions;
+24 violations; classification
+25 A. The secretary of state shall not disclose any address or
+26 telephone number of a program participant other than the substitute
+27 address designated by the secretary of state, except under any of the
+28 following circumstances:
+29 1. The information is required by direction of a court order.
+30 , except that Any person to whom a program participant's address or
+31 telephone number has been IS disclosed PURSUANT TO THIS PARAGRAPH shall
+32 not disclose the address or telephone number to any other person unless
+33 permitted ALLOWED to do so by order of the court or as otherwise provided
+34 by law.
+35 2. The secretary of state grants a request by a state or local
+36 government entity pursuant to section 41-167, subsection D.
+37 B. The secretary of state shall provide immediate notification of
+38 disclosure to a program participant if disclosure is made pursuant to
+39 subsection A of this section.
+40 C. If, at the time of application, an applicant or an individual
+41 identified pursuant to section 41-163, subsection C, paragraph 10 is
+42 subject to a court order related to dissolution of marriage proceedings,
+43 child support or the allocation of parental responsibilities or parenting
+44 time, the secretary of state shall notify the court that issued the order
+45 of the certification of the program participant in the address
+46 confidentiality program and the substitute address designated by the
+47 secretary of state. If, at the time of application, an applicant or an
+-7-
+
+Senate Amendments to H.B. 2594
+1 individual identified pursuant to section 41-163, subsection C, paragraph
+2 10 is involved in a court action related to dissolution of marriage
+3 proceedings, child support or the allocation of parental responsibilities
+4 or parenting time, the secretary of state shall notify the court having
+5 jurisdiction over the action of the certification of the applicant in the
+6 address confidentiality program and the substitute address designated by
+7 the secretary of state.
+8 D. A person shall not intentionally or knowingly obtain OR ATTEMPT
+9 TO OBTAIN a program participant's actual address or telephone number,
+10 WHETHER from the secretary of state or a state or local government entity,
+11 OR BY ANY OTHER MEANS, knowing that the person is not authorized to obtain
+12 the address information.
+13 E. An employee of the secretary of state or a state or local
+14 government entity shall not intentionally or knowingly disclose a program
+15 participant's actual address or telephone number unless the disclosure is
+16 permissible by law. This subsection only applies ONLY if an employee
+17 obtains a program participant's actual address or telephone number during
+18 the course of the employee's official duties and, at the time of
+19 disclosure, the employee has specific knowledge that the actual address or
+20 telephone number disclosed belongs to a program participant.
+21 F. Any person who intentionally or knowingly obtains OR ATTEMPTS TO
+22 OBTAIN or discloses information in violation of this section is guilty of
+23 a class 1 misdemeanor. ANY PERSON WHO INTENTIONALLY OR KNOWINGLY OBTAINS
+24 OR ATTEMPTS TO OBTAIN OR DISCLOSES INFORMATION IN VIOLATION OF THIS
+25 SECTION FOR THE PURPOSE OF HARASSMENT, STALKING OR DOMESTIC VIOLENCE
+26 AGAINST A PARTY TO A MATTER THAT IS BROUGHT PURSUANT TO TITLE 25 IS GUILTY
+27 OF A CLASS 6 FELONY. IF THE CONDUCT INVOLVES SURVEILLANCE OF A MINOR, USE
+28 OF A THIRD PARTY OR REPEATED ATTEMPTS, THE PERSON IS GUILTY OF A CLASS 5
+29 FELONY.
+30 <<Sec. 6. Section 41-166, Arizona Revised Statutes, is amended to
+31 read:
+32 41-166. Address use by state or local government entities
+33 A. The program participant, and not the secretary of state, is
+34 responsible for requesting that a state or local government entity use the
+35 program participant's substitute address as the program participant's
+36 residential, work or school address for all purposes for which the state
+37 or local government entity requires or requests the residential, work or
+38 school address.
+39 B. Except as otherwise provided in this section or unless the
+40 secretary of state grants a state or local government entity's request for
+41 disclosure pursuant to section 41-167, if a program participant submits a
+42 current and valid address confidentiality program authorization card to
+43 the state or local government entity, the state or local government entity
+44 shall accept the substitute address designation on the card as the program
+45 participant's address for use as the program participant's residential,
+46 work or school address when creating a new public record. The substitute
+47 address given to the state or local government entity is considered the
+-8-
+
+Senate Amendments to H.B. 2594
+1 last known address for the program participant used by the state or local
+2 government entity until the time that the state or local government entity
+3 receives notification pursuant to section 41-164. The state or local
+4 government entity may make a photocopy of the card for the records of the
+5 state or local government entity and shall immediately return the card to
+6 the program participant.
+7 C. Except as otherwise provided in this section or by order of the
+8 court, if a program participant submits a current and valid address
+9 confidentiality program authorization card to the court, the court shall
+10 accept the substitute address designation on the card as the program
+11 participant's address for use as the program participant's residential,
+12 work or school address. The substitute address given to the court is
+13 considered the last known address for the program participant used by the
+14 court until the time that the court receives notification pursuant to
+15 section 41-164. The court may make a photocopy of the card for the court
+16 file and shall return the card to the program participant.
+17 D. When a person with an existing voter registration record becomes
+18 a program participant, the secretary of state shall secure the
+19 participant's voter registration record and notify the appropriate county
+20 recorder of the participant's secured status, current residence address
+21 and substitute address for the county recorder to revise the participant's
+22 voter registration record so that the participant's address can be kept
+23 confidential in the same manner as prescribed by section 16-153. A
+24 program participant who is not already registered to vote may register to
+25 vote using the substitute address and must provide the election official
+26 with the participant's actual residence address for precinct designation
+27 purposes. If the participant registers to vote other than online or at a
+28 driver license examination facility, the participant shall present a
+29 completed voter registration form with the participant's substitute
+30 address and address confidentiality program card to the appropriate
+31 election official. [ON THE RENEWAL OF THE CERTIFICATION OF A PROGRAM
+32 PARTICIPANT IN THE ADDRESS CONFIDENTIALITY PROGRAM, THE COUNTY RECORDER
+33 SHALL CONTINUE OR RENEW THE SEALING OF THE VOTER REGISTRATION RECORD OF
+34 THE PERSON WHO IS PROTECTED AND, ON REQUEST, ANY OTHER REGISTERED VOTER
+35 WHO RESIDES AT THE RESIDENCE ADDRESS OF THE PROTECTED PERSON. THE VOTER
+36 REGISTRATION RECORD OF A PROGRAM PARTICIPANT IN THE ADDRESS
+37 CONFIDENTIALITY PROGRAM SHALL REMAIN SEALED AFTER THE DEATH OF THE PROGRAM
+38 PARTICIPANT.]
+39 E. A designated election official shall use the actual address of a
+40 program participant for precinct designation and all official
+41 election-related purposes and shall keep the program participant's actual
+42 address confidential from the public. The election official shall use the
+43 substitute address for all correspondence and mailings placed in the
+44 United States mail. The substitute address shall not be used as an actual
+45 residence address for voter registration.
+-9-
+
+Senate Amendments to H.B. 2594
+1 F. A state or local government entity's access to a program
+2 participant's voter registration shall be governed by the disclosure
+3 process set forth in section 41-167.
+4 G. A program participant who completes an application to register
+5 to vote at a driver license examination facility while receiving a driver
+6 license or an identification card is required to have the program
+7 participant's actual address on the driver license or identification card.
+8 A program participant whose driver license has the substitute address may
+9 register to vote, if otherwise eligible, pursuant to subsection E of this
+10 section.
+11 H. The substitute address shall not be used for purposes of
+12 listing, appraising or assessing property taxes and collecting property
+13 taxes. If a program participant would like to keep records maintained by
+14 the county assessor and county treasurer confidential, the program
+15 participant shall comply with section 11-484.
+16 I. If a program participant is required by law to swear or affirm
+17 to the program participant's address, the program participant may use the
+18 participant's substitute address.
+19 J. The substitute address shall not be used for purposes of
+20 assessing any taxes or fees on a motor vehicle or for titling or
+21 registering a motor vehicle. Notwithstanding any law to the contrary, any
+22 record that includes a program participant's actual address pursuant to
+23 this subsection shall be confidential and not available for inspection by
+24 anyone other than the program participant.
+25 K. The substitute address shall not be used on any document related
+26 to real property recorded with a recorder. If a program participant would
+27 like to keep real property records confidential, the program participant
+28 shall comply with section 11-483.
+29 L. A public school shall accept the substitute address as the
+30 address of record and shall verify student enrollment eligibility through
+31 the secretary of state. The secretary of state shall facilitate the
+32 transfer of student records from one school to another.
+33 M. Except as otherwise provided in this section, a program
+34 participant's actual address and telephone number maintained by a state or
+35 local government entity or disclosed by the secretary of state is not a
+36 public record that is subject to inspection. This subsection shall not
+37 apply to the following:
+38 1. Any public record created more than ninety days before the date
+39 that the program participant applied to be certified in the program.
+40 2. A program participant who voluntarily requests that a state or
+41 local government entity use the participant's actual address or
+42 voluntarily gives the actual address to the state or local government
+43 entity.
+44 N. For any public record created within ninety days before the date
+45 that a program participant applied to be certified in the program, a state
+46 or local government entity shall redact the actual address from a public
+47 record or change the actual address to the substitute address in the
+-10-
+
+Senate Amendments to H.B. 2594
+1 public record, if a program participant who presents a current and valid
+2 program authorization card requests the entity that maintains the public
+3 record to use the substitute address instead of the actual address on the
+4 public record.>>
+5
+6 Enroll and engross to conform
+7 Amend title to conform
+2594FINCHEM.docx
+03/19/2026
+04:53 PM
+C: LAT
+130XQIPEV
+2594FFL.docx
+03/20/2026
+11:50 AM
+S: AN/hk
+130XQIPEV
+-11-

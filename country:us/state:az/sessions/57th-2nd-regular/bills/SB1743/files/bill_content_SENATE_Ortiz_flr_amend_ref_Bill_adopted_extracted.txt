@@ -1,0 +1,135 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Ortiz flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1743
+Ortiz Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Removes the requirement that a filing officer redact an individual contributor’s employer from a
+campaign finance report.
+2. Removes the $1,000 liability for a filing officer that improperly discloses an individual
+contributor’s street number and name or precise residence location.
+3. Requires a filing officer that improperly discloses an individual contributor’s street number and
+name or precise residence location to remove the information from the publicly available source
+within 10 business days after receipt of written notice.
+4. Requires written notice to be sent by certified mail to the filing officer.
+5. Classifies failure by a filing officer to remove an individual contributor’s precise residence
+location, street number or street name within ten business days of written notice, rather than the
+knowing disclosure of such information by a filing officer, as a class 1 misdemeanor.
+6. Applies these new requirements for filing officers and campaign finance reports to filing periods
+beginning on or after April 1, 2027.
+Amendment explanation prepared by Zach Dean
+03/03/2026
+
+Fifty-seventh Legislature Ortiz
+Second Regular Session S.B. 1743
+ORTIZ FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1743
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 16-928, Arizona Revised Statutes, is amended to
+3 read:
+4 16-928. Filing officer; statements and reports
+5 A. A person that is required to file any statements and reports
+6 required by this article and articles 1, 1.1, 1.2, 1.3, 1.5, 1.6 and 1.7
+7 of this chapter shall file with the filing officer in charge of that
+8 election, as follows:
+9 1. The secretary of state is the filing officer for statewide and
+10 legislative elections, including retention elections for supreme court
+11 justices and court of appeals judges. The secretary of state is also the
+12 filing officer for committees that support or oppose a recall election or
+13 the circulation of a petition for a recall election for a statewide or
+14 legislative officeholder, for committees that support or oppose a
+15 statewide initiative or referendum or other statewide ballot measure,
+16 question or proposition or the circulation of a petition for a statewide
+17 initiative or referendum or other statewide ballot measure, question or
+18 proposition.
+19 2. The county officer in charge of elections is the filing officer
+20 for county, school district, community college district and special taxing
+21 district elections, including retention elections for superior court
+22 judges. The county officer in charge of elections is also the filing
+23 officer for committees that support or oppose a recall election or the
+24 circulation of a petition for a recall election for an officeholder of a
+
+Senate Amendments to S.B. 1743
+1 county office, a school district governing board office, a community
+2 college district governing board office or a special taxing district
+3 governing board office, for committees that support or oppose a county,
+4 school district, community college district or special taxing district
+5 initiative or referendum or other ballot measure, question or proposition,
+6 including bond, tax, budget and budget override measures or that oppose or
+7 support the circulation of a petition for a county, school district,
+8 community college district or special taxing district initiative or
+9 referendum or other county, school district, community college district or
+10 special taxing district ballot measure, question or proposition.
+11 3. The city or town clerk is the filing officer for city and town
+12 elections. The city or town clerk is also the filing officer for
+13 committees that support or oppose a recall election or the circulation of
+14 a petition for a recall election for a city or town officeholder, for
+15 committees that support or oppose a city or town initiative or referendum
+16 or other city or town ballot measure, question or proposition or the
+17 circulation of a petition for a city or town initiative or referendum or
+18 other city ballot measure, question or proposition.
+19 B. Notwithstanding subsection A of this section, a standing
+20 committee shall file reports only with the secretary of state.
+21 C. A filing officer shall provide the option for electronic filing
+22 and shall make all statements and reports publicly available on the
+23 internet. A filing officer may comply with this section by opting into
+24 the secretary of state's electronic filing system.
+25 D. [FOR FILING PERIODS THAT BEGIN ON OR AFTER APRIL 1, 2027,] ON
+26 RECEIVING A CAMPAIGN FINANCE REPORT AND BEFORE MAKING IT PUBLICLY
+27 AVAILABLE, THE FILING OFFICER SHALL REDACT FROM THE LISTED INDIVIDUAL
+28 CONTRIBUTORS' INFORMATION THE [INDIVIDUAL'S EMPLOYER AND THE] INDIVIDUAL'S
+29 STREET NUMBER AND STREET NAME OR, FOR AN INDIVIDUAL WHO PROVIDES A
+30 RESIDENCE LOCATION, SHALL REDACT THE INDIVIDUAL'S PRECISE RESIDENCE
+31 LOCATION. THE INFORMATION PRESCRIBED BY THIS SUBSECTION MAY NOT BE
+32 DISCLOSED IN ANY MANNER AND IS NOT A PUBLIC RECORD.
+33 Sec. 2. Title 16, chapter 6, article 1.4, Arizona Revised Statutes,
+34 is amended by adding section 16-929, to read:
+35 16-929. Information disclosure; violation; classification
+36 [A.] [FOR FILING PERIODS THAT BEGIN ON OR AFTER APRIL 1, 2027, IF]
+37 A FILING OFFICER [WHO] IMPROPERLY DISCLOSES AN INDIVIDUAL'S STREET NUMBER
+38 AND STREET NAME OR, FOR AN INDIVIDUAL WHO PROVIDES A RESIDENCE LOCATION,
+39 THE PRECISE RESIDENCE LOCATION [OR AN INDIVIDUAL'S EMPLOYER] IN A CAMPAIGN
+-2-
+
+Senate Amendments to S.B. 1743
+1 FINANCE REPORT IN VIOLATION OF SECTION 16-928 [IS LIABLE TO THE INDIVIDUAL
+2 FOR EACH IMPROPERLY DISCLOSED REPORT IN AN AMOUNT OF $1,000.
+3 B. A STATE, COUNTY OR OTHER LOCAL OFFICER OR EMPLOYEE WHO HAS
+4 CUSTODY OF OR ACCESS TO THE INFORMATION PRESCRIBED BY SUBSECTION A OF THIS
+5 SECTION AND WHO KNOWINGLY DISCLOSES THAT INFORMATION TO THE PUBLIC IN
+6 VIOLATION OF SECTION 16-928] [, SUBSECTION D, THE FILING OFFICER SHALL
+7 REMOVE THE INFORMATION FROM THE PUBLICLY AVAILABLE SOURCE THAT IS
+8 CONTROLLED OR OPERATED BY THE FILING OFFICER WITHIN TEN BUSINESS DAYS
+9 AFTER RECEIPT OF A WRITTEN NOTICE TO REDACT THE INFORMATION. THE WRITTEN
+10 NOTICE SHALL BE SENT BY CERTIFIED MAIL TO THE FILING OFFICER. A FILING
+11 OFFICER WHO FAILS TO REMOVE OR REDACT THE INFORMATION WITHIN TEN BUSINESS
+12 DAYS AFTER RECEIPT OF THE NOTICE TO REDACT] IS GUILTY OF A CLASS 1
+13 MISDEMEANOR.
+14 Enroll and engross to conform
+15 Amend title to conform
+ANALISE ORTIZ
+1743FloorORTIZ.docx
+03/03/2026
+12:08 PM
+C: MR
+130DXDYPS
+-3-

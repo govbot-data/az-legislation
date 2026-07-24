@@ -1,0 +1,197 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Biasiucci - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 4109: safety; school procedures; criminal classification
+BIASIUCCI FLOOR AMENDMENT
+1. Stipulates the public safety policy must require the superintendent to provide
+written notification as specified to students' parents and school employees
+within 24 hours of any incident involving life-threatening violence, a threat of
+life-threatening violence or a threat of violence involving a deadly weapon or
+dangerous instrument that occurs in connection with the school district.
+2. Asserts the written notification requirements do not require or authorize the
+superintendent to disclose personally identifiable information about a student
+involved in an incident.
+3. Details notification requirements for a superintendent if a law enforcement
+officer who responds to an incident notifies the school district that disclosure
+might materially compromise a pending criminal investigation or prosecution.
+4. Authorizes a superintendent to designate school administrators at each school
+campus who are responsible for confiscating any dangerous instrument or
+deadly weapon possessed by a person on school property as prescribed.
+5. Removes the felonies for a superintendent and instead makes a superintendent
+who knowingly or intentionally violates the written notification requirements
+without good cause guilty of a class 1 misdemeanor.
+6. Removes the felonies for school district governing board members and instead
+makes governing board members guilty of a class 1 misdemeanor if the
+governing board violates public safety policy requirements as outlined.
+7. Allows a school district governing board to satisfy public safety policy
+requirements by adopting an emergency response plan that includes the public
+safety policy requirements.
+8. Requires each school district to annually compile and post a public safety
+report on its website that includes specified information.
+9. Specifies a school district is not required to include any information from any
+school year that begins before the general effective date in the required annual
+public safety report.
+10. Adds legislative findings.
+11. Cites this legislation as Michael's Law.
+CH
+3/3/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Biasiucci
+Second Regular Session H.B. 4109
+BIASIUCCI FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 4109
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 15, chapter 1, article 5, Arizona Revised
+3 Statutes, is amended by adding section 15-160.05, to read:
+4 15-160.05. Public safety policy; school districts;
+5 requirements; notifications; annual report;
+6 posting requirement; violations; classification;
+7 definitions
+8 A. EACH SCHOOL DISTRICT GOVERNING BOARD SHALL ADOPT A PUBLIC SAFETY
+9 POLICY THAT:
+10 1. CLEARLY PRESCRIBES PUBLIC SAFETY PROCEDURES AND PROTOCOLS.
+11 2. DESIGNATES THE SCHOOL DISTRICT SUPERINTENDENT AS THE
+12 ADMINISTRATOR WHO IS RESPONSIBLE FOR IMPLEMENTING THE PUBLIC SAFETY
+13 POLICY.
+14 3. REQUIRES THE SCHOOL DISTRICT SUPERINTENDENT TO DO ALL OF THE
+15 FOLLOWING:
+16 (a) [NOTIFY] [PROVIDE WRITTEN NOTIFICATION TO] STUDENTS'
+17 PARENTS[, ] [AND] SCHOOL EMPLOYEES [AND THE COMMUNITY OF] [NOT LATER THAN
+18 TWENTY-FOUR HOURS AFTER] ANY INCIDENT INVOLVING [A THREAT TO PUBLIC
+19 SAFETY,] LIFE-THREATENING VIOLENCE[,] [OR] A THREAT OF LIFE-THREATENING
+20 VIOLENCE [OR A THREAT OF VIOLENCE INVOLVING A DEADLY WEAPON OR DANGEROUS
+21 INSTRUMENT] THAT OCCURS IN CONNECTION WITH THE SCHOOL DISTRICT. [A
+22 NOTIFICATION PURSUANT TO THIS SUBDIVISION MUST INCLUDE INFORMATION ABOUT
+23 THE NATURE OF THE INCIDENT AND THE SCHOOL'S RESPONSE. THIS SUBDIVISION
+24 DOES NOT REQUIRE OR AUTHORIZE THE SCHOOL DISTRICT SUPERINTENDENT TO
+25 DISCLOSE PERSONALLY IDENTIFIABLE INFORMATION ABOUT A STUDENT WHO IS
+26 INVOLVED IN AN INCIDENT. IF A LAW ENFORCEMENT OFFICER WHO RESPONDS TO AN
+
+House Amendments to H.B. 4109
+1 INCIDENT DESCRIBED IN THIS SUBDIVISION NOTIFIES THE SCHOOL DISTRICT THAT
+2 DISCLOSURE MIGHT MATERIALLY COMPROMISE A PENDING CRIMINAL INVESTIGATION OR
+3 PROSECUTION, THE SUPERINTENDENT SHALL:
+4 (i) REQUEST FROM THE LAW ENFORCEMENT AGENCY THAT IS RESPONSIBLE FOR
+5 THE CRIMINAL INVESTIGATION A WRITTEN REQUEST THAT THE SCHOOL DISTRICT
+6 DELAY DISCLOSURE.
+7 (ii) PROVIDE THE WRITTEN NOTIFICATION REQUIRED BY THIS SUBDIVISION
+8 AS SOON AS PRACTICABLE ON RECEIPT OF NOTIFICATION THAT THE INVESTIGATION
+9 IS COMPLETE.]
+10 (b) IMMEDIATELY NOTIFY A LAW ENFORCEMENT OFFICER IF THE SCHOOL
+11 DISTRICT SUPERINTENDENT IS NOTIFIED OF OR PERSONALLY OBSERVES AN INCIDENT
+12 INVOLVING LIFE-THREATENING VIOLENCE, A THREAT OF LIFE-THREATENING VIOLENCE
+13 OR A THREAT OF VIOLENCE INVOLVING A DEADLY WEAPON OR DANGEROUS INSTRUMENT.
+14 THIS SUBDIVISION DOES NOT LIMIT OR PRECLUDE THE REPORTING BY A SCHOOL
+15 DISTRICT OR AN EMPLOYEE OF A SCHOOL DISTRICT OF A SUSPECTED CRIME PURSUANT
+16 TO SECTION 15-341, SUBSECTION A, PARAGRAPH 30 OR SCHOOL DISTRICT POLICIES.
+17 (c) CONFISCATE [A ] [OR DESIGNATE ONE OR MORE SCHOOL ADMINISTRATORS
+18 AT EACH CAMPUS WHO ARE RESPONSIBLE FOR CONFISCATING ANY] DANGEROUS
+19 INSTRUMENT OR DEADLY WEAPON THAT IS POSSESSED BY ANY PERSON ON SCHOOL
+20 PROPERTY IN VIOLATION OF SCHOOL POLICIES OR THAT IS USED IN CONNECTION
+21 WITH AN INCIDENT DESCRIBED IN SUBDIVISION (a) OR (b) OF THIS PARAGRAPH
+22 UNTIL A LAW ENFORCEMENT OFFICER IS ABLE TO TAKE CUSTODY OF THE DANGEROUS
+23 INSTRUMENT OR DEADLY WEAPON.
+24 (d) NOTIFY A LAW ENFORCEMENT OFFICER THAT THE SCHOOL DISTRICT
+25 SUPERINTENDENT CONFISCATED A DANGEROUS INSTRUMENT OR DEADLY WEAPON
+26 PURSUANT TO SUBDIVISION (c) OF THIS PARAGRAPH AS SOON AS PRACTICABLE
+27 FOLLOWING THE CONFISCATION.
+28 B. A SCHOOL DISTRICT MAY NOT TAKE ANY RETALIATORY ACTION AGAINST AN
+29 EMPLOYEE, A STUDENT'S PARENT, A STUDENT, AN AGENT OF THIS STATE OR ANY
+30 OTHER PERSON FOR REPORTING A VIOLATION OF THIS SECTION.
+31 [C. EACH SCHOOL DISTRICT SHALL ANNUALLY COMPILE AND POST A PUBLIC
+32 SAFETY REPORT ON THE SCHOOL DISTRICT'S WEBSITE THAT INCLUDES ALL OF THE
+33 FOLLOWING INFORMATION:
+34 1. THE NUMBER OF LOCKDOWNS, SHELTER-IN-PLACE EVENTS AND EVACUATIONS
+35 THAT OCCURRED DURING EACH OF THE THREE IMMEDIATELY PRECEDING SCHOOL YEARS.
+36 2. THE NUMBER OF INCIDENTS INVOLVING A DEADLY WEAPON OR DANGEROUS
+37 INSTRUMENT THAT OCCURRED IN CONNECTION WITH THE SCHOOL DISTRICT DURING
+38 EACH OF THE THREE IMMEDIATELY PRECEDING SCHOOL YEARS.
+39 3. THE NUMBER OF INCIDENTS THAT THE SCHOOL DISTRICT SUPERINTENDENT
+40 REFERRED TO A LAW ENFORCEMENT OFFICER DURING EACH OF THE THREE IMMEDIATELY
+41 PRECEDING SCHOOL YEARS.
+42 4. A SUMMARY OF THE PUBLIC SAFETY POLICY ADOPTED PURSUANT TO
+43 SUBSECTION A OF THIS SECTION AND A DESCRIPTION OF THE IMPLEMENTATION OF
+44 THE POLICY.]
+-2-
+
+House Amendments to H.B. 4109
+1 [C.] [D.] A SCHOOL DISTRICT SUPERINTENDENT WHO [KNOWINGLY OR
+2 INTENTIONALLY] VIOLATES THE REQUIREMENTS PRESCRIBED IN SUBSECTION A,
+3 PARAGRAPH 3 OF THIS SECTION[:
+4 1.] [WITHOUT GOOD CAUSE] IS GUILTY OF A CLASS [6 FELONY IF THE
+5 VIOLATION DOES NOT RESULT IN PHYSICAL INJURY] [1 MISDEMEANOR].
+6 [2. IS GUILTY OF A CLASS 4 FELONY IF THE VIOLATION RESULTS IN
+7 PHYSICAL INJURY.]
+8 [D.] [E.] IF A SCHOOL DISTRICT GOVERNING BOARD FAILS TO ADOPT A
+9 PUBLIC SAFETY POLICY THAT MEETS THE REQUIREMENTS PRESCRIBED BY SUBSECTION
+10 A OF THIS SECTION OR IF THE SCHOOL DISTRICT GOVERNING BOARD OR ANY
+11 EMPLOYEE OF THE SCHOOL DISTRICT VIOLATES SUBSECTION B OF THIS SECTION,
+12 EACH MEMBER OF THE SCHOOL DISTRICT GOVERNING BOARD[:
+13 1. IS GUILTY OF A CLASS 6 FELONY IF THE VIOLATION DOES NOT RESULT
+14 IN PHYSICAL INJURY.
+15 2.] IS GUILTY OF A CLASS [4 felony if the violation results in
+16 physical injury] [1 MISDEMEANOR].
+17 [F. A SCHOOL DISTRICT GOVERNING BOARD MAY SATISFY THE REQUIREMENTS
+18 PRESCRIBED BY SUBSECTION A OF THIS SECTION BY ADOPTING AN EMERGENCY
+19 RESPONSE PLAN PURSUANT TO SECTION 15-341, SUBSECTION A, PARAGRAPH 31 THAT
+20 INCLUDES THE REQUIREMENTS PRESCRIBED BY SUBSECTION A OF THIS SECTION.]
+21 [E.] [G.] FOR THE PURPOSES OF THIS SECTION, "DANGEROUS INSTRUMENT"
+22 AND "DEADLY WEAPON" HAVE THE SAME MEANINGS PRESCRIBED IN SECTION 13-105.
+23 <<Sec. 2. Implementation
+24 [A school district is not required to include information from any
+25 school year that begins before the effective date of this act in the
+26 annual public safety report required by section 15-160.05, subsection C,
+27 Arizona Revised Statutes, as added by this act.]>>
+28 <<Sec. 3. Legislative findings
+29 [The legislature finds that:
+30 1. A school district's timely notification to students' parents and
+31 school employees of incidents that involve life-threatening violence,
+32 threats of life-threatening violence or threats that involve a deadly
+33 weapon or dangerous instrument as defined in section 13-105, Arizona
+34 Revised Statutes, is essential to protect student safety.
+35 2. A school district's escalation of incidents that involve a
+36 deadly weapon or dangerous instrument as defined in section 13-105,
+37 Arizona Revised Statutes, to law enforcement officers is ministerial and
+38 not discretionary.
+39 3. A school district official's knowing or intentional failure to
+40 comply with escalation or notification requirements for public safety
+41 incidents endangers students and undermines public trust.
+42 4. Criminal classification is appropriate when a school district
+43 official knowingly or intentionally fails to perform the official's public
+44 safety duties as prescribed by law.]>>
+-3-
+
+House Amendments to H.B. 4109
+1 <<Sec. 4. Short title
+2 [This act may be cited as "Michael's Law".]>>
+3 Enroll and engross to conform
+4 Amend title to conform
+LEO BIASIUCCI
+4109FloorBIASIUCCI.docx
+03/06/2026
+03:04 PM
+C: VS
+130JXHNZE
+-4-

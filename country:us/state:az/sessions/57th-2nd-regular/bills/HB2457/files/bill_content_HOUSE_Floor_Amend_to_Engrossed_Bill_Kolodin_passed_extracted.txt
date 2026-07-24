@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Engrossed Bill - Kolodin - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2457: public utilities; plant construction; colocation
+KOLODIN FLOOR AMENDMENT
+1. Removes the requirement for the Arizona Corporation Commission to adopt
+rules for specifically outlined definitions.
+TM
+3/3/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Kolodin
+Second Regular Session H.B. 2457
+ADDITIONAL COW
+KOLODIN FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2457
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 40, chapter 2, article 6.2, Arizona Revised
+3 Statutes, is amended by adding section 40-360.14, to read:
+4 40-360.14. Exemption; new plants colocated with extra high
+5 load factor customers
+6 [A.] NOTWITHSTANDING SECTIONS 40-360.03 AND 40-360.07, A UTILITY,
+7 AFTER PROVIDING THIRTY DAYS' WRITTEN NOTICE TO THE COMMISSION AND HOLDING
+8 AT LEAST ONE PUBLIC COMMENT SESSION IN THE COUNTY WHERE THE RELEVANT PLANT
+9 IS LOCATED, MAY CONSTRUCT A NEW PLANT WITHOUT FILING FOR OR RECEIVING A
+10 CERTIFICATE OF ENVIRONMENTAL COMPATIBILITY FOR THE NEW PLANT IF ALL OF THE
+11 FOLLOWING CONDITIONS ARE MET:
+12 1. THE NEW PLANT IS COLOCATED WITH AN EXTRA HIGH LOAD FACTOR
+13 CUSTOMER AND THE EXTRA HIGH LOAD FACTOR CUSTOMER HAS RECEIVED ALL
+14 APPLICABLE ZONING ENTITLEMENTS.
+15 2. THE UTILITY IS A PUBLIC SERVICE CORPORATION OR PUBLIC POWER
+16 ENTITY DOING BUSINESS IN THIS STATE.
+17 [B. THE COMMISSION SHALL ADOPT RULES TO IMPLEMENT THIS SECTION THAT
+18 INCLUDE A DEFINITION FOR EACH OF THE FOLLOWING TERMS:
+19 1. COLOCATED WITH. THE COMMISSION'S DEFINITION MUST SPECIFY ONE OR
+20 BOTH OF THE FOLLOWING:
+21 (a) THE DISTANCE IN FEET OR PARCELS BETWEEN THE SITE OF AN EXTRA
+22 HIGH LOAD FACTOR CUSTOMER AND THE SITE OF A PLANT.
+23 (b) THE QUALITY OR NATURE OF THE ELECTRICAL INTERCONNECTION BETWEEN
+24 THE EXTRA HIGH LOAD FACTOR CUSTOMER AND THE PLANT.
+25 2. EXTRA HIGH LOAD FACTOR CUSTOMER. THE COMMISSION'S DEFINITION:
+26 (a) MUST SPECIFY THE PEAK OR AVERAGE ANNUAL OR MONTHLY ENERGY
+27 DEMAND OF THE USER THAT IS MEASURED IN MEGAWATTS OR MEGAWATT HOURS.
+
+House Amendments to H.B. 2457
+1 (b) MAY NOT DISCRIMINATE BETWEEN DIFFERENT:
+2 (i) INDUSTRIES, SECTORS OR END USERS AND THE OWNERS OR OPERATORS OF
+3 END USERS OR THE PROPOSED LOCATIONS OF END USERS.
+4 (ii) END USERS IN ANY OTHER CAPACITY BEYOND THE USE OF ENERGY
+5 DEMAND AND OTHER ELECTRICAL-RELATED OPERATING NEEDS OR CHARACTERISTICS.
+6 C. THE COMMISSION MAY ADOPT DEFINITIONS FOR ANY OTHER TERMS THE
+7 COMMISSION DEEMS REASONABLE OR NECESSARY TO IMPLEMENT THIS SECTION.]
+8 Enroll and engross to conform
+9 Amend title to conform
+ALEXANDER KOLODIN
+2457FloorKOLODIN.docx
+03/03/2026
+08:43 AM
+H: CW/ls
+130OOLBLO
+-2-

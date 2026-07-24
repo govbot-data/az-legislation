@@ -1,0 +1,336 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Government
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON GOVERNMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2041
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 8-201, Arizona Revised Statutes, is amended to
+3 read:
+4 8-201. Definitions
+5 In this title, unless the context otherwise requires:
+6 1. "Abandoned" means the failure of the parent to provide
+7 reasonable support and to maintain regular contact with the child,
+8 including providing normal supervision. Abandoned includes a judicial
+9 finding that a parent has made only minimal efforts to support and
+10 communicate with the child. Failure to maintain a normal parental
+11 relationship with the child without just cause for a period of six months
+12 constitutes prima facie evidence of abandonment.
+13 2. "Abuse":
+14 (a) Means the infliction or allowing of physical injury, impairment
+15 of bodily function or disfigurement or the infliction of or allowing
+16 another person to cause serious emotional damage as evidenced by severe
+17 anxiety, depression, withdrawal or untoward aggressive behavior and which
+18 emotional damage is diagnosed by a medical doctor or psychologist and is
+19 caused by the acts or omissions of an individual who has the care, custody
+20 and control of a child, including an employee of a child welfare agency
+21 where a child is placed that is licensed by and contracted with the
+22 department.
+23 (b) Includes:
+24 (i) Inflicting or allowing sexual abuse pursuant to section
+25 13-1404, sexual conduct with a minor pursuant to section 13-1405, sexual
+26 assault pursuant to section 13-1406, molestation of a child pursuant to
+27 section 13-1410, commercial sexual exploitation of a minor pursuant to
+28 section 13-3552, sexual exploitation of a minor pursuant to section
+
+House Amendments to H.B. 2041
+1 13-3553, incest pursuant to section 13-3608 or child sex trafficking
+2 pursuant to section 13-3212.
+3 (ii) Physical injury that results from allowing a child to enter or
+4 remain in any structure or vehicle in which volatile, toxic or flammable
+5 chemicals are found or equipment is possessed by any person for the
+6 purpose of manufacturing a dangerous drug as defined in section 13-3401.
+7 (iii) Unreasonable confinement of a child.
+8 3. "Adult" means a person who is eighteen years of age or older.
+9 4. "Adult court" means the appropriate justice court, municipal
+10 court or criminal division of the superior court that has jurisdiction to
+11 hear proceedings concerning offenses committed by juveniles as provided in
+12 sections 8-327 and 13-501.
+13 5. "Award" or "commit" means to assign legal custody.
+14 6. "Child", "youth" or "juvenile" means an individual who is under
+15 eighteen years of age.
+16 7. "Complaint" means a written statement of the essential facts
+17 constituting a public offense that is any of the following:
+18 (a) Made on an oath before a judge or commissioner of the superior
+19 court or an authorized juvenile hearing officer.
+20 (b) Made pursuant to section 13-3903.
+21 (c) Accompanied by an affidavit of a law enforcement officer or
+22 employee that swears on information and belief to the accuracy of the
+23 complaint pursuant to section 13-4261.
+24 8. "Criminal conduct allegation" means an allegation of conduct by
+25 a parent, guardian or custodian of a child or an adult member of the
+26 victim's household that, if true, would constitute any of the following:
+27 (a) A violation of section 13-3623 involving child abuse.
+28 (b) A felony offense that constitutes domestic violence as defined
+29 in section 13-3601.
+30 (c) A violation of section 13-1404 or 13-1406 involving a minor.
+31 (d) A violation of section 13-1405, 13-1410 or 13-1417.
+32 (e) Any other act of abuse that is classified as a felony.
+33 (f) An offense that constitutes domestic violence as defined in
+34 section 13-3601 and that involves a minor who is a victim of or was in
+35 imminent danger during the domestic violence.
+36 9. "Custodian" means a person, other than a parent or legal
+37 guardian, who stands in loco parentis to the child or a person to whom
+38 legal custody of the child has been given by order of the juvenile court.
+39 10. "DCS report" means a communication received by the centralized
+40 intake hotline that alleges child abuse or neglect and that meets the
+41 criteria for a report as prescribed in section 8-455.
+42 11. "Delinquency hearing" means a proceeding in the juvenile court
+43 to determine whether a juvenile has committed a specific delinquent act as
+44 set forth in a petition.
+45 12. "Delinquent act" means an act by a juvenile that if committed
+46 by an adult would be a criminal offense or a petty offense, a violation of
+47 any law of this state, or of another state if the act occurred in that
+-2-
+
+House Amendments to H.B. 2041
+1 state, or a law of the United States, or a violation of any law that can
+2 only be violated by a minor and that has been designated as a delinquent
+3 offense, or any ordinance of a city, county or political subdivision of
+4 this state defining crime. Delinquent act does not include an offense
+5 under section 13-501, subsection A or B if the offense is filed in adult
+6 court. Any juvenile who is prosecuted as an adult or who is remanded for
+7 prosecution as an adult shall not be adjudicated as a delinquent juvenile
+8 for the same offense.
+9 13. "Delinquent juvenile" means a child who is adjudicated to have
+10 committed a delinquent act.
+11 14. "Department" means the department of child safety.
+12 15. "Dependent child":
+13 (a) Means a child who is adjudicated to be:
+14 (i) In need of proper and effective parental care and control and
+15 who has no parent or guardian, or one who has no parent or guardian
+16 willing to exercise or capable of exercising such care and control.
+17 (ii) Destitute or who is not provided with the necessities of life,
+18 including adequate food, clothing, shelter or medical care.
+19 (iii) A child whose home is unfit by reason of abuse, neglect,
+20 cruelty or depravity by a parent, a guardian or any other person having
+21 custody or care of the child.
+22 (iv) Under eight years of age and who is found to have committed an
+23 act that would result in adjudication as a delinquent juvenile or
+24 incorrigible child if committed by an older juvenile or child.
+25 (v) Incompetent or not restorable to competency and who is alleged
+26 to have committed a serious offense as defined in section 13-706.
+27 (b) Does not include a child who in good faith is being furnished
+28 Christian Science treatment by a duly accredited practitioner if none of
+29 the circumstances described in subdivision (a) of this paragraph exists.
+30 16. "Detention" means the temporary confinement of a juvenile who
+31 requires secure care in a physically restricting facility that is
+32 completely surrounded by a locked and physically secure barrier with
+33 restricted ingress and egress for the protection of the juvenile or the
+34 community pending court disposition or as a condition of probation.
+35 17. "Director" means the director of the department.
+36 18. "Health professional" has the same meaning prescribed in
+37 section 32-3201.
+38 19. "Incorrigible child" means a child who:
+39 (a) Is adjudicated as a child who refuses to obey the reasonable
+40 and proper orders or directions of a parent, guardian or custodian and who
+41 is beyond the control of that person.
+42 (b) Is habitually truant from school as defined in section 15-803,
+43 subsection C.
+44 (c) Is a runaway from the child's home or parent, guardian or
+45 custodian.
+-3-
+
+House Amendments to H.B. 2041
+1 (d) Habitually behaves in such a manner as to injure or endanger
+2 the morals or health of self or others.
+3 (e) Commits any act constituting an offense that can only be
+4 committed by a minor and that is not designated as a delinquent act.
+5 (f) Fails to obey any lawful order of a court of competent
+6 jurisdiction given in a noncriminal action.
+7 20. "Independent living program" includes a residential program
+8 with supervision of less than twenty-four hours a day.
+9 21. "Juvenile court" means the juvenile division of the superior
+10 court when exercising its jurisdiction over children in any proceeding
+11 relating to delinquency, dependency or incorrigibility.
+12 22. "Law enforcement officer" means a peace officer, sheriff,
+13 deputy sheriff, municipal police officer or constable.
+14 23. "Medical director of a mental health agency":
+15 (a) Means a psychiatrist, or A licensed physician experienced in
+16 psychiatric matters, who is designated in writing by the governing body of
+17 the MENTAL HEALTH agency as the person in charge of the medical services
+18 of the MENTAL HEALTH agency, or a psychiatrist designated by the governing
+19 body to act for the director.
+20 (b) Includes the superintendent of the state hospital.
+21 24. "Mental health agency" means any private or public facility
+22 that is licensed by this state as a mental health treatment agency, a
+23 psychiatric hospital, a psychiatric unit of a general hospital or a
+24 residential treatment center for emotionally disturbed children and that
+25 uses secure settings or mechanical restraints.
+26 25. "Neglect" or "neglected" means:
+27 (a) The inability or unwillingness of a parent, guardian or
+28 custodian of a child to provide that child with supervision, food,
+29 clothing, shelter or medical care if that inability or unwillingness
+30 causes substantial risk of harm to the child's health or welfare, except
+31 if FOR EITHER OF THE FOLLOWING:
+32 (i) The inability of a THE parent, guardian or custodian to
+33 provide services to meet the needs of a child with a disability or chronic
+34 illness is solely the result of the unavailability of reasonable services.
+35 (ii) THE INABILITY OF THE PARENT, GUARDIAN OR CUSTODIAN TO PROVIDE
+36 THE CHILD WITH SUPERVISION, FOOD, CLOTHING, SHELTER OR MEDICAL CARE IS
+37 SOLELY DUE TO A LACK OF FINANCIAL RESOURCES AVAILABLE TO THE PARENT,
+38 GUARDIAN OR CUSTODIAN.
+39 (b) Allowing a child to enter or remain in any structure or vehicle
+40 in which volatile, toxic or flammable chemicals are found or equipment is
+41 possessed by any person with the intent and for the purpose of
+42 manufacturing a dangerous drug as defined in section 13-3401.
+43 (c) A determination by a health professional that a newborn infant
+44 was exposed prenatally to a drug or substance listed in section 13-3401
+45 and that this exposure was not the result of a medical treatment
+46 administered to the mother or the newborn infant by a health professional.
+47 This subdivision does not expand a health professional's duty to report
+-4-
+
+House Amendments to H.B. 2041
+1 neglect based on prenatal exposure to a drug or substance listed in
+2 section 13-3401 beyond the requirements prescribed pursuant to section
+3 13-3620, subsection E. The determination by the health professional shall
+4 be based on one or more of the following:
+5 (i) Clinical indicators in the prenatal period, including maternal
+6 and newborn presentation.
+7 (ii) History of substance use or abuse.
+8 (iii) Medical history.
+9 (iv) Results of a toxicology or other laboratory test on the mother
+10 or the newborn infant.
+11 (d) Diagnosis by a health professional of an infant under one year
+12 of age with clinical findings consistent with fetal alcohol syndrome or
+13 fetal alcohol effects.
+14 (e) Deliberate exposure of a child by a parent, guardian or
+15 custodian to sexual conduct as defined in section 13-3551 or to sexual
+16 contact, oral sexual contact or sexual intercourse as defined in section
+17 13-1401, bestiality as prescribed in section 13-1411 or explicit sexual
+18 materials as defined in section 13-3507.
+19 (f) Any of the following acts committed by the child's parent,
+20 guardian or custodian with reckless disregard as to whether the child is
+21 physically present:
+22 (i) Sexual contact as defined in section 13-1401.
+23 (ii) Oral sexual contact as defined in section 13-1401.
+24 (iii) Sexual intercourse as defined in section 13-1401.
+25 (iv) Bestiality as prescribed in section 13-1411.
+26 26. "Newborn infant" means a child who is under thirty days of age.
+27 27. "Petition" means a written statement of the essential facts
+28 that allege delinquency, incorrigibility or dependency.
+29 28. "Prevention" means the creation of conditions, opportunities
+30 and experiences that encourage and develop healthy, self-sufficient
+31 children and that occur before the onset of problems.
+32 29. "Protective supervision" means supervision that is ordered by
+33 the juvenile court of children who are found to be dependent or
+34 incorrigible.
+35 30. "Qualified young adult" means a former dependent child who is
+36 at least eighteen years of age and not over twenty-one years of age, who
+37 meets the criteria for an extended foster care program pursuant to section
+38 8-521.02 and who signs a voluntary agreement to participate in the
+39 program.
+40 31. "Referral" means a report that is submitted to the juvenile
+41 court and that alleges that a child is dependent or incorrigible or that a
+42 juvenile has committed a delinquent or criminal act.
+43 32. "Secure care" means confinement in a facility that is
+44 completely surrounded by a locked and physically secure barrier with
+45 restricted ingress and egress.
+-5-
+
+House Amendments to H.B. 2041
+1 33. "Serious emotional injury" means an injury that is diagnosed by
+2 a medical doctor or a psychologist and that does MEETS any one or a
+3 combination of the following:
+4 (a) Seriously impairs mental faculties.
+5 (b) Causes serious anxiety, depression, withdrawal or social
+6 dysfunction behavior to the extent that the child suffers dysfunction that
+7 requires treatment.
+8 (c) Is the result of sexual abuse pursuant to section 13-1404,
+9 sexual conduct with a minor pursuant to section 13-1405, sexual assault
+10 pursuant to section 13-1406, molestation of a child pursuant to section
+11 13-1410, child sex trafficking pursuant to section 13-3212, commercial
+12 sexual exploitation of a minor pursuant to section 13-3552, sexual
+13 exploitation of a minor pursuant to section 13-3553 or incest pursuant to
+14 section 13-3608.
+15 34. "Serious physical injury" means an injury that is diagnosed by
+16 a medical doctor and that does MEETS any one or a combination of the
+17 following:
+18 (a) Creates a reasonable risk of death.
+19 (b) Causes serious or permanent disfigurement.
+20 (c) Causes significant physical pain.
+21 (d) Causes serious impairment of health.
+22 (e) Causes the loss or protracted impairment of an organ or limb.
+23 (f) Is the result of sexual abuse pursuant to section 13-1404,
+24 sexual conduct with a minor pursuant to section 13-1405, sexual assault
+25 pursuant to section 13-1406, molestation of a child pursuant to section
+26 13-1410, child sex trafficking pursuant to section 13-3212, commercial
+27 sexual exploitation of a minor pursuant to section 13-3552, sexual
+28 exploitation of a minor pursuant to section 13-3553 or incest pursuant to
+29 section 13-3608.
+30 35. "Shelter care" means the temporary care of a child in any
+31 public or private facility or home that is licensed by this state and that
+32 offers a physically nonsecure environment that is characterized by the
+33 absence of physically restricting construction or hardware and that
+34 provides the child access to the surrounding community.
+35 36. "Standardized hotline assessment tool" means any written tool
+36 used to make a determination that the allegation of abuse or neglect that
+37 is the subject of a report received pursuant to section 8-455 involves
+38 conduct that warrants investigation by the department pursuant to section
+39 8-456 or 8-471.
+40 37. "Young adult administrative review" means an administrative
+41 review of a voluntary extended foster care case plan with the qualified
+42 young adult, the department's case specialist or designee, an independent
+43 party who is not responsible for the case management of or the delivery of
+44 services to the qualified young adult and any other individual the young
+45 adult invites.
+-6-
+
+House Amendments to H.B. 2041
+1 <<Sec. 2. Section 8-201.01, Arizona Revised Statutes, is amended to
+2 read:
+3 8-201.01. Prohibitions
+4 A. Notwithstanding any other provision of this chapter or chapter
+5 4, articles 8, 9, 10, 11, 12, 13 and 14 of this title:
+6 1. A child who in good faith is being furnished Christian Science
+7 treatment by a duly accredited practitioner shall not, for that reason
+8 alone, be considered to be an abused, neglected or dependent child.
+9 2. A child whose parent, guardian or custodian refuses to put the
+10 child on a psychiatric medication or questions the use of a psychiatric
+11 medication shall not be considered to be an abused, neglected or dependent
+12 child for that reason alone.
+13 B. A parent may not be considered as having abused, neglected or
+14 abandoned or [BE] charged with abuse, neglect or abandonment of a
+15 biological, foster or adoptive child solely for seeking inpatient
+16 treatment or an out-of-home placement if the child's behavioral health
+17 needs pose a risk to the safety and welfare of the family.
+18 C. A parent may not be considered as having abused or neglected or
+19 [BE] charged with abuse or neglect of a child solely for bringing into the
+20 home a biological, foster or adoptive child whose behavioral health needs
+21 pose a risk to the safety and welfare of the family.
+22 [D. A PARENT, GUARDIAN OR CUSTODIAN MAY NOT BE CONSIDERED AS HAVING
+23 ABUSED OR NEGLECTED OR BE CHARGED WITH ABUSE OR NEGLECT OF A CHILD SOLELY
+24 BASED ON THE INABILITY OF THE PARENT, GUARDIAN OR CUSTODIAN TO PROVIDE THE
+25 CHILD WITH SUPERVISION, FOOD, CLOTHING, SHELTER OR MEDICAL CARE IF THE
+26 INABILITY IS DUE SOLELY TO A LACK OF FINANCIAL RESOURCES AVAILABLE TO THE
+27 PARENT, GUARDIAN OR CUSTODIAN.]>>
+28 Enroll and engross to conform
+29 Amend title to conform
+And, as so amended, it do pass
+WALT BLACKMAN
+CHAIRMAN
+2041GOVERNMENT.docx
+02/19/2026
+04:07 PM
+C: LAT
+130JDMRPD
+-7-

@@ -1,0 +1,568 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Appropriations, Transportation and Technology
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Appropriations, Transportation and Technology
+Second Regular Session S.B. 1504
+PROPOSED
+SENATE AMENDMENTS TO S.B. 1504
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 38-842, Arizona Revised Statutes, is amended to
+3 read:
+4 38-842. Definitions
+5 In this article, unless the context otherwise requires:
+6 1. "Accidental disability" means a physical or mental condition
+7 that the local board finds totally and permanently prevents an employee
+8 from performing a reasonable range of duties within the employee's job
+9 classification and that was incurred in the performance of the employee's
+10 duty.
+11 2. "Accumulated contributions" means, for each member, the sum of
+12 the amount of the member's aggregate contributions made to the fund and
+13 the amount, if any, attributable to the employee's contributions before
+14 the member's effective date under another public retirement system, other
+15 than the federal social security act, and transferred to the fund minus
+16 the benefits paid to or on behalf of the member.
+17 3. "Actuarial equivalent" means equality in present value of the
+18 aggregate amounts expected to be received under two different forms of
+19 payment, based on mortality and interest assumptions adopted by the board.
+20 4. "Alternate payee" means the spouse or former spouse of a
+21 participant as designated in a domestic relations order.
+22 5. "Alternate payee's portion" means benefits that are payable to
+23 an alternate payee pursuant to a plan approved domestic relations order.
+24 6. "Annuitant" means a person who is receiving a benefit pursuant
+25 to section 38-846.01.
+26 7. "Average monthly benefit compensation" means the result obtained
+27 by dividing the total compensation paid to an employee during a considered
+28 period by the number of months, including fractional months, in which such
+
+Senate Amendments to S.B. 1504
+1 compensation was received. For an employee who becomes a member of the
+2 system:
+3 (a) Before January 1, 2012, the considered period shall be the
+4 three consecutive years within the last twenty completed years of credited
+5 service that yield the highest average. In the computation under this
+6 subdivision, a period of nonpaid or partially paid industrial leave shall
+7 be considered based on the compensation the employee would have received
+8 in the employee's job classification if the employee was not on industrial
+9 leave.
+10 (b) On or after January 1, 2012 and before July 1, 2017, the
+11 considered period is the five consecutive years within the last twenty
+12 completed years of credited service that yield the highest average. In
+13 the computation under this subdivision, a period of nonpaid or partially
+14 paid industrial leave shall be considered based on the compensation the
+15 employee would have received in the employee's job classification if the
+16 employee was not on industrial leave.
+17 (c) On or after July 1, 2017, the considered period is the five
+18 consecutive years within the last fifteen completed years of credited
+19 service that yield the highest average. In the computation under this
+20 subdivision, a period of nonpaid or partially paid industrial leave shall
+21 be considered based on the compensation the employee would have received
+22 in the employee's job classification if the employee was not on industrial
+23 leave.
+24 8. "Board" means the board of trustees of the system, who are the
+25 persons appointed to invest and operate the fund.
+26 9. "Catastrophic disability" means a physical and not a
+27 psychological condition that the local board determines prevents the
+28 employee from totally and permanently engaging in any gainful employment
+29 and that results from a physical injury incurred in the performance of the
+30 employee's duty.
+31 10. "Certified peace officer" means a peace officer certified by
+32 the Arizona peace officer standards and training board.
+33 11. "Claimant" means any member or beneficiary who files an
+34 application for benefits pursuant to this article.
+35 12. "Compensation" means, for the purpose of computing retirement
+36 benefits, base salary, overtime pay, shift differential pay, military
+37 differential wage pay, compensatory time used by an employee in lieu of
+38 overtime not otherwise paid by an employer and holiday pay paid to an
+39 employee by the employer for the employee's performance of services in an
+40 eligible group on a regular monthly, semimonthly or biweekly payroll basis
+41 and longevity pay paid to an employee at least every six months for which
+42 contributions are made to the system pursuant to section 38-843,
+43 subsection D. Compensation does not include, for the purpose of computing
+44 retirement benefits, payment for unused sick leave, payment in lieu of
+45 vacation, payment for unused compensatory time or payment for any fringe
+-2-
+
+Senate Amendments to S.B. 1504
+1 benefits. In addition, compensation does not include, for the purpose of
+2 computing retirement benefits, payments made directly or indirectly by the
+3 employer to the employee for work performed for a third party on a
+4 contracted basis or any other type of agreement under which the third
+5 party pays or reimburses the employer for the work performed by the
+6 employee for that third party, except for third-party contracts between
+7 public agencies for law enforcement, criminal, traffic and crime
+8 suppression activities training or fire, wildfire, emergency medical or
+9 emergency management activities or where the employer supervises the
+10 employee's performance of law enforcement, criminal, traffic and crime
+11 suppression activities training or fire, wildfire, emergency medical or
+12 emergency management activities. For the purposes of this paragraph,
+13 "base salary" means the amount of compensation each employee is regularly
+14 paid for personal services rendered to an employer before the addition of
+15 any extra monies, including overtime pay, shift differential pay, holiday
+16 pay, longevity pay, fringe benefit pay and similar extra payments.
+17 13. "Credited service":
+18 (a) Means the member's total period of service before the member's
+19 effective date of participation, plus those compensated periods of the
+20 member's service thereafter for which the member made contributions to the
+21 fund.
+22 (b) Includes those compensated periods of the member's part-time
+23 service, calculated on a pro rata basis, during which the member made
+24 contributions to the fund.
+25 14. "Cure period" means the ninety-day period in which a
+26 participant or alternate payee may submit an amended domestic relations
+27 order and request a determination, calculated from the time the system
+28 issues a determination finding that a previously submitted domestic
+29 relations order did not qualify as a plan approved domestic relations
+30 order.
+31 15. "Depository" means a bank in which all monies of the system are
+32 deposited and held and from which all expenditures for benefits, expenses
+33 and investments are disbursed.
+34 16. "Determination" means a written document that indicates to a
+35 participant and alternate payee whether a domestic relations order
+36 qualifies as a plan approved domestic relations order.
+37 17. "Determination period" means the ninety-day period in which the
+38 system must review a domestic relations order that is submitted by a
+39 participant or alternate payee to determine whether the domestic relations
+40 order qualifies as a plan approved domestic relations order, calculated
+41 from the time the system mails a notice of receipt to the participant and
+42 alternate payee.
+43 18. "Direct rollover" means a payment by the system to an eligible
+44 retirement plan that is specified by the distributee.
+-3-
+
+Senate Amendments to S.B. 1504
+1 19. "Distributee" means a member, a member's surviving spouse or a
+2 member's spouse or former spouse who is the alternate payee under a plan
+3 approved domestic relations order.
+4 20. "Domestic relations order" means an order of a court of this
+5 state that is made pursuant to the domestic relations laws of this state
+6 and that creates or recognizes the existence of an alternate payee's right
+7 to, or assigns to an alternate payee the right to, receive a portion of
+8 the benefits payable to a participant.
+9 21. "Effective date of participation" means July 1, 1968, except
+10 with respect to employers and their covered employees whose contributions
+11 to the fund commence thereafter, the effective date of their participation
+12 in the system is as specified in the applicable joinder agreement.
+13 22. "Effective date of vesting" means the date a member's rights to
+14 benefits vest pursuant to section 38-844.01.
+15 23. "Eligible child" means an unmarried child of a deceased member
+16 or retired member who meets one of the following qualifications:
+17 (a) Is under eighteen years of age.
+18 (b) Is at least eighteen years of age and under twenty-three years
+19 of age only during any period that the child is a full-time student.
+20 (c) Is under a disability that began before the child attained
+21 twenty-three years of age and remains a dependent of the surviving spouse
+22 or guardian.
+23 24. "Eligible groups" means only the following who are regularly
+24 assigned to hazardous duty:
+25 (a) Municipal police officers who are certified peace officers.
+26 (b) Municipal firefighters.
+27 (c) Paid full-time firefighters employed directly by a fire
+28 district organized pursuant to section 48-803 or 48-804 or a joint powers
+29 authority pursuant to section 48-805.01 with three or more full-time
+30 firefighters, but not including firefighters employed by a fire district
+31 pursuant to a contract with a corporation.
+32 (d) State highway patrol officers who are certified peace officers.
+33 (e) State firefighters.
+34 (f) County sheriffs and deputies who are certified peace officers.
+35 (g) Game and fish wardens who are certified peace officers.
+36 (h) Police officers who are certified peace officers and
+37 firefighters of a nonprofit corporation operating a public airport
+38 pursuant to sections 28-8423 and 28-8424. A police officer shall be
+39 designated pursuant to section 28-8426 to aid and supplement state and
+40 local law enforcement agencies and a firefighter's sole duty shall be to
+41 perform firefighting services, including services required by federal
+42 regulations.
+43 (i) Police officers who are certified peace officers and who are
+44 appointed by the Arizona board of regents.
+-4-
+
+Senate Amendments to S.B. 1504
+1 (j) Police officers who are certified peace officers and who are
+2 appointed by a community college district governing board.
+3 (k) State attorney general investigators who are certified peace
+4 officers.
+5 (l) County attorney investigators who are certified peace officers.
+6 (m) Police officers who are certified peace officers and who are
+7 employed by an Indian reservation police agency.
+8 (n) Firefighters who are employed by an Indian reservation
+9 firefighting agency.
+10 (o) Department of liquor licenses and control investigators who are
+11 certified peace officers.
+12 (p) Arizona department of agriculture officers who are certified
+13 peace officers.
+14 (q) Arizona state parks board rangers and managers who are
+15 certified peace officers.
+16 (r) County park rangers who are certified peace officers.
+17 (s) Game rangers who are certified peace officers and who are
+18 employed by an Indian reservation.
+19 25. "Eligible retirement plan" means any of the following that
+20 accepts a distributee's eligible rollover distribution:
+21 (a) An individual retirement account described in section 408(a) of
+22 the internal revenue code.
+23 (b) An individual retirement annuity described in section 408(b) of
+24 the internal revenue code.
+25 (c) An annuity plan described in section 403(a) of the internal
+26 revenue code.
+27 (d) A qualified trust described in section 401(a) of the internal
+28 revenue code.
+29 (e) An annuity contract described in section 403(b) of the internal
+30 revenue code.
+31 (f) An eligible deferred compensation plan described in section
+32 457(b) of the internal revenue code that is maintained by a state, a
+33 political subdivision of a state or any agency or instrumentality of a
+34 state or a political subdivision of a state and that agrees to separately
+35 account for amounts transferred into the eligible deferred compensation
+36 plan from this plan.
+37 (g) A Roth individual retirement account that satisfies the
+38 requirements of section 408A of the internal revenue code.
+39 (h) For distributions made after December 18, 2015, a simple
+40 retirement account as defined in section 408(p) of the internal revenue
+41 code.
+42 26. "Eligible rollover distribution" means a payment to a
+43 distributee, but does not include any of the following:
+44 (a) Any distribution that is one of a series of substantially equal
+45 periodic payments made not less frequently than annually for the life or
+-5-
+
+Senate Amendments to S.B. 1504
+1 life expectancy of the member or the joint lives or joint life
+2 expectancies of the member and the member's beneficiary or for a specified
+3 period of ten years or more.
+4 (b) Any distribution to the extent the distribution is required
+5 under section 401(a)(9) of the internal revenue code.
+6 (c) The portion of any distribution that may not be included in
+7 gross income.
+8 (d) Any distribution made to satisfy the requirements of section
+9 415 of the internal revenue code.
+10 (e) Hardship distributions.
+11 (f) Similar items designated by the commissioner of the United
+12 States internal revenue service in revenue rulings, notices and other
+13 guidance published in the internal revenue bulletin.
+14 27. "Employee" means any person who is employed by a participating
+15 employer and who is a member of an eligible group but does not include any
+16 persons compensated on a contractual or fee basis. If an eligible group
+17 requires certified peace officer status or firefighter certification and
+18 at the option of the local board, employee may include a person who is
+19 training to become a certified peace officer or firefighter.
+20 28. "Employers" means:
+21 (a) Cities contributing to the fire fighters' relief and pension
+22 fund as provided in sections 9-951 through 9-973 or statutes amended
+23 thereby and antecedent thereto, as of June 30, 1968 on behalf of their
+24 full-time paid firefighters.
+25 (b) Cities contributing under the state police pension laws as
+26 provided in sections 9-911 through 9-934 or statutes amended thereby and
+27 antecedent thereto, as of June 30, 1968 on behalf of their municipal
+28 policemen.
+29 (c) The state highway patrol covered under the state highway patrol
+30 retirement system.
+31 (d) The state, or any political subdivision of this state,
+32 including towns, cities, fire districts, joint powers authorities,
+33 counties and nonprofit corporations operating public airports pursuant to
+34 sections 28-8423 and 28-8424, that has elected to participate in the
+35 system on behalf of an eligible group of public safety personnel pursuant
+36 to a joinder agreement entered into after July 1, 1968.
+37 (e) Indian tribes that have elected to participate in the system on
+38 behalf of an eligible group of public safety personnel pursuant to a
+39 joinder agreement entered into after July 1, 1968.
+40 29. "Fund" means the public safety personnel retirement fund, which
+41 is the fund established to receive and invest contributions accumulated
+42 under the system and from which benefits are paid.
+43 30. "Local board" means the retirement board of the employer, who
+44 are the persons appointed to administer the system as it applies to their
+45 members in the system.
+-6-
+
+Senate Amendments to S.B. 1504
+1 31. "Member":
+2 (a) Means any full-time employee who meets all of the following
+3 qualifications:
+4 (i) Who is either a paid municipal police officer, a paid
+5 firefighter, a law enforcement officer who is employed by this state
+6 including the director thereof, a state firefighter who is primarily
+7 assigned to firefighting duties, a firefighter or police officer of a
+8 nonprofit corporation operating a public airport pursuant to sections
+9 28-8423 and 28-8424, all ranks designated by the Arizona law enforcement
+10 merit system council, a state attorney general investigator who is a
+11 certified peace officer, a county attorney investigator who is a certified
+12 peace officer, a department of liquor licenses and control investigator
+13 who is a certified peace officer, an Arizona department of agriculture
+14 officer who is a certified peace officer, an Arizona state parks board
+15 ranger or manager who is a certified peace officer, a county park ranger
+16 who is a certified peace officer, a person who is a certified peace
+17 officer and who is employed by an Indian reservation police agency, a game
+18 ranger who is a certified peace officer and who is employed by an Indian
+19 reservation, a firefighter who is employed by an Indian reservation
+20 firefighting agency or an employee included in a group designated as
+21 eligible employees under a joinder agreement entered into by their
+22 employer after July 1, 1968 and who is or was regularly assigned to
+23 hazardous duty or, beginning retroactively to January 1, 2009, who is a
+24 police chief or a fire chief.
+25 (ii) Who, on or after the employee's effective date of
+26 participation, is receiving compensation for personal services rendered to
+27 an employer or would be receiving compensation except for an authorized
+28 leave of absence.
+29 (iii) Whose customary employment is at least forty hours per week
+30 or, for those employees who customarily work fluctuating workweeks, whose
+31 customary employment averages at least forty hours per week.
+32 (iv) Who is engaged to work for more than six months in a calendar
+33 year.
+34 (v) Who, if economic conditions exist, is required to take furlough
+35 days or reduce the hours of the employee's normal workweek below forty
+36 hours but not less than thirty hours per pay cycle, and maintain the
+37 employee's active member status within the system as long as the hour
+38 change does not extend beyond twelve consecutive months.
+39 (vi) Who has not attained age sixty-five before the employee's
+40 effective date of participation or who was over age sixty-five with
+41 twenty-five years or more of service prior to the employee's effective
+42 date of participation.
+43 (b) Beginning from and after June 30, 2026, includes any part-time
+44 employee whose employer has chosen to allow part-time employees to
+45 participate in the system and to whom all of the following apply:
+-7-
+
+Senate Amendments to S.B. 1504
+1 (i) Is hired in an eligible group as defined in paragraph 24,
+2 subdivision (a), (d) or (f) of this section.
+3 (ii) Has at least three years of credited service in either the
+4 system or the public safety personnel defined contribution retirement plan
+5 established pursuant to article 4.1 of this chapter before the employee is
+6 hired as a part-time employee for the purposes of this subdivision.
+7 (iii) Is engaged to work as a patrol officer and is scheduled to
+8 work for at least twenty hours per week but not more than thirty hours per
+9 week following a consistent schedule, as determined by the employer.
+10 (iv) Meets the requirements of section 38-842.03.
+11 (c) Does not include an employee who is hired on or after July 1,
+12 2017, who makes the irrevocable election to participate solely in the
+13 public safety personnel defined contribution retirement plan established
+14 pursuant to article 4.1 of this chapter and who was not an active, an
+15 inactive or a retired member of the system or a member of the system with
+16 a disability on June 30, 2017.
+17 32. "Normal retirement date" means:
+18 (a) For an employee who becomes a member of the system before
+19 January 1, 2012, the first day of the calendar month immediately following
+20 the employee's completion of twenty years of service or the employee's
+21 sixty-second birthday and the employee's completion of fifteen years of
+22 service.
+23 (b) For an employee who becomes a member of the system on or after
+24 January 1, 2012 and before July 1, 2017, the first day of the calendar
+25 month immediately following the employee's completion of either:
+26 (i) Twenty-five years of service. or
+27 (ii) Fifteen years of credited service if the employee is at least
+28 fifty-two and one-half years of age.
+29 (c) For an employee who becomes a member of the system on or after
+30 July 1, 2017, the first day of the calendar month immediately following
+31 the employee's completion of EITHER:
+32 (i) TWENTY-FIVE YEARS OF SERVICE.
+33 (ii) Fifteen years of credited service if the employee is at least
+34 fifty-five years of age.
+35 33. "Notice of receipt" means a written document that is issued by
+36 the system to a participant and alternate payee and that states that the
+37 system has received a domestic relations order and a request for a
+38 determination that the domestic relations order is a plan approved
+39 domestic relations order.
+40 34. "Ordinary disability" means a physical condition that the local
+41 board determines will prevent an employee totally and permanently from
+42 performing a reasonable range of duties within the employee's department
+43 or a mental condition that the local board determines will prevent an
+44 employee totally and permanently from engaging in any substantial gainful
+45 activity.
+-8-
+
+Senate Amendments to S.B. 1504
+1 35. "Participant" means a member who is subject to a domestic
+2 relations order.
+3 36. "Participant's portion" means benefits that are payable to a
+4 participant pursuant to a plan approved domestic relations order.
+5 37. "Pension" means a series of monthly amounts that are payable to
+6 a person who is entitled to receive benefits under the plan but does not
+7 include an annuity that is payable pursuant to section 38-846.01.
+8 38. "Personal representative" means the personal representative of
+9 a deceased alternate payee.
+10 39. "Physician" means a physician who is licensed pursuant to title
+11 32, chapter 13 or 17.
+12 40. "Plan approved domestic relations order" means a domestic
+13 relations order that the system approves as meeting all the requirements
+14 for a plan approved domestic relations order as otherwise prescribed in
+15 this article.
+16 41. "Plan year" or "fiscal year" means the period beginning on
+17 July 1 of any year and ending on June 30 of the next succeeding year.
+18 42. "Regularly assigned to hazardous duty" means regularly assigned
+19 to duties of the type normally expected of municipal police officers,
+20 municipal or state firefighters, eligible fire district firefighters,
+21 state highway patrol officers, county sheriffs and deputies, fish and game
+22 wardens, firefighters and police officers of a nonprofit corporation
+23 operating a public airport pursuant to sections 28-8423 and 28-8424,
+24 police officers who are appointed by the Arizona board of regents or a
+25 community college district governing board, state attorney general
+26 investigators who are certified peace officers, county attorney
+27 investigators who are certified peace officers, department of liquor
+28 licenses and control investigators who are certified peace officers,
+29 Arizona department of agriculture officers who are certified peace
+30 officers, Arizona state parks board rangers and managers who are certified
+31 peace officers, county park rangers who are certified peace officers,
+32 police officers who are certified peace officers and who are employed by
+33 an Indian reservation police agency, firefighters who are employed by an
+34 Indian reservation firefighting agency or game rangers who are certified
+35 peace officers and who are employed by an Indian reservation. Those
+36 individuals who are assigned solely to support duties such as secretaries,
+37 stenographers, clerical personnel, clerks, cooks, maintenance personnel,
+38 mechanics and dispatchers are not assigned to hazardous duty regardless of
+39 their position classification title. Since the normal duties of those
+40 jobs described in this paragraph are constantly changing, questions as to
+41 whether a person is or was previously regularly assigned to hazardous duty
+42 shall be resolved by the local board on a case-by-case basis. Resolutions
+43 by local boards are subject to rehearing and appeal.
+-9-
+
+Senate Amendments to S.B. 1504
+1 43. "Retirement" or "retired" means termination of employment after
+2 a member has fulfilled all requirements for a pension, for an employee who
+3 becomes a member of the system on or after January 1, 2012 and before
+4 July 1, 2017, attains the SERVICE REQUIREMENTS OR THE age and CREDITED
+5 service requirements for a normal retirement date or for an employee who
+6 becomes a member of the system on or after July 1, 2017 attains the
+7 SERVICE REQUIREMENTS OR THE age and credited service requirements for a
+8 normal retirement date. Retirement shall be considered as commencing on
+9 the first day of the month immediately following a member's last day of
+10 employment or authorized leave of absence, if later.
+11 44. "Segregated funds" means the amount of benefits that would
+12 currently be payable to an alternate payee pursuant to a domestic
+13 relations order under review by the system, or a domestic relations order
+14 submitted to the system that failed to qualify as a plan approved domestic
+15 relations order, if the domestic relations order were determined to be a
+16 plan approved domestic relations order.
+17 45. "Service" means the last period of continuous employment of an
+18 employee by the employers before the employee's retirement, except that if
+19 such period includes employment during which the employee would not have
+20 qualified as a member had the system then been effective, such as
+21 employment as a volunteer firefighter, then only twenty-five percent of
+22 such noncovered employment shall be considered as service. Any absence
+23 that is authorized by an employer shall not be considered as interrupting
+24 continuity of employment if the employee returns within the period of
+25 authorized absence. Transfers between employers also shall not be
+26 considered as interrupting continuity of employment. Any period during
+27 which a member is receiving sick leave payments or a temporary disability
+28 pension shall be considered as service. Notwithstanding any other
+29 provision of this paragraph, any period during which a person was employed
+30 as a full-time paid firefighter for a corporation that contracted with an
+31 employer to provide firefighting services on behalf of the employer shall
+32 be considered as service if the employer has elected at its option to
+33 treat part or all of the period the firefighter worked for the company as
+34 service in its applicable joinder agreement. Any reference in this system
+35 to the number of years of service of an employee shall be deemed to
+36 include fractional portions of a year.
+37 46. "State" means the state of Arizona, including any department,
+38 office, board, commission, agency or other instrumentality of this state.
+39 47. "System" means the public safety personnel retirement system
+40 established by this article.
+41 48. "Temporary disability" means a physical or mental condition
+42 that the local board finds totally and temporarily prevents an employee
+43 from performing a reasonable range of duties within the employee's
+44 department and that was incurred in the performance of the employee's
+45 duty.
+-10-
+
+Senate Amendments to S.B. 1504
+1 Sec. 2. Section 38-846.01, Arizona Revised Statutes, is amended to
+2 read:
+3 38-846.01. Deferred annuity; exception
+4 A. If any member who has at least ten years of credited service
+5 terminates employment for reasons other than retirement or disability, the
+6 member may elect to receive a deferred annuity, except that if the
+7 annuitant withdraws all or part of the annuitant's accumulated
+8 contributions in the system all rights in and to a deferred annuity shall
+9 be forfeited by the annuitant. A deferred annuity is a lifetime monthly
+10 payment actuarially equivalent to the annuitant's accumulated
+11 contributions in the system plus an equal amount paid by the employer and
+12 shall commence on application on or after the sixty-second birthday of the
+13 annuitant. The annuity is not a retirement benefit and annuitants are not
+14 entitled to receive any amount prescribed by section 38-845, subsection G
+15 or section 38-846, 38-856.05 or 38-857.
+16 B. This section does not apply to a member who becomes a member of
+17 the system on or after January 1, 2012. For a member who is hired on or
+18 after January 1, 2012 and before July 1, 2017, a member who attains a
+19 normal retirement date is eligible for retirement and a retirement benefit
+20 even if the member terminates employment with an employer before the age
+21 requirement for normal retirement if the member attains the service
+22 requirement for normal retirement. For a member who is hired on or after
+23 July 1, 2017, a member who attains a normal retirement date is eligible
+24 for retirement and a retirement benefit even if the member terminates
+25 employment with an employer before the age requirement for normal
+26 retirement if the member attains the credited service requirement for
+27 normal retirement. Once a member described in this subsection reaches the
+28 normal retirement age DATE, the member may receive payments made under
+29 section 38-845.
+30 Sec. 3. Section 38-856.06, Arizona Revised Statutes, is amended to
+31 read:
+32 38-856.06. Cost-of-living adjustment; members hired on or
+33 after July 1, 2017; definition
+34 A. For members who are hired on or after July 1, 2017, each
+35 eligible retired member or survivor of a retired member may receive a
+36 compounding cost-of-living adjustment in the base benefit as provided in
+37 this section.
+38 B. A retired member or survivor of a retired member is eligible to
+39 receive a cost-of-living adjustment under this section beginning the
+40 earlier of the first calendar year after the seventh THIRD anniversary of
+41 the retired member's retirement or when the retired member is or would
+42 have been sixty years of age.
+43 C. A cost-of-living adjustment shall be paid on July 1 each year
+44 that the funded ratio for members who are hired on or after July 1, 2017
+-11-
+
+Senate Amendments to S.B. 1504
+1 is seventy percent or more, as reported in the most recent actuarial
+2 valuation.
+3 D. An eligible retired member or survivor of a retired member shall
+4 receive annually a cost-of-living adjustment in the base benefit based on
+5 the average annual percentage change in the metropolitan Phoenix-Mesa
+6 consumer price index published by the United States department of labor,
+7 bureau of labor statistics, with the immediately preceding year as the
+8 base year for making the determination, not to exceed annually the
+9 following:
+10 1. Two percent of the retired member's or survivor's base benefit
+11 if the funded ratio for members who are hired on or after July 1, 2017 is
+12 ninety percent or more, as reported in the most recent actuarial
+13 valuation.
+14 2. One and one-half percent of the retired member's or survivor's
+15 base benefit if the funded ratio for members who are hired on or after
+16 July 1, 2017 is eighty percent or more but less than ninety percent, as
+17 reported in the most recent actuarial valuation.
+18 3. One percent of the retired member's or survivor's base benefit
+19 if the funded ratio for members who are hired on or after July 1, 2017 is
+20 seventy percent or more but less than eighty percent, as reported in the
+21 most recent actuarial valuation.
+22 E. The system actuary shall include the projected cost of providing
+23 the cost-of-living adjustment specified in subsection D of this section in
+24 the calculation of normal cost and accrued liability.
+25 F. For the purposes of this section, "funded ratio" means the ratio
+26 of the market value of assets to the actual accrued liabilities.
+27 <<Sec. 4. Benefit increases; payment; exception
+28 [Section 38-861, Arizona Revised Statutes, does not apply to
+29 sections 38-842, 38-846.01 and 38-856.06, Arizona Revised Statutes, as
+30 amended by this act.]>>
+31 Enroll and engross to conform
+32 Amend title to conform
+JOHN KAVANAGH
+1504KAVANAGH.docx
+02/20/2026
+5:07 PM
+C: MH
+130WLBXYU
+-12-

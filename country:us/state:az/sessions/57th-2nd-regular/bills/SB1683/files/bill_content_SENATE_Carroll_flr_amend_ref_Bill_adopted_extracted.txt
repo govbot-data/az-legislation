@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Carroll flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1683
+Carroll Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+• Redefines substantial interest to mean an interest of 15 percent or more, rather than 5 percent or
+more, that is calculated as if all contingent interests that are held by the foreign adversary nation
+or foreign adversary agent have been converted or exercised.
+Amendment explanation prepared by Tatum Ross
+2/25/26
+
+Fifty-seventh Legislature Carroll
+Second Regular Session S.B. 1683
+CARROLL FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1683
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 33-443, Arizona Revised Statutes, is amended to
+3 read:
+4 33-443. Prohibition against land ownership; foreign adversary
+5 nation or agent; enforcement; violation;
+6 classification; definitions
+7 A. Notwithstanding any other law and except as provided in
+8 subsection F K of this section, a foreign adversary nation or a foreign
+9 adversary agent may not, directly or indirectly, purchase, own, LEASE,
+10 acquire by grant or devise, OBTAIN A CONCESSION or otherwise obtain a
+11 CURRENT OR FUTURE substantial interest in real property in this state.
+12 THIS PROHIBITION INCLUDES ANY TRANSACTION THAT RESULTS IN THE ACQUISITION
+13 OF PROPERTY RIGHTS, WHETHER OR NOT THE TRANSACTION INVOLVES A TRANSFER OF
+14 TITLE, INCLUDING:
+15 1. A PURCHASE, LEASE OR CONCESSION OF REAL PROPERTY BY OR TO A
+16 FOREIGN ADVERSARY NATION OR FOREIGN ADVERSARY AGENT.
+17 2. A CHANGE IN PROPERTY RIGHTS RESULTING FROM A COVERED REAL ESTATE
+18 TRANSACTION DESCRIBED IN 31 CODE OF FEDERAL REGULATIONS SECTION 802.301
+19 THAT ALLOWS A FOREIGN ADVERSARY NATION OR FOREIGN ADVERSARY AGENT TO DO
+20 ANY OF THE FOLLOWING:
+21 (a) PHYSICALLY ACCESS THE REAL PROPERTY.
+22 (b) EXCLUDE OTHERS FROM PHYSICAL ACCESS TO THE REAL PROPERTY.
+23 (c) IMPROVE OR DEVELOP THE REAL PROPERTY.
+24 (d) ATTACH FIXED OR IMMOVABLE STRUCTURES OR OBJECTS TO THE REAL
+25 PROPERTY.
+26 3. THE ACQUISITION OF ANY OPTION, WARRANT, RIGHT OF FIRST REFUSAL
+27 OR FUTURE INTEREST, INCLUDING A REMAINDER OR REVERSIONARY INTEREST, THAT
+28 PROVIDES A RIGHT TO ACQUIRE REAL PROPERTY OR THE PROPERTY RIGHTS DESCRIBED
+29 IN PARAGRAPH 2 OF THIS SUBSECTION.
+
+Senate Amendments to S.B. 1683
+1 4. ANY CONVERTIBLE NOTE, BOND OR OTHER DEBT INSTRUMENT THAT
+2 PROVIDES A RIGHT TO ACQUIRE AN EQUITY INTEREST OR PROPERTY RIGHTS ON
+3 CONVERSION OR THE OCCURRENCE OF A CONTINGENCY.
+4 B. A FOREIGN ADVERSARY NATION OR FOREIGN ADVERSARY AGENT MAY NOT
+5 INSTALL, MAINTAIN, HAVE ACCESS TO THE DATA OF OR OPERATE ANY EQUIPMENT ON
+6 ANY REAL PROPERTY IN THIS STATE THAT INCLUDES UNCREWED OR AUTONOMOUS
+7 SYSTEMS, ANTENNAS, COMMUNICATIONS SYSTEMS, SURVEILLANCE DEVICES OR
+8 SENSORS. THIS SUBSECTION APPLIES WHETHER OR NOT THE INSTALLATION,
+9 MAINTENANCE, ACCESS OR OPERATION IS:
+10 1. PERMANENT OR TEMPORARY.
+11 2. PHYSICAL OR EMBEDDED WITHIN OTHER STRUCTURES.
+12 3. AUTHORIZED BY CONTRACT, LICENSE, CONCESSION OR INFORMAL
+13 ARRANGEMENT.
+14 C. THIS SECTION APPLIES TO ANY TRANSACTION, TRANSFER, AGREEMENT OR
+15 ARRANGEMENT THAT IS DESIGNED OR INTENDED TO EVADE, AVOID OR CIRCUMVENT THE
+16 APPLICATION OF THIS SECTION, INCLUDING:
+17 1. THE USE OF ANY INTERMEDIARY, SHELL COMPANY, PARTNERSHIP OR TRUST
+18 TO OBSCURE THE IDENTITY OF A FOREIGN ADVERSARY NATION OR FOREIGN ADVERSARY
+19 AGENT AS THE BENEFICIAL OWNER OR CONTROLLING PARTY.
+20 2. THE RESTRUCTURING OF AN EXISTING INTEREST TO FALL BELOW THE
+21 SUBSTANTIAL INTEREST THRESHOLD WHILE MAINTAINING FUNCTIONAL CONTROL OF OR
+22 THE PROPERTY RIGHTS DESCRIBED IN SUBSECTION A, PARAGRAPH 2 OF THIS
+23 SECTION.
+24 D. AN ENTITY THAT IS A PUBLIC SERVICE CORPORATION,
+25 TELECOMMUNICATIONS PROVIDER, CRITICAL INFRASTRUCTURE OWNER OR GOVERNMENT
+26 AGENCY IN THIS STATE SHALL NOTIFY THE ATTORNEY GENERAL AND THE CORPORATION
+27 COMMISSION IF THE ENTITY HAS ENTERED INTO OR SUSPECTS A LEASE, LICENSE OR
+28 COLOCATION AGREEMENT HAS OR MAY HAVE ALLOWED A FOREIGN ADVERSARY NATION OR
+29 FOREIGN ADVERSARY AGENT TO INSTALL EQUIPMENT ON THE ENTITY'S PROPERTY OR
+30 INFRASTRUCTURE.
+31 E. ANY TRANSACTION IN THIS STATE THAT FAILS TO COMPLY WITH A
+32 COMMITTEE ON FOREIGN INVESTMENT IN THE UNITED STATES MITIGATION AGREEMENT
+33 OR A PRESIDENTIAL ORDER OF DIVESTMENT IMPLEMENTED UNDER 31 CODE OF FEDERAL
+34 REGULATIONS PART 802 IS A VIOLATION OF THIS SECTION.
+35 B. F. The attorney general shall enforce this section. The
+36 enforcement of this section may not be based on a person's race or
+37 national origin. If the attorney general reasonably suspects THAT a
+38 violation of this section occurred, the attorney general:
+39 1. May commence an action in superior court in the county in which
+40 the real property is located.
+41 2. Shall report the matter to the federal bureau of investigation
+42 for suspected espionage activity or to other local, state or federal law
+43 enforcement agencies with the statutory authority to investigate those
+44 cases.
+45 3. Shall report the matter to the committee on foreign investments
+46 INVESTMENT in the United States (50 United States Code section 4565).
+-2-
+
+Senate Amendments to S.B. 1683
+1 4. MAY SEEK AN IMMEDIATE INJUNCTION TO CEASE THE OPERATION OF
+2 EQUIPMENT AND MAY MOVE FOR AN ORDER OF FORFEITURE AND REMOVAL OF THE
+3 PROHIBITED DEVICES AT THE VIOLATOR'S EXPENSE.
+4 G. ON THE INITIATION OF A COMMITTEE ON FOREIGN INVESTMENT IN THE
+5 UNITED STATES REVIEW OF A TRANSACTION INVOLVING REAL PROPERTY IN THIS
+6 STATE, THE ATTORNEY GENERAL MAY PETITION THE COURT FOR AN AUTOMATIC STAY
+7 OF ANY PROPERTY DEVELOPMENT OR EQUIPMENT INSTALLATION PENDING THE FEDERAL
+8 OUTCOME.
+9 C. H. If pursuant to an action filed under subsection B F,
+10 paragraph 1 of this section the superior court finds that title or a
+11 substantial interest in real property was obtained in violation of
+12 subsection A of this section, the court shall:
+13 1. Enter an order:
+14 1. (a) Stating the court's findings.
+15 2. (b) Divesting the person's interest OF THE FOREIGN ADVERSARY
+16 NATION OR FOREIGN ADVERSARY AGENT.
+17 3. (c) Directing the board of supervisors to sell the real
+18 property in a manner that is consistent with title 42, chapter 18, article
+19 7, except that the board of supervisors shall distribute the remaining
+20 proceeds after paying taxes, interest, penalties, fees and costs in the
+21 following order of priority:
+22 (a) (i) To any valid lienholder for the value of the lienholder's
+23 outstanding lien that is attached to the real property.
+24 (b) (ii) To the appropriate county treasurer and the attorney
+25 general to reimburse the appropriate board of supervisors and the attorney
+26 general for expenses incurred in the prosecution of PROSECUTING a
+27 violation of this section.
+28 (c) (iii) To the property owner in an amount equal to the
+29 remaining proceeds of the sale, if any.
+30 2. NOTWITHSTANDING SUBSECTION C OF THIS SECTION, IF THE SUBSTANTIAL
+31 INTEREST IN REAL PROPERTY IS HELD THROUGH A CERTIFICATE OF PURCHASE,
+32 LEASE, RIGHT-OF-WAY OR OTHER INSTRUMENT RELATING TO LAND OWNED IN TRUST BY
+33 THIS STATE PURSUANT TO ARTICLE X, CONSTITUTION OF ARIZONA, DECLARE THAT
+34 THE SUBSTANTIAL INTEREST IS EXTINGUISHED AND SHALL ORDER THAT INSTRUMENT
+35 CANCELED IN ACCORDANCE WITH ITS TERMS, SUBJECT TO THE RIGHTS OF ANY
+36 REGISTERED MORTGAGEE OR OTHER LIENHOLDER PURSUANT TO SECTION 37-255.
+37 D. I. A title insurer, title agent, escrow agent or real estate
+38 licensee may not be held liable for any violation of this section.
+39 E. J. A violation of this section may not be the basis for a title
+40 insurance claim for any title insurance policy issued for REAL property in
+41 this state.
+42 F. K. A foreign adversary nation or foreign adversary agent may
+43 acquire real property or any interest in real property in this state by
+44 devise or descent, the enforcement of security interests or the collection
+45 of debt, if the foreign adversary nation or foreign adversary agent sells,
+46 transfers or otherwise divests from the real property within one hundred
+47 twenty days after acquiring the real property.
+-3-
+
+Senate Amendments to S.B. 1683
+1 G. L. It is unlawful for a person to knowingly make to a law
+2 enforcement agency of this state or a political subdivision of this state
+3 a false, fraudulent or unfounded report or statement regarding an alleged
+4 violation of this section. A violation of this subsection is a class 1
+5 misdemeanor.
+6 M. A FOREIGN ADVERSARY AGENT THAT VIOLATES SUBSECTION B OF THIS
+7 SECTION IS GUILTY OF A CLASS 5 FELONY.
+8 H. N. For the purposes of this section:
+9 1. "ANTENNA" MEANS COMMUNICATIONS EQUIPMENT THAT TRANSMITS OR
+10 RECEIVES ELECTROMAGNETIC RADIO FREQUENCY SIGNALS AND THAT IS USED IN
+11 PROVIDING WIRELESS SERVICES.
+12 2. "BENEFICIAL OWNER" MEANS ANY PERSON OR ENTITY THAT, DIRECTLY OR
+13 INDIRECTLY THROUGH ANY CONTRACT, ARRANGEMENT, RELATIONSHIP OR OTHERWISE,
+14 HAS OR SHARES VOTING POWER OR INVESTMENT POWER OVER THE PROPERTY OR THE
+15 ENTITY HOLDING THE PROPERTY.
+16 3. "COMMUNICATIONS SYSTEM" MEANS ANY EQUIPMENT AT A FIXED LOCATION
+17 THAT ENABLES WIRELESS OR WIRELINE COMMUNICATIONS BETWEEN USER EQUIPMENT
+18 AND A NETWORK.
+19 4. "CONCESSION" MEANS A RIGHT TO USE REAL PROPERTY, INCLUDING PORTS
+20 AND AIRPORTS, FOR A SPECIFIC PURPOSE OR FOR A SPECIFIC PERIOD OF TIME,
+21 PURSUANT TO AN AGREEMENT WITH A GOVERNMENT ENTITY OR A PRIVATE PERSON.
+22 5. "CONTINGENT INTEREST" MEANS A FINANCIAL INSTRUMENT OR
+23 CONTRACTUAL RIGHT THAT DOES NOT CONSTITUTE AN EQUITY OR PROPERTY INTEREST
+24 BUT IS CONVERTIBLE INTO, OR PROVIDES THE RIGHT TO ACQUIRE, AN EQUITY OR
+25 PROPERTY INTEREST ON THE OCCURRENCE OF A CONTINGENCY OR DEFINED EVENT.
+26 6. "CONTROL" MEANS THE POWER, DIRECT OR INDIRECT, WHETHER OR NOT
+27 EXERCISED, TO DETERMINE, DIRECT OR DECIDE IMPORTANT MATTERS AFFECTING THE
+28 REAL PROPERTY, INCLUDING THE SALE, LEASE, MORTGAGE OR DEVELOPMENT OF THE
+29 REAL PROPERTY.
+30 1. 7. "Foreign adversary agent" means any of the following:
+31 (a) An agent of a foreign adversary nation involved in espionage.
+32 (b) A state-owned enterprise of a foreign adversary nation.
+33 (c) An entity that is directed or controlled by a foreign adversary
+34 nation or the proxies of that foreign adversary nation.
+35 (d) A leader of a controlling political party or government or any
+36 administrative subdivision of a foreign adversary nation.
+37 (e) Any business or other entity that is headquartered or domiciled
+38 in a foreign adversary nation and directly or indirectly held or
+39 controlled by a foreign adversary nation.
+40 (f) A FOREIGN PERSON AS DEFINED IN 31 CODE OF FEDERAL REGULATIONS
+41 SECTION 802.221 WHEN APPLIED TO A FOREIGN ADVERSARY NATION.
+42 (g) AN INDIVIDUAL WHO IS A MEMBER OF OR WHO ACTS IN SUPPORT OF A
+43 DESIGNATED FOREIGN TERRORIST ORGANIZATION UNDER SECTION 219 OF THE
+44 IMMIGRATION AND NATIONALITY ACT (8 UNITED STATES CODE SECTION 1189).
+45 2. 8. "Foreign adversary nation" means a country that is either of
+46 the following:
+-4-
+
+Senate Amendments to S.B. 1683
+1 (a) Identified by the United States director of national
+2 intelligence as a country that poses a risk to the national security of
+3 the United States in each of the three most recent annual threat
+4 assessments of the United States intelligence community issued pursuant to
+5 section 108b of the national security act of 1947 (50 United States Code
+6 section 3043b).
+7 (b) Determined by the United States department of commerce pursuant
+8 to 15 Code of Federal Regulations section 791.4.
+9 9. "LEASE" MEANS A CONTRACT OR ARRANGEMENT, WRITTEN OR ORAL, FOR
+10 THE POSSESSION AND USE OF REAL PROPERTY FOR A SPECIFIED PERIOD OF TIME.
+11 10. "SENSOR" MEANS A HIGH-SENSITIVITY DEVICE THAT IS DESIGNED TO
+12 DETECT, MEASURE OR RECORD PHYSICAL STIMULI, INCLUDING SEISMIC, THERMAL,
+13 ACOUSTIC OR CHEMICAL DATA.
+14 3. 11. "Substantial interest" means an interest of thirty [FIVE]
+15 [FIFTEEN] percent or more THAT IS CALCULATED AS IF ALL CONTINGENT
+16 INTERESTS THAT ARE HELD BY THE FOREIGN ADVERSARY NATION OR FOREIGN
+17 ADVERSARY AGENT HAVE BEEN CONVERTED OR EXERCISED.
+18 12. "SURVEILLANCE DEVICE" MEANS A DEVICE OR APPARATUS THAT CAN BE
+19 USED TO INTERCEPT THE CONTENTS OF A COMMUNICATION OR TO CONDUCT VIDEO OR
+20 ELECTRONIC MONITORING.
+21 Sec. 2. Applicability
+22 Section 33-443, Arizona Revised Statutes, as amended by this act,
+23 applies to both:
+24 1. Transactions that are entered into on or after the effective
+25 date of this act.
+26 2. A renewal, extension, modification or exercise of rights that is
+27 related to an existing real property interest and that occurs on or after
+28 the effective date of this act.
+29 Sec. 3. Emergency
+30 This act is an emergency measure that is necessary to preserve the
+31 public peace, health or safety and is operative immediately as provided by
+32 law.
+33 Enroll and engross to conform
+34 Amend title to conform
+FRANK CARROLL
+1683FloorCARROLL.docx
+02/23/2026
+9:59 PM
+C: MR
+130SUYCKC
+-5-

@@ -1,0 +1,300 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Judiciary and Elections
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Judiciary and Elections
+Second Regular Session S.B. 1040
+COMMITTEE ON JUDICIARY AND ELECTIONS
+SENATE AMENDMENTS TO S.B. 1040
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 15-423, Arizona Revised Statutes, is amended to
+3 read:
+4 15-423. School district precinct registers; date of
+5 preparation; contents; copies
+6 A. By the fifth day preceding the elections for membership on
+7 school district governing boards the county recorder shall prepare from
+8 the original affidavits of registration at least four printed or typed
+9 lists of all uncanceled registrations of each school district ELECTION
+10 PRECINCT in the county, and the lists are the official school district
+11 precinct registers.
+12 B. The official school district precinct registers shall contain
+13 all information required to be included on precinct registers. The county
+14 recorder may combine the precinct register and the official school
+15 district precinct register into one common register.
+16 C. ON REQUEST, the county recorder shall, upon request, provide
+17 copies of school district precinct registers in the manner and for the
+18 fees prescribed in section 16-168, or section 16-172 for political
+19 subdivisions, for copies of precinct registers.
+20 D. By the fifth day preceding a special election or an election
+21 held at a time and place other than a general election in a school
+22 district, the county recorder shall prepare from the original affidavits
+23 of registration at least four printed or typed lists of all uncanceled
+24 registrations of each school district election precinct, and the lists are
+25 the official school district precinct registers. The official school
+26 district precinct registers shall contain all information required to be
+27 included on precinct registers. The governing board of the school
+28 district COUNTY SCHOOL SUPERINTENDENT shall request of the county recorder
+
+Senate Amendments to S.B. 1040
+1 and the county recorder shall provide to the school district copies of
+2 school district precinct registers in the manner and for the fees COSTS
+3 prescribed in section 16-172 for copies of precinct registers.
+4 Sec. 2. Section 16-168, Arizona Revised Statutes, is amended to
+5 read:
+6 16-168. Precinct registers; date of preparation; contents;
+7 registration rolls access; reports; statewide
+8 database; violation; classification
+9 A. By the tenth day preceding the primary and general elections the
+10 county recorder shall prepare from the original registration forms or from
+11 electronic media at least four lists that are printed or typed on paper,
+12 or at least two electronic media poll lists, or any combination of both,
+13 of all qualified electors in each precinct in the county, and the lists
+14 shall be the official precinct registers.
+15 B. The official precinct registers for use at the polling place
+16 shall contain at least the names in full, party preference, date of
+17 registration and residence address of each qualified elector in the
+18 respective precincts. The names shall be in alphabetical order and, in a
+19 column to the left of the names, shall be numbered consecutively beginning
+20 with number 1 in each precinct register.
+21 C. For the purposes of transmitting voter registration information
+22 as prescribed by this subsection, electronic media shall be the principal
+23 media. A county or state chairman who is eligible to receive copies of
+24 precinct lists as prescribed by this subsection may request that the
+25 recorder provide a paper copy of the precinct lists. In addition to
+26 preparing the official precinct lists, the county recorder shall provide a
+27 means for electronically reproducing the precinct lists. Unless otherwise
+28 agreed, the county recorder shall deliver one electronic media copy of
+29 each precinct list in the county without charge and on the same day within
+30 eight days after the close of registration for the primary and general
+31 elections to the county chairman and one electronic media copy to the
+32 state chairman of each party that has at least four candidates other than
+33 presidential electors appearing on the ballot in that county at the
+34 current election. The secretary of state shall establish a single format
+35 that prescribes the manner and template in which all county recorders
+36 provide this data to the secretary of state to ensure that the submissions
+37 are uniform from all counties in this state, that all submissions are
+38 identical in format, including the level of detail for voting history, and
+39 that information may readily be combined from two or more counties. The
+40 electronic media copies of the precinct lists that are delivered to the
+41 party chairmen shall include for each elector the following information:
+42 1. Name in full and appropriate title.
+43 2. Party preference.
+44 3. Date of registration.
+45 4. Residence address.
+46 5. Mailing address, if different from residence address.
+47 6. Zip code.
+48 7. Telephone number if given.
+-2-
+
+Senate Amendments to S.B. 1040
+1 8. Birth year.
+2 9. Occupation if given.
+3 10. Voting history for all elections in the prior four years and
+4 any other information regarding registered voters that the county recorder
+5 or city or town clerk maintains electronically and that is public
+6 information.
+7 11. All data relating to early voters, including ballot requests
+8 and ballot returns.
+9 D. The names on the precinct lists shall be in alphabetical order
+10 and the precinct lists in their entirety, unless otherwise agreed, shall
+11 be delivered to each county chairman and each state chairman within ten
+12 business days of the close of each date for counting registered voters
+13 prescribed by subsection G of this section other than the primary and
+14 general election registered voter counts in the same format and media as
+15 prescribed by subsection C of this section. During the thirty-three days
+16 immediately preceding an election and on request from a county or state
+17 chairman, the county recorder shall provide at no cost a daily list of
+18 persons who have requested an early ballot and shall provide at no cost a
+19 weekly listing of persons who have returned their early ballots. The
+20 recorder shall provide the daily and weekly information through the Friday
+21 preceding the election. On request from a county chairman or state
+22 chairman, the county recorder of a county with a population of more than
+23 eight hundred thousand persons shall provide at no cost a daily listing of
+24 persons who have returned their early ballots. The daily listing shall be
+25 provided Mondays through Fridays, beginning with the first Monday
+26 following the start of early voting and ending on the Monday before the
+27 election.
+28 D. THE COUNTY RECORDER SHALL PROVIDE ACCESS TO THE VOTER
+29 REGISTRATION ROLLS BY WAY OF AN INTERNET PORTAL THAT IS ACCESSIBLE TO THE
+30 PUBLIC AND THAT ALLOWS THE INFORMATION TO BE DOWNLOADED. [THE INFORMATION
+31 SHALL BE IN A READ ONLY FORMAT AND IN A VERSION THAT MAY NOT BE
+32 EDITED.] THE COUNTY RECORDER MAY NOT CHARGE A FEE FOR THE ACCESS OR FOR
+33 THE INFORMATION.
+34 E. Precinct registers and other lists and information derived from
+35 registration forms AND FROM THE VOTER REGISTRATION ROLLS may be used only
+36 for purposes relating to a political or political party activity, a
+37 political campaign or an election, for revising election district
+38 boundaries or for any other purpose specifically authorized by law and may
+39 not be used for a commercial purpose as defined in section 39-121.03. The
+40 sale of registers, lists and information derived from registration forms
+41 AND FROM THE VOTER REGISTRATION ROLLS to a candidate or a registered
+42 political committee for a use specifically authorized by this subsection
+43 does not constitute use for a commercial purpose. The county recorder,
+44 the secretary of state and other officers in charge of elections, on a
+45 request for an authorized use and within thirty days from receipt of the
+46 request, shall prepare additional copies of an official precinct list and
+47 furnish them to any person requesting them on payment of a fee equal to
+-3-
+
+Senate Amendments to S.B. 1040
+1 the following amounts for the following number of voter registration
+2 records provided:
+3 1. For one to one hundred twenty-four thousand nine hundred
+4 ninety-nine records, $93.75 plus $0.0005 per record.
+5 2. For one hundred twenty-five thousand to two hundred forty-nine
+6 thousand nine hundred ninety-nine records, $156.25 plus $0.000375 per
+7 record.
+8 3. For two hundred fifty thousand to four hundred ninety-nine
+9 thousand nine hundred ninety-nine records, $203.13 plus $0.00025 per
+10 record.
+11 4. For five hundred thousand to nine hundred ninety-nine thousand
+12 nine hundred ninety-nine records, $265.63 plus $0.000125 per record.
+13 5. For one million or more records, $328.13 plus $0.0000625 per
+14 record.
+15 F. Any person in possession of a precinct register or list, in
+16 whole or part, or any reproduction of a precinct register or list, shall
+17 not permit ALLOW the register or list to be used, bought, sold or
+18 otherwise transferred for any purpose except for uses otherwise authorized
+19 by this section. A person in possession of information derived from voter
+20 registration forms or precinct registers shall not distribute, post or
+21 otherwise provide access to any portion of that information through the
+22 internet except as authorized by subsection I of this section. Nothing in
+23 this section shall preclude public inspection of voter registration
+24 records at the office of the county recorder for the purposes prescribed
+25 by this section, except that the month and day of birth date, the social
+26 security number or any portion thereof, the driver license number or
+27 nonoperating identification license number, the Indian census number, the
+28 father's name or mother's maiden name, the state or country of birth and
+29 the records containing a voter's signature and a voter's e-mail address
+30 shall not be accessible or reproduced by any person other than the voter,
+31 by an authorized government official in the scope of the official's
+32 duties, for any purpose by an entity designated by the secretary of state
+33 as a voter registration agency pursuant to the national voter registration
+34 act of 1993 (P.L. 103-31; 107 Stat. 77), for signature verification on
+35 petitions and candidate filings, for election purposes and for news
+36 gathering purposes by a person engaged in newspaper, radio, television or
+37 reportorial work, or connected with or employed by a newspaper, radio or
+38 television station or pursuant to a court order. Notwithstanding any
+39 other law, a voter's e-mail address may not be released for any purpose.
+40 A person who violates this subsection or subsection E of this section is
+41 guilty of a class 6 felony.
+42 G. The county recorder shall count the registered voters by
+43 political party by precinct, legislative district and congressional
+44 district as follows:
+45 1. In even numbered years, the county recorder shall count all
+46 persons who are registered to vote as of:
+47 (a) January 2.
+48 (b) April 1.
+-4-
+
+Senate Amendments to S.B. 1040
+1 (c) The last day on which a person may register to be eligible to
+2 vote in the next primary election.
+3 (d) The last day on which a person may register to be eligible to
+4 vote in the next general election.
+5 (e) The last day on which a person may register to be eligible to
+6 vote in the next presidential preference election.
+7 2. In odd numbered years, the county recorder shall count all
+8 persons who are registered to vote as of:
+9 (a) January 2.
+10 (b) April 1.
+11 (c) July 1.
+12 (d) October 1.
+13 H. The county recorder shall report the totals to the secretary of
+14 state as soon as is practicable following each of the dates prescribed in
+15 subsection G of this section. The report shall include completed
+16 registration forms returned in accordance with section 16-134,
+17 subsection B. The county recorder shall also provide the report in a
+18 uniform electronic computer media format that shall be agreed on between
+19 the secretary of state and all county recorders. The secretary of state
+20 shall then prepare a summary report for the state and shall maintain that
+21 report as a permanent record.
+22 I. The county recorder and the secretary of state shall protect
+23 access to voter registration information in an auditable format and method
+24 specified in the secretary of state's electronic voting system
+25 instructions and procedures manual that is adopted pursuant to section
+26 16-452.
+27 J. The secretary of state shall develop and administer a statewide
+28 database of voter registration information that contains the name and
+29 registration information of every registered voter in this state. The
+30 statewide database is a matter of statewide concern and is not subject to
+31 modification or further regulation by a political subdivision. The
+32 database shall include an identifier that is unique for each individual
+33 voter. The database shall provide for access by voter registration
+34 officials and shall allow expedited entry of voter registration
+35 information after it is received by county recorders. As a part of the
+36 statewide voter registration database, county recorders shall provide for
+37 the electronic transmittal of that information to the secretary of state
+38 on a real time basis. The secretary of state shall provide for
+39 maintenance of the database, including provisions regarding removal of
+40 ineligible voters that are consistent with the national voter registration
+41 act of 1993 (P.L. 103-31; 107 Stat. 77; 52 United States Code sections
+42 20501 through 20511) and the help America vote act of 2002 (P.L. 107-252;
+43 116 Stat. 1666; 52 United States Code sections 20901 through 21145),
+44 provisions regarding removal of duplicate registrations and provisions to
+45 ensure that eligible voters are not removed in error. For the purpose of
+46 maintaining compliance with the help America vote act of 2002, each county
+47 voter registration system is subject to approval by the secretary of state
+48 for compatibility with the statewide voter registration database system.
+-5-
+
+Senate Amendments to S.B. 1040
+1 K. Except as provided in subsection L of this section, for requests
+2 for the use of registration forms and access to information as provided in
+3 subsections E and F of this section, the county recorder shall receive and
+4 respond to requests regarding federal, state and county elections.
+5 L. Beginning January 1, 2008, recognized political parties shall
+6 request precinct lists and access to information as provided in
+7 subsections E and F of this section during the time periods prescribed in
+8 subsection C or D of this section and the county recorder shall receive
+9 and respond to those requests. If the county recorder does not provide
+10 the requested materials within the applicable time prescribed for the
+11 county recorder pursuant to subsection C or D of this section, a
+12 recognized political party may request that the secretary of state provide
+13 precinct lists and access to information as provided in subsections E and
+14 F of this section for federal, state and county elections. The secretary
+15 of state shall not provide access to precinct lists and information for
+16 recognized political parties unless the county recorder has failed or
+17 refused to provide the lists and materials as prescribed by this section.
+18 The secretary of state may charge the county recorder a fee determined by
+19 rule for each name or record produced.
+20 M. For municipal registration information in those municipalities
+21 in which the county administers the municipal elections, county and state
+22 party chairmen shall request and obtain voter registration information and
+23 precinct lists from the city or town clerk during the time periods
+24 prescribed in subsection C or D of this section. If the city or town
+25 clerk does not provide that information within the same time prescribed
+26 for county recorders pursuant to subsection C or D of this section, the
+27 county or state party chairman may request and obtain the information from
+28 the county recorder. The county recorder shall provide the municipal
+29 voter registration and precinct lists within the time prescribed in
+30 subsection C or D of this section.
+31 N. K. The county recorders and the secretary of state shall not
+32 prohibit any person or entity prescribed in subsection C of this section
+33 from distributing a precinct list to any person or entity that is deemed
+34 to be using the precinct list in a lawful manner as prescribed in
+35 subsections E and F of this section.
+36 Enroll and engross to conform
+37 Amend title to conform
+1040JUDE.docx
+01/13/2026
+01:08 PM
+S: ZD/KS/ci
+130EKCPZM
+-6-

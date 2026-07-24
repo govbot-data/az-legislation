@@ -1,0 +1,628 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Judiciary and Elections
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Judiciary and Elections
+Second Regular Session S.B. 1723
+COMMITTEE ON JUDICIARY AND ELECTIONS
+SENATE AMENDMENTS TO S.B. 1723
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-3602, Arizona Revised Statutes, is amended to
+3 read:
+4 13-3602. Order of protection; procedure; contents; arrest for
+5 violation; penalty; protection order from another
+6 jurisdiction; definition
+7 A. A person may file a verified petition, as in civil actions, with
+8 a magistrate, justice of the peace or superior court judge for an order of
+9 protection for the purpose of restraining a person from committing an act
+10 included in domestic violence. If the person is a minor, the parent,
+11 legal guardian or person who has legal custody of the minor shall file the
+12 petition unless the court determines otherwise. The petition shall name
+13 the parent, guardian or custodian as the plaintiff and the minor is a
+14 specifically designated person for the purposes of subsection G of this
+15 section. If a person is either temporarily or permanently unable to
+16 request an order, a third party may request an order of protection on
+17 behalf of the plaintiff. After the request, the judicial officer shall
+18 determine if the third party is an appropriate requesting party for the
+19 plaintiff. For the purposes of this section, notwithstanding the location
+20 of the plaintiff or defendant, any court in this state may issue or
+21 enforce an order of protection.
+22 B. An order of protection shall not be granted:
+23 1. Unless the party who requests the order files a written verified
+24 petition for an order.
+25 2. Against a person who is less than twelve years of age unless the
+26 order is granted by the juvenile division of the superior court.
+27 3. Against more than one defendant.
+28 C. The petition shall state the:
+
+Senate Amendments to S.B. 1723
+1 1. Name of the plaintiff. The plaintiff's address and contact
+2 information shall be disclosed to the court for purposes of service and
+3 notification. The address and contact information shall not be listed on
+4 the petition. Whether or not the court issues an order of protection, the
+5 plaintiff's address and contact information shall be maintained in a
+6 separate document or automated database and is not subject to release or
+7 disclosure by the court or any form of public access except as ordered by
+8 the court.
+9 2. Name and address, if known, of the defendant.
+10 3. Specific statement, including dates, of the domestic violence
+11 alleged.
+12 4. Relationship between the parties pursuant to section 13-3601,
+13 subsection A and whether there is pending between the parties an action
+14 for maternity or paternity, annulment, legal separation or dissolution of
+15 marriage.
+16 5. Name of the court in which any prior or pending proceeding or
+17 order was sought or issued concerning the conduct that is sought to be
+18 restrained.
+19 6. Desired relief.
+20 D. A fee shall not be charged for filing a petition under this
+21 section or for service of process. Each court shall provide, without
+22 charge, forms for purposes of this section for assisting parties without
+23 counsel. The court shall make reasonable efforts to provide the
+24 appropriate information to both parties on emergency and counseling
+25 services that are available in the local area.
+26 E. The court shall review the petition, any other pleadings on file
+27 and any evidence offered by the plaintiff, including any evidence of
+28 harassment by electronic contact or communication, to determine whether
+29 the orders requested should issue without further hearing. The court
+30 shall issue an order of protection under subsection G of this section if
+31 the court determines that there is reasonable cause to believe any of the
+32 following:
+33 1. The defendant may commit an act of domestic violence.
+34 2. The defendant has committed an act of domestic violence within
+35 the past year or within a longer period of time if the court finds that
+36 good cause exists to consider a longer period.
+37 F. For the purposes of determining the period of time under
+38 subsection E, paragraph 2 of this section, any time that the defendant has
+39 been incarcerated or out of this state shall not be counted. If the court
+40 denies the requested relief, it may schedule a further hearing within ten
+41 days, with reasonable notice to the defendant.
+42 G. If a court issues an order of protection, the court may do any
+43 of the following:
+44 1. Enjoin the defendant from committing a violation of one or more
+45 of the offenses included in domestic violence.
+46 2. Grant one party the use and exclusive possession of the parties'
+47 residence on a showing that there is reasonable cause to believe that
+-2-
+
+Senate Amendments to S.B. 1723
+1 physical harm may otherwise result. If the other party is accompanied by
+2 a law enforcement officer, the other party may return to the residence on
+3 one occasion to retrieve belongings. A law enforcement officer is not
+4 liable for any act or omission in the good faith exercise of the officer's
+5 duties under this paragraph. While the order of protection is in effect,
+6 if a party was granted the use and exclusive possession of the parties'
+7 residence and subsequently moves out of the house RESIDENCE, the party
+8 must file a notice in writing with the court within five days after moving
+9 out of the residence. After receiving the notification from the
+10 plaintiff, the court shall provide notice to the defendant that the
+11 plaintiff has moved out of the residence and of the defendant's right to
+12 request a hearing pursuant to subsection L of this section.
+13 3. Restrain the defendant from contacting the plaintiff or other
+14 specifically designated persons and from coming near the residence, place
+15 of employment or school of the plaintiff or other specifically designated
+16 locations or persons on a showing that there is reasonable cause to
+17 believe that physical harm may otherwise result.
+18 4. If the court finds that the defendant is a credible threat to
+19 the physical safety of the plaintiff or other specifically designated
+20 persons, prohibit the defendant from possessing or purchasing a firearm
+21 for the duration of the order. If the court prohibits the defendant from
+22 possessing a firearm, the court shall also order the defendant to transfer
+23 any firearm owned or possessed by the defendant immediately after service
+24 of the order to the appropriate law enforcement agency for the duration of
+25 the order. If the defendant does not immediately transfer the firearm,
+26 the defendant shall transfer the firearm within twenty-four hours after
+27 service of the order.
+28 5. If the order was issued after notice and a hearing at which the
+29 defendant had an opportunity to participate, require the defendant to
+30 complete a domestic violence offender treatment program that is provided
+31 by a facility approved by the department of health services or a probation
+32 department or any other program deemed appropriate by the court.
+33 6. Grant relief that is necessary for the protection of the alleged
+34 victim and other specifically designated persons and that is proper under
+35 the circumstances.
+36 7. Grant the plaintiff the exclusive care, custody or control of
+37 any animal that is owned, possessed, leased, kept or held by the
+38 plaintiff, the defendant or a minor child residing in the residence or
+39 household of the plaintiff or the defendant, and order the defendant to
+40 stay away from the animal and forbid the defendant from taking,
+41 transferring, encumbering, concealing, committing an act of cruelty or
+42 neglect in violation of section 13-2910 or otherwise disposing of the
+43 animal.
+44 8. REQUIRE THE DEFENDANT TO PROVIDE IDENTIFYING INFORMATION TO THE
+45 PLAINTIFF, INCLUDING THE DEFENDANT'S RESIDENCE, PLACE OF EMPLOYMENT OR
+46 VEHICLE INFORMATION, ON A SHOWING THAT THERE IS REASONABLE CAUSE TO
+47 BELIEVE THAT PHYSICAL HARM MAY OTHERWISE RESULT.
+-3-
+
+Senate Amendments to S.B. 1723
+1 H. The court shall not grant a mutual order of protection. If
+2 opposing parties separately file verified petitions for an order of
+3 protection, the courts after consultation between the judges involved may
+4 consolidate the petitions of the opposing parties for hearing. This does
+5 not prohibit a court from issuing cross orders of protection.
+6 I. After granting an order of protection, the court shall provide
+7 the order to a law enforcement agency or a constable as set forth in
+8 subsection J of this section for service or to an entity that is
+9 authorized in subsection K of this section to serve process. The agency
+10 or entity serving the order shall provide confirmation of service to the
+11 plaintiff as soon as practicable. If service of an order cannot be
+12 completed within fifteen days after the agency or entity receives the
+13 order, the agency or entity that is attempting service shall notify the
+14 plaintiff and continue to attempt service. This notification may be
+15 completed by a victim notification system, if available.
+16 J. If the order of protection is provided to a law enforcement
+17 agency or a constable, service of an order of protection is as follows:
+18 1. For each order of protection that is issued by a municipal
+19 court, if the defendant can be served within that city or town, the order
+20 shall be served by the law enforcement agency of that city or town. If
+21 the order can be served in another city or town, the order shall be served
+22 by the law enforcement agency of that city or town. If the order cannot
+23 be served within a city or town, the order shall be served by the sheriff
+24 or constable of the county in which the defendant can be served.
+25 2. For each order of protection that is issued by a justice of the
+26 peace, the order of protection shall be served by the sheriff or constable
+27 of the county in which the defendant can be served or by a municipal law
+28 enforcement agency.
+29 3. For each order of protection that is issued by a superior court
+30 judge or commissioner, the order of protection shall by served by the
+31 sheriff or constable of the county where the defendant can be served.
+32 K. In addition to persons authorized to serve process pursuant to
+33 rule 4(d) of the Arizona rules of civil procedure, a peace officer or a
+34 correctional officer as defined in section 41-1661 who is acting in the
+35 officer's official capacity may serve an order of protection that is
+36 issued pursuant to this section. Service of the order of protection has
+37 priority over other service of process that does not involve an immediate
+38 threat to the safety of a person.
+39 L. At any time during the period during which the order is in
+40 effect, a party who is under an order of protection or who is restrained
+41 from contacting the other party is entitled to one hearing on written
+42 request. No fee may be charged for requesting a hearing. A hearing that
+43 is requested by a party who is under an order of protection or who is
+44 restrained from contacting the other party shall be held within ten days
+45 from the date requested unless the court finds good cause to continue the
+46 hearing. If exclusive use of the home is awarded, the hearing shall be
+47 held within five days from the date requested. The hearing shall be held
+-4-
+
+Senate Amendments to S.B. 1723
+1 at the earliest possible time. An ex parte order that is issued under
+2 this section shall state on its face that the defendant is entitled to a
+3 hearing on written request and shall include the name and address of the
+4 judicial office where the request may be filed. After the hearing, the
+5 court may modify, quash or continue the order. If the exclusive use of
+6 the home is awarded to the party, the court, on written request of a
+7 party, may hold additional hearings at any time if there is a change in
+8 circumstances related to the primary residence.
+9 M. The order shall include the following statement:
+10 Warning
+11 This is an official court order. If you disobey this
+12 order, you will be subject to arrest and prosecution for the
+13 crime of interfering with judicial proceedings and any other
+14 crime you may have committed in disobeying this order.
+15 N. An order of protection that is not served on the defendant
+16 within one year after the date that the order is issued expires. An order
+17 is effective on the defendant on service of a copy of the order and
+18 petition. An order expires two years after service on the defendant. A
+19 modified order is effective on service and expires two years after service
+20 of the initial order and petition.
+21 O. A supplemental information form that is used by the court or a
+22 law enforcement agency solely for the purposes of service of process on
+23 the defendant and that contains information provided by the plaintiff is
+24 confidential.
+25 P. Each affidavit, declaration, acceptance or return of service
+26 shall be filed as soon as practicable but not later than seventy-two
+27 hours, excluding weekends and holidays, with the clerk of the issuing
+28 court or as otherwise required by court rule. This filing shall be
+29 completed in person, electronically or by fax.
+30 Q. The supreme court shall maintain a central repository for orders
+31 of protection. Within twenty-four hours after the affidavit, declaration,
+32 acceptance or return of service has been filed, excluding weekends and
+33 holidays, the court from which the order or any modified order was issued
+34 shall enter the order and proof of service into the supreme court's
+35 central repository for orders of protection. The supreme court shall
+36 register the order with the national crime information center. The
+37 effectiveness of an order does not depend on its registration, and for
+38 enforcement purposes pursuant to section 13-2810, a copy of an order of
+39 the court, whether or not registered, is presumed to be a valid existing
+40 order of the court for a period of two years from the date of service of
+41 the order on the defendant.
+42 R. A peace officer, with or without a warrant, may arrest a person
+43 if the peace officer has probable cause to believe that the person has
+44 violated section 13-2810 by disobeying or resisting an order that is
+45 issued in any jurisdiction in this state pursuant to this section, whether
+46 or not such violation occurred in the presence of the officer. Criminal
+47 violations of an order issued pursuant to this section shall be referred
+-5-
+
+Senate Amendments to S.B. 1723
+1 to an appropriate law enforcement agency. The provisions for release
+2 under section 13-3883, subsection A, paragraph 4 and section 13-3903 do
+3 not apply to an arrest made pursuant to this section. For the purposes of
+4 this section, any court in this state has jurisdiction to enforce a valid
+5 order of protection that is issued in this state and that has been
+6 violated in any jurisdiction in this state.
+7 S. A person who is arrested pursuant to subsection R of this
+8 section may be released from custody in accordance with the Arizona rules
+9 of criminal procedure or any other applicable statute. An order for
+10 release, with or without an appearance bond, shall include pretrial
+11 release conditions that are necessary to provide for the protection of the
+12 alleged victim and other specifically designated persons and may provide
+13 for any other additional conditions that the court deems appropriate,
+14 including participation in any counseling programs available to the
+15 defendant. The agency with custody of the defendant shall make reasonable
+16 efforts to contact the victim and other specifically designated persons in
+17 the order of protection, if known to the custodial agency, who requested
+18 notification immediately on release of the arrested person from custody.
+19 T. The remedies provided in this section for enforcement of the
+20 orders of the court are in addition to any other civil and criminal
+21 remedies available. The superior court shall have exclusive jurisdiction
+22 to issue orders of protection in all cases if it appears from the petition
+23 that an action for maternity or paternity, annulment, legal separation or
+24 dissolution of marriage is pending between the parties. A municipal court
+25 or justice court shall not issue an order of protection if it appears from
+26 the petition that an action for maternity or paternity, annulment, legal
+27 separation or dissolution of marriage is pending between the parties.
+28 After issuance of an order of protection, if the municipal court or
+29 justice court determines that an action for maternity or paternity,
+30 annulment, legal separation or dissolution of marriage is pending between
+31 the parties, the municipal court or justice court shall stop further
+32 proceedings in the action and forward all papers, together with a
+33 certified copy of docket entries or any other record in the action, to the
+34 superior court where they shall be docketed in the pending superior court
+35 action and shall proceed as though the petition for an order of protection
+36 had been originally brought in the superior court. Notwithstanding any
+37 other law and unless prohibited by an order of the superior court, a
+38 municipal court or justice court may hold a hearing on all matters
+39 relating to its ex parte order of protection if the hearing was requested
+40 before receiving written notice of the pending superior court action. No
+41 AN order of protection shall NOT be invalid or determined to be
+42 ineffective merely because it was issued by a lower court at a time when
+43 an action for maternity or paternity, annulment, legal separation or
+44 dissolution of marriage was pending in a higher court. After a hearing
+45 with notice to the affected party, the court may enter an order requiring
+46 any party to pay the costs of the action, including reasonable attorney
+47 fees, if any. An order that is entered by a justice court or municipal
+-6-
+
+Senate Amendments to S.B. 1723
+1 court after a hearing pursuant to this section may be appealed to the
+2 superior court as provided in title 22, chapter 2, article 4, section
+3 22-425, subsection B and the superior court rules of civil appellate
+4 procedure without regard to an amount in controversy. No A fee may NOT be
+5 charged to either party for filing an appeal. For the purposes of this
+6 subsection, "pending" means, with respect to an action for annulment,
+7 legal separation or dissolution of marriage or for maternity or paternity,
+8 either that:
+9 1. An action has been commenced but a final judgment, decree or
+10 order has not been entered.
+11 2. A post-decree proceeding has been commenced but a judgment,
+12 decree or order finally determining the proceeding has not been entered.
+13 U. A peace officer who makes an arrest pursuant to this section or
+14 section 13-3601 is not civilly or criminally liable for the arrest if the
+15 officer acts on probable cause and without malice.
+16 V. A valid protection order that is related to domestic or family
+17 violence and that is issued by a court in another state, a court of a
+18 United States territory or a tribal court shall be accorded full faith and
+19 credit and shall be enforced as if it were issued in this state for as
+20 long as the order is effective in the issuing jurisdiction. For the
+21 purposes of this subsection:
+22 1. A protection order includes any injunction or other order that
+23 is issued for the purpose of preventing violent or threatening acts or
+24 harassment against, contact or communication with or physical proximity to
+25 another person. A protection order includes temporary and final orders
+26 other than support or child custody orders that are issued by civil and
+27 criminal courts if the order is obtained by the filing of an independent
+28 action or is a pendente lite order in another proceeding. The civil order
+29 shall be issued in response to a complaint, petition or motion that was
+30 filed by or on behalf of a person seeking protection.
+31 2. A protection order is valid if the issuing court had
+32 jurisdiction over the parties and the matter under the laws of the issuing
+33 state, a United States territory or an Indian tribe and the person against
+34 whom the order was issued had reasonable notice and an opportunity to be
+35 heard. If the order is issued ex parte, the notice and opportunity to be
+36 heard shall be provided within the time required by the laws of the
+37 issuing state, a United States territory or an Indian tribe and within a
+38 reasonable time after the order was issued.
+39 3. A mutual protection order that is issued against both the party
+40 who filed a petition or a complaint or otherwise filed a written pleading
+41 for protection against abuse and the person against whom the filing was
+42 made is not entitled to full faith and credit if either:
+43 (a) The person against whom an initial order was sought has not
+44 filed a cross or counter petition or other written pleading seeking a
+45 protection order.
+46 (b) The issuing court failed to make specific findings supporting
+47 the entitlement of both parties to be granted a protection order.
+-7-
+
+Senate Amendments to S.B. 1723
+1 4. A peace officer may presume the validity of and rely on a copy
+2 of a protection order that is issued by another state, a United States
+3 territory or an Indian tribe if the order was given to the officer by any
+4 source. A peace officer may also rely on the statement of any person who
+5 is protected by the order that the order remains in effect. A peace
+6 officer who acts in good faith reliance on a protection order is not
+7 civilly or criminally liable for enforcing the protection order pursuant
+8 to this section.
+9 W. For the purposes of this section, "victim notification system"
+10 means an automated system that may provide plaintiffs and crime victims
+11 with an automated notification regarding the person's case.
+12 Sec. 2. Section 13-3967, Arizona Revised Statutes, is amended to
+13 read:
+14 13-3967. Release on bailable offenses before trial;
+15 definition
+16 A. At his appearance before a judicial officer, any person who is
+17 charged with a public offense that is bailable as a matter of right shall
+18 be ordered released pending trial on his own recognizance or on the
+19 execution of bail in an amount specified by the judicial officer.
+20 B. In determining the method of release or the amount of bail, the
+21 judicial officer, on the basis of available information, shall take into
+22 account all of the following:
+23 1. The views of the victim.
+24 2. The nature and circumstances of the offense charged.
+25 3. Whether the accused has a prior arrest or conviction for a
+26 serious offense or violent or aggravated felony as defined in section
+27 13-706 or an offense in another state that would be a serious offense or
+28 violent or aggravated felony as defined in section 13-706 if committed in
+29 this state.
+30 4. Evidence that the accused poses a danger to others in the
+31 community.
+32 5. The results of a risk or lethality assessment in a domestic
+33 violence charge that is presented to the court.
+34 6. The weight of evidence against the accused.
+35 7. The accused's family ties, employment, financial resources,
+36 character and mental condition.
+37 8. The results of any drug test submitted to the court.
+38 9. Whether the accused is using any substance if its possession or
+39 use is illegal pursuant to chapter 34 of this title.
+40 10. Whether the accused violated section 13-3407, subsection A,
+41 paragraph 2, 3, 4 or 7 involving methamphetamine or section 13-3407.01.
+42 11. The length of residence in the community.
+43 12. The accused's record of arrests and convictions.
+44 13. The accused's record of appearance at court proceedings or of
+45 flight to avoid prosecution or failure to appear at court proceedings.
+46 14. Whether the accused has entered or remained in the United
+47 States illegally.
+-8-
+
+Senate Amendments to S.B. 1723
+1 15. Whether the accused's residence is in this state, in another
+2 state or outside the United States.
+3 C. If a judicial officer orders the release of a defendant who is
+4 charged with a felony either on his own recognizance or on bail, the
+5 judicial officer shall condition the defendant's release on the
+6 defendant's good behavior while so released. On a showing of probable
+7 cause that the defendant committed any offense during the period of
+8 release, a judicial officer may revoke the defendant's release pursuant to
+9 section 13-3968.
+10 D. After providing notice to the victim pursuant to section
+11 13-4406, a judicial officer may impose any of the following conditions on
+12 a person who is released on his own recognizance or on bail:
+13 1. Place the person in the custody of a designated person or
+14 organization agreeing to supervise him.
+15 2. Place restrictions on the person's travel, associates or place
+16 of abode during the period of release.
+17 3. Require the deposit with the clerk of the court of cash or other
+18 security, such deposit to be returned on the performance of the conditions
+19 of release.
+20 4. Prohibit the person from possessing any deadly weapon or
+21 engaging in certain described activities or indulging in intoxicating
+22 liquors or certain drugs.
+23 5. Require the person to report regularly to and remain under the
+24 supervision of an officer of the court.
+25 6. Impose any other conditions deemed reasonably necessary to
+26 assure appearance as required including a condition requiring that the
+27 person return to custody after specified hours.
+28 E. In addition to any of the conditions a judicial officer may
+29 impose pursuant to subsection D of this section, the judicial officer
+30 shall impose both of the following conditions on a person who is charged
+31 with a felony violation of chapter 14 or 35.1 of this title or section
+32 13-3212 OR AN OFFENSE INVOLVING DOMESTIC VIOLENCE AS DEFINED IN SECTION
+33 13-3601 and who is released on his own recognizance or on bail:
+34 1. Electronic monitoring where available.
+35 2. A condition prohibiting the person from having any contact with
+36 the victim.
+37 F. The judicial officer who authorizes the release of the person
+38 charged on his own recognizance or on bail shall do all of the following:
+39 1. Issue an appropriate order containing statements of the
+40 conditions imposed.
+41 2. Inform the person of the penalties that apply to any violation
+42 of the conditions of release.
+43 3. Advise the person that a warrant for his arrest may be issued
+44 immediately on any violation of the conditions of release, including the
+45 failure to submit to deoxyribonucleic acid testing ordered pursuant to
+46 paragraph 4 of this subsection.
+-9-
+
+Senate Amendments to S.B. 1723
+1 4. If the person is charged with a felony or misdemeanor offense
+2 listed in section 13-610, subsection O, paragraph 3 and is summoned to
+3 appear, order the person to report within five days to the law enforcement
+4 agency that arrested the person or to the agency's designee and submit a
+5 sufficient sample of buccal cells or other bodily substances for
+6 deoxyribonucleic acid testing and extraction. If a person does not comply
+7 with an order issued pursuant to this paragraph, the court shall revoke
+8 the person's release.
+9 G. At any time after providing notice to the victim pursuant to
+10 section 13-4406, the judicial officer who orders the release of a person
+11 on any condition specified in this section or the court in which a
+12 prosecution is pending may amend the order to employ additional or
+13 different conditions of release, including either an increase or reduction
+14 in the amount of bail. On application, the defendant shall be entitled to
+15 have the conditions of release reviewed by the judicial officer who
+16 imposed them or by the court in which the prosecution is pending.
+17 Reasonable notice of the application shall be given to the county attorney
+18 and the victim.
+19 H. Any information that is stated or offered in connection with any
+20 order pursuant to this section need not conform to the rules pertaining to
+21 admissibility of evidence in a court of law.
+22 I. This section does not prevent the disposition of any case or
+23 class of cases by forfeiture of bail or collateral security if such
+24 disposition is authorized by the court.
+25 J. A judicial officer who orders the release of a juvenile who is
+26 enrolled in a school and who has been transferred to the criminal division
+27 of the superior court pursuant to section 8-327 or who has been charged as
+28 an adult pursuant to section 13-501 shall notify the appropriate school on
+29 the release of the juvenile from custody.
+30 K. For the purposes of this section and section 13-3968, "judicial
+31 officer" means any person or court authorized pursuant to the constitution
+32 or laws of this state to bail or otherwise release a person before trial
+33 or sentencing or pending appeal.
+34 <<Sec. 3. Section 25-403.03, Arizona Revised Statutes, is amended
+35 to read:
+36 25-403.03. Domestic violence; court considerations;
+37 presumption; conditions on parenting time;
+38 definition
+39 A. Notwithstanding [subsection] [SUBSECTIONS] D [AND F] of this
+40 section, [NEITHER] joint legal decision-making [NOR UNSUPERVISED PARENTING
+41 TIME] shall [not] be awarded if the court makes a finding of the existence
+42 of significant domestic violence pursuant to section 13-3601 or if the
+43 court finds by a preponderance of the evidence that there has been a
+44 significant history of domestic violence. [TO DETERMINE WHETHER
+45 SIGNIFICANT DOMESTIC VIOLENCE OR A SIGNIFICANT HISTORY OF DOMESTIC
+46 VIOLENCE HAS OCCURRED, THE COURT SHALL CONSIDER ALL OF THE FOLLOWING:
+-10-
+
+Senate Amendments to S.B. 1723
+1 1. THE SERIOUSNESS OF THE PARTICULAR ACT OR ACTS OF DOMESTIC
+2 VIOLENCE.
+3 2. THE FREQUENCY OR PERVASIVENESS OF THE ACT OR ACTS OF DOMESTIC
+4 VIOLENCE.
+5 3. THE AMOUNT OF TIME SINCE THE ACT OR ACTS OF DOMESTIC VIOLENCE
+6 OCCURRED.
+7 4. THE IMPACT OF THE ACT OR ACTS OF DOMESTIC VIOLENCE.]
+8 B. The court shall consider evidence of domestic violence as being
+9 contrary to the best interests of the child. The court shall consider the
+10 safety and well-being of the child [TO BE THE CONTROLLING FACTOR IN ANY
+11 DETERMINATION OF LEGAL DECISION-MAKING OR PARENTING TIME MATTER] and [THE
+12 SAFETY] of the victim of the act of domestic violence to be of primary
+13 importance. The court shall consider a perpetrator's history of causing
+14 or threatening to cause physical harm to another person.
+15 C. To determine if a person has committed an act of domestic
+16 violence the court, subject to the rules of evidence, shall consider all
+17 relevant factors[,] including the following:
+18 1. Findings from another court of competent jurisdiction.
+19 2. Police reports.
+20 3. Medical reports.
+21 4. Records of the department of child safety.
+22 5. Domestic violence shelter records.
+23 6. School records.
+24 7. Witness testimony.
+25 D. If the court determines that a parent who is seeking sole or
+26 joint legal decision-making has committed an act of domestic violence
+27 against the other parent, there is a rebuttable presumption that an award
+28 of sole or joint legal decision-making to the parent who committed the act
+29 of domestic violence is contrary to the child's best interests. This
+30 presumption does not apply if both parents have committed an act of
+31 domestic violence. For the purposes of this subsection, a person commits
+32 an act of domestic violence if that person does any of the following:
+33 1. Intentionally, knowingly or recklessly causes or attempts to
+34 cause sexual assault or serious physical injury.
+35 2. Places a person in reasonable apprehension of imminent serious
+36 physical injury to any person.
+37 3. Engages in a pattern of behavior for which a court may issue an
+38 ex parte order to protect the other parent who is seeking child custody or
+39 to protect the child and the child's siblings.
+40 E. To determine [if] [WHETHER] the parent has rebutted the
+41 presumption [PRESCRIBED IN SUBSECTION D OF THIS SECTION,] the court shall
+42 consider all of the following:
+43 1. Whether the parent has demonstrated that being awarded sole or
+44 joint legal decision-making or substantially equal parenting time is in
+45 the child's best interests.
+46 [2. Whether the parent has successfully completed a batterer's
+47 prevention program.
+-11-
+
+Senate Amendments to S.B. 1723
+1 3. Whether the parent has successfully completed a program of
+2 alcohol or drug abuse counseling, if the court determines that counseling
+3 is appropriate.
+4 4. Whether the parent has successfully completed a parenting class,
+5 if the court determines that a parenting class is appropriate.]
+6 [5.] [2.] If the parent is on probation, parole or community
+7 supervision, whether the parent is restrained by a protective order that
+8 was granted after a hearing.
+9 [6.] [3.] Whether the parent has committed any further acts of
+10 domestic violence.
+11 [4. WHETHER THE PARENT HAS COMPLETED ANY OF THE FOLLOWING PROGRAMS
+12 OR CLASSES, BUT THE COURT MAY NOT CONSIDER THE COMPLETION OF ANY PROGRAM
+13 OR CLASS ALONE AS PROOF OF REHABILITATION OR THAT THE PARENT HAS REBUTTED
+14 THE PRESUMPTION PRESCRIBED IN SUBSECTION D OF THIS SECTION:
+15 (a) A DOMESTIC VIOLENCE PROGRAM.
+16 (b) AN ALCOHOL OR DRUG ABUSE COUNSELING PROGRAM.
+17 (c) A PARENTING CLASS.]
+18 F. If the court finds that a parent has committed an act of
+19 domestic violence, that parent has the burden of proving to the court's
+20 satisfaction that parenting time will not endanger the child or
+21 significantly impair the child's emotional development. If the parent
+22 meets this burden to the court's satisfaction, the court shall place
+23 conditions on parenting time that best protect the child and the other
+24 parent from further harm. The court may:
+25 1. Order that an exchange of the child must occur in a protected
+26 setting as specified by the court.
+27 2. Order that an agency specified by the court must supervise
+28 parenting time. If the court allows a family or household member to
+29 supervise parenting time, the court shall establish conditions that this
+30 person must follow during parenting time.
+31 3. Order the parent who committed the act of domestic violence to
+32 attend and complete, to the court's satisfaction, a program of
+33 intervention for perpetrators of domestic violence and any other
+34 counseling the court orders.
+35 4. Order the parent who committed the act of domestic violence to
+36 abstain from possessing or consuming alcohol or controlled substances
+37 during parenting time and for twenty-four hours before parenting time.
+38 5. Order the parent who committed the act of domestic violence to
+39 pay a fee for the costs of supervised parenting time.
+40 6. Prohibit overnight parenting time.
+41 7. Require a bond from the parent who committed the act of domestic
+42 violence for the child's safe return.
+43 8. Order that the address of the child and the other parent remain
+44 confidential.
+45 9. Impose any other condition that the court determines is
+46 necessary to protect the child, the other parent and any other family or
+47 household member.
+-12-
+
+Senate Amendments to S.B. 1723
+1 G. The court shall not order joint counseling between a victim and
+2 the perpetrator of domestic violence. The court may provide a victim with
+3 written information about available community resources related to
+4 domestic violence.
+5 H. The court may request or order the services of the department of
+6 child safety if the court believes that a child may be the victim of child
+7 abuse or neglect as defined in section 8-201.
+8 I. In determining whether the absence or relocation of a parent
+9 shall be weighed against that parent in determining legal decision-making
+10 or parenting time, the court may consider whether the absence or
+11 relocation was caused by an act of domestic violence by the other parent.
+12 [J. FOR THE PURPOSES OF THIS SECTION, "SIGNIFICANT DOMESTIC
+13 VIOLENCE" INCLUDES, BUT IS NOT LIMITED TO, EITHER OF THE FOLLOWING:
+14 1. THE THREATENED, RISKED OR INFLICTED PHYSICAL INJURY OR EMOTIONAL
+15 TRAUMA BY A PARENT ON A CHILD OR THE OTHER PARENT.
+16 2. AN ACT OR ACTS BY A PARENT THAT INVOLVE THE THREAT, USE OR
+17 BRANDISHING OF A FIREARM OR OTHER DANGEROUS WEAPON TO THREATEN OR
+18 INTIMIDATE A CHILD OR THE OTHER PARENT.]>>
+19 Enroll and engross to conform
+20 Amend title to conform
+1723JUDE.docx
+02/19/2026
+8:37 AM
+C: LAT
+130CDCJAJ
+-13-

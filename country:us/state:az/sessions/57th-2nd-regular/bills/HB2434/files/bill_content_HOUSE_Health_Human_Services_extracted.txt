@@ -1,0 +1,738 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Health & Human Services
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON HEALTH & HUMAN SERVICES
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2434
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 36-2525, Arizona Revised Statutes, is amended to
+3 read:
+4 36-2525. Prescription orders; labels; recordkeeping;
+5 definition
+6 A. In addition to the requirements of section 32-1968 pertaining to
+7 prescription orders for prescription-only drugs, the prescription order
+8 for a controlled substance shall bear the name, address and federal
+9 registration number of the prescriber. A prescription order for a
+10 schedule II controlled substance drug other than a hospital drug order for
+11 a hospital inpatient shall contain only one drug order per prescription
+12 blank. If authorized verbally by the prescriber, the pharmacist may make
+13 changes to a written or electronic schedule II controlled substance
+14 prescription order, except for any of the following:
+15 1. The patient's name.
+16 2. The prescriber's name.
+17 3. The drug name.
+18 B. The pharmacist must document on the original prescription order
+19 the changes that were made pursuant to the verbal authorization and record
+20 the time and date the authorization was granted.
+21 C. A person who is registered to dispense controlled substances
+22 under this chapter must keep and maintain prescription orders for
+23 controlled substances as follows:
+24 1. Prescription orders for controlled substances listed in
+25 schedules I and II must be maintained in a separate prescription file for
+26 controlled substances listed in schedules I and II only.
+27 2. Prescription orders for controlled substances listed in
+28 schedules III, IV and V must be maintained either in a separate
+29 prescription file for controlled substances listed in schedules III, IV
+30 and V only or in a form that allows them to be readily retrievable from
+
+House Amendments to H.B. 2434
+1 the other prescription records of the registrant. For the purposes of
+2 this paragraph, "readily retrievable" means that, when the prescription is
+3 initially filed, the face of the prescription is stamped in red ink in the
+4 lower right corner with the letter "C" in a font that is at least one inch
+5 high and that the prescription is filed in the usual consecutively
+6 numbered prescription file for noncontrolled substance prescriptions. The
+7 requirement to stamp the hard copy prescription with a red "C" is waived
+8 if a registrant employs an electronic data processing system or other
+9 electronic recordkeeping system for prescriptions that allows
+10 identification by prescription number and retrieval of original documents
+11 by the prescriber's name, patient's name, drug dispensed and date filled.
+12 D. Except in emergency situations in conformity with subsection E
+13 of this section, under the conditions specified in subsections F and G of
+14 this section or when dispensed directly by a medical practitioner to an
+15 ultimate user, a controlled substance in schedule II shall not be
+16 dispensed without either the written prescription order in ink or
+17 indelible pencil or typewritten and manually signed by the medical
+18 practitioner or an electronic prescription order as prescribed by federal
+19 law or regulation. A schedule II controlled substance that is an opioid
+20 may be dispensed only with an electronic prescription order as prescribed
+21 by federal law or regulation. A prescription order for a schedule II
+22 controlled substance shall not be dispensed more than ninety days after
+23 the date on which the prescription order was issued. Notwithstanding any
+24 other provision of this section, a pharmacy may sell and dispense a
+25 schedule II controlled substance prescribed by a medical practitioner who
+26 is located in another state if the prescription was issued to the patient
+27 according to and in compliance with the applicable laws of the state of
+28 the prescribing medical practitioner and federal law. A prescription
+29 order for a schedule II controlled substance shall not be refilled. A
+30 pharmacist is not in violation of this subsection and may dispense a
+31 prescription order in the following circumstances:
+32 1. During any time period in which an established electronic
+33 prescribing system or a pharmacy management system is not operational or
+34 available in a timely manner. If the electronic prescribing system or a
+35 pharmacy management system is not operational or available, the pharmacist
+36 may dispense a prescription order that is written for a schedule II
+37 controlled substance that is an opioid. The pharmacist must maintain a
+38 record, for a period of time prescribed by the board, of when the
+39 electronic prescribing system or pharmacy management system is not
+40 operational or available in a timely manner.
+41 2. The prescription order for a schedule II controlled substance
+42 that is an opioid is in writing and indicates that the medical
+43 practitioner who issued the prescription order provided care for the
+44 patient in a veterans administration facility, a health facility on a
+45 military base, an Indian health services hospital or other Indian health
+46 service facility, or a tribal-owned clinic.
+-2-
+
+House Amendments to H.B. 2434
+1 E. In emergency situations, emergency quantities of schedule II
+2 controlled substances may be dispensed on an oral prescription order of a
+3 medical practitioner. Such an emergency prescription order shall be
+4 immediately reduced to writing by the pharmacist and shall contain all the
+5 information required for schedule II controlled substances except for the
+6 manual signing of the order by the medical practitioner. Within seven
+7 days after authorizing an emergency oral prescription order, the
+8 prescribing medical practitioner shall cause a written prescription order
+9 manually signed for the emergency quantity prescribed to be delivered to
+10 the dispensing pharmacist or an electronic prescription order to be
+11 transmitted to the dispensing pharmacist. In addition to conforming to
+12 other requirements for prescription orders for schedule II controlled
+13 substances, the prescription order shall indicate electronically or have
+14 written on its face "authorization for emergency dispensing" and the date
+15 of the oral order. If the prescribing medical practitioner fails to
+16 deliver such an emergency prescription order within seven days in
+17 conformance with board rules, the pharmacist shall notify the board.
+18 Failure of the pharmacist to notify the board voids the authority
+19 conferred by this subsection to dispense without a prescription order of a
+20 medical practitioner that is electronic or that is written and manually
+21 signed.
+22 F. Notwithstanding subsections D and N of this section, a patient's
+23 medical practitioner or the medical practitioner's agent may transmit to a
+24 pharmacy by fax a prescription order written for a schedule II controlled
+25 substance, including opioids, if the prescription order is any of the
+26 following:
+27 1. To be compounded for the direct administration to a patient by
+28 parenteral, intravenous, intramuscular, subcutaneous or intraspinal
+29 infusion.
+30 2. For a resident of a long-term care facility.
+31 3. For a patient who is enrolled in a hospice care program that is
+32 certified or paid for by medicare under title XVIII or a hospice program
+33 that is licensed by this state. The medical practitioner or the medical
+34 practitioner's agent must note on the prescription that the patient is a
+35 hospice patient.
+36 G. A fax transmitted pursuant to subsection F of this section is
+37 the original written prescription order for purposes of this section and
+38 must be maintained as required by subsection C of this section.
+39 H. Except when dispensed directly by a medical practitioner to an
+40 ultimate user, a controlled substance included in schedule III or IV that
+41 requires a prescription order as determined under state or federal laws
+42 shall not be dispensed without a written or oral prescription order of a
+43 medical practitioner or an electronic prescription order as prescribed by
+44 federal law or regulation. The prescription order shall not be filled or
+45 refilled more than six months after the date on which the prescription
+46 order was issued. A prescription order authorized to be refilled shall
+47 not be refilled more than five times. Additional quantities may only be
+-3-
+
+House Amendments to H.B. 2434
+1 authorized by the prescribing medical practitioner through issuance of a
+2 new prescription order that shall be treated by the pharmacist as a new
+3 and separate prescription order.
+4 I. Except when dispensed directly by a medical practitioner to an
+5 ultimate user, a controlled substance that is included in schedule V and
+6 that requires a prescription order as determined under state or federal
+7 laws shall not be dispensed without a written or oral prescription order
+8 of a medical practitioner. The prescription order may be refilled as
+9 authorized by the prescribing medical practitioner but shall not be filled
+10 or refilled more than one year after the date of issuance.
+11 J. A controlled substance that is listed in schedule III, IV or V
+12 and that does not require a prescription order as determined under state
+13 or federal laws may be dispensed at retail by a pharmacist or a pharmacy
+14 intern under the pharmacist's supervision without a prescription order to
+15 a purchaser who is at least eighteen years of age if all of the following
+16 are true:
+17 1. It is for a legitimate medical purpose.
+18 2. Not more than two hundred forty cubic centimeters (eight ounces)
+19 of any such controlled substance containing opium, nor more than one
+20 hundred twenty cubic centimeters (four ounces) of any other such
+21 controlled substance, nor more than forty-eight dosage units of any such
+22 controlled substance containing opium, nor more than twenty-four dosage
+23 units of any other controlled substance may be dispensed at retail to the
+24 same purchaser in any given forty-eight-hour period.
+25 3. Not more than one hundred dosage units of any single active
+26 ingredient ephedrine preparation may be sold, offered for sale, bartered
+27 or given away to any one person in any one thirty-day period.
+28 4. The pharmacist or pharmacy intern requires every purchaser of a
+29 controlled substance under this subsection who is not known to that person
+30 to furnish suitable identification, including proof of age if appropriate.
+31 5. A bound record book for dispensing controlled substances under
+32 this subsection is maintained by the pharmacist and contains the name and
+33 address of the purchaser, the name and quantity of the controlled
+34 substance purchased, the date of each purchase and the name or initials of
+35 the pharmacist or pharmacy intern who dispensed the substance to the
+36 purchaser. The book shall be maintained in conformity with the
+37 recordkeeping requirements of section 36-2523.
+38 K. In the absence of a law requiring a prescription for a
+39 schedule V controlled substance, the board, by rules, may require, or
+40 remove the requirement of, a prescription order for a schedule V
+41 controlled substance.
+42 L. The label on a container of a controlled substance that is
+43 directly dispensed by a medical practitioner or pharmacist and that is not
+44 for the immediate administration to the ultimate user, such as a bed
+45 patient in a hospital, shall bear the name and address of the dispensing
+46 medical practitioner or pharmacist, the serial number, the date of
+47 dispensing, the name of the prescriber, the name of the patient or, if an
+-4-
+
+House Amendments to H.B. 2434
+1 animal, the name of the owner of the animal and the species of the animal,
+2 the directions for use and cautionary statements, if any, contained in the
+3 prescription order or required by law. If the controlled substance is
+4 included in schedule II, III or IV, the label shall bear a transfer
+5 warning to the effect: "Caution: federal law prohibits the transfer of
+6 this drug to any person other than the patient for whom it was
+7 prescribed". The container of a schedule II controlled substance that is
+8 an opioid that is directly dispensed by a pharmacist and that is not for
+9 the immediate administration to the ultimate user shall have a warning
+10 label prescribed by the board about potential addiction.
+11 M. Controlled substances in schedules II, III, IV and V may be
+12 dispensed as electronically transmitted prescriptions if the prescribing
+13 medical practitioner is all of the following:
+14 1. Properly registered by the United States drug enforcement
+15 administration.
+16 2. Licensed in good standing in the United States jurisdiction in
+17 which the medical practitioner practices.
+18 3. Authorized to issue such prescriptions in the jurisdiction in
+19 which the medical practitioner is licensed.
+20 N. Notwithstanding any other provision of this section, each
+21 prescription order, except a prescription order under subsection F of this
+22 section, that is issued by a medical practitioner for a schedule II
+23 controlled substance that is an opioid shall be transmitted electronically
+24 to the dispensing pharmacy. A medical practitioner is not in violation of
+25 this subsection:
+26 1. During any time in which an established electronic prescribing
+27 system or a pharmacy management system is not operational or available in
+28 a timely manner. If the electronic prescribing system or a pharmacy
+29 management system is not operational or available, the medical
+30 practitioner may write a prescription order for a schedule II controlled
+31 substance that is an opioid. The medical practitioner shall indicate on
+32 the written prescription order that the electronic prescribing system or
+33 pharmacy management system is not operational or available. The medical
+34 practitioner must maintain a record, for a period of time prescribed by
+35 the board, of when the electronic prescribing system or pharmacy
+36 management system is not operational or available in a timely manner.
+37 2. If the medical practitioner writes a prescription order for a
+38 schedule II controlled substance that is an opioid that will be dispensed
+39 for the patient from a veterans administration facility, a health facility
+40 on a military base, an Indian health services hospital or other Indian
+41 health service facility, or a tribal-owned clinic.
+42 O. The requirement in subsections D and N of this section for an
+43 electronic prescription order does not apply to a prescription order for a
+44 schedule II controlled substance that is an opioid that is issued for
+45 medication-assisted treatment for a substance use disorder.
+46 P. The board, by rule, may provide additional requirements for
+47 prescribing and dispensing controlled substances.
+-5-
+
+House Amendments to H.B. 2434
+1 Q. In consultation with the task force COMPLIANCE WORKGROUP
+2 established pursuant to section 36-2603, the board may prescribe by rule
+3 additional exceptions to the electronic prescribing requirements specified
+4 in this section for both pharmacists and medical practitioners.
+5 R. Notwithstanding subsections D and N of this section, a medical
+6 practitioner who is licensed pursuant to title 32, chapter 21 is not
+7 required to comply with the electronic prescribing requirements of
+8 subsections D and N of this section until the Arizona state veterinary
+9 medical examining board determines that electronic prescribing software is
+10 widely available for veterinarians and notifies the Arizona state board of
+11 pharmacy of that determination.
+12 S. For the purposes of this section, "medication-assisted
+13 treatment" has the same meaning prescribed in section 32-3201.01.
+14 Sec. 2. Section 36-2602, Arizona Revised Statutes, is amended to
+15 read:
+16 36-2602. Controlled substances prescription monitoring
+17 program; contracts; retention and maintenance of
+18 records
+19 A. The board shall adopt rules to establish a controlled substances
+20 prescription monitoring program. The program shall:
+21 1. Be operated, monitored and maintained by the board.
+22 2. Be staffed by the board.
+23 3. Include a computerized central database tracking system to track
+24 the prescribing, AND dispensing and consumption of schedule II, III, IV
+25 and V controlled substances that are dispensed by a medical practitioner
+26 or by a pharmacy that holds a valid license or permit issued pursuant to
+27 title 32. The database shall include data from the department of health
+28 services that identifies residents of this state who possess a registry
+29 identification card issued pursuant to chapter 28.1 of this title. The
+30 tracking system shall not interfere with the legal use of a controlled
+31 substance for managing severe or intractable pain.
+32 4. Assist law enforcement to identify illegal activity related to
+33 prescribing, AND dispensing and consuming schedule II, III, IV and V
+34 controlled substances.
+35 5. Provide information to patients, medical practitioners and
+36 pharmacists to help avoid the inappropriate use of schedule II, III, IV
+37 and V controlled substances.
+38 6. Be designed to minimize inconvenience to patients, prescribing
+39 medical practitioners and pharmacies while effectuating the collection and
+40 storage of information.
+41 B. The board may enter into private or public contracts, including
+42 intergovernmental agreements pursuant to title 11, chapter 7, article 3,
+43 to ensure the effective operation of the program. Each contractor must
+44 comply with the confidentiality requirements prescribed in this article
+45 and is subject to the criminal penalties prescribed in section 36-2610.
+46 C. The board shall maintain the following records for the following
+47 periods of time:
+-6-
+
+House Amendments to H.B. 2434
+1 1. A record of dispensing a controlled substance for seven years
+2 after the date the controlled substance was dispensed.
+3 2. Affidavits SEARCH WARRANTS for the purpose of an open
+4 investigation by law enforcement for two years.
+5 3. Court orders requesting medical record information in the
+6 program for two years.
+7 4. A patient's request of the patient's own prescription history
+8 for two years.
+9 5. A prescriber report for two years.
+10 Sec. 3. Section 36-2603, Arizona Revised Statutes, is amended to
+11 read:
+12 36-2603. Compliance workgroup; membership; duties
+13 A. The board shall appoint a task force to help it administer the
+14 computerized central database tracking system, to identify educational,
+15 outreach and support services to advance medical practitioners' adoption
+16 of electronic prescribing of schedule II controlled substances and
+17 pharmacy implementation of section 36-2525 and to consult with regarding
+18 recommendations for exceptions to the electronic prescribing requirements
+19 prescribed in section 36-2525 COMPLIANCE WORKGROUP TO IDENTIFY POTENTIAL
+20 NONCOMPLIANCE WITH THE REQUIREMENT TO USE THE CONTROLLED SUBSTANCES
+21 PRESCRIPTION MONITORING PROGRAM. The chairperson of the board shall chair
+22 SERVE AS CHAIRPERSON OF the task force WORKGROUP. The task force
+23 WORKGROUP shall include the following members:
+24 1. Pharmacists, medical practitioners and other licensed health
+25 care providers.
+26 2. Representatives of professional societies and associations for
+27 pharmacists, medical practitioners and other licensed health care
+28 providers.
+29 3. Representatives of professional licensing boards.
+30 4. Representatives of the Arizona health care cost containment
+31 system administration.
+32 5. Representatives of state and federal agencies that have an
+33 interest in controlling controlled substances.
+34 6. Criminal prosecutors.
+35 7. Representatives of a health information organization in this
+36 state.
+37 B. The task force WORKGROUP shall meet to establish the procedures
+38 and conditions relating to the release of prescription information
+39 pursuant to section 36-2604. The task force WORKGROUP shall meet at least
+40 once each year and at the call of the chairperson.
+41 C. Task force WORKGROUP members serve at the pleasure of the board
+42 and are not eligible to receive compensation or reimbursement of expenses.
+-7-
+
+House Amendments to H.B. 2434
+1 Sec. 4. Section 36-2604, Arizona Revised Statutes, is amended to
+2 read:
+3 36-2604. Use and release of confidential information;
+4 definitions
+5 A. Except as otherwise provided in this section, prescription
+6 information submitted to the board pursuant to this article is
+7 confidential and is not subject to public inspection. The board shall
+8 establish procedures to ensure THAT the privacy and confidentiality of
+9 patients and that patient information ALL DISPENSING DATA that is
+10 collected, recorded and transmitted pursuant to this article is not
+11 disclosed except as prescribed in this section.
+12 B. The board or its designee shall review the prescription
+13 information collected pursuant to this article. If the board or its
+14 designee has reason to believe an act of unprofessional or illegal conduct
+15 has occurred, the board or its designee shall notify the appropriate
+16 professional licensing board. The board may delegate the duties
+17 prescribed in this subsection to the executive director pursuant to
+18 section 32-1904.
+19 C. The board may release data collected by the program to the
+20 following:
+21 1. A person who is authorized to prescribe or dispense controlled
+22 substances, or a delegate who is authorized by the prescriber or
+23 dispenser, to assist that person to provide medical or pharmaceutical care
+24 to a patient or to evaluate a patient or to assist with or verify
+25 compliance with the requirements of this chapter, the rules adopted
+26 pursuant to this chapter and the rules adopted by the department of health
+27 services to reduce opioid overdose and death.
+28 2. An individual who requests the individual's own prescription
+29 monitoring information pursuant to section 12-2293.
+30 3. A medical practitioner regulatory board established pursuant to
+31 title 32, chapter 7, 11, 13, 14, 15, 16, 17, 18, 25 or 29.
+32 4. A local, state or federal law enforcement or criminal justice
+33 agency. The board shall provide this information only if the requesting
+34 agency has a valid search warrant and is using the information for an open
+35 investigation or complaint.
+36 5. The Arizona health care cost containment system administration
+37 and contractors regarding persons who are receiving services pursuant to
+38 chapters 29 and 34 of this title or title XVIII of the social security
+39 act. Except as required pursuant to subsection B of this section, the
+40 board shall provide this information only if the administration or a
+41 contractor states in writing ATTESTS that the information is necessary for
+42 an open investigation or complaint or for performing a drug utilization
+43 review for controlled substances that supports the prevention of opioid
+44 overuse or abuse and the safety and quality of care provided to the
+45 member.
+46 6. A health care insurer. Except as required pursuant to
+47 subsection B of this section, the board shall provide this information
+-8-
+
+House Amendments to H.B. 2434
+1 only if the health care insurer states in writing ATTESTS that the
+2 information is necessary for an open investigation or complaint or for
+3 performing a drug utilization review for controlled substances that
+4 supports the prevention of opioid overuse or abuse and the safety and
+5 quality of care provided to the insured.
+6 7. A person who is serving a lawful order of a court of competent
+7 jurisdiction.
+8 8. A person who is authorized to prescribe or dispense controlled
+9 substances and who performs an evaluation on an individual pursuant to
+10 section 23-1026.
+11 9. A county medical examiner or alternate medical examiner who is
+12 directing an investigation into the circumstances surrounding a death as
+13 described in section 11-593 or a delegate who is authorized by the county
+14 medical examiner or alternate medical examiner.
+15 10. The department of health services regarding persons who are
+16 receiving or prescribing controlled substances in order to implement a
+17 public health response to address opioid overuse or abuse, including a
+18 review pursuant to section 36-198. Except as required pursuant to
+19 subsection B of this section, the board shall provide this information
+20 only if the department states in writing that the information is necessary
+21 to implement a public health response to help combat opioid overuse or
+22 abuse.
+23 D. Data provided by the board pursuant to this section may not be
+24 used for any of the following:
+25 1. Credentialing health care professionals.
+26 2. Determining payment.
+27 3. Preemployment screening.
+28 4. Any purpose other than as specified in this section.
+29 E. For a fee determined by the board, the board may provide data to
+30 public or private entities for statistical, research or educational
+31 purposes after removing ANY PERSONAL IDENTIFYING information that could be
+32 used to identify individual patients or persons who received prescriptions
+33 from dispensers.
+34 F. Any employee of the administration, a contractor or a health
+35 care insurer who is assigned delegate access to the program shall operate
+36 under the authority and responsibility of the administration's,
+37 contractor's or health care insurer's chief medical officer or other
+38 employee who is a licensed health care professional and who is authorized
+39 to prescribe or dispense controlled substances. A delegate of the
+40 administration, a contractor or a health care insurer shall hold a valid
+41 license or certification issued pursuant to title 32, chapter 7, 11, 13,
+42 14, 15, 16, 17, 18, 19.1, 25, 29 or 33 as a condition of being assigned
+43 and provided delegate access to the program by the board. Each employee
+44 of the administration, a contractor or a health care insurer who is a
+45 licensed health care professional and who is authorized to prescribe or
+46 dispense controlled substances may authorize not more than ten delegates.
+-9-
+
+House Amendments to H.B. 2434
+1 G. If, after reviewing the information provided pursuant to
+2 subsection C, paragraph 4 of this section, an investigator finds no
+3 evidence of a statutory crime but suspects a medical practitioner of
+4 prescribing controlled substances inappropriately in manner or amount, the
+5 investigator may refer the medical practitioner to the relevant
+6 professional licensing board for investigation of possible deviation from
+7 the standard of care but may not arrest or otherwise undertake criminal
+8 proceedings against the medical practitioner.
+9 H. A person who is authorized to prescribe or dispense controlled
+10 substances or the chief medical officer or other licensed health care
+11 professional of the administration, a contractor or a health care insurer
+12 who is authorized to prescribe or dispense controlled substances shall
+13 deactivate a delegate within five business days after an employment status
+14 change, the request of the delegate or the inappropriate use of the
+15 controlled substances prescription monitoring program's central database
+16 tracking system.
+17 I. For the purposes of this section:
+18 1. "Administration" and "contractor" have the same meanings
+19 prescribed in section 36-2901.
+20 2. "Delegate" means any of the following:
+21 (a) A licensed health care professional who is employed in BY the
+22 office of or in BY a hospital with the prescriber or dispenser.
+23 (b) An unlicensed medical records technician, medical assistant or
+24 office manager who is employed in BY the office of or in BY a hospital
+25 with the prescriber or dispenser and who has received training regarding
+26 both the health insurance portability and accountability act privacy
+27 standards (45 Code of Federal Regulations part 164, subpart E) and
+28 security standards (45 Code of Federal Regulations part 164, subpart C).
+29 (c) A forensic pathologist, medical death investigator or other
+30 qualified person who is assigned duties in connection with a death
+31 investigation pursuant to section 11-594.
+32 (d) A registered pharmacy technician trainee, licensed pharmacy
+33 technician or licensed pharmacy intern who works in a facility with IS
+34 EMPLOYED BY THE PHARMACY OF OR BY A HOSPITAL OF the dispenser IN THIS
+35 STATE.
+36 (e) Any employee of the administration, a contractor or a health
+37 care insurer who is authorized by the administration's, contractor's or
+38 health care insurer's chief medical officer or other licensed health care
+39 professional who is authorized to prescribe or dispense controlled
+40 substances.
+41 3. "Health care insurer" has the same meaning prescribed in section
+42 20-3151.
+-10-
+
+House Amendments to H.B. 2434
+1 Sec. 5. Section 36-2606, Arizona Revised Statutes, is amended to
+2 read:
+3 36-2606. Registration; access; requirements; mandatory use;
+4 annual user satisfaction survey; report;
+5 definitions
+6 A. A medical practitioner regulatory board shall notify each
+7 medical practitioner who receives an initial or renewal license and who
+8 intends to apply for registration or has an active registration under the
+9 controlled substances act (21 United States Code sections 801 through 904)
+10 WITH AN ADDRESS IN THIS STATE of the medical practitioner's responsibility
+11 to register with the Arizona state board of pharmacy and be granted access
+12 to the controlled substances prescription monitoring program's central
+13 database tracking system. The Arizona state board of pharmacy shall
+14 provide access to the central database tracking system to each medical
+15 practitioner who has a valid license pursuant to title 32 and who
+16 possesses an Arizona A registration under the controlled substances act
+17 (21 United States Code sections 801 through 904) WITH AN ADDRESS IN THIS
+18 STATE. The Arizona state board of pharmacy shall notify each pharmacist
+19 of the pharmacist's responsibility to register with the Arizona state
+20 board of pharmacy and be granted access to the controlled substances
+21 prescription monitoring program's central database tracking system. The
+22 Arizona state board of pharmacy shall provide access to the central
+23 database tracking system to each pharmacist who has a valid license
+24 pursuant to title 32, chapter 18 and who is employed by either:
+25 1. A facility that has a valid United States drug enforcement
+26 administration registration number.
+27 2. The administration, a contractor or a health care insurer and
+28 who has a national provider identifier number.
+29 B. The registration is:
+30 1. Valid in conjunction with a valid United States drug enforcement
+31 administration registration number and a valid license issued by a medical
+32 practitioner regulatory board established pursuant to title 32, chapter 7,
+33 11, 13, 14, 15, 16, 17, 25 or 29.
+34 2. Valid in conjunction with a valid license issued by the Arizona
+35 state board of pharmacy for a pharmacist who is employed by either:
+36 (a) A facility that has a valid United States drug enforcement
+37 administration registration number.
+38 (b) The administration, a contractor or a health care insurer and
+39 who has a national provider identifier number.
+40 3. Not transferable or assignable.
+41 C. An applicant for registration pursuant to this section must
+42 apply as prescribed by the board.
+43 D. Pursuant to a fee prescribed by the board by rule, the board may
+44 issue a replacement registration to a registrant who requests a
+45 replacement because the original was damaged or destroyed, because of a
+46 change of name or for any other good cause as prescribed by the board.
+-11-
+
+House Amendments to H.B. 2434
+1 E. D. A person who is authorized to access the controlled
+2 substances prescription monitoring program's central database tracking
+3 system may do so using only that person's assigned identifier and may not
+4 use the assigned identifier of another person.
+5 F. E. Beginning the later of October 1, 2017 or sixty days after
+6 the statewide health information exchange has integrated the controlled
+7 substances prescription monitoring program data into the exchange, A
+8 medical practitioner, before prescribing an opioid analgesic or
+9 benzodiazepine controlled substance listed in schedule II, III or IV for a
+10 patient, shall obtain a patient utilization report regarding the patient
+11 for the preceding twelve months from the controlled substances
+12 prescription monitoring program's central database tracking system at the
+13 beginning of each new course of treatment and at least quarterly while
+14 that prescription remains a part of the treatment BEFORE ISSUING A
+15 PRESCRIPTION AND BEFORE PRESCRIBING ANY SUBSEQUENT REFILL OF THAT
+16 PRESCRIPTION. Each medical practitioner regulatory board shall notify the
+17 medical practitioners licensed by that board of the applicable date. A
+18 medical practitioner may be granted a one-year waiver from the requirement
+19 in this subsection due to technological limitations that are not
+20 reasonably within the control of the practitioner or other exceptional
+21 circumstances demonstrated by the practitioner, pursuant to a process
+22 established by rule by the Arizona state board of pharmacy MANDATORY USE
+23 REQUIREMENTS OUTLINED IN THIS SUBSECTION.
+24 G. F. Before a pharmacist dispenses or before a pharmacy
+25 technician or pharmacy intern of a remote dispensing site pharmacy
+26 dispenses a schedule II controlled substance, a dispenser shall obtain a
+27 patient utilization report regarding the patient for the preceding twelve
+28 months from the controlled substances prescription monitoring program's
+29 central database tracking system at the beginning of each new course of
+30 treatment.
+31 H. G. The medical practitioner or dispenser is not required to
+32 obtain a patient utilization report from the central database tracking
+33 system pursuant to subsection F E of this section if any of the following
+34 applies:
+35 1. The patient is receiving hospice care or palliative care for a
+36 serious or chronic illness.
+37 2. The patient is receiving care for cancer, a cancer-related
+38 illness or condition or dialysis treatment.
+39 3. A medical practitioner will administer the controlled substance.
+40 4. The patient is receiving the controlled substance during the
+41 course of inpatient or residential treatment in a hospital, nursing care
+42 facility, assisted living facility, correctional facility or mental health
+43 facility.
+44 5. The medical practitioner is prescribing the controlled substance
+45 to the patient for not more than a five-day period for an invasive medical
+46 or dental procedure or a medical or dental procedure that results in acute
+47 pain to the patient.
+-12-
+
+House Amendments to H.B. 2434
+1 6. The medical practitioner is prescribing the controlled substance
+2 to the patient for not more than a five-day period for a patient who has
+3 suffered an acute injury or a medical or dental disease process that is
+4 diagnosed in an emergency department setting and that results in acute
+5 pain to the patient. An acute injury or medical disease process does not
+6 include back pain.
+7 I. H. On or before December 31, 2026, a vendor that provides
+8 electronic medical records services to a medical practitioner in this
+9 state shall integrate the vendor's electronic medical records system with
+10 the program's central database tracking system either directly or through
+11 the statewide health information exchange or a third-party vendor.
+12 J. I. If a medical practitioner or dispenser uses electronic
+13 medical records that integrate data from the controlled substances
+14 prescription monitoring program, a review of the electronic medical
+15 records with the integrated data shall be deemed compliant with the review
+16 of the program's central database tracking system as required in
+17 subsection F E of this section.
+18 K. J. The board shall promote and enter into data sharing
+19 agreements to integrate and display patient utilization reports within
+20 electronic medical records.
+21 L. K. By complying with this section, a medical practitioner or
+22 dispenser who acts in good faith, or the medical practitioner's or
+23 dispenser's employer, is not subject to liability or disciplinary action
+24 arising solely from either:
+25 1. Requesting or receiving, or failing to request or receive,
+26 prescription monitoring data from the program's central database tracking
+27 system.
+28 2. Acting or failing to act on the basis of the prescription
+29 monitoring data provided by the program's central database tracking
+30 system.
+31 M. L. Notwithstanding any provision of this section to the
+32 contrary, medical practitioners or dispensers and their delegates are not
+33 in violation of this section during any time period in which the
+34 controlled substances prescription monitoring program's central database
+35 tracking system is suspended or is not operational or available in a
+36 timely manner. If the program's central database tracking system is not
+37 accessible, the medical practitioner or dispenser or the medical
+38 practitioner's or dispenser's delegate shall document the date and time
+39 the practitioner, dispenser or delegate attempted to use the central
+40 database tracking system pursuant to a process established by board rule.
+41 N. M. The board shall conduct an annual voluntary survey of
+42 program users to assess user satisfaction with the program's central
+43 database tracking system. The survey may be conducted electronically. On
+44 or before December 1 of each year, the board shall provide a report of the
+45 survey results to the president of the senate, the speaker of the house of
+46 representatives and the governor and shall provide a copy of this report
+47 to the secretary of state.
+-13-
+
+House Amendments to H.B. 2434
+1 O. N. This section does not prohibit a medical practitioner
+2 regulatory board or the Arizona state board of pharmacy from obtaining and
+3 using information from the program's central database tracking system.
+4 P. O. For the purposes of this section:
+5 1. "Administration" has the same meaning prescribed in section
+6 36-2901.
+7 2. "Contractor" has the same meaning prescribed in section 36-2901.
+8 3. "Dispenser" means a pharmacist who is licensed pursuant to title
+9 32, chapter 18.
+10 4. "Emergency department" means the unit within a hospital that is
+11 designed to provide emergency services.
+12 5. "Health care insurer" has the same meaning prescribed in section
+13 20-3151.
+14 Sec. 6. Section 36-2608, Arizona Revised Statutes, is amended to
+15 read:
+16 36-2608. Reporting requirements; exceptions
+17 A. If a medical practitioner OR PHARMACY dispenses a controlled
+18 substance listed in section 36-2513, 36-2514, 36-2515 or 36-2516 or the
+19 rules adopted pursuant to chapter 27, article 2 of this title, or if a
+20 prescription for a controlled substance listed in any of those sections
+21 that is approved by the United States food and drug administration is
+22 dispensed by a pharmacy in this state, a health care facility in this
+23 state for outpatient use or a board-permitted nonresident pharmacy for
+24 delivery to a person residing in this state, the medical practitioner,
+25 health care facility or pharmacy must report the following information as
+26 applicable and as prescribed by the board by rule:
+27 1. The name, address, telephone number, prescription number and
+28 United States drug enforcement administration controlled substance
+29 registration number of the dispenser.
+30 2. The name, address and date of birth of the person for whom the
+31 prescription is written.
+32 3. The name, address, telephone number and United States drug
+33 enforcement administration controlled substance registration number of the
+34 prescribing medical practitioner.
+35 4. The name, strength, quantity, dosage and national drug code
+36 number of the schedule II, III, IV or V controlled substance dispensed.
+37 5. [THROUGH JUNE 30, 2027,] the date the prescription was
+38 [dispensed] [FILLED]. [BEGINNING JULY 1, 2027, THE DATE THE PRESCRIPTION
+39 WAS FILLED.]
+40 6. [BEGINNING JULY 1, 2027,] THE DATE THE PRESCRIPTION WAS SOLD TO
+41 THE ULTIMATE USER OR THE ULTIMATE USER'S AGENT.
+42 6. 7. The number of refills, if any, authorized by the medical
+43 practitioner.
+44 B. Except as provided in subsection D of this section, A dispenser
+45 must use the latest version of the standard implementation guide for
+46 prescription monitoring programs published by the American society for
+-14-
+
+House Amendments to H.B. 2434
+1 automation in pharmacy THIS STATE'S DATA SUBMISSION GUIDE to report the
+2 required information REQUIRED BY THIS SECTION.
+3 C. The board shall allow the reporter to transmit the required
+4 information by electronic data transfer if feasible or, if not feasible,
+5 on reporting forms as prescribed by the board. The reporter shall submit
+6 the required information once each day WITHIN ONE BUSINESS DAY AFTER THE
+7 DATE THE PRESCRIPTION WAS SOLD. IF THERE IS NO INFORMATION TO REPORT, THE
+8 REPORTER SHALL REPORT ZERO AS A TRANSACTION.
+9 D. A dispenser who does not have an automated recordkeeping system
+10 capable of producing an electronic report in the established format may
+11 request a waiver from electronic reporting by submitting a written request
+12 to the board. The board shall grant the request if the dispenser agrees
+13 in writing to report the data by submitting a completed universal claim
+14 form as prescribed by the board by rule.
+15 E. The board by rule may prescribe the prescription form to be used
+16 in prescribing a schedule II, III, IV or V controlled substance if the
+17 board determines that this would facilitate the reporting requirements of
+18 this section.
+19 F. D. The reporting requirements of this section do not apply to
+20 the following:
+21 1. A controlled substance that is administered directly to a
+22 patient.
+23 2. A controlled substance that is dispensed by a medical
+24 practitioner at a health care facility licensed by this state if the
+25 quantity dispensed is limited to an amount adequate to treat the patient
+26 for a maximum of seventy-two hours with not more than two seventy-two-hour
+27 cycles within any fifteen-day period.
+28 3. A controlled substance sample.
+29 4. The wholesale distribution of a schedule II, III, IV or V
+30 controlled substance. For the purposes of this paragraph, "wholesale
+31 distribution" has the same meaning prescribed in section 32-1981.
+32 5. A facility that is registered by the United States drug
+33 enforcement administration as a narcotic treatment program and that is
+34 subject to the recordkeeping provisions of 21 Code of Federal Regulations
+35 section 1304.24.
+36 Enroll and engross to conform
+37 Amend title to conform
+And, as so amended, it do pass
+SELINA BLISS
+CHAIRMAN
+2434HEALTH HUMAN SERVICES.docx
+02/19/2026
+01:33 PM
+C: MH
+130QGGGSG
+-15-

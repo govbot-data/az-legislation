@@ -1,0 +1,385 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Natural Resources, Energy & Water
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON NATURAL RESOURCES, ENERGY & WATER
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1419
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 44-1761, Arizona Revised Statutes, is amended to
+3 read:
+4 44-1761. Definitions
+5 In this article, unless the context otherwise requires:
+6 1. "Collector" means a component of a solar energy device that is
+7 used to absorb solar radiation, convert it to heat or electricity and
+8 transfer the heat to a heat transfer fluid or to storage.
+9 2. "Distributed energy generation system":
+10 (a) Means a device or system that is used to generate or store
+11 electricity, that has an electric delivery capacity, singly or in
+12 connection with other similar devices or systems, greater than one
+13 kilowatt or one kilowatt-hour, and that is primarily for on-site energy
+14 consumption.
+15 (b) Does not include an electric generator that is intended for
+16 occasional use.
+17 3. "Energize" or "energized" means that the distributed energy
+18 generation system is installed and operational for its intended purposes
+19 of generating or storing electricity.
+20 4. "Heat exchanger" means a component of a solar energy device that
+21 is used to transfer heat from one fluid to another.
+22 5. "Interconnected" or "interconnection" means a distributed energy
+23 generation system that is connected to the power grid and that is able to
+24 transfer electricity to the power grid.
+25 6. "Seller or marketer" means an individual or a company acting
+26 through its officers, employees or agents that markets, sells or solicits
+27 the sale, financing or lease of distributed energy generation systems or
+
+House Amendments to S.B. 1419
+1 negotiates or enters into agreements for the sale, financing or lease of
+2 distributed energy generation systems.
+3 7. "Solar daylighting" means a device that is specifically designed
+4 to capture and redirect the visible portion of the solar beam spectrum,
+5 while controlling the infrared portion, for use in illuminating interior
+6 building spaces in lieu of artificial lighting.
+7 8. "Solar energy device":
+8 (a) Means a system or series of mechanisms that is designed
+9 primarily to provide heating, to provide cooling, to produce electrical
+10 power, to produce mechanical power, to provide solar daylighting or to
+11 provide any combination of the foregoing by means of collecting and
+12 transferring solar generated energy into such uses either by active or
+13 passive means. Such systems may also have the capability of storing such
+14 energy for future utilization. Passive systems shall clearly be designed
+15 as a solar energy device such as a trombe wall and not merely a part of a
+16 normal structure such as a window. FOR THE PURPOSES OF THIS SUBDIVISION,
+17 "TROMBE WALL" MEANS A MASSIVE EQUATOR-FACING WALL THAT IS PAINTED IN A
+18 DARK COLOR TO ABSORB THERMAL ENERGY FROM INCIDENT SUNLIGHT.
+19 (b) Includes a distributed energy generation system.
+20 [(c) DOES NOT INCLUDE A UTILITY SCALE SOLAR PROJECT.]
+21 Sec. 2. Section 44-1762, Arizona Revised Statutes, is amended to
+22 read:
+23 44-1762. Solar energy device warranties; installation
+24 standards; inspections
+25 A. The collectors, heat exchangers and storage units of a solar
+26 energy device that is sold or installed in this state or leased or
+27 financed under an agreement pursuant to section 44-1763, and the
+28 installation of the solar energy device, shall be warranted for a period
+29 of at least two years or shall include an energy production output
+30 guarantee provided pursuant to section 44-1763, subsection A, paragraph 4.
+31 The remaining components of the solar energy device and their installation
+32 shall be warranted for a period of at least one year.
+33 B. Any person who manufactures, furnishes for installation or
+34 installs a solar energy device shall provide with the SOLAR ENERGY device
+35 a written statement of warranty, responsibilities assumed or disclaimed
+36 and performance data of the solar energy device and components of the
+37 solar energy device as prescribed by section 44-1763 as part of the
+38 agreement for the [financing,] sale or lease of a solar energy
+39 device. The form of the statement required by this subsection is subject
+40 to approval by the registrar of contractors. The statement shall specify
+41 the source of any performance data it contains. A copy of the statement
+42 shall be delivered to the registrar of contractors where it shall be kept
+43 on public file.
+44 C. A person who sells a solar energy device in this state shall
+45 furnish a certificate to the buyer that the solar energy device complies
+46 with the requirements of this section.
+-2-
+
+House Amendments to S.B. 1419
+1 D. A solar energy device that is sold or installed in this state
+2 shall comply with all applicable state and federal consumer protection,
+3 rating, certification, performance, marking, installation and safety
+4 standards that are required by section 44-1763.
+5 E. An individual who installs a solar energy device in this state,
+6 in addition to being a licensed solar contractor under title 32, chapter
+7 10, article 4, shall:
+8 1. Possess the general license that is appropriate to the type of
+9 solar energy device that is installed. Installers of a solar water heater
+10 or a photovoltaic device shall possess an appropriate contractor's
+11 license.
+12 2. Meet any education and training standards that have been adopted
+13 by the registrar of contractors.
+14 3. Pass an examination on the installation of the type of SOLAR
+15 ENERGY device to be installed, if the registrar of contractors has adopted
+16 such an examination.
+17 F. Solar energy devices that are designed or installed by the final
+18 owner are exempt from the requirements of subsections A through E of this
+19 section.
+20 G. The installation of a solar energy device shall meet the
+21 requirements of:
+22 1. All applicable fire, safety[, WIND, LOAD, STRUCTURAL, SEISMIC]
+23 and building codes AS PRESCRIBED BY A LOCAL AUTHORITY THAT HAS
+24 JURISDICTION.
+25 2. Consumer protection standards REQUIREMENTS, including any freeze
+26 protection and temperature related damage standards.
+27 3. A MANUFACTURER'S INSTALLATION REQUIREMENTS.
+28 3. 4. All other applicable federal, state and local laws.
+29 H. Contractors who fail to meet safety, installation or other
+30 prescribed standards or the requirements of section 44-1763 are subject to
+31 disciplinary action under title 32, chapter 10, article 3.
+32 I. [IF] A LICENSED CONTRACTOR [SHALL EVALUATE AND VERIFY THE
+33 STRUCTURAL INTEGRITY OF THE ROOF AND ROOFING COMPONENTS BEFORE INSTALLING
+34 A SOLAR ENERGY DEVICE. BY INSTALLING A SOLAR ENERGY DEVICE, THE LICENSED
+35 CONTRACTOR IS DEEMED TO HAVE ACCEPTED THE SURFACE OF THE ROOF FOR THE
+36 PURPOSES OF INSTALLATION AND IS RESPONSIBLE FOR REPAIRS TO THE ROOF THAT
+37 ARE CAUSED BY THE INSTALLATION.] [INSTALLS A SOLAR ENERGY DEVICE ON A
+38 ROOF, THE LICENSED CONTRACTOR, BEFORE THE INITIAL INSTALLATION, SHALL
+39 EVALUATE THE ROOF AND ROOFING COMPONENTS TO DETERMINE WHETHER THE ROOF IS
+40 STRUCTURALLY CAPABLE OF SUPPORTING THE INSTALLATION AND SHALL RECOMMEND
+41 THAT THE CUSTOMER OBTAIN AN INSPECTION BY A LICENSED ROOFING CONTRACTOR.
+42 BY INSTALLING A SOLAR ENERGY DEVICE ON A ROOF, THE CONTRACTOR IS DEEMED TO
+43 HAVE ACCEPTED THE ROOF SURFACE FOR PURPOSES OF INSTALLATION AND IS
+44 RESPONSIBLE FOR REPAIRING ANY ROOF DAMAGE THAT IS CAUSED BY THE
+45 INSTALLATION.] A CONTRACTOR WHO DOES NOT COMPLY WITH THIS SUBSECTION IS
+46 SUBJECT TO DISCIPLINARY ACTION UNDER TITLE 32, CHAPTER 10, ARTICLE 3.
+-3-
+
+House Amendments to S.B. 1419
+1 Sec. 3. Section 44-1763, Arizona Revised Statutes, is amended to
+2 read:
+3 44-1763. Distributed energy generation system agreements;
+4 disclosures; residential solar energy systems;
+5 exception
+6 A. An agreement governing the [financing,] sale or lease of a
+7 distributed energy generation system to any person or a political
+8 subdivision of this state must:
+9 1. Be signed by the person buying[, financing] or leasing the
+10 distributed energy generation system and must be dated. Any agreement
+11 that contains blank spaces affecting the timing, value or obligations of
+12 the agreement in a material manner when signed by the buyer or lessee is
+13 voidable at the option of the buyer or lessee until the distributed energy
+14 generation system is installed. Any blank spaces in the agreement must be
+15 shown to and initialed by the buyer or lessee at the time the buyer or
+16 lessee signs the agreement.
+17 2. Be in at least ten-point type.
+18 3. Include a provision, which must be separately acknowledged by
+19 the buyer or lessee, granting the buyer or lessee the right to rescind the
+20 [financing,] sale or lease agreement for a period of not less than three
+21 business days after the agreement is signed by the buyer or lessee and
+22 before the distributed energy generation system is installed.
+23 4. Provide a description, which must be separately acknowledged by
+24 the buyer or lessee, including the make and model of the distributed
+25 energy generation system's major components or a guarantee concerning
+26 energy production output that the distributed energy generation system
+27 being sold or leased will provide over the life of the agreement. [FOR A
+28 LEASE,] if the warranty period for any major component is less than the
+29 duration of the [LEASE] agreement, the length of the warranty must be
+30 disclosed to and separately acknowledged by the [buyer or] lessee AND BE
+31 WRITTEN IN BOLD TYPE AND SEPARATELY INITIALED BY THE [BUYER OR] LESSEE.
+32 [THE WARRANTY PERIODS FOR A PURCHASED ENERGY GENERATION SYSTEM, MAJOR
+33 COMPONENTS AND LABOR SHALL BE DISCLOSED TO AND SEPARATELY ACKNOWLEDGED BY
+34 THE BUYER AND BE WRITTEN IN BOLD TYPE AND SEPARATELY INITIALED BY THE
+35 BUYER. FOR THE PURPOSES OF THIS PARAGRAPH, "MAJOR COMPONENTS" INCLUDES:
+36 (a) PHOTOVOLTAIC SOLAR PANELS.
+37 (b) INVERTERS.
+38 (c) RACKING.
+39 (d) BATTERY ENERGY STORAGE SYSTEMS.]
+40 5. Separately set forth the following items IN BOLD TYPE, which
+41 must be separately acknowledged AND INITIALED by the buyer or lessee, if
+42 applicable:
+43 (a) The total purchase price or total cost to the buyer or lessee
+44 under the agreement for the distributed energy generation system over the
+45 life of the agreement.
+-4-
+
+House Amendments to S.B. 1419
+1 (b) Any interest, installation fees, document preparation fees,
+2 service fees or other costs to be paid by the buyer or lessee of the
+3 distributed energy generation system.
+4 (c) If the [distributed energy generation system is being financed
+5 or leased, the total number of payments, the payment frequency, the amount
+6 of the payment expressed in dollars and the payment due date.] [CONTRACTOR
+7 PROVIDES CREDIT TO PURCHASE A DISTRIBUTED ENERGY GENERATION SYSTEM, THE
+8 CONTRACTOR SHALL DISCLOSE INFORMATION PERTAINING TO THE NUMBER, AMOUNT AND
+9 TIMING OF PAYMENTS THAT ARE SCHEDULED TO REPAY THE CREDIT OBLIGATION.
+10 COMPLIANCE WITH 12 CODE OF FEDERAL REGULATIONS PART 1026 IS CONSIDERED
+11 COMPLIANCE WITH THIS SECTION.]
+12 6. Provide a disclosure in the sale [and financing] [OR LEASE]
+13 agreements, to the extent they are used by the seller or marketer in
+14 determining the purchase price of the agreement, that identifies all
+15 current tax incentives and rebates or other state or federal incentives
+16 for which the buyer or lessee may be eligible and any conditions or
+17 requirements pursuant to the agreement to obtain these tax incentives,
+18 rebates or other incentives.
+19 7. Identify the tax obligations that the buyer or lessee may be
+20 required to pay as a result of buying[, financing] or leasing the
+21 distributed energy generation system, including:
+22 [(a) The assessed value and the property tax assessments associated
+23 with the distributed energy generation system calculated in the year the
+24 agreement is signed.]
+25 [(b)] [(a)] Transaction privilege taxes that may be assessed
+26 against the person buying or leasing the distributed energy generation
+27 system.
+28 [(c)] [(b)] Any obligation of the buyer or lessee to transfer tax
+29 credits or tax incentives of the distributed energy generation system to
+30 any other person.
+31 8. Disclose whether the warranty or maintenance obligations related
+32 to the distributed energy generation system may be sold or transferred to
+33 a third party.
+34 9. Include a disclosure, the receipt of which shall be separately
+35 acknowledged by the buyer or lessee, if a transfer of the sale[,] [OR]
+36 lease [or financing] agreement contains any restrictions pursuant to the
+37 agreement on the lessee's or buyer's ability to modify or transfer
+38 ownership of a distributed energy generation system, including whether any
+39 modification or transfer is subject to review or approval by a third
+40 party. If the modification or transfer of the distributed energy
+41 generation system is subject to review or approval by a third party, the
+42 agreement must identify the name, address and telephone number of, and
+43 provide for updating any change in, the entity responsible for approving
+44 the modification or transfer.
+45 10. Include a disclosure, the receipt of which shall be separately
+46 acknowledged by the buyer or lessee, if a modification or transfer of
+47 ownership of the real property to which the distributed energy generation
+-5-
+
+House Amendments to S.B. 1419
+1 system is or will be affixed contains any restrictions pursuant to the
+2 agreement on the lessee's or buyer's ability to modify or transfer
+3 ownership of the real property to which the distributed energy generation
+4 system is installed or affixed, including whether any modification or
+5 transfer is subject to review or approval by a third party. If the
+6 modification or transfer of the real property to which the distributed
+7 energy generation system is affixed or installed is subject to review or
+8 approval by a third party, the agreement must identify the name, address
+9 and telephone number of, and provide for updating any change in, the
+10 entity responsible for approving the modification or transfer.
+11 11. [AT THE TIME THE CONTRACT IS SIGNED,] provide a [full and
+12 accurate] summary of the total [ESTIMATED] costs under the agreement for
+13 maintaining and operating the distributed energy generation system over
+14 the life of the distributed energy generation system[, including
+15 financing, maintenance and construction costs related to the distributed
+16 energy generation system,] THAT MUST BE ACKNOWLEDGED AND INITIALED BY THE
+17 BUYER OR LESSEE.
+18 [12. If the agreement contains an estimate of the buyer's or
+19 lessee's future utility charges based on projected utility rates, provide
+20 an estimate of the buyer's or lessee's future utility charges as impacted
+21 by potential utility rate changes ranging from at least a five percent
+22 annual decrease to at least a five percent annual increase from current
+23 utility costs applied to the duration of the agreement in one percent
+24 increments. Any comparative estimates must be calculated by applying the
+25 entire rate change range to the duration of the agreement. THE AGREEMENT
+26 MUST SUBSTANTIATE THE METHODOLOGY THAT WAS USED TO CALCULATE THE UTILITY
+27 CHARGES AND COMPARATIVE ESTIMATES.]
+28 [12. PROVIDE A DISCLOSURE THAT NOTIFIES THE CONSUMER WHETHER AND TO
+29 WHAT EXTENT SYSTEM MAINTENANCE AND REPAIRS ARE INCLUDED IN THE AGREEMENT
+30 AND THE SYSTEM MAINTENANCE COSTS THAT THE CONSUMER IS RESPONSIBLE TO PAY
+31 THAT IS ACKNOWLEDGED AND INITIALED BY THE BUYER OR LESSEE.]
+32 13. Include a disclosure THAT IS WRITTEN IN BOLD TYPE AND ALL
+33 CAPITAL LETTERS, the receipt of which shall be separately acknowledged by
+34 the buyer or lessee, that states:
+35 Utility rates and utility rate structures are subject to
+36 change. These changes cannot be accurately predicted.
+37 Projected savings from your distributed energy generation
+38 system are therefore subject to change. Tax incentives are
+39 subject to change or termination by executive, legislative or
+40 regulatory action.
+41 14. Comply with section 32-1158.
+42 [15. INCLUDE A BRIEF DESCRIPTION OF THE BASIS FOR ANY SAVINGS
+43 ESTIMATE THAT WAS PROVIDED TO THE PURCHASER AT THE TIME THE CONTRACT IS
+44 SIGNED, AS APPLICABLE. THE BRIEF DESCRIPTION MUST INCLUDE, AT A MINIMUM,
+45 ALL OF THE FOLLOWING:
+46 (a) ANY APPLICABLE UTILITY RATES.
+47 (b) ANY ASSUMPTION FOR AN INCREASE IN FUTURE ELECTRICITY RATES.
+-6-
+
+House Amendments to S.B. 1419
+1 (c) ANY ESTIMATED SYSTEM PRODUCTION.
+2 (d) THE STATUS OR UTILITY COMPENSATION FOR EXCESS ENERGY THAT IS
+3 GENERATED BY SYSTEM.]
+4 B. If a document or sales presentation relating to a distributed
+5 energy generation system states or suggests that the distributed energy
+6 generation system will result in financial savings for a buyer or lessee,
+7 the document or sales presentation must substantiate the methodology used
+8 to calculate those savings and, if the document or sales presentation is
+9 intended for a specific potential buyer or lessee, reasonably quantify the
+10 cumulative savings expected for the duration of the agreement.
+11 C. [If] A document or sales presentation relating to a distributed
+12 energy generation system [contains financial savings comparative estimates
+13 or utility rate comparative estimates, the document or sales presentation
+14 must include historical utility rates for the immediately preceding period
+15 of time that is of the same duration as the proposed financing or lease
+16 period for the same class of utility customer in the same utility service
+17 territory as the prospective buyer or lessee. These historical rates must
+18 be included in any comparative estimates. THE AGREEMENT MUST SUBSTANTIATE
+19 THE METHODOLOGY THAT WAS USED TO CALCULATE FINANCIAL SAVINGS OR UTILITY
+20 RATE COMPARATIVE ESTIMATES.] [MUST DISCLOSE TO WHAT EXTENT SYSTEM
+21 MAINTENANCE AND REPAIRS ARE INCLUDED AND ESTIMATES FOR SYSTEM MAINTENANCE
+22 COSTS THAT THE CUSTOMER IS RESPONSIBLE TO PAY.]
+23 D. Before the maintenance or warranty obligations of a distributed
+24 energy generation system under an existing lease, financing or purchase
+25 agreement is transferred, the person who is currently obligated to
+26 maintain or warrant the distributed energy generation system must disclose
+27 the name, address and telephone number of the person who will be assuming
+28 the maintenance or warranty of the distributed energy generation system.
+29 [E. If a document or sales presentation relating to a distributed
+30 energy generation system contains an estimate of the buyer's or lessee's
+31 future utility charges based on projected utility rates, the document or
+32 sales presentation must contain an estimate of the buyer's or lessee's
+33 future utility charges as impacted by potential utility rate changes
+34 ranging from at least a five percent annual decrease to at least a five
+35 percent annual increase from current utility costs applied to the duration
+36 of an agreement for the financing, sale or lease of a distributed energy
+37 generation system in one percent increments. Any comparative estimates
+38 must be calculated by applying the entire rate change range to the
+39 duration of the agreement. THE AGREEMENT MUST SUBSTANTIATE THE
+40 METHODOLOGY THAT WAS USED TO ESTIMATE THE UTILITY CHARGES BASED ON UTILITY
+41 RATES.
+42 F.] [E.] Recurring payments under a distributed energy generation
+43 system lease may not begin until the distributed energy generation system
+44 is [APPROVED BY A LOCAL UTILITY,] energized and interconnected [BY THE
+45 LOCAL UTILITY].
+46 [G.] [F.] BEFORE ENTERING INTO A CONTRACT FOR THE PURCHASE OR LEASE
+47 OF A RESIDENTIAL SOLAR ENERGY SYSTEM, THE LICENSED CONTRACTOR SHALL OBTAIN
+-7-
+
+House Amendments to S.B. 1419
+1 A WRITTEN ACKNOWLEDGMENT FROM THE BUYER OR LESSEE STATING THAT THE BUYER
+2 OR LESSEE UNDERSTANDS THAT THE ROOFING MATERIALS OR THE STRUCTURE MAY
+3 REQUIRE REPAIR OR REPLACEMENT BEFORE THE PURCHASE OR LEASE AGREEMENT TERM
+4 EXPIRES. THE WRITTEN ACKNOWLEDGMENT SHALL INCLUDE A CLEAR AND CONSPICUOUS
+5 DISCLOSURE THAT STATES BOTH OF THE FOLLOWING:
+6 1. UNLESS [IT IS DETERMINED BY THE REGISTRAR OF
+7 CONTRACTORS THAT THE ROOFING] [ROOF] DAMAGE IS CAUSED AS THE
+8 RESULT OF THE LICENSED CONTRACTOR'S INITIAL INSTALLATION OF
+9 THE SOLAR ENERGY SYSTEM, ANY REPAIR OR REPLACEMENT OF ROOFING
+10 MATERIALS THAT BECOMES NECESSARY DURING THE TERM OF THE
+11 PURCHASE OR LEASE AGREEMENT [IS] [MAY BE] THE RESPONSIBILITY
+12 OF THE BUYER OR LESSEE FOR ALL COSTS ASSOCIATED WITH THE
+13 REMOVAL AND REINSTALLATION OF THE SOLAR ENERGY SYSTEM AND THE
+14 ROOF AND ROOFING MATERIALS IF THE REPAIR OR REPLACEMENT IS NOT
+15 THE RESULT OF A VIOLATION OF A LOCAL, STATE OR FEDERAL LAW.
+16 2. THE REMOVAL AND REINSTALLATION OF THE SOLAR ENERGY
+17 SYSTEM MAY VOID OR OTHERWISE AFFECT ANY MANUFACTURER OR
+18 INSTALLER WARRANTY AND MAY LIMIT OR ELIMINATE THE LIABILITY OF
+19 THE ORIGINAL INSTALLATION CONTRACTOR.
+20 G. [H.] This section does not apply to an individual or company,
+21 acting through its officers, employees or agents, that markets, sells,
+22 solicits, negotiates or enters into an agreement for the sale, financing
+23 or lease of a distributed energy generation system as part of a
+24 transaction involving the sale or transfer of the real property to which
+25 the distributed energy generation system is or will be affixed.
+26 Enroll and engross to conform
+27 Amend title to conform
+And, as so amended, it do pass
+GAIL GRIFFIN
+CHAIRMAN
+1419NATURAL RESOURCES ENERGY WATER.docx
+03/17/2026
+04:44 PM
+C: SK
+130QATDQD
+-8-

@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Kupper - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2206: SNAP; error rate; forensic audit
+KUPPER FLOOR AMENDMENT
+1. Requires DES to submit a quarterly report to the Legislature within 30 days
+after the end of the quarter that details the monthly progress towards reducing
+the payment error rate and includes strategies and barriers that may be
+present in reducing the payment error rate.
+2. Removes oversight of the Auditor General regarding implementation of the
+corrective plan.
+3. Requires, by November 15, 2027, the Auditor General to complete a special
+audit which will determine what factors contributed to the payment error rate
+and include recommendations to reduce the payment error rate.
+4. Allows the Auditor General to request DES submit a written status report on
+their implementation of the special audit recommendations.
+A. GRAHAM
+2/10/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Kupper
+Second Regular Session H.B. 2206
+KUPPER FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2206
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 46, chapter 2, article 2, Arizona Revised
+3 Statutes, is amended by adding section 46-232, to read:
+4 46-232. Payment error rate; reduction; quarterly reports;
+5 requirements; auditor general
+6 A. ON OR BEFORE DECEMBER 30, 2030, THE DEPARTMENT SHALL REDUCE THE
+7 SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM'S PAYMENT ERROR RATE AS REPORTED
+8 BY THE UNITED STATES DEPARTMENT OF AGRICULTURE TO NOT MORE THAN THREE
+9 PERCENT.
+10 B. BEGINNING IN FISCAL YEAR [2027-2028] [2026-2027] AND EACH FISCAL
+11 YEAR THEREAFTER, THE DEPARTMENT SHALL SUBMIT [AN ANNUAL] [A QUARTERLY]
+12 REPORT TO THE LEGISLATURE [BY DECEMBER 31] [WITHIN THIRTY DAYS AFTER THE
+13 END OF THE QUARTER] THAT DETAILS THE DEPARTMENT'S [MONTHLY] PROGRESS
+14 TOWARDS REDUCING THE PAYMENT ERROR RATE AND THAT INCLUDES STRATEGIES AND
+15 BARRIERS THAT MAY BE PRESENT IN REDUCING THE PAYMENT ERROR RATE.
+16 C. IF THE DEPARTMENT FAILS TO MEET ANNUAL INTERIM TARGETS
+17 ESTABLISHED BY RULE OR THE FINAL TARGET AS PRESCRIBED IN SUBSECTION A OF
+18 THIS SECTION, THE DEPARTMENT SHALL:
+19 1. SUBMIT A CORRECTIVE ACTION PLAN TO THE LEGISLATURE WITHIN SIXTY
+20 DAYS THAT INCLUDES AN ANALYSIS OF WHY THE TARGETS WERE NOT MET AND
+21 TIMELINES FOR CORRECTING THE PAYMENT ERROR RATE.
+22 2. PAY FIFTY PERCENT OF ANY FEDERAL LIABILITIES THAT MAY BE IMPOSED
+23 DUE TO THE EXCESS PAYMENT ERROR RATES. THE REMAINING FEDERAL LIABILITIES
+24 SHALL BE PAID FROM THE STATE GENERAL FUND.
+25 3. IMPLEMENT A CORRECTIVE PLAN [UNDER THE OVERSIGHT OF THE AUDITOR
+26 GENERAL]. IF THE DEPARTMENT FAILS TO COMPLY WITH THE CORRECTIVE PLAN, THE
+27 DEPARTMENT'S ADMINISTRATIVE FUNDING SHALL BE REDUCED BY TEN PERCENT UNTIL
+28 RESOLVED.
+
+House Amendments to H.B. 2206
+1 D. ON OR BEFORE [DECEMBER 30, 2031] [NOVEMBER 15, 2027], THE
+2 AUDITOR GENERAL SHALL COMPLETE A [FORENSIC] [SPECIAL] AUDIT. THE
+3 [FORENSIC] [SPECIAL] AUDIT SHALL DETERMINE WHAT FACTORS CONTRIBUTED TO THE
+4 PAYMENT ERROR RATE AND SHALL INCLUDE RECOMMENDATIONS TO REDUCE THE PAYMENT
+5 ERROR RATE. THE DEPARTMENT SHALL IMPLEMENT THE RECOMMENDATIONS WITHIN
+6 TWELVE MONTHS AFTER RECEIVING THE RECOMMENDATIONS FROM THE AUDITOR GENERAL
+7 UNLESS THE RECOMMENDATIONS ARE WAIVED BY THE JOINT LEGISLATIVE AUDIT
+8 COMMITTEE. [THE AUDITOR GENERAL MAY REQUEST THAT THE DEPARTMENT SUBMIT A
+9 WRITTEN STATUS REPORT ON THE DEPARTMENT'S IMPLEMENTATION OF THE SPECIAL
+10 AUDIT RECOMMENDATIONS.]
+11 E. IF THE DEPARTMENT CORRECTS THE PAYMENT ERROR RATE AHEAD OF
+12 SCHEDULE, THE LEGISLATURE MAY ALLOCATE ADDITIONAL FUNDING FOR PROGRAM
+13 IMPROVEMENTS.
+14 Sec. 2. Delayed repeal
+15 Section 46-232, Arizona Revised Statutes, as added by this act, is
+16 repealed from and after December 31, 2032.
+17 Sec. 3. Short title
+18 This act may be cited as the "Oh SNAP Act".
+19 Enroll and engross to conform
+20 Amend title to conform
+NICK KUPPER
+2206FloorKUPPER.docx
+02/03/2026
+11:15 AM
+C: SK
+130YOBOCK
+-2-
