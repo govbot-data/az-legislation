@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Second Reading",
+    "occurred_at": "2026-01-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "57th-2nd-regular",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.azleg.gov/BillStatus/BillOverview/83700?SessionId=130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1073"
+}

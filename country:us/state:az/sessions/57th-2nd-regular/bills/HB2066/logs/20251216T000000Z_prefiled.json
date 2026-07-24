@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Prefiled.",
+    "occurred_at": "2025-12-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "57th-2nd-regular",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.azleg.gov/BillStatus/BillOverview/83633?SessionId=130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2066"
+}

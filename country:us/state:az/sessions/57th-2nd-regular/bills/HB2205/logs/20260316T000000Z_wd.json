@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "W/D",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "57th-2nd-regular",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [
+      {
+        "name": "Judiciary and Elections",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://apps.azleg.gov/BillStatus/BillOverview/83875?SessionId=130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2205"
+}

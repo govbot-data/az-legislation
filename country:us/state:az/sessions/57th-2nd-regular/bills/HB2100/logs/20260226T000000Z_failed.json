@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "FAILED",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "57th-2nd-regular",
+    "entity_type": "bill",
+    "classifications": [
+      "failure",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.azleg.gov/BillStatus/BillOverview/83721?SessionId=130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2100"
+}

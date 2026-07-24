@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "DP",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "57th-2nd-regular",
+    "entity_type": "bill",
+    "classifications": [
+      "informal-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.azleg.gov/BillStatus/BillOverview/83943?SessionId=130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR1010"
+}

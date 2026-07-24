@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "DP",
+    "occurred_at": "2026-03-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "57th-2nd-regular",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Natural Resources",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://apps.azleg.gov/BillStatus/BillOverview/83985?SessionId=130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2261"
+}

@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "DPA",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "57th-2nd-regular",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations, Transportation and Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://apps.azleg.gov/BillStatus/BillOverview/83891?SessionId=130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1122"
+}

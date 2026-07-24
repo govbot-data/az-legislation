@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Prefiled.",
+    "occurred_at": "2026-01-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "57th-2nd-regular",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.azleg.gov/BillStatus/BillOverview/83903?SessionId=130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1134"
+}

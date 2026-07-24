@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Placed on Consent Calendar",
+    "occurred_at": "2026-02-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "57th-2nd-regular",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://apps.azleg.gov/BillStatus/BillOverview/83979?SessionId=130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2258"
+}
