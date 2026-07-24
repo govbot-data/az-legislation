@@ -1,0 +1,8 @@
+Title: HB2410 - 572R - I Ver
+Official Title: 
+Source: versions - Introduced Version
+Media Type: text/html
+
+================================================================================
+
+HB2410 - 572R - I Ver REFERENCE TITLE: artificial intelligence; privileged communications State of Arizona House of Representatives Fifty-seventh Legislature Second Regular Session 2026 HB 2410 Introduced by Representatives Kolodin: Chaplik, Connolly, Hendrix, Wilmeth AN ACT amending title 18, Arizona Revised Statutes, by adding chapter 8; relating to information technology. (TEXT OF BILL BEGINS ON NEXT PAGE) Be it enacted by the Legislature of the State of Arizona: Section 1. Title 18, Arizona Revised Statutes, is amended by adding chapter 8, to read: CHAPTER 8 ARTIFICIAL INTELLIGENCE ARTICLE 1. GENERAL PROVISIONS START_STATUTE18-801. Private communication with artificial intelligence; privileged A person's communication with an artificial intelligence is privileged if the person would have been entitled to privileged communication had the person sought the advice from a human professional. END_STATUTE

@@ -1,0 +1,127 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Kavangh flr amend (ref RAGE) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1108
+Kavanagh Floor Amendment
+Reference to: REGULATORY AFFAIRS AND GOVERNMENT
+EFFICIENCY Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+• Adds an emergency clause.
+Amendment explanation prepared by Hayden Darst
+2/19/2026
+
+Fifty-seventh Legislature Kavanagh
+Second Regular Session S.B. 1108
+KAVANAGH FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1108
+(Reference to REGULATORY AFFAIRS AND GOVERNMENT EFFICIENCY Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Heading change
+3 The chapter heading of title 44, chapter 38, Arizona Revised
+4 Statutes, is changed from "BUSINESSES EXEMPT FROM MASK MANDATE" to
+5 "BUSINESSES GENERALLY".
+6 Sec. 2. Title 44, chapter 38, article 1, Arizona Revised Statutes,
+7 is amended by adding section 44-7952, to read:
+8 44-7952. Cash transactions; mandatory rounding of transaction
+9 totals; notice; enforcement
+10 A. IF ONE-CENT COINS ARE NOT AVAILABLE OR ARE NOT USED BY A SELLER
+11 AT A POINT OF SALE, THE SELLER SHALL APPLY SWEDISH ROUNDING TO A TOTAL
+12 TRANSACTION AMOUNT THAT ROUNDS THE TOTAL TRANSACTION AMOUNT TO THE NEAREST
+13 FIVE-CENT INCREMENT. IF A TOTAL TRANSACTION AMOUNT ENDS:
+
+Senate Amendments to S.B. 1108
+1 1. IN ONE OR TWO CENTS, THE TOTAL TRANSACTION AMOUNT IS ROUNDED
+2 DOWN TO THE NEAREST MULTIPLE OF FIVE CENTS.
+3 2. IN THREE OR FOUR CENTS, THE TOTAL TRANSACTION AMOUNT IS ROUNDED
+4 UP TO THE NEAREST MULTIPLE OF FIVE CENTS.
+5 3. IN SIX OR SEVEN CENTS, THE TOTAL TRANSACTION AMOUNT IS ROUNDED
+6 DOWN TO THE NEAREST MULTIPLE OF FIVE CENTS.
+7 4. IN EIGHT OR NINE CENTS, THE TOTAL TRANSACTION AMOUNT IS ROUNDED
+8 UP TO THE NEAREST MULTIPLE OF FIVE CENTS.
+9 B. SWEDISH ROUNDING APPLIES TO A FINAL TOTAL TRANSACTION AMOUNT OF
+10 A CASH TRANSACTION AFTER TAXES, FEES AND OTHER CHARGES ARE CALCULATED.
+11 C. SWEDISH ROUNDING DOES NOT APPLY TO[:
+12 1. THE SALE OF AN INDIVIDUAL ITEM.
+13 2. A TRANSACTION THAT IS PAID BY A CREDIT CARD, DEBIT CARD,
+14 ELECTRONIC FUNDS TRANSFER, MOBILE PAYMENT APPLICATION OR OTHER NON-CASH
+15 PAYMENT METHOD.] [A TRANSACTION THAT IS PAID BY A CREDIT CARD, DEBIT CARD,
+16 ELECTRONIC FUNDS TRANSFER, MOBILE PAYMENT APPLICATION OR OTHER NON-CASH
+17 PAYMENT METHOD.]
+18 D. A SELLER THAT IS SUBJECT TO THIS SECTION SHALL POST A NOTICE
+19 THAT IS VISIBLE TO CUSTOMERS AT THE POINT OF SALE STATING "CASH
+20 TRANSACTIONS ARE ROUNDED TO THE NEAREST FIVE-CENT INCREMENT PURSUANT TO
+21 STATE LAW".
+22 E. A SELLER MAY NOT APPLY A ROUNDING METHOD OTHER THAN SWEDISH
+23 ROUNDING.
+24 [F. A SELLER SHALL CALCULATE AND REMIT ALL TAXES AND FEES THAT ARE
+25 IMPOSED BY A STATE OR MUNICIPAL TAXING AUTHORITY BASED ON THE SALES PRICE
+26 BEFORE THE CASH TRANSACTION WAS ROUNDED.]
+27 [F.] [G.] THIS SECTION SHALL BE ENFORCED BY THE WEIGHTS AND
+28 MEASURES SERVICES DIVISION OF THE ARIZONA DEPARTMENT OF AGRICULTURE
+29 PURSUANT TO TITLE 3, CHAPTER 19. THE DIVISION MAY ISSUE WARNINGS AND
+30 ORDERS AND IMPOSE CIVIL PENALTIES IN ADDITION TO OTHER ENFORCEMENT
+31 MEASURES.
+32 [H. A SELLER IS NOT IN VIOLATION OF ANY STATE OR MUNICIPAL
+33 REQUIREMENT, LAW, REGULATION OR STANDARD IF THE ACTION IS BASED ON
+34 COMPLIANCE WITH THIS SECTION.]
+35 [G.] [I.] THIS SECTION IS INTENDED TO OPERATE CONSISTENTLY WITH
+36 FEDERAL LAW THAT GOVERNS UNITED STATES COINAGE AND LEGAL TENDER.
+37 [H.] [J.] THIS SECTION DOES NOT:
+38 1. DECLARE ANY COIN OR CURRENCY INVALID AS LEGAL TENDER.
+39 2. REQUIRE ACCEPTANCE OR REFUSAL OF ANY SPECIFIC DENOMINATION OF
+40 THE UNITED STATES COIN OR CURRENCY.
+41 3. PREEMPT, CONFLICT WITH OR SUPERSEDE ANY PROVISION OF FEDERAL LAW
+42 REGULATION.
+43 <<Sec. 3. Legislative intent
+44 [The legislature intends that section 44-7952, Arizona Revised
+45 Statutes, as added by this act, protects businesses and governmental
+46 agencies in this state.]>>
+-2-
+
+Senate Amendments to S.B. 1108
+1 ≤≤Sec. 4. Emergency
+2 {{This act is an emergency measure that is necessary to preserve the
+3 public peace, health or safety and is operative immediately as provided by
+4 law.}}≥≥
+5 Enroll and engross to conform
+6 Amend title to conform
+JOHN KAVANAGH
+1108FloorKAVANAGH.docx
+02/19/2026
+10:58 AM
+C: SK
+130VVNTQB
+-3-

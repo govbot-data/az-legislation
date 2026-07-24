@@ -1,0 +1,860 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Federalism, Military Affairs & Elections
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Federalism, Military Affairs & Elections
+Second Regular Session S.B. 1687
+PROPOSED
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1687
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 16-201, Arizona Revised Statutes, is amended to
+3 read:
+4 16-201. Primary elections
+5 A primary election shall be held on the second to last Tuesday in
+6 July in any year in which a general election or special election is held
+7 and at which candidates for public office are to be elected. BEGINNING IN
+8 2028 AND LATER, A PRIMARY ELECTION SHALL BE HELD ON THE TUESDAY BEFORE THE
+9 LAST MONDAY IN MAY IN ANY YEAR IN WHICH A GENERAL ELECTION OR SPECIAL
+10 ELECTION IS HELD AND AT WHICH CANDIDATES FOR PUBLIC OFFICE ARE TO BE
+11 ELECTED.
+12 Sec. 2. Section 16-204, Arizona Revised Statutes, is amended to
+13 read:
+14 16-204. Declaration of statewide concern; consolidated
+15 election dates; definition
+16 A. The legislature finds and determines that for the purposes of
+17 increasing voter participation and for decreasing the costs to the
+18 taxpayers it is a matter of statewide concern that all elections in this
+19 state be conducted on a limited number of days and, therefore, the
+20 legislature finds and declares that the holding of all elections on
+21 certain specific consolidated days is a matter of statewide concern. This
+22 section preempts all local laws, ordinances and charter provisions to the
+23 contrary.
+24 B. For elections held before 2014 and notwithstanding any other law
+25 or any charter or ordinance of any county, city or town to the contrary,
+26 an election held for or on behalf of a county, city or town, a school
+27 district, a community college district or special districts organized
+
+House Amendments to S.B. 1687
+1 pursuant to title 48, chapters 5, 6, 8, 10, 13 through 16 and 33 may only
+2 be held on the following dates:
+3 1. Except for regular elections for candidates in a city or town
+4 with a population of one hundred seventy-five thousand or more persons,
+5 all elections, including recall elections and special elections to fill
+6 vacancies, shall be held on:
+7 (a) The second Tuesday in March.
+8 (b) The third Tuesday in May.
+9 (c) The tenth Tuesday before the first Tuesday after the first
+10 Monday in November.
+11 (d) The first Tuesday after the first Monday in November.
+12 Notwithstanding any other law, an election must be held on this date for
+13 the approval of an obligation or other authorization requiring or
+14 authorizing the assessment of secondary property taxes by a county, city,
+15 town, school district, community college district or special taxing
+16 district, except as provided by title 48.
+17 2. For regular elections that are only for candidates in a city or
+18 town with a population of one hundred seventy-five thousand or more
+19 persons and not including recall elections and special elections to fill
+20 vacancies in those cities or towns, elections shall be held on:
+21 (a) The tenth Tuesday before the first Tuesday after the first
+22 Monday in November.
+23 (b) The first Tuesday after the first Monday in November.
+24 C. For elections held before 2014, for any city or town, including
+25 a charter city, that holds its regularly scheduled candidate elections in
+26 even-numbered years pursuant to subsection B, paragraph 2 of this section,
+27 the term of office for a member of the city council or for the office of
+28 mayor begins on or after the second Tuesday in January in the year
+29 following the election.
+30 D. Subsections B and C of this section do not apply to an election
+31 regarding a county or city charter committee or county or city charter
+32 proposal that is conducted pursuant to article XIII, section 2 or 3 or
+33 article XII, section 5, Constitution of Arizona.
+34 E. Beginning with elections held in 2014 and later and
+35 notwithstanding any other law or any charter or ordinance to the contrary,
+36 a candidate election held for or on behalf of any political subdivision of
+37 this state other than a special election to fill a vacancy or a recall
+38 election may only be held on the following dates and only in even-numbered
+39 years:
+40 1. Beginning in THROUGH 2026 and later, the second to last Tuesday
+41 in July. BEGINNING IN 2028 AND LATER, THE ELECTION SHALL BE HELD ON THE
+42 TUESDAY BEFORE THE LAST MONDAY IN MAY. If the political subdivision holds
+43 a primary or first election and a general or runoff election is either
+44 required or optional for that political subdivision, the first election
+45 shall be held on this date, without regard to whether the political
+46 subdivision designates the election a primary election, a first election,
+47 a preliminary election or any other descriptive term.
+-2-
+
+House Amendments to S.B. 1687
+1 2. The first Tuesday after the first Monday in November. If the
+2 political subdivision holds a general election or a runoff election, the
+3 second election held shall be held on this date. If the political
+4 subdivision holds only a single election and no preliminary or primary or
+5 other election is ever held for the purpose of reducing the number of
+6 candidates, or receiving a partisan nomination or designation or for any
+7 other purpose for that political subdivision, the single election shall be
+8 held on this date.
+9 F. Beginning with elections held in 2014 and later that are not
+10 candidate elections, an election held for or on behalf of any political
+11 subdivision of this state, and including a special election to fill a
+12 vacancy or a recall election, may only be held on the following dates:
+13 1. The second Tuesday in March.
+14 2. The third Tuesday in May.
+15 3. 2. Beginning in 2026 and later THROUGH 2027, the second to last
+16 Tuesday in July. BEGINNING IN 2028 AND LATER, THE ELECTION SHALL BE HELD
+17 ON THE TUESDAY BEFORE THE LAST MONDAY IN MAY.
+18 4. 3. The first Tuesday after the first Monday in November.
+19 Notwithstanding any other law, an election must be held on this date for
+20 the approval of an obligation or other authorization requiring or
+21 authorizing the assessment of secondary property taxes by a county, city,
+22 town, school district, community college district or special taxing
+23 district, except as provided by title 48. Notwithstanding any other law,
+24 an election must be held on the date specified in this paragraph and only
+25 in even-numbered years for the approval of or authorizing the assessment
+26 of transaction privilege taxes by a county, city or town.
+27 G. Notwithstanding any other law, for an election administered by a
+28 county recorder or other officer in charge of elections on behalf of a
+29 city, town or school district and that is an all mail ballot election for
+30 that city, town or school district, the county recorder or other officer
+31 in charge of elections may use a unified ballot format that combines all
+32 of the issues applicable to the voters in the city, town or school
+33 district requesting the all mail ballot election.
+34 H. For the purposes of this section, "political subdivision" means
+35 any governmental entity operating under the authority of this state and
+36 governed by an elected body, including a city, town, county, school
+37 district or community college district or any other district organized
+38 under state law but not including a special taxing district.
+39 Sec. 3. Section 16-206, Arizona Revised Statutes, is amended to
+40 read:
+41 16-206. Election day
+42 A. THROUGH 2026, the biennial primary election day on the second to
+43 last Tuesday in July in the year the general election is held and the
+44 biennial general election day on the first Tuesday after the first Monday
+45 in November of every even-numbered year are not legal holidays. BEGINNING
+46 IN 2028 AND LATER, THE BIENNIAL PRIMARY ELECTION DAY ON THE TUESDAY BEFORE
+47 THE LAST MONDAY IN MAY IN THE YEAR THE GENERAL ELECTION IS HELD AND THE
+-3-
+
+House Amendments to S.B. 1687
+1 BIENNIAL GENERAL ELECTION DAY ON THE TUESDAY AFTER THE FIRST MONDAY IN
+2 NOVEMBER OF EVERY EVEN-NUMBERED YEAR ARE NOT LEGAL HOLIDAYS.
+3 B. Every public officer or employee is entitled to absence from
+4 service or employment for the purpose of voting pursuant to section 16-402
+5 on the biennial primary and general election days.
+6 Sec. 4. Section 16-311, Arizona Revised Statutes, is amended to
+7 read:
+8 16-311. Nomination papers; statement of interest; filing;
+9 definitions
+10 A. Any person desiring to become a candidate at a primary election
+11 for a political party and to have the person's name printed on the
+12 official ballot shall be a qualified elector of the party and, THROUGH
+13 2026, not less than one hundred twenty nor more than one hundred fifty
+14 days before the primary election AND BEGINNING IN 2028, NOT LESS THAN ONE
+15 HUNDRED SEVENTEEN NOR MORE THAN ONE HUNDRED FORTY DAYS BEFORE THE PRIMARY
+16 ELECTION, shall sign and cause to be filed a nomination paper giving the
+17 person's actual residence address or, if the person does not have an
+18 actual residence address, a description of place of residence and post
+19 office address, or, if the person's actual residence address is protected
+20 pursuant to section 16-153, a post office box or private mailbox address
+21 in the candidate's district or precinct, as applicable for a district or
+22 precinct office, naming the party of which the person desires to become a
+23 candidate, stating the office and district or precinct, if any, for which
+24 the person offers the person's candidacy, stating the exact manner in
+25 which the person desires to have the person's name printed on the official
+26 ballot pursuant to subsection G of this section, and giving the date of
+27 the primary election and, if nominated, the date of the general election
+28 at which the person desires to become a candidate. Except for a candidate
+29 for United States senator or representative in Congress, a candidate for
+30 public office shall be a qualified elector at the time of filing and shall
+31 reside in the county, district or precinct that the person proposes to
+32 represent. A candidate for partisan public office shall be continuously
+33 registered with the political party of which the person desires to be a
+34 candidate beginning no NOT later than the date of the first petition
+35 signature on the candidate's petition through the date of the general
+36 election at which the person is a candidate.
+37 B. Any person desiring to become a candidate at any nonpartisan
+38 election and to have the person's name printed on the official ballot
+39 shall be at the time of filing a qualified elector of the county, city,
+40 town or district and, THROUGH 2027, not less than one hundred twenty nor
+41 more than one hundred fifty days before the election AND BEGINNING IN
+42 2028, NOT LESS THAN ONE HUNDRED SEVENTEEN NOR MORE THAN ONE HUNDRED FORTY
+43 DAYS BEFORE THE ELECTION, shall sign and cause to be filed a nomination
+44 paper giving the person's actual residence address or, if the person does
+45 not have an actual residence address, a description of place of residence
+46 and post office address, or, if the person's actual residence address is
+47 protected pursuant to section 16-153, a post office box or private mailbox
+-4-
+
+House Amendments to S.B. 1687
+1 address in the candidate's county, city, town or district and ward or
+2 precinct, as applicable for a county, city, town or district and ward or
+3 precinct office, stating the office and county, city, town or district and
+4 ward or precinct, if any, for which the person offers the person's
+5 candidacy, stating the exact manner in which the person desires to have
+6 the person's name printed on the official ballot pursuant to subsection G
+7 of this section and giving the date of the election. A candidate for
+8 office shall reside at the time of filing in the county, city, town,
+9 district, ward or precinct that the person proposes to represent.
+10 C. Notwithstanding subsection B of this section, any city or town
+11 may adopt by ordinance for its elections the time frame provided in
+12 subsection A of this section for filing nomination petitions. The
+13 ordinance shall be adopted not less than one hundred fifty days before the
+14 first election to which it applies.
+15 D. All persons desiring to become a candidate shall file with the
+16 nomination paper provided for in subsection A of this section a
+17 declaration, which shall be printed in a form prescribed by the secretary
+18 of state. The declaration shall include facts sufficient to show that,
+19 other than the residency requirement provided in subsection A of this
+20 section and the satisfaction of any monetary penalties, fines or judgments
+21 as prescribed in subsection J of this section, the candidate will be
+22 qualified at the time of election to hold the office the person seeks, and
+23 that for any monetary penalties, fines or judgments as prescribed in
+24 subsection J of this section, the candidate has made complete payment
+25 before the time of filing.
+26 E. The nomination paper of a candidate for the office of United
+27 States senator or representative in Congress, for the office of
+28 presidential elector or for a state office, including a member of the
+29 legislature, or for any other office for which the electors of the entire
+30 state or a subdivision of the state greater than a county are entitled to
+31 vote, shall be filed with the secretary of state no NOT later than
+32 5:00 p.m. on the last date for filing.
+33 F. The nomination paper of a candidate for superior court judge or
+34 for a county, district and precinct office for which the electors of a
+35 county or a subdivision of a county other than an incorporated city or
+36 town are entitled to vote shall be filed with the county elections officer
+37 no NOT later than 5:00 p.m. on the last date for filing as prescribed by
+38 subsection A of this section. The nomination paper of a candidate for a
+39 city or town office shall be filed with the city or town clerk no NOT
+40 later than 5:00 p.m. on the last date for filing. The nomination paper of
+41 a candidate for school district office shall be filed with the county
+42 school superintendent no NOT later than 5:00 p.m. on the last date for
+43 filing.
+44 G. The nomination paper shall include the exact manner in which the
+45 candidate desires to have the person's name printed on the official ballot
+46 and shall be limited to the candidate's surname and given name or names,
+47 an abbreviated version of such names or appropriate initials such as "Bob"
+-5-
+
+House Amendments to S.B. 1687
+1 for "Robert", "Jim" for "James", "Wm." for "William" or "S." for "Samuel".
+2 Nicknames are permissible, but nicknames, abbreviated versions or initials
+3 of given names may not suggest reference to professional, fraternal,
+4 religious or military titles and may not include a slogan, a promotional
+5 word or phrase or any word that does not actually constitute a
+6 nickname. No other descriptive name or names shall be printed on the
+7 official ballot, except as provided in this section. Candidates'
+8 abbreviated names or nicknames may be printed within quotation marks. The
+9 candidate's surname shall be printed first, followed by the given name or
+10 names.
+11 H. Not later than the date of the first petition signature on a
+12 nomination petition, a person who may be a candidate for office pursuant
+13 to this section shall file a statement of interest with the appropriate
+14 filing officer for that office. The statement of interest shall contain
+15 the name of the person, the political party, if any, and the name of the
+16 office that may be sought. Any nomination petition signatures collected
+17 before the date the statement of interest is filed are invalid and subject
+18 to challenge. This subsection does not apply to:
+19 1. Candidates for elected office for special taxing districts that
+20 are established pursuant to title 48.
+21 2. Candidates for precinct committeeman.
+22 3. Candidates for president or vice president of the United States.
+23 I. A person who does not file a timely nomination paper that
+24 complies with this section is not eligible to have the person's name
+25 printed on the official ballot for that office. The filing officer shall
+26 not accept the nomination paper of a candidate for state or local office
+27 unless the person provides or has provided all of the following:
+28 1. The financial disclosure statement as prescribed for candidates
+29 for that office.
+30 2. The declaration of qualification and eligibility as prescribed
+31 in subsection D of this section.
+32 J. Except in cases where the liability is being appealed, the
+33 filing officer shall not accept the nomination paper of a candidate for
+34 state or local office if the person is liable for an aggregation of $1,000
+35 or more in fines, penalties, late fees or administrative or civil
+36 judgments, including any interest or costs, in any combination, that have
+37 not been fully satisfied at the time of the attempted filing of the
+38 nomination paper and the liability arose from failure to comply with or
+39 enforcement of chapter 6 of this title.
+40 K. For the purposes of this title:
+41 1. "Election district" means this state, any county, city, town,
+42 precinct or other political subdivision or a special district that is not
+43 a political subdivision, that is authorized by statute to conduct an
+44 election and that is authorized or required to conduct its election in
+45 accordance with this title.
+-6-
+
+House Amendments to S.B. 1687
+1 2. "Nomination paper" means the form filed with the appropriate
+2 office by a person wishing to declare the person's intent to become a
+3 candidate for a particular political office.
+4 Sec. 5. Section 16-314, Arizona Revised Statutes, is amended to
+5 read:
+6 16-314. Filing and form of nomination petitions; definition
+7 A. Any person desiring WHO DESIRES to become a candidate at any
+8 election and to have the person's name printed on the official ballot
+9 shall file, THROUGH 2026, not less than one hundred twenty nor more than
+10 one hundred fifty days before the primary election AND BEGINNING IN 2028,
+11 NOT LESS THAN ONE HUNDRED SEVENTEEN NOR MORE THAN ONE HUNDRED FORTY DAYS
+12 BEFORE THE PRIMARY ELECTION, and with the same officer as provided by
+13 section 16-311, a nomination petition in addition to the nomination paper
+14 required.
+15 C. B. Nomination petitions shall be captioned "partisan nomination
+16 petition" or "nonpartisan nomination petition", followed by the language
+17 of the petition in substantially the following form, except that if the
+18 candidate does not have an actual residence address, the candidate may use
+19 a description of place of residence and post office address, or, if the
+20 candidate's actual residence address is protected pursuant to section
+21 16-153, a post office box or private mailbox address in the candidate's
+22 political division or district from which the nomination is sought is
+23 sufficient:
+24 Partisan Nomination Petition
+25 I, the undersigned, a qualified elector of the county of
+26 ______________, state of Arizona, and of (here name political
+27 division or district from which the nomination is sought) and
+28 a member of the _______________ party or a person who is
+29 registered as no party preference or independent as the party
+30 preference or who is registered with a political party that is
+31 not qualified for representation on the ballot, hereby
+32 nominate ___________ who resides at _____________ in the
+33 county of ____________ for the party nomination for the office
+34 of _______________ to be voted at the primary election to be
+35 held _______________ as representing the principles of such
+36 party, and I hereby declare that I am qualified to vote for
+37 this office and that I have not signed, and will not sign, any
+38 nomination petition for more persons than the number of
+39 candidates necessary to fill such office at the next ensuing
+40 election. I further declare that if I choose to use a post
+41 office box address on this petition, my residence address has
+42 not changed since I last reported it to the county recorder
+43 for purposes of updating my voter registration file.
+44 Nonpartisan Nomination Petition
+45 I, the undersigned, a qualified elector of the county of
+46 _______________, state of Arizona, and of (here name political
+47 division or district from which the nomination is sought)
+-7-
+
+House Amendments to S.B. 1687
+1 hereby nominate _______________ who resides at _______________
+2 in the county of _______________ for the office of
+3 ______________ to be voted at the _______________ election to
+4 be held _______________, and hereby declare that I am
+5 qualified to vote for this office and that I have not signed
+6 and will not sign any nomination petitions for more persons
+7 than the number of candidates necessary to fill such office at
+8 the next ensuing election. I further declare that if I choose
+9 to use a post office box address on this petition, my
+10 residence address has not changed since I last reported it to
+11 the county recorder for purposes of updating my voter
+12 registration file.
+13 D. C. The nomination petition of a person seeking to fill an
+14 unexpired vacant term for any public office shall designate the expiration
+15 date of the term following the name of the office being sought.
+16 B. D. For the purposes of this title, "nomination petition means
+17 the form or forms used for obtaining the required number of signatures of
+18 qualified electors, which is circulated by or on behalf of the person
+19 wishing to become a candidate for a political office.
+20 Sec. 6. Section 16-322, Arizona Revised Statutes, is amended to
+21 read:
+22 16-322. Number of signatures required on nomination petitions
+23 A. Nomination petitions shall be signed by a number of qualified
+24 signers equal to:
+25 1. If for a candidate for the office of United States senator or
+26 for a state office, excepting members of the legislature and superior
+27 court judges, at least one-fourth of one percent but not more than ten
+28 percent of the total number of qualified signers in the THIS state.
+29 2. If for a candidate for the office of representative in Congress,
+30 at least one-half of one percent but not more than ten percent of the
+31 total number of qualified signers in the district from which the
+32 representative shall be elected except that if for a candidate for a
+33 special election to fill a vacancy in the office of representative in
+34 Congress, at least one-fourth of one percent but not more than ten percent
+35 of the total number of qualified signers in the district from which the
+36 representative shall be elected.
+37 3. If for a candidate for the office of member of the legislature,
+38 at least one-half of one percent but not more than three percent of the
+39 total number of qualified signers in the district from which the member of
+40 the legislature may be elected.
+41 4. If for a candidate for a county office or superior court judge,
+42 at least one percent but not more than ten percent of the total number of
+43 qualified signers in the county or district, except that if for a
+44 candidate from a county with a population of two hundred thousand persons
+45 or more, at least one-fourth of one percent but not more than ten percent
+46 of the total number of qualified signers in the county or district.
+-8-
+
+House Amendments to S.B. 1687
+1 5. If for a candidate for a community college district, at least
+2 one-quarter of one percent but not more than ten percent of the total
+3 voter registration in the precinct as established pursuant to section
+4 15-1441. Notwithstanding the total voter registration in the community
+5 college district, the maximum number of signatures required by this
+6 paragraph is one thousand.
+7 6. If for a candidate for county precinct committeeman, at least
+8 two percent but not more than ten percent of the party voter registration
+9 in the precinct or ten signatures, whichever is less.
+10 7. If for a candidate for justice of the peace or constable in a
+11 county with a population of one million persons or more, at least one
+12 percent but not more than ten percent of the number of qualified signers
+13 in the precinct.
+14 8. If for a candidate for justice of the peace or constable in a
+15 county with a population of less than one million persons, at least one
+16 percent but not more than ten percent of the number of qualified signers
+17 in the precinct or three hundred signatures, whichever is less.
+18 9. If for a candidate for mayor or other office nominated by a city
+19 at large, at least five percent and not more than ten percent of the
+20 designated party vote in the city, except that a city that chooses to hold
+21 nonpartisan elections may provide by ordinance that the minimum number of
+22 signatures required for the candidate be one thousand signatures or five
+23 percent of the vote in the city, whichever is less, but not more than ten
+24 percent of the vote in the city.
+25 10. If for an office nominated by ward, precinct or other district
+26 of a city, at least five percent and not more than ten percent of the
+27 designated party vote in the ward, precinct or other district, except that
+28 a city that chooses to hold nonpartisan elections may provide by ordinance
+29 that the minimum number of signatures required for the candidate be two
+30 hundred fifty signatures or five percent of the vote in the district,
+31 whichever is less, but not more than ten percent of the vote in the
+32 district.
+33 11. If for a candidate for an office nominated by a town at large,
+34 by a number of qualified electors who are qualified to vote for the
+35 candidate whose nomination petition they are signing equal to at least
+36 five percent and not more than ten percent of the vote in the town, except
+37 that a town that chooses to hold nonpartisan elections may provide by
+38 ordinance that the minimum number of signatures required for the candidate
+39 be one thousand signatures or five percent of the vote in the town,
+40 whichever is less, but not more than ten percent of the vote in the town.
+41 12. If for a candidate for a governing board of a school district
+42 or a career technical education district, at least one-half of one percent
+43 of the total voter registration in the school district or career technical
+44 education district if the board members are elected at large or one
+45 percent of the total voter registration in the single member district if
+46 governing board members are elected from single member districts or
+47 one-half of one percent of the total voter registration in the single
+-9-
+
+House Amendments to S.B. 1687
+1 member district if career technical education district board members are
+2 elected from single member districts. Notwithstanding the total voter
+3 registration in the school district, career technical education district
+4 or single member district of the school district or career technical
+5 education district, the maximum number of signatures required by this
+6 paragraph is four hundred.
+7 13. If for a candidate for a governing body of a special district
+8 as described in title 48, at least one-half of one percent of the vote in
+9 the special district but not more than two hundred fifty and not fewer
+10 than five signatures.
+11 B. THROUGH 2027, the basis of percentage in each instance referred
+12 to in subsection A of this section, except in cities, towns and school
+13 districts, shall be the number of qualified signers as determined from the
+14 voter registration totals as reported pursuant to section 16-168,
+15 subsection H on January 2 of the year in which the general election is
+16 held AND BEGINNING IN 2028, FROM THE VOTER REGISTRATION TOTALS AS REPORTED
+17 PURSUANT TO SECTION 16-168, SUBSECTION H ON OCTOBER 1 OF THE YEAR BEFORE
+18 THE YEAR IN WHICH THE GENERAL ELECTION IS HELD. In cities, the basis of
+19 percentage shall be the vote of the party for mayor at the last preceding
+20 election at which a mayor was elected. In towns, the basis of percentage
+21 shall be the highest vote cast for an elected official of the town at the
+22 last preceding election at which an official of the town was elected. In
+23 school districts or career technical education districts, the basis of
+24 percentage shall be the total number of active registered voters in the
+25 school district or career technical education district or single member
+26 district, whichever applies. The total number of active registered voters
+27 for school districts or career technical education districts shall be
+28 calculated using the periodic reports prepared by the county recorder
+29 pursuant to section 16-168, subsection H. THROUGH 2026, the count that is
+30 reported on January 2 of the year in which the general election is held
+31 AND BEGINNING IN 2028, THE COUNT THAT IS REPORTED ON OCTOBER 1 OF THE YEAR
+32 BEFORE THE YEAR IN WHICH THE GENERAL ELECTION IS HELD shall be the basis
+33 for the calculation of total voter registration for school districts or
+34 career technical education districts.
+35 C. In primary elections the signature requirement for party
+36 nominees, other than nominees of the parties entitled to continued
+37 representation pursuant to section 16-804, is at least one-tenth of one
+38 percent of the total vote for the winning candidate or candidates for
+39 governor or presidential electors at the last general election within the
+40 district. Signatures must be obtained from qualified electors who are
+41 qualified to vote for the candidate whose nomination petition they are
+42 signing.
+43 D. If new boundaries for congressional districts or legislative
+44 districts are established and effective subsequent to January 2 of the
+45 year of a general election and before the first date for filing of
+46 nomination petitions, the basis for determining the required number of
+47 nomination petition signatures is the number of qualified signers in the
+-10-
+
+House Amendments to S.B. 1687
+1 elective office or district that was effective on January 2 OCTOBER 1 of
+2 THE YEAR BEFORE the year of a general election. If new boundaries for
+3 supervisorial districts, justice precincts or election precincts are
+4 adopted after January 2 of the year of a general election and before the
+5 last date for filing of nomination petitions for the elective office,
+6 district or precinct, the basis for determining the required number of
+7 nomination petition signatures is the number of qualified signers in the
+8 elective office, district or precinct on the effective date of the new
+9 district or precinct.
+10 Sec. 7. Section 16-341, Arizona Revised Statutes, is amended to
+11 read:
+12 16-341. Nomination petition; method and time of filing; form;
+13 qualifications and number of petitioners required;
+14 statement of interest
+15 A. Any qualified elector who is not a registered member of a
+16 political party that is recognized pursuant to this title may be nominated
+17 as a candidate for public office otherwise than by primary election or by
+18 party committee pursuant to this section.
+19 B. This article shall not be used to place on the general election
+20 ballot the name of a political party that fails to meet the qualifications
+21 specified in section 16-802 or 16-804, or the name of any candidate
+22 representing such party or the name of a candidate who has filed a
+23 nomination petition in the immediately preceding primary election and has
+24 failed to qualify as the result of an insufficient number of valid
+25 signatures.
+26 C. A nomination petition stating the name of the office to be
+27 filled, the name and residence of the candidate, or, if the candidate does
+28 not have an actual residence address, a description of place of residence
+29 and post office address, or, if the person's actual residence address is
+30 protected pursuant to section 16-153, a post office box or private mailbox
+31 address in the candidate's district, precinct or municipality, as
+32 applicable for a district, precinct or municipal office, and other
+33 information required by this section shall be filed with the same officer
+34 with whom primary nomination papers and petitions are required to be filed
+35 as prescribed in section 16-311. Except for candidates for the office of
+36 presidential elector filed pursuant to this section, THROUGH 2026, the
+37 petition shall be filed not less than one hundred twenty days nor more
+38 than one hundred fifty days before the primary election AND BEGINNING IN
+39 2028, NOT LESS THAN ONE HUNDRED SEVENTEEN NOR MORE THAN ONE HUNDRED FORTY
+40 DAYS BEFORE THE PRIMARY ELECTION. The petition shall be signed only by
+41 voters who have not signed the nomination petitions of a candidate for the
+42 office to be voted for at that primary election.
+43 D. The nomination petition shall be in substantially the following
+44 form, except that if the candidate does not have an actual residence
+45 address, the candidate may use a description of place of residence and
+46 post office address, or, if the candidate's actual residence address is
+47 protected pursuant to section 16-153, a post office box or private mailbox
+-11-
+
+House Amendments to S.B. 1687
+1 address in the candidate's district, precinct or municipality, as
+2 applicable for a district, precinct or municipal office, is sufficient:
+3 The undersigned, qualified electors of __________
+4 county, state of Arizona, do hereby nominate __________, who
+5 resides at __________ in the county of __________, as a
+6 candidate for the office of _______ at the general (or
+7 special, as the case may be) election to be held on the
+8 ________ day of _________, _____.
+9 I hereby declare that I have not signed the nomination
+10 petitions of any candidate for the office to be voted for at
+11 this primary election, and I do hereby select the following
+12 designation under which name the said candidate shall be
+13 placed on the official ballot (here insert such designation
+14 not exceeding three words in length as the signers may
+15 select).
+16 E. The nomination petition shall conform as nearly as possible to
+17 the provisions relating to nomination petitions of candidates to be voted
+18 for at primary elections and shall be signed by at least the number of
+19 persons who are registered to vote determined by calculating three percent
+20 of the persons who are registered to vote of the state, county,
+21 subdivision or district for which the candidate is nominated who are not
+22 members of a political party that is qualified to be represented by an
+23 official party ballot at the next ensuing primary election and accorded
+24 representation on the general election ballot.
+25 F. The percentage of persons who are registered to vote necessary
+26 to sign the nomination petition shall be determined by the total number of
+27 registered voters from other than political parties that are qualified to
+28 be represented by an official party ballot at the next ensuing primary
+29 election and accorded representation on the general election ballot in the
+30 state, county, subdivision or district on January 2 OCTOBER 1 of the year
+31 BEFORE THE YEAR in which the general election is held. Notwithstanding
+32 the method prescribed by subsection E of this section and this subsection
+33 for calculating the minimum number of signatures necessary, any person who
+34 is registered to vote in the state, county, subdivision or district for
+35 which the candidate is nominated is eligible to sign the nomination
+36 petition without regard to the signer's party affiliation.
+37 G. A nomination petition for any candidate may be circulated by a
+38 person who is not a resident of this state but who is otherwise eligible
+39 to register to vote in this state if that person registers as a circulator
+40 with the secretary of state before circulating petitions. The nomination
+41 petition for the office of presidential elector shall include a group of
+42 names of candidates equal to the number of United States senators and
+43 representatives in Congress from this state instead of separate nomination
+44 petitions for each candidate for the office of presidential elector. A
+45 valid signature on a petition containing a group of presidential electors
+46 candidates is counted as a signature for the nomination of each of the
+47 candidates. The presidential candidate whom the candidates for
+-12-
+
+House Amendments to S.B. 1687
+1 presidential elector will represent shall designate in writing to the
+2 secretary of state the names of the candidates who will represent the
+3 presidential candidate before any signatures for the candidate can be
+4 accepted for filing. A nomination petition for the office of presidential
+5 elector shall be filed not less than eighty nor more than one hundred days
+6 before the general election. The petition shall be signed only by
+7 qualified electors who have not signed the nomination petitions of a
+8 candidate for the office of presidential elector to be voted for at that
+9 election.
+10 H. The secretary of state shall require in the instructions and
+11 procedures manual issued pursuant to section 16-452 that persons who
+12 circulate nomination petitions pursuant to this section and who are not
+13 residents of this state but who are otherwise eligible to register to vote
+14 in this state shall register as circulators with the office of the
+15 secretary of state before circulating petitions. The secretary of state
+16 shall provide for a method of receiving service of process for those
+17 petition circulators who are registered.
+18 I. Not later than the date of the first petition signature on a
+19 nomination petition, a person who may be a candidate for office pursuant
+20 to this section shall file a statement of interest with the appropriate
+21 filing officer for that office. The statement of interest shall contain
+22 the name of the person, the political party, if any, and the name of the
+23 office that may be sought. Any nomination petition signatures collected
+24 before the date the statement of interest is filed are invalid and subject
+25 to challenge. This subsection does not apply to:
+26 1. Candidates for elected office for special taxing districts that
+27 are established pursuant to title 48.
+28 2. Candidates for precinct committeeman.
+29 3. Candidates for president or vice president of the United States.
+30 J. A person who files a nomination paper pursuant to this section
+31 for the office of president of the United States shall designate in
+32 writing to the secretary of state at the time of filing the name of the
+33 candidate's vice presidential running mate, the names of the presidential
+34 electors who will represent that candidate and a statement that is signed
+35 by the vice presidential running mate and the designated presidential
+36 electors and that indicates their consent to be designated. A nomination
+37 paper for each presidential elector designated shall be filed with the
+38 candidate's nomination paper. The number of presidential electors shall
+39 equal the number of United States senators and representatives in Congress
+40 from this state.
+41 K. A candidate who does not file a timely nomination petition that
+42 complies with this section is not eligible to have the candidate's name
+43 printed on the official ballot for that office. The filing officer shall
+44 not accept the nomination paper of a candidate for state or local office
+45 unless the candidate provides or has provided all of the following:
+46 1. The financial disclosure statement as prescribed for candidates
+47 for that office.
+-13-
+
+House Amendments to S.B. 1687
+1 2. The declaration of qualification and eligibility as prescribed
+2 in section 16-311.
+3 L. Not later than sixty days before the date of the general
+4 election, a candidate for governor who files a nomination petition
+5 pursuant to this section shall submit to the secretary of state the name
+6 of the person who will be the joint candidate for lieutenant governor with
+7 that gubernatorial candidate and whose name will appear on the general
+8 election ballot jointly with the candidate for governor.
+9 M. Except in cases where the liability is being appealed, the
+10 filing officer shall not accept the nomination paper of a candidate for
+11 state or local office if the person is liable for an aggregation of $1,000
+12 or more in fines, penalties, late fees or administrative or civil
+13 judgments, including any interest or costs, in any combination, that have
+14 not been fully satisfied at the time of the attempted filing of the
+15 nomination paper and the liability arose from failure to comply with or
+16 enforcement of chapter 6 of this title.
+17 N. The secretary of state may authorize for statewide and
+18 legislative offices the creation, use and submission of petitions
+19 prescribed by this section in electronic form if those petitions provide
+20 for an appropriate method to verify signatures of petition circulators and
+21 signers. The secretary of state may require use of a unique marking
+22 system for petition pages, including a bar code, a quick response code or
+23 another similar marking system.
+24 <<Sec. 8. Subject to the requirements of article IV, part 1,
+25 section 1, Constitution of Arizona, section 16-949, Arizona Revised
+26 Statutes, is amended to read:
+27 16-949. Controls on spending from citizens clean elections
+28 fund
+29 A. The commission shall not spend, on all costs incurred under this
+30 article during a [particular] [TWO] calendar year [PERIOD], more than
+31 [five dollars] [$5] times the number of Arizona resident personal income
+32 tax returns filed during the [TWO] previous calendar [year] [YEARS]. The
+33 commission may exceed this limit during a [TWO] calendar year [PERIOD],
+34 provided that it is offset by an equal reduction of the limit during
+35 another [TWO] calendar year [PERIOD] during the same four-year period
+36 beginning January 1 immediately after a gubernatorial election.
+37 B. The commission may use up to [ten per cent] [TWENTY PERCENT] of
+38 the amount specified in subsection A of this section for reasonable and
+39 necessary expenses of administration and enforcement, including the
+40 activities specified in section 16-956, subsection A, paragraphs 3 through
+41 7 and subsections B and C. Any portion of the ten per cent] [TWENTY
+42 PERCENT] not used for this purpose shall remain in the fund.
+43 C. The commission may apply up to [ten per cent] [TWENTY PERCENT]
+44 of the amount specified in subsection A of this section for reasonable and
+45 necessary expenses associated with public education regarding
+46 participation as a candidate or a contributor, or regarding the functions,
+47 purpose and technical aspects of the act. Reasonable and necessary
+-14-
+
+House Amendments to S.B. 1687
+1 expenditures made pursuant to section 16-956 are not included in this
+2 subsection.
+3 D. The commission may spend monies in the fund for the reasonable
+4 and necessary expenses to implement the act but shall not use monies in
+5 the fund to promote the benefits of the clean elections act. Expenditures
+6 made pursuant to subsection C of this section or in section 16-956,
+7 subsection A are deemed not to constitute promoting the benefits of the
+8 clean elections act. Expenditures pursuant to this subsection shall not
+9 be included in the limits prescribed in subsection C of this section.
+10 E. The state treasurer shall administer a citizens clean elections
+11 fund from which costs incurred under this article shall be paid. The
+12 auditor general shall review the monies in, payments into and expenditures
+13 from the fund [no] [NOT] less often than every four years.>>
+14 <<Sec. 9. Subject to the requirements of article IV, part 1,
+15 section 1, Constitution of Arizona, section 16-951, Arizona Revised
+16 Statutes, is amended to read:
+17 16-951. Clean elections funding
+18 A. At the beginning of the primary election period, the commission
+19 shall pay from the fund to the campaign account of each candidate who
+20 qualifies for clean elections funding:
+21 1. For a candidate who qualifies for clean elections funding for a
+22 party primary election, an amount equal to the original primary election
+23 spending limit.
+24 2. For an independent candidate who qualifies for clean elections
+25 funding, an amount equal to seventy percent of the sum of the original
+26 primary election spending limit and the original general election spending
+27 limit.
+28 3. For a qualified participating candidate who is unopposed for an
+29 office in that candidate's primary, in the primary of any other party and
+30 by any opposing independent candidate, an amount equal to [five dollars]
+31 [$5] times the number of qualifying contributions for that candidate
+32 certified by the commission.
+33 B. At any time after the [first day of January] [ONE HUNDRED FIFTY
+34 THIRD DAY AFTER THE BEGINNING OF THE QUALIFYING PERIOD] of an election
+35 year, any candidate who has met the requirements of section 16-950 may
+36 sign and cause to be filed a nomination paper in the form specified by
+37 section 16-311, subsection A, with a nominating petition and signatures,
+38 instead of filing such papers after the earliest time set for filing
+39 specified by that subsection. [Upon] [ON] such filing and verification of
+40 the signatures, the commission shall pay the amount specified in
+41 subsection A of this section immediately, rather than waiting for the
+42 beginning of the primary election period.
+43 C. At the beginning of the general election period, the commission
+44 shall pay from the fund to the campaign account of each candidate who
+45 qualifies for clean elections funding for the general election, except
+46 those candidates identified in subsection A, paragraph 2 or subsection D
+-15-
+
+House Amendments to S.B. 1687
+1 of this section, an amount equal to the original general election spending
+2 limit.
+3 D. At the beginning of the general election period, the commission
+4 shall pay from the fund to the campaign account of a qualified
+5 participating candidate who has not received [funds] [MONIES] pursuant to
+6 subsection A, paragraph 3 of this section and who is unopposed by any
+7 other party nominee or any opposing independent candidate an amount equal
+8 to [five dollars] [$5] times the number of qualifying contributions for
+9 that candidate certified by the commission.
+10 E. The special original general election spending limit, for a
+11 candidate who has received [funds] [MONIES] pursuant to subsection A,
+12 paragraphs 2 or 3 or subsection D of this section, shall be equal to the
+13 amount that the commission is obligated to pay to that candidate.>>
+14 <<Sec. 10. Subject to the requirements of article IV, part 1,
+15 section 1, Constitution of Arizona, section 16-961, Arizona Revised
+16 Statutes, is amended to read:
+17 16-961. Definitions
+18 A. The terms ["candidate's campaign committee,"] "contribution,"
+19 "expenditures," ["exploratory committee,"] "independent expenditure,"
+20 "personal monies[,]" ["political committee"] and "statewide office" [are
+21 defined] [HAVE THE SAME MEANINGS PRECRIBED] in section 16-901.
+22 B. 1. "Election cycle" means the period between successive general
+23 elections for a particular office.
+24 2. "Exploratory period" means the period beginning on the day after
+25 a general election and ending the day before the start of the qualifying
+26 period.
+27 3. "Qualifying period" means [:
+28 (a) THROUGH 2026,] the period beginning on the first day of August
+29 in a year preceding an election and ending one week before the primary
+30 election.
+31 [(b) BEGINNING IN 2028, THE PERIOD BEGINNING ONE YEAR BEFORE THE
+32 PRIMARY ELECTION AND ENDING ONE WEEK BEFORE THE PRIMARY ELECTION.]
+33 4. "Primary election period" means the nine-week period ending on
+34 the day of the primary election.
+35 5. "General election period" means the period beginning on the day
+36 after the primary election and ending on the day of the general election.
+37 6. For any recall election, the qualifying period shall begin when
+38 the election is called and last for thirty days, there shall be no primary
+39 election period and the general election period shall extend from the day
+40 after the end of the qualifying period to the day of the recall election.
+41 For recall elections, any reference to "general election" in this article
+42 shall be treated as if referring to the recall election.
+43 C. 1. "Participating candidate" means a candidate who becomes
+44 certified as a participating candidate pursuant to section 16-947.
+45 2. "Nonparticipating candidate" means a candidate who does not
+46 become certified as a participating candidate pursuant to section 16-947.
+-16-
+
+House Amendments to S.B. 1687
+1 3. Any limitation of this article that is applicable to a
+2 participating candidate or a nonparticipating candidate shall also apply
+3 to that candidate's campaign committee or exploratory committee.
+4 D. "Commission" means the citizens clean elections commission
+5 established pursuant to section 16-955.
+6 E. "Fund" means the citizens clean elections fund defined by this
+7 article.
+8 F. 1. "Party nominee" means a person who has been nominated by a
+9 political party pursuant to section 16-301 or 16-343.
+10 2. "Independent candidate" means a candidate who has properly filed
+11 nominating papers and nominating petitions with signatures pursuant to
+12 section 16-341.
+13 3. "Unopposed" means with reference to an election for:
+14 (a) A member of the house of representatives, opposed by no more
+15 than one other candidate who has qualified for the ballot and who is
+16 running in the same district.
+17 (b) A member of the corporation commission, opposed by a number of
+18 candidates who have qualified for the ballot that is fewer than the number
+19 of corporation commission seats open at that election and for which the
+20 term of office ends on the same date.
+21 (c) All other offices, opposed by no other candidate who has
+22 qualified for the ballot and who is running in that district or running
+23 for that same office and term.
+24 G. "Primary election spending limits" means:
+25 1. For a candidate for the legislature, [twelve thousand nine
+26 hundred twenty-one dollars] [$12,921].
+27 2. For a candidate for mine inspector, [forty-one thousand three
+28 hundred forty-nine dollars] [$41,349].
+29 3. For a candidate for treasurer, superintendent of public
+30 instruction or the corporation commission, [eighty-two thousand six
+31 hundred eighty dollars] [$82,680].
+32 4. For a candidate for secretary of state or attorney general, [one
+33 hundred sixty-five thousand three hundred seventy-eight dollars]
+34 [$165,378].
+35 5. For a candidate for governor, [six hundred thirty-eight thousand
+36 two hundred twenty-two dollars] [$638,222].
+37 H. "General election spending limits" means amounts fifty [per
+38 cent] [PERCENT] greater than the amounts specified in subsection G of this
+39 section.
+40 I. 1. "Original" spending limit means a limit specified in
+41 subsections G and H of this section, as adjusted pursuant to section
+42 16-959, or a special amount expressly set for a particular candidate by a
+43 provision of this title.
+44 2. "Adjusted" spending limit means an original spending limit as
+45 further adjusted pursuant to section 16-952.>>
+-17-
+
+House Amendments to S.B. 1687
+1 <<Sec. 11. Requirements for enactment; three-fourths vote
+2 Pursuant to article IV, part 1, section 1, Constitution of Arizona,
+3 sections 16-949, 16-951 and 16-961, Arizona Revised Statutes, as amended
+4 by this act, are effective only on the affirmative vote of at least
+5 three-fourths of the members of each house of the legislature.>>
+6 Enroll and engross to conform
+7 Amend title to conform
+AARON MÁRQUEZ
+1687MÁRQUEZ.docx
+03/17/2026
+11:45 AM
+C: ED
+130YYMPYQ
+-18-

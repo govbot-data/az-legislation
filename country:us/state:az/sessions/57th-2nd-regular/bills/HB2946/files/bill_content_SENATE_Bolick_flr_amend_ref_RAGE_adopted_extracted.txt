@@ -1,0 +1,882 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Bolick flr amend (ref RAGE) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2946
+Bolick Floor Amendment
+Reference to: REGULATORY AFFAIRS
+AND GOVERNMENT EFFICIENCY
+Committee amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Specifies that a municipality may not distinguish between single-family residential developments
+on the basis of the size of the residential dwelling unit or number of bedrooms unless the
+municipality adopted such development fees before the effective date.
+2. Allows the municipality to continue to make the prescribed distinction on unit size and number of
+bedrooms in subsequent updates to the assessed development fees if a municipality adopted the
+development fees before the effective date.
+Amendment explanation prepared by Nicholas Gustoff
+04/10/2026
+
+Fifty-seventh Legislature Bolick
+Second Regular Session H.B. 2946
+BOLICK FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2946
+(Reference to REGULATORY AFFAIRS AND GOVERNMENT EFFICIENCY Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 9-463.05, Arizona Revised Statutes, is amended
+3 to read:
+4 9-463.05. Development fees; imposition by cities and towns;
+5 infrastructure improvements plan; annual report;
+6 advisory committee; limitation on actions;
+7 definitions
+8 A. A municipality may assess development fees to offset costs to
+9 the municipality associated with providing necessary public services to a
+10 development, including the costs of infrastructure, improvements, real
+11 property, engineering and architectural services, financing and
+12 professional services required for the preparation or revision of a
+13 development fee pursuant to this section, including the relevant portion
+14 of the infrastructure improvements plan.
+15 B. Development fees assessed by a municipality under this section
+16 are subject to the following requirements:
+
+Senate Amendments to H.B. 2946
+1 1. Development fees shall result in a beneficial use to the
+2 development.
+3 2. The municipality shall calculate the development fee based on
+4 the infrastructure improvements plan adopted pursuant to this section.
+5 3. The development fee shall not exceed a proportionate share of
+6 the cost of necessary public services, based on service units, needed to
+7 provide necessary public services to the development.
+8 4. Costs for necessary public services made necessary by new
+9 development shall be based on the same level of service provided to
+10 existing development in the service area.
+11 5. Development fees may not be used for any of the following:
+12 (a) Construction, acquisition or expansion of public facilities or
+13 assets other than necessary public services or facility expansions
+14 identified in the infrastructure improvements plan.
+15 (b) Repair, operation or maintenance of existing or new necessary
+16 public services or facility expansions.
+17 (c) Upgrading, updating, expanding, correcting or replacing
+18 existing necessary public services to serve existing development in order
+19 to meet stricter safety, efficiency, environmental or regulatory
+20 standards.
+21 (d) Upgrading, updating, expanding, correcting or replacing
+22 existing necessary public services to provide a higher level of service to
+23 existing development.
+24 (e) Administrative, maintenance or operating costs of the
+25 municipality.
+26 6. Any development for which a development fee has been paid is
+27 entitled to the use and benefit of the services for which the fee was
+28 imposed and is entitled to receive immediate service from any existing
+29 facility with available capacity to serve the new service units if the
+30 available capacity has not been reserved or pledged in connection with the
+31 construction or financing of the facility.
+32 7. Development fees may be collected if any of the following
+33 occurs:
+34 (a) The collection is made to pay for a necessary public service or
+35 facility expansion that is identified in the infrastructure improvements
+36 plan and the municipality plans to complete construction and to have the
+37 service available within the time period established in the infrastructure
+38 improvement IMPROVEMENTS plan, but in no event longer than the time period
+39 provided in subsection H I, paragraph 3 of this section.
+40 (b) The municipality reserves in the infrastructure improvements
+41 plan adopted pursuant to this section or otherwise agrees to reserve
+42 capacity to serve future development.
+43 (c) The municipality requires or agrees to allow the owner of a
+44 development to construct or finance the necessary public service or
+45 facility expansion and any of the following apply APPLIES:
+46 (i) The costs incurred or money advanced are credited against or
+47 reimbursed from the development fees otherwise due from a development.
+-2-
+
+Senate Amendments to H.B. 2946
+1 (ii) The municipality reimburses the owner for those costs from the
+2 development fees paid from all developments that will use those necessary
+3 public services or facility expansions.
+4 (iii) For those costs incurred the municipality allows the owner to
+5 assign the credits or reimbursement rights from the development fees
+6 otherwise due from a development to other developments for the same
+7 category of necessary public services in the same service area.
+8 8. Projected interest charges and other finance costs may be
+9 included in determining the amount of development fees only if the monies
+10 are used for the payment of principal and interest on the portion of the
+11 bonds, notes or other obligations issued to finance construction of
+12 necessary public services or facility expansions identified in the
+13 infrastructure improvements plan.
+14 9. Monies received from development fees assessed pursuant to this
+15 section shall be placed in a separate fund and accounted for separately
+16 and may only be used for the purposes authorized by this section. Monies
+17 received from a development fee identified in an infrastructure
+18 improvements plan adopted or updated pursuant to subsection D of this
+19 section shall be used to provide the same category of necessary public
+20 services or facility expansions for which the development fee was assessed
+21 and for the benefit of the same service area, as defined in the
+22 infrastructure improvements plan, in which the development fee was
+23 assessed. Interest earned on monies in the separate fund shall be
+24 credited to the fund.
+25 10. The schedule for payment of fees shall be provided by the
+26 municipality. Based on the cost identified in the infrastructure
+27 improvements plan, the municipality shall provide a credit toward the
+28 payment of a development fee for the required or agreed to dedication of
+29 public sites, improvements and other necessary public services or facility
+30 expansions included in the infrastructure improvements plan and for which
+31 a development fee is assessed, to the extent the public sites,
+32 improvements and necessary public services or facility expansions are
+33 provided by the developer. The developer of residential dwelling units
+34 shall be required to pay development fees when construction permits for
+35 the dwelling units are issued, or at a later time if specified in a
+36 development agreement pursuant to section 9-500.05. If a development
+37 agreement provides for fees to be paid at a time later than the issuance
+38 of construction permits, the deferred fees shall be paid no later than
+39 fifteen days after the issuance of a certificate of occupancy. The
+40 development agreement shall provide for the value of any deferred fees to
+41 be supported by appropriate security, including a surety bond, letter of
+42 credit or cash bond.
+43 11. If a municipality requires as a condition of development
+44 approval the construction or improvement of, contributions to or
+45 dedication of any facilities that were not included in a previously
+46 adopted infrastructure improvements plan, the municipality shall cause the
+47 infrastructure improvements plan to be amended to include the facilities
+48 and shall provide a credit toward the payment of a development fee for the
+49 construction, improvement, contribution or dedication of the facilities to
+-3-
+
+Senate Amendments to H.B. 2946
+1 the extent that the facilities will substitute for or otherwise reduce the
+2 need for other similar facilities in the infrastructure improvements plan
+3 for which development fees were assessed.
+4 12. The municipality shall forecast the contribution to be made in
+5 the future in cash or by taxes, fees, assessments or other sources of
+6 revenue derived from the property owner towards the capital costs of the
+7 necessary public service covered by the development fee and shall include
+8 these contributions in determining the extent of the burden imposed by the
+9 development. Beginning August 1, 2014, For purposes of calculating the
+10 required offset to development fees pursuant to this subsection, if a
+11 municipality imposes a construction contracting or similar excise tax rate
+12 in excess of the percentage amount of the transaction privilege tax rate
+13 imposed on the majority of other transaction privilege tax
+14 classifications, the entire excess portion of the construction contracting
+15 or similar excise tax shall be treated as a contribution to the capital
+16 costs of necessary public services provided to development for which
+17 development fees are assessed, unless the excess portion was already taken
+18 into account for such purpose pursuant to this subsection.
+19 13. If development fees are assessed by a municipality, the fees
+20 shall be assessed against commercial, residential and industrial
+21 development. , except that The municipality may distinguish between
+22 different categories of residential, commercial and industrial development
+23 in assessing the costs to the municipality of providing necessary public
+24 services to new development and in determining the amount of the
+25 development fee applicable to the category of development, EXCEPT THAT THE
+26 MUNICIPALITY MAY NOT DISTINGUISH BETWEEN SINGLE-FAMILY RESIDENTIAL
+27 DEVELOPMENTS ON THE BASIS OF THE SIZE OF THE RESIDENTIAL DWELLING UNIT OR
+28 NUMBER OF BEDROOMS {{UNLESS THE MUNICIPALITY ADOPTED SUCH DEVELOPMENT FEES
+29 BEFORE THE EFFECTIVE DATE OF THIS AMENDMENT TO THIS SECTION. IF A
+30 MUNICIPALITY ADOPTED DEVELOPMENT FEES THAT ARE BASED ON THE SIZE OF THE
+31 RESIDENTIAL DWELLING UNIT OR THE NUMBER OF BEDROOMS BEFORE THE EFFECTIVE
+32 DATE OF THIS AMENDMENT TO THIS SECTION, THE MUNICIPALITY MAY CONTINUE TO
+33 MAKE THIS DISTINCTION IN SUBSEQUENT UPDATES TO THE DEVELOPMENT FEES THAT
+34 ARE ASSESSED BY THE MUNICIPALITY}}. If a municipality agrees to waive any
+35 of the development fees assessed on a development, the municipality shall
+36 reimburse the appropriate development fee accounts for the amount that was
+37 waived. The municipality shall provide notice of any such waiver to the
+38 advisory committee established pursuant to subsection G H of this section
+39 within thirty days.
+40 14. In determining and assessing a development fee applying to land
+41 in a community facilities district established under title 48, chapter 4,
+42 article 6, the municipality shall take into account all public
+43 infrastructure provided by the district and capital costs paid by the
+44 district for necessary public services and shall not assess a portion of
+45 the development fee based on the infrastructure or costs.
+46 C. A municipality shall give at least thirty days' advance notice
+47 of intention to assess a development fee and shall release to the public
+48 and post on its website or the website of an association of cities and
+49 towns if a municipality does not have a website a written report of the
+-4-
+
+Senate Amendments to H.B. 2946
+1 land use assumptions and infrastructure improvements plan adopted pursuant
+2 to subsection D of this section. The municipality shall conduct a public
+3 hearing on the proposed development fee at any time after the expiration
+4 of the thirty day notice of intention to assess a development fee and at
+5 least thirty days before the scheduled date of adoption of the fee by the
+6 governing body. Within sixty days after the date of the public hearing on
+7 the proposed development fee, a municipality shall approve or disapprove
+8 the imposition of the development fee. A municipality shall not adopt an
+9 ordinance, order or resolution approving a development fee as an emergency
+10 measure. A development fee assessed pursuant to this section shall not be
+11 effective until seventy-five days after its formal adoption by the
+12 governing body of the municipality. Nothing in this subsection shall
+13 affect any development fee adopted before July 24, 1982.
+14 D. Before the adoption or amendment of a development fee, the
+15 governing body of the municipality shall adopt or update the land use
+16 assumptions and infrastructure improvements plan for the designated
+17 service area. The municipality shall conduct a public hearing on the land
+18 use assumptions and infrastructure improvements plan at least thirty days
+19 before the adoption or update of the plan. The municipality shall release
+20 the plan to the public, post the plan on its website or the website of an
+21 association of cities and towns if the municipality does not have a
+22 website, including in the posting its land use assumptions, the time
+23 period of the projections, a description of the necessary public services
+24 included in the infrastructure improvements plan and a map of the service
+25 area to which the land use assumptions apply, make available to the public
+26 the documents used to prepare the assumptions and plan and provide public
+27 notice at least sixty days before the public hearing, subject to the
+28 following:
+29 1. The land use assumptions and infrastructure improvements plan
+30 shall be approved or disapproved within sixty days after the public
+31 hearing on the land use assumptions and infrastructure improvements plan
+32 and at least thirty days before the public hearing on the report required
+33 by subsection C of this section. A municipality shall not adopt an
+34 ordinance, order or resolution approving the land use assumptions or
+35 infrastructure improvements plan as an emergency measure.
+36 2. An infrastructure improvements plan shall be developed by
+37 qualified professionals using generally accepted engineering and planning
+38 practices pursuant to subsection E of this section.
+39 3. A municipality shall update the land use assumptions and
+40 infrastructure improvements plan at least every five years. The initial
+41 five year period begins on the day the infrastructure improvements plan is
+42 adopted. The municipality shall review and evaluate its current land use
+43 assumptions and shall cause an update of the infrastructure improvements
+44 plan to be prepared pursuant to this section.
+45 4. Within sixty days after completion of the updated land use
+46 assumptions and infrastructure improvements plan, the municipality shall
+47 schedule and provide notice of a public hearing to discuss and review the
+48 update and shall determine whether to amend the assumptions and plan.
+-5-
+
+Senate Amendments to H.B. 2946
+1 5. A municipality shall hold a public hearing to discuss the
+2 proposed amendments to the land use assumptions, the infrastructure
+3 improvements plan or the development fee. The land use assumptions and
+4 the infrastructure improvements plan, including the amount of any proposed
+5 changes to the development fee per service unit, shall be made available
+6 to the public on or before the date of the first publication of the notice
+7 of the hearing on the amendments.
+8 6. The notice and hearing procedures prescribed in paragraph 1 of
+9 this subsection apply to a hearing on the amendment of land use
+10 assumptions, an infrastructure improvements plan or a development fee.
+11 Within sixty days after the date of the public hearing on the amendments,
+12 a municipality shall approve or disapprove the amendments to the land use
+13 assumptions, infrastructure improvements plan or development fee. A
+14 municipality shall not adopt an ordinance, order or resolution approving
+15 the amended land use assumptions, infrastructure improvements plan or
+16 development fee as an emergency measure.
+17 7. The advisory committee established under subsection G H of this
+18 section shall file its written comments on any proposed or updated land
+19 use assumptions, infrastructure improvements plan and development fees
+20 before the fifth business day before the date of the public hearing on the
+21 proposed or updated assumptions, plan and fees.
+22 8. If, at the time an update as prescribed in paragraph 3 of this
+23 subsection is required, the municipality determines that no changes to the
+24 land use assumptions, infrastructure improvements plan or development fees
+25 are needed, the municipality may as an alternative to the updating
+26 requirements of this subsection publish notice of its determination on its
+27 website and include the following:
+28 (a) A statement that the municipality has determined that no change
+29 to the land use assumptions, infrastructure improvements plan or
+30 development fee is necessary.
+31 (b) A description and map of the service area in which an update
+32 has been determined to be unnecessary.
+33 (c) A statement that by a specified date, which shall be at least
+34 sixty days after the date of publication of the first notice, a person may
+35 make a written request to the municipality requesting that the land use
+36 assumptions, infrastructure improvements plan or development fee be
+37 updated.
+38 (d) A statement identifying the person or entity to whom the
+39 written request for an update should be sent.
+40 9. If, by the date specified pursuant to paragraph 8 of this
+41 subsection, a person requests in writing that the land use assumptions,
+42 infrastructure improvements plan or development fee be updated, the
+43 municipality shall cause, accept or reject an update of the assumptions
+44 and plan to be prepared pursuant to this subsection.
+45 10. Notwithstanding the notice and hearing requirements for
+46 adoption of an infrastructure improvements plan, a municipality may amend
+47 an infrastructure improvements plan adopted pursuant to this section
+48 without a public hearing if the amendment addresses only elements of
+49 necessary public services in the existing infrastructure improvements plan
+-6-
+
+Senate Amendments to H.B. 2946
+1 and the changes to the plan will not, individually or cumulatively with
+2 other amendments adopted pursuant to this subsection, increase the level
+3 of service in the service area or cause a development fee increase of
+4 greater than five per cent PERCENT when a new or modified development fee
+5 is assessed pursuant to this section. The municipality shall provide
+6 notice of any such amendment at least thirty days before adoption, shall
+7 post the amendment on its website or on the website of an association of
+8 cities and towns if the municipality does not have a website and shall
+9 provide notice to the advisory committee established pursuant to
+10 subsection G H of this section that the amendment complies with this
+11 subsection.
+12 E. For each necessary public service that is the subject of a
+13 development fee, the infrastructure improvements plan shall include:
+14 1. A description of the existing necessary public services in the
+15 service area and the costs to upgrade, update, improve, expand, correct or
+16 replace those necessary public services to meet existing needs and usage
+17 and stricter safety, efficiency, environmental or regulatory standards,
+18 which shall be prepared by qualified professionals licensed in this state,
+19 as applicable.
+20 2. An analysis of the total capacity, the level of current usage
+21 and commitments for usage of capacity of the existing necessary public
+22 services, which shall be prepared by qualified professionals licensed in
+23 this state, as applicable.
+24 3. A description of all or the parts of the necessary public
+25 services or facility expansions and their costs necessitated by and
+26 attributable to development in the service area based on the approved land
+27 use assumptions, including a forecast of the costs of infrastructure,
+28 improvements, real property, financing, engineering and architectural
+29 services, which shall be prepared by qualified professionals licensed in
+30 this state, as applicable.
+31 4. A table establishing the specific level or quantity of use,
+32 consumption, generation or discharge of a service unit for each category
+33 of necessary public services or facility expansions and an equivalency or
+34 conversion table establishing the ratio of a service unit to various types
+35 of land uses, including residential, commercial and industrial.
+36 5. The total number of projected service units necessitated by and
+37 attributable to new development in the service area based on the approved
+38 land use assumptions and calculated pursuant to generally accepted
+39 engineering and planning criteria.
+40 6. The projected demand for necessary public services or facility
+41 expansions required by new service units for a period not to exceed ten
+42 years.
+43 7. A forecast of revenues generated by new service units other than
+44 development fees, which shall include estimated state-shared revenue,
+45 highway users USER revenue, federal revenue, ad valorem property taxes,
+46 construction contracting or similar excise taxes and the capital recovery
+47 portion of utility fees attributable to development based on the approved
+48 land use assumptions, and a plan to include these contributions in
+-7-
+
+Senate Amendments to H.B. 2946
+1 determining the extent of the burden imposed by the development as
+2 required in subsection B, paragraph 12 of this section.
+3 F. A municipality's development fee ordinance shall provide that a
+4 new development fee or an increased portion of a modified development fee
+5 shall not be assessed against a development for twenty-four months after
+6 the date that the municipality issues the final approval for a commercial,
+7 industrial or multifamily development or the date that the first building
+8 permit is issued for a residential development pursuant to an approved
+9 site plan or subdivision plat, provided that no subsequent changes are
+10 made to the approved site plan or subdivision plat that would increase the
+11 number of service units. A RESIDENTIAL, COMMERCIAL, INDUSTRIAL OR
+12 MULTIFAMILY DEVELOPMENT FOR TWENTY-FOUR MONTHS AFTER THE EFFECTIVE DATE OF
+13 THE DEVELOPMENT FEE ORDINANCE THAT IMPOSES A NEW OR INCREASED DEVELOPMENT
+14 FEE IF NO SUBSEQUENT CHANGES ARE MADE TO THE APPROVED SITE PLAN OR FINAL
+15 SUBDIVISION PLAT THAT INCREASE THE NUMBER OF SERVICE UNITS. If the number
+16 of service units increases, the new or increased portion of a modified
+17 development fee shall be limited to the amount attributable to the
+18 additional service units. The twenty-four month period shall not be
+19 extended by a renewal or amendment of the site plan or the final
+20 subdivision plat that was the subject of the final approval.
+21 G. The municipality shall issue, on request, a written statement of
+22 the development fee schedule applicable to the development. If, after the
+23 date of the municipality's final approval of a development, the
+24 municipality reduces the development fee assessed on development, the
+25 reduced fee shall apply to the development.
+26 G. H. A municipality shall do one of the following:
+27 1. Before the adoption of proposed or updated land use assumptions,
+28 infrastructure improvements plan and development fees as prescribed in
+29 subsection D of this section, the municipality shall appoint an
+30 infrastructure improvements advisory committee, subject to the following
+31 requirements:
+32 (a) The advisory committee shall be composed of at least five
+33 members who are appointed by the governing body of the municipality. At
+34 least fifty per cent PERCENT of the members of the advisory committee must
+35 be representatives of the real estate, development or building industries,
+36 of which at least one member of the committee must be from the home
+37 building industry. Members shall not be employees or officials of the
+38 municipality.
+39 (b) The advisory committee shall serve in an advisory capacity and
+40 shall:
+41 (i) Advise the municipality in adopting land use assumptions and in
+42 determining whether the assumptions are in conformance with the general
+43 plan of the municipality.
+44 (ii) Review the infrastructure improvements plan and file written
+45 comments.
+46 (iii) Monitor and evaluate implementation of the infrastructure
+47 improvements plan.
+48 (iv) Every year file reports with respect to the progress of the
+49 infrastructure improvements plan and the collection and expenditures of
+-8-
+
+Senate Amendments to H.B. 2946
+1 development fees and report to the municipality any perceived inequities
+2 in implementing the plan or imposing the development fee.
+3 (v) Advise the municipality of the need to update or revise the
+4 land use assumptions, infrastructure improvements plan and development
+5 fee.
+6 (c) The municipality shall make available to the advisory committee
+7 any professional reports with respect to developing and implementing the
+8 infrastructure improvements plan.
+9 (d) The municipality shall adopt procedural rules for the advisory
+10 committee to follow in carrying out the committee's duties.
+11 2. In lieu of creating an advisory committee pursuant to paragraph
+12 1 of this subsection, provide for a biennial certified audit of the
+13 municipality's land use assumptions, infrastructure improvements plan and
+14 development fees. An audit pursuant to this paragraph shall be conducted
+15 by one or more qualified professionals who are not employees or officials
+16 of the municipality and who did not prepare the infrastructure
+17 improvements plan. The audit shall review the progress of the
+18 infrastructure improvements plan, including the collection and
+19 expenditures of development fees for each project in the plan, and
+20 evaluate any inequities in implementing the plan or imposing the
+21 development fee. The municipality shall post the findings of the audit on
+22 the municipality's website or the website of an association of cities and
+23 towns if the municipality does not have a website and shall conduct a
+24 public hearing on the audit within sixty days of the release of the audit
+25 to the public.
+26 H. I. On written request, an owner of real property for which a
+27 development fee has been paid after July 31, 2014 is entitled to a refund
+28 of a development fee or any part of a development fee if:
+29 1. Pursuant to subsection B, paragraph 6 of this section, existing
+30 facilities are available and service is not provided.
+31 2. The municipality has, after collecting the fee to construct a
+32 facility when service is not available, failed to complete construction
+33 within the time period identified in the infrastructure improvements plan,
+34 but in no event later than the time period specified in paragraph 3 of
+35 this subsection.
+36 3. For a development fee other than a development fee for water or
+37 wastewater facilities, any part of the development fee is not spent as
+38 authorized by this section within ten years after the fee has been paid
+39 or, for a development fee for water or wastewater facilities, any part of
+40 the development fee is not spent as authorized by this section within
+41 fifteen years after the fee has been paid.
+42 I. J. If the development fee was collected for the construction of
+43 all or a portion of a specific item of infrastructure, and on completion
+44 of the infrastructure the municipality determines that the actual cost of
+45 construction was less than the forecasted cost of construction on which
+46 the development fee was based and the difference between the actual and
+47 estimated cost is greater than ten per cent PERCENT, the current owner may
+48 receive a refund of the portion of the development fee equal to the
+49 difference between the development fee paid and the development fee that
+-9-
+
+Senate Amendments to H.B. 2946
+1 would have been due if the development fee had been calculated at the
+2 actual construction cost.
+3 J. K. A refund shall include any interest earned by the
+4 municipality from the date of collection to the date of refund on the
+5 amount of the refunded fee. All refunds shall be made to the record owner
+6 of the property at the time the refund is paid. If the development fee is
+7 paid by a governmental entity, the refund shall be paid to the
+8 governmental entity.
+9 K. L. A development fee that was adopted before January 1, 2012
+10 may continue to be assessed only to the extent that it will be used to
+11 provide a necessary public service for which development fees can be
+12 assessed pursuant to this section and shall be replaced by a development
+13 fee imposed under this section on or before August 1, 2014. Any
+14 municipality having a development fee that has not been replaced under
+15 this section on or before August 1, 2014 shall not collect development
+16 fees until the development fee has been replaced with a fee that complies
+17 with this section. Any development fee monies collected before January 1,
+18 2012 remaining in a development fee account:
+19 1. Shall be used towards the same category of necessary public
+20 services as authorized by this section.
+21 2. If development fees were collected for a purpose not authorized
+22 by this section, shall be used for the purpose for which they were
+23 collected on or before January 1, 2020, and after which, if not spent,
+24 shall be distributed equally among the categories of necessary public
+25 services authorized by this section.
+26 L. M. A moratorium shall not be placed on development for the sole
+27 purpose of awaiting completion of all or any part of the process necessary
+28 to develop, adopt or update development fees.
+29 M. N. In any judicial action interpreting this section, all powers
+30 conferred on municipal governments in this section shall be narrowly
+31 construed to ensure that development fees are not used to impose on new
+32 residents a burden all taxpayers of a municipality should bear equally.
+33 N. O. Each municipality that assesses development fees shall
+34 submit an annual report accounting for the collection and use of the fees
+35 for each service area. The annual report shall include the following:
+36 1. The amount assessed by the municipality for each type of
+37 development fee.
+38 2. The balance of each fund maintained for each type of development
+39 fee assessed as of the beginning and end of the fiscal year.
+40 3. The amount of interest or other earnings on the monies in each
+41 fund as of the end of the fiscal year.
+42 4. The amount of development fee monies used to repay:
+43 (a) Bonds issued by the municipality to pay the cost of a capital
+44 improvement project that is the subject of a development fee assessment,
+45 including the amount needed to repay the debt service obligations on each
+46 facility for which development fees have been identified as the source of
+47 funding and the time frames in which the debt service will be repaid.
+48 (b) Monies advanced by the municipality from funds other than the
+49 funds established for development fees in order to pay the cost of a
+-10-
+
+Senate Amendments to H.B. 2946
+1 capital improvement project that is the subject of a development fee
+2 assessment, the total amount advanced by the municipality for each
+3 facility, the source of the monies advanced and the terms under which the
+4 monies will be repaid to the municipality.
+5 5. The amount of development fee monies spent on each capital
+6 improvement project that is the subject of a development fee assessment
+7 and the physical location of each capital improvement project.
+8 6. The amount of development fee monies spent for each purpose
+9 other than a capital improvement project that is the subject of a
+10 development fee assessment.
+11 O. P. Within ninety days following the end of each fiscal year,
+12 each municipality shall submit a copy of the annual report to the city
+13 clerk and post the report on the municipality's website or the website of
+14 an association of cities and towns if the municipality does not have a
+15 website. Copies shall be made available to the public on request. The
+16 annual report may contain financial information that has not been audited.
+17 P. Q. A municipality that fails to file the report and post the
+18 report on the municipality's website or the website of an association of
+19 cities and towns if the municipality does not have a website as required
+20 by this section shall not collect development fees until the report is
+21 filed and posted.
+22 Q. R. Any action to collect a development fee shall be commenced
+23 within two years after the obligation to pay the fee accrues.
+24 R. S. A municipality may continue to assess a development fee
+25 adopted before January 1, 2012 for any facility that was financed before
+26 June 1, 2011 if:
+27 1. Development fees were pledged to repay debt service obligations
+28 related to the construction of the facility.
+29 2. After August 1, 2014, any development fees collected under this
+30 subsection are used solely for the payment of principal and interest on
+31 the portion of the bonds, notes or other debt service obligations issued
+32 before June 1, 2011 to finance construction of the facility.
+33 S. T. Through August 1, 2014, a development fee adopted before
+34 January 1, 2012 may be used to finance construction of a facility and may
+35 be pledged to repay debt service obligations if:
+36 1. The facility that is being financed is a facility that is
+37 described under subsection T V, paragraph 7, subdivisions (a) through (g)
+38 (e) of this section.
+39 2. The facility was included in an infrastructure improvements plan
+40 adopted before June 1, 2011.
+41 3. The development fees are used for the payment of principal and
+42 interest on the portion of the bonds, notes or other debt service
+43 obligations issued to finance construction of the necessary public
+44 services or facility expansions identified in the infrastructure
+45 improvement IMPROVEMENTS plan.
+46 U. A MUNICIPALITY MAY ASSESS DEVELOPMENT FEES [FOR WATER AND
+47 WASTEWATER NECESSARY PUBLIC SERVICES] ON THE DEVELOPMENT OF [A DETACHED]
+48 ACCESSORY DWELLING [UNIT IF THE ADDITION OF ONE OR MORE DETACHED ACCESSORY
+49 DWELLING UNITS WOULD HAVE REQUIRED INSTALLING A LARGER UTILITY METER HAD
+-11-
+
+Senate Amendments to H.B. 2946
+1 THE ADDITIONAL ACCESSORY DWELLING UNIT OR UNITS BEEN CONSTRUCTED
+2 CONCURRENTLY WITH THE PRIMARY DWELLING UNIT WITH A SHARED UTILITY
+3 METER. THE PROPORTIONATE SHARE OF THE DEVELOPMENT FEE FOR WATER AND
+4 WASTEWATER SHALL BE THE DIFFERENCE BETWEEN THE CURRENT FEE-PER-METER SIZE
+5 FOR THE PRIMARY DWELLING UNIT AND THE LARGER SIZE THAT IS NECESSARY TO
+6 ACCOMMODATE THE DEVELOPMENT OF THE DETACHED ACCESSORY DWELLING UNIT OR
+7 UNITS. THE TOTAL DEVELOPMENT FEES ASSESSED ON THE DEVELOPMENT OF A
+8 DETACHED ACCESSORY DWELLING UNIT FOR ALL NECESSARY PUBLIC SERVICES OTHER
+9 THAN WATER AND WASTEWATER SHALL NOT EXCEED THE LESSER OF TWENTY PERCENT OF
+10 THE TOTAL DEVELOPMENT FEES FOR THOSE SAME NECESSARY PUBLIC SERVICES
+11 APPLICABLE TO A SINGLE-FAMILY HOME OR THE DETACHED ACCESSORY DWELLING
+12 UNIT'S PROPORTIONATE SHARE OF THOSE FEES AS PRESCRIBED BY SUBSECTION B,
+13 PARAGRAPH 3 OF THIS SECTION. FOR THE PURPOSES OF THIS SUBSECTION,
+14 "ACCESSORY DWELLING UNIT" HAS THE SAME MEANING PRESCRIBED IN SECTION
+15 9-461.18.] [UNITS, AS FOLLOWS:
+16 1. FOR WATER AND WASTEWATER, THE WATER AND WASTEWATER DEVELOPMENT
+17 FEES ASSESSED FOR SUCH ACCESSORY DWELLING UNIT SHALL NOT EXCEED THE
+18 INCREMENTAL INCREASE IN DEMAND CAUSED BY THE DEVELOPMENT OF EACH ACCESSORY
+19 DWELLING UNIT WHETHER SERVED BY THE SAME WATER METER AS THE PRIMARY
+20 DWELLING OR BY A SEPARATE WATER METER.
+21 2. FOR DEVELOPMENT FEES ASSESSED ON THE DEVELOPMENT OF AN ACCESSORY
+22 DWELLING UNIT FOR ALL NECESSARY PUBLIC SERVICES OTHER THAN WATER AND
+23 WASTEWATER, THE DEVELOPMENT FEES ASSESSED FOR SUCH ACCESSORY DWELLING UNIT
+24 SHALL NOT EXCEED THE LESSER OF TWENTY-FIVE PERCENT OF THE TOTAL
+25 DEVELOPMENT FEES OR THE PROPORTIONATE SHARE FOR THOSE SAME NECESSARY
+26 PUBLIC SERVICES APPLICABLE TO A SINGLE-FAMILY HOME.]
+27 T. V. For the purposes of this section:
+28 1. "Dedication" means the actual conveyance date or the date an
+29 improvement, facility or real or personal property is placed into service,
+30 whichever occurs first.
+31 2. "Development" means:
+32 (a) The subdivision of land.
+33 (b) The construction, reconstruction, conversion, structural
+34 alteration, relocation or enlargement of any structure that adds or
+35 increases the number of service units.
+36 (c) Any use or extension of the use of land that increases the
+37 number of service units.
+38 3. "Facility expansion" means the expansion of the capacity of an
+39 existing facility that serves the same function as an otherwise new
+40 necessary public service in order that the existing facility may serve new
+41 development. Facility expansion does not include the repair, maintenance,
+42 modernization or expansion of an existing facility to better serve
+43 existing development.
+44 4. "Final approval" means:
+45 (a) For a nonresidential or multifamily development, the approval
+46 of a site plan or, if no site plan is submitted for the development, the
+47 approval of a final subdivision plat.
+48 (b) For a single family residential development, the approval of a
+49 final subdivision plat.
+-12-
+
+Senate Amendments to H.B. 2946
+1 5. "Infrastructure improvements plan" means a written plan that
+2 identifies each necessary public service or facility expansion that is
+3 proposed to be the subject of a development fee and otherwise complies
+4 with the requirements of this section, and may be the municipality's
+5 capital improvements plan.
+6 6. "Land use assumptions" means projections of changes in land
+7 uses, densities, intensities and population for a specified service area
+8 over a period of at least ten years and pursuant to the general plan of
+9 the municipality.
+10 7. "Necessary public service" means any of the following facilities
+11 that have a life expectancy of three or more years and that are owned and
+12 operated by or on behalf of the municipality:
+13 (a) Water facilities, including the supply, transportation,
+14 treatment, purification and distribution of water, and any appurtenances
+15 for those facilities.
+16 (b) Wastewater facilities, including collection, interception,
+17 transportation, treatment and disposal of wastewater, and any
+18 appurtenances for those facilities.
+19 (c) Storm water STORMWATER, drainage and flood control facilities,
+20 including any appurtenances for those facilities.
+21 (d) Library facilities of up to ten thousand square feet that
+22 provide a direct benefit to development, not including equipment, vehicles
+23 or appurtenances.
+24 (e) Street facilities located in the service area, including
+25 arterial or collector streets or roads that have been designated on an
+26 officially adopted plan of the municipality, traffic signals and
+27 rights-of-way and improvements thereon.
+28 (f) Fire and police facilities, including all appurtenances,
+29 equipment and vehicles. Fire and police facilities do not include a
+30 facility or portion of a facility that is used to replace services that
+31 were once provided elsewhere in the municipality, vehicles and equipment
+32 used to provide administrative services, helicopters or airplanes or a
+33 facility that is used for training firefighters or officers from more than
+34 one station or substation.
+35 (g) Neighborhood parks and recreational facilities on real property
+36 up to thirty acres in area, or parks and recreational facilities larger
+37 than thirty acres if the facilities provide a direct benefit to the
+38 development. Park and recreational facilities do not include vehicles,
+39 equipment or that portion of any facility that is used for amusement
+40 parks, aquariums, aquatic centers, auditoriums, arenas, arts and cultural
+41 facilities, bandstand and orchestra facilities, bathhouses, boathouses,
+42 clubhouses, community centers greater than three thousand square feet in
+43 floor area, environmental education centers, equestrian facilities, golf
+44 course facilities, greenhouses, lakes, museums, theme parks, water
+45 reclamation or riparian areas, wetlands, zoo facilities or similar
+46 recreational facilities, but may include swimming pools.
+47 (h) Any facility that was financed and that meets all of the
+48 requirements prescribed in subsection R S of this section.
+-13-
+
+Senate Amendments to H.B. 2946
+1 8. "Qualified professional" means a professional engineer,
+2 surveyor, financial analyst or planner providing services within the scope
+3 of the person's license, education or experience.
+4 9. "Service area":
+5 (a) Means any specified area within the boundaries of a
+6 municipality in which development will be served by necessary public
+7 services or facility expansions and within which a substantial nexus
+8 exists between the necessary public services or facility expansions and
+9 the development being served as prescribed in the infrastructure
+10 improvements plan.
+11 (b) INCLUDES THE SERVICE TERRITORY OF WATER OR WASTEWATER
+12 FACILITIES, WHETHER INSIDE OR OUTSIDE OF THE BOUNDARIES OF THE
+13 MUNICIPALITY, IF THE MUNICIPALITY PROVIDES WATER AND WASTEWATER SERVICES.
+14 10. "Service unit" means a standardized measure of consumption,
+15 use, generation or discharge attributable to an individual unit of
+16 development calculated pursuant to generally accepted engineering or
+17 planning standards for a particular category of necessary public services
+18 or facility expansions.
+19 Sec. 2. Section 9-499.15, Arizona Revised Statutes, is amended to
+20 read:
+21 9-499.15. Proposed new or increased municipal taxes and fees;
+22 notification; exceptions
+23 A. A municipality may not levy or assess any new taxes or fees or
+24 increase existing taxes or fees pursuant to statute on a business without
+25 complying with this section.
+26 B. A municipality that proposes to levy or assess a tax or fee
+27 shall:
+28 1. Prepare a schedule of the proposed new or increased tax or fee
+29 that includes the amount of the tax or fee and a written report or data
+30 that supports the new or increased tax or fee. A copy of the report or
+31 data shall be filed in the office of the clerk of the municipality.
+32 2. If the proposed tax or fee is a new charge, provide written
+33 notice of the proposed charge, the schedule of the proposed new charge and
+34 the written report or data that supports the new charge on the home page
+35 of the municipality's website at least sixty days before the date the
+36 proposed new tax or fee is approved or rejected by the governing body of
+37 the municipality.
+38 3. If the municipality proposes to increase the rate of an existing
+39 tax or fee on a business, provide written notice of the proposed increase,
+40 the schedule of the proposed increased tax or fee and the written report
+41 or data that supports the proposed increased tax or fee on the home page
+42 of the municipality's website at least sixty days before the date the
+43 proposed new rate is approved or rejected by the governing body of the
+44 municipality.
+45 4. Prepare a notice of intent to establish or increase taxes,
+46 assessments or fees, including assessments levied pursuant to section
+47 48-572, subsection B, paragraph 2. The notice of intent shall include the
+48 date, time and place of the meeting of the governing body of the
+49 municipality in which the proposed new or increased tax or fee will be
+-14-
+
+Senate Amendments to H.B. 2946
+1 considered and a statement that a schedule of the proposed new or
+2 increased tax or fee that includes the amount of the tax or fee and a
+3 written report or data that supports the new or increased tax or fee is
+4 available on the municipality's website. The notice of intent shall be
+5 posted on the municipality's website at least fifteen days before the date
+6 the proposed new or increased tax or fee will be approved or rejected by
+7 the governing body of the municipality. If the municipality uses social
+8 media or other electronic communication tools, the notice of intent shall
+9 be distributed through the municipality's social media accounts or other
+10 electronic communication tools.
+11 C. At least seventy-five days before the date a municipality
+12 proposes an ordinance to adopt or repeal a model or local option in the
+13 model city tax code, the municipality shall request from the department of
+14 revenue a list of all taxpayers within the municipality in the affected
+15 tax classification. At least sixty days before the date the proposed
+16 ordinance is approved or rejected by the governing body of the
+17 municipality, the municipality shall notify by mail all taxpayers in the
+18 affected tax classification of the proposed ordinance.
+19 D. Subsection C of this section does not apply to ordinances that
+20 do either of the following:
+21 1. Impose a use tax or a model or local option to exempt a city or
+22 town from use tax.
+23 2. Impose a two-tiered tax rate structure for retail sales.
+24 E. All departments, boards or other subdivisions of a municipality
+25 that are authorized to establish or modify taxes or fees shall follow the
+26 notice requirements prescribed in subsection B of this section before the
+27 date of the entity's consideration of the new or increased tax or fee.
+28 F. Technological issues that either prevent the posting of the
+29 notice on the municipality's website or distribution of the notice through
+30 social media or other electronic communication tools do not preclude the
+31 governing body of the municipality from approving or rejecting the new or
+32 increased tax or fee at the meeting provided on the notice of intent.
+33 G. A municipality shall demonstrate that the taxes or fees are
+34 imposed pursuant to statute.
+35 H. Subsections A and B of this section do not apply to:
+36 1. Any fee adopted pursuant to section 9-463.05.
+37 2. Water and wastewater rates, FEES or rate components THAT ARE
+38 ADOPTED PURSUANT TO SECTION 9-511.01.
+39 3. Fees for registration-based classes, programs or activities
+40 provided by the municipality.
+41 4. Court fees established pursuant to state law.
+42 5. Fees or charges established pursuant to federal law for public
+43 housing or other federally funded programs.
+44 6. Other fees whose amounts are set by state or federal law.
+45 I. If information is made available relating to the fees provided
+46 in subsection H of this section, that information shall be posted on the
+47 municipality's website and, if the municipality uses social media or other
+48 electronic communication tools, distributed through social media or other
+49 electronic communication tools.
+-15-
+
+Senate Amendments to H.B. 2946
+1 J. In addition to any other limitation that may be imposed by law,
+2 a municipality shall not levy or impose an assessment, fee or tax on
+3 hospital revenues, discharges, beds or services for the purpose of
+4 receiving services or payments pursuant to title 36, chapter 29.
+5 Sec. 3. Section 9-511.01, Arizona Revised Statutes, is amended to
+6 read:
+7 9-511.01. Water and wastewater business; rates; procedures;
+8 responsibility for payments
+9 A. A municipality engaging in a domestic water or wastewater
+10 business shall not increase any water or wastewater rate or rate
+11 component, fee or service charge without complying with the following:
+12 1. Prepare a written report or supply data supporting the increased
+13 rate or rate component, fee or service charge. The report or supporting
+14 data shall include cash flow projections that indicate all anticipated
+15 revenues from residential and nonresidential customers and the overall
+16 expenses for providing water or wastewater service. A copy of the report
+17 and cash flow projections shall be made available to the public by filing
+18 a copy in the office of the clerk of the municipality governing board and
+19 posting the report and cash flow projections on the municipality's website
+20 or the website of an association of cities and towns if the municipality
+21 does not have a website at least thirty days before the public hearing
+22 described in paragraph 2 of this subsection.
+23 2. Adopt a notice of intention by motion at a regular council
+24 meeting to increase water or wastewater rates or rate components, fees or
+25 service charges and set a date for a public hearing on the proposed
+26 increase that shall be held at least sixty days after adoption of the
+27 notice of intention. A copy of the notice of intention showing the date,
+28 time and place of the hearing shall be published one time in a newspaper
+29 of general circulation within the boundaries of the municipality not less
+30 than twenty days before the public hearing date.
+31 3. FOR THE PORTION OF A WATER OR WASTEWATER FEE THAT IS ADOPTED OR
+32 INCREASED AFTER DECEMBER 31, 2026 TO FUND CAPITAL IMPROVEMENTS TO WATER OR
+33 WASTEWATER FACILITIES THAT SERVE NEW GROWTH, ADOPT GROWTH-RELATED FEES AS
+34 PRESCRIBED BY SECTION 9-463.05.
+35 B. After holding the public hearing, the governing body may adopt,
+36 by ordinance or resolution, the proposed rate or rate component, fee or
+37 service charge increase or any lesser increase.
+38 C. Notwithstanding section 19-142, subsection B, the increased rate
+39 or rate component, fee or service charge shall become effective thirty
+40 days after adoption of the ordinance or resolution.
+41 D. Any proposed water or wastewater rate or rate component, fee or
+42 service charge adjustment or increase shall be just and reasonable.
+43 E. Rates and charges demanded or received by municipalities for
+44 water and wastewater service shall be just and reasonable. Every unjust
+45 or unreasonable rate or charge demanded or received by a municipality is
+46 prohibited and unlawful.
+47 F. A municipality may not assess or collect a fee on new water or
+48 wastewater service connections at the time of the establishment of service
+49 to those connections for the purpose of recovering the municipality's
+-16-
+
+Senate Amendments to H.B. 2946
+1 costs of acquiring, whether by purchase or by eminent domain, the utility
+2 plant, facilities, system or other property of a public service
+3 corporation or another municipality engaged in the business of providing
+4 water or wastewater service. This subsection does not apply to water or
+5 wastewater fees adopted before January 1, 2016 or to water or wastewater
+6 fees included in a notice of intent to adopt or increase water or
+7 wastewater rates and fees adopted before January 1, 2016.
+8 G. For residential property of four or fewer units, a municipality
+9 shall not require payment of unpaid water and wastewater service rates and
+10 charges by anyone other than the person who the municipality has
+11 contracted with to provide the service, who physically resides or resided
+12 at the property and who receives or received the service. A property
+13 owner, an immediate family member of the person who does not reside at the
+14 property or any other entity, at its sole discretion, may contract for
+15 water and wastewater service with a municipality and shall provide
+16 payment.
+17 H. For residential property of four or fewer units, a municipality
+18 shall not refuse service within the municipality's service area for the
+19 unpaid water and wastewater rates and charges to anyone other than the
+20 person who physically resided and received the service at the property. A
+21 property owner, at the owner's sole discretion, may contract for water and
+22 wastewater service with a municipality and shall provide payment for that
+23 service.
+24 Enroll and engross to conform
+25 Amend title to conform
+SHAWNNA BOLICK
+2946FloorBOLICK.docx
+04/10/2026
+9:52 AM
+C: LAT
+130MKDKEN
+-17-

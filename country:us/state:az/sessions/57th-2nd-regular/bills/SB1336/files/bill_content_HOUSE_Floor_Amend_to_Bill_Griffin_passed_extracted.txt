@@ -1,0 +1,1980 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Griffin - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1336: state land department; continuation; oversight
+GRIFFIN FLOOR AMENDMENT
+1. Defines relevant terms.
+2. Repeals the definition of mineral in current law.
+3. Allows the State Land Commissioner (Commissioner) to renew an existing
+production lease without public auction if the Commissioner determines
+outlined criteria are met.
+4. Requires a production lease renewed by the Commissioner pursuant to this
+legislation to provide for a royalty rate that is adjusted according to a
+market-based indexing mechanism adopted by the Commissioner.
+5. Prescribes eligible characteristics of the indexing mechanism.
+6. Requires the Commissioner to review the indexed royalty rate for each
+renewed production lease not more than once every five years.
+7. Expands the permitted minerals, to include state land reserved minerals,
+that are eligible to an applicant of an exploration permit.
+8. Limits the number of contiguous sections an exploration permit may apply to,
+to that of nine sections.
+9. Moves, from the State Land Department (SLD) to the Commissioner, the
+authority to stamp each application that meets the approval requirements.
+10. Designates an application for an exploration permit for a specific commodity
+type as having priority over any other application for an exploration permit.
+11. Modifies the definition of exploration.
+12. Asserts that an exploration permit: shall be for a term of five years after the
+date of issuance, can be renewed for one additional five-year period and
+cannot exceed an aggregate of ten years after the date of issuance.
+13. Outlines the rights given to a permittee.
+14. Provides a timeline, of within 60 days before the expiration of the initial five-
+year period of an exploration permit, for the filing of an application for
+renewal of the exploration permit.
+15. Transfers and renumbers the section of current law relating to mineral leases
+on state land.
+CORBIN W.
+6/11/2026
+(602) 926-3848
+
+16. Modifies when the Commissioner is allowed to require an applicant for an
+exploration permit to file a surety bond, from prior to the issuance of the
+permit to in conjunction with issuing the permit.
+17. Clarifies that a mineral permit of common variety right of entry permit that
+the SLD issued before the effective date of this legislation may, at the choice
+of the permittee:
+a. continue in effect until the initial expiration date stated in the existing
+permit; or
+b. be surrendered at any time before the expiration date and remain
+subject to replacement with a five-year permit.
+18. Specifies the SLD's authority as the primary oversight of all lands owned by
+this state, and timber, stone, gravel and other products of such lands, except
+lands under the specific use and control of state institutions and the products
+of such lands.
+19. Mandates the SLD cooperate and seek the advice of the President of the
+Arizona Senate and the Speaker of the Arizona House of Representatives on
+the communication in matters involving:
+a. a federal land withdrawal or reservation; or
+b. the federal government's acquisition of non-federally controlled land.
+20. Modifies powers and duties of the SLD.
+21. Removes the establishment of the State Land Oversight Board.
+22. Requires the SLD establish a procedure and criteria that the Commissioner
+must use for determining whether to initiate the sale of state lands by the
+Commissioner's own initiative and to post the procedure and criteria on the
+SLD's website.
+23. Mandates the Commissioner hire third-party contractors to appraise and
+prepare for public auction.
+24. Allows the SLD utilize SLD staff or a third-party contractor to satisfy notice
+requirements.
+25. Clarifies the above requirements to not preclude the Commissioner from
+selling state lands that have not been identified for sale in the Five-Year
+Disposition Plan or restrict the use of lands sold to the uses identified in the
+Conceptual Land Use Plan.
+26. Outlines requirements of the SLD relating to lease renewals, permit holdover
+provisions and special land use permits.
+27. Transfers authority for the creation of the Conceptual Land Use Plan from
+the Commissioner to the SLD.
+28. Includes approval of the Conceptual Land Use Plan as a requirement of the
+SLD.
+Amendment explanation prepared by Corbin Wright
+Page 2
+_________________________________________
+
+29. Expands characteristics to prioritize in the creation of the Conceptual Land
+Use Plan to include promoting economic growth in the rural areas of the
+state.
+30. Requires the Commissioner issue a written order approving each Conceptual
+Land Use Plan and revision.
+31. Includes the Arizona Geological Survey (AZGS) in the parties to be consulted
+for state trust land in the Conceptual Land Use Plan.
+32. Requires the Conceptual Land Use Plan, the Commissioner's written
+approval of each Conceptual Land Use Plan and any revisions on the SLD's
+website.
+33. Requires the Commissioner use both SLD staff and private consultants in the
+creation of the Conceptual Land Use Plans.
+34. Specifies that a five-year disposition plan must be created for all state trust
+land in each county.
+35. Modifies the definition of Conceptual Land Use Plan.
+36. Modifies what the Trust Land Management Fund (Fund) consists of.
+37. Expands uses of monies in the Fund.
+38. Establishes the Joint Legislative Ad Hoc Committee on State Land Oversight
+(Committee).
+39. Outlines the Committee's membership and duties.
+40. Requires the SLD and Commissioner, upon request of the cochairpersons of
+the Committee, to provide any requested information and appear and testify.
+41. Repeals the Committee on January 1, 2027.
+42. Requires the SLD, before July 1, 2027, collaborate with stakeholders and
+members of the Committee to develop procedures and criteria for
+Commissioner initiated sales of state land.
+43. Repeals the above requirement on January 1, 2029.
+44. Outlines requirements of the Commissioner that must be completed within
+two years of the effective date of this legislation.
+45. Establishes a Biosolids Study Committee (Study Committee)
+46. Outlines the Study Committee's membership, duties, abilities and reporting
+requirements.
+47. Repeals the Study Committee on July 1, 2030.
+48. Modifies the legislative findings and purpose sections.
+49. Makes technical and conforming changes.
+Amendment explanation prepared by Corbin Wright
+Page 3
+_________________________________________
+
+Fifty-seventh Legislature Griffin
+Second Regular Session S.B. 1336
+GRIFFIN FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1336
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Title 27, chapter 2, article 1, Arizona Revised
+3 Statutes, is amended by adding section 27-201.01, to read:
+4 27-201.01. Definitions
+5 [IN THIS CHAPTER, UNLESS THE CONTEXT OTHERWISE REQUIRES:
+6 1. "COMMISSIONER" MEANS THE STATE LAND COMMISSIONER.
+7 2. "COMMODITY TYPE":
+8 (a) INCLUDES ANY OF THE FOLLOWING:
+9 (i) MINERALS.
+10 (ii) COMMON VARIETY MINERAL.
+11 (iii) OIL AS DEFINED IN SECTION 27-501
+12 (iv) GAS AS DEFINED IN SECTION 27-501.
+13 (v) GEOTHERMAL RESOURCES AS DEFINED IN SECTION 27-651.
+14 (vi) ANY OTHER TANGIBLE NATURAL PRODUCT OF THE LAND, NOT INCLUDING
+15 NATIVE PLANTS, TIMBER OR WATER, THAT MAY BE EXPLORED AND PRODUCED IN THE
+16 FUTURE.
+17 (b) EXCEPT FOR HEAT AND OTHER FORMS OF ENERGY ASSOCIATED WITH
+18 GEOTHERMAL RESOURCES AS DEFINED IN SECTION 27-651, DOES NOT INCLUDE
+19 NONTANGIBLE NATURAL PRODUCTS OF THE LAND, INCLUDING WIND, SOLAR OR
+20 ELECTRICITY GENERATED BY NONTANGIBLE NATURAL PRODUCTS OF THE LAND.
+21 3. "COMMON VARIETY MINERAL":
+22 (a) INCLUDES:
+23 (i) A DEPOSIT OF PETRIFIED WOOD, STONE, PUMICE, PUMICITE, CINDERS,
+24 DECOMPOSED GRANITE, SAND, GRAVEL, BOULDERS, COMMON CLAY, FILL DIRT AND
+25 WASTE ROCK.
+26 (ii) A DEPOSIT THAT, ALTHOUGH THE DEPOSITS MAY HAVE VALUE FOR USE
+27 IN TRADE, MANUFACTURING, CONSTRUCTION, LANDSCAPE AND DECORATIVE ROCK
+
+House Amendments to S.B. 1336
+1 INDUSTRIES, DOES NOT POSSESS A DISTINCT, SPECIAL ECONOMIC VALUE FOR THOSE
+2 USES BEYOND THE NORMAL USES OF THE DEPOSIT.
+3 (iii) A MATERIAL THAT IS USED AS ROAD BASE MATERIAL, RIPRAP,
+4 BALLAST, BORROW, FILL, FACING STONE, LANDSCAPE OR ORNAMENTAL USES AND
+5 OTHER SIMILAR USES.
+6 (b) DOES NOT INCLUDE LIMESTONE THAT IS SUITABLE FOR USE IN
+7 PRODUCING CEMENT, METALLURGICAL OR CHEMICAL GRADE LIMESTONE OR GYPSUM.
+8 4. "MINERAL" MEANS A METALLIC ORE MINERAL OR INDUSTRIAL MINERAL
+9 OTHER THAN A COMMON VARIETY MINERAL.
+10 5. "PRODUCTION LEASE" MEANS A LEASE FOR THE PURPOSES OF THE
+11 EXTRACTION, SALE OR PROCESSING OR ANY OTHER PROCESSES OF A COMMODITY TYPE.
+12 6. "STATE LAND" MEANS ANY LAND THAT IS OWNED OR HELD IN TRUST, OR
+13 OTHERWISE, BY THIS STATE, INCLUDING LEASED SCHOOL OR UNIVERSITY LAND.]>>
+14 <<Sec. 2. Repeal
+15 [Section 27-231, Arizona Revised Statutes, is repealed.]>>
+16 <<Sec. 3. Section 27-239, Arizona Revised Statutes, is amended to
+17 read:
+18 27-239. Inspections, investigations and audits
+19 A. The [state land] commissioner or the commissioner's authorized
+20 representative may enter, and the lessee shall maintain access to, the
+21 state land held under a [mineral] [PRODUCTION] lease at reasonable times
+22 to inspect the workings, improvements and other facilities used to extract
+23 or sever minerals or common variety [, as defined in section 27-271,] from
+24 state lands.
+25 B. The commissioner or the commissioner's authorized representative
+26 may enter at reasonable times to:
+27 1. Obtain factual data or access to records pertinent to mineral
+28 production and required to be kept under the terms of the lease.
+29 2. Otherwise ascertain compliance with law and the terms of the
+30 lease.
+31 C. Inspections, investigations and audits under subsection A [OF
+32 THIS SECTION] shall be on reasonable notice to the lessee unless
+33 reasonable grounds exist to believe that notice would frustrate the
+34 enforcement of law or the terms of the lease. The commissioner may, and
+35 if required by law shall, apply for and obtain warrants for entry and
+36 inspection.
+37 D. The commissioner may require a lessee to appear at reasonable
+38 times and on reasonable notice at the commissioner's office and produce
+39 such records and information as are specified in the notice to determine
+40 compliance with the terms of the lease.
+41 E. The commissioner shall provide to the lessee a written report of
+42 each inspection, investigation and audit under this section.
+43 F. Tax records and trade secrets, as defined in section 23-401,
+44 obtained under this section are confidential.>>
+-2-
+
+House Amendments to S.B. 1336
+1 <<Sec. 4. Title 27, chapter 2, article 3, Arizona Revised Statutes,
+2 is amended by adding section 27-240, to read:
+3 27-240. State trust lands; production leases; renewals;
+4 indexed royalties
+5 [A. NOTWITHSTANDING ANY OTHER LAW, THE COMMISSIONER MAY RENEW AN
+6 EXISTING PRODUCTION LEASE WITHOUT PUBLIC AUCTION IF THE COMMISSIONER
+7 DETERMINES ALL OF THE FOLLOWING:
+8 1. THE LESSEE IS IN COMPLIANCE WITH THE TERMS OF THE PRODUCTION
+9 LEASE.
+10 2. THE PRODUCTION LEASE IS IN PRODUCTION OR A PERSON WILL PUT THE
+11 PRODUCTION LEASE IN PRODUCTION WITHIN TWO YEARS AFTER THE DATE OF
+12 PRODUCTION LEASE RENEWAL.]
+13 3. THE RENEWAL IS FOR A TERM THAT IS ALLOWED BY THE LAWS OF THIS
+14 STATE.
+15 B. A PRODUCTION LEASE THAT THE COMMISSIONER RENEWS PURSUANT TO THIS
+16 SECTION SHALL PROVIDE FOR A ROYALTY RATE THAT IS ADJUSTED PURSUANT TO A
+17 MARKET-BASED INDEXING MECHANISM THAT THE COMMISSIONER ADOPTS. THE
+18 INDEXING MECHANISM MAY INCLUDE ANY OF THE FOLLOWING:
+19 1. PRODUCER PRICE INDICES.
+20 2. REGIONAL OR STATEWIDE CONSTRUCTION AGGREGATE PRICE INDICES.
+21 3. OTHER OBJECTIVE INDICATORS THAT ARE RECOGNIZED BY THE INDUSTRY.
+22 C. THE COMMISSIONER SHALL REVIEW THE INDEXED ROYALTY RATE FOR EACH
+23 RENEWED PRODUCTION LEASE NOT MORE THAN ONCE EVERY FIVE YEARS.]>>
+24 <<Sec. 5. Heading change
+25 [The article heading of title 27, chapter 2, article 4, Arizona
+26 Revised Statutes, is changed from "MINERAL EXPLORATION PERMITS AND MINERAL
+27 LEASES" to "EXPLORATION PERMITS".]>>
+28 <<Sec. 6. Section 27-251, Arizona Revised Statutes, is amended to
+29 read:
+30 27-251. Application for exploration permit
+31 A. Any natural person [WHO IS] over eighteen years of age and any
+32 other person qualified to transact business in this state may apply to the
+33 [state land] commissioner for [a mineral] [AN] exploration permit on [the]
+34 state land [in] [, INCLUDING STATE LAND RESERVED MINERALS THAT ARE SUBJECT
+35 TO SECTION 37-231, SUBSECTION E. EACH APPLICATION FOR AN EXPLORATION
+36 PERMIT ON STATE LAND IN] one or more of the rectangular subdivisions of
+37 twenty acres, more or less, or lots, in any [one section] [IDENTIFIED
+38 CONTIGUOUS SECTIONS] of the public land survey [MAY NOT EXCEED MORE THAN
+39 NINE SECTIONS]. [Such] [THE EXPLORATION PERMIT] application shall be in
+40 writing and signed by the applicant, or an authorized agent or attorney
+41 for the applicant, and shall contain the name and address of the
+42 applicant, a description according to the public land survey of the state
+43 land for which the applicant seeks a [mineral exploration] permit[,] and
+44 such other information as the commissioner may prescribe by rule. The
+45 [application] [APPLICANT] shall [be filed] [FILE THE EXPLORATION PERMIT
+46 APPLICATION] with the state land department and shall [be accompanied by
+47 payment to the department of a filing fee] [ACCOMPANY THE APPLICATION WITH
+-3-
+
+House Amendments to S.B. 1336
+1 A FILING FEE PAYABLE TO THE STATE LAND DEPARTMENT] as prescribed pursuant
+2 to section 37-107. [THE COMMISSIONER SHALL STAMP] each application
+3 [meeting] [THAT MEETS] the requirements of this section [shall be stamped
+4 by the department] with the time and date [it] [THAT THE APPLICATION] is
+5 filed with the [STATE LAND] department. [The] [AN] application [FOR AN
+6 EXPLORATION PERMIT FOR A SPECIFIC COMMODITY TYPE] shall have priority over
+7 any other [application] [APPLICATION] for a [mineral] exploration permit
+8 involving the same state land [which] [THAT] may be filed with the [STATE
+9 LAND] department subsequent to such time and date, and [such] land [shall
+10 be] [THAT IS SUBJECT TO THE EXPLORATION PERMIT APPLICATION FOR A SPECIFIC
+11 TYPE IS] deemed withdrawn as long as the application is pending.
+12 B. Not less than thirty days nor more than forty-five days [from]
+13 [AFTER] the filing of the application with the [STATE LAND] department,
+14 provided there is no prior application for a [mineral] exploration permit
+15 [FOR THE SAME COMMODITY TYPE] involving the same state land then pending
+16 before the [STATE LAND] department, or if such prior [EXPLORATION]
+17 application is then pending but is subsequently cancelled, not more than
+18 thirty days after it is [cancelled] [CANCELED], the [STATE LAND]
+19 department shall mail to the applicant at the address shown on the
+20 application a written notice designating the state land that is described
+21 in the [EXPLORATION] application and that, at the time the application was
+22 filed with the [STATE LAND] department, was open to application, the
+23 amount of rental required to be paid for the [mineral] exploration permit
+24 as herein provided, and whether a bond will be required under the
+25 provisions of section 27-255 as a condition to [issuance of such] [ISSUING
+26 THE EXPLORATION] permit. If, within thirty days after [the] mailing [of
+27 such] [THE] notice, the applicant pays to the [STATE LAND] department as
+28 rental for the permit the amount of [two dollars] [$2] per acre for each
+29 acre of state land designated in the notice and files with the [STATE
+30 LAND] department the bond, if any, required under section 27-255, and if
+31 the commissioner finds that issuing the permit is in the best interest of
+32 the trust, the commissioner shall issue to the applicant [a mineral] [AN]
+33 exploration permit for the state land designated in the notice. The
+34 commissioner may deny the application for any of the following reasons:
+35 1. The application was not made in good faith.
+36 2. The proposed exploration or possible future mining activities
+37 would not be the highest and best use of the trust lands.
+38 3. The value and income potential of surrounding trust lands would
+39 be adversely affected and the benefit from proposed exploration and future
+40 mining activity cannot reasonably be expected to be greater than the
+41 diminished value to those surrounding trust lands.
+42 4. The proposed operations would violate applicable state or
+43 federal law.
+44 5. The commissioner determines that the proposed exploration
+45 activities or possible future mining activities will create a liability to
+46 [the] [THIS] state greater than the income from the proposed operations.
+-4-
+
+House Amendments to S.B. 1336
+1 C. During the period [such mineral] [THAT AN] exploration permit is
+2 in effect[,] [no person except] [ONLY] the permittee and the authorized
+3 agents and employees of the permittee shall be entitled to explore for
+4 [minerals] [THE SPECIFIC COMMODITY TYPE] on the state land covered by the
+5 permit. If the applicant fails to make the payment or furnish the bond
+6 within the period of thirty days, the application shall be deemed
+7 cancelled and of no further effect.>>
+8 <<Sec. 7. Title 27, chapter 2, article 4, Arizona Revised Statutes,
+9 is amended by adding section 27-251.01, to read:
+10 27-251.01. Definition of exploration
+11 [IN THIS ARTICLE, UNLESS THE CONTEXT OTHERWISE REQUIRES,
+12 "EXPLORATION" MEANS ACTIVITY CONDUCTED ON STATE LAND, INCLUDING ACTIVITY
+13 ON STATE RESERVED MINERALS, THAT IS COVERED BY AN EXPLORATION PERMIT
+14 ISSUED PURSUANT TO THIS ARTICLE TO DETERMINE THE EXISTENCE OR NONEXISTENCE
+15 OF A COMMODITY TYPE, INCLUDING GEOLOGICAL, GEOCHEMICAL OR GEOPHYSICAL
+16 SURVEYS CONDUCTED BY QUALIFIED EXPERTS AND DRILLING, SAMPLING AND
+17 EXCAVATING, TOGETHER WITH THE COSTS OF ASSAY AND METALLURGICAL TESTING OF
+18 SAMPLES FROM STATE LAND.]>>
+19 <<Sec. 8. Section 27-252, Arizona Revised Statutes, is amended to
+20 read:
+21 27-252. Terms of exploration permit
+22 A. [Every mineral] [AN] exploration permit shall be for a term of
+23 [one year from] [FIVE YEARS AFTER] the date of issuance, subject to
+24 [renewals] [THE ELIGIBILITY FOR EXPLORATION PERMIT RENEWAL FOR ONE
+25 ADDITIONAL FIVE-YEAR PERIOD] as provided in this article for an aggregate
+26 of not to exceed [five] [TEN] years [from such] [AFTER THE] date[, ] [OF
+27 ISSUANCE] and shall give to the permittee the rights, subject [ONLY] to
+28 the terms and conditions, as follows:
+29 1. During the period [the] [AN EXPLORATION] permit is in force and
+30 effect, the permittee shall have the exclusive right to explore for
+31 [minerals] [A SPECIFIC COMMODITY TYPE] within the state land covered by
+32 the permit and to apply for and obtain a [mineral] [PRODUCTION] lease or
+33 leases to the [STATE] land.
+34 2. [DURING THE PERIOD THE EXPLORATION PERMIT IS IN FORCE AND
+35 EFFECT,] the permittee shall have those surface rights necessary for
+36 exploration [for mineral] on the state land covered by the permit[, ] but
+37 may remove from the [STATE] land only that amount of [mineral] [COMMODITY
+38 TYPE THAT IS] required by the permittee for sampling, assay and
+39 metallurgical testing purposes.
+40 3. The permittee shall have the right of ingress to and egress from
+41 the [STATE] land covered by the permit across other state lands but only
+42 along routes first approved by the commissioner.
+43 4. The permittee shall be liable to and shall compensate the owner
+44 [and] [OR ANY STATE] lessee of the surface of the state land covered by
+45 the permit, or across which the permittee exercises the right of ingress
+46 and egress, for any loss to such owner and lessee from damage or
+-5-
+
+House Amendments to S.B. 1336
+1 destruction caused by the permittee or the permittee's agents or employees
+2 to grasses, forage, crops or improvements [upon] [ON] such state land.
+3 5. The permit shall terminate automatically as of the end of [any
+4 annual] [THE INITIAL FIVE-YEAR] period from and after the date of issuance
+5 [unless] [AND IS SUBJECT TO RENEWAL FOR AN EXPLORATION PERMIT AS PROVIDED
+6 BY THIS ARTICLE.] During [such annual] [THE INITIAL FIVE-YEAR] period[,
+7 OR ANY RENEWAL PERIOD,] the permittee [expended] [MUST EXPEND] in
+8 exploration for [valuable mineral deposits] [THE SPECIFIC COMMODITY TYPE]
+9 on the state land covered by the permit not less than the amount per acre
+10 provided in this article or paid to the [STATE LAND] department a sum
+11 equal thereto, and [prior to] [BEFORE] expiration of [such annual] [THE
+12 INITIAL FIVE-YEAR] period shall have filed with the [STATE LAND]
+13 department [an application for renewal for the ensuing annual period, and]
+14 an affidavit showing such expenditure, together with such other proof in
+15 support thereof as the commissioner by rule may prescribe. The amount to
+16 be so expended or paid to the [STATE LAND] department during each of the
+17 first two [annual periods in which such] [YEARS THAT THE] permit may be in
+18 effect [shall be not less than ten dollars] [MUST BE AT LEAST $10] for
+19 each acre of state land covered by the permit at the commencement of [such
+20 annual] [THE FIVE-YEAR] period, and the amount to be so expended or paid
+21 to the [STATE LAND] department during each of the last three [annual
+22 periods in which such] [YEARS THAT THE] permit may be in effect [shall be
+23 not less than twenty dollars] [MUST BE AT LEAST $20] for each acre of
+24 state land covered by the permit at the commencement of [such annual
+25 period] [THE FIVE-YEAR PERIOD]. [Prior to] [BEFORE] termination of any
+26 [such annual] [FIVE-YEAR PERMIT] period, the permittee may, by instrument
+27 in writing filed with the [STATE LAND] department, release from the permit
+28 the acreage covered thereby and contained within one or more rectangular
+29 subdivisions of twenty acres, more or less, or lots, according to the
+30 lines of the public land surveys.
+31 6. When a permittee has an interest in one or more contiguous
+32 properties [for which he or she] [THAT THE PERSON] holds [a mineral] [AN]
+33 exploration permit, [such] [THE] permittee may group such permits and
+34 expend the sum required by this article under a common plan of development
+35 on one or more of the properties for the benefit of all [if the total area
+36 of such contiguous property does not exceed three miles on a side].
+37 7. [Upon] [ON] termination of the [mineral] exploration permit,
+38 other than by issuance of a [mineral] lease, the permittee shall submit to
+39 the [STATE LAND] department the following information, which shall not
+40 include any chemical analysis or other identification of [minerals]
+41 [COMMODITY TYPES], concerning any drill holes or wells drilled on state
+42 land covered by the permit:
+43 (a) Total depth.
+44 (b) Lithologies and depths of lithologic boundaries encountered in
+45 the hole.
+46 (c) Logs of surveys made of the hole[,] including gamma ray,
+47 resistivity, caliper and deviation surveys.
+-6-
+
+House Amendments to S.B. 1336
+1 8. Drill hole information shall be confidential for one year after
+2 termination of the permit, and such period of confidentiality shall be
+3 extended for an additional year [upon] [ON] the request of the permittee.
+4 9. Any expenditures in exploration for [valuable mineral deposits]
+5 [A SPECIFIC COMMODITY TYPE] made in excess of the requirements of this
+6 article during any annual period of the permit may be credited against
+7 expenditure requirements of successive [annual periods] [YEARS] of the
+8 permit.
+9 10. In lieu of making expenditures in exploration, the permittee
+10 may elect to make a money payment of the amounts required for expenditures
+11 in exploration for [valuable mineral deposits] [A SPECIFIC COMMODITY TYPE]
+12 to the [STATE LAND] department.
+13 B. [Upon] [ON] any partial or total relinquishment[,] or [ON] the
+14 cancellation or expiration of the permit other than by issuance of a
+15 [mineral] [PRODUCTION] lease, the permittee shall fill any holes, ditches
+16 or other excavations, as may be required by the commissioner, and, as far
+17 as reasonably possible, reclaim the surface to its former condition.
+18 [C. As used in this article, "exploration" means activity conducted
+19 upon the state land covered by an exploration permit to determine the
+20 existence or nonexistence of a valuable mineral deposit, including but not
+21 limited to geological, geochemical or geophysical surveys conducted by
+22 qualified experts, and drilling, sampling and excavation, together with
+23 the costs of assay and metallurgical testing of samples from such land.]>>
+24 <<Sec. 9. Section 27-253, Arizona Revised Statutes, is amended to
+25 read:
+26 27-253. Renewal of exploration permit
+27 The holder of an exploration permit may[, prior to] [WITHIN SIXTY
+28 DAYS BEFORE THE] expiration of the [annual] [INITIAL FIVE-YEAR EXPLORATION
+29 PERMIT] period [for which such permit was issued, or prior to expiration
+30 of the annual period for which such permit was renewed], file with the
+31 [STATE LAND] department an application for renewal of [such] [THE
+32 EXPLORATION] permit for the ensuing [annual] [FIVE-YEAR] period. [No
+33 such] [AN] application for renewal [shall] [MAY NOT] be filed, nor shall
+34 the [EXPLORATION] permit be renewed, for more than [four successive annual
+35 periods following] [ONE ADDITIONAL FIVE-YEAR PERMIT PERIOD AFTER]
+36 expiration of the [annual] [INITIAL FIVE-YEAR] period [for which such]
+37 [THAT THE] permit was issued. [No rental shall be payable for the first
+38 annual period for which a permit may be renewed.] The rental for each [of
+39 the three] subsequent [annual periods following the first annual period]
+40 [PERMIT PERIOD] for which a permit may be renewed shall be [one dollar]
+41 [$1] for each acre of state land for which the application for renewal is
+42 filed. [Upon] [ON] receipt by the [STATE LAND] department of the
+43 application for renewal, and the affidavit of expenditure of the required
+44 amount in exploration during the [current annual] [INITIAL FIVE-YEAR]
+45 period or [a] [THE IN LIEU OF] sum [equal thereto], together with such
+46 other proof in support of such expenditure as the commissioner by
+47 regulation may prescribe, and payment to the [STATE LAND] department of
+-7-
+
+House Amendments to S.B. 1336
+1 the rental for the ensuing annual period, all [prior to] [BEFORE THE]
+2 expiration of the current [annual] [INITIAL FIVE-YEAR] period, the
+3 commissioner shall issue a renewal of the [EXPLORATION] permit for the
+4 ensuing [annual] [FIVE-YEAR] period.>>
+5 <<Sec. 10. Transfer and renumber
+6 [Section 27-254, Arizona Revised Statutes, is transferred and
+7 renumbered for placement in title 27, chapter 2, article 3, Arizona
+8 Revised Statutes, as a new section 27-231.]>>
+9 <<Sec. 11. Section 27-255, Arizona Revised Statutes, is amended to
+10 read:
+11 27-255. Bonds
+12 A. The commissioner, in [his] [THE COMMISSIONER'S] discretion, may
+13 require the applicant for [a mineral] [AN] exploration permit, [prior to
+14 issuance of such] [IN CONJUNCTION WITH ISSUING THE EXPLORATION] permit, to
+15 file with the commissioner a surety bond, in form and amount and with
+16 surety approved by the commissioner, conditioned [upon] [ON] the prompt
+17 payment to the owner and lessee of the surface of state land to be covered
+18 by the permit, or across which the permittee exercises the right of
+19 ingress or egress, for any loss to such owner or lessee from damage or
+20 destruction caused by the permittee or his or its agents or employees to
+21 grasses, forage, crops and improvements [upon] [ON] such state lands.
+22 B. The commissioner may also require the permittee to furnish a
+23 bond, in a reasonable amount to be fixed by the commissioner, conditioned
+24 that the permittee will guarantee restoration of the surface of the
+25 [STATE] land described in the [mineral] exploration permit to its former
+26 condition [upon] [ON] any partial or total relinquishment of such [STATE]
+27 lands, or the cancellation or expiration of the permit other than by
+28 issuance of a [mineral] lease.
+29 C. On default, the commissioner may use the proceeds of the bond
+30 for the purposes described in subsection A or B [OF THIS SECTION].>>
+31 <<Sec. 12. Section 27-256, Arizona Revised Statutes, is amended to
+32 read:
+33 27-256. Assignment of exploration permits
+34 Any [mineral] exploration permit issued [hereunder] [PURSUANT TO
+35 THIS ARTICLE] may be assigned in whole or in part by the permittee[.]
+36 [, but such] [AN EXPLORATION PERMIT] assignment [shall not become] [IS
+37 NOT] effective unless and until [THE PERMITTEE FILES] a copy [thereof is
+38 filed [OF THE EXPLORATION PERMIT ASSIGNMENT] with the [STATE LAND]
+39 department and [is approved by] the commissioner [APPROVES THE
+40 ASSIGNMENT]. The assignee shall succeed to all of the rights and shall be
+41 subject to obligations of the permittee under the [mineral] exploration
+42 permit.>>
+-8-
+
+House Amendments to S.B. 1336
+1 <<Sec. 13. Title 27, chapter 2, article 4, Arizona Revised
+2 Statutes, is amended by adding section 27-257, to read:
+3 27-257. Applicability
+4 [A MINERAL PERMIT OR COMMON VARIETY RIGHT OF ENTRY PERMIT THAT THE
+5 STATE LAND DEPARTMENT ISSUED BEFORE THE EFFECTIVE DATE OF THIS SECTION MAY
+6 DO EITHER OF THE FOLLOWING AT THE CHOICE OF THE PERMITTEE:
+7 1. CONTINUE IN EFFECT UNTIL THE INITIAL EXPIRATION DATE STATED IN
+8 THE EXISTING EXPLORATION PERMIT.
+9 2. BE SURRENDERED AT ANY TIME BEFORE THE INITIAL EXPIRATION DATE
+10 STATED IN THE EXPLORATION PERMIT AND REMAIN SUBJECT TO REPLACEMENT WITH A
+11 FIVE-YEAR PERMIT PERIOD AS PROVIDED IN THIS ARTICLE.]>>
+12 <<Sec. 14. Repeal
+13 [Section 27-271, Arizona Revised Statutes, is repealed.]>>
+14 Section 15. Section 37-102, Arizona Revised Statutes, is amended to
+15 read:
+16 37-102. State land department; powers and duties
+17 A. The state land department shall administer all laws relating to
+18 lands owned by, belonging to and under the control of this state.
+19 B. The department shall have [charge and control] [PRIMARY
+20 OVERSIGHT] of all lands owned by this state, and timber, stone, gravel and
+21 other products of such lands, except lands under the specific use and
+22 control of state institutions and the products of such lands.
+23 C. The department, in the name of this state, may commence,
+24 prosecute and defend all actions and proceedings to protect the interest
+25 of this state in lands within this state or the proceeds of lands within
+26 this state. Actions shall be commenced and prosecuted at the request of
+27 the department by the attorney general, a county attorney or a special
+28 counsel under the direction of the attorney general.
+29 D. The department shall be the official representative of this
+30 state in any communication between this state and the United States
+31 government in all matters respecting state lands or any interest of this
+32 state in or to the public lands within this state. [IF THE MATTER INVOLVES
+33 A FEDERAL LAND WITHDRAWAL OR RESERVATION OR THE FEDERAL GOVERNMENT'S
+34 ACQUISITION OF NON-FEDERALLY CONTROLLED LAND, THE DEPARTMENT SHALL
+35 COOPERATE AND SEEK THE ADVICE OF THE PRESIDENT OF THE SENATE AND THE
+36 SPEAKER OF THE HOUSE OF REPRESENTATIVES ON THE COMMUNICATION.]
+37 E. The summons in any action against this state respecting any
+38 lands of this state or the products of such lands and all notices
+39 concerning such lands or products shall be served on the commissioner.
+40 Summonses, warrants or legal notices served on behalf of the department
+41 may be served by the commissioner or the commissioner's deputy, or by the
+42 sheriff or a constable of any county of this state.
+43 F. The department shall maintain as a public record in each of the
+44 department's offices a public docket and index of all matters before the
+45 department that may be subject to appeal to the board of appeals or to the
+46 courts and all sale, exchange and lease transactions subject to bidding by
+47 the public. The department shall list a matter on the public docket
+-9-
+
+House Amendments to S.B. 1336
+1 immediately after an application or other request for department action is
+2 received by the department. The department shall include in the public
+3 docket every formal action and decision affecting each matter in question.
+4 The department shall establish by rule a means by which any person may
+5 obtain a copy of the public docket at the current copying cost.
+6 G. The department shall reappraise or update the department's
+7 original appraisal of property to be leased, exchanged or sold if the
+8 board of appeals' approval of the lease or sale occurred more than two
+9 hundred forty days before the auction.
+10 H. To the extent possible, the state land department shall:
+11 1. Prepare maps of the ancillary military facilities described in
+12 section 28-8461, paragraph 7, subdivisions (b) and (c).
+13 2. Make a map of the ancillary military facility described in
+14 section 28-8461, paragraph 7, subdivision (a) available to the public in
+15 printed or electronic format and provide the map in printed or electronic
+16 format to the state real estate department.
+17 3. On receipt of proper information from the military installation
+18 commander with responsibility for the military electronics range, prepare
+19 a map of the military electronics range as defined in section 9-500.28 and
+20 make that map available to the public in printed or electronic format and
+21 provide the map in printed or electronic format to the state real estate
+22 department. Within ninety days after receipt of notice of any change in
+23 the boundaries of the military electronics range from the military
+24 installation commander, the state land department shall revise its map and
+25 provide the map to the public and to the state real estate department.
+26 4. On or before December 31, 2024 and on receipt of proper
+27 information from the applicable military installation's and range's and
+28 Arizona national guard site's commanders, prepare electronic legal
+29 descriptions and maps of the military installation and range and Arizona
+30 national guard site and their respective influence areas as defined in
+31 sections 9-500.50 and 11-818.01 and provide the legal descriptions and
+32 maps to the state real estate department and the public. The state land
+33 department shall make changes to the boundaries of the military
+34 installation and range and ARIZONA national guard site and their
+35 respective influence areas and provide them to the state real estate
+36 department and the public within ninety days after receipt of those
+37 changes from the military installation's and range's and Arizona national
+38 guard site's commanders.
+39 [I. THE DEPARTMENT SHALL:]
+40 [5. ADOPT RULES TO ESTABLISH APPROPRIATE TIME FRAMES FOR ACTION ON
+41 ANY APPLICATION OR OTHER COMPARABLE REQUEST THAT AN APPLICANT OR
+42 INSTRUMENT HOLDER SUBMITS TO THE DEPARTMENT AS PRESCRIBED IN TITLE 41,
+43 CHAPTER 6, ARTICLE 7.1. THE DEPARTMENT SHALL MAINTAIN A LIST ON THE
+44 DEPARTMENT'S WEBSITE OF ALL LICENSE APPLICATIONS AND ACTIONS TAKEN ON THE
+45 APPLICATIONS. IF THE DEPARTMENT FAILS TO ACT WITHIN ANY TIME FRAME
+46 ESTABLISHED PURSUANT TO THIS PARAGRAPH, THE DEPARTMENT IS SUBJECT TO THE
+47 SAME PENALTIES PRESCRIBED IN SECTION 41-1077.]
+-10-
+
+House Amendments to S.B. 1336
+1 [6.] [1.] RESTRICT THE USE OF A [LEASE OR PERMIT] HOLDOVER
+2 PROVISION [FOR A LEASE OR PERMIT] TO NOT MORE THAN NINETY DAYS.[ IF THE
+3 DEPARTMENT DOES NOT TAKE ACTION ON A LEASE RENEWAL WITHIN NINETY DAYS, THE
+4 LEASE AUTOMATICALLY EXTENDS FOR THREE YEARS AND NINETY DAYS AFTER THE
+5 INITIAL DATE OF EXPIRATION. NOTWITHSTANDING ANY OTHER LAW, A HOLDOVER
+6 TENANT WHOSE LEASE IS TERMINATED BY THE DEPARTMENT SHALL RECEIVE IMMEDIATE
+7 REIMBURSEMENT FOR THE FAIR MARKET VALUE, AS DETERMINED BY AN INDEPENDENT
+8 THIRD-PARTY VENDOR, OF ANY REASONABLE AND CUSTOMARY IMPROVEMENTS THAT THE
+9 HOLDOVER TENANT MADE TO THE STATE LAND.
+10 7. FOR A LEASE RENEWAL AND SPECIAL LAND USE PERMIT:
+11 (a) APPROVE ANY IMPROVEMENTS THAT ARE CUSTOMARY IN THE LESSEE'S OR
+12 PERMITTEE'S COURSE OF BUSINESS. NOTWITHSTANDING ANY OTHER LAW, ON
+13 CONCLUSION OF THE LEASE OR SPECIAL LAND USE PERMIT, THE DEPARTMENT SHALL
+14 REIMBURSE THE LESSEE OR PERMITTEE FOR THE IMPROVEMENTS WITH MONIES FROM
+15 THE STATE LAND TRUST.
+16 (b) NOT LESS THAN SIX MONTHS BEFORE THE EXPIRATION OF THE LEASE
+17 RENEWAL OR SPECIAL LAND USE PERMIT, PROVIDE NOTICE OF EXPIRATION. THE
+18 NOTICE MUST INCLUDE ALL OF THE FOLLOWING:
+19 (i) ANY PROPOSED RENTAL INCREASE OR CHANGE TO THE TERMS AND
+20 CONDITIONS OF THE LEASE RENEWAL OR SPECIAL LAND USE PERMIT.
+21 (ii) THE INTENT OF THE DEPARTMENT TO RENEW OR TERMINATE THE LEASE
+22 ON EXPIRATION AND AN EXPLANATION OF THE DEPARTMENT'S RENEWAL OR
+23 TERMINATION PROCESS.
+24 (iii) THE JUSTIFICATION FOR THE COMMISSIONER'S DECISION PURSUANT TO
+25 SECTION 37-133.]
+26 [8.] [2.] RESTRICT THE USE OF SPECIAL LAND USE PERMITS TO ONLY
+27 TEMPORARY LAND USES THAT DO NOT HAVE A DEDICATED LAND USE LEASE OR PERMIT.
+28 [THE DEPARTMENT SHALL ISSUE A SPECIAL LAND USE PERMIT ONLY FOR A SET TIME
+29 FRAME ENUMERATED IN THE SPECIAL LAND USE PERMIT. THE DEPARTMENT MAY NOT
+30 CANCEL A SPECIAL LAND USE PERMIT UNLESS THE SPECIAL LAND USE PERMITTEE
+31 VIOLATES THE TERMS OF THE SPECIAL LAND USE PERMIT.]
+32 [9. COLLABORATE WITH THE STATE NATURAL RESOURCE CONSERVATION BOARD
+33 ESTABLISHED BY SECTION 41-6011, OR THE APPLICABLE NATURAL RESOURCE
+34 CONSERVATION DISTRICT OR SOIL AND WATER CONSERVATION DISTRICT AS
+35 DESIGNATED BY THE BOARD, ON THE REVIEW OF ANY PROPOSED FEDERAL
+36 CONSERVATION-RELATED PERMIT ON NONURBAN STATE LANDS.
+37 10. FOR THE LEASE OF THE STATE LANDS, NOT INCLUDE TERMS IN THE
+38 LEASE THAT ARE MORE STRINGENT THAN STATUTE.
+39 11. PROTECT AND UPHOLD THE DUE PROCESS RIGHTS OF A PERSON THAT DOES
+40 BUSINESS WITH THE DEPARTMENT CONSISTENT WITH THE REGULATORY BILL OF RIGHTS
+41 PRESCRIBED IN SECTION 41-1001.01. IN ADDITION TO SUBMITTING A COMPLAINT
+42 TO THE OFFICE OF OMBUDSMAN-CITIZENS AIDE AS PRESCRIBED IN SECTION
+43 41-1001.01, SUBSECTION A, PARAGRAPH 19, A PERSON MAY FILE A COMPLAINT WITH
+44 THE ATTORNEY GENERAL ALLEGING A VIOLATION OF THIS PARAGRAPH. THE ATTORNEY
+45 GENERAL SHALL INVESTIGATE ANY COMPLAINTS AND ISSUE A WRITTEN ORDER
+46 OUTLINING ANY FINDINGS.]
+-11-
+
+House Amendments to S.B. 1336
+1 [3. ESTABLISH OVERALL TIME FRAMES DURING WHICH THE DEPARTMENT WILL
+2 GRANT OR DENY EACH TYPE OF PERMIT, CERTIFICATE, APPROVAL OR PERMISSION
+3 THAT THE DEPARTMENT ISSUES. TITLE 41, CHAPTER 6, ARTICLE 7.1 APPLIES TO
+4 THE DEPARTMENT AND TO ALL PERMITS, CERTIFICATES, APPROVALS AND PERMISSIONS
+5 THAT THE DEPARTMENT IS RESPONSIBLE FOR ISSUING PURSUANT TO STATE LAW.
+6 4. PROTECT AND UPHOLD THE DUE PROCESS RIGHTS OF A PERSON THAT
+7 PROVIDES REVENUE TO THE DEPARTMENT PURSUANT TO A CONVEYANCE OF STATE LANDS
+8 CONSISTENT WITH THE REGULATORY BILL OF RIGHTS PRESCRIBED IN SECTION
+9 41-1001.01.
+10 5. USE PUBLICLY POSTED CRITERIA THAT ARE CREATED BY THE DEPARTMENT
+11 AND POSTED ON THE DEPARTMENT'S WEBSITE, DETERMINE THE ADMINISTRATIVE
+12 COMPLETENESS OF ALL APPLICATIONS THAT THE DEPARTMENT RECEIVES PURSUANT TO
+13 STATE LAW. AN APPLICATION IS AUTOMATICALLY WITHDRAWN IF THE APPLICANT
+14 DOES NOT RESPOND TO A NOTICE OF DEFICIENCY OR REQUEST FOR ADDITIONAL
+15 INFORMATION WITHIN THREE MONTHS AFTER THE NOTICE OR REQUEST.
+16 6. MAKE AVAILABLE TO THE PUBLIC ON THE DEPARTMENT'S WEBSITE ALL
+17 LEASE, PATENT, ADDENDUM, APPLICATION AND OTHER INSTRUMENT CONDITIONS AND
+18 OBLIGATIONS THAT THE DEPARTMENT REQUIRES IN A LEASE, PATENT, ADDENDUM OR
+19 OTHER INSTRUMENT FOR THE USE, POSSESSION, OCCUPANCY, LEASE OR CONVEYANCE
+20 OF STATE LANDS. THE DEPARTMENT MAY NOT INCLUDE ANY TERM, CONDITION OR
+21 OBLIGATION IN AN INSTRUMENT FOR THE USE, POSSESSION, OCCUPANCY, LEASE OR
+22 CONVEYANCE OF STATE LANDS THAT IS NOT AUTHORIZED BY STATUTE, THAT IS MORE
+23 STRINGENT THAN STATUTE OR THAT IS NOT POSTED AND AVAILABLE TO THE PUBLIC
+24 ON THE DEPARTMENT'S WEBSITE.]
+25 [I.] [J.] The state land department shall provide each map and the
+26 legal description of the boundaries of each ancillary military facility
+27 described in section 28-8461, paragraph 7 in electronic format to the
+28 state real estate department. Each map prepared by the state land
+29 department pursuant to this section shall:
+30 1. Describe the ancillary military facility, the territory in the
+31 vicinity of the ancillary military facility and the high noise and
+32 accident potential zone, accident potential zone one and accident
+33 potential zone two associated with the ancillary military facility.
+34 2. Be submitted to the county in which the ancillary military
+35 facility is located.
+36 3. Be made available to the public.
+37 [J.] [K.] The state land department shall prepare a military
+38 training route map. The map shall contain military training route numbers
+39 in this state that are used by various United States armed forces. The
+40 map shall be dated.
+41 [K.] [L.] When preparing the military training route map, the state
+42 land department shall use information contained in the most current
+43 department of defense publication that is entitled "area planning military
+44 training routes for North and South America".
+45 [L.] [M.] The military training route map shall be made available
+46 to the public.
+-12-
+
+House Amendments to S.B. 1336
+1 [M.] [N.] Within ninety days after the department is notified of a
+2 change of a military training route in this state, the department shall
+3 prepare a revised military training route map. The map shall be dated and
+4 contain a statement that the map supersedes all previously dated maps.
+5 The state land department shall send the revised map to the state real
+6 estate department electronically and shall also send an accompanying
+7 letter specifying the military training route changes. The state land
+8 department shall send the revised map and an accompanying letter
+9 specifying the military training route changes to the municipalities
+10 affected by the changes and to all counties.
+11 [N.] [O.] The department shall submit the military training route
+12 map prepared pursuant to this section to the counties in either an
+13 electronic or a printed format. The format shall be determined by the
+14 receiving county.
+15 [O.] [P.] The state land department shall provide the legal
+16 description of the boundaries of the military training routes as
+17 delineated in the military training route map to the state real estate
+18 department in electronic format.
+19 [P.] [Q.] The state land department shall prepare a military
+20 restricted airspace map. The map shall contain military restricted
+21 airspace in this state that is used by various United States armed
+22 forces. The map shall be dated.
+23 [Q.] [R.] When preparing the military restricted airspace map, the
+24 state land department shall use information contained in the most current
+25 department of transportation publication that is entitled "aeronautical
+26 chart".
+27 [R.] [S.] The military restricted airspace map shall be made
+28 available in printed or electronic format to the public at the state land
+29 department and at the state real estate department.
+30 [S.] [T.] Within ninety days after the department is notified of a
+31 change of military restricted airspace in this state, the department shall
+32 prepare a revised military restricted airspace map. The map shall be
+33 dated and contain a statement that the map supersedes all previously dated
+34 maps. The state land department shall send the revised map to the state
+35 real estate department electronically and shall also send an accompanying
+36 letter specifying the military restricted airspace changes. The state
+37 land department shall send the revised map and an accompanying letter
+38 specifying the military restricted airspace changes to the municipalities
+39 affected by the changes and to all counties.
+40 [T.] [U.] The department shall submit the military restricted
+41 airspace map prepared pursuant to this section to the counties in either
+42 an electronic or a printed format. The format shall be determined by the
+43 receiving county.
+44 [U.] [V.] The state land department shall provide the legal
+45 description of the boundaries of the military restricted airspace as
+46 delineated in the military restricted airspace map to the state real
+47 estate department in electronic format.
+-13-
+
+House Amendments to S.B. 1336
+1 [V.] [W.] The department may accept title to and manage real
+2 estate, property rights and related infrastructure acquired pursuant to
+3 section 26-262, subsection K for preserving or enhancing military
+4 installations in this state.
+5 <<Sec. 2. Title 37, chapter 1, article 1, Arizona Revised Statutes,
+6 is amended by adding sections 37-111 and 37-112, to read:
+7 37-111. State land oversight board; membership;
+8 fingerprinting; conduct of office; definition
+9 A. THE STATE LAND OVERSIGHT BOARD IS ESTABLISHED TO PROVIDE BROAD
+10 OVERSIGHT OF THE STATE LAND DEPARTMENT AND TO PERFORM OTHER DUTIES AS
+11 PRESCRIBED BY LAW.
+12 B. THE BOARD CONSISTS OF THE FOLLOWING MEMBERS:
+13 1. FOUR PERSONS FROM A COUNTY WITH A POPULATION OF FOUR HUNDRED
+14 THOUSAND PERSONS OR MORE.
+15 2. FOUR PERSONS FROM A COUNTY WITH A POPULATION OF LESS THAN FOUR
+16 HUNDRED THOUSAND PERSONS.
+17 3. ONE PERSON WHO SPECIALIZES IN FINANCE OR STATEWIDE LAND USE
+18 NEEDS.
+19 4. THE FOLLOWING AS ADVISORY MEMBERS WITHOUT THE POWER TO VOTE BUT
+20 WHO MAY ATTEND EXECUTIVE SESSIONS OF THE BOARD:
+21 (a) THE PRESIDENT OF THE SENATE OR THE PRESIDENT'S DESIGNEE.
+22 (b) THE SPEAKER OF THE HOUSE OF REPRESENTATIVES OR THE SPEAKER'S
+23 DESIGNEE.
+24 (c) THE MINORITY LEADER OF THE SENATE OR THE MINORITY LEADER'S
+25 DESIGNEE.
+26 (d) THE MINORITY LEADER OF THE HOUSE OF REPRESENTATIVES OR THE
+27 MINORITY LEADER'S DESIGNEE.
+28 (e) THE COMMISSIONER OR THE COMMISSIONER'S DESIGNEE.
+29 (f) THE DIRECTOR OF THE DEPARTMENT OF ENVIRONMENTAL QUALITY OR THE
+30 DIRECTOR'S DESIGNEE.
+31 (g) THE DIRECTOR OF THE DEPARTMENT OF WATER RESOURCES OR THE
+32 DIRECTOR'S DESIGNEE.
+33 (h) THE DIRECTOR OF THE DEPARTMENT OF ADMINISTRATION OR THE
+34 DIRECTOR'S DESIGNEE.
+35 (i) THE CHIEF EXECUTIVE OFFICER OF THE ARIZONA COMMERCE AUTHORITY
+36 OR THE CHIEF EXECUTIVE OFFICER'S DESIGNEE.
+37 C. THE FOLLOWING APPLY TO THE MEMBERS APPOINTED PURSUANT TO
+38 SUBSECTION B, PARAGRAPHS 1 AND 2 OF THIS SECTION:
+39 1. NO THREE APPOINTED MEMBERS OF THE BOARD MAY BE RESIDENTS OF THE
+40 SAME COUNTY, AND AT LEAST ONE APPOINTED MEMBER OF THE BOARD SHALL BE A
+41 RESIDENT OF EACH COUNTY WITH A POPULATION OF FOUR HUNDRED THOUSAND PERSONS
+42 OR MORE.
+43 2. MEMBERS MUST HAVE A SUBSTANTIAL KNOWLEDGE OF AND EXPERIENCE WITH
+44 LAND MANAGEMENT OR FINANCE, INCLUDING PUBLIC FINANCE.
+45 D. THE FOLLOWING APPLY TO ALL MEMBERS APPOINTED PURSUANT TO
+46 SUBSECTION B, PARAGRAPHS 1, 2 AND 3 OF THIS SECTION:
+-14-
+
+House Amendments to S.B. 1336
+1 1. THE GOVERNOR SHALL APPOINT TWO OF THE MEMBERS FROM A COUNTY WITH
+2 A POPULATION OF FOUR HUNDRED THOUSAND PERSONS OR MORE, SHALL APPOINT TWO
+3 OF THE MEMBERS FROM A COUNTY WITH A POPULATION OF LESS THAN FOUR HUNDRED
+4 THOUSAND PERSONS AND SHALL APPOINT THE MEMBER WHO SPECIALIZES IN FINANCE
+5 OR STATEWIDE LAND MANAGEMENT FROM A JOINT LIST OF AT LEAST FIVE QUALIFIED
+6 APPLICANTS SUBMITTED BY THE PRESIDENT OF THE SENATE AND THE SPEAKER OF THE
+7 HOUSE OF REPRESENTATIVES.
+8 2. THE PRESIDENT OF THE SENATE AND THE MINORITY LEADER OF THE
+9 SENATE SHALL APPOINT ONE OF THE MEMBERS FROM A COUNTY WITH A POPULATION OF
+10 FOUR HUNDRED THOUSAND PERSONS OR MORE AND ONE OF THE MEMBERS FROM A COUNTY
+11 WITH A POPULATION OF LESS THAN FOUR HUNDRED THOUSAND PERSONS. THE
+12 PRESIDENT OF THE SENATE AND THE MINORITY LEADER OF THE SENATE SHALL
+13 ALTERNATE THE TERMS IN WHICH THESE MEMBERS ARE APPOINTED.
+14 3. THE SPEAKER OF THE HOUSE OF REPRESENTATIVES AND THE MINORITY
+15 LEADER OF THE HOUSE OF REPRESENTATIVES SHALL APPOINT ONE OF THE MEMBERS
+16 FROM A COUNTY WITH A POPULATION OF FOUR HUNDRED THOUSAND PERSONS OR MORE
+17 AND ONE OF THE MEMBERS FROM A COUNTY WITH A POPULATION OF LESS THAN FOUR
+18 HUNDRED THOUSAND PERSONS. THE SPEAKER OF THE HOUSE OF REPRESENTATIVES AND
+19 THE MINORITY LEADER OF THE HOUSE OF REPRESENTATIVES SHALL ALTERNATE THE
+20 TERMS IN WHICH THESE MEMBERS ARE APPOINTED.
+21 4. APPOINTED MEMBERS SERVE FIVE-YEAR TERMS OF OFFICE BEGINNING AND
+22 ENDING ON THE THIRD MONDAY IN JANUARY AND ARE ELIGIBLE FOR
+23 REAPPOINTMENT. A MEMBER MAY BE REMOVED ONLY FOR CAUSE BY THE PERSON WHO
+24 THEN HOLDS THE SAME OFFICE AS THE PERSON WHO APPOINTED THAT MEMBER.
+25 5. MEMBERS SHALL BE RESIDENTS OF THIS STATE FOR AT LEAST TWO YEARS.
+26 6. THE ORDER IN WHICH THE MEMBERS ARE APPOINTED PURSUANT TO
+27 SUBSECTION B, PARAGRAPHS 1 AND 2 OF THIS SECTION IS:
+28 (a) FOR THE INITIAL TERM AND EVERY THIRD TERM THEREAFTER, THE
+29 PRESIDENT OF THE SENATE AND THE MINORITY LEADER OF THE SENATE SHALL
+30 APPOINT FIRST, THE GOVERNOR SHALL APPOINT SECOND AND THE SPEAKER OF THE
+31 HOUSE OF REPRESENTATIVES AND THE MINORITY LEADER OF THE HOUSE OF
+32 REPRESENTATIVES SHALL APPOINT THIRD.
+33 (b) FOR THE SECOND TERM AND EVERY THIRD TERM THEREAFTER, THE
+34 GOVERNOR SHALL APPOINT FIRST, THE SPEAKER OF THE HOUSE OF REPRESENTATIVES
+35 AND THE MINORITY LEADER OF THE HOUSE OF REPRESENTATIVES SHALL APPOINT
+36 SECOND AND THE PRESIDENT OF THE SENATE AND THE MINORITY LEADER OF THE
+37 SENATE SHALL APPOINT THIRD.
+38 (c) FOR THE THIRD TERM AND EVERY THIRD TERM THEREAFTER, THE SPEAKER
+39 OF THE HOUSE OF REPRESENTATIVES AND THE MINORITY LEADER OF THE HOUSE OF
+40 REPRESENTATIVES SHALL APPOINT FIRST, THE PRESIDENT OF THE SENATE AND THE
+41 MINORITY LEADER OF THE SENATE SHALL APPOINT SECOND AND THE GOVERNOR SHALL
+42 APPOINT THIRD.
+43 E. BEFORE A MEMBER IS APPOINTED TO THE BOARD PURSUANT TO SUBSECTION
+44 C OR D OF THIS SECTION, THE PROSPECTIVE MEMBER SHALL SUBMIT A FULL SET OF
+45 FINGERPRINTS TO THE GOVERNOR FOR THE PURPOSE OF OBTAINING A STATE AND
+46 FEDERAL CRIMINAL RECORDS CHECK PURSUANT TO SECTION 41-1750 AND PUBLIC LAW
+47 92-544. THE GOVERNOR SHALL SUBMIT THE FINGERPRINTS TO THE DEPARTMENT OF
+-15-
+
+House Amendments to S.B. 1336
+1 PUBLIC SAFETY. THE DEPARTMENT OF PUBLIC SAFETY MAY EXCHANGE THIS
+2 FINGERPRINT DATA WITH THE FEDERAL BUREAU OF INVESTIGATION.
+3 F. THE BOARD SHALL ELECT A CHAIRPERSON OF THE BOARD FROM AMONG THE
+4 VOTING MEMBERS. THE CHAIRPERSON MAY APPOINT SUBCOMMITTEES AS NECESSARY.
+5 G. THE BOARD MAY REQUEST ASSISTANCE FROM REPRESENTATIVES OF OTHER
+6 STATE AGENCIES. THE DEPARTMENT SHALL PROVIDE TECHNICAL ASSISTANCE TO THE
+7 BOARD.
+8 H. BOARD MEMBERS SERVE WITHOUT COMPENSATION BUT ARE ELIGIBLE FOR
+9 REIMBURSEMENT OF EXPENSES PURSUANT TO TITLE 38, CHAPTER 4, ARTICLE 2. A
+10 BOARD MEMBER WHO IS OTHERWISE EMPLOYED AS A PUBLIC OFFICER MAY NOT RECEIVE
+11 REIMBURSEMENT PURSUANT TO THIS SUBSECTION IF IT IS OTHERWISE PROHIBITED BY
+12 LAW.
+13 I. A MAJORITY OF THE VOTING MEMBERS CONSTITUTES A QUORUM FOR THE
+14 PURPOSE OF AN OFFICIAL MEETING FOR CONDUCTING BUSINESS. AN AFFIRMATIVE
+15 VOTE OF A MAJORITY OF THE VOTING MEMBERS PRESENT AT AN OFFICIAL MEETING IS
+16 SUFFICIENT FOR THE BOARD TO TAKE ANY ACTION.
+17 J. THE BOARD SHALL KEEP AND MAINTAIN A COMPLETE AND ACCURATE RECORD
+18 OF ALL BOARD PROCEEDINGS.
+19 K. THE BOARD AND ANY SUBCOMMITTEES ARE SUBJECT TO TITLE 38, CHAPTER
+20 3, ARTICLE 3.1, RELATING TO PUBLIC MEETINGS, EXCEPT ADVISORY NONVOTING
+21 MEMBERS OF THE BOARD MAY ATTEND EXECUTIVE SESSIONS OF THE BOARD.
+22 L. THE BOARD, ITS SUBCOMMITTEES AND THE OFFICERS AND ANY EMPLOYEES
+23 OF THE BOARD ARE SUBJECT TO TITLE 38, CHAPTER 3, ARTICLE 8, RELATING TO
+24 CONFLICTS OF INTEREST. IN ADDITION TO THE CONFLICT OF INTEREST PROVISIONS
+25 IN TITLE 38, CHAPTER 3, ARTICLE 8, AND EXCEPT FOR EMPLOYEES OF THIS STATE
+26 OR A POLITICAL SUBDIVISION OF THIS STATE, THE FOLLOWING APPLY:
+27 1. A PERSON IS NOT ELIGIBLE FOR APPOINTMENT TO THE BOARD IF THE
+28 PERSON OR THE PERSON'S RELATIVE MEETS ANY OF THE FOLLOWING CRITERIA:
+29 (a) IS EMPLOYED BY OR PARTICIPATES IN THE MANAGEMENT OF A BUSINESS
+30 ENTITY OR OTHER ORGANIZATION THAT LEASES OR BUYS STATE LANDS.
+31 (b) OWNS, CONTROLS OR HAS, DIRECTLY OR INDIRECTLY, MORE THAN A TEN
+32 PERCENT INTEREST IN A BUSINESS ENTITY OR OTHER ORGANIZATION THAT BUYS OR
+33 LEASES STATE LANDS.
+34 (c) USES OR RECEIVES A SUBSTANTIAL AMOUNT OF TANGIBLE GOODS,
+35 SERVICES OR MONIES FROM THE DEPARTMENT.
+36 (d) HAS A PERSONAL FINANCIAL INTEREST IN THE CONVEYANCE OF STATE
+37 LANDS. THE PERSON OR THE PERSON'S RELATIVE DOES NOT HAVE A PERSONAL
+38 FINANCIAL INTEREST IF THE PERSON OR THE PERSON'S RELATIVE IS A MEMBER OF A
+39 CLASS OF PERSONS AND IT REASONABLY APPEARS THAT A MAJORITY OF THE TOTAL
+40 MEMBERSHIP OF THAT CLASS IS TO BE AFFECTED BY THE ACTION.
+41 2. A PERSON MAY NOT BE A VOTING MEMBER OF THE BOARD OR ACT AS THE
+42 GENERAL COUNSEL TO THE BOARD OR AUTHORITY IF THE PERSON IS REQUIRED TO
+43 REGISTER AS A LOBBYIST.
+44 3. A PERSON MAY NOT BE A MEMBER OF THE BOARD OR AN EMPLOYEE OF THE
+45 BOARD IF THE PERSON OR THE PERSON'S RELATIVE IS AN OFFICER, EMPLOYEE OR
+46 PAID CONSULTANT FOR A WATER USERS' ASSOCIATION OR TRADE ASSOCIATION.
+-16-
+
+House Amendments to S.B. 1336
+1 M. AN EMPLOYEE OF A POLITICAL SUBDIVISION OF THIS STATE WHO SERVES
+2 ON THE BOARD MAY NOT PARTICIPATE IN THE CONSIDERATION OF OR A VOTE
+3 CONCERNING ANY CONVEYANCE THAT WILL DIRECTLY BENEFIT THE POLITICAL
+4 SUBDIVISION.
+5 N. THE BOARD SHALL ADOPT WRITTEN POLICIES, PROCEDURES AND
+6 GUIDELINES FOR STANDARDS OF CONDUCT, INCLUDING A GIFT POLICY, FOR MEMBERS
+7 OF THE BOARD AND FOR OFFICERS AND EMPLOYEES OF THE BOARD.
+8 O. THE BOARD IS A PUBLIC BODY THAT IS SUBJECT TO TITLE 38, CHAPTER
+9 3, ARTICLE 3. THE BOARD SHALL OPERATE ON THE STATE FISCAL YEAR.
+10 P. ALL STATE AGENCIES SHALL COOPERATE WITH THE BOARD AND MAKE
+11 AVAILABLE DATA PERTAINING TO THE FUNCTIONS OF THE BOARD AS REQUESTED BY
+12 THE BOARD.
+13 Q. FOR THE PURPOSES OF THIS SECTION, "TRADE ASSOCIATION" MEANS ANY
+14 COOPERATIVE, ASSOCIATION OR BUSINESS ORGANIZATION, WHETHER OR NOT
+15 INCORPORATED UNDER FEDERAL OR STATE LAW, THAT IS DESIGNED TO ASSIST ITS
+16 MEMBERS, INDUSTRY OR PROFESSION IN ADVOCATING FOR OR PROMOTING THEIR
+17 COMMON INTEREST.
+18 37-112. State land oversight board; powers and duties; annual
+19 report
+20 A. THE STATE LAND OVERSIGHT BOARD MAY:
+21 1. HOLD PUBLIC MEETINGS TO RECEIVE TESTIMONY AND STAKEHOLDER INPUT
+22 REGARDING THE STATE LAND DEPARTMENT'S PROCESSES.
+23 2. CONFER WITH SUBJECT MATTER EXPERTS ON ANY MATTERS RELATING TO
+24 MANAGING, LEASING, DEVELOPING AND DISPOSING STATE LANDS.
+25 B. THE BOARD SHALL:
+26 1. HAVE BROAD DISCRETION ON OVERSEEING THE DEPARTMENT'S ADOPTION OF
+27 RULES AND POLICIES.
+28 2. REVIEW RULEMAKING, INTERNAL TIMELINES AND PROCEDURAL
+29 EFFICIENCIES THAT AFFECT APPLICANTS, LESSEES AND PURCHASERS OF STATE TRUST
+30 LANDS.
+31 3. COLLABORATE WITH THE DEPARTMENT TO IDENTIFY OPPORTUNITIES FOR
+32 IMPROVED TRANSPARENCY, PREDICTABILITY AND ACCOUNTABILITY RELATING TO THE
+33 STATE LAND DEPARTMENT'S PROCESSES.
+34 4. ENSURE THE DEPARTMENT COMPLIES WITH THE LAWS OF THIS STATE.
+35 5. ON REQUEST OF THE CHAIRPERSON OF THE SENATE NATURAL RESOURCES
+36 COMMITTEE OF REFERENCE AND THE HOUSE OF REPRESENTATIVES NATURAL RESOURCES,
+37 ENERGY AND WATER COMMITTEE OF REFERENCE, OR THEIR SUCCESSOR COMMITTEES OF
+38 REFERENCE, PROVIDE TESTIMONY ON THE OPERATIONS AND OVERSIGHT OF THE
+39 DEPARTMENT.
+40 6. ON OR BEFORE JUNE 1, 2027 AND EACH YEAR THEREAFTER, SUBMIT A
+41 REPORT OF THE BOARD'S FINDINGS AND RECOMMENDATIONS TO THE CHAIRPERSONS OF
+42 THE SENATE NATURAL RESOURCES COMMITTEE OF REFERENCE AND THE HOUSE OF
+43 REPRESENTATIVES NATURAL RESOURCES, ENERGY AND WATER COMMITTEE OF
+44 REFERENCE, OR THEIR SUCCESSOR COMMITTEES OF REFERENCE, THE GOVERNOR, THE
+45 PRESIDENT OF THE SENATE AND THE SPEAKER OF THE HOUSE OF REPRESENTATIVES
+46 AND SHALL PROVIDE A COPY OF THIS REPORT TO THE SECRETARY OF STATE. >>
+-17-
+
+House Amendments to S.B. 1336
+1 <<Sec. 16. Section 37-231, Arizona Revised Statutes, is amended to
+2 read:
+3 37-231. State lands subject to sale; rights reserved in lands
+4 sold; state lands not subject to sale; development
+5 agreements
+6 A. All state lands, except as otherwise provided for in this title,
+7 including all improvements made or placed on or connected with state
+8 lands, shall be subject to appraisal and sale as provided in this title.
+9 B. Any person over eighteen years of age is entitled to purchase
+10 any of the state lands.
+11 C. All sales, grants, deeds or patents to any state lands sold
+12 between July 9, 1954 and March 18, 1968 shall be subject to and shall
+13 contain a reservation to [the] [THIS] state of an undivided one-sixteenth
+14 of all oil, gases and other hydrocarbon substances, coal or stone, metals,
+15 minerals, fossils and fertilizer of every name and description, together
+16 with all uranium, all thorium, or any other material [which] [THAT] is or
+17 may be determined by the laws of [the] [THIS] state or the United States
+18 or decisions of courts to be peculiarly essential to the production of
+19 fissionable materials, whether or not of commercial value, subject to the
+20 following:
+21 1. For the purpose of promoting the sale of state lands and the
+22 more active cooperation of the owner of the soil, and to facilitate the
+23 development of its mineral resources, the state constitutes the purchaser
+24 of the land its agent for the purposes specified in this section, and in
+25 consideration hereof, relinquishes to and vests in the purchaser of the
+26 state land an undivided fifteen-sixteenths of all oil, gas and the value
+27 thereof [which] [THAT] may be [upon] [ON] or within any state land
+28 purchased after July 9, 1954 and before March 18, 1968.
+29 2. The purchaser of the soil may sell or lease to any person, firm
+30 or corporation the oil and gas and other minerals [which] [THAT] may be on
+31 or in the land, [upon] [ON] terms and conditions the purchaser and the
+32 owner deem best, subject to the provisions and reservations of this
+33 section, but the lessee or purchaser shall pay to [the] [THIS] state an
+34 undivided one-sixteenth of the mineral produced or the value of the
+35 mineral produced at the well or mine as determined by the state land
+36 department.
+37 3. [Upon] [ON] discovery of oil and gas in paying quantities on
+38 land adjoining state lands purchased under the authority of this section,
+39 the purchaser or the purchaser's lessee shall drill and produce all wells
+40 necessary to protect the land so purchased from drainage by wells on lands
+41 in which [the] [THIS] state has no royalty interest, or has a lesser
+42 royalty interest. If the purchaser or the purchaser's lessee fails to
+43 protect against such drainage, [the] [THIS] state, acting through the
+44 [state land] department, [may,] three months after demand therefor in
+45 writing by the [state land] department to such purchaser and the
+46 purchaser's lessee, [MAY] enter [upon] [ON] such lands and drill all wells
+47 necessary to protect [the] [THIS] state against such drainage.
+-18-
+
+House Amendments to S.B. 1336
+1 4. The interest reserved by [the] [THIS] state in any state lands
+2 sold may be committed to a drilling unit or cooperative or unit plans of
+3 development and operation of oil and gas pools with the United States, its
+4 agencies and its and their lessees and permittees, and with private owners
+5 and persons holding oil and gas leases on private lands or on state lands.
+6 The [state land] department [may], insofar as the interest of [the] [THIS]
+7 state may be affected thereby, [MAY] join in and consent to any such plan
+8 on behalf of [the] [THIS] state. Such agreements shall provide for the
+9 equitable division on an agreed basis of the oil and gas produced from the
+10 unit, but [no] such [AN] agreement shall [NOT] relieve any operator from
+11 the obligation to develop reasonably the lands and leases as a whole
+12 committed thereto. The royalties to which [the] [THIS] state is entitled
+13 on production from land purchased under this section shall be computed
+14 only on that part of the production allocated to such tract. When the
+15 agreements made under this section provide for the return of gas to a
+16 formation underlying the unit, they may provide that no royalties are
+17 required to be paid on the gas so returned.
+18 D. State lands known to contain oil, gases and other hydrocarbon
+19 substances, geothermal resources, coal or stone, metals, minerals, fossils
+20 and fertilizer of every name and description, in paying quantities, or
+21 uranium, thorium or any other material which is or may be determined by
+22 the laws of [the] [THIS] state the United States or decisions of court to
+23 be peculiarly essential to the production of fissionable materials,
+24 whether or not of commercial value, and state lands adjoining lands [upon]
+25 [ON] which there are producing oil, gas or geothermal wells or adjoining
+26 lands known to contain any of such substances in paying quantities, or
+27 uranium, thorium or any other material peculiarly essential to the
+28 production of fissionable materials, whether or not of commercial value,
+29 shall not be sold. The prohibition against sale shall not operate to
+30 prevent the sale of lands known to contain, in paying quantities, common
+31 variety minerals as defined in section [27-271] [27-201.01] or to prevent
+32 the sale of lands where [the] [THIS] state does not own such substances,
+33 minerals or metals in the lands sought to be sold. [The provisions of]
+34 This subsection shall not prohibit the sale of such lands located within
+35 the exterior boundaries of an incorporated city or town, in which case the
+36 commissioner may offer the land for sale, provided the land shall be used
+37 solely for a public purpose. Such land shall revert to [the] [THIS] state
+38 if it is used other than for a public purpose.
+39 E. Notwithstanding [the provisions of] subsection C of this
+40 section, all state lands sold after March 18, 1968 shall be sold with the
+41 reservation that all oil, gas, other hydrocarbon substances, helium or
+42 other substances of a gaseous nature, geothermal resources, coal, metals,
+43 minerals, fossils, fertilizer of every name and description, together with
+44 all uranium, all thorium or any other material [which] [THAT] is or may be
+45 determined by the laws of the United States or of this state, or [BY]
+46 decisions of court, to be peculiarly essential to the production of
+47 fissionable materials, whether or not of commercial value, and the
+-19-
+
+House Amendments to S.B. 1336
+1 exclusive right thereto, on, in, or under such land, shall be and remain
+2 and be reserved in and retained by [the] [THIS] state, regardless of any
+3 sale under this section and the issuance of any certificate of purchase to
+4 any purchaser of state lands pursuant to this section, provided, that the
+5 reservation shall not include common variety minerals as defined in
+6 section [27-271] [27-201.01], subject to the following:
+7 1. The [state land] department shall adopt rules providing for the
+8 protection of the patentee or contract purchaser of state lands, or their
+9 successors in interest, and [the] [THIS] state [of Arizona], against
+10 damage to the lands, livestock, water, crops, or other tangible
+11 improvements on lands held by such patentee or contract purchaser, and
+12 suffered by reason of the use or occupation of such lands by lessees or
+13 permittees engaged in mining and oil, gas and geothermal resource
+14 exploration and development under leases or permits executed by the
+15 department. The [state land] department [may], at any time, [MAY] require
+16 each of its lessees or permittees to execute a bond in a reasonable
+17 principal amount conditioned [upon] [ON] payment for all such damages.
+18 2. The mineral rights reserved to [the] [THIS] state in the lands
+19 sold shall be closed to entry and location as a mineral claim or claims,
+20 but the department may issue, [upon] [ON] application, mineral exploration
+21 permits embracing the reserved mineral rights when such issuance is deemed
+22 in the best interest of [the] [THIS] state, provided that the surface
+23 owner or owners shall have the first right of refusal to acquire such
+24 mineral exploration permits.>>
+25 <<Sec. 17. Section 37-233, Arizona Revised Statutes, is amended to
+26 read:
+27 37-233. Sale of state lands; restriction on sale of timber
+28 land; expense of sale; procedures and criteria for
+29 sale of state lands by the commissioner
+30 A. On receiving an application, or on the commissioner's
+31 initiative, the [state land] department, under the rules of the
+32 department, may cause state lands to be sold if the sale of them is not
+33 prohibited by law.
+34 B. Land containing timber of a value which in the opinion of the
+35 commissioner should be sold separately from the land shall not be subject
+36 to sale until after the timber is sold.
+37 C. When an application is filed with the department for selection
+38 or sale of land under the laws of this state, and the department
+39 determines that the benefit to be derived from the selection or sale is
+40 less than the expense involved, the commissioner may accept from the
+41 applicant an amount of money sufficient to pay the expense incidental to
+42 the selection or sale. If the applicant fails to secure a lease after
+43 selection of land, or fails to purchase land after bidding for it, the
+44 successful lessee or purchaser shall reimburse the original applicant for
+45 all funds so advanced.
+46 [D. THE DEPARTMENT SHALL ESTABLISH A PROCEDURE AND CRITERIA THAT
+47 THE COMMISSIONER MUST USE FOR DETERMINING WHETHER TO INITIATE THE SALE OF
+-20-
+
+House Amendments to S.B. 1336
+1 STATE LANDS BY THE COMMISSIONER'S OWN INITIATIVE AND SHALL POST THE
+2 PROCEDURE AND CRITERIA ON THE DEPARTMENT'S WEBSITE.
+3 E. THE COMMISSIONER SHALL HIRE THIRD-PARTY CONTRACTORS TO APPRAISE
+4 AND PREPARE FOR PUBLIC AUCTION. THE DEPARTMENT MAY HAVE EITHER DEPARTMENT
+5 STAFF OR A THIRD-PARTY CONTRACTOR SATISFY THE NOTICE REQUIREMENTS
+6 PRESCRIBED IN SECTION 37-237.
+7 F. THIS SECTION DOES NOT PROHIBIT THE COMMISSIONER FROM SELLING
+8 STATE LANDS THAT HAVE NOT BEEN IDENTIFIED FOR SALE IN THE FIVE YEAR
+9 DISPOSITION PLAN ADOPTED PURSUANT TO SECTION 37-331.03 OR RESTRICT THE USE
+10 OF LANDS SOLD PURSUANT TO THIS SECTION TO THE USES IDENTIFIED IN THE
+11 CONCEPTUAL LAND USE PLAN ADOPTED PURSUANT TO SECTION 37-331.03.]>>
+12 <<Sec. 18. Title 37, chapter 2, article 5, Arizona Revised
+13 Statutes, is amended by adding section 37-325, to read:
+14 37-325. Improvements; lease renewals; special land use
+15 permits; holdover leases
+16 [FOR A LEASE RENEWAL, PERMIT HOLDOVER PROVISIONS AND A SPECIAL LAND
+17 USE PERMIT, THE DEPARTMENT SHALL DO ALL OF THE FOLLOWING:
+18 1. APPROVE ANY IMPROVEMENTS THAT ARE CUSTOMARY IN THE LESSEE'S OR
+19 PERMITTEE'S COURSE OF BUSINESS AND THAT ARE CONSISTENT WITH THE LEASE OR
+20 PERMIT THAT THE DEPARTMENT ISSUED TO THE LESSEE OR PERMITTEE.
+21 NOTWITHSTANDING ANY OTHER LAW, IF A LESSEE OR PERMITTEE SUBMITS AN
+22 APPLICATION FOR PERMISSION TO CONSTRUCT OR MAKE AN IMPROVEMENT TO STATE
+23 LANDS PURSUANT TO SECTION 37-321 AND THE DEPARTMENT DOES NOT TAKE ACTION
+24 ON THE APPLICATION WITHIN NINETY DAYS AFTER RECEIPT, THE APPLICATION IS
+25 AUTOMATICALLY APPROVED. AN IMPROVEMENT THAT IS AUTOMATICALLY APPROVED
+26 PURSUANT TO THIS PARAGRAPH IS IN THE BEST INTEREST OF THIS STATE PURSUANT
+27 TO SECTION 37-321.
+28 2. WITHIN SIX MONTHS AFTER THE CONCLUSION OF A LEASE RENEWAL,
+29 PERMIT HOLDOVER PROVISION OR A SPECIAL LAND USE PERMIT, THE DEPARTMENT
+30 SHALL PROVIDE THE LESSEE OR PERMITTEE A REIMBURSEMENT PLAN THAT INCLUDES
+31 BOTH OF THE FOLLOWING:
+32 (a) A VALUATION OF THE FAIR MARKET VALUE OF ALL REASONABLE AND
+33 CUSTOMARY IMPROVEMENTS THAT THE LESSEE OR PERMITTEE MADE TO THE STATE
+34 LAND, AS DETERMINED BY AN INDEPENDENT THIRD-PARTY VENDOR.
+35 (b) A REASONABLE TIMELINE IN WHICH THE DEPARTMENT WILL REIMBURSE
+36 THE LESSEE OR PERMITTEE FOR THE FAIR MARKET VALUE OF ALL REASONABLE AND
+37 CUSTOMARY IMPROVEMENTS THAT THE LESSEE OR PERMITTEE MADE TO THE STATE
+38 LAND.
+39 3. NOT LESS THAN SIX MONTHS BEFORE THE EXPIRATION OF A LEASE
+40 RENEWAL OR SPECIAL LAND USE PERMIT, PROVIDE TO THE LESSEE OR PERMITTEE A
+41 NOTICE OF EXPIRATION. THE NOTICE MUST INCLUDE ALL OF THE FOLLOWING:
+42 (a) ANY PROPOSED RENTAL INCREASE OR PROPOSED CHANGE TO THE TERMS
+43 AND CONDITIONS OF THE LEASE RENEWAL OR SPECIAL LAND USE PERMIT.
+44 (b) THE INTENT OF THE DEPARTMENT TO RENEW OR TERMINATE THE LEASE OR
+45 SPECIAL LAND USE PERMIT.
+-21-
+
+House Amendments to S.B. 1336
+1 (c) THE JUSTIFICATION FOR THE COMMISSIONER'S DECISION, AS
+2 PRESCRIBED IN SECTION 37-133, TO RENEW OR TERMINATE THE LEASE OR
+3 PERMIT.]>>
+4 Sec. 19. Section 37-331.03, Arizona Revised Statutes, is amended to
+5 read:
+6 37-331.03. Conceptual land use plans; five year state trust
+7 land disposition plans; definitions
+8 A. The [commissioner] [DEPARTMENT] shall create [AND APPROVE]
+9 conceptual land use plans for all urban state trust land in this state and
+10 other state trust lands the commissioner considers to be appropriate. The
+11 commissioner shall:
+12 1. Prioritize the creation of conceptual LAND USE plans to the
+13 extent possible to:
+14 (a) Correlate with the rate of population growth [in] the [urban
+15 AND RURAL] areas in this state.
+16 (b) Coincide with the production of municipal general plans under
+17 title 9, chapter 4, article 6 and county plans under title 11, chapter 6,
+18 article 1.
+19 [(c) PROMOTE ECONOMIC GROWTH IN THE RURAL AREAS OF THIS STATE.]
+20 2. Revise and update each [CONCEPTUAL LAND USE] plan at least every
+21 ten years. [THE COMMISSIONER SHALL ISSUE A WRITTEN ORDER APPROVING EACH
+22 CONCEPTUAL LAND USE PLAN AND CONCEPTUAL LAND USE PLAN REVISION.]
+23 3. Consult with the city, town [or] [AND] county in which the
+24 [STATE TRUST] land is located [and with any regional planning organization
+25 regarding integrating the conceptual LAND USE plan into the general land
+26 use plan of the city, town or county] [AND THE ARIZONA GEOLOGICAL SURVEY].
+27 4. [Submit] [POST] each CONCEPTUAL LAND USE plan[,] and revision of
+28 [the] [A] CONCEPTUAL LAND USE plan[, to the urban land planning oversight
+29 committee for review] [AND THE COMMISSIONER'S WRITTEN APPROVAL OF EACH
+30 CONCEPTUAL LAND USE PLAN AND CONCEPTUAL LAND USE PLAN REVISION ON THE
+31 DEPARTMENT'S WEBSITE].
+32 B. On approval of the conceptual land use plan by the commissioner
+33 under this section, the conceptual LAND USE plan is [considered to be] a
+34 state general plan for THE purposes of this article [AND REMAINS EFFECTIVE
+35 UNTIL REVISED AS PRESCRIBED BY THIS SECTION].
+36 C. The commissioner may create the conceptual land use plans under
+37 subsection A of this section by any of the following methods:
+38 1. Using [department staff] or [AND] private consultants.
+39 2. Entering into participation contracts pursuant to section
+40 37-239.
+41 3. Issuing planning permits for [urban] [STATE] lands pursuant to
+42 section 37-338.
+43 4. Entering into planning contracts for urban lands or other state
+44 trust lands the commissioner considers to be appropriate, including
+45 compensation as provided by section 37-338, subsection D.
+46 D. The commissioner shall create [A] five year disposition [plans]
+47 [PLAN] for all state trust land in [EACH COUNTY IN] this state [FOR EACH
+-22-
+
+House Amendments to S.B. 1336
+1 COUNTY], based at a minimum on market demand, [POTENTIAL ECONOMIC BENEFITS
+2 TO RURAL COMMUNITIES OR] anticipated transportation and infrastructure
+3 availability. The commissioner shall [DO ALL OF THE FOLLOWING]:
+4 1. Review and update each FIVE YEAR DISPOSITION plan each year
+5 [EVERY THREE YEARS OR] [FOR EACH COUNTY] as [may be] necessary.
+6 2. Consult with the city, town [or] [AND] county in which the land
+7 is located [and with any regional planning organization].
+8 [3. POST EACH FIVE YEAR DISPOSITION PLAN, EACH FIVE YEAR
+9 DISPOSITION PLAN REVISION AND EACH WRITTEN ORDER THAT ADOPTS OR APPROVES A
+10 FIVE YEAR DISPOSITION PLAN OR FIVE YEAR DISPOSITION PLAN REVISION
+11 AVAILABLE ON THE DEPARTMENT'S WEBSITE TO ENSURE CONFORMITY WITH THE
+12 CONCEPTUAL LAND USE PLAN UNDER SUBSECTION A OF THIS SECTION.
+13 4. ENSURE THAT EACH FIVE YEAR DISPOSITION PLAN AND FIVE YEAR
+14 DISPOSITION PLAN REVISION CONFORMS WITH THE CONCEPTUAL LAND USE PLAN.]
+15 [3.] [5.] HIRE THIRD-PARTY CONTRACTORS [TO PREPARE THE FIVE YEAR
+16 DISPOSITION PLAN].
+17 [4]. [6.] INCLUDE RESIDENTIAL DEVELOPMENT WITHIN THE SERVICE AREA
+18 OF A MUNICIPAL PROVIDER AS DEFINED IN SECTION 45-561.
+19 3. [5. Submit each FIVE YEAR DISPOSITION plan and revision to the
+20 urban land planning oversight committee to ensure conformity with the
+21 conceptual LAND USE plan under subsection A OF THIS SECTION.]
+22 [7. ISSUE A WRITTEN ORDER THAT APPROVES AND ADOPTS EACH FIVE YEAR
+23 DISPOSITION PLAN AND FIVE YEAR DISPOSITION PLAN REVISION. ON APPROVAL OF
+24 THE FIVE YEAR DISPOSITION PLAN, THE PLAN SHALL REMAIN EFFECTIVE UNTIL
+25 REVISED AS PRESCRIBED BY THIS SECTION.
+26 E. FOR ALL LAWS REGARDING THE BEST USE OF STATE LANDS OR THE BEST
+27 INTERESTS OF THIS STATE REGARDING STATE LANDS, THE PROVISIONS OF THE
+28 CONCEPTUAL LAND USE PLAN AND FIVE YEAR DISPOSITION PLAN ARE PRESUMED TO BE
+29 CONSISTENT WITH THE BEST USE OF STATE LANDS AND THE BEST INTERESTS OF THIS
+30 STATE. A PERSON MAY OVERCOME THIS PRESUMPTION BY DEMONSTRATING THAT
+31 ANOTHER USE OF STATE LANDS IS A BETTER USE OF STATE LANDS. THIS SECTION
+32 DOES NOT PROHIBIT THE CONVEYANCE OF STATE LANDS THAT ARE NOT IDENTIFIED IN
+33 THE FIVE YEAR DISPOSITION PLAN OR CONCEPTUAL LAND USE PLAN.]
+34 [E.] [F.] For the purposes of this section:
+35 1. "Conceptual land use plan" means a plan that is developed for
+36 [urban] state trust land [and other state trust lands the commissioner
+37 considers to be appropriate] and that identifies:
+38 (a) Appropriate land uses [AND RIGHTS-OF-WAY], including
+39 commercial, industrial, [MINING, FORESTRY, AGRICULTURAL, ENERGY, GRAZING,]
+40 residential and [open space] [RECREATIONAL] uses [THAT GENERATE REVENUE].
+41 (b) Transportation corridors and infrastructure requirements.
+42 (c) All natural and artificial constraints and opportunities
+43 associated with the land.
+44 [(d) KNOWN AND PROVEN MINERAL RESOURCES, INCLUDING MINERALS, COMMON
+45 VARIETY MINERALS AND COMMODITY TYPES, AS DEFINED IN SECTION 27-201.01.]
+-23-
+
+House Amendments to S.B. 1336
+1 2. "Five year disposition plan" means a plan that identifies the
+2 land projected to be sold, leased, reclassified for conservation purposes,
+3 master planned or zoned during the next five years.
+4 <<Sec. 20. Section 37-527, Arizona Revised Statutes, is amended to
+5 read:
+6 37-527. Trust land management fund
+7 A. The trust land management fund is established. The fund
+8 consists of [FEES COLLECTED PURSUANT TO SECTION 37-107.] [Up to ten
+9 percent of the annual proceeds of:
+10 1. Each beneficiary's trust lands granted to this state by the
+11 United States.
+12 2. All sales of timber, mineral, gravel or other natural products
+13 or property from each beneficiary's trust lands granted to this state by
+14 the United States.
+15 B. The commissioner shall determine the percentage of trust land
+16 proceeds to be deposited in the fund each fiscal year. The percentage
+17 shall be the same for all beneficiaries. The commissioner shall notify
+18 the joint legislative budget committee and the governor's office of
+19 strategic planning and budgeting of the determination on or before
+20 September 1 of the preceding fiscal year.
+21 C.] [B.] The monies in the fund:
+22 1. Are subject to legislative appropriation. The department may
+23 retain an amount of monies from the fund that is sufficient to pay the
+24 department's costs for contracting with a qualified third-party reviewer
+25 as prescribed in section 37-132, subsection A, paragraph 12.
+26 2. Shall be used [exclusively] to manage trust lands as prescribed
+27 by law [AND TO PREPARE STATE LANDS FOR SALE OR LEASE AS PRESCRIBED BY
+28 LAW].
+29 [3. MAY BE USED TO AWARD DEPARTMENT-WIDE PERFORMANCE-BASED
+30 INCENTIVES AS PRESCRIBED IN SECTION 38-618. FOR THE PURPOSES OF THIS
+31 PARAGRAPH, THE COMMISSIONER MAY ONLY USE MONIES COLLECTED PURSUANT TO
+32 SECTION 37-107, SUBSECTION B, PARAGRAPH 1 AND THE COMMISSIONER MAY NOT
+33 DIVERT MORE THAN TEN PERCENT OF THE REVENUES COLLECTED PURSUANT TO SECTION
+34 37-107, SUBSECTION B, PARAGRAPH 1, IN ANY ONE FISCAL YEAR.]
+35 D. The commissioner shall administer the fund. On notice from the
+36 commissioner, the state treasurer shall invest and divest monies in the
+37 fund as provided by section 35-313, and monies earned from investment
+38 shall be credited to the fund.
+39 E. Monies in the fund are exempt from the provisions of section
+40 35-190 relating to lapsing of appropriations, but if the balance in the
+41 fund at the end of any fiscal year exceeds two times the budget of the
+42 department for the management of trust lands for the next fiscal year, the
+43 excess amount shall be credited proportionately to the several permanent
+44 funds based on the last fiscal year's deposits.
+45 F. This section does not prevent the legislature from appropriating
+46 state general fund monies for the purposes described in this section.>>
+-24-
+
+House Amendments to S.B. 1336
+1 Sec. 21. Section 41-1001, Arizona Revised Statutes, is amended to
+2 read:
+3 41-1001. Definitions
+4 In this chapter, unless the context otherwise requires:
+5 1. "Agency" means any board, commission, department[, INCLUDING THE
+6 STATE LAND DEPARTMENT,] officer or other administrative unit of this
+7 state, including the agency head and one or more members of the agency
+8 head or agency employees or other persons directly or indirectly
+9 purporting to act on behalf or under the authority of the agency head,
+10 whether created under the Constitution of Arizona or by enactment of the
+11 legislature. Agency does not include the legislature, the courts or the
+12 governor. Agency does not include a political subdivision of this state
+13 or any of the administrative units of a political subdivision, but does
+14 include any board, commission, department, officer or other administrative
+15 unit created or appointed by joint or concerted action of an agency and
+16 one or more political subdivisions of this state or any of their units.
+17 To the extent an administrative unit purports to exercise authority
+18 subject to this chapter, an administrative unit otherwise qualifying as an
+19 agency must be treated as a separate agency even if the administrative
+20 unit is located within or subordinate to another agency.
+21 2. "Appealable agency action" has the same meaning prescribed in
+22 section 41-1092.
+23 3. "Audit" means an audit, investigation or inspection pursuant to
+24 title 23, chapter 2 or 4.
+25 4. "Code" means the Arizona administrative code, which is published
+26 pursuant to section 41-1011.
+27 5. "Committee" means the administrative rules oversight committee.
+28 6. "Contested case" means any proceeding, including rate making,
+29 except rate making pursuant to article XV, Constitution of Arizona, price
+30 fixing and licensing, in which the legal rights, duties or privileges of a
+31 party are required or permitted by law, other than this chapter, to be
+32 determined by an agency after an opportunity for an administrative
+33 hearing.
+34 7. "Council" means the governor's regulatory review council.
+35 8. "Delegation agreement" means an agreement between an agency and
+36 a political subdivision that authorizes the political subdivision to
+37 exercise functions, powers or duties conferred on the delegating agency by
+38 a provision of law. Delegation agreement does not include
+39 intergovernmental agreements entered into pursuant to title 11, chapter 7,
+40 article 3.
+41 9. "Emergency rule" means a rule that is made pursuant to section
+42 41-1026.
+43 10. "Fee" means a charge prescribed by an agency for an inspection
+44 or for obtaining a license.
+45 11. "Final rule" means any rule filed with the secretary of state
+46 and made pursuant to an exemption from this chapter in section 41-1005,
+47 made pursuant to section 41-1026, approved by the council pursuant to
+-25-
+
+House Amendments to S.B. 1336
+1 section 41-1052 or 41-1053 or approved by the attorney general pursuant to
+2 section 41-1044. For purposes of judicial review, final rule includes
+3 expedited rules pursuant to section 41-1027.
+4 12. "General permit" means a regulatory permit, license or agency
+5 authorization that is for facilities, activities or practices in a class
+6 that are substantially similar in nature and that is issued or granted by
+7 an agency to a qualified applicant to conduct identified operations or
+8 activities if the applicant meets the applicable requirements of the
+9 general permit, that requires less information than an individual or
+10 traditional permit, license or authorization and that does not require a
+11 public hearing.
+12 13. "License":
+13 (a) Includes the whole or part of any agency permit, certificate,
+14 approval, registration, charter or similar form of permission required by
+15 law. , but
+16 (b) EXCEPT FOR [A LICENSE] [ANY AGENCY PERMIT, CERTIFICATE,
+17 APPROVAL, REGISTRATION, CHARTER OR SIMILAR FORM OF PERMISSION THAT IS]
+18 ISSUED BY THE STATE LAND DEPARTMENT, does not include a license required
+19 solely for revenue purposes.
+20 14. "Licensing" includes the agency process respecting the grant,
+21 denial, renewal, revocation, suspension, annulment, withdrawal, change,
+22 reduction, modification or amendment of a license, including an existing
+23 permit, certificate, approval, registration, charter or similar form of
+24 permission, approval or authorization obtained from an agency by the
+25 holder of a license.
+26 15. "Licensing decision" means any action by an agency to grant or
+27 deny any request for permission, approval or authorization issued in
+28 response to any request from an applicant for a license or to the holder
+29 of a license to exercise authority within the scope of the license.
+30 16. "Party" means each person or agency named or admitted as a
+31 party or properly seeking and entitled as of right to be admitted as a
+32 party.
+33 17. "Person" means an individual, partnership, corporation,
+34 association, governmental subdivision or unit of a governmental
+35 subdivision, a public or private organization of any character or another
+36 agency.
+37 18. "Preamble" means:
+38 (a) For any rulemaking subject to this chapter, a statement
+39 accompanying the rule that includes:
+40 (i) Reference to the specific statutory authority for the rule.
+41 (ii) The name and address of agency personnel with whom persons may
+42 communicate regarding the rule.
+43 (iii) An explanation of the rule, including the agency's reasons
+44 for initiating the rulemaking.
+45 (iv) A reference to any study relevant to the rule that the agency
+46 reviewed and either proposes to rely on in its evaluation of or
+47 justification for the rule or proposes not to rely on in its evaluation of
+-26-
+
+House Amendments to S.B. 1336
+1 or justification for the rule, where the public may obtain or review each
+2 study, all data underlying each study and any analysis of each study and
+3 other supporting material.
+4 (v) The economic, small business and consumer impact summary, or in
+5 the case of a proposed rule, a preliminary summary and a solicitation of
+6 input on the accuracy of the summary.
+7 (vi) A showing of good cause why the rule is necessary to promote a
+8 statewide interest if the rule will diminish a previous grant of authority
+9 of a political subdivision of this state.
+10 (vii) Such other matters as are prescribed by statute and that are
+11 applicable to the specific agency or to any specific rule or class of
+12 rules.
+13 (b) In addition to the information set forth in subdivision (a) of
+14 this paragraph, for a proposed rule, the preamble also shall include a
+15 list of all previous notices appearing in the register addressing the
+16 proposed rule, a statement of the time, place and nature of the
+17 proceedings for the making, amendment or repeal of the rule and where,
+18 when and how persons may request an oral proceeding on the proposed rule
+19 if the notice does not provide for one.
+20 (c) In addition to the information set forth in subdivision (a) of
+21 this paragraph, for an expedited rule, the preamble also shall include a
+22 statement of the time, place and nature of the proceedings for the making,
+23 amendment or repeal of the rule and an explanation of why expedited
+24 proceedings are justified.
+25 (d) For a final rule, except an emergency rule, the preamble also
+26 shall include, in addition to the information set forth in subdivision
+27 (a), the following information:
+28 (i) A list of all previous notices appearing in the register
+29 addressing the final rule.
+30 (ii) A description of the changes between the proposed rules,
+31 including supplemental notices and final rules.
+32 (iii) A summary of the comments made regarding the rule and the
+33 agency response to them.
+34 (iv) A summary of the council's action on the rule.
+35 (v) A statement of the rule's effective date.
+36 (e) In addition to the information set forth in subdivision (a) of
+37 this paragraph, for an emergency rule, the preamble also shall include an
+38 explanation of the situation justifying the rule being made as an
+39 emergency rule, the date of the attorney general's approval of the rule
+40 and a statement of the emergency rule's effective date.
+41 19. "Provision of law" means the whole or a part of the federal or
+42 state constitution, or of any federal or state statute, rule of court,
+43 executive order or rule of an administrative agency.
+44 20. "Register" means the Arizona administrative register, which is:
+45 (a) This state's official publication of rulemaking notices that
+46 are filed with the office of secretary of state.
+47 (b) Published pursuant to section 41-1011.
+-27-
+
+House Amendments to S.B. 1336
+1 21. "Rule" means an agency statement of general applicability that
+2 implements, interprets or prescribes law or policy, or describes the
+3 procedure or practice requirements of an agency. Rule includes
+4 prescribing fees or the amendment or repeal of a prior rule but does not
+5 include intraagency memoranda that are not delegation agreements.
+6 22. "Rulemaking" means the process to make a new rule or amend,
+7 repeal or renumber a rule.
+8 23. "Small business" means a concern, including its affiliates,
+9 which is independently owned and operated, which is not dominant in its
+10 field and which employs fewer than one hundred full-time employees or
+11 which had gross annual receipts of less than four million dollars in its
+12 last fiscal year. For purposes of a specific rule, an agency may define
+13 small business to include more persons if it finds that such a definition
+14 is necessary to adapt the rule to the needs and problems of small
+15 businesses and organizations.
+16 24. "Substantive policy statement" means a written expression which
+17 informs the general public of an agency's current approach to, or opinion
+18 of, the requirements of the federal or state constitution, federal or
+19 state statute, administrative rule or regulation, or final judgment of a
+20 court of competent jurisdiction, including, where appropriate, the
+21 agency's current practice, procedure or method of action based upon that
+22 approach or opinion. A substantive policy statement is advisory only. A
+23 substantive policy statement does not include internal procedural
+24 documents which only affect the internal procedures of the agency and does
+25 not impose additional requirements or penalties on regulated parties,
+26 confidential information or rules made in accordance with this chapter.
+27 <<Sec. 5. Section 41-1002, Arizona Revised Statutes, is amended to
+28 read:
+29 41-1002. Applicability and relation to other law;
+30 preapplication authorization; definitions
+31 A. This article and articles 2 through 5 of this chapter apply to
+32 all agencies and all proceedings not expressly exempted.
+33 B. This chapter creates only procedural rights and imposes only
+34 procedural duties. They are in addition to those created and imposed by
+35 other statutes. To the extent that any other statute would diminish a
+36 right created or duty imposed by this chapter, the other statute is
+37 superseded by this chapter, unless the other statute expressly provides
+38 otherwise.
+39 C. An agency may grant procedural rights to persons in addition to
+40 those conferred by this chapter so long as rights conferred on other
+41 persons by any provision of law are not substantially prejudiced.
+42 D. Unless specifically authorized by statute, an agency shall avoid
+43 duplication of other laws that do not enhance regulatory clarity and shall
+44 avoid dual permitting to the extent practicable.
+45 E. Unless specifically authorized by statute, an agency may not
+46 require preapplication authorization or require preapplication conferences
+47 as a requirement to filing an application that is otherwise allowed by
+-28-
+
+House Amendments to S.B. 1336
+1 statute. If preapplication procedures are required by statute, an agency
+2 shall consider the preapplication requirements or procedures as the
+3 beginning of the licensing time frame for the purposes of article 7.1 of
+4 this chapter. An agency may offer voluntary preapplication procedures
+5 without specific statutory authority if the agency communicates to an
+6 applicant that the preapplication procedures are not mandatory. If
+7 preapplication procedures are offered by an agency, the agency shall
+8 consider the costs and delays that may be imposed on an applicant and
+9 shall seek to minimize those impacts.
+10 F. Unless authorized by federal or state law, an agency may not
+11 take any action that materially increases the regulatory burdens on a
+12 business unless there is a threat to the health, safety and welfare of the
+13 public that has not been addressed by legislation or industry regulation
+14 within the proposed regulated field.
+15 G. Unless authorized by federal or state law, an agency may not
+16 apply a regulation to a qualified marketplace platform if the purpose of
+17 that regulation is to regulate a business that provides goods or services
+18 directly to the customer.
+19 H. THIS CHAPTER APPLIES TO THE STATE LAND DEPARTMENT.
+20 H. I. For the purposes of this section:
+21 1. "Qualified marketplace contractor" means any person or
+22 organization, including an individual, corporation, limited liability
+23 company, partnership, sole proprietor PROPRIETORSHIP or other entity, that
+24 enters into an agreement with a qualified marketplace platform to use the
+25 qualified marketplace platform's digital platform to provide goods or
+26 services to third-party individuals or entities seeking those services.
+27 2. "Qualified marketplace platform" means an organization,
+28 including a corporation, limited liability company, partnership, sole
+29 proprietor PROPRIETORSHIP or any other entity, that operates a digital
+30 platform that facilitates the provision of goods or services by qualified
+31 marketplace contractors to third-party individuals or entities seeking
+32 those goods or services. >>
+33 Sec. 22. Repeal
+34 Section 41-3026.05, Arizona Revised Statutes, is repealed.
+35 Sec. 23. Title 41, chapter 27, article 2, Arizona Revised Statutes,
+36 is amended by adding section 41-3030.19, to read:
+37 41-3030.19. State land department; termination July 1, 2030
+38 A. THE STATE LAND DEPARTMENT TERMINATES ON JULY 1, 2030.
+39 B. TITLE 37, CHAPTERS 1 AND 2 AND THIS SECTION ARE REPEALED ON
+40 JANUARY 1, 2031.
+41 <<Sec. 8. Section 41-6011, Arizona Revised Statutes, is amended to
+42 read:
+43 41-6011. State natural resource conservation board;
+44 membership; powers and duties
+45 A. The state natural resource conservation board is established
+46 consisting of the following members who are residents of this state:
+-29-
+
+House Amendments to S.B. 1336
+1 1. Eight members who are from different geographic natural resource
+2 areas as defined by a statewide organization that represents all natural
+3 resource conservation districts in this state. Four members shall be
+4 appointed by the governor, two members shall be appointed by the president
+5 of the senate and two members shall be appointed by the speaker of the
+6 house of representatives. The members appointed pursuant to this
+7 paragraph shall meet the following criteria:
+8 (a) At least six of the members must be elected supervisors for a
+9 natural resource conservation district.
+10 (b) Not more than two members may be appointed supervisors from a
+11 soil and water conservation district.
+12 (c) At least one member shall be a member of the executive board of
+13 a statewide organization that represents all natural resource conservation
+14 districts in this state.
+15 2. Three members who are appointed by the governor from any of the
+16 following and who serve at the pleasure of the governor:
+17 (a) The state land commissioner or state land commissioner's
+18 designee.
+19 (b) The director of the Arizona department of agriculture or the
+20 director's designee.
+21 (c) The state forester or the state forester's designee.
+22 (d) The director of the Arizona game and fish department or the
+23 director's designee.
+24 B. The board shall elect a chairperson from among its members. The
+25 chairperson must be a member who represents a natural resource
+26 conservation district or soil and water conservation district.
+27 C. The initial members of the board who are appointed pursuant to
+28 subsection A, paragraph 1 of this section shall assign themselves by lot
+29 to terms of one, two and three years in office. All subsequent members
+30 serve three-year terms. The chairperson of the board shall notify the
+31 governor's office of these terms.
+32 D. If a member's term as a supervisor expires while serving on the
+33 board, that member may not serve out the member's term as a board member.
+34 A replacement shall be appointed from the same geographic NATURAL resource
+35 area to fulfill the remainder of that member's term.
+36 E. Board members shall be reimbursed for expenses as prescribed by
+37 title 38, chapter 4, article 2 while attending board meetings.
+38 F. The board may appoint or contract for an administrative officer,
+39 a secretary and such other assistants as may be required, assign their
+40 duties, define their powers and determine the amount of bond required of
+41 any assistant entrusted with monies or property. The compensation of all
+42 such assistants shall be determined pursuant to section 38-611.
+43 G. The board shall adopt a seal, which shall be judicially noticed,
+44 and shall hold public hearings, keep records of all proceedings and annual
+45 records of district operations, adopt orders and rules and perform other
+46 acts as are necessary to carry out this chapter.
+47 H. The board shall:
+-30-
+
+House Amendments to S.B. 1336
+1 1. Offer appropriate assistance to the supervisors of districts in
+2 carrying out their powers and programs.
+3 2. Keep the supervisors of each district informed of the activities
+4 and experiences of other districts and of relevant information from other
+5 states, and facilitate cooperation and interchange of advice, experience
+6 and program opportunities between districts.
+7 3. Coordinate the programs of the several districts insofar as
+8 possible by advice and consultation.
+9 4. Require the supervisors of each district to file with the board
+10 annually any audits and the records of the operations of the district for
+11 the preceding year in the form and detail as the board prescribes.
+12 5. Secure the cooperation and assistance of the United States, its
+13 agencies and agencies of this state, in the work of districts as local
+14 units of state government with special expertise concerning land, soil,
+15 water and natural resources management within the boundaries of the
+16 district, as the board deems for the best interest of the state.
+17 6. Disseminate information throughout the state concerning the
+18 activities and program of districts.
+19 7. Meet at least quarterly to receive updates from the board's
+20 administrative officer regarding any relevant issue or matter necessary to
+21 carry out this chapter, provide guidance to the administrative officer and
+22 vote on any matters requiring a decision by the board.
+23 8. Assist a district when the district is cooperating or
+24 coordinating with a federal agency.
+25 9. Assist districts with developing conservation action or
+26 district-wide plans.
+27 10. Adopt administrative rules that the board deems necessary and
+28 proper to carry out this chapter.
+29 11. MAINTAIN AUTHORITY OVER CONSERVATION PERMITTING ON STATE TRUST
+30 LANDS. THE BOARD MAY DELEGATE THIS AUTHORITY TO THE APPLICABLE DISTRICT AS
+31 DETERMINED BY THE BOARD.
+32 12. COLLABORATE WITH THE STATE LAND DEPARTMENT FOR ANY CONSERVATION
+33 OR ENVIRONMENTAL PERMITTING LOCATED ON STATE TRUST LAND. THE BOARD SHALL
+34 IMMEDIATELY FORWARD ANY CONSERVATION OR ENVIRONMENTAL PERMITTING ISSUED OR
+35 RECEIVED BY THE BOARD OR THE APPLICABLE DISTRICT TO THE STATE LAND
+36 DEPARTMENT.
+37 I. The board may remove a district supervisor from office if the
+38 board determines, after reasonable notice and an impartial hearing, that
+39 the supervisor is guilty of misfeasance, malfeasance or nonfeasance in
+40 office. For the purposes of this subsection, "nonfeasance" includes the
+41 failure to attend three consecutive meetings of district supervisors
+42 without reasonable excuse.
+43 J. The board, pursuant to chapter 4, article 4 of this title, may
+44 contract for or employ professional and administrative services.
+45 Contracts for professional services are exempt from chapter 23 of this
+46 title.>>
+-31-
+
+House Amendments to S.B. 1336
+1 <<Sec. 24. Section 44-301, Arizona Revised Statutes, is amended to
+2 read:
+3 44-301. Definitions
+4 In this chapter, unless the context otherwise requires:
+5 1. "Airdrop":
+6 (a) Means to issue a unit of a digital asset that is distributed in
+7 a broad, equipped and nondiscretionary manner based on conditions that are
+8 capable of being satisfied by a participant in a blockchain system as
+9 incentive-based rewards, including any of the following:
+10 (i) To users of a digital asset or any blockchain system to which
+11 the digital asset relates.
+12 (ii) For activities that are directly related to the operation of
+13 the blockchain system, including mining, validating, staking and any other
+14 activity that is directly tied to the operation of the blockchain system.
+15 (iii) To existing holders of another digital asset in proportion to
+16 the total units of the other digital assets that are held by each person.
+17 (b) Does not include an exchange of more than a nominal value of
+18 cash, property or other assets.
+19 2. "Apparent owner" means a person whose name appears on the
+20 records of a holder as the person entitled to property held, issued or
+21 owing by the holder.
+22 3. "Business association" means any corporation, joint stock
+23 company, investment company, partnership, limited partnership, registered
+24 limited liability partnership, unincorporated association, joint venture,
+25 limited liability company, business trust, trust company, land bank, safe
+26 deposit company, safekeeping depository, financial organization, insurance
+27 company, mutual fund, utility or other business entity, whether for profit
+28 or not for profit, that consists of one or more persons.
+29 4. "De minimis property" means any account balances of business
+30 associations of $50 or less that is payable to another business
+31 association.
+32 5. "Department" means the department of revenue.
+33 6. "Digital assets" means any of the following that confers
+34 economic, proprietary or access rights or powers:
+35 (a) Virtual currencies.
+36 (b) Cryptocurrencies.
+37 (c) Any other digital-only assets.
+38 7. "Director" means the director of the department of revenue.
+39 8. "Domicile" means the state of incorporation of a corporation and
+40 the state of the principal place of business of a holder other than a
+41 corporation.
+42 9. "Financial organization" means a savings and loan association,
+43 building and loan association, savings bank, industrial bank, bank,
+44 banking organization or credit union.
+45 10. "Holder" means a person who is obligated to hold for the
+46 account of or deliver or pay to the owner the property that is subject to
+47 this chapter.
+-32-
+
+House Amendments to S.B. 1336
+1 11. "Insurance company" means an association, corporation or
+2 fraternal or mutual benefit society or organization, whether for profit or
+3 not for profit, that is engaged in the business of providing life
+4 endowments, annuities or insurance, including accident, burial, casualty,
+5 credit life, contract performance, dental, disability, fidelity, fire,
+6 health, hospitalization, illness, life, malpractice, marine, mortgage,
+7 surety, wage protection and workers' compensation insurance.
+8 12. "Mineral" means gas, oil, coal, sand, gravel, road material,
+9 building stone, chemical raw material, gemstone, fissionable and
+10 nonfissionable ores, colloid and other clay, steam and other geothermal
+11 resource or any other substance defined as a mineral in sections [27-231]
+12 [27-201.01] and 27-901.
+13 13. "Mineral proceeds" means the amounts payable for the
+14 extraction, production or sale of minerals or, if those amounts are
+15 abandoned, all payments that become payable after the abandonment.
+16 Mineral proceeds include amounts payable:
+17 (a) For the acquisitions and retention of a mineral lease,
+18 including bonuses, royalties, compensatory royalties, shut-in royalties,
+19 minimum royalties and delay rentals.
+20 (b) For the extraction, production or sale of minerals, including
+21 net revenue interest, royalties, overriding royalties, extraction payments
+22 and production payments.
+23 (c) Under an agreement or option, including a joint operating
+24 agreement, unit agreement, pooling agreement and farm out agreement.
+25 14. "Money order" includes an express money order and a personal
+26 money order on which the remitter is the purchaser. Money order does not
+27 include a bank money order or any other instrument that is sold by a
+28 financial organization if the seller has obtained the name and address of
+29 the payee.
+30 15. "Owner" means a person who has a legal or equitable interest in
+31 property that is subject to this chapter or the person's legal
+32 representative. Owner includes a depositor in the case of a deposit, a
+33 beneficiary in the case of a trust other than a deposit in trust and a
+34 creditor, claimant or payee in the case of other property.
+35 16. "Person" means an individual, business association, financial
+36 organization, estate, trust, government, governmental subdivision, agency
+37 or instrumentality or any other legal or commercial entity.
+38 17. "Property":
+39 (a) Means any of the following:
+40 (i) Tangible property pursuant to section 44-303.
+41 (ii) A fixed and certain interest in intangible property that is
+42 held, issued or owed in the course of a holder's business or by a
+43 government, governmental subdivision, agency or instrumentality and all
+44 income or increments from that property.
+45 (iii) Digital assets.
+46 [(c)] [(b)] Includes property that is referred to as or evidenced
+47 by any of the following:
+-33-
+
+House Amendments to S.B. 1336
+1 (i) Money or any check, draft, deposit, interest or dividend.
+2 (ii) Any credit balance, customer's overpayment, security deposit,
+3 refund, credit memorandum, unpaid wage, unused ticket, mineral proceeds or
+4 unidentified remittance.
+5 (iii) Any stock or other evidence of ownership of an interest in a
+6 business association or financial organization.
+7 (iv) Any bond, debenture, note or other evidence of indebtedness.
+8 (v) Money deposited to redeem stocks, bonds, coupons or other
+9 securities or to make distributions.
+10 (vi) An amount due and payable under the terms of an annuity or
+11 insurance policy, including policies that provide life, property,
+12 casualty, workers' compensation, health or disability insurance.
+13 (vii) An amount distributable from a trust or custodial fund that
+14 is established under a plan to provide health, welfare, pension, vacation,
+15 severance, retirement, death, stock purchase, profit sharing, employee
+16 savings or supplemental unemployment insurance or similar benefits.
+17 [(b)] [(c)] Does not include de minimis property, property of a
+18 person who is maintaining a current business relationship with the holder,
+19 monies collected pursuant to section 46-441 and property that is referred
+20 to or evidenced by gift certificates, electronic gift cards, nonrefundable
+21 tickets, certificates evidencing property denominated in value other than
+22 a currency, including prepaid phone cards, frequent flyer miles, stored
+23 value cards and merchandise points.
+24 18. "Record" means information that is inscribed on a tangible
+25 medium or that is stored in any electronic or other medium and that is
+26 retrievable in a perceivable form.
+27 19. "Stake" means committing digital assets to a blockchain network
+28 to participate in the blockchain network's operations by validating
+29 transactions, proposing and attesting to blocks and securing the network.
+30 20. "State" means a state of the United States, the District of
+31 Columbia, the Commonwealth of Puerto Rico or any territory or insular
+32 possession that is subject to the jurisdiction of the United States.
+33 21. "Utility" has the same meaning prescribed in section 40-491.>>
+34 <<Sec. 9. Rulemaking; delayed repeal
+35 A. On or before July 1, 2028, the state land department shall adopt
+36 rules for licensing time frames pursuant to section 37-102, subsection H,
+37 paragraph 5, Arizona Revised Statutes, as added by this act.
+38 B. On or before July 1, 2027, the state land department shall do
+39 both of the following:
+40 1. Open a rulemaking docket to adopt licensing time frames pursuant
+41 to section 37-102, subsection H, paragraph 5, Arizona Revised Statutes, as
+42 added by this act.
+43 2. Conduct a study to determine the appropriate licensing time
+44 frames for licenses issued by the department.
+45 C. This section is repealed from and after December 31,2028.>>
+-34-
+
+House Amendments to S.B. 1336
+1 <<Sec. 25. Joint legislative ad hoc committee on state land
+2 oversight; membership; delayed repeal
+3 [A. The joint legislative ad hoc committee on state land oversight
+4 is established.
+5 B. The president of the senate and the speaker of the house of
+6 representatives shall collaborate to determine the appropriate number of
+7 members and to appoint members and cochairpersons of the joint legislative
+8 ad hoc committee on state land oversight.
+9 C. The senate and the house of representatives shall provide
+10 meeting space and staff support as requested by the cochairpersons of the
+11 joint legislative ad hoc committee on state land oversight.
+12 D. The state land department and the state land commissioner shall
+13 do both of the following on request of either of the cochairpersons of the
+14 joint legislative ad hoc committee on state land oversight:
+15 1. Provide any requested information that is in possession of the
+16 state land department.
+17 2. Appear and testify during a meeting of the committee.
+18 E. This section is repealed from and after December 31, 2026.]>>
+19 <<Sec. 26. Licensing time frames; legislative collaboration;
+20 delayed repeal
+21 [A. Before July 1, 2027, the state land department shall
+22 collaborate with the stakeholders and members of joint legislative ad hoc
+23 committee on state land oversight to develop time frames pursuant to
+24 section 37-102, subsection I, paragraph 4, Arizona Revised Statutes, as
+25 added by this act, and to develop procedures and criteria for state land
+26 commissioner-initiated sales pursuant to section 37-233, subsection D,
+27 Arizona Revised Statutes, as added by this act.
+28 B. This section is repealed from and after December 31, 2028.]>>
+29 <<Sec. 27. Five year disposition plans; conceptual land use
+30 plan; requirements; delayed repeal
+31 [A. Within two years after the effective date of this section, the
+32 state land commissioner shall:
+33 1. Complete the five year disposition plans for state trust lands
+34 and update the conceptual land use plan for state lands pursuant to
+35 section 37-331.03, Arizona Revised Statutes, as amended by this act.
+36 2. Adopt written policies and procedures for updating:
+37 (a) The five year disposition plan every five years.
+38 (b) The conceptual land use plan every ten years.
+39 3. Adopt written policies and procedures on how the state land
+40 department will use the five year disposition plans and the conceptual
+41 land use plan for determining whether state trust lands are or will be
+42 sent to public auction.
+43 4. Provide a copy of the five year disposition plans and the
+44 conceptual land use plan and the policies and procedures adopted pursuant
+45 to this section to the] joint legislative ad hoc committee on state land
+46 oversight].>>
+-35-
+
+House Amendments to S.B. 1336
+1 <<Sec. 11. Legislative intent
+2 While the legislature has granted discretionary authority to the
+3 state land commissioner, the legislature intends that the state land
+4 department's processes and procedures be transparent and consistent with
+5 the manner that the legislature has prescribed for the disposition of
+6 state trust lands.>>
+7 <<Sec. 28. Biosolids study committee; membership; powers and
+8 duties; report; delayed repeal
+9 [A. The biosolids study committee is established consisting of the
+10 following members:
+11 1. The chairperson of the senate natural resources committee, or
+12 the chairperson's designee, who serves as the chairperson of the study
+13 committee in even-numbered years.
+14 2. The chairperson of the house of representatives natural
+15 resources energy and water committee, or the chairperson's designee, who
+16 serves as the chairperson of the study committee in odd-numbered years.
+17 3. The director of the department of environmental quality or the
+18 director's designee.
+19 4. The director of the Arizona department of agriculture or the
+20 director's designee.
+21 5. The state land commissioner or the commissioner's designee.
+22 6. The chairperson of the Yuma county board of supervisors or the
+23 chairperson's designee.
+24 B. The study committee shall review the use of biosolids for
+25 agricultural and other uses in this state, including on state trust lands,
+26 and shall evaluate the policy of accepting biosolids from other states.
+27 C. The study committee may hold hearings, conduct fact-finding
+28 tours, request data from any political subdivision of this state and take
+29 testimony from witnesses who may assist the study committee in fulfilling
+30 the study committee's responsibilities. All hearings held by the study
+31 committee shall be open to the public.
+32 D. The legislature, the state land department, the department of
+33 environmental quality and the Arizona department of agriculture shall
+34 provide meetings space, staff and support services to the study committee.
+35 E. Study committee members are not eligible to receive compensation
+36 but are eligible for reimbursement of expenses pursuant to title 38,
+37 chapter 4, article 2, Arizona Revised Statutes.
+38 F. On or before December 31, 2028, the study committee shall submit
+39 a report of its findings and recommendations for rule changes or
+40 legislative changes that the committee determines necessary to the
+41 governor, the president of the senate and the speaker of the house of
+42 representatives and shall provide a copy of this report to the secretary
+43 of state.
+44 G. This section is repealed from and after June 30, 2029.]>>
+45 Sec. 29. Legislative findings
+46 The legislature finds that[:] [for years the state land department's
+47 lack of implementation of the statutory scheme has created a significant
+-36-
+
+House Amendments to S.B. 1336
+1 loss of revenue to the state trust land beneficiaries, has led to a lack
+2 of organization and streamlined processes and has perpetuated a poor
+3 morale within the department.]
+4 [1. According to the auditor general's performance audit and sunset
+5 review of the state land department completed on July 9, 2025, the state
+6 land department has failed to develop the statutorily required five year
+7 disposition plans since 2016.
+8 2. According to the auditor general's performance audit and sunset
+9 review, all five members of the urban land planning oversight committee
+10 have been vacant since at least 2018.
+11 3. Pursuant to section 37-331.02, Arizona Revised Statutes, and
+12 section 37-331.03, Arizona Revised Statutes, as amended by this act, the
+13 urban land planning oversight committee serves in an advisory role only
+14 and is not required for the commissioner to fulfill the commissioner's
+15 obligations to create a five year disposition plan pursuant to statute.
+16 4. The fact that the governor has not appointed any members to the
+17 urban land planning oversight committee has not absolved the commissioner
+18 of the commissioner's obligations to create a five year disposition plan
+19 as prescribed in section 37-331.03, Arizona Revised Statutes, as amended
+20 by this act.
+21 5. The creation of a five year disposition plan is necessary for
+22 housing affordability and to ensure the highest and best use of the land
+23 for the beneficiaries of the trust.
+24 6. Minerals and common variety minerals exist where they are.
+25 7. Minerals and common variety minerals are needed for all forms of
+26 commercial development on state trust lands, including affordable housing
+27 and semiconductor fabrication.
+28 8. Development that occurs over state trust lands that contain
+29 minerals permanently locks away those minerals, preventing the minerals
+30 from being extracted and permanently foreclosing their revenues from
+31 accruing to the trust.
+32 9. Mineral extraction is subject to reclamation plans that restore
+33 the land to usable condition, and this makes the land usable for other
+34 commercial uses when mining is completed.
+35 10. While the legislature has granted discretionary authority to
+36 the state land commissioner, the legislature intends that the state land
+37 department's processes and procedures are transparent and consistent with
+38 the manner that the legislature has prescribed for the disposition and
+39 management of state trust lands.
+40 11. This act is necessary to ensure the best interest of the state
+41 land trust, the state land beneficiaries and this state.]
+42 <<Sec. 29. Initial terms of members of state land oversight board
+43 A. Notwithstanding section 37-111, Arizona Revised Statutes, as
+44 added by this act, the initial terms of members are:
+45 1. For three members from a county with a population of four
+46 hundred thousand persons or more, three terms ending January 31, 2030.
+-37-
+
+House Amendments to S.B. 1336
+1 2. For three members from a county with a population of less than
+2 four hundred thousand persons and one member who specializes in finance or
+3 statewide water needs, four terms ending January 31, 2032.
+4 B. For the initial term, the president of the senate and the
+5 minority leader of the senate shall appoint first, the governor shall
+6 appoint second and the speaker of the house of representatives and the
+7 minority leader of the house of representatives shall appoint third.
+8 C. The appropriate appointing authority shall make all subsequent
+9 appointments as prescribed by statute.>>
+10 Sec. 30. Purpose
+11 Pursuant to section 41–2955, subsection B, Arizona Revised Statutes,
+12 the legislature continues the state land department to have [charge of and
+13 control] [primary oversight] over all lands owned by this state [and the
+14 timber, stone and gravel and other products of state land], except lands
+15 under the specific use and control of state institutions [and the products
+16 of that land], [and the resources in and on those lands and to regulate
+17 the use of and access to those lands and resources] as prescribed by the
+18 enabling act, the Constitution of Arizona and state law and to perform
+19 such other functions [in compliance with and] as prescribed by law.
+20 Sec. 31. Retroactivity
+21 Section 41-3026.05, Arizona Revised Statutes, as repealed by this
+22 act, and section 41-3030.19, Arizona Revised Statutes, as added by this
+23 act, apply retroactively to from and after July 1, 2026.
+24 Enroll and engross to conform
+25 Amend title to conform
+GAIL GRIFFIN
+1336FloorGRIFFIN1.docx
+06/11/2026
+8:47 AM
+C: CT
+130AHEHWE
+-38-

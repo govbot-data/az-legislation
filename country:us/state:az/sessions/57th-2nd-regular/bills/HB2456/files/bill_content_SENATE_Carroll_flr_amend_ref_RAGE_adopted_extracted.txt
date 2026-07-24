@@ -1,0 +1,361 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Carroll flr amend (ref RAGE) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2456
+Carroll Floor Amendment
+Reference to: REGULATORY AFFAIRS AND
+GOVERNMENT EFFICIENCY S/E Committee amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Requires an applicant for a certificate environmental compatibility for a plant that is a nuclear
+generating unit to make an effort to prioritize the siting and development of the nuclear generating
+unit at a site that is located in or near a nuclear-ready community.
+2. Requires the application, if the application for a certificate of environmental compatibility is for a
+site that is not located in or near a nuclear-ready community, to describe each nuclear-ready
+community the applicant considered for siting and development of the plant and explain why the
+applicant did not select a site that is located in or near a nuclear-ready community.
+3. Specifies that the applicant's selection of a site for the siting and development of a nuclear
+generating unit that is not located in or near a nuclear-ready community does not automatically
+disqualify the site for a certificate of environmental compatibility.
+4. Requires the Power Plant and Transmission Line Siting Committee, when evaluating the suitability
+of a site for a plant that is a nuclear generating unit, to consider, as evidence of the site's suitability
+for the plant, the content of all resolutions:
+a) a nuclear-ready community has adopted; or
+b) the county board of supervisors has adopted on behalf of a nuclear-ready community if the
+nuclear-ready community is an unincorporated census-designated place.
+5. Requires the Arizona Commerce Authority (ACA), in consultation with the Arizona Corporation
+Commission, to develop and adopt criteria for awarding a nuclear-ready community designation
+to a community that demonstrates that the community is willing and ready for the siting and
+development of a nuclear generating unit in or near the community.
+6. Outlines the criteria for a nuclear-ready community designation.
+7. Defines a nuclear-ready community as a city, town or unincorporated census-designated place that
+has been awarded a nuclear-ready community designation by the ACA.
+8. Makes technical changes.
+Amendment explanation prepared by Nicholas Gustoff
+04/13/2026
+
+Fifty-seventh Legislature Carroll
+Second Regular Session H.B. 2456
+CARROLL FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2456
+(Reference to REGULATORY AFFAIRS AND GOVERNMENT EFFICIENCY S/E Committee amendment)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Strike everything after the enacting clause and insert:
+3 "Section 1. Section 11-804, Arizona Revised Statutes, is amended to
+4 read:
+5 11-804. Comprehensive plan; contents
+6 A. The commission shall formulate and the board of supervisors
+7 shall adopt or readopt a long-term comprehensive plan for the development
+8 of the area of jurisdiction in the manner prescribed by this article. The
+9 comprehensive plan, with the accompanying maps, plats, charts and
+10 descriptive matter, shall show the commission's recommendations for the
+11 development of the area of jurisdiction. The comprehensive plan shall be
+12 made with the general purpose of guiding and accomplishing a coordinated,
+13 adjusted and harmonious development of the area of jurisdiction pursuant
+14 to the present and future needs of the county. The comprehensive plan
+15 shall be developed so as to conserve the natural resources of the county,
+16 to ensure efficient expenditure of public monies and to promote the
+17 health, safety, convenience and general welfare of the public. The
+18 comprehensive plan may include studies and recommendations relative to the
+19 location, character and extent of highways, railroads, bus and other
+20 transportation routes, bicycle facilities, bridges, public buildings,
+21 public services, schools, parks, open space, housing quality, variety and
+22 affordability, parkways, hiking and riding trails, airports, forests,
+23 wildlife areas, dams, projects affecting conservation of natural
+24 resources, air quality, water quality, and floodplain zoning AND ELECTRIC
+25 POWER PRODUCTION AND DEMAND, INCLUDING SMALL MODULAR REACTORS AND DATA
+26 CENTERS. In the preparation of the comprehensive plan, the commission
+27 shall make surveys and studies of the present conditions and prospective
+28 future growth of the area of the jurisdiction. The comprehensive plan
+
+Senate Amendments to H.B. 2456
+1 shall be a public record, but its purpose and effect shall be primarily as
+2 an aid to the county planning and zoning commission and to the board of
+3 supervisors in the performance of their duties. The comprehensive plan
+4 shall include provisions that identify changes or modifications that
+5 constitute amendments and major amendments to the plan.
+6 B. In addition to the other matters that are required or authorized
+7 under this section and this article, for counties with a population of
+8 more than one hundred twenty-five thousand persons, the comprehensive plan
+9 shall include, and for other counties the comprehensive plan may include:
+10 1. Planning for land use that designates the proposed general
+11 distribution and location and extent of uses of the land for housing,
+12 business, industry, ENERGY, MINING, agriculture, recreation, education,
+13 public buildings and grounds, open space and other categories of public
+14 and private uses of land appropriate to the county. The land use plan
+15 shall include:
+16 (a) A statement of the standards of population density and building
+17 intensity recommended for the various land use categories covered by the
+18 plan.
+19 (b) Specific programs and policies that the county may use to
+20 promote compact form development activity and locations where those
+21 development patterns should be encouraged.
+22 (c) Consideration of air quality and access to incident solar
+23 energy for all general categories of land use.
+24 (d) Policies that address maintaining a broad variety of land uses,
+25 including the range of uses existing in the county at the time the plan is
+26 adopted, readopted or amended.
+27 (e) Currently identified sources of aggregates from maps that are
+28 available from state agencies, information from the Arizona geological
+29 survey on how to locate existing mines, consideration of existing mining
+30 operations and suitable geologic resources, policies to preserve currently
+31 identified aggregates sufficient for future development and policies to
+32 avoid incompatible land uses, except that this subdivision does not affect
+33 any permitted underground storage facility or limit any person's right to
+34 obtain a permit for an underground storage facility pursuant to title 45,
+35 chapter 3.1.
+36 (f) DESIGNATION OF THE PROPOSED GENERAL DISTRIBUTION, LOCATION AND
+37 EXTENT OF THE USES OF THE LAND FOR THE CONSTRUCTION AND OPERATION OF EXTRA
+38 HIGH LOAD FACTOR CUSTOMERS, INCLUDING DATA CENTERS AND DATA CENTER
+39 FACILITIES THAT ARE APPROPRIATE TO THE COUNTY.
+40 2. Planning for circulation consisting of the general location and
+41 extent of existing and proposed freeways, arterial and collector streets,
+42 bicycle routes and any other modes of transportation as may be
+43 appropriate, all correlated with the land use plan under paragraph 1 of
+44 this subsection.
+45 3. Planning for water resources that addresses:
+46 (a) The known legally and physically available surface water,
+47 groundwater and effluent supplies.
+48 (b) The demand for water that will result from future growth
+49 projected in the comprehensive plan, added to existing uses.
+-2-
+
+Senate Amendments to H.B. 2456
+1 (c) An analysis of how the demand for water that will result from
+2 future growth projected in the comprehensive plan will be served by the
+3 water supplies identified in subdivision (a) of this paragraph or a plan
+4 to obtain additional necessary water supplies.
+5 4. Planning for energy use that:
+6 (a) Encourages and provides incentives for efficient use of energy.
+7 (b) Identifies policies and practices for greater use of renewable
+8 energy.
+9 (b) DESIGNATES [OF] THE PROPOSED GENERAL DISTRIBUTION, LOCATION AND
+10 EXTENT OF THE USES OF THE LAND FOR CONSTRUCTION AND OPERATION OF THERMAL
+11 AND NONTHERMAL ELECTRIC GENERATING UNITS APPROPRIATE TO THE COUNTY,
+12 INCLUDING SMALL MODULAR REACTORS.
+13 C. In addition to the other matters that are required or authorized
+14 under this section and this article, for counties with a population of
+15 more than two hundred thousand persons, the comprehensive plan shall
+16 include, and for other counties the comprehensive plan may include:
+17 1. Planning for open space acquisition and preservation. The open
+18 space plan shall include:
+19 (a) A comprehensive inventory of open space areas, recreational
+20 resources and designations of access points to open space areas and
+21 resources.
+22 (b) An analysis of forecasted needs, policies for managing and
+23 protecting open space areas and resources and implementation strategies to
+24 acquire additional open space areas and further establish recreational
+25 resources.
+26 (c) Policies and implementation strategies designed to promote a
+27 regional system of integrated open space and recreational resources and a
+28 consideration of any existing regional open space plan.
+29 2. Planning for growth areas, specifically identifying those areas,
+30 if any, that are particularly suitable for planned multimodal
+31 transportation and infrastructure expansion and improvements designed to
+32 support a planned concentration of a variety of uses, such as residential,
+33 office, commercial, tourism and industrial uses. The mixed use planning
+34 shall include policies and implementation strategies that are designed to:
+35 (a) Make automobile, transit and other multimodal circulation more
+36 efficient, make infrastructure expansion more economical and provide for a
+37 rational pattern of land development.
+38 (b) Conserve significant natural resources and open areas in the
+39 growth area and coordinate their location to similar areas outside the
+40 growth area's boundaries.
+41 (c) Promote the public and private construction of timely and
+42 financially sound infrastructure expansion through the use of
+43 infrastructure funding and financing planning that is coordinated with
+44 development activity.
+45 3. An environmental planning element that contains analyses,
+46 policies and strategies to address anticipated effects, if any, of plan
+47 elements on air quality, water quality and natural resources associated
+48 with proposed development under the comprehensive plan. The policies and
+49 strategies to be developed under this element shall be designed to have
+-3-
+
+Senate Amendments to H.B. 2456
+1 countywide applicability and shall not require the production of an
+2 additional environmental impact statement or similar analysis beyond the
+3 requirements of state and federal law.
+4 4. A cost of development element that identifies policies and
+5 strategies that the county will use to require development to pay its fair
+6 share toward the cost of additional public facility needs generated by new
+7 development, with appropriate exceptions when in the public interest.
+8 This element shall include:
+9 (a) A component that identifies various mechanisms that are allowed
+10 by law and that can be used to fund and finance additional public services
+11 necessary to serve the development, including bonding, special taxing
+12 districts, development fees, in lieu fees and facility construction,
+13 dedications and privatization.
+14 (b) A component that identifies policies to ensure that any
+15 mechanisms that are adopted by the county under this element result in a
+16 beneficial use to the development, bear a reasonable relationship to the
+17 burden imposed on the county to provide additional necessary public
+18 facilities to the development and otherwise are imposed pursuant to law.
+19 D. The water resources element of the comprehensive plan does not
+20 require:
+21 1. New independent hydrogeologic studies.
+22 2. The county to be a water service provider.
+23 E. In applying an open space element or a growth element of a
+24 comprehensive plan, a county shall not designate private or state land as
+25 open space, recreation, conservation or agriculture unless the county
+26 receives the written consent of the landowner or provides an alternative,
+27 economically viable designation in the comprehensive plan or zoning
+28 ordinance, allowing at least one residential dwelling per acre. If the
+29 landowner is the prevailing party in any action brought to enforce this
+30 subsection, a court shall award fees and other expenses to the landowner.
+31 Each county shall incorporate this subsection into its comprehensive plan
+32 and provide a process for a landowner to resolve discrepancies relating to
+33 this subsection.
+34 F. The policies and strategies to be developed under these elements
+35 shall be designed to have regional applicability.
+36 G. For counties with territory in the vicinity of a military
+37 airport or ancillary military facility as defined in section 28-8461, the
+38 commission shall also consider military airport or ancillary military
+39 facility operations and shall identify the boundaries of any high noise or
+40 accident potential zone as defined in section 28-8461 in its comprehensive
+41 plan for purposes of planning land uses in the high noise or accident
+42 potential zone that are compatible with the operation of the military
+43 airport or ancillary military facility pursuant to section 28-8481,
+44 subsection J.
+45 H. For a county that contains any portion of the influence area of
+46 a military installation or range or Arizona national guard site, the
+47 commission shall also consider respective installation, range or site
+48 operations and shall identify the influence area boundaries in its
+49 comprehensive plan for the purposes of planning land uses in the influence
+-4-
+
+Senate Amendments to H.B. 2456
+1 area that are compatible with the operation of the MILITARY
+2 installation, OR range or ARIZONA NATIONAL GUARD site. For the purposes
+3 of this subsection, "influence area" and "military installation or range
+4 or Arizona national guard site" have the same meanings prescribed in
+5 section 11-818.01.
+6 <<Sec. 2. Title 40, chapter 2, article 6.2, Arizona Revised
+7 Statutes, is amended by adding section 40-360.14, to read:
+8 40-360.14. Nuclear generating unit; nuclear-ready
+9 communities; preference; definition
+10 [A. NOTWITHSTANDING ANY OTHER LAW, AN APPLICANT FOR A CERTIFICATE
+11 OF ENVIRONMENTAL COMPATIBILITY FOR A PLANT THAT IS A NUCLEAR GENERATING
+12 UNIT SHALL MAKE AN EFFORT TO PRIORITIZE THE SITING AND DEVELOPMENT OF THE
+13 NUCLEAR GENERATING UNIT AT A SITE THAT IS LOCATED IN OR NEAR A NUCLEAR-
+14 READY COMMUNITY. IF THE APPLICATION FOR A CERTIFICATE OF ENVIRONMENTAL
+15 COMPATIBILITY IS FOR A SITE THAT IS NOT LOCATED IN OR NEAR A NUCLEAR-READY
+16 COMMUNITY, THE APPLICATION SHALL DESCRIBE EACH NUCLEAR-READY COMMUNITY THE
+17 APPLICANT CONSIDERED FOR SITING AND DEVELOPMENT OF THE PLANT AND EXPLAIN
+18 WHY THE APPLICANT DID NOT SELECT A SITE THAT IS LOCATED IN OR NEAR A
+19 NUCLEAR-READY COMMUNITY. THE APPLICANT'S SELECTION OF A SITE FOR THE
+20 SITING AND DEVELOPMENT OF A NUCLEAR GENERATING UNIT THAT IS NOT LOCATED IN
+21 OR NEAR A NUCLEAR-READY COMMUNITY DOES NOT AUTOMATICALLY DISQUALIFY THE
+22 SITE FOR A CERTIFICATE OF ENVIRONMENTAL COMPATIBILITY.
+23 B. NOTWITHSTANDING SECTION 40-360.06, WHEN EVALUATING THE
+24 SUITABILITY OF A SITE FOR A PLANT THAT IS A NUCLEAR GENERATING UNIT, THE
+25 COMMITTEE SHALL CONSIDER, AS EVIDENCE OF THE SITE'S SUITABILITY FOR THE
+26 PLANT, THE CONTENT OF ALL RESOLUTIONS A NUCLEAR-READY COMMUNITY HAS
+27 ADOPTED PURSUANT TO SECTION 41-1530 OR; IF THE NUCLEAR-READY COMMUNITY IS
+28 AN UNINCORPORATED CENSUS-DESIGNATED PLACE, THE CONTENT OF ALL RESOLUTIONS
+29 THE COUNTY BOARD OF SUPERVISORS HAS ADOPTED ON BEHALF OF A NUCLEAR-READY
+30 COMMUNITY PURSUANT TO SECTION 41-1530.
+31 C. FOR THE PURPOSES OF THIS SECTION, "NUCLEAR-READY COMMUNITY" MEANS
+32 A CITY, TOWN OR UNINCORPORATED CENSUS-DESIGNATED PLACE THAT HAS BEEN
+33 AWARDED A NUCLEAR-READY COMMUNITY DESIGNATION BY THE ARIZONA COMMERCE
+34 AUTHORITY PURSUANT TO SECTION 41-1530.]>>
+35 <<Sec. 3. Title 41, chapter 10, article 1, Arizona Revised
+36 Statutes, is amended by adding section 41-1530, to read:
+37 41-1530. Nuclear-ready community designation; criteria;
+38 application; process; award; definition
+39 [A. THE AUTHORITY, IN CONSULTATION WITH THE CORPORATION COMMISSION,
+40 SHALL DEVELOP AND ADOPT CRITERIA FOR AWARDING A NUCLEAR-READY COMMUNITY
+41 DESIGNATION TO A COMMUNITY THAT DEMONSTRATES THAT THE COMMUNITY IS WILLING
+42 AND READY FOR THE SITING AND DEVELOPMENT OF A NUCLEAR GENERATING UNIT IN
+43 OR NEAR THE COMMUNITY. THE CRITERIA TO ATTAIN A NUCLEAR-READY COMMUNITY
+44 DESIGNATION MUST INCLUDE ALL OF THE FOLLOWING:
+45 1. THE COMMUNITY HOLDING LOCAL PUBLIC EDUCATIONAL MEETINGS TO
+46 EDUCATE RESIDENTS AND PROPERTY OWNERS IN AND AROUND THE COMMUNITY ON
+47 NUCLEAR ENERGY TECHNOLOGIES, THE NUCLEAR ENERGY ECOSYSTEM AND THE ROLE
+48 THAT NUCLEAR ENERGY-RELATED DEVELOPMENT COULD PLAY IN THE COMMUNITY.
+-5-
+
+Senate Amendments to H.B. 2456
+1 2. THE AVAILABILITY OF ONE OR MORE SITES IN OR AROUND THE COMMUNITY
+2 THAT MAY BE SUITABLE FOR THE SITING AND DEVELOPMENT OF A NUCLEAR
+3 GENERATING UNIT.
+4 3. IF THE COMMUNITY IS A MUNICIPALITY, THE MUNICIPALITY'S GOVERNING
+5 BODY ADOPTING A RESOLUTION THAT DECLARES THAT THE COMMUNITY IS WILLING AND
+6 READY FOR THE SITING AND DEVELOPMENT OF A NUCLEAR GENERATING UNIT IN OR
+7 NEAR THE COMMUNITY OR; IF THE COMMUNITY IS AN UNINCORPORATED
+8 CENSUS-DESIGNATED PLACE, THE ADOPTION OF A RESOLUTION BY THE BOARD OF
+9 SUPERVISORS OF THE COUNTY WHERE THE UNINCORPORATED CENSUS DESIGNATED PLACE
+10 IS LOCATED ADOPTING A RESOLUTION THAT DECLARES THAT THE COMMUNITY IS
+11 WILLING AND READY FOR THE SITING AND DEVELOPMENT OF A NUCLEAR GENERATING
+12 STATION IN OR NEAR THE COMMUNITY AND INDICATING THE BOARD OF SUPERVISOR'S
+13 ENDORSEMENT OF THE COMMUNITY'S DECLARATION. THE RESOLUTION ADOPTED
+14 PURSUANT TO THIS PARAGRAPH MUST INCLUDE ALL OF THE FOLLOWING INFORMATION:
+15 (a) THE COMMUNITY'S WILLINGNESS AND READINESS TO FACILITATE THE
+16 APPLICATION FOR AND PROCUREMENT OF EARLY SITE PERMITS, CONSTRUCTION
+17 PERMITS OR COMBINED OPERATING LICENSES FROM THE UNITED STATES NUCLEAR
+18 REGULATORY COMMISSION FOR THE SITING AND DEVELOPMENT OF A NUCLEAR
+19 GENERATING UNIT IN OR NEAR THE COMMUNITY, INCLUDING, IF APPLICABLE, AN
+20 IDENTIFICATION OF THE PUBLIC, REGULATORY, PERMITTING OR INFRASTRUCTURE
+21 SUPPORT THE COMMUNITY IS WILLING AND READY TO PROVIDE.
+22 (b) THE IDENTIFICATION, LOCATION AND PREVIOUS USE OF EACH SITE IN
+23 OR NEAR THE COMMUNITY THAT THE COMMUNITY BELIEVES IS SUITABLE FOR THE
+24 SITING AND DEVELOPMENT OF A NUCLEAR GENERATING UNIT.
+25 (c) A DESCRIPTION OF THE ECONOMIC AND DEMOGRAPHIC CONDITION OF THE
+26 COMMUNITY AND, IF KNOWN, THE ECONOMIC IMPACT THAT THE SITING AND
+27 DEVELOPMENT OF A NUCLEAR GENERATING UNIT IN OR NEAR THE COMMUNITY WOULD
+28 HAVE ON THE COMMUNITY, INCLUDING ALL OF THE FOLLOWING:
+29 (i) THE NUMBER OF JOBS THAT COULD BE CREATED.
+30 (ii) THE AMOUNT OF INFRASTRUCTURE THAT COULD BE DEVELOPED.
+31 (iii) THE AMOUNT OF ADDITIONAL CAPITAL INVESTMENT THAT COULD BE
+32 MADE.
+33 (iv) THE AMOUNT OF ADDITIONAL PUBLIC REVENUES THAT COULD BE
+34 COLLECTED.
+35 (d) A STATEMENT INDICATING WHETHER THE COMMUNITY OR THE COMMUNITY'S
+36 RESIDENTS OR PROPERTY OWNERS HAVE OPPOSED OR REJECTED ANY MAJOR
+37 INFRASTRUCTURE PROJECTS OR EMPLOYERS IN THE LAST FIVE YEARS THAT SOUGHT TO
+38 LOCATE OR DEVELOP IN OR AROUND THE COMMUNITY AND, IF ANY WERE OPPOSED OR
+39 REJECTED, THE REASONS WHY THE COMMUNITY OR THE COMMUNITY'S RESIDENTS OR
+40 PROPERTY OWNERS OPPOSED OR REJECTED THE PROJECT OR EMPLOYER.
+41 B. THE GOVERNING BODY OF A MUNICIPALITY OR THE COUNTY BOARD OF
+42 SUPERVISORS ON BEHALF OF AN UNINCORPORATED CENSUS-DESIGNATED PLACE MAY
+43 VOLUNTARILY APPLY TO THE AUTHORITY FOR A NUCLEAR-READY COMMUNITY
+44 DESIGNATION IN THE FORM AND MANNER PRESCRIBED BY THE AUTHORITY. THE
+45 AUTHORITY SHALL EVALUATE THE APPLICATION AND AWARD THE DESIGNATION BASED
+46 ON THE CRITERIA ESTABLISHED PURSUANT TO SUBSECTION A OF THIS SECTION.
+47 C. FOR THE PURPOSES OF THIS SECTION, "COMMUNITY" MEANS A
+48 MUNICIPALITY OR AN UNINCORPORATED CENSUS DESIGNATED AREA.]>>
+-6-
+
+Senate Amendments to H.B. 2456
+1 Sec. 4. Comprehensive plans; amendment; counties
+2 Each county that meets the population threshold prescribed by
+3 section 11-804, subsection B, Arizona Revised Statutes, as amended by this
+4 act, shall amend the county's comprehensive plan pursuant to section
+5 11-805, Arizona Revised Statutes, to comply with the requirements of
+6 section 11-804, Arizona Revised Statutes, as amended by this act, within
+7 four years of the effective date of this act."
+8 Enroll and engross to conform
+9 Amend title to conform
+FRANK CARROLL
+2456FloorCARROLL.docx
+04/10/2026
+9:27 AM
+C: LAT
+130SVSQVH
+-7-

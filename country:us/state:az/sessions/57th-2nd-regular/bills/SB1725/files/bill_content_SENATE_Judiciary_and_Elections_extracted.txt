@@ -1,0 +1,186 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Judiciary and Elections
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Judiciary and Elections
+Second Regular Session S.B. 1725
+COMMITTEE ON JUDICIARY AND ELECTIONS
+SENATE AMENDMENTS TO S.B. 1725
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 12-991, Arizona Revised Statutes, is amended
+3 to read:
+4 12-991. Nuisance; applicability; residential property used
+5 for crime; action to abate and prevent; notice;
+6 definitions
+7 A. Residential property that is regularly used in the commission of
+8 a crime is a nuisance, and the criminal activity causing the nuisance
+9 shall be enjoined, abated and prevented.
+10 B. If there is reason to believe that a nuisance as described in
+11 subsection A of this section exists, the attorney general, the county
+12 attorney, the city attorney, an association of homeowners or property
+13 owners established by a recorded contract or other declaration, including
+14 a condominium association as defined in section 33-1202 and a planned
+15 community association as defined in section 33-1802, or a resident of a
+16 county or city who is affected by the nuisance may bring an action in
+17 superior court against the owner, the owner's managing agent or any other
+18 party responsible for the property to abate and prevent the criminal
+19 activity.
+20 C. The court shall not assess a civil penalty against any person
+21 unless that person knew or had reason to know of the criminal activity.
+22 D. An injunction that is ordered pursuant to this article shall be
+23 necessary to protect the health and safety of the public or prevent
+24 further criminal activity.
+25 E. An order shall not affect the owner's interest in the property
+26 unless all of the following apply:
+27 1. The owner is a defendant in the action.
+28 2. The owner knew of the criminal activity.
+
+Senate Amendments to S.B. 1725
+1 3. The owner failed to take reasonable, legally available actions
+2 to abate the nuisance.
+3 F. If the owner, the owner's managing agent or the party
+4 responsible for the property knows or has reason to know of the criminal
+5 activity and fails to take reasonable, legally available actions to abate
+6 the nuisance, a governmental authority may abate the nuisance. The court
+7 may assess the owner for the cost of abating the nuisance. On recording
+8 with the county recorder in the county in which the property is located,
+9 the assessment is prior to all other liens, obligations or encumbrances
+10 except for prior recorded mortgages, restitution liens, child support
+11 liens and general tax liens. A city, town or county may bring an action
+12 to enforce the assessment in the superior court in the county in which the
+13 property is located.
+14 G. For purposes of this section, an owner, the owner's managing
+15 agent or the party responsible for the property is deemed to know or have
+16 reason to know of the nuisance if the owner, the owner's managing agent or
+17 the party responsible for the property has received notice from a
+18 governmental authority of documented reports of criminal offenses
+19 occurring on the residential property.
+20 H. A law enforcement agency, a city attorney, a county attorney,
+21 the attorney general or any other person who is at least twenty-one years
+22 of age may serve the notice provided for in subsection G of this section,
+23 either personally or by certified mail. If personal service or service by
+24 certified mail cannot be completed or the address of the person to be
+25 notified is unknown, notice may be served by publishing the notice three
+26 times within ten consecutive days in a newspaper of general circulation in
+27 the county in which the property is located. In all cases a copy of the
+28 notice shall be posted on the premises where the nuisance exists.
+29 I. The notice shall be printed in at least twelve-point type in
+30 substantially the following form:
+31 Notice
+32 This is formal notice that the property at (insert
+33 address and unit number if applicable) has had (insert number
+34 of) arrests or (insert number of) documented reports of
+35 alleged criminal activity and is considered a nuisance under
+36 section 12-991, Arizona Revised Statutes. A copy of the
+37 police report numbers is attached. Police reports are
+38 available at (insert applicable police agency).
+39 Within five business days you must begin to take action
+40 that is legally available to you to abate the nuisance from
+41 the property. If you fail to do so, a restraining order to
+42 abate and prevent continuing or recurring criminal activity
+43 will be pursued.
+44 If you fail to cooperate to abate the nuisance, the
+45 appropriate authorities will abate the nuisance and their
+46 costs will be a lien on the property.
+-2-
+
+Senate Amendments to S.B. 1725
+1 You may contact (local agency) in order to obtain
+2 information on how to abate the nuisance.
+3 J. For the purposes of this article:
+4 1. "CRIME" INCLUDES THE CREATION OF EXCESSIVE MARIJUANA SMOKE AND
+5 ODOR.
+6 1. 2. "Owner" means a person or persons or a legal entity listed
+7 as the current title holder as recorded in the official records of the
+8 county recorder in the county in which the title is recorded.
+9 2. 3. "Owner's managing agent" means a person, corporation,
+10 partnership or limited liability company that is authorized by the owner
+11 to operate and manage the property.>>
+12 <<Section 1. Section 13-2901, Arizona Revised Statutes, is amended
+13 to read:
+14 13-2901. Definitions
+15 In this chapter, unless the context otherwise requires:
+16 1. ["EXCESSIVE MARIJUANA SMOKE OR ODOR" MEANS MARIJUANA SMOKE OR
+17 ODOR THAT IS CAPABLE OF BEING DETECTED BY A PERSON ON THE PRIVATE PROPERTY
+18 OF ANOTHER PERSON.
+19 2.] "Marijuana"[:
+20 (a)] Means all parts of any plant of the genus cannabis[,] from
+21 which the resin has not been extracted, whether growing or not, and the
+22 seeds of such [A] plant. [Marijuana]
+23 [(b)] Does not include the mature stalks of such [A] plant[,] or
+24 the sterilized seed of such [A] plant [which] [THAT] is incapable of
+25 germination.
+26 [2.] [3.] "Public" means affecting or likely to affect a
+27 substantial group of persons.>>
+28 Sec. 2. Section 13-2908, Arizona Revised Statutes, is amended to
+29 read:
+30 13-2908. Criminal nuisance; presumption; classification
+31 A. A person commits criminal nuisance:
+32 1. If, by conduct either unlawful in itself or unreasonable under
+33 the circumstances, such THE person recklessly creates or maintains a
+34 condition which THAT endangers the safety or health of others.
+35 2. By knowingly conducting or maintaining any premises, place or
+36 resort where persons gather for purposes of engaging in unlawful conduct.
+37 B. IT IS PRESUMED THAT A PERSON WHO CREATES EXCESSIVE MARIJUANA
+38 SMOKE [AND] [OR] ODOR CAUSES A CONDITION THAT ENDANGERS THE SAFETY OR
+39 HEALTH OF OTHERS.
+40 B. C. Criminal nuisance is a class 3 misdemeanor.
+41 Sec. 3. Section 13-2917, Arizona Revised Statutes, is amended to
+42 read:
+43 13-2917. Public nuisance; abatement; presumption;
+44 classification
+45 A. It is a public nuisance, and is no less a nuisance because the
+46 extent of the annoyance or damage inflicted is unequal, for anything:
+-3-
+
+Senate Amendments to S.B. 1725
+1 1. To be injurious to health, indecent, offensive to the senses or
+2 an obstruction to the free use of property that interferes with the
+3 comfortable enjoyment of life or property by an entire community or
+4 neighborhood or by a considerable number of persons.
+5 2. To unlawfully obstruct the free passage or use, in the customary
+6 manner, of any navigable lake, river, bay, stream, canal or basin, or any
+7 public park, square, street or highway.
+8 B. It is a public nuisance for any person to sell, offer to sell,
+9 transfer, trade or disseminate any OBSCENE item which is obscene as
+10 defined in section 13-3501, within two thousand feet, measured in a
+11 straight line, of the nearest boundary line of any of the following:
+12 1. Any building used as a private or public elementary or high
+13 school.
+14 2. Any public park.
+15 3. Any residence district as defined in section 28-101.
+16 C. The county attorney, the attorney general or the city attorney
+17 may bring an action in superior court to abate, enjoin and prevent the
+18 activity described in subsections A and B of this section.
+19 D. IT IS PRESUMED THAT THE CREATION OF EXCESSIVE MARIJUANA SMOKE
+20 [AND] [OR] ODOR IS INJURIOUS TO HEALTH, INDECENT, OFFENSIVE TO THE SENSES
+21 AND AN OBSTRUCTION TO THE FREE USE OF PROPERTY THAT INTERFERES WITH THE
+22 COMFORTABLE ENJOYMENT OF LIFE OR PROPERTY AND IS A PUBLIC NUISANCE.
+23 D. E. Any person who knowingly maintains or commits a public
+24 nuisance or who knowingly fails or refuses to perform any legal duty
+25 relating to the removal of a public nuisance is guilty of a class 2
+26 misdemeanor.
+27 Enroll and engross to conform
+28 Amend title to conform
+1725JUDE.docx
+02/19/2026
+4:05 PM
+C: CT
+130GWOHAS
+-4-

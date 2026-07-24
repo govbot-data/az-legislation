@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Health and Human Services - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Health and Human Services
+Second Regular Session H.B. 2932
+COMMITTEE ON HEALTH AND HUMAN SERVICES
+SENATE AMENDMENTS TO H.B. 2932
+(Reference to House engrossed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Title 36, chapter 29, article 1, Arizona Revised
+3 Statutes, is amended by adding section 36-2905.05, to read:
+4 36-2905.05. Contractors; reimbursement; noncontracting
+5 providers; prohibitions
+6 A. NOTWITHSTANDING ANY OTHER LAW TO THE CONTRARY:
+7 1. A CONTRACTOR SHALL REIMBURSE A NONCONTRACTING PROVIDER FOR
+8 LABORATORY SERVICES RENDERED TO A MEMBER WHO IS ENROLLED WITH THE
+9 CONTRACTOR IF THE MEMBER WAS REFERRED BY A CONTRACTED PROVIDER OF THE
+10 CONTRACTOR AT A RATE THAT IS NOT MORE THAN THE RATE THAT WOULD BE
+11 REIMBURSED TO A CONTRACTING PROVIDER.
+12 2. A CONTRACTOR MAY NOT REQUIRE PRIOR AUTHORIZATION FOR DIAGNOSTIC
+13 SERVICES.
+14 B. A CONTRACTOR MAY NOT TAKE OR THREATEN TO TAKE RETALIATORY ACTION
+15 AGAINST A CONTRACTED PROVIDER FOR REFERRING A MEMBER TO A NONCONTRACTED
+16 PROVIDER.
+17 Sec. 2. Legislative intent
+18 The legislature intends to promote cost controls through competition
+19 and to avoid monopolistic practices that interfere with the free market.
+20 Adequate oversight through rigorous audit practices is the alternative."
+21 Amend title to conform
+2932HHS.docx
+03/23/2026
+2:15 PM
+C: MH
+130TNJSCM

@@ -1,0 +1,1341 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Appropriations - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON APPROPRIATIONS
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1250
+(Reference to Senate engrossed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 34-101, Arizona Revised Statutes, is amended to
+3 read:
+4 34-101. Definitions
+5 In this title, unless the context otherwise requires:
+6 1. "Agent":
+7 (a) Means any county, city or town, or officer, board or commission
+8 of any county, city or town, and irrigation, power, electrical, drainage,
+9 flood protection and flood control districts, tax levying public
+10 improvement districts and county or city improvement districts.
+11 (b) Includes any county board of supervisors and any representative
+12 authorized by an agent to act as an agent for the purpose of authorizing
+13 necessary change orders to previously awarded contracts in accordance with
+14 guidelines established by rule of the agent, including the board of
+15 supervisors.
+16 2. "Architect services" means those professional architect services
+17 that are within the scope of architectural practice as provided in title
+18 32, chapter 1.
+19 3. "Construction":
+20 (a) Means the process of building, altering, repairing, improving
+21 or demolishing any public structure or building or other public
+22 improvements of any kind to any public real property.
+23 (b) Does not include the routine operation, routine repair or
+24 routine maintenance of existing facilities, structures, buildings or real
+25 property.
+26 4. "Construction-manager-at-risk" means a project delivery method
+27 in which:
+28 (a) There is a separate contract for design services and a separate
+29 contract for construction services, except that instead of a single
+30 contract for construction services, the agent may elect separate contracts
+31 for preconstruction services during the design phase, for construction
+32 during the construction phase and for any other construction services.
+33 (b) The contract for construction services may be entered into at
+34 the same time as the contract for design services or at a later time.
+35 (c) Design and construction of the project may be either:
+36 (i) Sequential with the entire design complete before construction
+37 commences.
+
+House Amendments to S.B. 1250
+1 (ii) Concurrent with the design produced in two or more phases and
+2 construction of some phases commencing before the entire design is
+3 complete.
+4 (d) Finance services, maintenance services, operations services,
+5 preconstruction services and other related services may be included.
+6 5. "Construction services" means either of the following for
+7 construction-manager-at-risk, design-build and job-order-contracting
+8 project delivery methods:
+9 (a) Construction, excluding services, through the
+10 construction-manager-at-risk or job-order-contracting project delivery
+11 methods.
+12 (b) A combination of construction and, as elected by the agent, one
+13 or more related services, such as finance services, maintenance services,
+14 operations services, design services and preconstruction services, as
+15 those services are authorized in the definitions of
+16 construction-manager-at-risk, design-build or job-order-contracting in
+17 this section.
+18 6. "Contract" means all types of agent agreements, regardless of
+19 what they are called, for the procurement of services pursuant to this
+20 title.
+21 7. "Contractor" means any person who has a contract with an agent.
+22 8. "Design-bid-build" means a project delivery method in which:
+23 (a) There is a sequential award of two separate contracts.
+24 (b) The first contract is for design services.
+25 (c) The second contract is for construction.
+26 (d) Design and construction of the project are in sequential
+27 phases.
+28 (e) Finance services, maintenance services and operations services
+29 are not included.
+30 9. "Design-build" means a project delivery method in which:
+31 (a) There is a single contract for design services and construction
+32 services, except that instead of a single contract for design services and
+33 construction services, the agent may elect separate contracts for
+34 preconstruction services and design services during the design phase, for
+35 construction and design services during the construction phase and for any
+36 other construction services.
+37 (b) Design and construction of the project may be either:
+38 (i) Sequential with the entire design complete before construction
+39 commences.
+40 (ii) Concurrent with the design produced in two or more phases and
+41 construction of some phases commencing before the entire design is
+42 complete.
+43 (c) Finance services, maintenance services, operations services,
+44 preconstruction services and other related services may be included.
+45 10. "Design professional" means an individual or firm that is
+46 registered by the state board of technical registration pursuant to title
+47 32, chapter 1 to practice architecture, engineering, geology, landscape
+-2-
+
+House Amendments to S.B. 1250
+1 architecture or land surveying or any combination of those professions and
+2 persons employed by the registered individual or firm.
+3 11. "Design requirements":
+4 (a) Means at a minimum the agent's written description of the
+5 project or service to be procured, including:
+6 (i) The required features, functions, characteristics, qualities
+7 and properties.
+8 (ii) The anticipated schedule, including start, duration and
+9 completion.
+10 (iii) The estimated budgets applicable to the specific procurement
+11 for design and construction and, if applicable, for operation and
+12 maintenance.
+13 (b) May include:
+14 (i) Drawings and other documents illustrating the scale and
+15 relationship of the features, functions and characteristics of the
+16 project, which shall all be prepared by a design professional who is
+17 registered pursuant to section 32-121.
+18 (ii) Additional design information or documents that the agent
+19 elects to include.
+20 12. "Design services" means architect services, engineer services
+21 or landscape architect services.
+22 13. "Direct selection" means the selection of a technical
+23 registrant without the requirement of advertising or the use of a current
+24 register.
+25 14. "Engineer services" means those professional engineer services
+26 that are within the scope of engineering practice as provided in title 32,
+27 chapter 1.
+28 15. "Finance services" means financing for a construction services
+29 project.
+30 16. "Horizontal construction" means construction of highways,
+31 roads, streets, PIPELINES, bridges, canals, floodways, earthen dams,
+32 landfills, light rail and airport runways, taxiways and aprons. For the
+33 purposes of this paragraph: ,
+34 (a) Light rail does not include any related rail stations,
+35 maintenance facilities or parking facilities.
+36 (b) PIPELINES DO NOT INCLUDE MUNICIPALLY OWNED NATURAL GAS
+37 PIPELINES, REGULATOR STATIONS FOR GAS PIPELINES, GATE STATIONS FOR GAS
+38 PIPELINES OR METER ASSEMBLIES FOR GAS PIPELINES.
+39 17. "Job-order-contracting" means a project delivery method in
+40 which:
+41 (a) The contract is a requirements contract for indefinite
+42 quantities of construction.
+43 (b) The construction to be performed is specified in job orders
+44 issued during the contract.
+45 (c) Finance services, maintenance services, operations services,
+46 preconstruction services, design services and other related services may
+47 be included.
+-3-
+
+House Amendments to S.B. 1250
+1 18. "Landscape architect services" means those professional
+2 landscape architect services that are within the scope of landscape
+3 architectural practice as provided in title 32, chapter 1.
+4 19. "Maintenance services" means routine maintenance, repair and
+5 replacement of existing facilities, structures, buildings or real
+6 property.
+7 20. "Materials":
+8 (a) Means all property, including equipment, supplies, printing,
+9 insurance and leases of property.
+10 (b) Does not include land, a permanent interest in land or real
+11 property or leasing space.
+12 21. "Operations services" means routine operation of existing
+13 facilities, structures, buildings or real property.
+14 22. "Person" means any corporation, business, individual, union,
+15 committee, club, other organization or group of individuals.
+16 23. "Preconstruction services" means services and other activities
+17 during the design phase.
+18 24. "Procurement":
+19 (a) Means buying, purchasing, renting, leasing or otherwise
+20 acquiring any materials, services, construction or construction services.
+21 (b) Includes all functions that pertain to obtaining any materials,
+22 services, construction or construction services, including description of
+23 requirements, selection and solicitation of sources, preparation and award
+24 of contract and all phases of contract administration.
+25 25. "Public competition" means a competitive procurement process
+26 pursuant to section 34-103, subsection G that includes advertising in a
+27 public newspaper and a qualification-based selection process.
+28 26. "Services":
+29 (a) Means the furnishing of labor, time or effort by a contractor
+30 or subcontractor that does not involve the delivery of a specific end
+31 product other than required reports and performance.
+32 (b) Does not include employment agreements or collective bargaining
+33 agreements.
+34 27. "Subcontractor" means a person who contracts to perform work or
+35 render service to a contractor or to another subcontractor as a part of a
+36 contract with an agent.
+37 28. "Technical registrant" means a person who provides any of the
+38 professional services listed in title 32, chapter 1.
+39 Sec. 2. Section 34-103, Arizona Revised Statutes, is amended to
+40 read:
+41 34-103. Employment of technical registrants for work on
+42 public buildings and structures; direct selection;
+43 final list selection; public competition
+44 A. An agent shall procure professional services from a technical
+45 registrant in the manner prescribed in chapter 6 of this title if the
+46 contract is for an amount of more than five hundred thousand dollars THE
+47 ADJUSTED AMOUNT PURSUANT TO SUBSECTION B OF THIS SECTION.
+-4-
+
+House Amendments to S.B. 1250
+1 B. An agent may procure professional services from a technical
+2 registrant in the manner prescribed in chapter 6 of this title or as
+3 prescribed in subsection D of this section if the contract is for an
+4 amount of five hundred thousand dollars $1,000,000 or less AND SHALL BE
+5 ADJUSTED BY THE ANNUAL PERCENTAGE CHANGE IN THE GDP PRICE DEFLATOR AS
+6 DEFINED IN SECTION 41-563.
+7 C. If authority is given by law to an agent to construct a building
+8 or structure, or additions to or alterations of existing buildings, the
+9 agent shall employ an architect or engineer, or both, as warranted by the
+10 type of construction, if the agent deems the work to be of a nature that
+11 requires such employment.
+12 D. An agent may employ a technical registrant by direct selection,
+13 by public competition pursuant to subsection G of this section or pursuant
+14 to subsections E and F of this section if the contract is for an amount of
+15 five hundred thousand dollars or less.
+16 E. The agent may elect to employ a technical registrant or
+17 technical registrants by encouraging persons or firms engaged in the
+18 lawful practice of the profession to submit annually a statement of
+19 qualifications and experience. If the agent elects to employ a technical
+20 registrant or technical registrants by this method, the agent shall
+21 initiate an appropriately qualified selection committee for each
+22 procurement, which may include one contract or multiple contracts, in
+23 accordance with rules adopted by the agent. The amount of each contract
+24 in a single procurement under this subsection and subsection F of this
+25 section shall not exceed the dollar amount limits in subsections B and D
+26 of this section. The selection committee shall evaluate current
+27 statements of qualifications and experience on file with the agent
+28 together with those that may be submitted by other persons or firms
+29 regarding the procurement. If possible and practicable, the selection
+30 committee shall conduct interviews regarding the procurement and the
+31 relative methods of furnishing the required services and, if possible,
+32 shall select, in order of preference and based on criteria established and
+33 published by the selection committee, one or more final lists of the
+34 persons or firms deemed to be the most qualified to provide the services
+35 required. The selection committee shall base the selection of each final
+36 list and the order of preference on each final list on demonstrated
+37 competence and qualifications only. The agent and the selection committee
+38 shall not request or consider fees, price, man-hours or any other cost
+39 information at any point in the selection process under this subsection,
+40 including the selection of the persons or firms to be interviewed, the
+41 selection of the persons and firms to be on a final list, in determining
+42 the order of preference of persons and firms on a final list or for any
+43 other purpose in the selection process. If the procurement is for:
+44 1. A single contract or if the procurement is for multiple
+45 contracts to be awarded to a single person or firm, there shall be one
+46 final list of at least three but no more than five persons or firms.
+-5-
+
+House Amendments to S.B. 1250
+1 2. Multiple contracts for different technical registrant services
+2 to be awarded to separate persons or firms, there shall be a separate
+3 final list for each type of technical registrant services and the number
+4 of persons or firms on each final list shall be the number of contracts
+5 for each type of technical registrant service plus another number that is
+6 determined by the agent and that is not more than five.
+7 3. Multiple contracts for similar technical registrant services to
+8 be awarded to separate persons or firms, there shall be one final list and
+9 the number of persons or firms on the final list shall be the number of
+10 contracts plus another number that is determined by the agent and that is
+11 not more than five.
+12 F. After each final list is selected pursuant to subsection E of
+13 this section, the agent shall enter into negotiations with the highest
+14 qualified person or firm on each final list or, in the case of a final
+15 list for multiple contracts to be awarded to separate persons or firms,
+16 the agent shall enter into negotiations with a number of the highest
+17 qualified persons or firms on a final list equal to the number of
+18 contracts that may or will be awarded. The negotiations shall include
+19 consideration of compensation and other contract terms that the agent
+20 determines to be fair and reasonable to the agent. In making this
+21 determination, the agent shall take into account the estimated value, the
+22 scope, the complexity and the nature of the professional services to be
+23 rendered. If the agent is not able to negotiate a satisfactory contract
+24 with a person or firm with which the agent is negotiating at a price and
+25 on other contract terms the agent determines to be fair and reasonable,
+26 the agent shall formally terminate negotiations with that person or firm.
+27 The agent may enter into negotiations with the next most qualified person
+28 or firm on the final list in sequence until an agreement is reached or a
+29 determination is made to reject all persons or firms on the final list.
+30 If the agent terminates negotiations with a person or firm on a final list
+31 and commences negotiations with another person or firm on a final list,
+32 the agent shall not in that procurement recommence negotiations or enter
+33 into the single contract or multiple contracts for the technical
+34 registrant services covered by that final list with any person or firm on
+35 that final list with whom the agent has terminated negotiations.
+36 G. If competitive designs are solicited, the agent shall publish
+37 notice of the competition at least thirty days before the date set for
+38 closing the competition. The notice shall include the following:
+39 1. The project title and description.
+40 2. The design and construction budget.
+41 3. The competitive process and criteria to be used to select the
+42 winning offeror.
+43 4. The amount of the stipend to be paid to the unsuccessful
+44 offerors.
+45 5. The offerors' response date.
+46 6. The person to contact to obtain additional information regarding
+47 the competition.
+-6-
+
+House Amendments to S.B. 1250
+1 7. Any other requirements established by the agent as appropriate.
+2 Sec. 3. Section 34-603, Arizona Revised Statutes, is amended to
+3 read:
+4 34-603. Procurement of professional services and
+5 construction-manager-at-risk, design-build and
+6 job-order-contracting construction services;
+7 definition
+8 A. Except for services that are under a single contract and that an
+9 agent procures pursuant to section 34-103 or 34-606, an agent shall
+10 procure a single contract for the following services pursuant to this
+11 section:
+12 1. Architect services.
+13 2. Construction-manager-at-risk construction services.
+14 3. Design-build construction services.
+15 4. Engineer services.
+16 5. Job-order-contracting construction services.
+17 6. Landscape architect services.
+18 7. Assayer services.
+19 8. Geologist services.
+20 9. Land surveying services.
+21 10. PROGRAM MANAGEMENT SERVICES.
+22 11. PROJECT MANAGEMENT AND CONSTRUCTION MANAGEMENT SERVICES.
+23 12. LAND AND RIGHT-OF-WAY ACQUISITION SERVICES.
+24 B. An agent shall provide notice of each procurement of
+25 professional services or construction services specified in this section
+26 and shall award the single contract on the basis of demonstrated
+27 competence and qualifications for the type of professional services or
+28 construction services pursuant to the procedures prescribed in this
+29 section.
+30 C. In a procurement of a single contract for professional services
+31 or construction services pursuant to this section:
+32 1. The following requirements apply:
+33 (a) The agent and the selection committee shall not request or
+34 consider fees, price, man-hours or any other cost information at any point
+35 in the selection process under this subsection or under subsection D of
+36 this section, including the selection of persons or firms to be
+37 interviewed, the selection of persons or firms to be on the final list, in
+38 determining the order of preference of persons or firms on the final list
+39 or for any other purpose in the selection process.
+40 (b) In determining the persons or firms to participate in any
+41 interviews and in determining the persons and firms to be on the final
+42 list and their order on the final list, the selection committee shall use
+43 and shall consider only the criteria and weighting of criteria specified
+44 by the agent for that purpose as provided in this subsection. No other
+45 factors or criteria may be used in the evaluation, determinations and
+46 other actions.
+-7-
+
+House Amendments to S.B. 1250
+1 (c) An agent is limited to one contract in each procurement under
+2 this section. Alternatively:
+3 (i) For construction-manager-at-risk construction services, an
+4 agent may elect separate contracts for preconstruction services during the
+5 design phase, for construction during the construction phase and for any
+6 other construction services.
+7 (ii) For design-build construction services, an agent may elect
+8 separate contracts for preconstruction services and design services during
+9 the design phase, for construction and design services during the
+10 construction phase and for any other construction services.
+11 (iii) For professional services, an agent may enter into multiple
+12 contracts for different phases of a single project.
+13 (d) All construction-manager-at-risk construction services or
+14 design-build construction services included in a procurement under
+15 this section shall be limited to construction services to be performed at
+16 a single location, a common location or, if the construction services are
+17 all for a similar purpose, multiple locations. For
+18 construction-manager-at-risk construction services and design-build
+19 construction services to be performed at multiple locations:
+20 (i) At the time the request for qualifications is issued, the agent
+21 must intend to commence all construction at each location within thirty
+22 months after execution of the first contract for preconstruction services
+23 or other construction services at any of the locations.
+24 (ii) The request for qualifications must include the information
+25 described in paragraph 2, subdivision (g) of this subsection.
+26 (e) If the agent enters into the first contract for preconstruction
+27 services, construction services or professional services as the result of
+28 the procurement, the procurement under this section ends. After execution
+29 of that first contract the agent may not use the procurement or the
+30 existing final list in the procurement as the basis for entering into a
+31 contract with any other person or firm that participated in the
+32 procurement.
+33 (f) Notwithstanding any other provision of this section specifying
+34 the number of persons or firms to be interviewed, the number of persons or
+35 firms to be on a final list or any other numerical specification in this
+36 section:
+37 (i) If a smaller number of persons or firms respond to the request
+38 for qualifications or if one or more persons or firms drop out of the
+39 procurement so that there is a smaller number of persons or firms
+40 participating in the procurement, the agent may elect to proceed with the
+41 procurement with the participating persons or firms if there are at least
+42 two participating responsive and responsible persons or firms.
+43 Alternatively, the agent may elect to terminate the procurement.
+44 (ii) As to a request for qualifications for professional services
+45 or construction services to be negotiated pursuant to subsection E of this
+46 section only, if only one responsive and responsible person or firm
+47 responds to the request for qualifications or, if one or more persons or
+-8-
+
+House Amendments to S.B. 1250
+1 firms drop out of the procurement so that only one responsive and
+2 responsible person or firm remains in the procurement, the agent may elect
+3 to proceed with the procurement with only one person or firm if the agent
+4 determines in writing that the fee negotiated pursuant to subsection E of
+5 this section is fair and reasonable and that either other prospective
+6 persons or firms had reasonable opportunity to respond or there is not
+7 adequate time for a resolicitation.
+8 (iii) If a person or firm on the final list withdraws or is removed
+9 from the procurement and the selection committee determines that it is in
+10 the best interest of the agent, the selection committee may replace that
+11 person or firm on the final list with another person or firm that
+12 submitted qualifications in the procurement and that is selected by the
+13 selection committee as the next most qualified.
+14 2. An agent shall issue a request for qualifications for each
+15 procurement and publish notice of the request for qualifications. This
+16 notice shall be published by advertising in a newspaper of general
+17 circulation in the county in which the agent is located for two
+18 consecutive publications if it is a weekly newspaper or for two
+19 publications that are at least six but no more than ten days apart if it
+20 is a daily newspaper. The request for qualifications shall:
+21 (a) State that one contract may or will be awarded, describe the
+22 services to be performed under the contract and state that one person or
+23 firm may or will be awarded the contract.
+24 (b) In a procurement of a contract to be negotiated under
+25 subsection E of this section, state that there will be a single final list
+26 of at least three and not more than five persons or firms. In a
+27 procurement in which the contract will be awarded under subsection F of
+28 this section, the request for qualifications shall state that there will
+29 be a single final list and that the number of persons or firms on the
+30 final list will be three.
+31 (c) As prescribed below, state the selection criteria and relative
+32 weight of the selection criteria to be used by the selection committee,
+33 except that for construction services one of the criteria shall be the
+34 person's or firm's subcontractor selection plan or procedures to implement
+35 the agent's subcontractor selection plan. All selection criteria under
+36 this subsection shall be factors that demonstrate competence and
+37 qualifications for the type of professional services or construction
+38 services included in the procurement. If:
+39 (i) Interviews will be held, the request for qualifications shall
+40 state the selection criteria and relative weight of the selection criteria
+41 to be used in selecting the persons or firms to be interviewed and the
+42 request for qualifications may state the selection criteria and relative
+43 weight of the selection criteria to be used in selecting the persons or
+44 firms on the final list and in determining their order on the final list.
+45 The final list selection criteria and relative weights may be different
+46 than the selection criteria and relative weights used to determine the
+47 persons or firms to be interviewed. The request for qualifications shall
+-9-
+
+House Amendments to S.B. 1250
+1 also state whether the agent will select the persons or firms on the final
+2 list and their order on the final list solely through the results of the
+3 interview process or through the combined results of both the interview
+4 process and the evaluation of statements of qualifications and performance
+5 data submitted in response to the agent's request for qualifications.
+6 (ii) Interviews will not be held, the request for qualifications
+7 shall state the selection criteria and relative weight of the selection
+8 criteria to be used in selecting the persons or firms on the final list
+9 and in determining their order on the final list.
+10 (d) If the agent will hold interviews as part of the selection
+11 process, state that interviews will be held and that the interviews will
+12 be with at least three but not more than five persons or firms.
+13 (e) For procurements of construction services, include either:
+14 (i) A requirement that each person or firm submit a proposed
+15 subcontractor selection plan and a requirement that the proposed
+16 subcontractor selection plan must select subcontractors based on
+17 qualifications alone or on a combination of qualifications and price and
+18 shall not select subcontractors based on price alone.
+19 (ii) A subcontractor selection plan adopted by the agent that
+20 applies to the person or firm that is selected to perform the construction
+21 services and that requires subcontractors to be selected based on
+22 qualifications alone or on a combination of qualifications and price and
+23 not based on price alone and a requirement that each person or firm must
+24 submit a description of the procedures it proposes to use to implement the
+25 agent's subcontractor selection plan.
+26 (f) Include a description of the publicly available location of the
+27 agent's protest policy and procedures or, if the agent does not have a
+28 protest policy and procedures, a statement that the protest policy and
+29 procedures referred to in subsection J K of this section apply to any
+30 protests in connection with the procurement.
+31 (g) In a procurement of construction-manager-at-risk construction
+32 services or design-build construction services to be performed at multiple
+33 locations, include:
+34 (i) A brief description of the construction services to be
+35 performed at each location.
+36 (ii) The estimated budget for the construction services to be
+37 performed at each location.
+38 (iii) A schedule for the construction services to be performed at
+39 each location that shows the agent's intent to commence all construction
+40 at each location within thirty months after execution of the first
+41 contract for preconstruction services or other construction services at
+42 any of the locations.
+43 3. An agent shall initiate an appropriately qualified selection
+44 committee for each request for qualifications. The agent shall ensure
+45 that the selection committee members are competent to serve on the
+46 selection committee. Each selection committee must include one employee
+47 of the agent or an agent representative who is appointed by the agent. If
+-10-
+
+House Amendments to S.B. 1250
+1 the agent is procuring professional services, the agent shall determine
+2 the number and qualifications of the selection committee members. A
+3 selection committee for the procurement of construction services shall not
+4 have more than seven members, except that, if the contract involves the
+5 agent and additional governmental or private participants, the number of
+6 members of the selection committee shall be increased by one for each
+7 additional participant, except that the maximum number of members of the
+8 selection committee is nine. The selection committee for construction
+9 services shall include at least one person who is a senior management
+10 employee of a licensed contractor and one person who is an architect or an
+11 engineer who is registered pursuant to section 32-121. These members may
+12 be employees of the agent or outside consultants. Outside contractors,
+13 architects and engineers serving on a selection committee shall not
+14 receive compensation from the agent for performing this service, but the
+15 agent may elect to reimburse outside contractors, architects and engineers
+16 for travel, lodging and other expenses incurred in connection with service
+17 on a selection committee. A person who is a member of a selection
+18 committee shall not be a contractor under a contract awarded under the
+19 procurement or provide any professional services, construction,
+20 construction services, materials or other services under the contract.
+21 The selection committee and the agent shall do the following:
+22 (a) If interviews are specified in the request for qualifications:
+23 (i) The selection committee shall determine the persons or firms to
+24 be interviewed by evaluating the statements of qualifications and
+25 performance data that are submitted in response to the agent's request for
+26 qualifications based only on the selection criteria and relative weight of
+27 the selection criteria stated in the request for qualifications to be used
+28 to determine the persons or firms to be interviewed.
+29 (ii) If the selection criteria and relative weight of the selection
+30 criteria to be used by the selection committee to select the persons or
+31 firms on the final list and to determine their order on the final list are
+32 not included in the request for qualifications, before the interviews are
+33 held the agent shall distribute to the persons or firms to be interviewed
+34 the selection criteria and relative weight of the selection criteria to be
+35 used to select the persons or firms on the final list and to determine
+36 their order on the final list. These selection criteria and relative
+37 weight may be different than the selection criteria and relative weight
+38 used to determine the persons or firms to be interviewed.
+39 (iii) The selection committee shall conduct interviews with the
+40 number of persons or firms to be interviewed as stated in the request for
+41 qualifications regarding the professional services or construction
+42 services and the relative methods of approach for furnishing the required
+43 professional services or construction services.
+44 (b) Based only on the selection criteria and relative weight of the
+45 selection criteria specified as provided in this subsection for selection
+46 of the persons or firms on the final list and their order on the final
+47 list, the selection committee shall select the persons or firms for the
+-11-
+
+House Amendments to S.B. 1250
+1 final list and, in the case of a final list for a contract that will be
+2 negotiated under subsection E of this section, rank the persons or firms
+3 on the final list in order of preference.
+4 (c) If the contract will be negotiated under subsection E of this
+5 section, before or at the same time as the agent notifies the highest
+6 ranking person or firm on the final list that it is the highest ranking
+7 person or firm, the agent shall send actual notice to each of the
+8 following that it is not the highest person or firm on the final list or
+9 that another person or firm is the highest ranking person or firm on the
+10 final list:
+11 (i) If interviews were held, the other persons and firms
+12 interviewed.
+13 (ii) If interviews were not held, the other persons and firms that
+14 made submittals.
+15 (d) If the contract will be awarded under subsection F of this
+16 section, before or at the same time as the agent notifies the persons or
+17 firms on the final list that they are on the final list, the agent shall
+18 send actual notice to each of the following persons or firms that they are
+19 not on the final list or that other persons or firms are on the final
+20 list:
+21 (i) If interviews were held, the other persons or firms
+22 interviewed.
+23 (ii) If interviews were not held, the other persons or firms that
+24 made submittals.
+25 D. An agent shall award the single contract under the procurement
+26 as provided in subsection E, or F OR G of this section.
+27 E. The agent shall conduct negotiations with persons or firms on
+28 the final list as follows:
+29 1. The procurement is for a single contract for construction
+30 services or professional services, and there is one final list.
+31 2. The negotiations shall include consideration of compensation and
+32 other contract terms that the agent determines to be fair and reasonable
+33 to the agent. In making this decision, the agent shall take into account
+34 the estimated value, the scope, the complexity and the nature of the
+35 professional services or construction services to be rendered.
+36 3. The agent shall enter into negotiations with the highest
+37 qualified person or firm on the final list.
+38 4. If the agent is not able to negotiate a satisfactory contract
+39 with the highest qualified person or firm on the final list, at
+40 compensation and on other contract terms the agent determines to be fair
+41 and reasonable, the agent shall formally terminate negotiations with that
+42 person or firm. The agent shall then undertake negotiations with the next
+43 most qualified person or firm on the final list in sequence until an
+44 agreement is reached or a determination is made to reject all persons or
+45 firms on the final list.
+46 5. If in a procurement under this section the agent terminates
+47 negotiations with a person or firm on the final list and commences
+-12-
+
+House Amendments to S.B. 1250
+1 negotiations with another person or firm on the final list, the agent
+2 shall not in that procurement recommence negotiations or enter into a
+3 contract for the construction services or professional services covered by
+4 the final list with any person or firm on the final list with whom the
+5 agent has terminated negotiations.
+6 F. As an alternative to subsection E of this section, an agent may
+7 award a single contract for design-build construction services or
+8 job-order-contracting construction services as follows:
+9 1. The agent shall use the selection committee appointed for the
+10 request for qualifications pursuant to subsection C of this section.
+11 2. The agent shall issue a request for proposals to the persons or
+12 firms on the final list developed pursuant to subsection C of this
+13 section.
+14 3. The request for proposals shall include:
+15 (a) The agent's project schedule and project final budget for
+16 design and construction or life cycle budget for a procurement that
+17 includes maintenance services or operations services.
+18 (b) A statement that the contract will be awarded to the offeror
+19 whose proposal receives the highest number of points under a scoring
+20 method.
+21 (c) A description of the scoring method, including a list of the
+22 factors in the scoring method and the number of points allocated to each
+23 factor. The factors in the scoring method may include:
+24 (i) For design-build construction services only, demonstrated
+25 compliance with the design requirements.
+26 (ii) Offeror qualifications.
+27 (iii) Offeror financial capacity.
+28 (iv) Compliance with the agent's project schedule.
+29 (v) For design-build construction services only, if the request for
+30 proposals specifies that the agent will spend its project budget and not
+31 more than its project budget and is seeking the best proposal for the
+32 project budget, compliance of the offeror's price or life cycle price for
+33 procurements that include maintenance services, operations services or
+34 finance services with the agent's budget as prescribed in the request for
+35 proposals.
+36 (vi) For design-build construction services if the request for
+37 proposals does not contain the specifications prescribed in item (v) of
+38 this subdivision and for job-order-contracting construction services, the
+39 price or life cycle price for procurements that include maintenance
+40 services, operations services or finance services.
+41 (vii) An offeror quality management plan.
+42 (viii) Other evaluation factors that demonstrate competence and
+43 qualifications for the type of construction services in the request for
+44 proposals as determined by the agent, if any.
+45 (d) For design-build construction services only, the design
+46 requirements.
+-13-
+
+House Amendments to S.B. 1250
+1 (e) A requirement that each offeror submit separately a technical
+2 proposal and a price proposal and that the offeror's entire proposal be
+3 responsive to the requirements in the request for proposals. For
+4 design-build construction services, the price in the price proposal shall
+5 be a fixed price or a guaranteed maximum price.
+6 (f) A statement that in applying the scoring method the selection
+7 committee will separately evaluate the technical proposal and the price
+8 proposal and will evaluate and score the technical proposal before opening
+9 the price proposal.
+10 (g) If the agent conducts discussions pursuant to paragraph 5 of
+11 this subsection, a statement that discussions will be held and a
+12 requirement that each offeror submit a preliminary technical proposal
+13 before the discussions are held.
+14 4. If the agent determines to conduct discussions pursuant to
+15 paragraph 5 of this subsection, each offeror shall submit a preliminary
+16 technical proposal to the agent before those discussions are held.
+17 5. If determined by the agent and included by the agent in the
+18 request for proposals, the selection committee shall conduct discussions
+19 with all offerors that submit preliminary technical proposals.
+20 Discussions shall be for the purpose of clarification to ensure full
+21 understanding of, and responsiveness to, the solicitation requirements.
+22 Offerors shall be accorded fair treatment with respect to any opportunity
+23 for discussion and for clarification by the owner. Revision of
+24 preliminary technical proposals shall be permitted after submission of
+25 preliminary technical proposals and before award for the purpose of
+26 obtaining best and final proposals. In conducting any discussions,
+27 information derived from proposals submitted by competing offerors shall
+28 not be disclosed to other competing offerors.
+29 6. After completion of any discussions pursuant to paragraph 5 of
+30 this subsection or if no discussions are held, each offeror shall submit
+31 separately the offeror's final technical proposal and its price proposal.
+32 7. Before opening any price proposal, the selection committee shall
+33 open the final technical proposals, evaluate the final technical proposals
+34 and score the final technical proposals using the scoring method in the
+35 request for proposals. No other factors or criteria may be used in the
+36 evaluation and scoring.
+37 8. After completion of the evaluation and scoring of all final
+38 technical proposals, the selection committee shall open the price
+39 proposals, evaluate the price proposals, score the price proposals and
+40 complete the scoring of the entire proposals using the scoring method in
+41 the request for proposals. No other factors or criteria may be used in
+42 the evaluation and scoring.
+43 9. The agent shall award the contract or contracts to the
+44 responsive and responsible offeror whose proposal receives the highest
+45 score under the method of scoring in the request for proposals. No other
+46 factors or criteria may be used in the evaluation. Before or at the same
+47 time as the agent notifies the winning offeror that it has won, the agent
+-14-
+
+House Amendments to S.B. 1250
+1 shall send actual notice to each other offeror either that the offeror has
+2 not won or that another offeror has won.
+3 10. The contract or contracts file shall contain the basis on which
+4 the award is made, including at a minimum the information and documents
+5 required under subsection G H of this section.
+6 11. For design-build construction services only, the agent shall
+7 award a stipulated fee equal to a percentage, as prescribed in the request
+8 for proposals, of the agent's project final budget for design and
+9 construction, as prescribed in the request for proposals, but at least
+10 four-tenths of one percent of the project final budget for design and
+11 construction to each final list offeror who provides a responsive, but
+12 unsuccessful, proposal. If the agent does not award a contract, all
+13 responsive final list offerors shall receive the stipulated fee based on
+14 the owner's project final budget for design and construction as included
+15 in the request for proposals. The agent shall pay the stipulated fee to
+16 each offeror within ninety days after the award of the initial contract or
+17 the decision not to award a contract. In consideration for paying the
+18 stipulated fee, the agent may use any ideas or information contained in
+19 the proposals in connection with any contract awarded for the project, or
+20 in connection with a subsequent procurement, without any obligation to pay
+21 any additional compensation to the offerors. Notwithstanding the other
+22 provisions of this paragraph, an offeror may elect to waive the stipulated
+23 fee. If an offeror elects to waive the stipulated fee, the agent may not
+24 use ideas and information contained in the offeror's proposal, except that
+25 this restriction does not prevent the agent from using any idea or
+26 information if the idea or information is also included in a proposal of
+27 an offeror that accepts the stipulated fee.
+28 G. AS AN ALTERNATIVE TO SUBSECTIONS E AND F OF THIS SECTION, AN
+29 AGENT MAY AWARD A SINGLE CONTRACT FOR JOB-ORDER-CONTRACTING CONSTRUCTION
+30 SERVICES BY USING A COOPERATIVE PURCHASING AGREEMENT TO PROCURE A CONTRACT
+31 FOR JOB-ORDER-CONTRACTING CONSTRUCTION SERVICES IF THE COOPERATIVE
+32 AGREEMENT COMPLIES WITH ALL OF THE FOLLOWING:
+33 1. THE PUBLIC PROCUREMENT UNIT CONDUCTING OR ADMINISTERING THE
+34 COOPERATIVE PURCHASING AGREEMENT TO PROCURE JOB-ORDER-CONTRACTING
+35 CONSTRUCTION SERVICES COMPLIES WITH THE REQUIREMENTS OF SUBSECTION E OR F
+36 OF THIS SECTION AND SECTION 41-2632.
+37 2. THE AGENT ENTERS INTO THE JOB-ORDER-CONTRACTING CONSTRUCTION
+38 SERVICES CONTRACT FOR A SINGLE PROJECT.
+39 3. THE SINGLE PROJECT SCOPE OF WORK IS CONSISTENT WITH THE SCOPE OF
+40 WORK DESCRIBED IN THE COOPERATIVE AGREEMENT.
+41 4. THE SINGLE PROJECT VALUE DOES NOT EXCEED THE MAXIMUM JOB ORDER
+42 VALUE ESTABLISHED BY THE COOPERATIVE AGREEMENT.
+43 G. H. At a minimum, the agent shall retain the following for each
+44 procurement under this section:
+45 1. For each request for qualifications procurement process under
+46 subsection C or subsection K, paragraph 2 L of this section:
+47 (a) If interviews were not held:
+-15-
+
+House Amendments to S.B. 1250
+1 (i) The submittal of the person or firm listed first on the final
+2 list and, if different, the submittal of the person or firm with which the
+3 agent enters into a contract.
+4 (ii) The final list.
+5 (iii) A list of the selection criteria and relative weight of
+6 selection criteria used to select the persons or firms for the final list
+7 and to determine their order on the final list.
+8 (iv) A list that contains the name of each person or firm that
+9 submitted qualifications and that shows the person's or firm's final
+10 overall rank or score.
+11 (v) A document or documents that show the final score or rank on
+12 each selection criterion of each person or firm that submitted
+13 qualifications and that support the final overall rankings and scores of
+14 the persons or firms that submitted qualifications. At the election of
+15 the agent, this documentation may be in the form of a consolidated scoring
+16 sheet for the entire selection committee, in the form of individual
+17 scoring sheets for individual selection committee members or any other
+18 form as determined by the agent.
+19 (b) If interviews were held:
+20 (i) All submittals of the person or firm listed first on the final
+21 list and, if different, all submittals of the person or firm with which
+22 the agent enters into a contract.
+23 (ii) The final list.
+24 (iii) A list of the selection criteria and relative weight of
+25 selection criteria used to select the persons or firms for the final list
+26 and to determine their order on the final list.
+27 (iv) A list that contains the name of each person or firm that was
+28 interviewed and that shows the person's or firm's final overall rank or
+29 score.
+30 (v) A document or documents that show the final score or rank on
+31 each selection criterion of each person or firm that was interviewed and
+32 that support the final overall rankings and scores of the persons or firms
+33 that were interviewed. At the election of the agent, this documentation
+34 may be in the form of a consolidated scoring sheet for the entire
+35 selection committee, in the form of individual scoring sheets for
+36 individual selection committee members or any other form as determined by
+37 the agent.
+38 (vi) A list of the selection criteria and relative weight of the
+39 selection criteria used to select the persons or firms for the short list
+40 to be interviewed.
+41 (vii) A list that contains the name of each person or firm that
+42 submitted qualifications and that shows the person's or firm's final
+43 overall rank or score in the selection of the persons or firms to be on
+44 the short list to be interviewed.
+45 (viii) A document or documents that show the final score or rank on
+46 each selection criterion of each person or firm that submitted
+47 qualifications and that support the final overall rankings and scores of
+-16-
+
+House Amendments to S.B. 1250
+1 the persons or firms that submitted qualifications in the selection of the
+2 persons or firms to be on the short list to be interviewed. At the
+3 election of the agent, this documentation may be in the form of a
+4 consolidated scoring sheet for the entire selection committee, in the form
+5 of individual scoring sheets for the individual selection committee
+6 members or any other form as determined by the agent.
+7 2. For each request for proposals procurement process under
+8 subsection F or subsection K, paragraph 3 L of this section:
+9 (a) The entire proposal submitted by the person or firm that
+10 received the highest score in the scoring method in the request for
+11 proposals and, if different, the entire proposal submitted by the person
+12 or firm with which the agent enters into a contract.
+13 (b) The description of the scoring method, the list of factors in
+14 the scoring method and the number of points allocated to each factor, all
+15 as included in the request for proposals.
+16 (c) A list that contains the name of each offeror that submitted a
+17 proposal and that shows the offeror's final overall score.
+18 (d) A document or documents that show the final score on each
+19 factor in the scoring method in the request for proposals of each offeror
+20 that submitted a proposal and that support the final overall scores of the
+21 offerors that submitted proposals. At the election of the agent, this
+22 documentation may be in the form of a consolidated scoring sheet for the
+23 entire selection committee, in the form of individual scoring sheets for
+24 individual selection committee members or in any other form as determined
+25 by the agent.
+26 H. I. Information relating to each procurement under this section
+27 shall be made available to the public as follows:
+28 1. Notwithstanding title 39, chapter 1, article 2, until the agent
+29 awards a contract or terminates the procurement, only the name of each
+30 person or firm on the final list developed pursuant to subsection C or
+31 subsection K, paragraph 2 of this section may be made available to the
+32 public. All other information received by the agent in response to the
+33 request for qualifications pursuant to subsection C or subsection K,
+34 paragraph 2 of this section or contained in proposals submitted pursuant
+35 to subsection F or subsection K, paragraph 3 of this section shall be
+36 confidential in order to avoid disclosure of the contents that may be
+37 prejudicial to competing submitters and offerors during the selection
+38 process.
+39 2. After the agent awards the contract or terminates the
+40 procurement, the agent shall make available to the public pursuant to
+41 title 39, chapter 1, article 2 at a minimum all of the items that the
+42 agent is required to retain under subsection G H of this section, except
+43 the proposals submitted in response to a request for proposals under
+44 subsection F or subsection K, paragraph 3 L of this section and the
+45 document or documents prescribed in subsection G H, paragraph 1,
+46 subdivision (a), item (v) and subdivision (b), items (v) and (viii) and
+47 paragraph 2, subdivision (d) of this section.
+-17-
+
+House Amendments to S.B. 1250
+1 3. The proposals submitted under subsection F or subsection K,
+2 paragraph 3 L of this section shall not be made available to the public
+3 until after the agent has entered into a contract or terminated the
+4 procurement. At a minimum the proposals submitted under subsection F or
+5 subsection K, paragraph 3 L of this section that the agent is required to
+6 retain under subsection G H of this section shall be made available to
+7 the public after the agent has entered into a contract or terminated the
+8 procurement.
+9 4. To the extent that the offeror designates and the agent concurs,
+10 trade secrets and other proprietary data contained in a proposal remain
+11 confidential.
+12 5. The document or documents prescribed in subsection G H,
+13 paragraph 1, subdivision (a), item (v) and subdivision (b), items (v) and
+14 (viii) and paragraph 2, subdivision (d) of this section are available to
+15 the extent provided in title 39, chapter 1, article 2.
+16 I. J. An agent may cancel a request for qualifications or a
+17 request for proposals, reject in whole or in part any or all submittals or
+18 proposals, or determine not to enter into a contract as specified in the
+19 solicitation if the agent determines in the agent's absolute and sole
+20 discretion that the action is in the best interest of the agent. The
+21 agent shall make the reasons for cancellation, rejection or determination
+22 not to enter into a contract part of the contract file.
+23 J. K. If the agent does not have a procurement protest policy and
+24 procedures that have been formally adopted and published by the agent, for
+25 protests relating to procurements under this section the agent shall
+26 follow the procurement protest policy and procedures of the department of
+27 administration. The agent shall process all protests relating to
+28 procurements under this section.
+29 K. L. Notwithstanding any other law, in a procurement of a single
+30 contract for construction-manager-at-risk construction services for
+31 horizontal construction AND FOR PROJECTS NOT PRESCRIBED AS HORIZONTAL
+32 CONSTRUCTION under this section ONLY FOR FEDERALLY FUNDED PROJECTS, when
+33 the federal aviation administration or the federal transit administration
+34 is a source of monies for the project and price competition is required by
+35 the funding federal agency or applicable federal law, rules or
+36 regulations, an agent that is a city with a population in excess of one
+37 million persons or an agent that is a separate legal entity formed under
+38 section 11-952 by a city with a population in excess of one million
+39 persons and that is designated as a subgrantee by a city with a population
+40 in excess of one million persons may do a two-step competition OR FEDERAL
+41 FUNDING AGENCY GUIDANCE, AN AGENT MAY CONDUCT A ONE-STEP REQUEST FOR
+42 QUALIFICATIONS BEST VALUE COMPETITION in accordance with the following:
+43 1. Except as OTHERWISE provided in paragraphs 2 and 3 of this
+44 subsection, all provisions of law applicable to
+45 construction-manager-at-risk construction services apply to
+46 construction-manager-at-risk construction services for horizontal
+47 construction AND FOR PROJECTS NOT PRESCRIBED AS HORIZONTAL CONSTRUCTION
+-18-
+
+House Amendments to S.B. 1250
+1 procured under this subsection, including the provisions applicable to
+2 horizontal construction AND TO PROJECTS NOT PRESCRIBED AS HORIZONTAL
+3 CONSTRUCTION. The requirements in section 34-605, subsection B apply only
+4 if the contractor provides preconstruction services. Bid security is not
+5 required under section 34-608 for construction-manager-at-risk
+6 construction services for horizontal construction procured under this
+7 subsection, but an agent may elect to require bid security in which event
+8 the bid security process and requirements shall be as set forth in section
+9 34-608.
+10 2. In the first step of the two-step competition for procurement of
+11 construction-manager-at-risk construction services for horizontal
+12 construction, the agent shall follow the request for qualifications
+13 process and the requirements in subsection C of this section. For
+14 purposes of applying the requirements in subsection C, paragraph 1,
+15 subdivision (f), item (ii), paragraph 2, subdivision (b) and paragraph 3,
+16 subdivisions (b), (c) and (d) of this section only, a procurement under
+17 this subsection shall be deemed to be procurement of a contract to be
+18 awarded under subsection F of this section and not of a contract to be
+19 negotiated under subsection E of this section.
+20 2. THE AGENT SHALL ISSUE A SINGLE REQUEST FOR QUALIFICATIONS AND
+21 MAY, AT ITS OPTION, CONDUCT INTERVIEWS AS PART OF THE EVALUATION PROCESS.
+22 IF INTERVIEWS ARE HELD, THE AGENT SHALL SPECIFY THE INTERVIEW CRITERIA AND
+23 THEIR RELATIVE WEIGHTS IN THE REQUEST FOR QUALIFICATIONS. INTERVIEWS SHALL
+24 ADDRESS ONLY QUALITATIVE AND TECHNICAL PROPOSALS. PRICES OR FEES MAY NOT
+25 BE PART OF THE INTERVIEWS.
+26 3. In the second step of the two-step competition WHEN PROCURING
+27 PROJECTS UNDER THIS SUBSECTION:
+28 (a) The agent shall use the selection committee appointed for the
+29 request for qualifications pursuant to subsection C of this section.
+30 (b) The agent shall issue a request for proposals to the offerors
+31 on the final list developed pursuant to subsection C of this section.
+32 (c) (a) The request for proposals QUALIFICATIONS shall include:
+33 (i) A statement that one contract may or will be awarded and that
+34 one offeror may or will be awarded the contract.
+35 (ii) A description of the construction-manager-at-risk construction
+36 services for horizontal construction to be performed under the contract.
+37 (iii) A requirement that each offeror submit separately a
+38 qualitative and technical proposal and a price proposal LIMITED TO THE
+39 CONSTRUCTION MANAGEMENT FEE, PRECONSTRUCTION SERVICES FEE AND DESIGN
+40 SERVICES FEE AND ANY OTHER PRICING ELEMENTS EXPRESSLY ALLOWED BY FEDERAL
+41 GUIDANCE and that the offeror's entire proposal be responsive to the
+42 requirements in the request for proposals QUALIFICATIONS.
+43 (iv) The required contents of the qualitative and technical
+44 proposals and the price proposals.
+45 (v) Information to be used by offerors to prepare the qualitative
+46 and technical proposals and the price proposals.
+-19-
+
+House Amendments to S.B. 1250
+1 (vi) A statement that in applying the scoring method the selection
+2 committee will evaluate and score the qualitative and technical proposals
+3 before opening the price proposals.
+4 (vii) A statement that the agent will use the scoring method
+5 described in the request for proposals QUALIFICATIONS to determine the
+6 winning offeror and that the winning offeror will be the offeror whose
+7 proposal receives the highest number of points under the scoring method.
+8 (viii) A description of the scoring method. The scoring method
+9 shall be a best-value method in which the agent establishes criteria to
+10 score the qualitative and technical proposal and separate criteria to
+11 score the price proposal and the number of points assigned to each
+12 criteria CRITERION. The number of points assigned to price criteria shall
+13 not exceed ten percent of the total number of points in the scoring
+14 method.
+15 (ix) If the agent elects to conduct discussions pursuant to
+16 subdivision (e) of this paragraph, a statement that discussions will be
+17 held and a requirement that each offeror submit a preliminary qualitative
+18 and technical proposal before the discussions are held.
+19 (d) If the agent determines to conduct discussions pursuant to
+20 subdivision (e) of this paragraph, each offeror shall submit a preliminary
+21 qualitative and technical proposal to the agent before those discussions
+22 are held.
+23 (e) If determined by the agent and included by the agent in the
+24 request for proposals, the selection committee shall conduct discussions
+25 with all offerors solely about their preliminary qualitative and technical
+26 proposals. Discussions shall be for the purpose of clarification to
+27 ensure full understanding of, and responsiveness to, the solicitation
+28 requirements, other than price. Offerors shall be accorded fair treatment
+29 with respect to any opportunity for discussion and for clarification by
+30 the selection committee. Revision of preliminary qualitative and
+31 technical proposals shall be permitted after submission of preliminary
+32 qualitative and technical proposals and before scoring of proposals for
+33 the purpose of obtaining best and final proposals. In conducting any
+34 discussions, information derived from the preliminary qualitative and
+35 technical proposals submitted by competing offerors shall not be disclosed
+36 to other competing offerors. Price shall not be part of the discussions.
+37 (f) After completion of any discussions pursuant to subdivision (e)
+38 of this paragraph or if no discussions are held, each offeror shall submit
+39 separately the offeror's final qualitative and technical proposal and its
+40 price proposal.
+41 (g) In evaluating and scoring the offerors' proposals the selection
+42 committee shall use the scoring method specified in the request for
+43 proposals.
+44 (h) (b) Before opening any price proposal, the selection committee
+45 shall open the final qualitative and technical proposals, evaluate the
+46 final qualitative and technical proposals and score the final qualitative
+47 and technical proposals using the qualitative and technical criteria and
+-20-
+
+House Amendments to S.B. 1250
+1 assigned points in the scoring method in the request for proposals. No
+2 other factors or criteria may be used in the evaluation and scoring.
+3 (i) (c) After completion of the evaluation and scoring of all
+4 final qualitative and technical proposals, the selection committee shall
+5 open the price proposals and score the price proposals using the price
+6 criteria and assigned points in the scoring method in the request for
+7 proposals. No other factors or criteria may be used in the evaluation and
+8 scoring.
+9 (j) (d) After evaluating and scoring the price proposals, the
+10 selection committee shall add the qualitative and technical proposal score
+11 and the price proposal score of each offeror together for a total
+12 score. The responsive and responsible offeror with the highest total
+13 score is the winning offeror.
+14 (k) (e) The agent shall promptly notify the winning offeror that
+15 it is the winner. Before or at the same time as the agent notifies the
+16 winning offeror that it is the winner, the agent shall send actual notice
+17 to each other offeror either that the offeror is not the winner or that
+18 another offeror is the winner.
+19 (l) (f) The contract or contracts file shall contain the basis on
+20 which the award is made, including at a minimum the information and
+21 documents required under subsection G H of this section.
+22 4. Notwithstanding this subsection, an agent shall not procure any
+23 construction-manager-at-risk construction services for horizontal
+24 construction pursuant to this subsection after December 31, 2030. For the
+25 purposes of this paragraph, an agent procures construction-manager-at-risk
+26 construction services for horizontal construction pursuant to this
+27 subsection when the contract for the construction-manager-at-risk
+28 construction services for horizontal construction is executed by the agent
+29 and the contractor. If a contract is executed for
+30 construction-manager-at-risk construction services for horizontal
+31 construction procured pursuant to this subsection on or before
+32 December 31, 2030, construction services under the contract may be
+33 rendered in whole or in part after December 31, 2030.
+34 L. For the purposes of this section, "professional services"
+35 includes architect services, engineer services, landscape architect
+36 services, assayer services, geologist services and land surveying services
+37 and any combination of those services.
+38 M. NOTWITHSTANDING ANY OTHER LAW, IN A PROCUREMENT OF A SINGLE
+39 CONTRACT FOR PROGRESSIVE DESIGN-BUILD SERVICES FOR HORIZONTAL CONSTRUCTION
+40 AND FOR PROJECTS NOT DEFINED AS HORIZONTAL CONSTRUCTION UNDER THIS SECTION
+41 ONLY FOR FEDERALLY FUNDED PROJECTS, WHEN PRICE COMPETITION IS REQUIRED BY
+42 THE FUNDING FEDERAL AGENCY OR APPLICABLE FEDERAL LAW, RULES OR REGULATIONS
+43 OR FEDERAL FUNDING AGENCY GUIDANCE, AN AGENT MAY CONDUCT A PROCUREMENT
+44 PROCESS IN ACCORDANCE WITH THE FOLLOWING:
+45 1. THE AGENT MAY PROCURE PROGRESSIVE DESIGN-BUILD CONSTRUCTION
+46 SERVICES UNDER THIS SECTION FOR HORIZONTAL CONSTRUCTION AND FOR PROJECTS
+-21-
+
+House Amendments to S.B. 1250
+1 NOT DEFINED AS HORIZONTAL CONSTRUCTION, SUBJECT TO THE REQUIREMENTS OF
+2 SUBSECTIONS C AND E OF THIS SECTION AND SECTION 34-605.
+3 2. THE AGENT SHALL ISSUE A SINGLE REQUEST FOR QUALIFICATIONS AND
+4 MAY, AT ITS OPTION, CONDUCT INTERVIEWS AS PART OF THE EVALUATION PROCESS.
+5 IF INTERVIEWS ARE HELD, THE AGENT SHALL SPECIFY THE INTERVIEW CRITERIA AND
+6 THEIR RELATIVE WEIGHTS IN THE REQUEST FOR QUALIFICATIONS. INTERVIEWS
+7 SHALL ADDRESS ONLY THE QUALITATIVE AND TECHNICAL PROPOSALS. PRICES OR FEES
+8 MAY NOT BE PART OF THE INTERVIEWS.
+9 3. WHEN PROCURING PROJECTS UNDER THIS SUBSECTION:
+10 (a) THE REQUEST FOR QUALIFICATIONS SHALL INCLUDE:
+11 (i) A STATEMENT THAT ONE CONTRACT MAY OR WILL BE AWARDED AND THAT
+12 ONE OFFEROR MAY OR WILL BE AWARDED THE CONTRACT.
+13 (ii) A DESCRIPTION OF THE DESIGN-BUILD SERVICES TO BE PERFORMED
+14 UNDER THE CONTRACT.
+15 (iii) A REQUIREMENT THAT EACH OFFEROR SUBMIT SEPARATELY A
+16 QUALITATIVE AND TECHNICAL PROPOSAL AND A PRICE PROPOSAL LIMITED TO THE
+17 PRECONSTRUCTION SERVICES FEE, DESIGN SERVICES FEE AND CONSTRUCTION
+18 MANAGEMENT FEE AND ANY OTHER PRICING ELEMENTS EXPRESSLY ALLOWED BY FEDERAL
+19 GUIDANCE AND THAT THE OFFEROR'S ENTIRE PROPOSAL BE RESPONSIVE TO THE
+20 REQUIREMENTS IN THE REQUEST FOR QUALIFICATIONS.
+21 (iv) THE REQUIRED CONTENTS OF THE QUALITATIVE AND TECHNICAL
+22 PROPOSALS AND THE PRICE PROPOSALS.
+23 (v) INFORMATION TO BE USED BY OFFERORS TO PREPARE THE QUALITATIVE
+24 AND TECHNICAL PROPOSALS AND THE PRICE PROPOSALS.
+25 (vi) A STATEMENT THAT IN APPLYING THE SCORING METHOD THE SELECTION
+26 COMMITTEE WILL EVALUATE AND SCORE THE QUALITATIVE AND TECHNICAL PROPOSALS
+27 BEFORE OPENING THE PRICE PROPOSALS.
+28 (vii) A STATEMENT THAT THE AGENT WILL USE THE SCORING METHOD
+29 DESCRIBED IN THE REQUEST FOR QUALIFICATIONS TO DETERMINE THE WINNING
+30 OFFEROR AND THAT THE WINNING OFFEROR WILL BE THE OFFEROR WHOSE PROPOSAL
+31 RECEIVES THE HIGHEST NUMBER OF POINTS UNDER THE SCORING METHOD.
+32 (viii) A DESCRIPTION OF THE SCORING METHOD. THE SCORING METHOD
+33 SHALL BE A BEST-VALUE METHOD IN WHICH THE AGENT ESTABLISHES CRITERIA TO
+34 SCORE THE QUALITATIVE AND TECHNICAL PROPOSAL AND SEPARATE CRITERIA TO
+35 SCORE THE PRICE PROPOSAL AND THE NUMBER OF POINTS ASSIGNED TO EACH
+36 CRITERION. THE NUMBER OF POINTS ASSIGNED TO PRICE CRITERIA SHALL NOT
+37 EXCEED TEN PERCENT OF THE TOTAL NUMBER OF POINTS IN THE SCORING METHOD.
+38 (b) BEFORE OPENING ANY PRICE PROPOSAL, THE SELECTION COMMITTEE
+39 SHALL OPEN THE FINAL QUALITATIVE AND TECHNICAL PROPOSALS, EVALUATE THE
+40 FINAL QUALITATIVE AND TECHNICAL PROPOSALS AND SCORE THE FINAL QUALITATIVE
+41 AND TECHNICAL PROPOSALS USING THE QUALITATIVE AND TECHNICAL CRITERIA AND
+42 ASSIGNED POINTS IN THE SCORING METHOD IN THE REQUEST FOR PROPOSALS. NO
+43 OTHER FACTORS OR CRITERIA MAY BE USED IN THE EVALUATION AND SCORING.
+44 (c) AFTER COMPLETION OF THE EVALUATION AND SCORING OF ALL FINAL
+45 QUALITATIVE AND TECHNICAL PROPOSALS, THE SELECTION COMMITTEE SHALL OPEN
+46 THE PRICE PROPOSALS AND SCORE THE PRICE PROPOSALS USING THE PRICE CRITERIA
+-22-
+
+House Amendments to S.B. 1250
+1 AND ASSIGNED POINTS IN THE SCORING METHOD IN THE REQUEST FOR PROPOSALS. NO
+2 OTHER FACTORS OR CRITERIA MAY BE USED IN THE EVALUATION AND SCORING.
+3 (d) AFTER EVALUATING AND SCORING THE PRICE PROPOSALS, THE SELECTION
+4 COMMITTEE SHALL ADD THE QUALITATIVE AND TECHNICAL PROPOSAL SCORE AND THE
+5 PRICE PROPOSAL SCORE OF EACH OFFEROR TOGETHER FOR A TOTAL SCORE. THE
+6 RESPONSIVE AND RESPONSIBLE OFFEROR WITH THE HIGHEST TOTAL SCORE IS THE
+7 WINNING OFFEROR.
+8 (e) THE AGENT SHALL PROMPTLY NOTIFY THE WINNING OFFEROR THAT IT IS
+9 THE WINNER. BEFORE OR AT THE SAME TIME AS THE AGENT NOTIFIES THE WINNING
+10 OFFEROR THAT IT IS THE WINNER, THE AGENT SHALL SEND ACTUAL NOTICE TO EACH
+11 OTHER OFFEROR EITHER THAT THE OFFEROR IS NOT THE WINNER OR THAT ANOTHER
+12 OFFEROR IS THE WINNER.
+13 (f) THE CONTRACT OR CONTRACTS FILE SHALL CONTAIN THE BASIS ON WHICH
+14 THE AWARD IS MADE, INCLUDING AT A MINIMUM THE INFORMATION AND DOCUMENTS
+15 REQUIRED UNDER SUBSECTION H OF THIS SECTION.
+16 4. NOTWITHSTANDING SUBSECTION F, PARAGRAPH 11 OF THIS SECTION,
+17 STIPULATED FEES TO UNSUCCESSFUL OFFERORS SHALL NOT BE PAID IN PROGRESSIVE
+18 DESIGN-BUILD PROCUREMENTS UNDER THIS SUBSECTION.
+19 5. AN AGENT SHALL NOT PROCURE PROGRESSIVE DESIGN-BUILD CONSTRUCTION
+20 SERVICES PURSUANT TO THIS SUBSECTION AFTER DECEMBER 31, 2030. FOR THE
+21 PURPOSES OF THIS PARAGRAPH, AN AGENT PROCURES PROGRESSIVE DESIGN-BUILD
+22 CONSTRUCTION SERVICES PURSUANT TO THIS SUBSECTION WHEN THE CONTRACT FOR
+23 PROGRESSIVE DESIGN-BUILD CONSTRUCTION SERVICES IS EXECUTED BY THE AGENT
+24 AND THE CONTRACTOR. IF A CONTRACT IS EXECUTED FOR PROGRESSIVE DESIGN-BUILD
+25 CONSTRUCTION SERVICES PROCURED PURSUANT TO THIS SUBSECTION ON OR BEFORE
+26 DECEMBER 31, 2030, CONSTRUCTION SERVICES UNDER THE CONTRACT MAY BE
+27 RENDERED IN WHOLE OR IN PART AFTER DECEMBER 31, 2030.
+28 N. FOR PURPOSES OF THIS SECTION, "PROGRESSIVE DESIGN-BUILD" MEANS A
+29 PROJECT DELIVERY PROCESS IN WHICH ALL OF THE FOLLOWING APPLY:
+30 1. BOTH THE DESIGN AND CONSTRUCTION OF THE PROJECT ARE PROCURED
+31 FROM A SINGLE ENTITY SELECTED THROUGH A QUALIFICATIONS-BASED SELECTION AT
+32 THE EARLIEST FEASIBLE STAGE OF THE PROJECT.
+33 2. THE AGENT ENTERS INTO A CONTRACT FOR PRECONSTRUCTION AND DESIGN
+34 SERVICES.
+35 3. A FIXED PRICE OR GUARANTEED MAXIMUM PRICE FOR CONSTRUCTION IS
+36 SUBSEQUENTLY NEGOTIATED AFTER SUFFICIENT DESIGN ADVANCEMENT.
+37 Sec. 4. Section 34-605, Arizona Revised Statutes, is amended to
+38 read:
+39 34-605. Requirements applicable to construction services and
+40 professional services and to contracts for
+41 construction services and professional services;
+42 definition
+43 A. The requirements prescribed in this section apply to each
+44 contract entered into as the result of a procurement under section 34-603,
+45 34-604 or 34-606 and to the professional services and construction
+46 services included in each procurement under section 34-603, 34-604 or
+47 34-606.
+-23-
+
+House Amendments to S.B. 1250
+1 B. If a procurement under section 34-603 is for
+2 construction-manager-at-risk construction services or design-build
+3 construction services to be contracted pursuant to section 34-603,
+4 subsection E or if a procurement under section 34-606 is for
+5 construction-manager-at-risk construction services or design-build
+6 construction services, the agent shall enter into a written contract with
+7 the contractor for preconstruction services under which the agent shall
+8 pay the contractor a fee for preconstruction services in an amount agreed
+9 by the agent and the contractor, and the agent shall not request or obtain
+10 a fixed price or a guaranteed maximum price for the construction from the
+11 contractor or enter into a construction contract with the contractor until
+12 after the agent has entered into the written contract for preconstruction
+13 services and a preconstruction services fee.
+14 C. If a contract for construction services is entered into as the
+15 result of a procurement under section 34-603, 34-604 or 34-606,
+16 construction shall not commence until the agent and contractor agree in
+17 writing on either a fixed price that the agent will pay for the
+18 construction to be commenced or a guaranteed maximum price for the
+19 construction to be commenced. The construction to be commenced may be the
+20 entire project or may be one or more phased parts of the project.
+21 D. A contract for professional services entered into as the result
+22 of a procurement under section 34-603, 34-604 or 34-606 shall have a term
+23 not exceeding five years after the date of contract award by the agent of
+24 the first contract under the procurement, except that the contract may
+25 continue in effect after the five-year term for professional services on
+26 projects on which the rendering of professional services commences within
+27 the five-year term.
+28 E. Notwithstanding any other law:
+29 1. The contractor for design-build or job-order-contracting
+30 construction services is not required to be registered to perform design
+31 services pursuant to title 32, chapter 1 if the person or firm actually
+32 performing the design services on behalf of the contractor is
+33 appropriately registered.
+34 2. The contractor for construction-manager-at-risk, design-build or
+35 job-order-contracting construction services shall be licensed to perform
+36 construction pursuant to title 32, chapter 10.
+37 F. For job-order-contracting construction services only:
+38 1. The maximum dollar amount of an individual job order shall be
+39 $1,000,000 or such higher or lower amount prescribed by the agent in an
+40 action noticed pursuant to title 38, chapter 3, article 3.1 or a rule
+41 adopted by the agent as the maximum amount of an individual job order.
+42 Requirements shall not be artificially divided or fragmented in order to
+43 constitute a job order that satisfies this requirement.
+44 2. If the contractor subcontracts or intends to subcontract part or
+45 all of the work under a job order and if the job-order-contracting
+46 construction services contract includes descriptions of standard
+47 individual tasks, standard unit prices for standard individual tasks and
+-24-
+
+House Amendments to S.B. 1250
+1 pricing of job orders based on the number of units of standard individual
+2 tasks in the job order:
+3 (a) The contractor has a duty to deliver promptly to each
+4 subcontractor invited to bid a coefficient to the contractor to do all or
+5 part of the work under one or more job orders:
+6 (i) A copy of the descriptions of all standard individual tasks on
+7 which the subcontractor is invited to bid.
+8 (ii) A copy of the standard unit prices for the individual tasks on
+9 which the subcontractor is invited to bid.
+10 (b) If not previously delivered to the subcontractor, the
+11 contractor has a duty to deliver promptly the following to each
+12 subcontractor invited to or that has agreed to do any of the work included
+13 in any job order:
+14 (i) A copy of the description of each standard individual task that
+15 is included in the job order and that the subcontractor is invited to
+16 perform.
+17 (ii) The number of units of each standard individual task that is
+18 included in the job order and that the subcontractor is invited to
+19 perform.
+20 (iii) The standard unit price for each standard individual task
+21 that is included in the job order and that the subcontractor is invited to
+22 perform.
+23 G. The following apply to horizontal construction:
+24 1. Notwithstanding this chapter, an agent shall not procure any
+25 horizontal construction using the construction-manager-at-risk,
+26 design-build or job-order-contracting method of project delivery after
+27 December 31, 2030. For purposes of this paragraph, an agent procures
+28 horizontal construction when the contract for the construction services is
+29 executed by the agent and the contractor for the
+30 construction-manager-at-risk, design-build or job-order-contracting
+31 construction services. If a contract is executed for construction
+32 services on or before December 31, 2030, construction services under the
+33 contract may be rendered in whole or in part after December 31, 2030.
+34 2. For each horizontal construction project under a design-build or
+35 construction-manager-at-risk construction services contract, the licensed
+36 contractor performing the contract shall perform, with the contractor's
+37 own organization, construction work that amounts to not less than
+38 forty-five percent of the total contract price for the construction,
+39 except that for light rail the self-performance percentage shall be not
+40 less than thirty percent.
+41 3. A project is horizontal construction if more than one-half of
+42 the total contract price for the construction is for horizontal
+43 construction. Project elements shall not be artificially added in order
+44 to make a project not horizontal construction and shall not be
+45 artificially deleted in order to make a project horizontal construction.
+46 4. The total contract price for the construction does not include
+47 the cost of preconstruction services, design services or any other related
+-25-
+
+House Amendments to S.B. 1250
+1 services or the cost to procure any right-of-way or other cost of
+2 condemnation.
+3 H. Notwithstanding any contrary provision of this section or this
+4 title, an agent shall not:
+5 1. Enter into a contract as contractor to provide
+6 construction-manager-at-risk construction services, design-build
+7 construction services or job-order-contracting construction services.
+8 2. Contract with itself, with another agent, with this state or
+9 with any other governmental unit of this state or the federal government
+10 for the agent to provide construction-manager-at-risk construction
+11 services, design-build construction services or job-order-contracting
+12 construction services.
+13 I. The prohibitions prescribed in subsection H of this section do
+14 not prohibit an agent from providing construction for itself as provided
+15 by law.
+16 J. The agent shall include in each contract for construction
+17 services the full street or physical address of each separate location at
+18 which the construction will be performed and a requirement that the
+19 contractor and each subcontractor at any level include in each of its
+20 subcontracts the same address information. The contractor and each
+21 subcontractor at any level shall include in each subcontract the full
+22 street or physical address of each separate location at which construction
+23 work will be performed.
+24 K. The following apply to all construction services procured under
+25 this chapter:
+26 1. The contractor performing the construction services is permitted
+27 to self-perform part of the construction work if and to the extent agreed
+28 in writing by the agent and the contractor. The agent may use methods
+29 other than competitive bidding to assure itself that the price the agent
+30 pays to the contractor for self-performed work is fair and reasonable.
+31 Allowable methods to evaluate fairness and reasonableness of the price of
+32 self-performed work include evaluating the contractor's proposed scope of
+33 work and price for self-performed work by an estimator who is hired and
+34 paid by the agent, who is independent of the contractor and who may be an
+35 employee of the agent. Although the agent may elect to so require, this
+36 chapter, this title or any other law shall not be construed or interpreted
+37 to require the agent to require a contractor desiring to self-perform part
+38 of the construction work to competitively bid that part of the
+39 construction work against other contractors in a bid competition.
+40 2. The following requirements apply to the construction work to be
+41 performed by subcontractors and do not apply to construction work that the
+42 agent and the contractor agree in writing will be self-performed by the
+43 contractor:
+44 (a) The person or firm selected to perform the construction
+45 services shall select subcontractors based on qualifications alone or on a
+46 combination of qualifications and price and shall not select
+47 subcontractors based on price alone. A qualifications and price selection
+-26-
+
+House Amendments to S.B. 1250
+1 may be a single-step selection based on a combination of qualifications
+2 and price or a two-step selection. In a two-step selection, the first
+3 step shall be based on qualifications alone and the second step may be
+4 based on a combination of qualifications and price or on price alone.
+5 (b) The agent shall include in each contract:
+6 (i) If the agent included its subcontractor selection plan in the
+7 request for qualifications, the agent's subcontractor selection plan and
+8 the procedures to implement the agent's subcontractor selection plan
+9 proposed by the selected person or firm in submitting its qualifications
+10 with those modifications to the procedures as the agent and the selected
+11 person or firm agree.
+12 (ii) If the agent did not include its subcontractor selection plan
+13 in the request for qualifications, the subcontractor selection plan
+14 proposed by the selected person or firm in submitting its qualifications
+15 with those modifications as the agent and the selected person or firm
+16 agree.
+17 (c) In making the selection of subcontractors, the person or firm
+18 selected to perform the construction services shall use the subcontractor
+19 selection plan and any procedures included in its contract.
+20 L. If the agent does not have a procurement protest policy and
+21 procedures that have been formally adopted and published by the agent, for
+22 protests relating to procurements under this chapter the agent shall
+23 follow the procurement protest policy and procedures of the department of
+24 administration. The agent shall process all protests relating to
+25 procurements under this section. If the agent does have a procurement
+26 protest policy and procedures that have been formally adopted and
+27 published by the agent, the agent may choose to make information relating
+28 to each procurement available earlier than required under section 34-603,
+29 subsection H I and section 34-604, subsection H if the agent determines
+30 the release of the information is necessary to adequately follow and
+31 manage its procurement protest policy and procedures.
+32 M. For the purposes of this section, "professional services"
+33 includes architect services, engineer services, landscape architect
+34 services, assayer services, geologist services and land surveying services
+35 and any combination of those services."
+36 Amend title to conform
+And, as so amended, it do pass
+DAVID LIVINGSTON
+CHAIRMAN
+1250APPROPRIATIONS.docx
+03/31/2026
+12:59 PM
+C: AH
+130PIPVWR
+-27-

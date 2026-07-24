@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to TI - Biasiucci - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB2257: HOV lane; blood transport vehicles
+BIASIUCCI FLOOR AMENDMENT
+1. Changes the percentages, from 65% to 55%, rather than from 65% to 50%, of
+monies collected from the numbering of watercraft fees to be distributed into
+the Watercraft Licensing Fund and from 35% to 45%, rather than from 35%
+to 50%, into the State Lake Improvement Fund (SLIF) and Law Enforcement
+and Boating Safety Fund (LEBSF).
+2. Modifies the distribution of collected monies for the SLIF and LEBSF, from
+15% to 10% for SLIF and from 85% to 90% for LEBSF.
+3. Removes ADOT's reporting requirement on expenditures made from the
+Watercraft Licensing Fund.
+4. Distributes LEBSF monies as follows:
+a. 49.22% to Mohave County;
+b. 12.5% to La Paz County;
+c. 10.45% to Coconino County;
+d. 9.65% to Maricopa County;
+e. 9.3% to Yuma County;
+f. 7.35% to Gila County;
+g. 1.03% to Apache County; and
+h. 0.5% to Navajo County.
+5. Removes the requirement that, to distribute LEBSF monies to counties, the
+State Treasurer must use the Arizona Department of Game and Fish
+(AZGFD) Commission's allocation formula.
+6. Eliminates statutorily prescribed items that the AZGFD Commission may
+use in determining the allocation formula.
+7. Makes technical and conforming changes.
+LUCA MOLDOVAN
+2/24/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Biasiucci
+Second Regular Session
+H.B. 2257
+BIASIUCCI FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2257
+(Reference to TRANSPORTATION & INFRASTRUCTURE S/E Committee amendment)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Strike everything after the enacting clause and insert:
+3 "Section 1. Section 5-323, Arizona Revised Statutes, is amended to
+4 read:
+5 5-323. Disposition of fees; annual report
+6 [A.] Each month monies received from the registration and
+7 infrastructure fees received under this chapter for the numbering of
+8 watercraft shall be deposited, pursuant to sections 35-146 and 35-147, in
+9 the watercraft licensing fund. Each month, the department shall
+10 distribute the monies as follows:
+11 1. All revenues collected pursuant to section 5-321, subsection A
+12 and section 5-326 shall be allocated as follows:
+13 (a) Sixty-five per cent [FIFTY] [FIFTY-FIVE] PERCENT shall be
+14 deposited in the watercraft licensing fund. The watercraft licensing fund
+15 is to be used by the department for administering and enforcing this
+16 chapter, providing an information and education program relating to
+17 boating and boating safety and administering any aquatic invasive species
+18 program established under this title or title 17. These monies are
+19 subject to legislative appropriation.
+20 (b) Thirty-five per cent [FIFTY] [FORTY-FIVE] PERCENT of such
+21 revenues shall be further allocated as follows:
+22 (i) [Fifteen] per cent [TEN] PERCENT to the state lake improvement
+23 fund to be used as prescribed by section 5-382.
+24 (ii) [Eighty-five] per cent [NINETY] PERCENT to the law enforcement
+25 and boating safety fund to be used as prescribed by section 5-383.
+26 2. All revenues collected from any additional registration fees
+27 collected pursuant to section 5-321, subsection C D shall be paid to an
+28 account designated by a multi-county water conservation district
+29 established under title 48, chapter 22 to be used solely for the lower
+30 Colorado river multispecies conservation program and for no other purpose.
+
+1 [B. THE DEPARTMENT SHALL SUBMIT AN ANNUAL REPORT TO THE PRESIDENT
+2 OF THE SENATE, THE SPEAKER OF THE HOUSE OF REPRESENTATIVES AND THE
+3 SECRETARY OF STATE ON EXPENDITURES MADE FROM THE WATERCRAFT LICENSING
+4 FUND.]
+5 <<Sec. 2. Section 5-383, Arizona Revised Statutes, is amended to
+6 read:
+7 5-383. Law enforcement and boating safety fund; boating law
+8 enforcement, personnel, equipment and training
+9 funding to counties
+10 A. [A] [THE] law enforcement and boating safety fund is established
+11 [that consists] [CONSISTING] of monies distributed to the fund pursuant to
+12 sections 5-323, 5-395.01, 5-395.03, 5-396 and 5-397. The monies are
+13 subject to legislative appropriation.
+14 B. Only a board of supervisors of a county that has a law
+15 enforcement and boating safety program that was in existence before July
+16 1, 1990 shall be eligible to receive law enforcement and boating safety
+17 fund monies. [THE REVENUES ALLOCATED TO THE LAW ENFORCEMENT AND BOATING
+18 SAFETY FUND SHALL BE ALLOCATED AS FOLLOWS:
+19 1. 1.03 PERCENT TO APACHE COUNTY.
+20 2. 10.45 PERCENT TO COCONINO COUNTY.
+21 3. 7.35 PERCENT TO GILA COUNTY.
+22 4. 12.5 PERCENT TO LA PAZ COUNTY.
+23 5. 9.65 PERCENT TO MARICOPA COUNTY.
+24 6. 49.22 PERCENT TO MOHAVE COUNTY.
+25 7. .5 PERCENT TO NAVAJO COUNTY.
+26 8. 9.3 PERCENT TO YUMA COUNTY.]
+27 C. The state treasurer shall administer the fund. [Using an
+28 allocation formula as determined annually by the commission,] The state
+29 treasurer shall distribute monies monthly from the law enforcement and
+30 boating safety fund to eligible counties as prescribed in subsection B of
+31 this section.
+32 [D. In determining the allocation formula, the commission may
+33 consider the following:
+34 1. The adequacy of existing county boating safety programs that
+35 include accident investigations.
+36 2. The number of recreational days of use on water within the
+37 jurisdiction of the counties in areas of administrative authority.
+38 3. The surface acreage of water within the jurisdiction of the
+39 counties in areas of administrative authority.
+40 4. The county water safety record.
+41 5. The ability of the county to constructively use additional
+42 monies.
+43 6. The ratio of boating use to water surface within the
+44 jurisdiction of the counties in areas of administrative authority.
+45 7. The ability of participating counties to provide continued
+46 funding of the program.
+47 8. Annual input and feedback from the county boards of supervisors
+48 receiving funds.
+49 9. Boat accident data for the waterways within the jurisdiction of
+50 the county.]
+-2-
+
+1 [E.] [D.] The monies distributed to a county board of supervisors
+2 shall be used by the law enforcement agencies of the county solely for
+3 boating law enforcement, personnel, equipment and training.>>"
+4 Enroll and engross to conform
+5 Amend title to conform
+LEO BIASIUCCI
+2257FloorBIASIUCCI2.docx
+02/24/2026
+05:17 PM
+C: LAT
+130DEPIXQ
+-3-

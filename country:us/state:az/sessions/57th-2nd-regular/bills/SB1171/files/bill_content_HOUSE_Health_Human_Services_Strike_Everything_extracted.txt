@@ -1,0 +1,667 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Health & Human Services - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON HEALTH & HUMAN SERVICES
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1171
+(Reference to Senate engrossed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Title 36, chapter 4, article 1, Arizona Revised
+3 Statutes, is amended by adding section 36-411.02, to read:
+4 36-411.02. Behavioral health facilities; fingerprint
+5 clearance cards
+6 BEGINNING JANUARY 1, 2027, AS A CONDITION OF LICENSURE OR CONTINUED
+7 LICENSURE OF THE FOLLOWING HEALTH CARE INSTITUTIONS, EACH APPLICANT,
+8 LICENSEE AND OWNER OF THE HEALTH CARE INSTITUTION, OR IN THE CASE OF A
+9 NONPROFIT HEALTH CARE INSTITUTION THAT DOES NOT HAVE AN OWNER, EACH
+10 APPLICANT, EACH LICENSEE AND THE PRINCIPAL OFFICER OR EXECUTIVE DIRECTOR,
+11 SHALL BE A UNITED STATES CITIZEN OR A LAWFUL PERMANENT RESIDENT OF THE
+12 UNITED STATES AND HAVE A VALID FINGERPRINT CLEARANCE CARD ISSUED PURSUANT
+13 TO SECTION 41-1758.07:
+14 1. AN OUTPATIENT TREATMENT CENTER THAT PROVIDES ONLY BEHAVIORAL
+15 HEALTH SERVICES.
+16 2. A BEHAVIORAL HEALTH INPATIENT FACILITY.
+17 3. A BEHAVIORAL HEALTH RESIDENTIAL FACILITY.
+18 4. A COUNSELING FACILITY.
+19 5. A SUBSTANCE ABUSE TRANSITIONAL FACILITY.
+20 6. A BEHAVIORAL HEALTH SPECIALIZED TRANSITIONAL FACILITY.
+21 Sec. 2. Section 41-619.51, Arizona Revised Statutes, is amended to
+22 read:
+23 41-619.51. Definitions
+24 In this article, unless the context otherwise requires:
+25 1. "Agency" means the supreme court, the department of economic
+26 security, the department of child safety, the department of education, the
+27 department of health services, the department of juvenile corrections, the
+28 department of emergency and military affairs, the department of public
+29 safety, the department of transportation, the state real estate
+30 department, the department of insurance and financial institutions, the
+31 Arizona game and fish department, the Arizona department of agriculture,
+32 the board of examiners of nursing care institution administrators and
+33 assisted living facility managers, the state board of dental examiners,
+34 the Arizona state board of pharmacy, the board of physical therapy, the
+35 state board of psychologist examiners, the board of athletic training, the
+36 board of occupational therapy examiners, the state board of podiatry
+37 examiners, the acupuncture board of examiners, the state board of
+38 technical registration, the board of massage therapy, the board of
+39 behavioral health examiners or the Arizona department of housing.
+40 2. "Board" means the board of fingerprinting.
+
+House Amendments to S.B. 1171
+1 3. "Central registry exception" means notification to the
+2 department of economic security, the department of child safety or the
+3 department of health services, as appropriate, pursuant to section
+4 41-619.57 that the person is not disqualified because of a central
+5 registry check conducted pursuant to section 8-804.
+6 4. "Expedited review" means an examination, in accordance with
+7 board rule, of the documents an applicant submits by the board or its
+8 hearing officer without the applicant being present.
+9 5. "Good cause exception" means the issuance of a fingerprint
+10 clearance card to an employee pursuant to section 41-619.55.
+11 6. "Person" means a person who is required to be fingerprinted
+12 pursuant to this article or who is subject to a central registry check and
+13 any of the following:
+14 (a) Section 3-314.
+15 (b) Section 8-105.
+16 (c) Section 8-322.
+17 (d) Section 8-463.
+18 (e) Section 8-509.
+19 (f) Section 8-802.
+20 (g) Section 8-804.
+21 (h) Section 15-183.
+22 (i) Section 15-503.
+23 (j) Section 15-512.
+24 (k) Section 15-534.
+25 (l) Section 15-763.01.
+26 (m) Section 15-782.02.
+27 (n) Section 15-1330.
+28 (o) Section 15-1881.
+29 (p) Section 17-215.
+30 (q) Section 28-3228.
+31 (r) Section 28-3413.
+32 (s) Section 32-122.02.
+33 (t) Section 32-122.05.
+34 (u) Section 32-122.06.
+35 (v) Section 32-823.
+36 (w) Section 32-1232.
+37 (x) Section 32-1276.01.
+38 (y) Section 32-1284.
+39 (z) Section 32-1297.01.
+40 (aa) Section 32-1904.
+41 (bb) Section 32-1941.
+42 (cc) Section 32-1982.
+43 (dd) Section 32-2022.
+44 (ee) Section 32-2063.
+45 (ff) Section 32-2108.01.
+46 (gg) Section 32-2123.
+47 (hh) Section 32-2371.
+-2-
+
+House Amendments to S.B. 1171
+1 (ii) Section 32-3271.
+2 (jj) Section 32-3430.
+3 (kk) Section 32-3620.
+4 (ll) Section 32-3668.
+5 (mm) Section 32-3669.
+6 (nn) Section 32-3922.
+7 (oo) Section 32-3924.
+8 (pp) Section 32-4128.
+9 (qq) Section 32-4222.
+10 (rr) Section 36-113.
+11 (ss) Section 36-207.
+12 (tt) Section 36-411.
+13 (uu) SECTION 36-411.02.
+14 (uu) (vv) Section 36-425.03.
+15 (vv) (ww) Section 36-446.04.
+16 (ww) (xx) Section 36-594.01.
+17 (xx) (yy) Section 36-594.02.
+18 (yy) (zz) Section 36-766.01.
+19 (zz) (aaa) Section 36-882.
+20 (aaa) (bbb) Section 36-883.02.
+21 (bbb) (ccc) Section 36-897.01.
+22 (ccc) (ddd) Section 36-897.03.
+23 (ddd) (eee) Section 36-1940.
+24 (eee) (fff) Section 36-1940.01.
+25 (fff) (ggg) Section 36-2069.
+26 (ggg) (hhh) Section 36-3008.
+27 (hhh) (iii) Section 41-619.53.
+28 (iii) (jjj) Section 41-1964.
+29 (jjj) (kkk) Section 41-1967.01.
+30 (kkk) (lll) Section 41-1968.
+31 (lll) (mmm) Section 41-1969.
+32 (mmm) (nnn) Section 41-2814.
+33 (nnn) (ooo) Section 41-4025.
+34 (ooo) (ppp) Section 46-141, subsection A or B.
+35 (ppp) (qqq) Section 46-321.
+36 Sec. 3. Section 41-1758, Arizona Revised Statutes, is amended to
+37 read:
+38 41-1758. Definitions
+39 In this article, unless the context otherwise requires:
+40 1. "Agency" means the supreme court, the department of economic
+41 security, the department of child safety, the department of education, the
+42 department of health services, the department of juvenile corrections, the
+43 department of emergency and military affairs, the department of public
+44 safety, the department of transportation, the state real estate
+45 department, the department of insurance and financial institutions, the
+46 board of fingerprinting, the Arizona game and fish department, the Arizona
+47 department of agriculture, the board of examiners of nursing care
+-3-
+
+House Amendments to S.B. 1171
+1 institution administrators and assisted living facility managers, the
+2 state board of dental examiners, the Arizona state board of pharmacy, the
+3 board of physical therapy, the state board of psychologist examiners, the
+4 board of athletic training, the board of occupational therapy examiners,
+5 the state board of podiatry examiners, the acupuncture board of examiners,
+6 the state board of technical registration, the board of massage therapy,
+7 the board of behavioral health examiners or the Arizona department of
+8 housing.
+9 2. "Division" means the fingerprinting division in the department
+10 of public safety.
+11 3. "Electronic or internet-based fingerprinting services" means a
+12 secure system for digitizing applicant fingerprints and transmitting the
+13 applicant data and fingerprints of a person or entity submitting
+14 fingerprints to the department of public safety for any authorized purpose
+15 under this title. For the purposes of this paragraph, "secure system"
+16 means a system that complies with the information technology security
+17 policy approved by the department of public safety.
+18 4. "Good cause exception" means the issuance of a fingerprint
+19 clearance card to an applicant pursuant to section 41-619.55.
+20 5. "Person" means a person who is required to be fingerprinted
+21 pursuant to any of the following:
+22 (a) Section 3-314.
+23 (b) Section 8-105.
+24 (c) Section 8-322.
+25 (d) Section 8-463.
+26 (e) Section 8-509.
+27 (f) Section 8-802.
+28 (g) Section 15-183.
+29 (h) Section 15-503.
+30 (i) Section 15-512.
+31 (j) Section 15-534.
+32 (k) Section 15-763.01.
+33 (l) Section 15-782.02.
+34 (m) Section 15-1330.
+35 (n) Section 15-1881.
+36 (o) Section 17-215.
+37 (p) Section 28-3228.
+38 (q) Section 28-3413.
+39 (r) Section 32-122.02.
+40 (s) Section 32-122.05.
+41 (t) Section 32-122.06.
+42 (u) Section 32-823.
+43 (v) Section 32-1232.
+44 (w) Section 32-1276.01.
+45 (x) Section 32-1284.
+46 (y) Section 32-1297.01.
+47 (z) Section 32-1904.
+-4-
+
+House Amendments to S.B. 1171
+1 (aa) Section 32-1941.
+2 (bb) Section 32-1982.
+3 (cc) Section 32-2022.
+4 (dd) Section 32-2063.
+5 (ee) Section 32-2108.01.
+6 (ff) Section 32-2123.
+7 (gg) Section 32-2371.
+8 (hh) Section 32-3271.
+9 (ii) Section 32-3430.
+10 (jj) Section 32-3620.
+11 (kk) Section 32-3668.
+12 (ll) Section 32-3669.
+13 (mm) Section 32-3922.
+14 (nn) Section 32-3924.
+15 (oo) Section 32-4128.
+16 (pp) Section 32-4222.
+17 (qq) Section 36-113.
+18 (rr) Section 36-207.
+19 (ss) Section 36-411.
+20 (tt) SECTION 36-411.02.
+21 (tt) (uu) Section 36-425.03.
+22 (uu) (vv) Section 36-446.04.
+23 (vv) (ww) Section 36-594.01.
+24 (ww) (xx) Section 36-594.02.
+25 (xx) (yy) Section 36-766.01.
+26 (yy) (zz) Section 36-882.
+27 (zz) (aaa) Section 36-883.02.
+28 (aaa) (bbb) Section 36-897.01.
+29 (bbb) (ccc) Section 36-897.03.
+30 (ccc) (ddd) Section 36-1940.
+31 (ddd) (eee) Section 36-1940.01.
+32 (eee) (fff) Section 36-2069.
+33 (fff) (ggg) Section 36-3008.
+34 (ggg) (hhh) Section 41-619.52.
+35 (hhh) (iii) Section 41-619.53.
+36 (iii) (jjj) Section 41-1964.
+37 (jjj) (kkk) Section 41-1967.01.
+38 (kkk) (lll) Section 41-1968.
+39 (lll) (mmm) Section 41-1969.
+40 (mmm) (nnn) Section 41-2814.
+41 (nnn) (ooo) Section 41-4025.
+42 (ooo) (ppp) Section 46-141, subsection A or B.
+43 (ppp) (qqq) Section 46-321.
+44 6. "Rap back services" has the same meaning prescribed in section
+45 41-1750.
+46 7. "Vulnerable adult" has the same meaning prescribed in section
+47 13-3623.
+-5-
+
+House Amendments to S.B. 1171
+1 Sec. 4. Section 41-1758.01, Arizona Revised Statutes, is amended to
+2 read:
+3 41-1758.01. Fingerprinting division; powers and duties
+4 A. The fingerprinting division is established in the department of
+5 public safety and shall:
+6 1. Conduct fingerprint background checks for persons and applicants
+7 who are seeking licenses from state agencies, employment with licensees,
+8 contract providers and state agencies or employment or educational
+9 opportunities with agencies that require fingerprint background checks
+10 pursuant to sections 3-314, 8-105, 8-322, 8-463, 8-509, 8-802, 15-183,
+11 15-503, 15-512, 15-534, 15-763.01, 15-782.02, 15-1330, 15-1881, 17-215,
+12 28-3228, 28-3413, 32-122.02, 32-122.05, 32-122.06, 32-823, 32-1232,
+13 32-1276.01, 32-1284, 32-1297.01, 32-1904, 32-1941, 32-1982, 32-2022,
+14 32-2063, 32-2108.01, 32-2123, 32-2371, 32-3271, 32-3430, 32-3620, 32-3668,
+15 32-3669, 32-3922, 32-3924, 32-4128, 32-4222, 36-113, 36-207, 36-411,
+16 36-411.02, 36-425.03, 36-446.04, 36-594.01, 36-594.02, 36-766.01, 36-882,
+17 36-883.02, 36-897.01, 36-897.03, 36-1940, 36-1940.01, 36-2069, 36-3008,
+18 41-619.52, 41-619.53, 41-1964, 41-1967.01, 41-1968, 41-1969, 41-2814 and
+19 41-4025, section 46-141, subsection A or B and section 46-321.
+20 2. Issue fingerprint clearance cards. On issuance, a fingerprint
+21 clearance card becomes the personal property of the cardholder and the
+22 cardholder shall retain possession of the fingerprint clearance card.
+23 3. On submission of an application for a fingerprint clearance
+24 card, collect the fees established by the board of fingerprinting pursuant
+25 to section 41-619.53 and deposit, pursuant to sections 35-146 and 35-147,
+26 the monies collected in the board of fingerprinting fund.
+27 4. Inform in writing each person who submits fingerprints for a
+28 fingerprint background check of the right to petition the board of
+29 fingerprinting for a good cause exception pursuant to section 41-1758.03,
+30 41-1758.04 or 41-1758.07.
+31 5. If after conducting a state and federal criminal history records
+32 check the division determines that it is not authorized to issue a
+33 fingerprint clearance card to a person, inform the person in writing that
+34 the division is not authorized to issue a fingerprint clearance card. The
+35 notice shall include the criminal history information on which the denial
+36 was based. This criminal history information is subject to dissemination
+37 restrictions pursuant to section 41-1750 and Public Law 92-544.
+38 6. Notify the person in writing if the division suspends, revokes
+39 or places a driving restriction notation on a fingerprint clearance card
+40 pursuant to section 41-1758.04. The notice shall include the criminal
+41 history information on which the suspension, revocation or placement of
+42 the driving restriction notation was based. This criminal history
+43 information is subject to dissemination restrictions pursuant to section
+44 41-1750 and Public Law 92-544.
+45 7. Administer and enforce this article.
+46 B. The fingerprinting division may contract for electronic or
+47 internet-based fingerprinting services through an entity or entities for
+-6-
+
+House Amendments to S.B. 1171
+1 the acquisition and transmission of applicant fingerprint and data
+2 submissions to the department, including identity verified fingerprints
+3 pursuant to section 15-106. The entity or entities contracted by the
+4 department of public safety may charge the applicant a fee for services
+5 provided pursuant to this article. The entity or entities contracted by
+6 the department of public safety shall comply with:
+7 1. All information privacy and security measures and submission
+8 standards established by the department of public safety.
+9 2. The information technology security policy approved by the
+10 department of public safety.
+11 Sec. 5. Section 41-1758.07, Arizona Revised Statutes, is amended to
+12 read:
+13 41-1758.07. Level I fingerprint clearance cards; definitions
+14 A. On receiving the state and federal criminal history record of a
+15 person who is required to be fingerprinted pursuant to this section, the
+16 division shall compare the record with the list of criminal offenses that
+17 preclude the person from receiving a level I fingerprint clearance card.
+18 If the person's criminal history record does not contain any of the
+19 offenses listed in subsections B and C of this section, the division shall
+20 issue the person a level I fingerprint clearance card.
+21 B. A person who is subject to registration as a sex offender in
+22 this state or any other jurisdiction or who is awaiting trial on or who
+23 has been convicted of committing or attempting, soliciting, facilitating
+24 or conspiring to commit one or more of the following offenses in this
+25 state or the same or similar offenses in another state or jurisdiction is
+26 precluded from receiving a level I fingerprint clearance card:
+27 1. Sexual abuse of a vulnerable adult.
+28 2. Incest.
+29 3. Homicide, including first or second degree murder, manslaughter
+30 and negligent homicide.
+31 4. Sexual assault.
+32 5. Sexual exploitation of a minor.
+33 6. Sexual exploitation of a vulnerable adult.
+34 7. Commercial sexual exploitation of a minor.
+35 8. Commercial sexual exploitation of a vulnerable adult.
+36 9. Child sex trafficking as prescribed in section 13-3212.
+37 10. Child abuse.
+38 11. Felony child neglect.
+39 12. Abuse of a vulnerable adult.
+40 13. Sexual conduct with a minor.
+41 14. Molestation of a child.
+42 15. Molestation of a vulnerable adult.
+43 16. Dangerous crimes against children as defined in section 13-705.
+44 17. Exploitation of minors involving drug offenses.
+45 18. Taking a child for the purpose of prostitution as prescribed in
+46 section 13-3206.
+47 19. Neglect or abuse of a vulnerable adult.
+-7-
+
+House Amendments to S.B. 1171
+1 20. Sex trafficking.
+2 21. Sexual abuse.
+3 22. Production, publication, sale, possession and presentation of
+4 obscene items as prescribed in section 13-3502.
+5 23. Furnishing harmful items to minors as prescribed in section
+6 13-3506.
+7 24. Furnishing harmful items to minors by internet activity as
+8 prescribed in section 13-3506.01.
+9 25. Obscene or indecent telephone communications to minors for
+10 commercial purposes as prescribed in section 13-3512.
+11 26. Luring a minor for sexual exploitation.
+12 27. Enticement of persons for purposes of prostitution.
+13 28. Procurement by false pretenses of person for purposes of
+14 prostitution.
+15 29. Procuring or placing persons in a house of prostitution.
+16 30. Receiving earnings of a prostitute.
+17 31. Causing one's spouse to become a prostitute.
+18 32. Detention of persons in a house of prostitution for debt.
+19 33. Keeping or residing in a house of prostitution or employment in
+20 prostitution.
+21 34. Pandering.
+22 35. Transporting persons for the purpose of prostitution, polygamy
+23 and concubinage.
+24 36. Portraying adult as a minor as prescribed in section 13-3555.
+25 37. Admitting minors to public displays of sexual conduct as
+26 prescribed in section 13-3558.
+27 38. Any felony offense involving contributing to the delinquency of
+28 a minor.
+29 39. Unlawful sale or purchase of children.
+30 40. Child bigamy.
+31 41. Any felony offense involving domestic violence as defined in
+32 section 13-3601 except for a felony offense only involving criminal damage
+33 in an amount of more than $250 but less than $1,000 if the offense was
+34 committed before June 29, 2009.
+35 42. Any felony offense in violation of title 13, chapter 12 if
+36 committed within five years before the date of applying for a level I
+37 fingerprint clearance card.
+38 43. Felony drug or alcohol related offenses if committed within
+39 five years before the date of applying for a level I fingerprint clearance
+40 card.
+41 44. Felony indecent exposure.
+42 45. Felony public sexual indecency.
+43 46. Terrorism.
+44 47. Any offense involving a violent crime as defined in section
+45 13-901.03.
+46 48. Trafficking of persons for forced labor or services.
+-8-
+
+House Amendments to S.B. 1171
+1 C. A person who is awaiting trial on or who has been convicted of
+2 committing or attempting, soliciting, facilitating or conspiring to commit
+3 one or more of the following offenses in this state or the same or similar
+4 offenses in another state or jurisdiction is precluded from receiving a
+5 level I fingerprint clearance card, except that the person may petition
+6 the board of fingerprinting for a good cause exception pursuant to section
+7 41-619.55:
+8 1. Any misdemeanor offense in violation of title 13, chapter 12.
+9 2. Misdemeanor indecent exposure.
+10 3. Misdemeanor public sexual indecency.
+11 4. Aggravated criminal damage.
+12 5. Theft.
+13 6. Theft by extortion.
+14 7. Shoplifting.
+15 8. Forgery.
+16 9. Criminal possession of a forgery device.
+17 10. Obtaining a signature by deception.
+18 11. Criminal impersonation.
+19 12. Theft of a credit card or obtaining a credit card by fraudulent
+20 means.
+21 13. Receipt of anything of value obtained by fraudulent use of a
+22 credit card.
+23 14. Forgery of a credit card.
+24 15. Fraudulent use of a credit card.
+25 16. Possession of any machinery, plate or other contrivance or
+26 incomplete credit card.
+27 17. False statement as to financial condition or identity to obtain
+28 a credit card.
+29 18. Fraud by persons authorized to provide goods or services.
+30 19. Credit card transaction record theft.
+31 20. Misconduct involving weapons.
+32 21. Misconduct involving explosives.
+33 22. Depositing explosives.
+34 23. Misconduct involving simulated explosive devices.
+35 24. Concealed weapon violation.
+36 25. Misdemeanor possession and misdemeanor sale of peyote.
+37 26. Felony possession and felony sale of peyote if committed more
+38 than five years before the date of applying for a level I fingerprint
+39 clearance card.
+40 27. Misdemeanor possession and misdemeanor sale of a
+41 vapor-releasing substance containing a toxic substance.
+42 28. Felony possession and felony sale of a vapor-releasing
+43 substance containing a toxic substance if committed more than five years
+44 before the date of applying for a level I fingerprint clearance card.
+45 29. Misdemeanor sale of precursor chemicals.
+-9-
+
+House Amendments to S.B. 1171
+1 30. Felony sale of precursor chemicals if committed more than five
+2 years before the date of applying for a level I fingerprint clearance
+3 card.
+4 31. Misdemeanor possession, misdemeanor use or misdemeanor sale of
+5 marijuana, dangerous drugs or narcotic drugs.
+6 32. Felony possession, felony use or felony sale of marijuana,
+7 dangerous drugs or narcotic drugs if committed more than five years before
+8 the date of applying for a level I fingerprint clearance card.
+9 33. Misdemeanor manufacture or misdemeanor distribution of an
+10 imitation controlled substance.
+11 34. Felony manufacture or felony distribution of an imitation
+12 controlled substance if committed more than five years before the date of
+13 applying for a level I fingerprint clearance card.
+14 35. Misdemeanor manufacture or misdemeanor distribution of an
+15 imitation prescription-only drug.
+16 36. Felony manufacture or felony distribution of an imitation
+17 prescription-only drug if committed more than five years before the date
+18 of applying for a level I fingerprint clearance card.
+19 37. Misdemeanor manufacture or misdemeanor distribution of an
+20 imitation over-the-counter drug.
+21 38. Felony manufacture or felony distribution of an imitation
+22 over-the-counter drug if committed more than five years before the date of
+23 applying for a level I fingerprint clearance card.
+24 39. Misdemeanor possession or misdemeanor possession with intent to
+25 use an imitation controlled substance.
+26 40. Felony possession or felony possession with intent to use an
+27 imitation controlled substance if committed more than five years before
+28 the date of applying for a level I fingerprint clearance card.
+29 41. Misdemeanor possession or misdemeanor possession with intent to
+30 use an imitation prescription-only drug.
+31 42. Felony possession or felony possession with intent to use an
+32 imitation prescription-only drug if committed more than five years before
+33 the date of applying for a level I fingerprint clearance card.
+34 43. Misdemeanor possession or misdemeanor possession with intent to
+35 use an imitation over-the-counter drug.
+36 44. Felony possession or felony possession with intent to use an
+37 imitation over-the-counter drug if committed more than five years before
+38 the date of applying for a level I fingerprint clearance card.
+39 45. Misdemeanor manufacture of certain substances and drugs by
+40 certain means.
+41 46. Felony manufacture of certain substances and drugs by certain
+42 means if committed more than five years before the date of applying for a
+43 level I fingerprint clearance card.
+44 47. Adding poison or other harmful substance to food, drink or
+45 medicine.
+46 48. A criminal offense involving criminal trespass under title 13,
+47 chapter 15.
+-10-
+
+House Amendments to S.B. 1171
+1 49. A criminal offense involving burglary under title 13,
+2 chapter 15.
+3 50. A criminal offense under title 13, chapter 23, except
+4 terrorism.
+5 51. Misdemeanor offenses involving child neglect.
+6 52. Misdemeanor offenses involving contributing to the delinquency
+7 of a minor.
+8 53. Misdemeanor offenses involving domestic violence as defined in
+9 section 13-3601.
+10 54. Felony offenses involving domestic violence if the offense only
+11 involved criminal damage in an amount of more than $250 but less than
+12 $1,000 and the offense was committed before June 29, 2009.
+13 55. Arson.
+14 56. Felony offenses involving sale, distribution or transportation
+15 of, offer to sell, transport or distribute or conspiracy to sell,
+16 transport or distribute marijuana, dangerous drugs or narcotic drugs if
+17 committed more than five years before the date of applying for a level I
+18 fingerprint clearance card.
+19 57. Criminal damage.
+20 58. Misappropriation of charter school monies as prescribed in
+21 section 13-1818.
+22 59. Taking identity of another person or entity.
+23 60. Aggravated taking identity of another person or entity.
+24 61. Trafficking in the identity of another person or entity.
+25 62. Cruelty to animals.
+26 63. Prostitution as prescribed in section 13-3214.
+27 64. Sale or distribution of material harmful to minors through
+28 vending machines as prescribed in section 13-3513.
+29 65. Welfare fraud.
+30 66. Any felony offense in violation of title 13, chapter 12 if
+31 committed more than five years before the date of applying for a level I
+32 fingerprint clearance card.
+33 67. Kidnapping.
+34 68. Robbery, aggravated robbery or armed robbery.
+35 D. A person who is awaiting trial on or who has been convicted of
+36 committing or attempting to commit a misdemeanor violation of section
+37 28-1381, 28-1382 or 28-1383 in this state or the same or a similar offense
+38 in another state or jurisdiction within five years after the date of
+39 applying for a level I fingerprint clearance card is precluded from
+40 driving any vehicle to transport employees or clients of the employing
+41 agency as part of the person's employment. The division shall place a
+42 notation on the level I fingerprint clearance card that indicates this
+43 driving restriction. This subsection does not preclude a person from
+44 driving a vehicle alone as part of the person's employment.
+45 E. Notwithstanding subsection C of this section, on receiving
+46 written notice from the board of fingerprinting that a good cause
+-11-
+
+House Amendments to S.B. 1171
+1 exception was granted pursuant to section 41-619.55, the division shall
+2 issue a level I fingerprint clearance card to the applicant.
+3 F. If the division denies a person's application for a level I
+4 fingerprint clearance card pursuant to subsection C of this section and a
+5 good cause exception is requested pursuant to section 41-619.55, the
+6 division shall release, on request by the board of fingerprinting, the
+7 person's criminal history record to the board of fingerprinting.
+8 G. A person shall be granted a level I fingerprint clearance card
+9 pursuant to this section if either of the following applies:
+10 1. An agency granted a good cause exception before August 16, 1999
+11 and no new precluding offense is identified. The fingerprint clearance
+12 card shall specify only the program that granted the good cause exception.
+13 On the request of the applicant, the agency that granted the prior good
+14 cause exception shall notify the division in writing of the date on which
+15 the prior good cause exception was granted, the date of the conviction and
+16 the name of the offense for which the good cause exception was granted.
+17 2. The board granted a good cause exception and no new precluding
+18 offense is identified.
+19 H. The licensee or contract provider shall assume the costs of
+20 fingerprint checks conducted pursuant to this section and may charge these
+21 costs to persons who are required to be fingerprinted.
+22 I. A person who is under eighteen years of age or who is at least
+23 ninety-nine years of age is exempt from the level I fingerprint clearance
+24 card requirements of this section. At all times the person shall be under
+25 the direct visual supervision of personnel who have valid level I
+26 fingerprint clearance cards.
+27 J. The division may conduct criminal history records checks through
+28 state and federal rap back services pursuant to section 41-1750,
+29 subsection G for the purpose of updating the clearance status of current
+30 level I fingerprint clearance cardholders pursuant to this section and may
+31 notify the employing or licensing agency of the results of the records
+32 check. If the division suspends a person's fingerprint clearance card and
+33 the person requests a good cause exception pursuant to section 41-619.55,
+34 the division shall release, on request by the board of fingerprinting, the
+35 person's criminal history record to the board of fingerprinting.
+36 K. The division shall revoke a person's level I fingerprint
+37 clearance card on receipt of a written request for revocation from the
+38 board of fingerprinting pursuant to section 41-619.55.
+39 L. If a person's criminal history record contains an offense listed
+40 in subsection B or C of this section and the final disposition is not
+41 recorded on the record, the division shall conduct research to obtain the
+42 disposition within thirty business days after receipt of the record. If
+43 the division cannot determine, within thirty business days after receipt
+44 of the person's state and federal criminal history record information,
+45 whether the person is awaiting trial on or has been convicted of
+46 committing or attempting, soliciting, facilitating or conspiring to commit
+47 any of the offenses listed in subsection B or C of this section in this
+-12-
+
+House Amendments to S.B. 1171
+1 state or the same or a similar offense in another state or jurisdiction,
+2 the division shall not issue a level I fingerprint clearance card to the
+3 person. If the division is unable to make the determination required by
+4 this subsection and does not issue a level I fingerprint clearance card to
+5 a person, the person may request a good cause exception pursuant to
+6 section 41-619.55.
+7 M. If after conducting a state and federal criminal history records
+8 check the division determines that it is not authorized to issue a level I
+9 fingerprint clearance card to an applicant, the division shall notify the
+10 agency that the division is not authorized to issue a level I fingerprint
+11 clearance card. This notice shall include the criminal history
+12 information on which the denial was based. This criminal history
+13 information is subject to dissemination restrictions pursuant to section
+14 41-1750 and Public Law 92-544.
+15 N. The division is not liable for damages resulting from:
+16 1. The issuance of a level I fingerprint clearance card to an
+17 applicant who is later found to have been ineligible to receive a level I
+18 fingerprint clearance card at the time the card was issued.
+19 2. The denial of a level I fingerprint clearance card to an
+20 applicant who is later found to have been eligible to receive a level I
+21 fingerprint clearance card at the time issuance of the card was denied.
+22 O. Notwithstanding any law to the contrary, an individual may apply
+23 for and receive a level I fingerprint clearance card pursuant to this
+24 section to satisfy a requirement that the person have a valid fingerprint
+25 clearance card issued pursuant to section 41-1758.03.
+26 P. Notwithstanding any law to the contrary, except as prescribed
+27 pursuant to subsection Q of this section, an individual who receives a
+28 level I fingerprint clearance card pursuant to this section also satisfies
+29 a requirement that the individual have a valid fingerprint clearance card
+30 issued pursuant to section 41-1758.03.
+31 Q. Unless a cardholder commits an offense listed in subsection B or
+32 C of this section after June 29, 2009, a fingerprint clearance card issued
+33 pursuant to section 41-1758.03 before June 29, 2009 and its renewals are
+34 valid for all requirements for a level I fingerprint clearance card except
+35 those relating to the requirements of section 8-105 or 8-509. A
+36 fingerprint clearance card issued before June 29, 2009 to meet the
+37 requirements of section 8-105 or 8-509 and its renewals are valid after
+38 June 29, 2009 to meet all requirements for a level I fingerprint clearance
+39 card, including the requirements of section 8-105 or 8-509, if the
+40 cardholder has been certified by the court to adopt or has been issued a
+41 foster home license before June 29, 2009.
+42 R. The issuance of a level I fingerprint clearance card does not
+43 entitle a person to employment.
+44 S. For the purposes of this section:
+45 1. "Person" means a person who is fingerprinted pursuant to:
+46 (a) Section 3-314, 8-105, 8-463, 8-509, 8-802, 17-215, 36-207,
+47 36-411.02, 36-594.01, 36-594.02, 36-882, 36-883.02, 36-897.01, 36-897.03,
+-13-
+
+House Amendments to S.B. 1171
+1 36-1940, 36-1940.01, 36-2819, 36-2855, 41-619.52, 41-619.53, 41-1964,
+2 41-1967.01, 41-1968, 41-1969 or 46-141.
+3 (b) Subsection O of this section.
+4 2. "Renewal" means the issuance of a fingerprint clearance card to
+5 an existing fingerprint clearance cardholder who applies before the
+6 person's existing fingerprint clearance card expires."
+7 Amend title to conform
+And, as so amended, it do pass
+SELINA BLISS
+CHAIRMAN
+1171HEALTH HUMAN SERVICES.docx
+03/23/2026
+04:16 PM
+C: MH
+130BFZQPW
+-14-

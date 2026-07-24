@@ -1,0 +1,174 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Finance
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Finance
+Second Regular Session S.B. 1764
+COMMITTEE ON FINANCE
+SENATE AMENDMENTS TO S.B. 1764
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 42-11001, Arizona Revised Statutes, is amended
+3 to read:
+4 42-11001. Definitions
+5 In THIS CHAPTER AND chapters 11 12 through 19 of this title, unless
+6 the context otherwise requires:
+7 1. "Assessed valuation" means the value derived by applying the
+8 applicable percentage prescribed by chapter 15, article 1 of this title to
+9 the full cash value or limited property value of the property, as
+10 applicable.
+11 2. "Board" or "state board" means the state board of equalization.
+12 3. "County board" means the county board of supervisors sitting as
+13 the county board of equalization.
+14 4. "Current usage" means the use to which property is put at the
+15 time of valuation by the assessor or the department.
+16 4. "CURRENT USE":
+17 (a) MEANS THE PRIMARY USE OF THE PROPERTY AS OF THE DATE FOR WHICH
+18 THE VALUATION IS DETERMINED AS SHOWN BY OBJECTIVELY VERIFIABLE AND
+19 ECONOMICALLY SUBSTANTIVE CONDITIONS. [THE COUNTY ASSESSOR SHALL DETERMINE
+20 A PROPERTY'S CURRENT USE FROM THE TOTALITY OF THE CIRCUMSTANCES, INCLUDING
+21 THE PROPERTY'S OBJECTIVELY VERIFIABLE CHARACTERISTICS, INFORMATION AND
+22 FUNCTIONS.]
+23 (b) DOES NOT INCLUDE TEMPORARY, INCIDENTAL, NOMINAL OR
+24 RELATED-PARTY ACTIVITIES OR ARRANGEMENTS BASED ONLY ON CONTRACTUAL OR
+25 INTANGIBLE RIGHTS WITHOUT CORRESPONDING PHYSICAL USE OR LEGALLY
+26 ENFORCEABLE RESTRICTIONS.
+27 5. "Due date" means the next business day if a due date of any
+28 report, claim, return, statement, payment, deposit, petition, notice or
+29 other document or filing falls on Saturday, Sunday or a legal holiday.
+
+Senate Amendments to S.B. 1764
+1 6. "Full cash value"[:
+2 (a)] MEANS: ,
+3 [(a)][(i)] For property tax purposes, means the value determined as
+4 prescribed by statute.
+5 [(b)][(ii)] If a statutory method is not prescribed, full cash
+6 value is synonymous with market value. , which FOR THE PURPOSES OF THIS
+7 [SUBDIVISION] [PARAGRAPH], "MARKET VALUE" means the estimate of value that
+8 is derived annually by using standard appraisal methods and
+9 techniques. Full cash value
+10 [(b) Is the basis for assessing, fixing, determining and levying
+11 primary and secondary property taxes on property described in section
+12 42-13304. Full cash value shall not be greater than market value
+13 regardless of the method prescribed to determine value for property tax
+14 purposes.]
+15 7. "Limited property value" means the value determined pursuant to
+16 section 42-13301. Limited property value is the basis for:
+17 (a) Computing levy limitations for counties, cities, towns and
+18 community college districts.
+19 (b) Assessing, fixing, determining and levying primary and
+20 secondary property taxes on all property except property described in
+21 section 42-13304.
+22 [8. "MARKET VALUE" MEANS THE ESTIMATE OF VALUE THAT IS DERIVED
+23 ANNUALLY BY USING STANDARD APPRAISAL METHODS AND TECHNIQUES.]
+24 [8.] [9.] "Net assessed value" means the assessed value minus any
+25 exempt property.
+26 [9.] [10.] "Person" means a natural person, individual,
+27 proprietor, proprietorship, company, corporation, organization,
+28 association, joint venture, partner, partnership, trust, estate or limited
+29 liability company, the federal or state government, a political
+30 subdivision of a state or any other legal entity or combination of
+31 entities that owns, controls or has possession of real or personal
+32 property.
+33 [10.] [11.] "Personal property" includes property of every kind,
+34 both tangible and intangible, that is not included as real estate.
+35 [11.] [12.] "Primary property taxes" means all ad valorem taxes
+36 except for secondary property taxes.
+37 [12.] [13.] "Producing mine" or "mining claim" means a mine or
+38 mining claim from which coal or any other mineral or mineral substance,
+39 except for clay, sand, gravel, building stone or a mineral or mineral
+40 substance that is normally processed into artificial stone, has been
+41 extracted for commercial purposes at any time during a period of one year
+42 before the first Monday in January of the valuation year.
+43 [13.] [14.] "Real estate" includes the ownership of, claim to,
+44 possession of or right of possession to lands or patented mines.
+45 [14.] [15.] "Residential treatment and education facility" means
+46 any residential facility that is subject to title 15, chapter 10,
+47 article 6.
+-2-
+
+Senate Amendments to S.B. 1764
+1 [15.] [16.] "Roll" means the assessment and tax roll.
+2 [16.] [17.] "Secondary property taxes" means:
+3 (a) Ad valorem taxes or special property assessments that are used
+4 to pay the principal of and the interest and redemption charges on bonded
+5 indebtedness or other lawful long-term obligations that are issued or
+6 incurred for a specific capital purpose by a municipality, county or
+7 taxing district.
+8 (b) Ad valorem taxes or assessments that are levied by or for
+9 special taxing districts and assessment districts other than school
+10 districts and community college districts.
+11 (c) Amounts that are levied pursuant to an election to exceed a
+12 budget, expenditure or tax limitation.
+13 [17.] [18.] "Tax year" for all property means the calendar year in
+14 which the taxes are levied.
+15 [18.] [19.] "Valuation" means the full cash value or limited
+16 property value that is determined for real or personal property, as
+17 applicable.
+18 [19.] [20.] "Valuation date", for the purposes of real property and
+19 property valued by the department: ,
+20 (a) Means January 1 of the year preceding the year in which taxes
+21 are levied.
+22 (b) INCLUDES ANY DATE REQUIRED FOR DETERMINING THE VALUE OF A
+23 PROPERTY IN A SUPPLEMENTAL NOTICE PROVIDED UNDER SECTION 42-15105[, ANY
+24 DATE REQUIRED FOR AN ERROR CORRECTION UNDER SECTION 42-16253 OR ANY OTHER
+25 VALUATION PROCESS AUTHORIZED BY THIS CHAPTER AND CHAPTERS 12 THROUGH 19 OF
+26 THIS TITLE].
+27 [20.] [21.] "Valuation year" means:
+28 (a) For real property and property valued by the department, the
+29 calendar year preceding the year in which the taxes are levied.
+30 (b) For personal property, the calendar year in which the taxes are
+31 levied.
+32 <<Sec. 2. Title 42, chapter 11, article 1, Arizona Revised
+33 Statutes, is amended by adding section 42-11010, to read:
+34 42-11010. Full cash value
+35 A. FULL CASH VALUE IS THE BASIS FOR ASSESSING, FIXING, DETERMINING
+36 AND LEVYING PRIMARY AND SECONDARY PROPERTY TAXES ON PROPERTY DESCRIBED IN
+37 SECTION 42-13304.
+38 B. FULL CASH VALUE MAY NOT BE GREATER THAN MARKET VALUE REGARDLESS
+39 OF THE METHOD PRESCRIBED TO DETERMINE VALUE FOR PROPERTY TAX PURPOSES.
+40 C. FULL CASH VALUE SHALL BE DETERMINED BASED ON THE FEE SIMPLE
+41 INTEREST IN THE PROPERTY, ASSUMING UNENCUMBERED OWNERSHIP, UNLESS A
+42 DIFFERENT VALUATION INTEREST IS EXPRESSLY REQUIRED BY STATUTE.
+43 D. THE COUNTY ASSESSOR SHALL:
+44 1. DETERMINE A PROPERTY'S CURRENT USE FROM THE TOTALITY OF THE
+45 CIRCUMSTANCES, INCLUDING THE PROPERTY'S OBJECTIVELY VERIFIABLE
+46 CHARACTERISTICS, INFORMATION AND FUNCTIONS.
+-3-
+
+Senate Amendments to S.B. 1764
+1 2. IDENTIFY A PROPERTY'S CURRENT USE BY, AND LIMIT IDENTIFICATION
+2 TO, THE GENERAL CATEGORIES OF AGRICULTURAL USE, RESIDENTIAL USE OR VACANT
+3 LAND AND THE SUBCATEGORIES OF THOSE USES AS DETERMINED BY THE COUNTY
+4 ASSESSOR.
+5 E. IF A PROPERTY IS SUBJECT TO A STATUTORY VALUATION METHOD OR IS
+6 USED FOR RESIDENTIAL PURPOSES, A PROPERTY'S CURRENT USE SHALL BE
+7 DETERMINED WITHOUT REGARD TO ZONING, POTENTIAL FUTURE USE OR SPECULATIVE
+8 MARKET INFLUENCES.
+9 F. FOR PROPERTY THAT IS NOT SUBJECT TO A STATUTORY VALUATION METHOD
+10 AND THAT IS NOT USED FOR RESIDENTIAL PURPOSES, THE COUNTY ASSESSOR MAY
+11 CONSIDER MARKET INFLUENCES THAT ARE CONSISTENT WITH THE PROPERTY'S CURRENT
+12 USE CLASSIFICATION AND APPLICABLE APPRAISAL STANDARDS.>>
+13 Enroll and engross to conform
+14 Amend title to conform
+1764FIN.docx
+02/06/2026
+10:22 AM
+C: ED
+130BSZZCH
+-4-

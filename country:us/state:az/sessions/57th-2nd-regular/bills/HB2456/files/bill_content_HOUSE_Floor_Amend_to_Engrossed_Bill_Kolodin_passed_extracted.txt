@@ -1,0 +1,258 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Engrossed Bill - Kolodin - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2456: small modular reactors; zoning; co-location
+KOLODIN FLOOR AMENDMENT
+1. Specifies that this act applies to extra high load factor customer as defined by
+the Corporation Commission.
+2. Modifies definitions.
+3. Removes the requirement that the Corporation Commission adopt rules to
+adopt this act.
+CORBIN W.
+3/3/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Kolodin
+Second Regular Session H.B. 2456
+ADDITIONAL COW
+KOLODIN FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2456
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 11-812, Arizona Revised Statutes, is amended to
+3 read:
+4 11-812. Restriction on regulation; exceptions; aggregate
+5 mining regulation; definitions
+6 A. Nothing contained in Any ordinance authorized by this chapter
+7 shall MAY NOT:
+8 1. Affect existing uses of property or the right to its continued
+9 use or the reasonable repair or alteration of the property for the purpose
+10 for which used at the time the ordinance affecting the property takes
+11 effect.
+12 2. Prevent, restrict or otherwise regulate the use or occupation of
+13 land or improvements for railroad, mining, metallurgical, grazing or
+14 general agricultural purposes, if the tract concerned is five or more
+15 contiguous commercial acres. For the purposes of this paragraph:
+16 (a) "General agricultural purposes" includes agritourism as defined
+17 in section 3-111, but does not include any of the following:
+18 (i) Food establishments THAT ARE under the authority of the
+19 department of health services pursuant to section 36-136, subsection I AND
+20 that are associated with an agritourism business.
+21 (ii) Rodeo events that are open to the general public and that sell
+22 tickets for admission. For the purposes of this item, rodeo events do not
+23 include generally accepted agricultural practices associated with
+24 livestock and equine operations.
+25 (iii) The cultivation of cannabis as defined in section 13-3401 or
+26 marijuana as defined in section 13-3401 or 36-2801.
+27 (b) "Mining" has the same meaning prescribed in section 27-301.
+
+House Amendments to H.B. 2456
+1 3. Prevent, restrict or otherwise regulate the use or occupation of
+2 land or improvements for agricultural composting, if the tract is five or
+3 more contiguous commercial acres. An agricultural composting operation
+4 shall notify in writing the board of supervisors and the nearest fire
+5 department of the location of the composting operation. If the nearest
+6 fire department is located in a city, town or fire district where the
+7 agricultural composting is not located, the agricultural composting
+8 operation shall also notify in writing the fire district in which the
+9 operation is located. Agricultural composting is subject to sections
+10 3-112 and 49-141. For the purposes of this paragraph, "agricultural
+11 composting" has the same meaning prescribed in section 9-462.01,
+12 subsection G.
+13 4. Prevent, restrict or otherwise regulate the otherwise lawful
+14 discharge of a firearm or air gun or use of archery equipment on a private
+15 lot or parcel of land that is not open to the public on a commercial or
+16 membership basis.
+17 5. PREVENT, RESTRICT OR OTHERWISE REGULATE THE USE OR OCCUPATION OF
+18 LAND OR IMPROVEMENTS FOR THE CONSTRUCTION AND OPERATION OF A SMALL MODULAR
+19 REACTOR IF THE SMALL MODULAR REACTOR IS COLOCATED WITH AN EXTRA HIGH LOAD
+20 FACTOR CUSTOMER[, AS DEFINED BY THE CORPORATION COMMISSION,] THAT RECEIVED
+21 ALL APPLICABLE ZONING ENTITLEMENTS AND IF THE OWNER OR OPERATOR OF THE
+22 SMALL MODULAR REACTOR HAS PROVIDED PUBLIC NOTICE AND HELD AT LEAST ONE
+23 PUBLIC COMMENT SESSION IN THE COUNTY IN WHICH THE SMALL MODULAR REACTOR'S
+24 LOCATION IS PROPOSED. FOR THE PURPOSES OF THIS PARAGRAPH, ["COLOCATED
+25 WITH", "EXTRA HIGH LOAD FACTOR CUSTOMER" AND] "SMALL MODULAR NUCLEAR
+26 REACTOR" [HAVE THE SAME MEANINGS ADOPTED BY THE CORPORATION COMMISSION
+27 PURSUANT TO SECTION 40-360.14] [MEANS A GENERATION III+ OR GENERATION IV
+28 NUCLEAR GENERATING UNIT WITH A NAMEPLATE RATING OF NOT GREATER THAN THREE
+29 HUNDRED MEGAWATTS].
+30 B. A nonconforming business use within a district may expand if the
+31 expansion does not exceed one hundred per cent PERCENT of the area of the
+32 original business.
+33 C. For the purposes of subsection A, paragraph 2 of this section,
+34 mining does not include aggregate mining operations in an aggregate mining
+35 operations zoning district established pursuant to this section. The
+36 board of supervisors of any county with a population of more than two
+37 million persons shall designate and establish the boundaries of an
+38 aggregate mining operations zoning district on the petition of at least
+39 one hundred persons who reside within one-half mile of an existing
+40 aggregate mining operation. In addition, the board of supervisors of any
+41 county may establish, in its discretion and on the board's initiative, one
+42 or more aggregate mining operations zoning districts. Aggregate mining
+43 operations zoning districts may only be located in areas that are
+44 inventoried and mapped as areas of known reserves or in areas with
+45 existing aggregate mining operations. Subject to subsections E and F of
+46 this section, a county and the state mine inspector may jointly adopt, as
+47 internal administrative regulations, reasonable aggregate mining
+-2-
+
+House Amendments to H.B. 2456
+1 operations zoning district standards limited to permitted uses, procedures
+2 for approval of property development plans and site development standards
+3 for dust control, height regulations, setbacks, days and hours of
+4 operation, off-street parking, screening, noise, vibration and air
+5 pollution control, signs, roadway access lanes, arterial highway
+6 protection and property reclamation for which aggregate mining operations
+7 are not otherwise subject to federal, state or local regulation or a
+8 governmental contractual obligation. Regulations jointly adopted pursuant
+9 to this subsection by the county and the state mine inspector shall not
+10 prohibit the activities included in the definition of mine pursuant to
+11 section 27-301, paragraph 8 or duplicate, conflict with or be more
+12 stringent than applicable federal, state or local laws.
+13 D. The board of supervisors of any county that establishes an
+14 aggregate mining operations zoning district shall appoint an aggregate
+15 mining operations recommendation committee for the district. The
+16 committee consists of not more than seven operators, or representatives of
+17 operators, of active aggregate mining operations in any district within
+18 the county and an equal number of private citizens, who are not operators,
+19 who are not employed by operators and who do not represent operators,
+20 residing within three miles of the boundaries of aggregate mining
+21 operations or a proposed aggregate mining operation in the district for
+22 which the committee is established. The initial members appointed to the
+23 committee shall be deemed the primary members, and the board of
+24 supervisors shall appoint not more than five alternate members who
+25 represent operators and shall appoint not more than five alternate members
+26 who are private citizens. Alternate members may serve at meetings of the
+27 committee when a primary member is unable to attend. An aggregate mining
+28 operator may serve on more than one committee in the same county. The
+29 board of supervisors shall determine the length of terms of members of the
+30 committee and shall stagger the initial appointments so that not all
+31 members' terms expire at the same time. Members of the committee who no
+32 longer qualify for membership as provided by this subsection are subject
+33 to removal and replacement by the board of supervisors. The committee
+34 shall elect a member who is an aggregate mining operator to serve as
+35 chairperson for the first year in which the committee is created. For
+36 each year thereafter, the chairperson shall be elected by the members of
+37 the committee with a member who is a private citizen and a member who is
+38 an aggregate mining operator serving as chairperson in alternate years.
+39 The committee is subject to the open meeting requirements of title 38,
+40 chapter 3, article 3.1.
+41 E. Within ninety days after an aggregate mining operations
+42 recommendation committee is established, the committee shall notify all
+43 existing aggregate mining operators in the district of the application of
+44 this section and title 27, chapter 3, article 6 to the aggregate mining
+45 operation. In addition, the committee shall:
+46 1. By a majority vote of all members make recommendations to the
+47 board of supervisors for aggregate mining zoning districts and
+-3-
+
+House Amendments to H.B. 2456
+1 administrative regulations as provided in this section. The board of
+2 supervisors may adopt or reject the recommendations but may not make any
+3 modifications to the recommendations unless the modification is approved
+4 by a majority of the members of the recommendation committee.
+5 2. Serve as a forum for mediation of disputes between members of
+6 the public and aggregate mining owners or operators. If the committee is
+7 unable to resolve a dispute, the committee shall transmit the matter to
+8 the state mine inspector, with written findings and recommendations, for
+9 further action.
+10 3. Hear written complaints filed with the state mine inspector
+11 regarding alleged material deviations from approved community notices for
+12 aggregate mining operations and make written recommendations to the state
+13 mine inspector pursuant to section 27-446.
+14 F. Any administrative regulations adopted by a board of supervisors
+15 pursuant to this section are not effective until the regulations are
+16 approved by the state mine inspector. The STATE MINE inspector may
+17 disapprove the administrative regulations adopted by the board of
+18 supervisors only if they duplicate, conflict with or are more stringent
+19 than applicable federal, state or local laws, rules or regulations. If
+20 the STATE MINE inspector disapproves the administrative regulations, the
+21 STATE MINE inspector must provide written reasons for the disapproval. The
+22 STATE MINE inspector shall not make any modification to the administrative
+23 regulations as adopted by the board of supervisors unless the modification
+24 is approved by a majority of the members of the board of supervisors.
+25 G. A person or entity is subject to this chapter if the use or
+26 occupation of land or improvements by the person or entity consists of or
+27 includes changing, remanufacturing or treating human sewage or sludge for
+28 distribution or resale. These activities are not exempt from this chapter
+29 under subsection A, paragraph 2 of this section.
+30 H. A county shall not require as a condition for a permit or for
+31 any approval, or otherwise cause, an owner or possessor of property to
+32 waive the right to continue an existing nonconforming outdoor advertising
+33 use or structure without acquiring the use or structure by purchase or
+34 condemnation and paying just compensation unless the county, at its
+35 option, allows the use or structure to be relocated to a comparable site
+36 in the county with the same or a similar zoning classification, or to
+37 another site in the county acceptable to both the county and the owner of
+38 the use or structure, and the use or structure is relocated to the other
+39 site. The county shall pay for relocating the outdoor advertising use or
+40 structure, including the cost of removing and constructing the new use or
+41 structure that is at least the same size and height. This subsection does
+42 not apply to county rezoning of property at the request of the property
+43 owner to a more intensive zoning district.
+44 I. For the purposes of this section:
+45 1. "Aggregate" has the same meaning prescribed in section 27-441.
+46 2. "Aggregate mining" has the same meaning prescribed in section
+47 27-441.
+-4-
+
+House Amendments to H.B. 2456
+1 3. "Aggregate mining operation" means property that is owned,
+2 operated or managed by the same person for aggregate mining.
+3 4. "Operators" means persons who are actively engaged in aggregate
+4 mining operations within the zoning district or proposed zoning district
+5 and who have given notice to the state mine inspector pursuant to section
+6 27-303.
+7 <<Sec. 2. Title 40, chapter 2, article 6.2, Arizona Revised
+8 Statutes, is amended by adding section 40-360.14, to read:
+9 40-360.14. Small modular reactors colocated with extra high
+10 load factor customers; rules
+11 A. THE COMMISSION SHALL ADOPT RULES TO IMPLEMENT SECTION 11-812,
+12 SUBSECTION A, PARAGRAPH 5 THAT MUST INCLUDE A DEFINITION FOR EACH OF THE
+13 FOLLOWING TERMS:
+14 1. COLOCATED WITH. THE COMMISSION'S DEFINITION SHALL SPECIFY ONE
+15 OR BOTH OF THE FOLLOWING:
+16 (a) THE DISTANCE IN FEET OR PARCELS BETWEEN THE SITE OF AN EXTRA
+17 HIGH LOAD FACTOR CUSTOMER AND THE SITE OF A SMALL MODULAR REACTOR.
+18 (b) THE QUALITY OR NATURE OF THE ELECTRICAL INTERCONNECTION BETWEEN
+19 THE EXTRA HIGH LOAD FACTOR CUSTOMER AND THE SMALL MODULAR REACTOR.
+20 2. EXTRA HIGH LOAD FACTOR CUSTOMER. THE COMMISSION'S DEFINITION:
+21 (a) MUST SPECIFY THE PEAK OR AVERAGE ANNUAL OR MONTHLY ENERGY
+22 DEMAND OF THE USER THAT IS MEASURED IN MEGAWATTS OR MEGAWATT HOURS.
+23 (b) MAY NOT DISCRIMINATE BETWEEN DIFFERENT:
+24 (i) INDUSTRIES, SECTORS OR END USERS AND THE OWNERS OR OPERATORS OF
+25 END USERS OR THE PROPOSED LOCATIONS OF END USERS.
+26 (ii) END USERS IN ANY OTHER CAPACITY BEYOND THE USE OF ENERGY
+27 DEMAND AND OTHER ELECTRICAL-RELATED OPERATING NEEDS OR CHARACTERISTICS.
+28 B. THE COMMISSION MAY ADOPT DEFINITIONS FOR ANY OTHER TERMS THE
+29 COMMISSION DEEMS REASONABLE OR NECESSARY TO IMPLEMENT THIS SECTION AND
+30 SECTION 11-812.>>
+31 Enroll and engross to conform
+32 Amend title to conform
+ALEXANDER KOLODIN
+2456FloorKOLODIN.docx
+03/03/2026
+08:37 AM
+H: CW/ls
+130ZUHXRO
+-5-

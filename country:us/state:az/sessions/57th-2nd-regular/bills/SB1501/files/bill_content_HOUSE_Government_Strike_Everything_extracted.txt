@@ -1,0 +1,1066 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Government - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON GOVERNMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1501
+(Reference to Senate engrossed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 23-491, Arizona Revised Statutes, is amended to
+3 read:
+4 23-491. Definitions
+5 In this article, unless the context otherwise requires:
+6 1. "Authorized representative" means the elevator chief and
+7 elevator inspector employed by the division.
+8 2. "Certificate" means a certificate of inspection issued by the
+9 division.
+10 3. "Commission" means the industrial commission of Arizona.
+11 4. "Conveyance":
+12 (a) Means an elevator, dumbwaiter, escalator, moving walk, manlift,
+13 personnel hoist, material hoist, stage lift and special purpose personnel
+14 elevator. , excluding
+15 (b) DOES NOT INCLUDE conveyances located at mines and THAT ARE
+16 subject to regulation and inspection by the state mine inspector pursuant
+17 to title 27, chapter 3.
+18 5. "Director" means the director of the division of occupational
+19 safety and health.
+20 6. "Division" means the division of occupational safety and health
+21 of the industrial commission.
+22 7. "Dumbwaiter" means a hoisting and lowering mechanism with a car
+23 of limited capacity and size that moves in guides in a substantially
+24 vertical direction and that is used exclusively for carrying material.
+25 8. "Elevator" means a hoisting and lowering mechanism equipped with
+26 a car or platform that moves in guides in substantially vertical direction
+27 and that serves two or more floors of a building or structure.
+28 9. "Elevator company" means a person that is engaged in the
+29 business of erecting, constructing, installing, altering, servicing,
+30 repairing or maintaining conveyances.
+31 10. "ELEVATOR CONTRACTOR" MEANS A PERSON THAT HAS BEEN ISSUED AN
+32 ELEVATOR CONTRACTOR'S LICENSE PURSUANT TO TITLE 32, CHAPTER 10 AND THAT
+33 EMPLOYS AT LEAST ONE ELEVATOR MECHANIC.
+34 11. "ELEVATOR MECHANIC" MEANS A PERSON WHO IS CERTIFIED BY THE
+35 STATE BOARD OF TECHNICAL REGISTRATION TO ENGAGE IN ERECTING, CONSTRUCTING,
+36 INSTALLING, ALTERING, SERVICING, REPAIRING, TESTING AND MAINTAINING
+37 ELEVATORS AND CONVEYANCES.
+38 10. 12. "Escalator" means a power driven POWER-DRIVEN, inclined,
+39 continuous stairway used for raising or lowering passengers.
+
+House Amendments to S.B. 1501
+1 11. 13. "Interested party" means the commission and its agents and
+2 the owner or operator who has been issued a correction order.
+3 12. 14. "Manlift" means a device consisting THAT CONSISTS of a
+4 power driven POWER-DRIVEN endless belt moving in one direction only and
+5 provided with steps or platforms and attached handholds for the
+6 transportation of AND THAT TRANSPORTS personnel from floor to floor.
+7 13. 15. "Material hoist":
+8 (a) Means a hoist for raising and lowering materials only. and
+9 prohibiting the hoisting of
+10 (b) DOES NOT INCLUDE A HOIST FOR persons.
+11 14. 16. "Moving walk" means a type of passenger carrying device on
+12 which passengers stand or walk and in which the passenger carrying surface
+13 remains parallel to its direction of motion and is uninterrupted.
+14 15. 17. "Owner" or "operator":
+15 (a) Means an individual or organization including this state and
+16 all political subdivisions of this state who THAT has title to, controls
+17 or has the duty to control the operation of one or more conveyances. , but
+18 shall
+19 (b) DOES not include an individual or organization THAT IS engaged
+20 in mining or metallurgical operations AND whose operation is subject to
+21 regulation and inspection by the state mine inspector pursuant to title
+22 27, chapter 3.
+23 16. 18. "Personnel hoist":
+24 (a) Means a mechanism for use THAT IS USED in connection with the
+25 construction, alteration, maintenance or demolition of a building,
+26 structure or other work, THAT IS used for hoisting and lowering workers
+27 and materials and THAT IS equipped with a car that moves on guide members
+28 during its vertical movement. The term
+29 (b) Includes a hoistway of a personnel hoist.
+30 17. 19. "Private elevator inspector" means an individual who is
+31 authorized by the commission under section 23-491.16 to conduct
+32 inspections under this article.
+33 18. 20. "Special purpose personnel elevator" means a passenger,
+34 hand powered HAND-POWERED, counterweighted device or an electric powered
+35 ELECTRIC-POWERED device that travels vertically in guides and that serves
+36 two or more landings.
+37 19. 21. "Stage lift" means a hoisting and lowering mechanism
+38 equipped with a platform that moves in guides in a substantially vertical
+39 direction and that serves one or more landings.
+40 Sec. 2. Section 23-491.02, Arizona Revised Statutes, is amended to
+41 read:
+42 23-491.02. Owners and operators; duties
+43 Every EACH owner and operator of a conveyance shall:
+44 1. Construct, furnish, maintain and provide safe and adequate
+45 devices with which to safely and properly convey or move all persons and
+46 material utilizing USING the services offered by the owner or operator of
+47 such device DEVICES.
+-2-
+
+House Amendments to S.B. 1501
+1 2. Comply with all standards and regulations issued pursuant to
+2 this article.
+3 3. Ensure that a THE conveyance is inspected at all of the
+4 following times:
+5 (a) Before placing a THE conveyance in operation after the initial
+6 installation of the conveyance.
+7 (b) After modification or alteration of a THE conveyance.
+8 (c) After the inspection pursuant to subdivision (a) OF THIS
+9 PARAGRAPH, annually or as otherwise directed by the commission.
+10 4. ENSURE THAT THE CONVEYANCE IS INSTALLED, SERVICED OR REPAIRED BY
+11 AN ELEVATOR CONTRACTOR OR AN ELEVATOR MECHANIC WHO IS EMPLOYED BY AN
+12 ELEVATOR CONTRACTOR PURSUANT TO THE REQUIREMENTS OF THIS ARTICLE AND RULES
+13 ADOPTED PURSUANT TO THIS ARTICLE.
+14 Sec. 3. Heading changes
+15 A. The chapter heading of title 32, chapter 1, Arizona Revised
+16 Statutes, is changed from "ARCHITECTS, ENGINEERS, GEOLOGISTS, HOME
+17 INSPECTORS, LANDSCAPE ARCHITECTS AND SURVEYORS" to "TECHNICAL
+18 PROFESSIONS".
+19 B. The article heading of title 32, chapter 1, article 1, Arizona
+20 Revised Statutes, is changed from "BOARD OF TECHNICAL REGISTRATION" to
+21 "STATE BOARD OF TECHNICAL REGISTRATION".
+22 Sec. 4. Section 32-101, Arizona Revised Statutes, is amended to
+23 read:
+24 32-101. Purpose; definitions
+25 A. The purpose of this chapter is to provide for the safety, health
+26 and welfare of the public through the promulgation ADOPTING and
+27 enforcement of ENFORCING standards of qualification for those individuals
+28 who are registered or certified and seeking registration or certification
+29 pursuant to this chapter.
+30 B. In this chapter, unless the context otherwise requires:
+31 1. "Advertising" includes business cards, signs or letterhead
+32 provided by a person to the public.
+33 2. "Alarm" or "alarm system":
+34 (a) Means any mechanical or electrical device that is designed to
+35 emit an audible alarm or transmit a signal or message if activated and
+36 that is used to detect an unauthorized entry into a building or other
+37 facility or alert other persons of the occurrence of a medical emergency
+38 or the commission of an unlawful act against a person or in a building or
+39 other facility.
+40 (b) Includes:
+41 (i) A silent, panic, holdup, robbery, duress, burglary, medical
+42 alert or proprietor alarm that requires emergency personnel to respond.
+43 (ii) A low-voltage electric fence.
+44 (c) Does not include a telephone call diverter or a system that is
+45 designed to report environmental and other occurrences and that is not
+46 designed or used to alert or cause other persons to alert public safety
+47 personnel.
+-3-
+
+House Amendments to S.B. 1501
+1 3. "Alarm agent":
+2 (a) Means a person, whether an employee, an independent contractor
+3 or otherwise, who acts on behalf of an alarm business and who tests,
+4 maintains, services, repairs, sells, rents, leases or installs alarm
+5 systems.
+6 (b) Does not include any action by a person that WHO:
+7 (i) Is performed PERFORMS ANY ACTION in connection with an alarm
+8 system located on the person's own property or the property of the
+9 person's employer.
+10 (ii) Is acting on behalf of an alarm business AND whose work duties
+11 do not include visiting the location where an alarm system installation
+12 occurs.
+13 4. "Alarm business":
+14 (a) Means any person who, either alone or through a third party,
+15 engages in the business of either of the following:
+16 (i) Providing alarm monitoring services.
+17 (ii) Selling, leasing, renting, maintaining, repairing or
+18 installing a nonproprietor alarm system or service.
+19 (b) Does not include any of the following:
+20 (i) A person or company that purchases, rents or uses an alarm that
+21 is affixed to a motor vehicle.
+22 (ii) A person who owns or conducts a business of selling, leasing,
+23 renting, installing, maintaining or monitoring an alarm that is affixed to
+24 a motor vehicle.
+25 (iii) A person who installs a nonmonitored proprietor alarm for a
+26 business that the person owns, is employed by or manages.
+27 (iv) The installation or monitoring of fire alarm systems.
+28 (v) An alarm system that is operated by a city or town.
+29 5. "Alarm subscriber" means any person who:
+30 (a) Leases, rents or purchases any monitored alarm system or
+31 service from an alarm business.
+32 (b) Leases or rents an alarm system.
+33 (c) Contracts with an alarm business for alarm monitoring,
+34 installation, repair or maintenance services.
+35 6. "Architect" means a person who, by reason of knowledge of the
+36 mathematical and physical sciences and the principles of architecture and
+37 architectural engineering acquired by professional education and practical
+38 experience, is qualified to engage in the practice of architecture and is
+39 registered as an architect pursuant to this chapter.
+40 7. "Architectural practice" means any professional service or
+41 creative work requiring architectural education, training and experience,
+42 and the application of the mathematical and physical sciences and the
+43 principles of architecture and architectural engineering to such
+44 professional services or creative work as consultation, evaluation, design
+45 and review of construction for conformance with contract documents and
+46 design, in connection with any building, planning or site development.
+47 A person is deemed to practice or offer to practice architecture who in
+-4-
+
+House Amendments to S.B. 1501
+1 any manner represents that the person is an architect or is able to
+2 perform any architectural service or other services recognized by
+3 educational authorities as architecture.
+4 8. "Board" means the state board of technical registration.
+5 9. "Controlling person":
+6 (a) Means a person who is designated by an alarm business.
+7 (b) Does not include an alarm agent.
+8 10. "CONVEYANCE" HAS THE SAME MEANING PRESCRIBED IN SECTION 23-491.
+9 11. "ELEVATOR" HAS THE SAME MEANING PRESCRIBED IN SECTION 23-491.
+10 12. "ELEVATOR CONTRACTOR" MEANS A PERSON THAT HAS BEEN ISSUED AN
+11 ELEVATOR CONTRACTOR'S LICENSE PURSUANT TO CHAPTER 10 OF THIS TITLE AND
+12 THAT EMPLOYS AT LEAST ONE ELEVATOR MECHANIC.
+13 13. "ELEVATOR MECHANIC" MEANS A PERSON WHO IS CERTIFIED BY THE
+14 BOARD PURSUANT TO SECTION 32-122.04 TO ENGAGE IN ERECTING, CONSTRUCTING,
+15 INSTALLING, ALTERING, SERVICING, REPAIRING, TESTING AND MAINTAINING
+16 ELEVATORS AND CONVEYANCES.
+17 10. 14. "Engineer" means a person who by reason of engineering
+18 education, training and experience may apply engineering principles and
+19 interpret engineering data.
+20 11. 15. "Engineering practice" means any professional service or
+21 creative work requiring engineering education, training and experience in
+22 applying engineering principles and interpreting engineering data to
+23 engineering activities that clearly impact the health, safety and welfare
+24 of the public and the engineering design of buildings, structures,
+25 products, machines, processes and systems to the extent that the
+26 engineering education, training and experience requirements prescribed by
+27 sections 32-122 and 32-122.01 are necessary to protect the health, safety
+28 and welfare of the public. The services or creative work may include
+29 providing planning services, studies, designs, design coordination,
+30 drawings, specifications and other technical submissions, surveying as
+31 prescribed in paragraph 22 26, subdivisions (d) and (e) of this
+32 subsection, and reviewing construction or other design products for the
+33 purposes of monitoring compliance with drawings and specifications related
+34 to engineered works. A person employed on a full-time basis as an
+35 engineer by an employer engaged in the business of developing, mining and
+36 treating ores and other minerals shall IS not be deemed to be practicing
+37 engineering for the purposes of this chapter if the person engages in the
+38 practice of engineering exclusively for and as an employee of such
+39 employer and does not represent that the person is available and is not
+40 represented as being available to perform any engineering services for
+41 persons other than the person's employer. A person is deemed to practice
+42 engineering if the person does any of the following:
+43 (a) Practices any discipline of the profession of engineering or
+44 holds out to the public that the person is able and authorized to practice
+45 any discipline of engineering.
+-5-
+
+House Amendments to S.B. 1501
+1 (b) Represents to the public that the person is a professional
+2 engineer by a verbal claim, sign, advertisement, letterhead or card or in
+3 any other manner.
+4 (c) Uses a title that implies that the person is a professional
+5 engineer.
+6 12. 16. "Engineer-in-training" means a candidate for registration
+7 as a professional engineer who both:
+8 (a) Is a graduate in an approved engineering curriculum of four
+9 years or more of a school approved by the board or has four years or more
+10 of education or experience, or both, in engineering work that meets
+11 standards specified by the board in its rules.
+12 (b) Has passed the engineer-in-training examination.
+13 13. 17. "Firm" means any individual or partnership, corporation or
+14 other type of association, including the association of a nonregistrant
+15 and a registrant who offers to the public professional services regulated
+16 by the board.
+17 14. 18. "Geological practice" means any professional service or
+18 work requiring geological education, training and experience, and the
+19 application of special knowledge of the earth sciences to such
+20 professional services as consultation, evaluation of mining properties,
+21 petroleum properties and groundwater resources, professional supervision
+22 of exploration for mineral natural resources including metallic and
+23 nonmetallic ores, petroleum and groundwater, and the geological phases of
+24 engineering investigations.
+25 15. 19. "Geologist" means a person, who is not required to be a
+26 professional engineer, who by reason of special knowledge of the earth
+27 sciences and the principles and methods of search for and appraisal of
+28 mineral or other natural resources acquired by professional education and
+29 practical experience is qualified to practice geology as attested by
+30 registration as a professional geologist. A person who is employed on a
+31 full-time basis as a geologist by an employer engaged in the business of
+32 developing, mining or treating ores and other minerals is not deemed to be
+33 engaged in geological practice for the purposes of this chapter if the
+34 person engages in geological practice exclusively for and as an employee
+35 of such employer and does not represent that the person is available and
+36 is not represented as being available to perform any geological services
+37 for persons other than the person's employer.
+38 16. 20. "Geologist-in-training" means a candidate for registration
+39 as a professional geologist who both:
+40 (a) Is a graduate of a school approved by the board or has four
+41 years or more of education or experience, or both, in geological work that
+42 meets standards specified by the board in its rules.
+43 (b) Has passed the geologist-in-training examination.
+44 17. 21. "Home inspection" means a visual analysis for the purposes
+45 of providing a professional opinion of the building, any reasonably
+46 accessible installed components and the operation of the building's
+-6-
+
+House Amendments to S.B. 1501
+1 systems, including the controls normally operated by the owner, for the
+2 following components of a residential building of four units or less:
+3 (a) Heating system.
+4 (b) Cooling system.
+5 (c) Plumbing system.
+6 (d) Electrical system.
+7 (e) Structural components.
+8 (f) Foundation.
+9 (g) Roof covering.
+10 (h) Exterior and interior components.
+11 (i) Site aspects as they affect the building.
+12 (j) Pursuant to rules adopted by the board, swimming pool and spa.
+13 18. 22. "Home inspection report" means a written report that is
+14 prepared for compensation, that is issued after a home inspection and that
+15 clearly describes and identifies the inspected systems, structures and
+16 components of a completed dwelling and any visible major defects found to
+17 be in need of immediate major repair and any recommendations for
+18 additional evaluation by appropriate persons.
+19 19. 23. "Home inspector" means an individual who is certified
+20 pursuant to this chapter as a home inspector and who engages in the
+21 business of performing home inspections and writing home inspection
+22 reports.
+23 20. 24. "Landscape architect" means a person who, by reason of
+24 professional education or practical experience, or both, is qualified to
+25 engage in the practice of landscape architecture as attested by
+26 registration as a landscape architect.
+27 21. 25. "Landscape architectural practice":
+28 (a) Means performing professional services such as consultations,
+29 investigation, reconnaissance, research, planning, design or responsible
+30 supervision in connection with the development of land and incidental
+31 water areas where, and to the extent that, the dominant purpose of such
+32 services is the preservation, enhancement or determination of proper land
+33 uses, natural land features, ground cover and planting, naturalistic and
+34 aesthetic values, the settings of and approaches to buildings, structures,
+35 facilities or other improvements, natural drainage and the consideration
+36 and the determination of inherent problems of the land relating to
+37 erosion, wear and tear, light or other hazards.
+38 (b) Includes locating and arranging such tangible objects and
+39 features as are incidental and necessary to the purposes outlined in this
+40 paragraph.
+41 (c) Does not include making cadastral surveys or final land plats
+42 for official recording or approval, nor mandatorily include planning for
+43 governmental subdivisions.
+44 22. 26. "Land surveying practice" means performing one or more of
+45 the following professional services:
+-7-
+
+House Amendments to S.B. 1501
+1 (a) Measuring land to determine the position of any monument or
+2 reference point that marks a property line, boundary or corner for the
+3 purpose of determining the area or description of the land.
+4 (b) Locating, relocating, establishing, reestablishing, setting,
+5 resetting or replacing of corner monuments or reference points that
+6 identify land boundaries, rights-of-way or easements.
+7 (c) Platting or plotting of lands for the purpose of subdividing.
+8 (d) Measuring by angles, distances and elevations natural or
+9 artificial features in the air, on the surface and immediate subsurface of
+10 the earth, within underground workings and on the surface or within bodies
+11 of water for the purpose of determining or establishing their location,
+12 size, shape, topography, grades, contours or water surface and depths, and
+13 the preparing and perpetuating field note records and maps depicting these
+14 features.
+15 (e) Setting, resetting or replacing points to guide the location of
+16 new construction.
+17 23. 27. "Land surveyor" means a person who by reason of knowledge
+18 of the mathematical and physical sciences, principles of land surveying
+19 and evidence gathering acquired by professional education or practical
+20 experience, or both, is qualified to practice land surveying as attested
+21 by registration as a land surveyor. A person employed on a full-time
+22 basis as a land surveyor by an employer engaged in the business of
+23 developing, mining or treating ores or other minerals is not deemed to be
+24 engaged in land surveying practice for purposes of this chapter if the
+25 person engages in land surveying practice exclusively for and as an
+26 employee of such employer and does not represent that the person is
+27 available and is not represented as being available to perform any land
+28 surveying services for persons other than the person's employer.
+29 24. 28. "Land surveyor-in-training" means a candidate for
+30 registration as a professional land surveyor who both:
+31 (a) Is a graduate of a school and curriculum approved by the board
+32 or has four years or more of education or experience, or both, in land
+33 surveying work that meets standards specified by the board in its rules.
+34 (b) Has passed the land surveyor-in-training examination.
+35 25. 29. "Low-voltage electric fence" means a fence that meets all
+36 of the following requirements:
+37 (a) Has an electric fence energizer that is powered by a commercial
+38 storage battery with a rated voltage of not more than twelve volts and
+39 that produces an electric charge on contact with the fence.
+40 (b) Is completely enclosed by a nonelectric fence or wall.
+41 (c) Is continuously monitored.
+42 (d) Is attached to ancillary components or equipment such as closed
+43 circuit television systems, access controls, battery recharging devices
+44 and video cameras.
+45 (e) Does not exceed ten feet in height or two feet higher than the
+46 nonelectric fence or wall described in subdivision (b) of this paragraph,
+47 whichever is higher.
+-8-
+
+House Amendments to S.B. 1501
+1 (f) Has identification warning signs attached at intervals of not
+2 more than sixty feet.
+3 (g) Is not installed in an area zoned exclusively for single family
+4 or multifamily residential use.
+5 (h) Does not enclose property that is used for residential
+6 purposes.
+7 26. 30. "Monitored alarm" means a device that is designed to
+8 detect an entry on any premises and that if activated generates a
+9 notification signal.
+10 27. 31. "Person" means any individual, firm, partnership,
+11 corporation, association or other organization.
+12 28. 32. "Principal" means an individual who is an officer of the
+13 corporation or is designated by a firm as having full authority and
+14 responsible charge of the services offered by the firm.
+15 29. 33. "Professional engineer" means a person who, by reason of
+16 special knowledge of the mathematical and physical sciences and the
+17 principles and methods of engineering analysis and design acquired by
+18 professional education and practical experience, is qualified to practice
+19 engineering and is registered as a professional engineer pursuant to this
+20 chapter.
+21 30. 34. "Proprietor alarm" means any alarm or alarm system that is
+22 owned by an alarm subscriber who has not contracted with an alarm
+23 business.
+24 31. 35. "Registrant" means a person who is registered or certified
+25 by the board.
+26 32. 36. "Registration" means a registration or certification that
+27 is issued by the board.
+28 Sec. 5. Section 32-102, Arizona Revised Statutes, is amended to
+29 read:
+30 32-102. State board of technical registration; members;
+31 vacancies; terms
+32 A. The state board of technical registration is established
+33 consisting of members who are appointed by the governor as follows:
+34 1. One architect TWO ARCHITECTS.
+35 2. One TWO professional engineer ENGINEERS.
+36 3. Six THREE public members, at least one of whom has a legal,
+37 construction or design product background.
+38 4. One landscape architect.
+39 5. One geologist.
+40 6. One land surveyor.
+41 7. ONE ELEVATOR MECHANIC.
+42 8. ONE HOME INSPECTOR.
+43 9. ONE ALARM BUSINESS CONTROLLING PERSON.
+44 B. On the expiration of any of the terms, a successor who is
+45 qualified pursuant to subsection A of this section shall be appointed for
+46 a full term of three years. The governor may remove a member of the board
+47 for misconduct, incapacity or neglect of duty. Appointment to fill a
+-9-
+
+House Amendments to S.B. 1501
+1 vacancy caused other than by expiration of term shall be for the unexpired
+2 portion of the term.
+3 C. A member may not serve more than two consecutive terms.
+4 Sec. 6. Title 32, chapter 1, article 1, Arizona Revised Statutes,
+5 is amended by adding section 32-111, to read:
+6 32-111. Elevator mechanics safety and standards committee;
+7 members; duties; rules; compensation
+8 A. THE ELEVATOR MECHANICS SAFETY AND STANDARDS COMMITTEE OF THE
+9 STATE BOARD OF TECHNICAL REGISTRATION IS ESTABLISHED AND CONSISTS OF:
+10 1. ONE QUALIFIED ELEVATOR INSPECTOR WHO HOLDS A CURRENT QUALIFIED
+11 ELEVATOR INSPECTOR CREDENTIAL ISSUED BY AN ACCREDITATION ENTITY RECOGNIZED
+12 UNDER THE AMERICAN SOCIETY OF MECHANICAL ENGINEERS QEI-1 STANDARD AND WHO
+13 IS APPOINTED BY THE BOARD FOR A THREE-YEAR TERM.
+14 2. ONE REPRESENTATIVE OF AN ELEVATOR EQUIPMENT MANUFACTURER TRADE
+15 ORGANIZATION WHO IS APPOINTED BY THE BOARD FOR A THREE-YEAR TERM. THE
+16 BOARD SHALL SELECT THIS MEMBER FROM A LIST OF NAMES SUBMITTED TO THE BOARD
+17 BY AT LEAST ONE ELEVATOR SERVICE COMPANY OR STATEWIDE ELEVATOR INDUSTRY
+18 ASSOCIATION ORGANIZATION.
+19 3. ONE REPRESENTATIVE OF AN ELEVATOR SERVICE COMPANY WHO IS
+20 APPOINTED BY THE BOARD FOR A THREE-YEAR TERM. THE BOARD SHALL SELECT THIS
+21 MEMBER FROM A LIST OF NAMES SUBMITTED TO THE BOARD BY AT LEAST ONE
+22 ELEVATOR SERVICE COMPANY OR STATEWIDE ELEVATOR INDUSTRY ASSOCIATION.
+23 4. ONE CERTIFIED ELEVATOR MECHANIC WHO IS APPOINTED BY THE BOARD TO
+24 SERVE A THREE-YEAR TERM, WHO HOLDS AN ACTIVE CERTIFICATION AND WHO HAS AT
+25 LEAST FIVE YEARS OF EXPERIENCE AS AN ELEVATOR MECHANIC.
+26 5. TWO MEMBERS OF THE BOARD WHO ARE APPOINTED BY THE CHAIRPERSON OF
+27 THE BOARD AND WHO SERVE STAGGERED THREE-YEAR TERMS.
+28 6. ONE FIRE SAFETY PROFESSIONAL.
+29 B. THE COMMITTEE IS RESPONSIBLE FOR DRAFTING RULES AND PROVIDING
+30 RECOMMENDATIONS TO THE BOARD THAT DEFINE THE CONDUCT OF ELEVATOR MECHANICS
+31 AND SUCH OTHER RULES AND STANDARDS RELATED TO THE ELEVATOR MECHANIC
+32 PROFESSION.
+33 C. THE COMMITTEE MAY PARTICIPATE IN:
+34 1. THE INVESTIGATION AND REVIEW OF ELEVATOR MECHANIC COMPLAINTS AS
+35 PROVIDED BY THE BOARD.
+36 2. THE REVIEW AND EVALUATION OF ELEVATOR MECHANIC APPLICATIONS AS
+37 PROVIDED BY THE BOARD.
+38 D. MEMBERS OF THE ELEVATOR MECHANICS SAFETY AND STANDARDS COMMITTEE
+39 ARE ELIGIBLE TO RECEIVE COMPENSATION PURSUANT TO TITLE 38, CHAPTER 4,
+40 ARTICLE 1.
+41 Sec. 7. Title 32, chapter 1, article 2, Arizona Revised Statutes,
+42 is amended by adding section 32-122.04, to read:
+43 32-122.04. Certification of elevator mechanics;
+44 qualifications; temporary certification; annual
+45 safety updates
+46 A. A PERSON MUST BE CERTIFIED AS AN ELEVATOR MECHANIC PURSUANT TO
+47 THIS ARTICLE AND WORK UNDER THE DIRECT SUPERVISION OF A QUALIFYING PARTY
+-10-
+
+House Amendments to S.B. 1501
+1 LICENSED PURSUANT TO CHAPTER 10 OF THIS TITLE TO WORK ON CONVEYANCES AND
+2 ELEVATORS IN THIS STATE. A CERTIFIED ELEVATOR MECHANIC SHALL PERFORM ALL
+3 WORK ON ELEVATORS AND CONVEYANCES IN COMPLIANCE WITH APPLICABLE ELEVATOR
+4 SAFETY STANDARDS AND INSPECTION REQUIREMENTS ADOPTED PURSUANT TO TITLE 23,
+5 CHAPTER 2, ARTICLE 12.
+6 B. A PERSON WHO WISHES TO BE CERTIFIED AS AN ELEVATOR MECHANIC
+7 SHALL MEET BOTH OF THE FOLLOWING:
+8 1. HAVE COMPLETED A DEPARTMENT OF ECONOMIC SECURITY OR UNITED
+9 STATES DEPARTMENT OF LABOR APPRENTICESHIP PROGRAM WITH EIGHT THOUSAND
+10 HOURS OF ON-THE-JOB TRAINING AND FIVE HUNDRED SEVENTY-SIX HOURS OF
+11 CLASSROOM INSTRUCTION TO ENGAGE IN ERECTING, CONSTRUCTING, INSTALLING,
+12 ALTERING, SERVICING, REPAIRING, TESTING OR MAINTAINING ELEVATORS AND
+13 CONVEYANCES.
+14 2. PASS THE ELEVATOR MECHANIC EXAMINATION AS APPROVED BY THE BOARD.
+15 C. NOTWITHSTANDING SUBSECTION B OF THIS SECTION, FOR ONE YEAR AFTER
+16 THE EFFECTIVE DATE OF THIS SECTION, THE BOARD MAY ISSUE AN ELEVATOR
+17 MECHANIC CERTIFICATE TO AN APPLICANT WHO PAYS THE FEE REQUIRED BY THE
+18 BOARD AND SUBMITS AN APPLICATION WITH DOCUMENTATION FROM A PRIMARY SOURCE
+19 THAT DEMONSTRATES THE APPLICANT HAS WORKED AS AN ELEVATOR MECHANIC WITHOUT
+20 SUPERVISION FOR AT LEAST EIGHT THOUSAND HOURS WITHIN THE PREVIOUS SIX
+21 YEARS.
+22 D. IF THE BOARD DETERMINES THAT AN ELEVATOR CONTRACTOR ENCOUNTERS A
+23 VERIFIABLE SHORTAGE OF CERTIFIED ELEVATOR MECHANICS, THE BOARD MAY ISSUE A
+24 TEMPORARY ELEVATOR MECHANIC CERTIFICATE TO AN ELEVATOR APPRENTICE WHO CAN
+25 PROVIDE DOCUMENTATION FROM A PRIMARY SOURCE DEMONSTRATING THAT THE
+26 APPRENTICE IS CURRENTLY ENROLLED IN AN ELEVATOR APPRENTICESHIP PROGRAM AND
+27 HAS COMPLETED A MINIMUM OF FOUR THOUSAND HOURS OF ELEVATOR INDUSTRY
+28 EXPERIENCE. TEMPORARY ELEVATOR MECHANIC CERTIFICATION PURSUANT TO THIS
+29 SUBSECTION MAY BE ACTIVE NOT LONGER THAN SIX MONTHS, EXCEPT THAT THE BOARD
+30 MAY EXTEND A TEMPORARY CERTIFICATION FOR AN ADDITIONAL SIX MONTHS IF THE
+31 BOARD DETERMINES THAT THE VERIFIABLE SHORTAGE OF CERTIFIED ELEVATOR
+32 MECHANICS STILL EXISTS AND THE ELEVATOR MECHANIC RECEIVING TEMPORARY
+33 CERTIFICATION REMAINS EMPLOYED BY THE REQUESTING ELEVATOR CONTRACTOR.
+34 E. WHEN RENEWING AN ELEVATOR MECHANIC CERTIFICATION, THE BOARD
+35 SHALL REQUIRE EACH CERTIFIED ELEVATOR MECHANIC TO HAVE AT LEAST EIGHT
+36 HOURS OF ANNUAL TECHNICAL SAFETY UPDATES APPROVED BY THE BOARD.
+37 F. THIS SECTION DOES NOT REQUIRE A PERSON TO BE AN ELEVATOR
+38 MECHANIC OR ELEVATOR CONTRACTOR IN ORDER TO PERFORM NONMECHANICAL
+39 MAINTENANCE OF AN ELEVATOR. FOR THE PURPOSES OF THIS SUBSECTION,
+40 "NONMECHANICAL MAINTENANCE OF AN ELEVATOR" MEANS ANY MAINTENANCE ON THE
+41 INTERIOR OF THE CAR OF AN ELEVATOR THAT DOES NOT REQUIRE ACCESS TO THE
+42 PIT, HOISTWAY, CONTROL PANEL OR TOP OF THE CAR.
+43 Sec. 8. Section 32-1101, Arizona Revised Statutes, is amended to
+44 read:
+45 32-1101. Definitions
+46 A. In this chapter, unless the context otherwise requires:
+47 1. "Advertisement":
+-11-
+
+House Amendments to S.B. 1501
+1 (a) Means any written or oral publication, dissemination,
+2 solicitation or circulation that is intended to directly or indirectly
+3 induce any person to enter into an agreement for contracting services with
+4 a contractor. , including
+5 (b) INCLUDES business cards and telephone directory display
+6 advertisements.
+7 2. "Commercial contractor" is synonymous with the terms "commercial
+8 builder", "industrial builder" and "public works builder" and means any
+9 person, firm, partnership, corporation, association or other organization,
+10 or a combination of any of them, that, for compensation, undertakes to or
+11 offers to undertake to, purports to have the capacity to undertake to,
+12 submits a bid or responds to a request for qualification or a request for
+13 proposals for construction services to, does himself or by or through
+14 others, or directly or indirectly supervises others, except within
+15 residential property lines, to:
+16 (a) Construct, alter, repair, add to, subtract from, improve, move,
+17 wreck or demolish any building, highway, road, railroad, excavation or
+18 other structure, project, development or improvement, or to do any part
+19 thereof, including the erection of scaffolding or any other structure or
+20 work in connection with the construction.
+21 (b) Connect such a structure or improvements to utility service
+22 lines and metering devices and the sewer line.
+23 (c) Provide mechanical or structural service for any such structure
+24 or improvements.
+25 3. "Contractor":
+26 (a) Is synonymous with the term "builder" and means any person,
+27 firm, partnership, corporation, association or other organization, or a
+28 combination of any of them, that, for compensation, undertakes to or
+29 offers to undertake to, purports to have the capacity to undertake to,
+30 submits a bid or responds to a request for qualification or a request for
+31 proposals for construction services to, does himself or by or through
+32 others, or directly or indirectly supervises others to:
+33 (i) Construct, alter, repair, add to, subtract from, improve, move,
+34 wreck or demolish any building, highway, road, railroad, excavation or
+35 other structure, project, development or improvement, or to do any part
+36 thereof, including the erection of scaffolding or any other structure or
+37 work in connection with the construction.
+38 (ii) Connect such a structure or improvements to utility service
+39 lines and metering devices and the sewer line.
+40 (iii) Provide mechanical or structural service for any such
+41 structure or improvements.
+42 (b) Includes subcontractors, specialty contractors, floor covering
+43 contractors, hardscape contractors and consultants who represent that they
+44 are able to supervise or manage a construction project for the property
+45 owner's benefit, including hiring and firing specialty contractors,
+46 scheduling work on the project and selecting and purchasing construction
+47 material.
+-12-
+
+House Amendments to S.B. 1501
+1 4. "CONVEYANCE" HAS THE SAME MEANING PRESCRIBED IN SECTION 23-491.
+2 4. 5. "Dual licensed contractor" is synonymous with the term
+3 "commercial and residential builder" and means any person, firm,
+4 partnership, corporation, association or other organization, or a
+5 combination of any of them, that for compensation undertakes to or offers
+6 to undertake to, purports to have the capacity to undertake to, submits a
+7 bid or responds to a request for qualification or a request for proposals
+8 for construction services to, does himself or by or through others, or
+9 directly or indirectly supervises others under a single license on
+10 commercial or residential property to:
+11 (a) Construct, alter, repair, add to, subtract from, improve, move,
+12 wreck or demolish any building, excavation or other structure or
+13 improvement, including any appurtenances, or to do any part thereof.
+14 (b) Connect such a structure or improvements to utility service
+15 lines and metering devices and the sewer line.
+16 (c) Provide mechanical or structural service for any such structure
+17 or improvements.
+18 6. "ELEVATOR" HAS THE SAME MEANING PRESCRIBED IN SECTION 23-491.
+19 7. "ELEVATOR CONTRACTOR" MEANS A PERSON THAT HAS BEEN ISSUED AN
+20 ELEVATOR CONTRACTOR'S LICENSE PURSUANT TO THIS CHAPTER AND THAT EMPLOYS AT
+21 LEAST ONE ELEVATOR MECHANIC.
+22 8. "ELEVATOR MECHANIC" MEANS A PERSON WHO IS CERTIFIED PURSUANT TO
+23 SECTION 32-122.04 AND RULES ADOPTED BY THE STATE BOARD OF TECHNICAL
+24 REGISTRATION TO ENGAGE IN ERECTING, CONSTRUCTING, INSTALLING, ALTERING,
+25 SERVICING, REPAIRING, TESTING AND MAINTAINING ELEVATORS AND CONVEYANCES.
+26 5. 9. "License" means an authorization for the person who is
+27 listed on the electronic, paper or other records maintained by the
+28 registrar to act in the capacity of a contractor.
+29 6. 10. "Named on a license" means required to be identified AS
+30 REQUIRED pursuant to section 32-1122, subsection B.
+31 7. 11. "Person" means a corporation, company, partnership, firm,
+32 association, trust, society or natural person.
+33 8. 12. "Qualifying party" means a person who is responsible for a
+34 licensee's actions and conduct performed under the license and who either:
+35 (a) Has an ownership interest in the license.
+36 (b) Is regularly employed by the licensee.
+37 9. 13. "Registrar" means the registrar of contractors.
+38 10. 14. "Residential contractor":
+39 (a) Is synonymous with the term "residential builder" and means any
+40 person, firm, partnership, corporation, association or other organization,
+41 or a combination of any of them, that for compensation undertakes to or
+42 offers to undertake to, purports to have the capacity to undertake to,
+43 submits a bid or responds to a request for qualification or a request for
+44 proposals for construction services to, or does himself or by or through
+45 others, within residential property lines:
+46 (i) Construct, alter, repair, add to, subtract from, improve, move,
+47 wreck or demolish any residential structure, such as houses, townhouses,
+-13-
+
+House Amendments to S.B. 1501
+1 condominiums or cooperative units and any appurtenances on or within
+2 residential property lines.
+3 (ii) Connect such a residential structure to utility service lines,
+4 metering devices or sewer lines.
+5 (iii) Provide mechanical or structural service for any such
+6 residential structure.
+7 (b) Does not include an owner making improvements to the owner's
+8 property pursuant to section 32-1121, subsection A, paragraph 5.
+9 B. Only contractors as defined in this section are licensed and
+10 regulated by this chapter.
+11 Sec. 9. Section 32-1121, Arizona Revised Statutes, as amended by
+12 Laws 2019, chapter 140, section 1, is amended to read:
+13 32-1121. Persons not required to be licensed; penalties;
+14 applicability
+15 A. This chapter does not apply to:
+16 1. An authorized representative of the United States government,
+17 this state or any county, incorporated city or town, reclamation district,
+18 irrigation district or other municipality or political subdivision of this
+19 state.
+20 2. Trustees of an express trust that is not formed for the purpose
+21 of conducting business as a contractor or officers of a court, if they are
+22 acting within the terms of their trust or office.
+23 3. Public utilities operating under regulation of the corporation
+24 commission or construction, repair or operation incidental to discovering
+25 or producing petroleum or gas, or drilling, testing, abandoning or
+26 otherwise operating a petroleum or gas well, if performed by an owner or
+27 lessee.
+28 4. Any materialman, manufacturer or retailer that furnishes
+29 finished products, materials or articles of merchandise and that does not
+30 install or attach such items or installs or attaches such items if the
+31 total value of the sales contract or transaction involving such items and
+32 the cost of the installation or attachment of such items to a structure
+33 does not exceed $1,000, including labor, materials and all other items,
+34 but excluding any electrical fixture or appliance that was designed by the
+35 manufacturer, that is unaltered, unchanged or unmodified by any person,
+36 that can be plugged into a common household electrical outlet using a
+37 two-pronged or three-pronged electrical connector or that has internal
+38 batteries that do not exceed twelve volts in a single, series or parallel
+39 configuration and that does not use any other form of energy, including
+40 natural gas, propane or other petroleum or gaseous fuel, to operate or is
+41 attached by a nail, screw or other fastening device to the frame or
+42 foundation of any residential structure. The materialman, manufacturer or
+43 retailer shall inform the purchaser that the installation may also be
+44 performed by a licensed contractor whose name and address the purchaser
+45 may request.
+46 5. Owners of property who improve such property or who build or
+47 improve structures or appurtenances on such property and who do the work
+-14-
+
+House Amendments to S.B. 1501
+1 themselves, with their own employees or with duly licensed contractors, if
+2 the structure, group of structures or appurtenances, including the
+3 improvements thereto, are intended for occupancy solely by the owner and
+4 are not intended for occupancy by members of the public as the owner's
+5 employees or business visitors and the structures or appurtenances are not
+6 intended for sale or for rent. In all actions brought under this chapter,
+7 except an action against an owner-occupant as defined in section 33-1002,
+8 proof of the sale or rent or the offering for sale or rent of any such
+9 structure by the owner-builder within one year after completion or
+10 issuance of a certificate of occupancy is prima facie evidence that such a
+11 project was undertaken for the purpose of sale or rent. For the purposes
+12 of this paragraph, "sale" or "rent" includes any arrangement by which the
+13 owner receives compensation in money, provisions, chattels or labor from
+14 the occupancy or the transfer of the property or the structures on the
+15 property.
+16 6. Owners of property who are acting as developers and who build
+17 structures or appurtenances to structures on their property for the
+18 purpose of sale or rent and who contract for such a project with a general
+19 contractor licensed pursuant to this chapter and owners of property who
+20 are acting as developers, who improve structures or appurtenances to
+21 structures on their property for the purpose of sale or rent and who
+22 contract for such a project with a general contractor or specialty
+23 contractors licensed pursuant to this chapter. To qualify for the
+24 exemption under this paragraph, the licensed contractors' names and
+25 license numbers shall be included in all sales documents.
+26 7. Architects or engineers who are engaging in their professional
+27 practice as defined in chapter 1 of this title and who hire or offer to
+28 hire the services of a contractor for preconstruction activities relating
+29 to investigation and discovery, including:
+30 (a) Subsurface utility location and designation services.
+31 (b) Potholing.
+32 (c) Drilling for any of the following:
+33 (i) Soil samples.
+34 (ii) Rock samples.
+35 (iii) Pavement samples.
+36 (d) Locating existing features of a building or structure,
+37 including existing electrical, mechanical, plumbing and structural
+38 members.
+39 8. A person licensed, certified or registered pursuant to title 3,
+40 chapter 20 or a person working under the direct supervision of a person
+41 certified or qualified pursuant to title 3, chapter 20 to the extent the
+42 person is engaged in pest management.
+43 9. The sale or installation of finished products, materials or
+44 articles of merchandise that are not fabricated into and do not become a
+45 permanent fixed part of the structure. This exemption does not apply if a
+46 local building permit is required, if the total price of the finished
+47 product, material or article of merchandise, including labor but excluding
+-15-
+
+House Amendments to S.B. 1501
+1 any electrical fixture or appliance that was designed by the manufacturer,
+2 that is unaltered, unchanged or unmodified by any person, that can be
+3 plugged into a common household electrical outlet using a two-pronged or
+4 three-pronged electrical connector or that has internal batteries that do
+5 not exceed twelve volts in a single, series or parallel configuration and
+6 that does not use any other form of energy, including natural gas, propane
+7 or other petroleum or gaseous fuel, to operate or is attached by a nail,
+8 screw or other fastening device to the frame or foundation of any
+9 residential structure, is more than $1,000 or if the removal of the
+10 finished product, material or article of merchandise causes material
+11 damage to the structure or renders the structure unfit for its intended
+12 use.
+13 10. Employees of the owners of condominiums, townhouses, cooperative
+14 units or apartment complexes of four units or less or the owners'
+15 management agent or employees of the management agent repairing or
+16 maintaining structures owned by them.
+17 11. Any person who engages in the activities regulated by this
+18 chapter, as an employee of an exempt property owner or as an employee with
+19 wages as the person's sole compensation.
+20 12. A surety company or companies that are authorized to transact
+21 business in this state and that undertake to complete a contract on which
+22 they issued a performance or completion bond if all construction work is
+23 performed by duly licensed contractors.
+24 13. Insurance companies that are authorized to transact business in
+25 this state and that undertake to perform repairs resulting from casualty
+26 losses pursuant to the provisions of a policy if all construction work is
+27 performed by duly licensed contractors.
+28 14. Any person other than a licensed contractor engaging in any work
+29 or operation on one undertaking or project by one or more contracts, for
+30 which the aggregate contract price, including labor, materials and all
+31 other items, but excluding any electrical fixture or appliance that was
+32 designed by the manufacturer, that is unaltered, unchanged or unmodified
+33 by any person, that can be plugged into a common household electrical
+34 outlet using a two-pronged or three-pronged electrical connector or that
+35 has internal batteries that do not exceed twelve volts in a single, series
+36 or parallel configuration and that does not use any other form of energy,
+37 including natural gas, propane or other petroleum or gaseous fuel, to
+38 operate or is attached by a nail, screw or other fastening device to the
+39 frame or foundation of any residential structure, is less than $1,000.
+40 The work or operations that are exempt under this paragraph shall be of a
+41 casual or minor nature. This exemption does not apply:
+42 (a) In any case in which the performance of the work requires a
+43 local building permit.
+44 (b) In any case in which the work or construction is only a part of
+45 a larger or major operation, whether undertaken by the same or a different
+46 contractor, or in which a division of the operation is made in contracts
+47 of amounts less than $1,000, excluding any electrical fixture or appliance
+-16-
+
+House Amendments to S.B. 1501
+1 that was designed by the manufacturer, that is unaltered, unchanged or
+2 unmodified by any person, that can be plugged into a common household
+3 electrical outlet using a two-pronged or three-pronged electrical
+4 connector or that has internal batteries that do not exceed twelve volts
+5 in a single, series or parallel configuration and that does not use any
+6 other form of energy, including natural gas, propane or other petroleum or
+7 gaseous fuel, to operate or is attached by a nail, screw or other
+8 fastening device to the frame or foundation of any residential structure,
+9 for the purpose of evasion of this chapter or otherwise.
+10 (c) To a person who uses any form of advertising to the public in
+11 which the person's unlicensed status is not disclosed by including the
+12 words "not a licensed contractor" in the advertisement.
+13 15. A person who is licensed, certified or registered pursuant to
+14 title 41, chapter 37, article 4 and who is not otherwise required to be
+15 licensed under this chapter or an employee of such person.
+16 16. A person who functions as a gardener by performing lawn, garden,
+17 shrub and tree maintenance.
+18 17. Alarm agents as defined in section 32-101.
+19 18. Cable television, satellite television and telecommunications
+20 providers, including data and related services of cable television,
+21 satellite television and telecommunications providers including
+22 contractors and subcontractors of cable television, satellite television
+23 and telecommunications providers if the work of the contractors and
+24 subcontractors is limited to installing low-voltage cable, telephone
+25 services, internet services and data service. Installation INSTALLING
+26 does not include digging, trenching, grading, horizontal boring,
+27 compacting or filling earthen or other material before the service drop of
+28 the commercial or residential structure.
+29 B. A person who is licensed to perform work in a particular trade
+30 pursuant to this chapter is not required to obtain and maintain a separate
+31 license for mechanical or structural service work the person performs
+32 within the scope of that trade.
+33 C. Any person who does not have an exemption from licensure
+34 pursuant to subsection A, paragraph 14, subdivision (c) of this section is
+35 subject to prosecution for a violation of section 44-1522. The attorney
+36 general may investigate the act or practice and take appropriate action
+37 pursuant to title 44, chapter 10, article 7.
+38 D. The exemptions from licensure pursuant to subsection A,
+39 paragraphs 4, 9 and 14 of this section do not apply to either ANY of the
+40 following:
+41 1. All fire safety and mechanical, electrical and plumbing work
+42 that is done in connection with fire safety installation and fire safety
+43 maintenance and repair. For the purposes of this paragraph, "fire safety
+44 installation" means hardwired or interconnected smoke alarms and fire
+45 sprinklers and does not include an individual device that is attached by a
+46 nail, screw or other fastening device to the frame or foundation of any
+47 residential unit. For the purposes of this paragraph, fire safety
+-17-
+
+House Amendments to S.B. 1501
+1 maintenance and repair does not include routine work that is conducted by
+2 an employee of an apartment or condominium complex and that is incidental
+3 to the fire safety equipment.
+4 2. All work done, including installing, maintaining and repairing
+5 devices, appliances or equipment, that involves connecting to any supply
+6 of natural gas, propane or other petroleum or gaseous fuel. This
+7 paragraph does not impact the effect of section 36-1624.01.
+8 3. ALL WORK DONE BY AN ELEVATOR CONTRACTOR OR ELEVATOR MECHANIC,
+9 INCLUDING THE INSTALLATION, SERVICE, TESTING AND REPAIR OF ELEVATORS AND
+10 ELEVATOR EQUIPMENT. THE INSTALLATION, SERVICE, TESTING AND REPAIR OF
+11 ELEVATORS AND ELEVATOR EQUIPMENT DOES NOT INCLUDE ROUTINE WORK THAT IS
+12 CONDUCTED BY AN EMPLOYEE OF AN ELEVATOR CONTRACTOR AND THAT DOES NOT
+13 INVOLVE THE ACTUAL PHYSICAL INSTALLATION, MAINTENANCE, TESTING OR REPAIR
+14 OF ELEVATORS OR ELEVATOR EQUIPMENT.
+15 Sec. 10. Section 32-1121, Arizona Revised Statutes, as amended by
+16 Laws 2019, chapter 145, section 5, is amended to read:
+17 32-1121. Persons not required to be licensed; penalties;
+18 applicability
+19 A. This chapter does not apply to:
+20 1. An authorized representative of the United States government,
+21 this state or any county, incorporated city or town, reclamation district,
+22 irrigation district or other municipality or political subdivision of this
+23 state.
+24 2. Officers of a court or trustees of an express trust that is not
+25 formed for the purpose of conducting business as a contractor, if they are
+26 acting within the terms of their office or trust.
+27 3. Public utilities operating under regulation of the corporation
+28 commission or construction, repair or operation incidental to discovering
+29 or producing petroleum or gas, or the drilling, testing, abandoning or
+30 other operation of a petroleum or gas well, if performed by an owner or
+31 lessee.
+32 4. Except as provided in subsection D of this section, any
+33 materialman, manufacturer or retailer who informs the purchaser that the
+34 installation may also be performed by a licensed contractor whose name and
+35 address the purchaser may request, and who furnishes finished products,
+36 materials or articles of merchandise and who EITHER:
+37 (a) Does not install or attach such items.
+38 (b) Installs or attaches such items if the total value of the sales
+39 contract or transaction involving such items and the cost of the
+40 installation or attachment of such items to a structure does not exceed
+41 $1,000, including labor, materials and all other items, but excluding any
+42 electrical fixture or appliance that meets all of the following:
+43 (i) Was designed by the manufacturer.
+44 (ii) Is unaltered, unchanged or unmodified by any person.
+45 (iii) Can be plugged into a common electrical outlet.
+46 5. Owners of property who improve such property or who build or
+47 improve structures or appurtenances on such property and who do the work
+-18-
+
+House Amendments to S.B. 1501
+1 themselves, with their own employees or with duly licensed contractors, if
+2 the structure, group of structures or appurtenances, including the
+3 improvements thereto, are intended for occupancy solely by the owner and
+4 are not intended for occupancy by members of the public as the owner's
+5 employees or business visitors and the structures or appurtenances are not
+6 intended for sale or for rent. In all actions brought under this chapter,
+7 except an action against an owner-occupant as defined in section 33-1002,
+8 proof of the sale or rent or the offering for sale or rent of any such
+9 structure by the owner-builder within one year after completion or
+10 issuance of a certificate of occupancy is prima facie evidence that such
+11 project was undertaken for the purpose of sale or rent. For the purposes
+12 of this paragraph, "sale" or "rent" includes any arrangement by which the
+13 owner receives compensation in money, provisions, chattels or labor from
+14 the occupancy or the transfer of the property or the structures on the
+15 property.
+16 6. Owners of property who are acting as developers and who build
+17 structures or appurtenances to structures on their property for the
+18 purpose of sale or rent and who contract for such a project with a general
+19 contractor licensed pursuant to this chapter and owners of property who
+20 are acting as developers, who improve structures or appurtenances to
+21 structures on their property for the purpose of sale or rent and who
+22 contract for such a project with a general contractor or specialty
+23 contractors licensed pursuant to this chapter. To qualify for the
+24 exemption under this paragraph, the licensed contractors' names and
+25 license numbers must be included in all sales documents.
+26 7. Architects or engineers who are engaging in their professional
+27 practice as defined in chapter 1 of this title and who hire or offer to
+28 hire the services of a contractor for preconstruction activities relating
+29 to investigation and discovery, including:
+30 (a) Subsurface utility location and designation services.
+31 (b) Potholing.
+32 (c) Drilling for any of the following:
+33 (i) Soil samples.
+34 (ii) Rock samples.
+35 (iii) Pavement samples.
+36 (d) Locating existing features of a building or structure,
+37 including existing electrical, mechanical, plumbing and structural
+38 members.
+39 8. A person licensed, certified or registered pursuant to title 3,
+40 chapter 20 or a person working under the direct supervision of a person
+41 certified or qualified pursuant to title 3, chapter 20 to the extent the
+42 person is engaged in pest management.
+43 9. Except as provided in subsection D of this section, the sale or
+44 installation of finished products, materials or articles of merchandise
+45 that are not fabricated into and do not become a permanent fixed part of
+46 the structure. This exemption does not apply if a local building permit
+47 is required, if the removal of the finished product, material or article
+-19-
+
+House Amendments to S.B. 1501
+1 of merchandise causes damage to the structure or renders the structure
+2 unfit for its intended use or if the total price of the finished product,
+3 material or article of merchandise is more than $1,000, including labor
+4 but excluding any electrical fixture or appliance that meets all of the
+5 following:
+6 (a) Was designed by the manufacturer.
+7 (b) Is unaltered, unchanged or unmodified by any person.
+8 (c) Can be plugged into a common electrical outlet.
+9 10. Employees of the owners of condominiums, townhouses,
+10 cooperative units or apartment complexes of four units or less or the
+11 owners' management agent or employees of the management agent repairing or
+12 maintaining structures owned by them.
+13 11. Any person who engages in the activities regulated by this
+14 chapter, as an employee of an exempt property owner or as an employee with
+15 wages as the person's sole compensation.
+16 12. A surety company or companies that are authorized to transact
+17 business in this state and that undertake to complete a contract on which
+18 they issued a performance or completion bond, if construction work is
+19 performed by duly licensed contractors.
+20 13. Insurance companies that are authorized to transact business in
+21 this state and that undertake to perform repairs resulting from casualty
+22 losses pursuant to the provisions of a policy, if construction work is
+23 performed by duly licensed contractors.
+24 14. Except as provided in subsection D of this section, any person
+25 other than a licensed contractor engaging in any work or operation on one
+26 undertaking or project by one or more contracts, for which the aggregate
+27 contract price is less than $1,000, including labor, materials and all
+28 other items, but excluding any electrical fixture or appliance that was
+29 designed by the manufacturer, that is unaltered, unchanged or unmodified
+30 by any person and that can be plugged into a common electrical
+31 outlet. The work or operations that are exempt under this paragraph must
+32 be of a casual or minor nature. This exemption does not apply:
+33 (a) In any case in which the performance of the work requires a
+34 local building permit.
+35 (b) In any case in which the work or construction is only a part of
+36 a larger or major operation, whether undertaken by the same or a different
+37 contractor, or in which a division of the operation is made in contracts
+38 of amounts less than $1,000, excluding any electrical fixture or appliance
+39 that was designed by the manufacturer, that is unaltered, unchanged or
+40 unmodified by any person and that can be plugged into a common electrical
+41 outlet.
+42 (c) To a person who utilizes any form of advertising to the public
+43 in which the person's unlicensed status is not disclosed by including the
+44 words "not a licensed contractor" in the advertisement.
+45 15. A person who is licensed, certified or registered pursuant to
+46 title 41, chapter 37, article 4 and who is not otherwise required to be
+47 licensed under this chapter or an employee of such person.
+-20-
+
+House Amendments to S.B. 1501
+1 16. A person who functions as a gardener by performing lawn, garden,
+2 shrub and tree maintenance.
+3 17. Alarm agents as defined in section 32-101.
+4 B. A person who is licensed to perform work in a particular trade
+5 pursuant to this chapter is not required to obtain and maintain a separate
+6 license for mechanical or structural service work performed within the
+7 scope of such trade by such person.
+8 C. Any person who does not have an exemption from licensure
+9 pursuant to subsection A, paragraph 14, subdivision (c) of this section is
+10 subject to prosecution for a violation of section 44-1522. The attorney
+11 general may investigate the act or practice and take appropriate action
+12 pursuant to title 44, chapter 10, article 7.
+13 D. The exemptions from licensure pursuant to subsection A,
+14 paragraphs 4, 9 and 14 of this section do not apply to either ANY of the
+15 following:
+16 1. All fire safety and mechanical, electrical and plumbing work
+17 that is done in connection with fire safety installation and fire safety
+18 maintenance and repair. For the purposes of this paragraph, "fire safety
+19 installation" means hardwired or interconnected smoke alarms and fire
+20 sprinklers and does not include an individual device that is attached by a
+21 nail, screw or other fastening device to the frame or foundation of any
+22 residential unit. For the purposes of this paragraph, fire safety
+23 maintenance and repair does not include routine work that is conducted by
+24 an employee of an apartment or condominium complex and that is incidental
+25 to the fire safety equipment.
+26 2. All work that is done, including the installation, maintenance
+27 and repair of devices, appliances or equipment, AND that involves the
+28 connecting to any supply of natural gas, propane or other petroleum or
+29 gaseous fuel. Nothing in this paragraph impacts the effect of section
+30 36-1624.01.
+31 3. ALL WORK DONE BY AN ELEVATOR CONTRACTOR OR ELEVATOR MECHANIC,
+32 INCLUDING THE INSTALLATION, SERVICE, TESTING AND REPAIR OF ELEVATORS AND
+33 ELEVATOR EQUIPMENT. THE INSTALLATION, SERVICE, TESTING AND REPAIR OF
+34 ELEVATORS AND ELEVATOR EQUIPMENT DOES NOT INCLUDE ROUTINE WORK THAT IS
+35 CONDUCTED BY AN EMPLOYEE OF AN ELEVATOR CONTRACTOR AND THAT DOES NOT
+36 INVOLVE THE ACTUAL PHYSICAL INSTALLATION, MAINTENANCE, TESTING OR REPAIR
+37 OF ELEVATORS OR ELEVATOR EQUIPMENT.
+38 E. A joint venture or other combination of persons, firms,
+39 partnerships, corporations, associations or other organizations is not
+40 required to obtain a separate contractor's license in its own name if all
+41 of the following apply:
+42 1. At least one member of the joint venture or combination holds a
+43 contractor's license in good standing with the registrar.
+44 2. Each member of the joint venture or combination that acts as a
+45 contractor holds a license in good standing with the registrar.
+-21-
+
+House Amendments to S.B. 1501
+1 3. Each licensed member of the joint venture or combination only
+2 performs work within the scope of that member's contractor's license or
+3 licenses.
+4 Sec. 11. Retention of members
+5 Notwithstanding section 32-102, Arizona Revised Statutes, as amended
+6 by this act, all persons serving as members of the state board of
+7 technical registration on the effective date of this act may continue to
+8 serve until the expiration of their normal terms. All subsequent
+9 appointments shall be as prescribed by statute."
+10 Amend title to conform
+And, as so amended, it do pass
+WALT BLACKMAN
+CHAIRMAN
+1501GOVERNMENT.docx
+03/25/2026
+12:41 PM
+C: JR
+130DUVXKP
+-22-

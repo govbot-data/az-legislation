@@ -1,0 +1,197 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Hoffman flr amend (ref GOV) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.C.R. 1032
+Hoffman Floor Amendment
+Reference to: GOVERNMENT S/E Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Replaces the requirement for each school district in Arizona to spend at least 60 percent of
+operational spending on teacher pay with a requirement for each school district that has a student
+count of at least 7,500 or operates a school in a county with a population of more than 500,000
+persons to spend at least 60 percent of operational spending on direct instructional expenses.
+2. Replaces the prescribed procedures to revert Classroom Site Fund (CSF) allocations to the CSF
+for a school district that is not complying with the requirement to spend 60 percent of operational
+spending on teacher pay with a stipulation that, if the Office of the Auditor General (OAG)
+determines that a school district did not comply with the requirements relating to spending 60
+percent of operational spending on direct instructional expenses in the immediately preceding
+fiscal year, the Arizona Department of Education must reduce the school district's CSF allocation
+for the budget year by an amount equal to:
+a) 25 percent of the amount that would otherwise be allocated, if the school district did not comply
+for one year;
+b) 50 percent of the amount that would otherwise be allocated, if the school district did not comply
+for two years;
+c) 75 percent of the amount that would otherwise be allocated, if the school district did not comply
+for three years;
+d) the amount that would otherwise be allocated, if the school district did not comply for at least
+four years.
+3. Removes the requirement for Joint Legislative Budget Committee Staff to adjust the CSF
+per-pupil calculations to exclude the weighted student count of any school district that is ineligible
+due to noncompliance.
+4. Prohibits the Superintendent of Public Instruction (SPI) from issuing a school district more than two
+waivers to the requirements relating to the forfeiture of CSF monies during any 10-year period except
+as outlined, rather than from issuing a school district a waiver for more than 2 consecutive years.
+5. Stipulates that, if the SPI issues a second waiver to a school district more than 4 years after the
+date on which the SPI issued the first waiver, the SPI may issue an additional waiver at any time
+during the 10-year period that begins on the date that the SPI issues the second waiver.
+6. Directs the OAG to define direct instructional expenses and operational spending for the purposes
+of the requirements to spend at least 60 percent of operational spending on direct instructional
+expenses.
+7. Removes the definitions of teacher and teacher pay.
+8. Makes technical and conforming changes.
+Amendment explanation prepared by Mason Holler
+3/18/2026
+
+Fifty-seventh Legislature Hoffman
+Second Regular Session S.C.R. 1032
+HOFFMAN FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.C.R. 1032
+(Reference to GOVERNMENT S/E Committee amendment)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 Strike everything after the resolving clause and insert:
+2 "1. Under the power of the referendum, as vested in the
+3 Legislature, the following measure, relating to school district budgets,
+4 is enacted to become valid as a law if approved by the voters and on
+5 proclamation of the Governor:
+6 AN ACT
+7 AMENDING TITLE 15, CHAPTER 9, ARTICLE 1, ARIZONA REVISED
+8 STATUTES, BY ADDING SECTION 15-917; RELATING TO SCHOOL
+9 DISTRICT BUDGETS.
+10 Be it enacted by the Legislature of the State of Arizona:
+11 Section 1. Title 15, chapter 9, article 1, Arizona
+12 Revised Statutes, is amended by adding section 15-917, to
+13 read:
+14 15-917. Operational spending; direct instructional
+15 expenses; enforcement; waivers
+16 A. EACH SCHOOL DISTRICT [IN THIS STATE] [THAT HAS A
+17 STUDENT COUNT OF AT LEAST SEVEN THOUSAND FIVE HUNDRED OR THAT
+18 OPERATES A SCHOOL IN A COUNTY WITH A POPULATION OF AT LEAST
+19 FIVE HUNDRED THOUSAND PERSONS] SHALL SPEND AT LEAST SIXTY
+20 PERCENT OF THE SCHOOL DISTRICT'S OPERATIONAL SPENDING [AS
+21 DEFINED BY THE OFFICE OF THE AUDITOR GENERAL] ON [TEACHER PAY]
+22 [DIRECT INSTRUCTIONAL EXPENSES]. BEGINNING IN FISCAL YEAR
+23 2027-2028, ANY SCHOOL DISTRICT THAT SPENDS LESS THAN SIXTY
+24 PERCENT OF THE SCHOOL DISTRICT'S OPERATIONAL SPENDING ON
+25 [TEACHER PAY] [DIRECT INSTRUCTIONAL EXPENSES] SHALL INCREASE
+26 THE PORTION OF THE SCHOOL DISTRICT'S OPERATIONAL SPENDING THAT
+27 IS SPENT ON [TEACHER PAY] [DIRECT INSTRUCTIONAL EXPENSES] EACH
+28 YEAR BY AT LEAST ONE-HALF OF ONE PERCENT PER YEAR UNTIL THE
+29 SCHOOL DISTRICT IS IN COMPLIANCE, SUBJECT TO THE FOLLOWING:
+
+Senate Amendments to S.C.R. 1032
+1 1. IF A SCHOOL DISTRICT INCREASES THE PORTION OF THE
+2 SCHOOL DISTRICT'S OPERATIONAL SPENDING ON [TEACHER PAY]
+3 [DIRECT INSTRUCTIONAL EXPENSES] BY MORE THAN ONE-HALF OF ONE
+4 PERCENT PER YEAR, THE SCHOOL DISTRICT MAY COUNT THE PORTION OF
+5 THE INCREASE THAT EXCEEDS ONE-HALF OF ONE PERCENT TOWARD ANY
+6 INCREASE THAT IS REQUIRED IN A SUBSEQUENT YEAR.
+7 2. IF A SCHOOL DISTRICT REDUCES THE PORTION OF THE
+8 SCHOOL DISTRICT'S OPERATIONAL SPENDING ON [TEACHER PAY]
+9 [DIRECT INSTRUCTIONAL EXPENSES], BOTH OF THE FOLLOWING APPLY:
+10 (a) THE AUDITOR GENERAL MAY NOT CONSIDER THE REDUCTION
+11 WHEN CALCULATING THE AMOUNT OF THE ANNUAL INCREASE THAT IS
+12 REQUIRED BY THIS SUBSECTION FOR THE SCHOOL DISTRICT.
+13 (b) THE SCHOOL DISTRICT MAY COUNT ONLY THE PORTION OF
+14 AN INCREASE IN OPERATIONAL SPENDING ON [TEACHER PAY] [DIRECT
+15 INSTRUCTIONAL EXPENSES] FOR A SUBSEQUENT YEAR THAT RESULTS IN
+16 AN INCREASE ABOVE THE PORTION OF OPERATIONAL SPENDING BEFORE
+17 THE REDUCTION.
+18 B. IF THE AUDITOR GENERAL DETERMINES THAT A SCHOOL
+19 DISTRICT [IS] [DID] NOT [COMPLYING] [COMPLY] WITH THE
+20 REQUIREMENTS PRESCRIBED BY SUBSECTION A OF THIS SECTION [IN
+21 THE IMMEDIATELY PRECEDING FISCAL YEAR] AND IF THE SCHOOL
+22 DISTRICT RECEIVES MONIES FROM THE CLASSROOM SITE FUND
+23 ESTABLISHED BY SECTION 15-977[:
+24 1. ANY UNEXPENDED AND UNENCUMBERED MONIES DISTRIBUTED
+25 TO THE SCHOOL DISTRICT FROM THE CLASSROOM SITE FUND REVERT TO
+26 THE CLASSROOM SITE FUND.
+27 2.][, THE DEPARTMENT SHALL REDUCE] THE SCHOOL [DISTRICT
+28 IS INELIGIBLE TO RECEIVE MONIES FROM THE CLASSROOM SITE FUND
+29 UNTIL THE OFFICE OF THE AUDITOR GENERAL DETERMINES THAT THE
+30 SCHOOL DISTRICT IS IN COMPLIANCE] [DISTRICT'S ALLOCATION
+31 PURSUANT TO SECTION 15-977, SUBSECTION G FOR THE BUDGET YEAR
+32 BY THE FOLLOWING AMOUNTS:
+33 1. IF THE SCHOOL DISTRICT DID NOT COMPLY FOR ONE YEAR,
+34 AN AMOUNT THAT IS EQUAL TO TWENTY-FIVE PERCENT OF THE AMOUNT
+35 THAT WOULD OTHERWISE BE ALLOCATED TO THE SCHOOL DISTRICT.
+36 2. IF THE SCHOOL DISTRICT DID NOT COMPLY FOR TWO YEARS,
+37 AN AMOUNT THAT IS EQUAL TO FIFTY PERCENT OF THE AMOUNT THAT
+38 WOULD OTHERWISE BE ALLOCATED TO THE SCHOOL DISTRICT.
+-2-
+
+Senate Amendments to S.C.R. 1032
+1 3. IF THE SCHOOL DISTRICT DID NOT COMPLY FOR THREE
+2 YEARS, AN AMOUNT THAT IS EQUAL TO SEVENTY-FIVE PERCENT OF THE
+3 AMOUNT THAT WOULD OTHERWISE BE ALLOCATED TO THE DISTRICT.
+4 4. IF THE SCHOOL DISTRICT DID NOT COMPLY FOR AT LEAST
+5 FOUR YEARS, AN AMOUNT THAT IS EQUAL TO THE AMOUNT THAT WOULD
+6 OTHERWISE BE ALLOCATED TO THE DISTRICT].
+7 [3.] [C.] THE STAFF OF THE JOINT LEGISLATIVE BUDGET
+8 COMMITTEE SHALL INCLUDE MONIES THAT [REVERT PURSUANT TO] [ARE
+9 NOT DISTRIBUTED BECAUSE OF REDUCTIONS REQUIRED BY SUBSECTION B
+10 OF] THIS [SUBSECTION] [SECTION] IN THE CARRYFORWARD [AND
+11 ADJUST THE PER PUPIL CALCULATIONS PURSUANT TO] [FOR THE
+12 PURPOSES OF] SECTION 15-977, SUBSECTION G, PARAGRAPH 1 [TO
+13 EXCLUDE THE WEIGHTED STUDENT COUNT FOR ANY SCHOOL DISTRICT
+14 THAT IS INELIGIBLE PURSUANT TO THIS SUBSECTION].
+15 [C.] [D.] THE SUPERINTENDENT OF PUBLIC INSTRUCTION MAY
+16 WAIVE THE REQUIREMENTS PRESCRIBED BY SUBSECTION B OF THIS
+17 SECTION FOR A SCHOOL DISTRICT SUBJECT TO THE FOLLOWING:
+18 1. THE DURATION OF A WAIVER PURSUANT TO THIS SUBSECTION
+19 MAY NOT EXCEED ONE YEAR.
+20 2. THE SUPERINTENDENT OF PUBLIC INSTRUCTION MAY NOT
+21 ISSUE [A WAIVER] [MORE THAN TWO WAIVERS] FOR A SCHOOL DISTRICT
+22 [FOR MORE THAN TWO CONSECUTIVE YEARS] [DURING ANY TEN-YEAR
+23 PERIOD, EXCEPT AS PROVIDED IN PARAGRAPH 3 OF THIS SUBSECTION.
+24 3. IF THE SUPERINTENDENT ISSUES A SECOND WAIVER FOR A
+25 SCHOOL DISTRICT MORE THAN FOUR YEARS AFTER THE DATE ON WHICH
+26 THE SUPERINTENDENT ISSUES A FIRST WAIVER FOR THE SCHOOL
+27 DISTRICT, THE SUPERINTENDENT MAY ISSUE ANOTHER WAIVER FOR THE
+28 SCHOOL DISTRICT AT ANY TIME DURING THE TEN-YEAR PERIOD THAT
+29 BEGINS ON THE DATE THAT THE SUPERINTENDENT ISSUES THE SECOND
+30 WAIVER].
+31 [D.] [E.] THIS SECTION DOES NOT REQUIRE THIS STATE OR
+32 AN OFFICER OR AGENCY OF THIS STATE TO MAINTAIN THE CLASSROOM
+33 SITE FUND ESTABLISHED BY SECTION 15-977 OR ALLOCATE MONIES FOR
+34 A CLASSROOM SITE FUND EXCEPT AS OTHERWISE PROVIDED BY THE LAWS
+35 OF THIS STATE.
+36 [F. THE AUDITOR GENERAL SHALL DEFINE "DIRECT
+37 INSTRUCTIONAL EXPENSES" AND "OPERATIONAL SPENDING" FOR THE
+38 PURPOSES OF THIS SECTION.]
+39 [E. FOR THE PURPOSES OF THIS SECTION:
+40 1. "TEACHER" MEANS ANY INDIVIDUAL WHO IS CLASSIFIED AS
+41 A TEACHER IN THE UNIFORM SYSTEM OF FINANCIAL RECORDS.
+42 2. "TEACHER PAY" INCLUDES THE BASE SALARY, PERFORMANCE
+43 PAY, OTHER COMPENSATION AND ALL EMPLOYEE BENEFITS THAT A
+44 TEACHER RECEIVES AND THAT ARE PAID FOR BY THE SCHOOL
+45 DISTRICT.]
+-3-
+
+Senate Amendments to S.C.R. 1032
+1 2. The Secretary of State shall submit this proposition to the
+2 voters at the next general election as provided by article IV, part 1,
+3 section 1, Constitution of Arizona."
+4 Enroll and engross to conform
+5 Amend title to conform
+JAKE HOFFMAN
+SCR1032FloorHOFFMAN.docx
+03/17/2026
+5:27 PM
+C: VS
+130QFFWUK
+-4-

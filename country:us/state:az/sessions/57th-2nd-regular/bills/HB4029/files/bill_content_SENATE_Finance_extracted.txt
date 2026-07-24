@@ -1,0 +1,179 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Finance
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Finance
+Second Regular Session H.B. 4029
+COMMITTEE ON FINANCE
+SENATE AMENDMENTS TO H.B. 4029
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 41, chapter 1, article 1, Arizona Revised
+3 Statutes, is amended by adding section 41-112, to read:
+4 41-112. Evaluation and determination of income tax law
+5 changes; special session analysis and notification
+6 A. EACH YEAR, THE GOVERNOR'S OFFICE OF STRATEGIC PLANNING AND
+7 BUDGETING AND THE JOINT LEGISLATIVE BUDGET COMMITTEE SHALL INDIVIDUALLY
+8 EVALUATE AND DETERMINE IF CONFORMING THE LAWS OF THIS STATE WITH CHANGES
+9 MADE TO THE INTERNAL REVENUE CODE FOR CALCULATING FEDERAL ADJUSTED GROSS
+10 INCOME FOR THE PURPOSE OF CALCULATING TAXABLE INCOME IN THIS STATE WILL
+11 RESULT IN AN INCREASE OR DECREASE OF INCOME TAX REVENUES OF $100,000,000
+12 OR MORE COMPARED TO THE AMOUNT OF INCOME TAX REVENUES THAT WOULD BE
+13 COLLECTED IF THE LAWS OF THIS STATE DID NOT CONFORM TO THE INTERNAL
+14 REVENUE CODE CHANGES.
+15 B. BEFORE SEPTEMBER 30 OF EACH YEAR IN WHICH THE EVALUATION MADE BY
+16 EITHER THE GOVERNOR'S OFFICE OF STRATEGIC PLANNING AND BUDGETING OR THE
+17 JOINT LEGISLATIVE BUDGET COMMITTEE PURSUANT TO SUBSECTION A OF THIS
+18 SECTION EXCEEDS AN INCREASE OR DECREASE OF INCOME TAX REVENUES OF
+19 $100,000,000 OR MORE, THE GOVERNOR SHALL DETERMINE IF A SPECIAL SESSION OF
+20 THE LEGISLATURE IS NECESSARY TO CONFORM THE LAWS OF THIS STATE TO THE
+21 CHANGES IN THE INTERNAL REVENUE CODE AND SHALL NOTIFY IN WRITING THE
+22 PRESIDENT OF THE SENATE AND THE SPEAKER OF THE HOUSE OF REPRESENTATIVES OF
+23 THAT DETERMINATION AND THE REASONS THAT SUPPORT THE DETERMINATION.
+24 Sec. 2. Section 42-1005, Arizona Revised Statutes, is amended to
+25 read:
+26 42-1005. Powers and duties of director
+27 A. The director shall be directly responsible to the governor for
+28 the direction, control and operation of the department and shall:
+
+Senate Amendments to H.B. 4029
+1 1. Make such administrative rules as he THE DIRECTOR deems
+2 necessary and proper to effectively administer the department and enforce
+3 this title and title 43.
+4 2. On or before November 15 of each year, issue a written report to
+5 the governor and legislature concerning the department's activities during
+6 the year. In any election year, a copy of this report shall be made
+7 available to the governor-elect and to the legislature-elect.
+8 3. On or before December 15 of each year, issue a supplemental
+9 report which THAT shall also contain proposed legislation recommended by
+10 the department for the improvement of the system of taxation in the THIS
+11 state.
+12 4. In addition to the report required by paragraph 2 of this
+13 subsection, on or before November 15 of each year, issue a written report
+14 to the governor and legislature detailing the approximate costs in lost
+15 revenue for all state tax expenditures in effect at the time of the
+16 report. For the purpose of this paragraph, "tax expenditure" means any
+17 tax provision in state law which THAT exempts, in whole or in part, any
+18 persons, income, goods, services or property from the impact of
+19 established taxes, including deductions, subtractions, exclusions,
+20 exemptions, allowances and credits.
+21 5. Annually, On or before January 10 SEPTEMBER 30 OF EACH YEAR,
+22 prepare and submit to the legislature a AN INITIAL report containing a
+23 summary of all the revisions made to the internal revenue code during the
+24 preceding calendar year AND ON OR BEFORE JANUARY 10 OF EACH YEAR, SUBMIT A
+25 FINAL REPORT TO THE LEGISLATURE.
+26 6. Provide such assistance to the governor and the legislature as
+27 they may require.
+28 7. Delegate such administrative functions, duties or powers as he
+29 THE DIRECTOR deems necessary to carry out the efficient operation of the
+30 department.
+31 B. The director may enter into an agreement with the taxing
+32 authority of any state which THAT imposes a tax on or measured by income
+33 to provide that compensation paid in that state to residents of this state
+34 is exempt in that state from liability for income tax, the requirement for
+35 filing a tax return and withholding tax from compensation. Compensation
+36 paid in this state to residents of that state is reciprocally exempt from
+37 the requirements of title 43.
+38 <<Sec. 3. Section 43-323, Arizona Revised Statutes, is amended to
+39 read:
+40 43-323. Place and form of filing returns
+41 A. All returns required by this title shall be in such a form as
+42 the department may from time to time prescribe and shall be filed with the
+43 department.
+44 B. The department shall prescribe a short form return for
+45 individual taxpayers who:
+46 1. Are eligible and elect to pay tax based on the optional tax
+47 tables pursuant to section 43-1012.
+-2-
+
+Senate Amendments to H.B. 4029
+1 2. Elect to claim the optional standard deduction pursuant to
+2 section 43-1041, subsection A, but not the increased amount for charitable
+3 deductions under section 43-1041, subsection I.
+4 3. Elect not to file for credits against income tax liability other
+5 than those contained in sections 43-1072, 43-1072.01, 43-1072.02, 43-1073
+6 and 43-1073.01.
+7 4. Are not required to add any income under section 43-1021 and do
+8 not elect any subtractions under section 43-1022, except for the
+9 exemptions allowed under section 43-1023.
+10 C. The department may provide a simplified return form for
+11 individual taxpayers who:
+12 1. Are eligible and elect to pay tax based on the optional tax
+13 tables pursuant to section 43-1012.
+14 2. Are residents for the full taxable year.
+15 3. File as single individuals or married couples filing joint
+16 returns under section 43-309.
+17 4. Are not sixty-five years of age or older or blind at the end of
+18 the taxable year.
+19 5. Claim no exemptions under section 43-1023 for the taxable year.
+20 6. Elect to claim the optional standard deduction under section
+21 43-1041, subsection A, but not the increased amount for charitable
+22 deductions under section 43-1041, subsection I.
+23 7. Are not required to add any income under section 43-1021 and do
+24 not elect to claim any subtractions under section 43-1022 or file for any
+25 credits under chapter 10, article 5 of this title, except the credits
+26 provided by sections 43-1072.01, 43-1072.02 and 43-1073.
+27 8. Do not elect to contribute a portion of any tax refund as
+28 provided by any provision of chapter 6, article 1 of this title.
+29 Notwithstanding any provision of chapter 6, article 1 of this title, a
+30 simplified return form under this subsection shall not include any space
+31 for the taxpayer to so contribute a portion of a refund.
+32 D. The department shall prepare blank forms for the returns and
+33 furnish them on request. Failure to receive or secure the form does not
+34 relieve any taxpayer from making any return required.
+35 E. An individual income tax preparer who prepares more than ten
+36 original income tax returns that are timely filed during any taxable year
+37 that begins from and after December 31, 2017 shall file electronically all
+38 individual tax returns prepared by that tax preparer, for that taxable
+39 year and each subsequent taxable year. An individual income tax preparer
+40 may not charge a separate fee to the taxpayer for filing a return using
+41 the department's electronic filing program. This subsection does not
+42 apply if the taxpayer elects to have the return filed on paper or if the
+43 return cannot be filed electronically for reasons outside of the tax
+44 preparer's control.
+45 F. Fiduciary returns, partnership returns, withholding returns and
+46 corporate returns shall be filed electronically for taxable years
+47 beginning from and after December 31, 2019, or when the department
+-3-
+
+Senate Amendments to H.B. 4029
+1 establishes an electronic filing program, whichever is later. Any person
+2 who is required to file electronically pursuant to this subsection may
+3 apply to the director, on a form prescribed by the department, for an
+4 annual waiver from the electronic filing requirement. The director may
+5 grant the waiver, which may be renewed for one subsequent year, if any of
+6 the following applies:
+7 1. The taxpayer has no computer.
+8 2. The taxpayer has no internet access.
+9 3. Any other circumstance considered to be worthy by the director
+10 exists.
+11 G. A waiver is not required if the return cannot be electronically
+12 filed for reasons beyond the taxpayer's control, including situations in
+13 which the taxpayer was instructed by either the internal revenue service
+14 or the department of revenue to file by paper.
+15 H. THE DEPARTMENT MAY NOT PRESCRIBE FORMS FOR RETURNS PURSUANT TO
+16 THIS SECTION THAT ARE INCONSISTENT WITH THE STATUTES THAT ARE IN EFFECT ON
+17 THE DATE THAT THE FORMS ARE ISSUED.>>
+18 Enroll and engross to conform
+19 Amend title to conform
+4029FIN.docx
+03/17/2026
+12:07 PM
+C: SP
+130EKIQLK
+-4-

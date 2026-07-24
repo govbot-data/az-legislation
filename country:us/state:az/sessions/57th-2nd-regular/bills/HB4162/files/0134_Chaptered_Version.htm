@@ -1,0 +1,1406 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<title>Chapter 0134 - 572R - H Ver of HB4162</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Letter Gothic-Drafting";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Letter-Gothic-Upper-Drafting;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+span.BNUM
+	{mso-style-name:BNUM;
+	font-family:"Arial",sans-serif;
+	font-weight:bold;}
+span.SECHEAD
+	{mso-style-name:SECHEAD;
+	font-family:"Letter Gothic-Drafting";
+	color:purple;
+	text-decoration:underline;}
+span.SNUM
+	{mso-style-name:SNUM;
+	font-family:"Letter Gothic-Drafting";
+	color:green;
+	text-transform:none;}
+span.UP
+	{mso-style-name:UP;
+	font-family:"Letter Gothic-Drafting";
+	color:blue;
+	text-transform:uppercase;}
+span.O
+	{mso-style-name:O;
+	font-family:"Letter Gothic-Drafting";
+	color:red;
+	text-decoration:line-through;}
+p.P00-00, li.P00-00, div.P00-00
+	{mso-style-name:"P 00-00";
+	margin:0in;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.P06-00, li.P06-00, div.P06-00
+	{mso-style-name:"P 06-00";
+	mso-style-link:"P 06-00 Char";
+	margin:0in;
+	text-align:justify;
+	text-indent:.5in;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.SEC06-17, li.SEC06-17, div.SEC06-17
+	{mso-style-name:"SEC 06-17";
+	mso-style-link:"SEC 06-17 Char";
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:102.25pt;
+	text-align:justify;
+	text-indent:-66.25pt;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.SEC06-18, li.SEC06-18, div.SEC06-18
+	{mso-style-name:"SEC 06-18";
+	mso-style-link:"SEC 06-18 Char";
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:1.5in;
+	text-align:justify;
+	text-indent:-1.0in;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.SEC06-20, li.SEC06-20, div.SEC06-20
+	{mso-style-name:"SEC 06-20";
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:120.25pt;
+	text-align:justify;
+	text-indent:-84.25pt;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.SEC06-21, li.SEC06-21, div.SEC06-21
+	{mso-style-name:"SEC 06-21";
+	margin-top:0in;
+	margin-right:.5in;
+	margin-bottom:0in;
+	margin-left:1.75in;
+	text-align:justify;
+	text-indent:-1.25in;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+p.JUSTIFYCENTER, li.JUSTIFYCENTER, div.JUSTIFYCENTER
+	{mso-style-name:"JUSTIFY CENTER";
+	margin:0in;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:line;
+	font-weight:bold;}
+span.TemporaryLaw
+	{mso-style-name:"Temporary Law";
+	color:blue;
+	text-transform:none;}
+p.ChapterTOC, li.ChapterTOC, div.ChapterTOC
+	{mso-style-name:ChapterTOC;
+	margin:0in;
+	text-align:center;
+	font-size:24.0pt;
+	font-family:"Times New Roman",serif;
+	layout-grid-mode:line;
+	font-weight:bold;}
+span.BTITLE
+	{mso-style-name:BTITLE;
+	font-family:"Letter Gothic-Drafting";
+	color:blue;
+	text-transform:uppercase;}
+span.P06-00Char
+	{mso-style-name:"P 06-00 Char";
+	mso-style-link:"P 06-00";
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:both;
+	font-weight:bold;}
+span.SEC06-17Char
+	{mso-style-name:"SEC 06-17 Char";
+	mso-style-link:"SEC 06-17";
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:both;
+	font-weight:bold;}
+span.AmendCode
+	{mso-style-name:AmendCode;
+	font-variant:normal !important;
+	color:#008001;
+	text-transform:none;
+	text-decoration:none none;}
+span.SEC06-18Char
+	{mso-style-name:"SEC 06-18 Char";
+	mso-style-link:"SEC 06-18";
+	font-family:"Letter Gothic-Drafting";
+	layout-grid-mode:both;
+	font-weight:bold;}
+p.p06-000, li.p06-000, div.p06-000
+	{mso-style-name:p06-00;
+	margin-right:0in;
+	margin-left:0in;
+	text-align:left;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	layout-grid-mode:both;
+	font-weight:normal;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.5in 1.0in 1.2in 1.3in;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.5in 1.0in 1.0in 1.3in;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:8.5in 11.0in;
+	margin:.5in 1.0in 1.0in 1.3in;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US link="#0563C1" vlink="#954F72" style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse'>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=right style='text-align:right'>House Engrossed</p>
+  <p class=MsoNormal align=right style='text-align:right'>&nbsp;</p>
+  <p class=MsoNormal align=right style='text-align:right'>human services;
+  2026-2027</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  <p class=MsoNormal>&nbsp;</p>
+  <p class=MsoNormal>&nbsp;</p>
+  <p class=MsoNormal>State of Arizona</p>
+  <p class=MsoNormal>House of Representatives</p>
+  <p class=MsoNormal>Fifty-seventh Legislature</p>
+  <p class=MsoNormal>Second Regular Session</p>
+  <p class=MsoNormal>2026</p>
+  <p class=MsoNormal>&nbsp;</p>
+  <p class=MsoNormal>&nbsp;</p>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=ChapterTOC>CHAPTER 134</p>
+  <p class=ChapterTOC>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span class=BNUM><span
+  style='font-size:24.0pt'>HOUSE BILL 4162</span></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=610 valign=top style='width:6.35in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal align=center style='text-align:center'><span class=BTITLE>AN
+ACT</span></p>
+
+<p class=MsoNormal><span class=BTITLE>&nbsp;</span></p>
+
+<p class=MsoNormal><span class=BTITLE>Amending sections 33-1476.01, 33-1476.04,
+33-1476.05, 41-608.04 and 41-1970, Arizona Revised Statutes;
+amending title 41, chapter 14, article 5, Arizona Revised Statutes, by adding
+section 41-2023; amending sections 41-3955 and 43-1086,
+Arizona Revised Statutes; amending laws 2008, chapter 243, section 6, as
+amended by laws 2012, chapter 281, section 2 and laws 2018, chapter 199,
+section 3; appropriating monies; relating to human services.</span></p>
+
+<p class=MsoNormal><span class=BTITLE>&nbsp;</span></p>
+
+<p class=MsoNormal><span class=BTITLE>&nbsp;</span></p>
+
+<p class=JUSTIFYCENTER>(TEXT OF BILL BEGINS ON NEXT PAGE)</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<b><span style='font-size:10.0pt;font-family:"Letter Gothic-Drafting";
+layout-grid-mode:line'><br clear=all style='page-break-before:always'>
+</span></b>
+
+<div class=WordSection2>
+
+<p class=MsoNormal>Be it enacted by the Legislature of the State of Arizona:</p>
+
+<p class=P06-00>Section&nbsp;1. Section 33-1476.01, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-21><span
+style='display:none'>START_STATUTE</span><span class=SNUM>33-1476.01.</span> <span
+class=SECHEAD>Change in use; notices; compensation for moving expenses;
+payments by the landlord; applicability</span></p>
+
+<p class=P06-00>A. The landlord shall notify the director and all
+tenants in writing of a change in use at least one hundred eighty days before
+the change in use. The landlord may not increase rent within ninety
+days before giving notice of a change in use.</p>
+
+<p class=P06-00>B. The landlord shall inform all tenants in writing
+about the mobile home relocation fund established by section 33-1476.02.</p>
+
+<p class=P06-00>C. If a tenant is required to move due to a change
+in use or redevelopment of the mobile home park, the tenant may do any of the
+following:</p>
+
+<p class=P06-00>1. Collect payment from the <span class=O>mobile
+home relocation</span> fund for the lesser of the actual moving expenses of
+relocating the mobile home to a new location that is within <span class=O>a one
+hundred-mile radius of the vacated mobile home park</span> <span class=UP>this
+state </span>or the maximum of <span class=O>$12,500</span> <span class=UP>$22,500
+</span>for a <span class=O>single section</span> <span class=UP>single-section
+</span>mobile home or <span class=O>$20,000</span> <span class=UP>$30,000 </span>for
+a multisection mobile home. Moving expenses include the cost of
+stabilizing, taking down, moving and setting up the mobile home in the new
+location.</p>
+
+<p class=P06-00>2. Abandon the mobile home in the mobile home park
+and collect an amount equal to forty percent of the maximum allowable moving
+expense for that mobile home from the <span class=O>mobile home relocation</span>
+fund. To qualify for abandonment payment pursuant to this paragraph,
+the tenant shall deliver to the landlord the current title to the mobile home
+with the notarized endorsement of the owner of record together with complete
+releases of all liens that are shown on the title and proof that all taxes
+owing on the mobile home have been paid to date. The tenant shall
+provide a copy of these documents to the Arizona department of housing in
+support of the tenant's application for payment. If the tenant
+chooses to abandon the mobile home pursuant to this paragraph, the landlord is
+exempt from making the payments to the fund prescribed in subsection D of this
+section.</p>
+
+<p class=P06-00>3. If a mobile home is relocated to a location
+outside of the vacated mobile home park and, in the sole judgment of the
+director, the mobile home was ground set in the mobile home park from which it
+was removed, the tenant may collect additional monies not to exceed $2,500 for
+the incremental costs of removing a ground-set mobile home. These
+monies are in addition to any monies provided pursuant to paragraph 1 of this
+subsection.</p>
+
+<p class=P06-00>D. Except as provided in subsection C, paragraph 2
+and subsection F of this section and section 33-1476.04, subsection D, if
+there is a change in use the landlord shall pay $500 for each <span class=O>single
+section</span> <span class=UP>single-section </span>mobile home and $800
+for each multisection mobile home relocated to the fund for each tenant filing
+for relocation assistance with the director.</p>
+
+<p class=P06-00>E. If a change in use occurs before the time stated
+in the statements of policy and the landlord does not comply with subsection A
+of this section<span class=UP>,</span> <span class=O>and with</span> section 33-1436
+and section 33-1476, subsection H, the landlord shall pay to the fund in
+addition to the monies prescribed in subsection D of this section:</p>
+
+<p class=P06-00>1. $500 for each mobile home space occupied by a
+single-section mobile home.</p>
+
+<p class=P06-00>2. $800 for each mobile home space occupied by a
+multisection mobile home.</p>
+
+<p class=P06-00>F. The landlord is not required to make the payments
+prescribed in subsections D and E of this section for moving mobile homes owned
+by the landlord or for moving a mobile home under a contract with the tenant if
+the tenant does not file for relocation assistance with the director.</p>
+
+<p class=P06-00>G. If a change in use occurs within two hundred
+seventy days after relocations under section 33-1476.04, the landlord
+shall pay to the fund in addition to the monies prescribed in subsection D of
+this section:</p>
+
+<p class=P06-00>1. $500 for each mobile home space occupied by a
+single section mobile home.</p>
+
+<p class=P06-00>2. $800 for each mobile home space occupied by a
+multisection mobile home.</p>
+
+<p class=P06-00>H. The tenant shall submit a contract for relocation
+of a mobile home for approval to the director within sixty days after the
+relocation to be eligible for payment of relocation expenses. The
+director must approve or disapprove the contract within fifteen days after
+receipt of the contract, or the contract is deemed to be approved.</p>
+
+<p class=P06-00>I. If the contract is approved, the payment of
+relocation expenses shall be made to the installer when both of the following
+are complete:</p>
+
+<p class=P06-00>1. The installer obtains valid permits to move the
+mobile or manufactured home to a new location.</p>
+
+<p class=P06-00>2. The installer provides documentation to the
+department that the installation of the mobile or manufactured home at the new
+location is complete and has been inspected by the department or its designee
+and is approved for occupancy.</p>
+
+<p class=P06-00>J. If the contract is not approved, the tenant may
+appeal to an administrative law judge pursuant to title 41, chapter 37, article
+5. The tenant shall provide notice pursuant to section 33-1451,
+subsection A, paragraph 6 if the tenant relocates.</p>
+
+<p class=P06-00>K. If this state or a political subdivision of this
+state exercises eminent domain and the mobile home park is sold or a sale is
+made to this state or a political subdivision of this state that intends to
+exercise eminent domain, the state or political subdivision is responsible for
+the relocation costs of the tenants.</p>
+
+<p class=P06-00>L. If a tenant is vacating the premises and has
+informed the landlord or manager before the change-in-use notice has been
+given, the tenant is not eligible for compensation under this section.</p>
+
+<p class=P06-00>M. A person who purchases a mobile home already
+situated in a park or moves a mobile home into a park in which a change-in-use
+notice has been given is not eligible for compensation under this section.</p>
+
+<p class=P06-00>N. After delivery of the one hundred eighty-day
+notice prescribed by subsection A of this section, the landlord and the tenants
+shall inform any prospective buyer or tenant that closure of the park is
+pending.</p>
+
+<p class=P06-00>O. This section does not apply to a change in use if
+the landlord moves a tenant to another space in the mobile home park at the
+landlord's expense.<span
+style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;2. Section 33-1476.04, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-21><span
+style='display:none'>START_STATUTE</span><span class=SNUM>33-1476.04.</span> <span
+class=SECHEAD>Relocations due to rent increase; mobile home relocation fund;
+applicability</span></p>
+
+<p class=P06-00>A. A tenant is eligible for payment from the <span
+class=O>mobile home relocation</span> fund if all of the following conditions
+are met:</p>
+
+<p class=P06-00>1. The tenant resides in a mobile home that is owned
+by the tenant and that is located in a mobile home park.</p>
+
+<p class=P06-00>2. A rent increase will be effective at the
+expiration or renewal of the tenant's rental agreement.</p>
+
+<p class=P06-00>3. The rent increase either singly or in combination
+during any consecutive twelve-month period is more than a total of ten
+percent plus the current increase in the consumer price index over the most
+recent one-year period before the date of the notice of the rent
+increase. For the purposes of this paragraph, &quot;consumer price index&quot;
+means the &quot;west-A&quot; index that is published by the United States
+department of labor, bureau of labor statistics, and that demonstrates changes
+in prices in certain cities in the western United States.</p>
+
+<p class=P06-00>B. A landlord who increases rent as prescribed by
+subsection A of this section shall give written notice of the applicability of
+this section to all affected tenants.</p>
+
+<p class=P06-00>C. A tenant is eligible to receive relocation
+expenses pursuant to subsection A of this section as follows:</p>
+
+<p class=P06-00>1. At least thirty days before the effective date of
+the rent increase that exceeds the limits prescribed by subsection A of this
+section, the tenant shall submit a contract for relocation of the mobile home
+to the director for approval and to the landlord.</p>
+
+<p class=P06-00>2. Before the effective date of the rent increase,
+the tenant shall have a fully signed contract with a licensed installer or
+contractor to move the mobile home to a specific location.</p>
+
+<p class=P06-00 style='page-break-after:avoid'>3. The director shall
+approve or disapprove the contract submitted within fifteen days after receipt
+of the contract, and the contract is deemed to be approved on the sixteenth day
+if the director takes no action.</p>
+
+<p class=P06-00>4. If the contract is approved, the payment of
+relocation expenses shall be made to the installer or contractor when both of
+the following are complete:</p>
+
+<p class=P06-00>(a) The installer or contractor obtains valid
+permits to move the mobile <span class=UP>home </span>or manufactured home to a
+new location.</p>
+
+<p class=P06-00><span style='layout-grid-mode:both'>(b) </span>The
+installer or contractor provides documentation to the department that the
+installation of the mobile<span class=UP> home</span> or manufactured home at
+the<span style='layout-grid-mode:both'> </span>new location is complete and has
+been inspected by the department or its designee and is approved for occupancy.</p>
+
+<p class=P06-00>5. If the contract is not approved, the tenant may
+appeal to an administrative law judge pursuant to title 41, chapter 37, article
+5. The tenant shall provide notice pursuant to section 33-1451,
+subsection A, paragraph 6 if the tenant relocates.</p>
+
+<p class=P06-00>6. On approval, the tenant is eligible for the
+lesser of the actual moving expenses of relocating the mobile home or <span
+class=O>$12,500</span> <span class=UP>$22,500 </span>for a single-section
+mobile home or <span class=O>$20,000</span> <span class=UP>$30,000 </span>for a
+multisection mobile home. Compensable moving expenses include the cost of
+taking down, moving and setting up the mobile home in the new location if the
+mobile home is relocated to a residential location within <span class=O>a one
+hundred-mile radius of the vacated mobile home park</span><span class=UP> this
+state</span>.</p>
+
+<p class=P06-00>D. As an alternative to receiving payment as
+prescribed in subsection C of this section, a tenant who is eligible to receive
+payment pursuant to subsection A of this section may abandon the mobile home in
+the mobile home park and collect an amount equal to forty percent of the
+maximum allowable moving expense for that mobile home from the <span class=O>mobile
+home relocation</span> fund. To qualify for an abandonment payment pursuant to
+this subsection, the tenant shall deliver to the landlord the current title to
+the mobile home with the notarized endorsement of the owner of record together
+with complete releases of all liens that are shown on the title and proof that
+all taxes owing on the mobile home have been paid to date. The tenant shall
+provide a copy of these documents to the Arizona department of housing in
+support of the tenant's application for payment. If the tenant chooses to
+abandon the mobile home pursuant to this subsection, the landlord is exempt
+from making the payments to the fund prescribed in section 33-1476.01,
+subsection D.</p>
+
+<p class=P06-00>E. This section does not apply to rent increases
+that are prescribed in a written rental agreement.</p>
+
+<p class=P06-00>F. This section does not make any rent increase
+unreasonable.<span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00 style='page-break-after:avoid'>Sec.&nbsp;3. Section 33-1476.05, Arizona Revised Statutes, is amended to read:</p>
+
+<p class=SEC06-21 style='page-break-after:avoid'><span
+style='display:none'>START_STATUTE</span><span class=SNUM>33-1476.05.</span> <span
+class=SECHEAD>Relocations due to change in age-restricted community use;
+payment from mobile home relocation fund; applicability</span></p>
+
+<p class=P06-00>A. The landlord shall notify the director and all
+tenants in writing of a change in use at least sixty days before a change in
+the age-restricted community to an all-age community use as defined by
+the housing for older persons act of 1995.</p>
+
+<p class=P06-00>B. A tenant is eligible for payment from the <span
+class=O>mobile home relocation</span> fund if both of the following conditions
+are met:</p>
+
+<p class=P06-00>1. The tenant resides in a mobile home or
+manufactured home that is owned by the tenant and that is located in an age-restricted
+mobile home park.</p>
+
+<p class=P06-00>2. The landlord implements a change from an age-restricted
+community to an all-age community as defined by the housing for older persons
+act of 1995.</p>
+
+<p class=P06-00>C. A landlord who changes a mobile home park
+designation from an age-restricted community shall give written notice of the
+applicability of this section to all affected tenants.</p>
+
+<p class=P06-00>D. A tenant is eligible to receive relocation
+expenses pursuant to subsection B of this section as follows:</p>
+
+<p class=P06-00>1. Within one hundred eighty days after the
+effective date of notification of the change in the age-restricted community's
+use, the tenant shall submit a contract for relocation of the mobile <span
+class=UP>home</span><span class=AmendCode> </span>or manufactured home to the
+director for approval and to the landlord.</p>
+
+<p class=P06-00>2. After notice of approval by the director for the
+payment of relocation expenses, the tenant shall have a fully signed contract
+with a licensed installer or contractor to move the mobile <span class=UP>home</span><span
+class=AmendCode> </span>or manufactured home to a specific location.</p>
+
+<p class=P06-00>3. The director shall approve or disapprove the
+contract submitted within fifteen days after receipt of the contract, and the
+contract is deemed to be approved on the sixteenth day if the director takes no
+action. </p>
+
+<p class=P06-00>4. If the contract is approved, the payment of
+relocation expenses shall be made to the installer or contractor when both of
+the following are complete:</p>
+
+<p class=P06-00><span style='layout-grid-mode:both'>(a) </span>The
+installer or contractor obtains valid permits to move the mobile <span
+class=UP>home</span><span class=AmendCode> </span>or manufactured home to a new
+location.</p>
+
+<p class=P06-00>(b) The installer or contractor provides
+documentation to the department that the installation of the mobile <span
+class=UP>home</span><span class=AmendCode> </span>or manufactured home at the
+new location is complete and has been inspected by the department or its
+designee and is approved for occupancy.</p>
+
+<p class=P06-00 style='page-break-after:avoid'>5. If the contract is
+not approved, the tenant may appeal to an administrative law judge pursuant to
+title 41, chapter 37, article 5. The tenant shall provide notice
+pursuant to section 33-1451, subsection A, paragraph 6 if the tenant
+relocates.</p>
+
+<p class=P06-00>6. On approval, the tenant is eligible for the
+lesser of the actual moving expenses of relocating the mobile home or <span
+class=O>$12,500</span> <span class=UP>$22,500 </span>for a single-section
+mobile home or <span class=O>$20,000</span> <span class=UP>$30,000 </span>for a
+multisection mobile home. Compensable moving expenses include the cost of
+taking down, moving and setting up the mobile home in the new location if the
+mobile home is relocated to another age-restricted community within <span
+class=O>a one hundred-mile radius of the vacated mobile home park</span> <span
+class=UP>this state</span>.</p>
+
+<p class=P06-00>E. The landlord shall not be responsible for making
+any payment into the <span class=O>mobile home relocation</span> fund for any
+mobile or manufactured home moved pursuant to this section.<span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;4. Section 41-608.04, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-20><span
+style='display:none'>START_STATUTE</span><span class=SNUM>41-608.04.</span> <span
+class=SECHEAD>Military family relief fund; subaccounts; advisory committees;
+definitions </span></p>
+
+<p class=P06-00>A. The military family relief fund is established
+through December&nbsp;31, <span class=O>2026</span><span class=UP> 2031</span>.
+The fund consists of private donations, grants, bequests and any other monies
+received for that purpose.</p>
+
+<p class=P06-00>B. The pre-9/11 veterans subaccount and post-9/11
+veterans subaccount of the military family relief fund are
+established. The department shall administer the fund and
+subaccounts. On notice from the director, the state treasurer shall
+invest and divest monies in the subaccounts as provided by section 35-313,
+and monies earned from investment shall be credited to the
+subaccounts. The monies in the subaccounts are continuously
+appropriated to the department solely for the purposes described in this section. Any
+monies remaining unexpended and unencumbered on December 31, <span class=O>2026</span><span
+class=UP> 2031</span> shall be transferred for deposit in the veterans'
+donations fund established by section 41-608.</p>
+
+<p class=P06-00>C. The post-9/11 military family relief
+advisory committee is established to determine appropriate uses of the monies
+in the post-9/11 veterans subaccount as provided by this section. The
+post-9/11 military family relief advisory committee consists of the
+director or the director's designee and twelve additional members, including
+widows and widowers of military personnel who died in the line of duty,
+military retirees, veterans who have a service-connected disability and their
+family members, Arizona army and air national guard unit commanders and active
+and retired senior enlisted military personnel. Except for the director, the
+governor shall appoint the members based on recommendations by the director,
+the adjutant general and commanders of military bases in this state. Appointed
+members serve at the pleasure of the governor. The post-9/11
+military family relief advisory committee shall elect a chairperson from among
+the appointed members.</p>
+
+<p class=P06-00>D. The post-9/11 military family relief
+advisory committee shall:</p>
+
+<p class=P06-00>1. Establish criteria for the use of monies in the
+post-9/11 veterans subaccount.</p>
+
+<p class=P06-00>2. Establish and revise as necessary the application
+process for financial assistance.</p>
+
+<p class=P06-00>3. Review and evaluate applications.</p>
+
+<p class=P06-00>4. Make other recommendations as necessary.</p>
+
+<p class=P06-00>E. The pre-9/11 military family relief
+advisory committee is established to determine appropriate uses of the monies
+in the pre-9/11 veterans subaccount as provided by this section. The pre-9/11
+military family relief advisory committee consists of the director or the
+director's designee and twelve additional members, including widows and
+widowers of military personnel who died in the line of duty, military retirees,
+veterans who have a service-connected disability and their family members,
+Arizona army and air national guard unit commanders and active and retired
+senior enlisted military personnel. Except for the director, the
+governor shall appoint the members based on recommendations by the director,
+the adjutant general and commanders of military bases in this state. Appointed
+members serve at the pleasure of the governor. The pre-9/11
+military family relief advisory committee shall elect a chairperson from among
+the appointed members.</p>
+
+<p class=P06-00>F. The pre-9/11 military family relief
+advisory committee shall:</p>
+
+<p class=P06-00>1. Establish criteria for the use of monies in the
+pre-9/11 veterans subaccount.</p>
+
+<p class=P06-00>2. Establish and revise as necessary the application
+process for financial assistance.</p>
+
+<p class=P06-00>3. Review and evaluate applications.</p>
+
+<p class=P06-00>4. Make other recommendations as necessary.</p>
+
+<p class=P06-00>G. The advisory committees may establish
+subcommittees, consisting of not more than five members of the full committees,
+to recommend approval of a grant to an applicant of not more than $3,000.</p>
+
+<p class=P06-00>H. Notwithstanding section 38-431.03, the
+subcommittees may meet in executive session without advance notice. The full
+advisory committees may meet in executive session, with notice pursuant to
+section 38-431.02, to review and evaluate applications or review
+recommendations of the subcommittees. Applications for financial
+assistance and all committee considerations and evaluations of the applications
+are confidential.</p>
+
+<p class=P06-00>I. The monies in the post-9/11 veterans
+subaccount shall be used to provide financial assistance pursuant to this
+subsection. The service member of an applying family must have been deceased,
+wounded or injured or become seriously ill after September 11, 2001 and been
+deployed from a military base in this state after September 11, 2001, claimed
+this state as the service member's home of record, been a member of the Arizona
+national guard at the time of deployment or established residency in this state
+and be able to provide proof of continuous physical presence in this state for
+at least twelve months before submitting an application. If
+discharged from military service, the service member must have been discharged
+under honorable conditions. The assistance shall be based on
+financial need as a result of the service member's military service up to
+$20,000 per family. Eligible assistance is as follows:</p>
+
+<p class=P06-00>1. Widows, widowers or dependent children of service
+members who died in the line of duty in a combat zone or a zone where the
+person was receiving hazardous duty pay may apply for a stipend for living
+expenses for up to six months. For the purposes of the stipend,
+qualifying living expenses are residential mortgage, rent and utility payments
+and other basic living expenses. Payments with respect to any
+deceased person under this paragraph are limited to a total of $20,000.</p>
+
+<p class=P06-00>2. An immediate family member may apply for payment
+of costs of temporary residence near the medical facility where the service
+member or former service member is being treated, including living, travel and
+housing expenses. Payments may be payable in monthly installments as
+long as the person is hospitalized or receiving medical care or rehabilitation
+services as authorized by military or veterans' medical personnel.</p>
+
+<p class=P06-00>3. An immediate family member, service member or
+former service member may apply for:</p>
+
+<p class=P06-00>(a) Living expenses.</p>
+
+<p class=P06-00>(b) Other appropriate expenses as determined by the
+post-9/11 military family relief advisory committee.</p>
+
+<p class=P06-00>J. The monies in the pre-9/11 veterans subaccount
+shall be used to provide financial assistance pursuant to this subsection. The
+service member of an applying family must have been deceased, wounded or
+injured or become seriously ill on or before September 11, 2001 and been
+deployed from a military base in this state on or before September 11, 2001,
+claimed this state as the service member's home of record, been a member of the
+Arizona national guard at the time of deployment or established residency in
+this state and be able to provide proof of continuous physical presence in this
+state for at least twelve months before submitting an
+application. If discharged from military service, the service member
+must have been discharged under honorable conditions. The assistance
+shall be based on financial need as a result of the service member's military
+service up to $20,000 per family. Eligible assistance is as follows:</p>
+
+<p class=P06-00>1. Widows, widowers or dependent children of service
+members who died in the line of duty in a combat zone or a zone where the
+person was receiving hazardous duty pay may apply for a stipend for living
+expenses for up to six months. For the purposes of the stipend,
+qualifying living expenses are residential mortgage, rent and utility payments
+and other basic living expenses. Payments with respect to any
+deceased person under this paragraph are limited to a total of $20,000.</p>
+
+<p class=P06-00>2. An immediate family member may apply for payment
+of costs of temporary residence near the medical facility where the service
+member or former service member is being treated, including living, travel and
+housing expenses. Payments may be payable in monthly installments as
+long as the person is hospitalized or receiving medical care or rehabilitation
+services as authorized by military or veterans' medical personnel.</p>
+
+<p class=P06-00>3. An immediate family member, service member or
+former service member may apply for:</p>
+
+<p class=P06-00>(a) Living expenses.</p>
+
+<p class=P06-00>(b) Other appropriate expenses as determined by the
+pre-9/11 military family relief advisory committee.</p>
+
+<p class=P06-00>K. The director may allocate up to ten percent of
+the donations received for the actual reasonable costs of administering the
+subaccounts and the financial assistance program under this section, including
+the hiring of an employee to process applications and provide support to the
+committee. The department shall provide reasonable office space and other
+necessary resources for the employee.</p>
+
+<p class=P06-00>L. The director shall receive private donations for
+deposit in the subaccounts and issue receipts to the donors. A donor
+shall designate the subaccount in which the donor wishes the donation to be
+deposited as follows:</p>
+
+<p class=P06-00>1. One hundred percent of the donation to be
+deposited in the pre-9/11 veterans subaccount.</p>
+
+<p class=P06-00>2. One hundred percent of the donation to be
+deposited in the post-9/11 veterans subaccount.</p>
+
+<p class=P06-00>3. Fifty percent of the donation to be deposited in
+the pre-9/11 veterans subaccount and fifty percent of the donation to be
+deposited in the post-9/11 veterans subaccount.</p>
+
+<p class=P06-00>M. Private donations may qualify for the purposes of
+income tax credits under section 43-1086. The director may
+receive donations in any amount, but donations that qualify for tax credits are
+subject to the limits prescribed by section 43-1086. Donations
+to the subaccounts that otherwise qualify under the tax credit limits
+prescribed by section 43-1086 but that exceed a combined total of
+$1,000,000 in any calendar year, on a first-come, first-served
+basis, do not qualify for the income tax credits. The director shall
+provide the taxpayer a donation receipt, which shall include the taxpayer's
+full name and address, the last four digits of the taxpayer's social security
+number and the amount of the donation. The director shall designate
+on the donation receipt whether the donation qualifies under the limits
+prescribed by this subsection and section 43-1086. The
+director shall send a record of receipts that qualify under this subsection to
+the department of revenue.</p>
+
+<p class=P06-00>N. On or before March 31 of each year, the director
+shall provide for an audit by an independent certified public accountant of the
+subaccounts and of the aggregate amount authorized by the director for income
+tax credits under subsection M of this section. The director shall
+promptly submit a certified copy of the audit to the auditor
+general. The auditor general may make further audits and
+examinations as necessary and may take appropriate action relating to the audit
+or examination pursuant to chapter 7, article 10.1 of this title. If the
+auditor general does not take further action within thirty days after the audit
+is filed, the audit is considered to be sufficient. The director
+shall pay the costs of the certified public accountant and the auditor general
+from the administration allocation under subsection K of this section.</p>
+
+<p class=P06-00>O. For the purposes of this section:</p>
+
+<p class=P06-00>1. &quot;Established residency<span class=UP> in
+this state</span>&quot; means that a service member has <span class=UP>done any
+of the following:</span></p>
+
+<p class=P06-00><span class=UP>(</span>a<span class=UP>) </span>Obtained
+<span class=UP>either </span>a valid <span class=O>Arizona</span> driver
+license<span class=O>, Arizona</span> <span class=UP>or </span>nonoperating <span
+class=UP>identification </span>license <span class=UP>issued by the department
+of transportation pursuant to title 28, chapter 8.</span><span class=O>,
+Arizona</span> </p>
+
+<p class=P06-00><span class=UP>(</span>b<span class=UP>) Registered
+a </span>motor vehicle <span class=O>registration or</span> <span class=UP>in
+this state pursuant to title 28, chapter 7.</span></p>
+
+<p class=P06-00><span class=UP>(</span>c<span class=UP>) Received a </span>community
+service organization verification of homeless status and Arizona residency.</p>
+
+<p class=P06-00>2. &quot;Continuous physical presence&quot; means
+that a service member has a documented place of habitation and is living in
+this state or has community service organization verification of homeless
+status and continuous physical presence in this state. <span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;5. Section 41-1970, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-18><span
+style='display:none'>START_STATUTE</span><span class=SNUM>41-1970.</span> <span
+class=SECHEAD>Out-of-school time grant program; fund; report; definitions</span></p>
+
+<p class=P06-00>A. The <span class=O>out of school</span> <span
+class=UP>out-of-school </span>time grant program is established in
+the department to expand out-of-school time <span class=O>child</span>
+care for <span class=UP>school-age </span>children who are at least five <span
+class=UP>years of age and eligible for or enrolled in kindergarten </span>and
+not older than <span class=O>twelve</span><span class=UP> eighteen</span> years
+of age and who require <span class=O>child</span> <span class=UP>out-of-school
+time </span>care either when the children are out-of-school or
+during periods of time when school instruction is not being conducted.</p>
+
+<p class=P06-00>B. The grant program shall:</p>
+
+<p class=P06-00>1. Increase the number of eligible pupils with
+access to <span class=O>child</span> <span class=UP>out-of-school
+time </span>care before school, after school or during periods of time when
+school instruction is not being conducted.</p>
+
+<p class=P06-00>2. Increase access to and the affordability of <span
+class=O>child</span> <span class=UP>out-of-school time </span>care
+for children and their families.</p>
+
+<p class=P06-00>3. Enable employers to attract and retain a talented
+workforce.</p>
+
+<p class=P06-00>4. Reduce the cost of <span class=O>child</span> <span
+class=UP>out-of-school time </span>care to participating families <span
+class=O>by at least two-thirds</span><span class=UP> or expand out-of-school
+time care at no cost to participating families</span>.</p>
+
+<p class=P06-00 style='page-break-after:avoid'>C. The department
+shall do all of the following:</p>
+
+<p class=P06-00 style='page-break-after:avoid'>1. Develop an annual
+grant application process.</p>
+
+<p class=P06-00>2. Provide grants to assist with the costs of <span
+class=O>child</span><span class=UP> out-of-school time</span> care
+to eligible grantees who participate in the grant program.</p>
+
+<p class=P06-00>3. Monitor eligible grantees to ensure grant program
+and fiscal compliance.</p>
+
+<p class=P06-00>4. Develop metrics to measure the success of the
+grant program.</p>
+
+<p class=P06-00>5. Allocate at least thirty percent of grant monies
+for eligible grantees in rural communities, which may be used in any location
+in this state if there are insufficient grant applications from rural
+communities.</p>
+
+<p class=P06-00>D. The out-of-school time grant program
+fund is established consisting of legislative appropriations. The department
+may not use more than five percent of the monies deposited in the fund to
+administer the fund. Monies in the fund are continuously appropriated and are
+exempt from the provisions of section 35-190 relating to lapsing of
+appropriations.</p>
+
+<p class=P06-00>E. On or before August 1, 2026 and each year
+thereafter, the department shall submit an annual report to the governor, the
+president of the senate and the speaker of the house of representatives and
+shall provide a copy of this report to the secretary of state. The report shall
+include all of the following:</p>
+
+<p class=P06-00>1. The total number of children who are served by
+the out-of-school time grant program, categorized by age of the
+child and the county where the child is served. The information provided
+pursuant to this paragraph may not include any information that identifies or
+can be used to identify a child.</p>
+
+<p class=P06-00>2. The locations of programs, categorized by county.</p>
+
+<p class=P06-00>3. The number of <span class=O>new and sustained
+child care slots</span><span class=UP> children newly enrolled in out-of-school
+time care programs</span>.</p>
+
+<p class=P06-00>F. The department may develop policies and
+procedures that are necessary to implement this section.</p>
+
+<p class=P06-00>G. For the purposes of this section:</p>
+
+<p class=P06-00>1. &quot;Eligible grantee&quot; means a nonprofit
+organization, public school and public or private child care provider that<span
+class=UP>:</span></p>
+
+<p class=P06-00><span class=UP>(</span>a<span class=UP>) Operates
+primarily during after school, before school or in the summer or at times when
+school is not normally in session.</span></p>
+
+<p class=P06-00><span class=UP>(</span>b<span class=UP>) </span>Has
+demonstrated experience providing <span class=O>child</span> <span class=UP>out-of-school
+time </span>care before school, after school or during periods of time when
+school instruction is not being conducted.</p>
+
+<p class=P06-00><span class=UP>(</span>c<span class=UP>) Serves only
+eligible pupils.</span></p>
+
+<p class=P06-00><span class=UP>(</span>d<span class=UP>) Is
+organized to promote expanded childhood LEARNING, enrichment, child and youth
+development or educational, recreational or character-building
+activities.</span></p>
+
+<p class=P06-00 style='page-break-after:avoid'>2. &quot;Eligible
+pupils&quot; means <span class=UP>school-age </span>children who are at
+least five <span class=UP>years of age and eligible for or enrolled in
+kindergarten </span>and not older than <span class=O>twelve</span><span
+class=UP> eighteen</span> years of age and who come from a household earning
+$150,000 or less per year. <span
+style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;6. Title 41, chapter 14, article 5,
+Arizona Revised Statutes, is amended by adding section 41-2023, to read:</p>
+
+<p class=SEC06-17><span
+style='display:none'>START_STATUTE</span><span class=SNUM>41-2023.</span> <span
+class=SECHEAD>Speech and audition services; rules</span></p>
+
+<p class=P06-00><span class=UP>A. Beginning July 1, 2027, subject to
+available appropriations, the department shall contract with listening and
+spoken language providers in this state to provide speech and audition services
+to early intervention programs and services to eligible families that have
+infants and toddlers who are deaf or hard of hearing. each Contractor shall
+ensure that the provided services are administered by or overseen by a
+certified auditory verbal educator or therapist in a natural environment,
+clinical setting, educational setting or virtual setting. </span></p>
+
+<p class=P06-00><span class=UP>B. The department shall refer
+eligible families that have infants and toddlers who are deaf or hard of
+hearing to at least both of the following:</span></p>
+
+<p class=P06-00><span class=UP>1. Contracted listening and spoken
+language providers.</span></p>
+
+<p class=P06-00><span class=UP>2. The Arizona state schools for the
+deaf and the blind.</span></p>
+
+<p class=P06-00><span class=UP>C. The department may adopt rules,
+policies and procedures to implement this section. The department may use up to
+ten percent of monies appropriated for contracts prescribed in subsection A of
+this section for administrative costs<a name="Add_Section"></a>.</span> <span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;7. Section 41-3955, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-18><span
+style='display:none'>START_STATUTE</span><span class=SNUM>41-3955.</span> <span
+class=SECHEAD>Housing trust fund; purpose; annual report</span></p>
+
+<p class=P06-00 style='margin-right:.9pt'>A. The housing trust fund
+is established, and the director shall administer the fund. The fund
+consists of monies from unclaimed property deposited in the fund pursuant to
+section 44-313, monies transferred pursuant to section 35-751 and
+investment earnings.</p>
+
+<p class=P06-00 style='margin-right:.9pt'>B. On notice from the
+department, the state treasurer shall invest and divest monies in the fund as
+provided by section 35-313, and monies earned from investment shall be
+credited to the fund.</p>
+
+<p class=P06-00 style='margin-right:.9pt'>C. Except as provided in
+subsection D of this section, fund monies shall be spent on approval of the
+department for developing projects and programs connected with providing
+housing opportunities for low and moderate income households and for housing
+affordability programs. A portion of fund monies shall be used
+exclusively for housing in rural areas.</p>
+
+<p class=P06-00 style='margin-right:.9pt'>D. Fund monies may be
+spent on constructing or renovating facilities and on housing assistance,
+including support services. Fund monies shall be awarded in the
+following order of priority for the first four months of each fiscal year:</p>
+
+<p class=P06-00 style='margin-right:.9pt'><span class=UP>1. State
+matching monies for various federally funded programs.</span></p>
+
+<p class=P06-00 style='margin-right:.9pt'><span class=O>1.</span><span
+class=UP> 2.</span> Constructing or renovating emergency
+shelter facilities or for any operational expenses for emergency shelter
+services.</p>
+
+<p class=P06-00 style='margin-right:.9pt'><span class=O>2.</span><span
+class=UP> 3.</span> Constructing or renovating
+transitional housing units.</p>
+
+<p class=P06-00><span class=O>3.</span><span class=UP> 4.</span> Constructing
+or renovating other types of shelter or housing as determined by the department
+to best serve the needs of individuals who have been determined to be seriously
+mentally ill and chronically resistant to treatment.</p>
+
+<p class=P06-00 style='margin-right:.9pt'>E. For the purposes of
+subsection C of this section, in approving the expenditure of monies, the
+director shall give priority to funding projects that provide for operating,
+constructing or renovating facilities for housing for low-income families
+and that provide housing and shelter to families that have children.</p>
+
+<p class=P06-00 style='margin-right:.9pt'>F. After the four-month
+period prescribed in subsection D of this section, fund monies that have not
+been awarded or encumbered pursuant to the priority list prescribed in
+subsection D of this section may be spent based on stakeholder feedback.</p>
+
+<p class=P06-00>G. The department shall submit for review by the
+joint legislative budget committee all programs established by the department
+and funded by the housing trust fund pursuant to this section.</p>
+
+<p class=P06-00 style='margin-right:.9pt'>H. The director shall
+report annually to the legislature on the status of the housing trust fund. The
+report shall include a summary of facilities for which funding was provided
+during the preceding fiscal year and shall show the cost and geographic
+location of each facility and the number of individuals benefiting from the
+operation, construction or renovation of the facility. The report shall also
+include the number of individuals who benefit from housing assistance pursuant
+to subsection D of this section. The report shall be submitted to the president
+of the senate and the speaker of the house of representatives, and a copy
+provided to the secretary of state, not later than September 1 of each year. </p>
+
+<p class=P06-00 style='margin-right:.9pt'>I. Monies in the housing
+trust fund are exempt from the provisions of section 35-190 relating to
+lapsing of appropriations.</p>
+
+<p class=P06-00 style='margin-right:.9pt'>J. An amount not to exceed
+ten percent of the housing trust fund monies may be appropriated annually by
+the legislature to the department for administrative costs in providing
+services relating to the housing trust fund.</p>
+
+<p class=P06-00 style='margin-right:.9pt'>K. For any construction
+project financed by the department pursuant to this section, the department
+shall notify a city, town, county or tribal government that a project is
+planned for its jurisdiction and, before proceeding, shall seek comment from
+the governing body of the city, town, county or tribal government or an
+official authorized by the governing body of the city, town, county or tribal
+government. The department shall not interfere with or attempt to
+override the local jurisdiction's planning, zoning or land use regulations.<span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;8. Section 43-1086, Arizona Revised
+Statutes, is amended to read:</p>
+
+<p class=SEC06-18><span
+style='display:none'>START_STATUTE</span><span class=SNUM>43-1086.</span> <span
+class=SECHEAD>Credit for donation to the military family relief fund
+subaccounts</span></p>
+
+<p class=P06-00>A. For taxable years beginning from and after
+December 31, 2007 through December 31, <span class=O>2026</span> <span
+class=UP>2031</span>, a credit is allowed against the taxes imposed by this
+title for cash contributions made by a taxpayer during the taxable year to the
+pre-9/11 veterans subaccount or post-9/11 veterans subaccount of
+the military family relief fund established by section 41-608.04. The
+amount of the credit is the lowest of the following amounts, as applicable:</p>
+
+<p class=P06-00>1. The total amount of contributions to the pre-9/11
+veterans subaccount or post-9/11 veterans subaccount, or both
+subaccounts, by the taxpayer during the taxable year.</p>
+
+<p class=P06-00>2. Two hundred dollars of contributions during the
+taxable year by a taxpayer filing as a single individual or a head of
+household.</p>
+
+<p class=P06-00>3. Four hundred dollars of contributions during the
+taxable year by a married couple filing a joint return.</p>
+
+<p class=P06-00>4. The taxpayer's tax liability for the taxable
+year.</p>
+
+<p class=SEC06-18 style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'>B. A
+husband and wife who file separate returns for a taxable year in which they
+could have filed a joint return may each claim only one-half of the tax
+credit that would have been allowed on a joint return. <span style='display:none'>END_STATUTE</span></p>
+
+<p class=P06-00>Sec.&nbsp;9. Laws 2008, chapter 243, section 6, as
+amended by Laws 2012, chapter 281, section 2 and Laws 2018, chapter 199,
+section 3, is amended to read:</p>
+
+<p class=p06-000 style='margin:0in;text-align:justify;text-indent:.5in'><b><span
+style='font-size:10.0pt;font-family:"Letter Gothic-Drafting";color:black'>Sec.&nbsp;6. </span></b><span
+class=SECHEAD><b><span style='font-size:10.0pt'>Delayed repeal</span></b></span></p>
+
+<p class=MsoNormal style='text-indent:.5in'>A. Section 41-608.04,
+Arizona Revised Statutes, as amended by <span class=O>this act</span> <span
+class=UP>Laws 2018, chapter 199, section 1</span>, is repealed from and after
+December 31, <span class=O>2026</span> <span class=UP>2031</span>.</p>
+
+<p class=P06-00 style='margin-right:.9pt'>B. Section 43-1086,
+Arizona Revised Statutes, as amended by <span class=O>this act</span> <span
+class=UP>Laws 2018, chapter 199, section 2</span>, is repealed from and after
+December 31, <span class=O>2026</span> <span class=UP>2031</span>.</p>
+
+<p class=SEC06-17 style='margin-left:1.5in;text-indent:-1.0in'>Sec.&nbsp;10. <span class=SECHEAD>Supplemental nutrition assistance program
+fund; delayed repeal</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>A. The supplemental
+nutrition assistance program fund is established consisting of monies collected
+by the department of economic security from federal deposits for supplemental
+nutrition assistance program administration as authorized by 7 Code of Federal
+Regulations parts 271 through 285. The department of economic
+security shall administer the fund. Monies in the fund are continuously
+appropriated. The department of economic security shall deposit federal monies
+received for the federal administrative share under the supplemental nutrition
+assistance program in the fund before expenditure.</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>B. This section is repealed
+from and after June 30, 2027.</span></p>
+
+<p class=SEC06-17 style='margin-left:1.5in;text-indent:-1.0in'>Sec.&nbsp;11. <span class=SECHEAD>Supplemental nutrition assistance program;
+error rate; report; delayed repeal</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>A. The department of
+economic security shall report to the president of the senate, the speaker of
+the house of representatives and the joint legislative budget committee:</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>1. On a monthly basis, the
+number of supplemental nutrition assistance program cases, number of program
+participants and total benefits paid to persons who are categorically eligible
+for supplemental nutrition assistance pursuant to 7 United States Code section
+2014(a).</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>2. Within thirty days after
+submission of the final month of quality control reviews to the United States
+department of agriculture food and nutrition service pursuant to 7 Code of
+Federal Regulations part 275, subpart C an estimate of the payment error rate
+for the completed federal fiscal year 2025-2026 and the number and extent
+of errors attributable to supplemental nutrition assistance program recipients
+who are categorically eligible pursuant to 7 United States Code section
+2014(a).</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>B. This section is repealed
+from and after June 30, 2027.</span></p>
+
+<p class=SEC06-18>Sec.&nbsp;12. <span class=SECHEAD>Supplemental
+nutrition assistance program; eligibility evaluations; public posting; delayed
+repeal; definitions</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>A. To determine or evaluate
+SNAP eligibility, the department shall:</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>1. Review information that
+is provided by the Arizona state lottery commission and the department of
+gaming and review its own data pursuant to 7 Code of Federal Regulations
+section 272.17 to identify members of eligible households who have substantial
+lottery or gambling winnings as defined in 7 Code of Federal Regulations
+section 273.11(r)(2), including online gambling winnings, and shall incorporate
+the information into eligibility determinations pursuant to 7 Code of Federal
+Regulations section 273.11(r).</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>2. Review information
+provided by the department of health services that identifies individuals who
+have had a change in circumstances that may affect SNAP eligibility.</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>3. Review the department's
+information as the state wage information collection agency and the agency that
+administers unemployment insurance benefits to verify eligibility for and the
+amount of SNAP benefits due to eligible households pursuant to 7 Code of
+Federal Regulations section 272.8(a)(1).</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>4. Review information
+provided by the state department of corrections that identifies individuals who
+have had a change in circumstances that may affect SNAP eligibility.</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>B. The department shall
+review the following information provided by federal sources to assess a
+recipient's eligibility for SNAP:</span></p>
+
+<p class=P06-00 style='page-break-after:avoid'><span class=TemporaryLaw>1. Earned
+income information, death master file information, supplemental security income
+information, beneficiary records, earnings information and pension information
+that is maintained by the United States social security administration pursuant
+to 7 Code of Federal Regulations sections 272.8(a)(1)(ii) and 272.14(b).</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>2. Income and employment
+information that is maintained in the national directory of new hires database
+pursuant to 7 Code of Federal Regulations section 272.16 and child support
+enforcement data that is maintained by the United States department of health
+and human services pursuant to 7 Code of Federal Regulations sections
+273.2(f)(1)(xii) and 273.9(b)(2)(iii).</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>3. National fleeing felon
+information that is maintained by the federal bureau of investigation pursuant
+to 7 Code of Federal Regulations section 273.11(n).</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>C. If the department
+receives reliable information that identifies an individual who is enrolled in
+SNAP and that indicates a change in circumstances that may affect that
+individual's SNAP eligibility, the department shall review the individual's
+case pursuant to 7 Code of Federal Regulations section 273.12(c).</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>D. The department may not
+rely solely on self-attestation to confirm residency for SNAP eligibility
+except in unusual circumstances as set forth in federal law.</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>E. This section is repealed
+from and after June 30, 2027.</span></p>
+
+<p class=P06-00 style='page-break-after:avoid'><span class=TemporaryLaw>F. For
+the purposes of this section:</span></p>
+
+<p class=P06-00 style='page-break-after:avoid'><span class=TemporaryLaw>1. &quot;Department&quot;
+means the department of economic security.</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>2. &quot;SNAP&quot; means
+the supplemental nutrition assistance program.</span></p>
+
+<p class=SEC06-17 style='margin-left:2.0in;text-indent:-1.5in'>Sec.&nbsp;13. <span class=SECHEAD>Supplemental nutrition assistance program;
+report</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>On or before June 30, 2027, the
+department of economic security shall submit a report to the president of the
+senate, the speaker of the house of representatives and the joint legislative
+budget committee that details the department's efforts to improve the quality
+and timeliness of eligibility determinations for the supplemental nutrition
+assistance program, including specific goals for, actions taken in and barriers
+faced during the reporting period.</span></p>
+
+<p class=SEC06-18>Sec.&nbsp;14. <span class=SECHEAD>Electronic
+benefit transfer cards; spending report; delayed repeal</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>A. In the spending report
+of the supplemental nutrition assistance program and temporary assistance for
+needy families benefit required by section 46-297.02, Arizona Revised
+Statutes, the department of economic security shall include all of the
+following: </span></p>
+
+<p class=P06-00><span class=TemporaryLaw>1. The number of
+supplemental nutrition assistance program cases that were investigated for
+intentional program violations or fraud.</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>2. The number of
+supplemental nutrition assistance program cases that were referred to the
+attorney general's office for prosecution. </span></p>
+
+<p class=P06-00 style='page-break-after:avoid'><span class=TemporaryLaw>3. The
+amounts of improper payments and expenditures. </span></p>
+
+<p class=P06-00 style='page-break-after:avoid'><span class=TemporaryLaw>4. The
+amount of monies recovered. </span></p>
+
+<p class=P06-00><span class=TemporaryLaw>5. The amount of monies
+spent for improper payments and ineligible recipients as a percentage of cases
+that were investigated and reviewed.</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>B. This section is repealed
+from and after June 30, 2027.</span></p>
+
+<p class=SEC06-18>Sec.&nbsp;15. <span class=SECHEAD>Department of
+economic security; drug testing; TANF cash benefits recipients</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>During fiscal year 2026-2027,
+the department of economic security shall screen and test each adult recipient
+who is otherwise eligible for temporary assistance for needy families cash
+benefits and who the department has reasonable cause to believe engages in the
+illegal use of controlled substances. Any recipient who tests
+positive for the use of a controlled substance that was not prescribed for the
+recipient by a licensed health care provider is ineligible to receive benefits
+for a period of one year.</span></p>
+
+<p class=SEC06-18>Sec.&nbsp;16. <span class=SECHEAD>Out-of-school
+time grant program; rural communities; use of monies; delayed repeal</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>A. Grant monies allocated
+pursuant to section 41-1970, subsection C, paragraph 5, Arizona Revised Statutes,
+may be used to support partnerships between school districts and nonprofit
+organizations with a history of offering out-of-school time care
+services to eligible pupils for the purposes of capital expansion, facility
+improvements, construction, renovation and related capital expenditures on
+public buildings with the intent to expand out-of-school time care
+opportunities for rural communities.</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>B. This section is repealed
+from and after June 30, 2027.</span></p>
+
+<p class=SEC06-18>Sec.&nbsp;17. <span class=SECHEAD>Supplemental
+early childhood listening and spoken language services; memorandum of
+understanding; contracts; appropriation; transfer</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>On or before November 1, 2026, the
+Arizona state schools for the deaf and the blind shall transfer existing
+contracts for supplemental early childhood listening and spoken language
+services to the department of economic security. The Arizona state schools for
+the deaf and the blind and the department of economic security shall develop a
+memorandum of understanding that outlines the transfer of the contracts to
+ensure that families receiving listening and spoken language services have no
+lapse in those services. The Arizona state schools for the deaf and the blind
+shall transfer the remaining balance of the fiscal year 2026-2027
+appropriation for supplemental early childhood listening and spoken language
+services, after all invoices have been paid to contractors, to the department
+of economic security.</span></p>
+
+<p class=SEC06-17 style='margin-left:2.0in;text-indent:-1.5in;page-break-after:
+avoid'>Sec.&nbsp;18. <span class=SECHEAD>Succession</span></p>
+
+<p class=P06-00 style='page-break-after:avoid'><span class=TemporaryLaw>A. As
+provided in section 41-2023, Arizona Revised Statutes, as added by this act,
+the department of economic security succeeds to the authority, powers, duties
+and responsibilities of the Arizona state schools for the deaf and the blind
+relating to speech and audition services.</span></p>
+
+<p class=P06-00><span class=TemporaryLaw>B. On or before November 1,
+2026, all contracts in process of the Arizona state schools for the deaf and
+the blind relating to supplemental early childhood listening and spoken
+language services are transferred to and retain the same status with the
+department of economic security.</span></p>
+
+</div>
+
+<b><span style='font-size:10.0pt;font-family:"Letter Gothic-Drafting";
+layout-grid-mode:line'><br clear=all style='page-break-before:auto'>
+</span></b>
+
+<div class=WordSection3>
+
+<p class=P00-00>&nbsp;</p>
+
+<p class=P00-00>&nbsp;</p>
+
+<p class=P00-00>&nbsp;</p>
+
+<p class=P00-00>APPROVED BY THE GOVERNOR JUNE 13, 2026.</p>
+
+<p class=P00-00>&nbsp;</p>
+
+<p class=P00-00>FILED IN THE OFFICE OF THE SECRETARY OF STATE JUNE 13, 2026.</p>
+
+</div>
+
+</body>
+
+</html>

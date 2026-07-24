@@ -1,0 +1,210 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Kolodin - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1006: campaign finance; aggregate report; amount
+KOLODIN FLOOR AMENDMENT
+Requires the Secretary of State to biennially adjust the in-state contribution
+reporting threshold increased by the underlying Concurrent Resolution based on
+changes in the Consumer Price Index for the Phoenix-Mesa-Scottsdale statistical
+area.
+GG
+4/7/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Kolodin
+Second Regular Session S.B. 1006
+KOLODIN FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1006
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 16-926, Arizona Revised Statutes, is amended to
+3 read:
+4 16-926. Campaign finance reports; contents
+5 A. A committee shall file campaign finance reports with the filing
+6 officer. The secretary of state's instructions and procedures manual
+7 adopted pursuant to section 16-452 shall prescribe the format for all
+8 reports and statements.
+9 B. A campaign finance report shall set forth:
+10 1. The amount of cash on hand at the beginning of the reporting
+11 period.
+12 2. Total receipts during the reporting period, including:
+13 (a) An itemized list of receipts in the following categories,
+14 including the source, amount and date of receipt, together with the total
+15 of all receipts in each category:
+16 (i) Contributions from in-state individuals whose contributions
+17 exceed $100 $200 for that election cycle, including identification of the
+18 contributor's occupation and employer. Notwithstanding section 16-901,
+19 paragraph 29, subdivision (a), a person whose residential address is
+20 protected from public disclosure pursuant to section 16-153 is not required
+21 to disclose the person's residential address and shall instead provide an
+22 alternate mailing address.
+23 (ii) Contributions from out-of-state individuals, including
+24 identification of the contributor's occupation and employer.
+25 (iii) Contributions from candidate committees.
+26 (iv) Contributions from political action committees.
+27 (v) Contributions from political parties.
+28 (vi) Contributions from partnerships.
+
+House Amendments to S.B. 1006
+1 (vii) For a political action committee or political party,
+2 contributions from corporations and limited liability companies, including
+3 identification of the corporation's or limited liability company's file
+4 number issued by the corporation commission.
+5 (viii) For a political action committee or political party,
+6 contributions from labor organizations, including identification of the
+7 labor organization's file number issued by the corporation commission.
+8 (ix) For a candidate committee, a candidate's contribution of
+9 personal monies.
+10 (x) All loans, including identification of any endorser or guarantor
+11 other than a candidate's spouse, and the contribution amount endorsed or
+12 guaranteed by each.
+13 (xi) Rebates and refunds.
+14 (xii) Interest on committee monies.
+15 (xiii) The fair market value of in-kind contributions received.
+16 (xiv) Extensions of credit that remain outstanding, including
+17 identification of the creditor and the purpose of the extension.
+18 (b) The aggregate amount of contributions from all in-state
+19 individuals whose contributions do not exceed $100 $200 for the election
+20 cycle.
+21 3. An itemized list of all disbursements in excess of $250 during
+22 the reporting period in the following categories, including the recipient,
+23 the recipient's address, a description of the disbursement and the amount
+24 and date of the disbursement, together with the total of all disbursements
+25 in each category:
+26 (a) Disbursements for operating expenses.
+27 (b) Contributions to candidate committees.
+28 (c) Contributions to political action committees.
+29 (d) Contributions to political parties.
+30 (e) Contributions to partnerships.
+31 (f) For a political action committee or political party,
+32 contributions to corporations and limited liability companies, including
+33 identification of the corporation's or limited liability company's file
+34 number issued by the corporation commission.
+35 (g) For a political action committee or political party,
+36 contributions to labor organizations, including identification of the labor
+37 organization's file number issued by the corporation commission.
+38 (h) Repayment of loans.
+39 (i) Refunds of contributions.
+40 (j) Loans made.
+41 (k) The value of in-kind contributions provided.
+42 (l) Independent expenditures that are made to advocate the election
+43 or defeat of a candidate, including identification of the candidate, office
+44 sought by the candidate, election date, mode of advertising and
+45 distribution or publication date.
+- 2 -
+
+House Amendments to S.B. 1006
+1 (m) Expenditures to advocate the passage or defeat of a ballot
+2 measure, including identification of the ballot measure, ballot measure
+3 serial number, election date, mode of advertising and distribution or
+4 publication date.
+5 (n) Expenditures to advocate for or against the issuance of a recall
+6 election order or for the election or defeat of a candidate in a recall
+7 election, including identification of the officer to be recalled or
+8 candidate supported or opposed, mode of advertising and distribution or
+9 publication date.
+10 (o) Any other disbursements or expenditures.
+11 4. The total sum of all receipts and disbursements for the reporting
+12 period.
+13 5. A certification by the committee treasurer, issued under penalty
+14 of perjury, that the contents of the report are true and correct.
+15 C. For the purposes of reporting under subsection B of this section:
+16 1. A contribution is deemed to be received either on the date the
+17 committee knowingly takes possession of the contribution or the date of the
+18 check or credit card payment. For an in-kind contribution of services, the
+19 contribution is deemed made either on the date the services are performed
+20 or the date the committee receives the services.
+21 2. An expenditure or disbursement is deemed made either on the date
+22 the committee authorizes the monies to be spent or the date the monies are
+23 withdrawn from the committee's account. For a transaction by check, the
+24 expenditure or disbursement is deemed made on the date the committee signs
+25 the check. For a credit card transaction on paper, the expenditure or
+26 disbursement is deemed made on the date the committee signs the
+27 authorization to charge the credit card. For an electronic transaction, an
+28 expenditure or disbursement is deemed made on the date the committee
+29 electronically authorizes the charge. For an agreement to purchase goods
+30 or services, the expenditure or disbursement is deemed made either on the
+31 date the parties enter into the agreement or the date the purchase order is
+32 issued.
+33 3. A committee may record its transactions using any of the methods
+34 authorized by this subsection but for each type of contribution,
+35 expenditure or disbursement made or received, the committee shall use a
+36 consistent method of recording transactions throughout the election cycle.
+37 D. The amount of an in-kind contribution of services shall be equal
+38 to the usual and normal charges for the services on the date performed.
+39 E. If any receipt or disbursement is earmarked, the committee shall
+40 report the identity of the person to whom the receipt or disbursement is
+41 earmarked.
+42 F. Candidate committee reports shall be cumulative for the election
+43 cycle to which they relate. Political action committee and political party
+44 reports shall be cumulative for a two-year election cycle ending in the
+45 year of a statewide general election. If there has been no change during
+- 3 -
+
+House Amendments to S.B. 1006
+1 the reporting period in an item listed in the immediately preceding report,
+2 only the amount need be carried forward.
+3 G. For a political action committee that receives individual
+4 contributions through a payroll deduction plan, that committee is not
+5 required to separately itemize each contribution received from the
+6 contributor during the reporting period. In lieu of itemization, the
+7 committee may report all of the following:
+8 1. The aggregate amount of contributions received from the
+9 contributor through the payroll deduction plan during the reporting period.
+10 2. The individual's identity.
+11 3. The amount deducted per pay period.
+12 H. An entity that makes independent expenditures or ballot measure
+13 expenditures in excess of $1,000 during a reporting period shall file an
+14 expenditure report with the filing officer for the applicable reporting
+15 period. Expenditure reports shall identify the candidate or ballot measure
+16 supported or opposed, office sought by the candidate, if any, election
+17 date, mode of advertising and first date of publication, display, delivery
+18 or broadcast of the advertisement.
+19 <<Sec. 2. Section 16-931, Arizona Revised Statutes, is amended to
+20 read:
+21 16-931. Biennial adjustments; committee registration;
+22 contribution limits
+23 A. In January of each odd-numbered year, the secretary of state
+24 shall [increase]:
+25 1. [INCREASE] the committee registration thresholds specified in
+26 section 16-905, subsections A and C by [one hundred dollars] [$100].
+27 2. [INCREASE] the contribution limits specified in article 1.2 of
+28 this chapter by [one hundred dollars] [$100].
+29 [3. ADJUST TO THE NEAREST DOLLAR THE DOLLAR AMOUNTS PRESCRIBED IN
+30 SECTION 16-926, SUBSECTION B, PARAGRAPH 2, SUBDIVISION (a), ITEM (i) AND
+31 SUBDIVISION (b) RELATING TO CONTRIBUTIONS FROM IN-STATE INDIVIDUALS BY THE
+32 TWO-YEAR PERCENTAGE CHANGE IN THE CONSUMER PRICE INDEX FOR ALL URBAN
+33 CONSUMERS, PHOENIX-MESA-SCOTTSDALE, PUBLISHED BY THE UNITED STATES
+34 DEPARTMENT OF LABOR, BUREAU OF LABOR STATISTICS.]
+35 B. The secretary of state shall publish the revised amounts and make
+36 the amounts available to election officials, candidates, committees and the
+37 public.>>
+38 Enroll and engross to conform
+39 Amend title to conform
+ALEXANDER KOLODIN
+1006FloorKOLODIN.docx
+04/06/2026
+3:08 PM
+C: MR
+130ZHZHAX
+- 4 -

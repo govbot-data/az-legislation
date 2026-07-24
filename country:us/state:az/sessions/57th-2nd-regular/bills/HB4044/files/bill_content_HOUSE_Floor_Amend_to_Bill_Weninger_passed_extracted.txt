@@ -1,0 +1,346 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Weninger - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB4044: public safety parity fund
+WENINGER FLOOR AMENDMENT
+1. Removes language relating to the allocation of proceeds from the sale of
+forfeited digital assets.
+2. Reinstates the first $10,000,000 generated annually from Budget
+Stabilization Fund investments within the Fund, instead of directing all
+generated investments to the Public Safety Parity Fund.
+3. Specifies the Budget Stabilization Fund is established to provide retention
+pay and benefits for employees from the Department of Public Safety and the
+Department of Corrections.
+4. Directs the Department of Corrections to also distribute monies from the
+Public Safety Parity Fund on July 1 and December 31 each year.
+5. Allows the Department of Corrections and the Department of Public Safety to
+provide a retention bonus for department employees that amounts to a
+maximum of 3% of the Public Safety Parity Fund.
+6. Specifies the Department of Public Safety is required to use Parity
+Compensation Fund monies to also provide retention pay and benefits for
+employees from the Department of Public Safety, in addition to providing for
+salaries and benefits for law enforcement personnel.
+AI
+3/5/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Weninger
+Second Regular Session H.B. 4044
+WENINGER FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 4044
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 13-4315, Arizona Revised Statutes, is amended
+3 to read:
+4 13-4315. Allocation of forfeited property; definition
+5 A. Any property, including all interests in property, forfeited to
+6 the state under this title shall be transferred as requested by the
+7 attorney for the state to the seizing agency or to the agency or political
+8 subdivision employing the attorney for the state, which may do any of the
+9 following:
+10 1. Sell, lease, lend or transfer the property to any local or state
+11 government entity or agency or political subdivision, any law enforcement
+12 agency or prosecutorial agency or any federal law enforcement agency that
+13 operates within this state for official federal, state or political
+14 subdivision use within this state, with expenses for keeping and
+15 transferring such property to be paid by the recipient. Property may not
+16 be allocated for official use if the fair market value of the property
+17 substantially exceeds the agency's probable cost of purchasing other
+18 property equally suited for the intended official use. Property that is
+19 allocated for official use may not be assigned for use by any person who
+20 supervised or exercised discretion in its forfeiture unless the use is
+21 approved in writing by the head of the agency.
+22 2. Sell forfeited property by public or otherwise commercially
+23 reasonable sale with expenses of keeping and selling the property and the
+24 amount of all valid interests established by claimants paid out of the
+25 proceeds of the sale with the balance paid into the anti-racketeering
+26 revolving fund of the state or of the county in which the political
+27 subdivision seizing the property or prosecuting the action is located. A
+28 sale of forfeited property may not be made to any employee of the seizing
+
+House Amendments to H.B. 4044
+1 agency, any person who participated in the forfeiture, any employee of a
+2 contractor selling the property on behalf of the seizing agency or any
+3 member of the immediate family of any of these employees or persons.
+4 3. SELL A FORFEITED DIGITAL ASSET BY PUBLIC OR OTHERWISE
+5 COMMERCIALLY REASONABLE SALE WITH THE EXPENSES OF KEEPING AND SELLING THE
+6 DIGITAL ASSET AND THE AMOUNT OF ALL VALID INTERESTS ESTABLISHED BY
+7 CLAIMANTS, INCLUDING ANY RESTITUTION THAT WAS ORDERED BY A COURT, PAID OUT
+8 OF THE PROCEEDS OF THE SALE. THE FIRST $300,000 OF THE PROCEEDS OF THE
+9 SALE OF ANY FORFEITED DIGITAL ASSET SHALL BE DEPOSITED, PURSUANT TO
+10 SECTIONS 35-146 AND 35-147, IN THE ANTI-RACKETEERING REVOLVING FUND
+11 ESTABLISHED BY SECTION 13-2314.01. IF THE PROCEEDS OF THE SALE OF THE
+12 FORFEITED DIGITAL ASSET IS MORE THAN $300,000, THE REMAINING BALANCE SHALL
+13 BE DIVIDED UP BY DEPOSITING, PURSUANT TO SECTIONS 35-146 AND 35-147, FIFTY
+14 PERCENT IN THE ANTI-RACKETEERING REVOLVING FUND ESTABLISHED BY SECTION
+15 13-2314.01 AND DEPOSITING, PURSUANT TO SECTIONS 35-146 AND 35-147, THE
+16 REMAINING FIFTY PERCENT IN THE PUBLIC SAFETY PARITY FUND ESTABLISHED BY
+17 SECTION 41-1610.02. DIGITAL ASSETS MUST BE SOLD THROUGH STATE-APPROVED
+18 CRYPTOCURRENCY EXCHANGES OR OTHER SECURE PLATFORMS TO ENSURE ACCURATE
+19 VALUATION AND TRANSPARENCY. A DIGITAL ASSET MAY REMAIN IN ITS NATIVE
+20 FORM. A DIGITAL ASSET THAT IS SEIZED PURSUANT TO THIS CHAPTER MUST BE
+21 STORED IN A STATE-APPROVED, SECURE DIGITAL WALLET SYSTEM THAT IS MANAGED
+22 BY AUTHORIZED PERSONNEL TO PREVENT LOSS, THEFT OR UNAUTHORIZED ACCESS.
+23 THIS PARAGRAPH APPLIES TO A FORFEITURE THAT INVOLVES ONLY DIGITAL ASSETS
+24 THAT ARE FORFEITED BY THE OFFICE OF THE ATTORNEY GENERAL.
+25 3. 4. Destroy or use for investigative purposes any illegal or
+26 controlled substances or other contraband at any time more than twenty
+27 days after seizure, on written approval of the attorney for the state,
+28 preserving only such material as may be necessary for evidence.
+29 4. 5. Sell, use or destroy all raw materials, products and
+30 equipment of any kind used or intended for use in manufacturing,
+31 compounding or processing a controlled substance.
+32 5. 6. Compromise and pay claims against property forfeited
+33 pursuant to any provision of this section.
+34 6. 7. Make any other disposition of forfeited property authorized
+35 by law for the disposition of property of the state, government entity,
+36 agency or political subdivision.
+37 B. Notwithstanding subsection A of this section or any other law to
+38 the contrary:
+39 1. If the property forfeited is money, and a law enforcement agency
+40 can specifically identify monies as being from its investigative funds or
+41 as being exchanged for property from its investigative property, the
+42 monies shall be remitted to the investigative fund. If there are
+43 additional forfeited monies or monies tendered on satisfaction by an
+44 interest holder that cannot be specifically identified, the court shall
+45 order the monies returned to each law enforcement agency that makes a
+-2-
+
+House Amendments to H.B. 4044
+1 showing of costs or expenses that it incurred in connection with the
+2 investigation and prosecution of the matter and shall order all excess
+3 monies remaining after such returns deposited in the anti-racketeering
+4 revolving fund of this state or of the county in which the political
+5 subdivision seizing the monies or prosecuting the action is located,
+6 established pursuant to section 13-2314.01 or 13-2314.03.
+7 2. If the property declared forfeited is an interest in a vehicle,
+8 the court shall order it forfeited to the local, state or other law
+9 enforcement agency seizing the vehicle for forfeiture or to the seizing
+10 agency.
+11 C. Monies in any anti-racketeering revolving fund established
+12 pursuant to this title may be used, in addition to any other lawful use,
+13 for:
+14 1. The payment of any expenses necessary to seize, detain,
+15 appraise, inventory, protect, maintain, preserve the availability of,
+16 advertise or sell property that is subject to forfeiture and that is
+17 seized, detained or forfeited pursuant to this title or of any other
+18 necessary expenses incident to the seizure, detention, preservation or
+19 forfeiture of the property. The payments may include payments for
+20 contract services and payments to reimburse any federal, state or local
+21 agency for any expenditures made to perform the investigative, storage and
+22 maintenance functions associated with the property held by the seizing
+23 agency.
+24 2. The payment of awards for information or assistance leading to a
+25 civil or criminal proceeding under this title.
+26 3. The payment of compensation from forfeited property to injured
+27 persons as provided in section 13-4310, subsection P, paragraph 3.
+28 D. Each attorney for the state shall submit a copy of each
+29 forfeiture judgment, including each order of forfeiture, to the Arizona
+30 criminal justice commission within sixty days after the forfeiture
+31 judgment becomes final or after the conclusion of appellate review, if
+32 any.
+33 E. FOR THE PURPOSES OF THIS SECTION, "DIGITAL ASSET" MEANS EITHER
+34 OF THE FOLLOWING THAT CONFERS ECONOMIC, PROPRIETARY OR ACCESS RIGHTS OR
+35 POWERS:
+36 1. VIRTUAL CURRENCY.
+37 2. CRYPTOCURRENCY.>>
+38 Section 1. Section 35-144, Arizona Revised Statutes, is amended to
+39 read:
+40 35-144. Budget stabilization fund; definitions
+41 A. The budget stabilization fund is established consisting of
+42 monies transferred from the state general fund pursuant to subsection B of
+43 this section. The state treasurer shall administer the budget
+44 stabilization fund, and invest and divest monies in the budget
+45 stabilization fund as provided by sections 35-313 and 35-314.02, and
+-3-
+
+House Amendments to H.B. 4044
+1 DEPOSIT, PURSUANT TO SECTIONS 35-146 AND 35-147, monies earned from
+2 investment shall be credited to the budget stabilization fund IN THE
+3 PUBLIC SAFETY PARITY FUND ESTABLISHED BY SECTION 41-1610.02[, EXCEPT THAT
+4 THE FIRST $10,000,000 GENERATED ANNUALLY SHALL REMAIN IN THE BUDGET
+5 STABILIZATION FUND]. Except as provided by this section:
+6 1. Monies in the budget stabilization fund are exempt from the
+7 provisions of section 35-190 relating to the reversion of monies to the
+8 state general fund.
+9 2. The monies in the fund are separate monies to be used only for
+10 the purposes of the fund.
+11 3. An amount sufficient to pay claims certified by the state
+12 forester pursuant to section 37-1305, subsection E, paragraph 4 is
+13 continuously appropriated from the fund to the state treasurer for payment
+14 of the certified claims. Not more than $20,000,000 in unreimbursed claims
+15 may be outstanding from the fund at any time from the monies appropriated
+16 pursuant to this paragraph.
+17 B. In a calendar year in which the annual growth rate exceeds the
+18 trend growth rate, the excess growth when multiplied by total general fund
+19 revenue of the fiscal year ending in the calendar year determines the
+20 amount to be appropriated by the legislature to the budget stabilization
+21 fund in the fiscal year in which the calendar year ends.
+22 C. In a calendar year in which the annual growth rate is both less
+23 than two percent and less than the trend growth rate, the difference
+24 between the annual growth rate and the trend growth rate when multiplied
+25 by the total general fund revenue of the fiscal year ending in the
+26 calendar year determines the amount to be transferred by the legislature
+27 from the budget stabilization fund to the state general fund at the end of
+28 the fiscal year in which the calendar year ends. The transfer calculated
+29 pursuant to this subsection shall not exceed the available balance in the
+30 budget stabilization fund, nor shall the legislature transfer an amount
+31 that exceeds the amount sufficient to balance the state general fund
+32 budget.
+33 D. The legislature shall pass a bill that contains the emergency
+34 clause if the legislature either:
+35 1. Reduces the amount for appropriation to the budget stabilization
+36 fund under subsection B of this section.
+37 2. Increases the amount for transfer to the state general fund
+38 under subsection C of this section.
+39 E. The annual budget recommendations of the governor and the joint
+40 legislative budget committee shall include estimates of appropriations or
+41 transfers required under subsection B or C of this section.
+42 F. A final determination of the amount to be appropriated to or
+43 transferred from the budget stabilization fund shall be made using
+44 personal income and price deflator estimates as reported in the second
+45 calendar quarter for the preceding calendar year. The economic estimates
+-4-
+
+House Amendments to H.B. 4044
+1 commission shall determine the annual growth rate, the trend growth rate
+2 and the required appropriation to or transfer from the budget
+3 stabilization fund at its first meeting following the second calendar
+4 quarter report of the United States department of commerce, but not later
+5 than June 1. The commission shall certify and report its findings to the
+6 governor, the state treasurer, the president of the senate, the speaker of
+7 the house of representatives and the joint legislative budget committee.
+8 G. The appropriation calculated pursuant to subsection B of this
+9 section may be included in the general appropriations bill for that fiscal
+10 year. Any additional appropriation calculated pursuant to subsection F of
+11 this section shall be made by a separate act.
+12 H. At the end of a fiscal year, the budget stabilization fund
+13 balance shall not exceed ten percent of state general fund revenue for the
+14 fiscal year. Any surplus monies above ten percent shall be transferred by
+15 the state treasurer to the state general fund.
+16 I. The state treasurer may temporarily divest monies in the budget
+17 stabilization fund to avoid a negative cash balance in operating
+18 monies. The amount divested shall not exceed the amount required to meet
+19 immediate cash needs. The state treasurer may divest monies in the budget
+20 stabilization fund only when the state general fund has a negative cash
+21 balance.
+22 J. For the purposes of this section:
+23 1. "Adjusted personal income" means personal income minus transfer
+24 payments, as reported by the United States department of commerce, bureau
+25 of economic analysis, or its successor agency.
+26 2. "Annual growth rate" means the percentage change in real
+27 adjusted personal income in the calendar year ending during a fiscal year
+28 as compared to real adjusted personal income for the preceding calendar
+29 year. The annual growth rate shall be rounded to the nearest
+30 one-hundredth of one percent.
+31 3. "GDP price deflator" means the gross domestic product price
+32 deflator reported by the United States department of commerce, bureau of
+33 economic analysis, or its successor agency.
+34 4. "Personal income" means the total personal income of all persons
+35 in this state reported by the United States department of commerce, bureau
+36 of economic analysis, or its successor agency.
+37 5. "Real adjusted personal income" means an amount that is
+38 determined by dividing adjusted personal income by the GDP price deflator
+39 and multiplying the result by one hundred.
+40 6. "Transfer payments" means that portion of personal income that
+41 represents a government expenditure for which no service is rendered or
+42 product is delivered, as determined by the United States department of
+43 commerce, bureau of economic analysis, or its successor agency.
+-5-
+
+House Amendments to H.B. 4044
+1 7. "Trend growth rate" means the average annual growth rate for the
+2 most recent seven calendar years, rounded to the nearest one-hundredth of
+3 one percent.
+4 Sec. 2. Title 41, chapter 11, article 1, Arizona Revised Statutes,
+5 is amended by adding section 41-1610.02, to read:
+6 41-1610.02. Public safety parity fund
+7 A. THE PUBLIC SAFETY PARITY FUND IS ESTABLISHED TO [PAY FOR THE
+8 SALARIES OF] [PROVIDE RETENTION PAY AND BENEFITS FOR] EMPLOYEES FROM THE
+9 DEPARTMENT OF PUBLIC SAFETY AND THE STATE DEPARTMENT OF CORRECTIONS. THE
+10 FUND CONSISTS OF [PROCEEDS FROM THE SALE OF FORFEITED DIGITAL ASSETS
+11 DEPOSITED PURSUANT TO SECTION 13-4315 AND] MONIES EARNED FROM INVESTMENT
+12 FROM THE BUDGET STABILIZATION FUND ESTABLISHED BY SECTION 35-144. THE
+13 STATE DEPARTMENT OF CORRECTIONS SHALL ADMINISTER THE FUND. MONIES IN THE
+14 FUND ARE SUBJECT TO LEGISLATIVE APPROPRIATION.
+15 B. BEGINNING JUNE 30, 2027 AND EACH FISCAL YEAR THEREAFTER, THE
+16 STATE DEPARTMENT OF CORRECTIONS SHALL DEPOSIT, PURSUANT TO SECTIONS 35-146
+17 AND 35-147, FORTY PERCENT OF THE MONIES DEPOSITED IN THE PUBLIC SAFETY
+18 PARITY FUND ESTABLISHED BY THIS SECTION IN THE PARITY COMPENSATION FUND
+19 ESTABLISHED BY SECTION 41-1720.
+20 C. IN DETERMINING THE AMOUNT OF THE EXPENDITURES FROM THE FUND, THE
+21 STATE DEPARTMENT OF CORRECTIONS SHALL ANNUALLY ESTABLISH AND CONSIDER
+22 BENCHMARKS BASED ON THE AVERAGE TOTAL COMPENSATION FOR EACH COMPARABLE
+23 CORRECTIONS PERSONNEL RANK OF THE TWO LARGEST COUNTY JAILS IN THIS STATE
+24 AND THE TWO LARGEST PRIVATE PRISONS IN THIS STATE.
+25 [D. THE STATE DEPARTMENT OF CORRECTIONS SHALL DISTRIBUTE THE MONIES
+26 IN THE FUND ON JULY 1 AND DECEMBER 31 EACH YEAR. THE STATE DEPARTMENT OF
+27 CORRECTIONS MAY PROVIDE A RETENTION BONUS TO DEPARTMENT EMPLOYEES OF NOT
+28 MORE THAN THREE PERCENT FROM FUND MONIES.]
+29 Sec. 3. Section 41-1720, Arizona Revised Statutes, is amended to
+30 read:
+31 41-1720. Parity compensation fund
+32 A. The parity compensation fund is established consisting of monies
+33 deposited pursuant to section SECTIONS 28-5808 AND 41-1610.02 and monies
+34 appropriated by the legislature. The department shall administer the fund
+35 and, considering state revenues and state employee pay adjustments, . The
+36 department shall spend monies from the fund [TO PROVIDE RETENTION PAY AND
+37 BENEFITS FOR EMPLOYEES FROM THE DEPARTMENT AND] for salaries and benefits
+38 for law enforcement personnel that the department determines will enhance
+39 the ability of the department to successfully recruit and retain qualified
+40 law enforcement personnel. In determining the amount of the expenditures
+41 from the fund, the department shall annually establish and consider
+42 benchmarks based on the average total compensation for each comparable law
+43 enforcement personnel rank of the department's three largest county or
+44 municipal peer law enforcement agencies in this state. For the purposes
+45 of this subsection, "total compensation" includes base salary, educational
+-6-
+
+House Amendments to H.B. 4044
+1 incentive pay, physical performance pay, longevity pay and retirement
+2 contributions made by an employer on behalf of an employee.
+3 B. On notice from the department, the state treasurer shall invest
+4 and divest monies in the fund as provided by section 35-313, and monies
+5 earned from investment shall be credited to the fund.
+6 C. Fund monies:
+7 1. Do not revert to the state general fund.
+8 2. Are exempt from the provisions of section 35-190 relating to
+9 lapsing of appropriations.
+10 3. Are subject to legislative appropriation.
+11 [D. THE DEPARTMENT MAY PROVIDE A RETENTION BONUS TO DEPARTMENT
+12 EMPLOYEES OF NOT MORE THAN THREE PERCENT FROM MONIES DEPOSITED IN THE FUND
+13 PURSUANT TO SECTION 41-1610.02.]
+14 Enroll and engross to conform
+15 Amend title to conform
+JEFF WENINGER
+4044FloorWENINGER.docx
+03/02/2026
+2:58 PM
+C: AH
+130MVLPKZ
+4044FloorWENINGER.docx
+03/4/2026
+08:34 AM
+H: PB/ls
+130MVLPKZ
+-7-
