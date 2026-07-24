@@ -1,0 +1,312 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Engrossed Bill - Willoughby - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2177: AHCCCS; waivers; American Indians; services
+WILLOUGHBY FLOOR AMENDMENT
+1. Makes a technical change.
+A. GRAHAM
+2/19/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Willoughby
+Second Regular Session H.B. 2177
+ADDITIONAL COW
+WILLOUGHBY FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2177
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 36, chapter 29, article 1, Arizona Revised
+3 Statutes, is amended by adding section 36-2903.18, to read:
+4 36-2903.18. Waivers; annual submittal; American Indians and
+5 Alaska natives; covered services
+6 A. ON OR BEFORE MARCH 30 OF EACH YEAR, THE DIRECTOR SHALL APPLY TO
+7 THE CENTERS FOR MEDICARE AND MEDICAID SERVICES FOR WAIVERS OR AMENDMENTS
+8 TO THE CURRENT SECTION 1115 WAIVER TO AUTHORIZE THIS STATE TO MAKE
+9 PAYMENTS FOR COVERED SERVICES THAT ARE PROVIDED TO AMERICAN INDIAN OR
+10 [ALASKAN] [ALASKA] NATIVE MEMBERS BY PARTICIPATING INDIAN HEALTH SERVICES
+11 FACILITIES OR PARTICIPATING FACILITIES OPERATED BY TRIBES OR TRIBAL
+12 ORGANIZATIONS UNDER THE INDIAN SELF-DETERMINATION AND EDUCATION ASSISTANCE
+13 ACT (P.L. 93-638; 88 STAT. 2203; 25 UNITED STATES CODE CHAPTER 46) AND
+14 THAT WERE ELIMINATED FROM, REDUCED OR LIMITED IN THE STATE PLAN ON OR
+15 AFTER SEPTEMBER 2010, INCLUDING PAYMENTS FOR MEDICALLY NECESSARY
+16 DIAGNOSTIC, THERAPEUTIC AND PREVENTATIVE DENTAL SERVICES.
+17 B. IN ANY YEAR, THE DIRECTOR SHALL APPLY PURSUANT TO SUBSECTION A
+18 OF THIS SECTION FOR ONLY THE WAIVERS OR AMENDMENTS TO THE CURRENT SECTION
+19 1115 WAIVER THAT HAVE NOT BEEN APPROVED AND ARE NOT IN EFFECT.
+20 Sec. 2. Section 36-2907, Arizona Revised Statutes, is amended to
+21 read:
+22 36-2907. Covered health and medical services; modifications;
+23 related delivery of service requirements; rules;
+24 definitions
+25 A. Subject to the limits and exclusions specified in this section,
+26 contractors shall provide the following medically necessary health and
+27 medical services:
+28 1. Inpatient hospital services that are ordinarily furnished by a
+29 hospital to care for and treat inpatients and that are provided under the
+30 direction of a physician or a primary care practitioner. For the purposes
+31 of this section, inpatient hospital services exclude services in an
+
+House Amendments to H.B. 2177
+1 institution for tuberculosis or mental diseases unless authorized under an
+2 approved section 1115 waiver.
+3 2. Outpatient health services that are ordinarily provided in
+4 hospitals, clinics, offices and other health care facilities by licensed
+5 health care providers. Outpatient health services include services
+6 provided by or under the direction of a physician or a primary care
+7 practitioner, including occupational therapy.
+8 3. Other laboratory and X-ray services ordered by a physician or a
+9 primary care practitioner.
+10 4. Medications that are ordered on prescription by a physician or a
+11 dentist who is licensed pursuant to title 32, chapter 11. Persons who are
+12 dually eligible for title XVIII and title XIX services must obtain
+13 available medications through a medicare licensed or certified medicare
+14 advantage prescription drug plan, a medicare prescription drug plan or any
+15 other entity authorized by medicare to provide a medicare part D
+16 prescription drug benefit.
+17 5. Medical supplies, durable medical equipment, insulin pumps and
+18 prosthetic devices ordered by a physician or a primary care practitioner.
+19 Suppliers of durable medical equipment shall provide the administration
+20 with complete information about the identity of each person who has an
+21 ownership or controlling interest in their business and shall comply with
+22 federal bonding requirements in a manner prescribed by the administration.
+23 6. For persons who are at least twenty-one years of age, treatment
+24 of medical conditions of the eye, excluding eye examinations for
+25 prescriptive lenses and the provision of prescriptive lenses.
+26 7. Early and periodic health screening and diagnostic services as
+27 required by section 1905(r) of title XIX of the social security act for
+28 members who are under twenty-one years of age.
+29 8. Family planning services that do not include abortion or
+30 abortion counseling. If a contractor elects not to provide family
+31 planning services, this election does not disqualify the contractor from
+32 delivering all other covered health and medical services under this
+33 chapter. In that event, the administration may contract directly with
+34 another contractor, including an outpatient surgical center or a
+35 noncontracting provider, to deliver family planning services to a member
+36 who is enrolled with the contractor that elects not to provide family
+37 planning services.
+38 9. Podiatry services that are performed by a podiatrist who is
+39 licensed pursuant to title 32, chapter 7 and ordered by a primary care
+40 physician or primary care practitioner.
+41 10. Nonexperimental transplants approved for title XIX
+42 reimbursement.
+43 11. Dental services as follows:
+44 (a) Except as provided in subdivision (b) of this paragraph, for
+45 persons who are at least twenty-one years of age, emergency dental care
+46 and extractions in an annual amount of not more than $1,000 per member.
+-2-
+
+House Amendments to H.B. 2177
+1 (b) Subject to approval by the centers for medicare and medicaid
+2 services, for persons treated at an Indian health service or tribal
+3 facility, adult dental services that are eligible for a federal medical
+4 assistance percentage of one hundred percent and that exceed the limit
+5 prescribed in subdivision (a) of this paragraph.
+6 12. Ambulance and nonambulance transportation, except as provided
+7 in subsection G of this section.
+8 13. Hospice care.
+9 14. Orthotics, if all of the following apply:
+10 (a) The use of the orthotic is medically necessary as the preferred
+11 treatment option consistent with medicare guidelines.
+12 (b) The orthotic is less expensive than all other treatment options
+13 or surgical procedures to treat the same diagnosed condition.
+14 (c) The orthotic is ordered by a physician or primary care
+15 practitioner.
+16 15. Subject to approval by the centers for medicare and medicaid
+17 services, medically necessary chiropractic services that are performed by
+18 a chiropractor who is licensed pursuant to title 32, chapter 8 and that
+19 are ordered by a primary care physician or primary care practitioner
+20 pursuant to rules adopted by the administration. The primary care
+21 physician or primary care practitioner may initially order up to twenty
+22 visits annually that include treatment and may request authorization for
+23 additional chiropractic services in that same year if additional
+24 chiropractic services are medically necessary.
+25 16. For up to ten program hours annually, diabetes outpatient
+26 self-management training services, as defined in 42 United States Code
+27 section 1395x, if prescribed by a primary care practitioner in either of
+28 the following circumstances:
+29 (a) The member is initially diagnosed with diabetes.
+30 (b) For a member who has previously been diagnosed with diabetes,
+31 either:
+32 (i) A change occurs in the member's diagnosis, medical condition or
+33 treatment regimen.
+34 (ii) The member is not meeting appropriate clinical outcomes.
+35 17. Pursuant to the terms and conditions that are approved by the
+36 centers for medicare and medicaid services and subject to available
+37 funding, traditional healing services, if both of the following apply:
+38 (a) The member qualifies for services through the Indian health
+39 service or a tribal facility pursuant to the conditions of participation
+40 outlined in 42 Code of Federal Regulations section 136.12.
+41 (b) The traditional healing service is delivered by or through the
+42 Indian health service or a tribal facility.
+43 B. The limits and exclusions for health and medical services
+44 provided under this section are as follows:
+45 1. Circumcision of newborn males is not a covered health and
+46 medical service.
+47 2. For eligible persons who are at least twenty-one years of age:
+-3-
+
+House Amendments to H.B. 2177
+1 (a) Prosthetic devices do not include hearing aids, dentures or
+2 bone-anchored hearing aids. Prosthetic devices, except prosthetic
+3 implants, may be limited to $12,500 per contract year.
+4 (b) Percussive vests are not covered health and medical services.
+5 (c) Durable medical equipment is limited to items covered by
+6 medicare.
+7 (d) Nonexperimental transplants do not include pancreas-only
+8 transplants.
+9 (e) Bariatric surgery procedures, including laparoscopic and open
+10 gastric bypass and restrictive procedures, are not covered health and
+11 medical services.
+12 C. The system shall pay noncontracting providers only for health
+13 and medical services as prescribed in subsection A of this section and as
+14 prescribed by rule.
+15 D. The director shall adopt rules necessary to limit, to the extent
+16 possible, the scope, duration and amount of services, including maximum
+17 limits for inpatient services that are consistent with federal regulations
+18 under title XIX of the social security act (P.L. 89-97; 79 Stat. 344;
+19 42 United States Code section 1396 (1980)). To the extent possible and
+20 practicable, these rules shall provide for the prior approval of medically
+21 necessary services provided pursuant to this chapter.
+22 E. The director shall make available home health services in lieu
+23 of hospitalization pursuant to contracts awarded under this article. For
+24 the purposes of this subsection, "home health services" means the
+25 provision of nursing services, home health aide services or medical
+26 supplies, equipment and appliances that are provided on a part-time or
+27 intermittent basis by a licensed home health agency within a member's
+28 residence based on the orders of a physician or a primary care
+29 practitioner. Home health agencies shall comply with the federal bonding
+30 requirements in a manner prescribed by the administration.
+31 F. The director shall adopt rules for the coverage of behavioral
+32 health services for persons who are eligible under section 36-2901,
+33 paragraph 6, subdivision (a). The administration acting through the
+34 regional behavioral health authorities shall establish a diagnostic and
+35 evaluation program to which other state agencies shall refer children who
+36 are not already enrolled pursuant to this chapter and who may be in need
+37 of behavioral health services. In addition to an evaluation, the
+38 administration acting through regional behavioral health authorities shall
+39 also identify children who may be eligible under section 36-2901,
+40 paragraph 6, subdivision (a) or section 36-2931, paragraph 5 and shall
+41 refer the children to the appropriate agency responsible for making the
+42 final eligibility determination.
+43 G. The director shall adopt rules providing for transportation
+44 services and rules providing for copayment by members for transportation
+45 for other than emergency purposes. Subject to approval by the centers for
+46 medicare and medicaid services, nonemergency medical transportation shall
+47 not be provided except for stretcher vans and ambulance transportation.
+-4-
+
+House Amendments to H.B. 2177
+1 Prior authorization is required for transportation by stretcher van and
+2 for medically necessary ambulance transportation initiated pursuant to a
+3 physician's direction. Prior authorization is not required for medically
+4 necessary ambulance transportation services rendered to members or
+5 eligible persons initiated by dialing telephone number 911 or other
+6 designated emergency response systems.
+7 H. The director may adopt rules to allow the administration, at the
+8 director's discretion, to use a second opinion procedure under which
+9 surgery may not be eligible for coverage pursuant to this chapter without
+10 documentation as to need by at least two physicians or primary care
+11 practitioners.
+12 I. If the director does not receive bids within the amounts
+13 budgeted or if at any time the amount remaining in the Arizona health care
+14 cost containment system fund is insufficient to pay for full contract
+15 services for the remainder of the contract term, the administration, on
+16 notification to system contractors at least thirty days in advance, may
+17 modify the list of services required under subsection A of this section
+18 for persons defined as eligible other than those persons defined pursuant
+19 to section 36-2901, paragraph 6, subdivision (a). The director may also
+20 suspend services or may limit categories of expense for services defined
+21 as optional pursuant to title XIX of the social security act (P.L. 89-97;
+22 79 Stat. 344; 42 United States Code section 1396 (1980)) for persons
+23 defined pursuant to section 36-2901, paragraph 6, subdivision (a). Such
+24 reductions or suspensions do not apply to the continuity of care for
+25 persons already receiving these services.
+26 J. All health and medical services provided under this article
+27 shall be provided in the geographic service area of the member, except:
+28 1. Emergency services and specialty services provided pursuant to
+29 section 36-2908.
+30 2. That the director may allow the delivery of health and medical
+31 services in other than the geographic service area in this state or in an
+32 adjoining state if the director determines that medical practice patterns
+33 justify the delivery of services or a net reduction in transportation
+34 costs can reasonably be expected. Notwithstanding the definition of
+35 physician as prescribed in section 36-2901, if services are procured from
+36 a physician or primary care practitioner in an adjoining state, the
+37 physician or primary care practitioner shall be licensed to practice in
+38 that state pursuant to licensing statutes in that state that are similar
+39 to title 32, chapter 13, 15, 17 or 25 and shall complete a provider
+40 agreement for this state.
+41 K. Covered outpatient services shall be subcontracted by a primary
+42 care physician or primary care practitioner to other licensed health care
+43 providers to the extent practicable for purposes including, but not
+44 limited to, making health care services available to underserved areas,
+45 reducing costs of providing medical care and reducing transportation
+46 costs.
+-5-
+
+House Amendments to H.B. 2177
+1 L. The director shall adopt rules that prescribe the coordination
+2 of medical care for persons who are eligible for system services. The
+3 rules shall include provisions for transferring patients and medical
+4 records and initiating medical care.
+5 M. Pursuant to the terms and conditions that are approved by the
+6 centers for medicare and medicaid services and subject to available
+7 funding, the director shall implement limited benefit coverage prerelease
+8 services to eligible incarcerated individuals and committed youth for up
+9 to ninety days immediately before the individuals' EACH INDIVIDUAL'S or
+10 committed youth's expected date of release from a prison, jail, secure
+11 care facility or tribal correctional facility.
+12 N. ON APPROVAL BY THE CENTERS FOR MEDICARE AND MEDICAID SERVICES,
+13 THE ADMINISTRATION MAY MAKE PAYMENTS FOR COVERED SERVICES THAT ARE
+14 PROVIDED TO AMERICAN INDIAN OR [ALASKAN] [ALASKA] NATIVE MEMBERS BY
+15 PARTICIPATING INDIAN HEALTH SERVICES FACILITIES OR PARTICIPATING
+16 FACILITIES OPERATED BY TRIBES OR TRIBAL ORGANIZATIONS UNDER THE INDIAN
+17 SELF-DETERMINATION AND EDUCATION ASSISTANCE ACT (P.L. 93-638; 88 STAT.
+18 2203; 25 UNITED STATES CODE CHAPTER 46) AND THAT WERE ELIMINATED FROM,
+19 REDUCED OR LIMITED IN THE STATE PLAN ON OR AFTER SEPTEMBER 2010, INCLUDING
+20 PAYMENTS FOR MEDICALLY NECESSARY DIAGNOSTIC, THERAPEUTIC AND PREVENTATIVE
+21 DENTAL SERVICES.
+22 N. O. Notwithstanding section 36-2901.08, monies from the hospital
+23 assessment fund established by section 36-2901.09 may not be used to
+24 provide any of the following:
+25 1. Chiropractic services as prescribed in subsection A, paragraph
+26 15 of this section.
+27 2. Diabetes outpatient self-management training services as
+28 prescribed in subsection A, paragraph 16 of this section.
+29 3. Speech therapy provided in an outpatient setting to eligible
+30 persons who are at least twenty-one years of age.
+31 4. Cochlear implants to eligible persons who are at least
+32 twenty-one years of age.
+33 O. P. For the purposes of this section:
+34 1. "Ambulance" has the same meaning prescribed in section 36-2201.
+35 2. "Tribal facility" has the same meaning prescribed in section
+36 36-2981.
+37 Enroll and engross to conform
+38 Amend title to conform
+JULIE WILLOUGHBY
+2177FloorWILLOUGHBY.docx
+02/19/2026
+11:07 AM
+C: MH
+130XZLXQI
+-6-

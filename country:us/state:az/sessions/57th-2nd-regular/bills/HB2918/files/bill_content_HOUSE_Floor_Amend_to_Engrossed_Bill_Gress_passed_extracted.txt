@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Engrossed Bill - Gress - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2918: renewable energy equipment; valuation; depreciation
+GRESS FLOOR AMENDMENT
+1. Extends the deadline, from January 1, 2027 to January 1, 2030, for certain
+renewable energy equipment to have their construction initiated before the
+prescribed calculation used for determining full cash value of the equipment
+is changed to according to the provisions of the bill.
+CORBIN W.
+3/3/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Gress
+Second Regular Session H.B. 2918
+ADDITIONAL COW
+GRESS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2918
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 42-14155, Arizona Revised Statutes, is amended
+3 to read:
+4 42-14155. Valuation of renewable energy and storage
+5 equipment; definitions
+6 A. Through December 31, 2040, the department shall determine the
+7 full cash value of taxable renewable energy and storage equipment in the
+8 manner prescribed by this section.
+9 B. SUBJECT TO SUBSECTION C OF THIS SECTION, the full cash value of
+10 renewable energy and storage equipment is THE FOLLOWING:
+11 1. FOR RENEWABLE ENERGY AND STORAGE EQUIPMENT THAT IS NOT OWNED BY
+12 OR WHOLLY SUBJECT TO AN EXCLUSIVE POWER PURCHASE AGREEMENT WITH A PUBLIC
+13 SERVICE CORPORATION OR PUBLIC POWER ENTITY DOING BUSINESS IN THIS STATE,
+14 ONE HUNDRED PERCENT OF THE DEPRECIATED COST OF THE EQUIPMENT. FOR THE
+15 PURPOSES OF THIS PARAGRAPH, DEPRECIATED COST SHALL BE DETERMINED BY
+16 DEDUCTING DEPRECIATION FROM ORIGINAL COST.
+17 2. FOR RENEWABLE ENERGY AND STORAGE EQUIPMENT THAT IS OWNED BY OR
+18 WHOLLY SUBJECT TO AN EXCLUSIVE POWER PURCHASE AGREEMENT WITH A PUBLIC
+19 SERVICE CORPORATION OR PUBLIC POWER ENTITY DOING BUSINESS IN THIS STATE
+20 AND [THAT IS IN SERVICE] [THE CONSTRUCTION OF THE RENEWABLE ENERGY AND
+21 STORAGE EQUIPMENT WAS INITIATED] BEFORE JANUARY 1, [2027] [2030], twenty
+22 percent of the depreciated cost of the equipment. FOR THE PURPOSES OF
+23 THIS PARAGRAPH, depreciated cost shall be determined by deducting
+24 depreciation from taxable original cost.
+25 3. FOR RENEWABLE ENERGY AND STORAGE EQUIPMENT THAT IS OWNED BY OR
+26 WHOLLY SUBJECT TO AN EXCLUSIVE POWER PURCHASE AGREEMENT WITH A PUBLIC
+27 SERVICE CORPORATION OR PUBLIC POWER ENTITY DOING BUSINESS IN THIS STATE
+28 AND [THAT IS IN SERVICE] [THE CONSTRUCTION OF THE RENEWABLE ENERGY AND
+29 STORAGE EQUIPMENT WAS INITIATED] FROM AND AFTER DECEMBER 31, [2026]
+
+House Amendments to H.B. 2918
+1 [2029], ONE HUNDRED PERCENT OF THE DEPRECIATED COST OF THE EQUIPMENT. FOR
+2 THE PURPOSES OF THIS PARAGRAPH, DEPRECIATED COST SHALL BE DETERMINED BY
+3 DEDUCTING DEPRECIATION FROM ORIGINAL COST.
+4 C. FOR THE PURPOSES OF DETERMINING FULL CASH VALUE OF RENEWABLE
+5 ENERGY AND STORAGE EQUIPMENT PURSUANT TO SUBSECTION B OF THIS SECTION,
+6 depreciation shall not exceed ninety percent of the adjusted original
+7 cost.
+8 C. D. For the purposes of this section, all energy storage
+9 equipment, both colocated with renewable energy and stand-alone energy
+10 storage equipment, qualifies for valuation pursuant to this section.
+11 D. E. For the purposes of this section:
+12 1. "Depreciation" means straight-line depreciation over the useful
+13 life, as adopted by the department, of the item of property.
+14 2. "Electric utility scale" means a person that is engaged in a
+15 business activity described in section 42-5063, subsection A or such
+16 person's equipment or wholesale electricity suppliers.
+17 3. "Energy storage" means commercially available technology for
+18 electric utility scale that is capable of absorbing energy, storing energy
+19 for a period of time and thereafter dispatching the energy and that uses
+20 mechanical, chemical or thermal processes to store energy.
+21 4. "Original cost" means the actual cost, without trending, of
+22 acquiring or constructing property, including additions, retirements,
+23 adjustments and transfers.
+24 5. "Renewable energy and storage equipment" means electric
+25 generation facilities, electric transmission, electric distribution,
+26 energy storage, gas distribution or combination gas and electric
+27 transmission and distribution and transmission and distribution
+28 cooperative property that is located in this state, that is used or useful
+29 for generating, storing, transmitting or distributing electric power,
+30 energy or fuel derived from solar, wind or other nonpetroleum renewable
+31 sources not intended for self-consumption, including materials and
+32 supplies and construction work in progress, but excluding licensed
+33 vehicles and property valued under sections 42-14154 and 42-14156.
+34 6. "Taxable original cost" means the original cost reduced by the
+35 value of any investment tax credits, production tax credits or cash grants
+36 in lieu of investment tax credits applicable to the taxable renewable
+37 energy and storage equipment.
+38 Enroll and engross to conform
+39 Amend title to conform
+MATT GRESS
+2918FloorGRESS.docx
+03/03/2026
+11:11 AM
+H: CW/ls
+130DRSSSR
+-2-

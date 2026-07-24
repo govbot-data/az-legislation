@@ -1,0 +1,196 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Commerce - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON COMMERCE
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1515
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 35-144, Arizona Revised Statutes, is amended to
+3 read:
+4 35-144. Budget stabilization fund; definitions
+5 A. The budget stabilization fund is established consisting of
+6 monies transferred from the state general fund pursuant to subsection B of
+7 this section. The state treasurer shall administer the budget
+8 stabilization fund, and invest and divest monies in the budget
+9 stabilization fund as provided by sections 35-313 and 35-314.02, and
+10 DEPOSIT, PURSUANT TO SECTIONS 35-146 AND 35-147, monies earned from
+11 investment shall be credited to the budget stabilization fund IN THE
+12 PUBLIC SAFETY PARITY FUND ESTABLISHED BY SECTION 41-1610.02, EXCEPT THAT
+13 THE FIRST $10,000,000 GENERATED ANNUALLY SHALL REMAIN IN THE BUDGET
+14 STABILIZATION FUND. Except as provided by this section:
+15 1. Monies in the budget stabilization fund are exempt from the
+16 provisions of section 35-190 relating to the reversion of monies to the
+17 state general fund.
+18 2. The monies in the fund are separate monies to be used only for
+19 the purposes of the fund.
+20 3. An amount sufficient to pay claims certified by the state
+21 forester pursuant to section 37-1305, subsection E, paragraph 4 is
+22 continuously appropriated from the fund to the state treasurer for payment
+23 of the certified claims. Not more than $20,000,000 in unreimbursed claims
+24 may be outstanding from the fund at any time from the monies appropriated
+25 pursuant to this paragraph.
+26 B. In a calendar year in which the annual growth rate exceeds the
+27 trend growth rate, the excess growth when multiplied by total general fund
+
+House Amendments to S.B. 1515
+1 revenue of the fiscal year ending in the calendar year determines the
+2 amount to be appropriated by the legislature to the budget stabilization
+3 fund in the fiscal year in which the calendar year ends.
+4 C. In a calendar year in which the annual growth rate is both less
+5 than two percent and less than the trend growth rate, the difference
+6 between the annual growth rate and the trend growth rate when multiplied
+7 by the total general fund revenue of the fiscal year ending in the
+8 calendar year determines the amount to be transferred by the legislature
+9 from the budget stabilization fund to the state general fund at the end of
+10 the fiscal year in which the calendar year ends. The transfer calculated
+11 pursuant to this subsection shall not exceed the available balance in the
+12 budget stabilization fund, nor shall the legislature transfer an amount
+13 that exceeds the amount sufficient to balance the state general fund
+14 budget.
+15 D. The legislature shall pass a bill that contains the emergency
+16 clause if the legislature either:
+17 1. Reduces the amount for appropriation to the budget stabilization
+18 fund under subsection B of this section.
+19 2. Increases the amount for transfer to the state general fund
+20 under subsection C of this section.
+21 E. The annual budget recommendations of the governor and the joint
+22 legislative budget committee shall include estimates of appropriations or
+23 transfers required under subsection B or C of this section.
+24 F. A final determination of the amount to be appropriated to or
+25 transferred from the budget stabilization fund shall be made using
+26 personal income and price deflator estimates as reported in the second
+27 calendar quarter for the preceding calendar year. The economic estimates
+28 commission shall determine the annual growth rate, the trend growth rate
+29 and the required appropriation to or transfer from the budget
+30 stabilization fund at its first meeting following the second calendar
+31 quarter report of the United States department of commerce, but not later
+32 than June 1. The commission shall certify and report its findings to the
+33 governor, the state treasurer, the president of the senate, the speaker of
+34 the house of representatives and the joint legislative budget committee.
+35 G. The appropriation calculated pursuant to subsection B of this
+36 section may be included in the general appropriations bill for that fiscal
+37 year. Any additional appropriation calculated pursuant to subsection F of
+38 this section shall be made by a separate act.
+39 H. At the end of a fiscal year, the budget stabilization fund
+40 balance shall not exceed ten percent of state general fund revenue for the
+41 fiscal year. Any surplus monies above ten percent shall be transferred by
+42 the state treasurer to the state general fund.
+43 I. The state treasurer may temporarily divest monies in the budget
+44 stabilization fund to avoid a negative cash balance in operating
+45 monies. The amount divested shall not exceed the amount required to meet
+46 immediate cash needs. The state treasurer may divest monies in the budget
+-2-
+
+House Amendments to S.B. 1515
+1 stabilization fund only when the state general fund has a negative cash
+2 balance.
+3 J. For the purposes of this section:
+4 1. "Adjusted personal income" means personal income minus transfer
+5 payments, as reported by the United States department of commerce, bureau
+6 of economic analysis, or its successor agency.
+7 2. "Annual growth rate" means the percentage change in real
+8 adjusted personal income in the calendar year ending during a fiscal year
+9 as compared to real adjusted personal income for the preceding calendar
+10 year. The annual growth rate shall be rounded to the nearest
+11 one-hundredth of one percent.
+12 3. "GDP price deflator" means the gross domestic product price
+13 deflator reported by the United States department of commerce, bureau of
+14 economic analysis, or its successor agency.
+15 4. "Personal income" means the total personal income of all persons
+16 in this state reported by the United States department of commerce, bureau
+17 of economic analysis, or its successor agency.
+18 5. "Real adjusted personal income" means an amount that is
+19 determined by dividing adjusted personal income by the GDP price deflator
+20 and multiplying the result by one hundred.
+21 6. "Transfer payments" means that portion of personal income that
+22 represents a government expenditure for which no service is rendered or
+23 product is delivered, as determined by the United States department of
+24 commerce, bureau of economic analysis, or its successor agency.
+25 7. "Trend growth rate" means the average annual growth rate for the
+26 most recent seven calendar years, rounded to the nearest one-hundredth of
+27 one percent.
+28 Sec. 2. Title 41, chapter 11, article 1, Arizona Revised Statutes,
+29 is amended by adding section 41-1610.02, to read:
+30 41-1610.02. Public safety parity fund
+31 A. THE PUBLIC SAFETY PARITY FUND IS ESTABLISHED TO PROVIDE
+32 RETENTION PAY AND BENEFITS FOR EMPLOYEES FROM THE DEPARTMENT OF PUBLIC
+33 SAFETY AND THE STATE DEPARTMENT OF CORRECTIONS. THE FUND CONSISTS OF
+34 MONIES EARNED FROM INVESTMENT FROM THE BUDGET STABILIZATION FUND
+35 ESTABLISHED BY SECTION 35-144. THE STATE DEPARTMENT OF CORRECTIONS SHALL
+36 ADMINISTER THE FUND. MONIES IN THE FUND ARE SUBJECT TO LEGISLATIVE
+37 APPROPRIATION.
+38 B. BEGINNING JUNE 30, 2027 AND EACH FISCAL YEAR THEREAFTER, THE
+39 STATE DEPARTMENT OF CORRECTIONS SHALL DEPOSIT, PURSUANT TO SECTIONS 35-146
+40 AND 35-147, FORTY PERCENT OF THE MONIES DEPOSITED IN THE PUBLIC SAFETY
+41 PARITY FUND ESTABLISHED BY THIS SECTION IN THE PARITY COMPENSATION FUND
+42 ESTABLISHED BY SECTION 41-1720.
+43 C. IN DETERMINING THE AMOUNT OF THE EXPENDITURES FROM THE FUND, THE
+44 STATE DEPARTMENT OF CORRECTIONS SHALL ANNUALLY ESTABLISH AND CONSIDER
+45 BENCHMARKS BASED ON THE AVERAGE TOTAL COMPENSATION FOR EACH COMPARABLE
+46 CORRECTIONS PERSONNEL RANK OF THE TWO LARGEST COUNTY JAILS IN THIS STATE
+47 AND THE TWO LARGEST PRIVATE PRISONS IN THIS STATE.
+-3-
+
+House Amendments to S.B. 1515
+1 D. THE STATE DEPARTMENT OF CORRECTIONS SHALL DISTRIBUTE THE MONIES
+2 IN THE FUND ON JULY 1 AND DECEMBER 31 EACH YEAR. THE STATE DEPARTMENT OF
+3 CORRECTIONS MAY PROVIDE A RETENTION BONUS TO DEPARTMENT EMPLOYEES OF NOT
+4 MORE THAN THREE PERCENT FROM FUND MONIES.
+5 Sec. 3. Section 41-1720, Arizona Revised Statutes, is amended to
+6 read:
+7 41-1720. Parity compensation fund
+8 A. The parity compensation fund is established consisting of monies
+9 deposited pursuant to section SECTIONS 28-5808 AND 41-1610.02 and monies
+10 appropriated by the legislature. The department shall administer the fund
+11 and, considering state revenues and state employee pay adjustments, . The
+12 department shall spend monies from the fund TO PROVIDE RETENTION PAY AND
+13 BENEFITS FOR EMPLOYEES FROM THE DEPARTMENT AND for salaries and benefits
+14 for law enforcement personnel that the department determines will enhance
+15 the ability of the department to successfully recruit and retain qualified
+16 law enforcement personnel. In determining the amount of the expenditures
+17 from the fund, the department shall annually establish and consider
+18 benchmarks based on the average total compensation for each comparable law
+19 enforcement personnel rank of the department's three largest county or
+20 municipal peer law enforcement agencies in this state. For the purposes
+21 of this subsection, "total compensation" includes base salary, educational
+22 incentive pay, physical performance pay, longevity pay and retirement
+23 contributions made by an employer on behalf of an employee.
+24 B. On notice from the department, the state treasurer shall invest
+25 and divest monies in the fund as provided by section 35-313, and monies
+26 earned from investment shall be credited to the fund.
+27 C. Fund monies:
+28 1. Do not revert to the state general fund.
+29 2. Are exempt from the provisions of section 35-190 relating to
+30 lapsing of appropriations.
+31 3. Are subject to legislative appropriation.
+32 D. THE DEPARTMENT MAY PROVIDE A RETENTION BONUS TO DEPARTMENT
+33 EMPLOYEES OF NOT MORE THAN THREE PERCENT FROM MONIES DEPOSITED IN THE FUND
+34 PURSUANT TO SECTION 41-1610.02."
+35 Amend title to conform
+And, as so amended, it do pass
+JEFF WENINGER
+CHAIRMAN
+1515COMMERCE.docx
+03/24/2026
+03:01 PM
+H: PB/ls
+130IACMQT
+-4-

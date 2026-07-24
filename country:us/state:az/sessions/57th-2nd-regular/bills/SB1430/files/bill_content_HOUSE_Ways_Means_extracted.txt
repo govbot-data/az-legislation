@@ -1,0 +1,1896 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Ways & Means
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON WAYS & MEANS
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1430
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 42-5061, Arizona Revised Statutes, is amended to
+3 read:
+4 42-5061. Retail classification; definitions
+5 A. The retail classification is comprised of the business of
+6 selling tangible personal property at retail. The tax base for the retail
+7 classification is the gross proceeds of sales or gross income derived from
+8 the business. The tax imposed on the retail classification does not apply
+9 to the gross proceeds of sales or gross income from:
+10 1. Professional or personal service occupations or businesses that
+11 involve sales or transfers of tangible personal property only as
+12 inconsequential elements.
+13 2. Services rendered in addition to selling tangible personal
+14 property at retail.
+15 3. Sales of warranty or service contracts. The storage, use or
+16 consumption of tangible personal property provided under the conditions of
+17 such contracts is subject to tax under section 42-5156.
+18 4. Sales of tangible personal property by any nonprofit
+19 organization organized and operated exclusively for charitable purposes
+20 and recognized by the United States internal revenue service under section
+21 501(c)(3) of the internal revenue code.
+22 5. Sales to persons engaged in business classified under the
+23 restaurant classification of articles used by human beings for food, drink
+24 or condiment, whether simple, mixed or compounded.
+25 6. Business activity that is properly included in any other
+26 business classification that is taxable under this article.
+27 7. The sale of stocks and bonds.
+
+House Amendments to S.B. 1430
+1 8. Drugs and medical oxygen, including delivery hose, mask or tent,
+2 regulator and tank, if prescribed by a member of the medical, dental or
+3 veterinarian profession who is licensed by law to administer such
+4 substances.
+5 9. Prosthetic appliances as defined in section 23-501 and as
+6 prescribed or recommended by a health professional who is licensed
+7 pursuant to title 32, chapter 7, 8, 11, 13, 14, 15, 16, 17 or 29.
+8 10. Insulin, insulin syringes and glucose test strips.
+9 11. Prescription eyeglasses or contact lenses.
+10 12. Hearing aids as defined in section 36-1901.
+11 13. Durable medical equipment that has a centers for medicare and
+12 medicaid services common procedure code, is designated reimbursable by
+13 medicare, is prescribed by a person who is licensed under title 32,
+14 chapter 7, 8, 13, 14, 15, 17 or 29, can withstand repeated use, is
+15 primarily and customarily used to serve a medical purpose, is generally
+16 not useful to a person in the absence of illness or injury and is
+17 appropriate for use in the home.
+18 14. Sales of motor vehicles to nonresidents of this state for use
+19 outside this state if either of the following applies:
+20 (a) The motor vehicle dealer ships or delivers the motor vehicle to
+21 a destination out of this state.
+22 (b) The vehicle, trailer or semitrailer has a gross vehicle weight
+23 rating of more than ten thousand pounds, is used or maintained to
+24 transport property in the furtherance of interstate commerce and otherwise
+25 meets the definition of commercial motor vehicle as defined in section
+26 28-5201.
+27 15. Food, as provided in and subject to the conditions of article 3
+28 of this chapter and sections 42-5074 and 42-6017.
+29 16. Items purchased with United States department of agriculture
+30 coupons issued under the supplemental nutrition assistance program
+31 pursuant to the food and nutrition act of 2008 (P.L. 88-525; 78 Stat. 703;
+32 7 United States Code sections 2011 through 2036b) by the United States
+33 department of agriculture food and nutrition service or food instruments
+34 issued under section 17 of the child nutrition act (P.L. 95-627;
+35 92 Stat. 3603; P.L. 99-661, section 4302; P.L. 111-296; 42 United States
+36 Code section 1786).
+37 17. Textbooks by any bookstore that are required by any state
+38 university or community college.
+39 18. Food and drink to a person that is engaged in a business that
+40 is classified under the restaurant classification and that provides such
+41 food and drink without monetary charge to its employees for their own
+42 consumption on the premises during the employees' hours of employment.
+43 19. Articles of food, drink or condiment and accessory tangible
+44 personal property to a school district or charter school if such articles
+45 and accessory tangible personal property are to be prepared and served to
+46 persons for consumption on the premises of a public school within the
+47 district or on the premises of the charter school during school hours.
+-2-
+
+House Amendments to S.B. 1430
+1 20. Lottery tickets or shares pursuant to title 5, chapter 5.1,
+2 article 2.
+3 21. The sale of cash equivalents and the sale of precious metal
+4 bullion and monetized bullion to the ultimate consumer, but the sale of
+5 coins or other forms of money for manufacture into jewelry or works of art
+6 is subject to the tax and the gross proceeds of sales or gross income
+7 derived from the redemption of any cash equivalent by the holder as a
+8 means of payment for goods or services that are taxable under this article
+9 is subject to the tax. For the purposes of this paragraph:
+10 (a) "Cash equivalents" means items or intangibles, whether or not
+11 negotiable, that are sold to one or more persons, through which a value
+12 denominated in money is purchased in advance and may be redeemed in full
+13 or in part for tangible personal property, intangibles or services. Cash
+14 equivalents include gift cards, stored value cards, gift certificates,
+15 vouchers, traveler's checks, money orders or other instruments, orders or
+16 electronic mechanisms, such as an electronic code, personal identification
+17 number or digital payment mechanism, or any other prepaid intangible right
+18 to acquire tangible personal property, intangibles or services in the
+19 future, whether from the seller of the cash equivalent or from another
+20 person. Cash equivalents do not include either of the following:
+21 (i) Items or intangibles that are sold to one or more persons,
+22 through which a value is not denominated in money.
+23 (ii) Prepaid calling cards or prepaid authorization numbers for
+24 telecommunications services made taxable by subsection P of this section.
+25 (b) "Monetized bullion" means coins and other forms of money that
+26 are manufactured from gold, silver or other metals and that have been or
+27 are used as a medium of exchange in this or another state, the United
+28 States or a foreign nation.
+29 (c) "Precious metal bullion" means precious metal, including gold,
+30 silver, platinum, rhodium and palladium, that has been smelted or refined
+31 so that its value depends on its contents and not on its form.
+32 22. Motor vehicle fuel and use fuel that are subject to a tax
+33 imposed under title 28, chapter 16, article 1, sales of use fuel to a
+34 holder of a valid single trip use fuel tax permit issued under section
+35 28-5739, sales of aviation fuel that are subject to the tax imposed under
+36 section 28-8344 and sales of jet fuel that are subject to the tax imposed
+37 under article 8 of this chapter.
+38 23. Tangible personal property sold to a person engaged in the
+39 business of leasing or renting such property under the personal property
+40 rental classification if such property is to be leased or rented by such
+41 person.
+42 24. Tangible personal property sold in interstate or foreign
+43 commerce if prohibited from being so taxed by the constitution of the
+44 United States or the constitution of this state.
+45 25. Tangible personal property sold to:
+46 (a) A qualifying hospital as defined in section 42-5001.
+-3-
+
+House Amendments to S.B. 1430
+1 (b) A qualifying health care organization as defined in section
+2 42-5001 if the tangible personal property is used by the organization
+3 solely to provide health and medical related educational and charitable
+4 services.
+5 (c) A qualifying health care organization as defined in section
+6 42-5001 if the organization is dedicated to providing educational,
+7 therapeutic, rehabilitative and family medical education training for
+8 blind and visually impaired children and children with multiple
+9 disabilities from the time of birth to age twenty-one.
+10 (d) A qualifying community health center as defined in section
+11 42-5001.
+12 (e) A nonprofit charitable organization that has qualified under
+13 section 501(c)(3) of the internal revenue code and that regularly serves
+14 meals to the needy and indigent on a continuing basis at no cost.
+15 (f) For taxable periods beginning from and after June 30, 2001, a
+16 nonprofit charitable organization that has qualified under section
+17 501(c)(3) of the internal revenue code and that provides residential
+18 apartment housing for low-income persons over sixty-two years of age in a
+19 facility that qualifies for a federal housing subsidy, if the tangible
+20 personal property is used by the organization solely to provide
+21 residential apartment housing for low-income persons over sixty-two years
+22 of age in a facility that qualifies for a federal housing subsidy.
+23 (g) A qualifying health sciences educational institution as defined
+24 in section 42-5001.
+25 (h) Any person representing or working on behalf of another person
+26 described in subdivisions (a) through (g) of this paragraph if the
+27 tangible personal property is incorporated or fabricated into a project
+28 described in section 42-5075, subsection P.
+29 26. Magazines or other periodicals or other publications by this
+30 state to encourage tourist travel.
+31 27. Tangible personal property sold to:
+32 (a) A person that is subject to tax under this article by reason of
+33 being engaged in business classified under section 42-5075 or to a
+34 subcontractor working under the control of a person engaged in business
+35 classified under section 42-5075, if the property so sold is any of the
+36 following:
+37 (i) Incorporated or fabricated by the person into any real
+38 property, structure, project, development or improvement as part of the
+39 business.
+40 (ii) Incorporated or fabricated by the person into any project
+41 described in section 42-5075, subsection P.
+42 (iii) Used in environmental response or remediation activities
+43 under section 42-5075, subsection B, paragraph 6.
+44 (b) A person that is not subject to tax under section 42-5075 and
+45 that has been provided a copy of a certificate under section 42-5009,
+46 subsection L, if the property so sold is incorporated or fabricated by the
+-4-
+
+House Amendments to S.B. 1430
+1 person into the real property, structure, project, development or
+2 improvement described in the certificate.
+3 28. The sale of a motor vehicle to a nonresident of this state if
+4 the purchaser's state of residence does not allow a corresponding use tax
+5 exemption to the tax imposed by article 1 of this chapter and if the
+6 nonresident has secured a special ninety day nonresident registration
+7 permit for the vehicle as prescribed by sections 28-2154 and 28-2154.01.
+8 29. Tangible personal property purchased in this state by a
+9 nonprofit charitable organization that has qualified under section
+10 501(c)(3) of the United States internal revenue code and that engages in
+11 and uses such property exclusively in programs for persons with mental or
+12 physical disabilities if the programs are exclusively for training, job
+13 placement, rehabilitation or testing.
+14 30. Sales of tangible personal property by a nonprofit organization
+15 that is exempt from taxation under section 501(c)(3), 501(c)(4) or
+16 501(c)(6) of the internal revenue code if the organization is associated
+17 with a major league baseball team or a national touring professional
+18 golfing association and no part of the organization's net earnings inures
+19 to the benefit of any private shareholder or individual. This paragraph
+20 does not apply to an organization that is owned, managed or controlled, in
+21 whole or in part, by a major league baseball team, or its owners,
+22 officers, employees or agents, or by a major league baseball association
+23 or professional golfing association, or its owners, officers, employees or
+24 agents, unless the organization conducted or operated exhibition events in
+25 this state before January 1, 2018 that were exempt from taxation under
+26 section 42-5073.
+27 31. Sales of commodities, as defined by title 7 United States Code
+28 section 2, that are consigned for resale in a warehouse in this state in
+29 or from which the commodity is deliverable on a contract for future
+30 delivery subject to the rules of a commodity market regulated by the
+31 United States commodity futures trading commission.
+32 32. Sales of tangible personal property by a nonprofit organization
+33 that is exempt from taxation under section 501(c)(3), 501(c)(4),
+34 501(c)(6), 501(c)(7) or 501(c)(8) of the internal revenue code if the
+35 organization sponsors or operates a rodeo featuring primarily farm and
+36 ranch animals and no part of the organization's net earnings inures to the
+37 benefit of any private shareholder or individual.
+38 33. Sales of propagative materials to persons who use those items
+39 to commercially produce agricultural, horticultural, viticultural or
+40 floricultural crops in this state. For the purposes of this paragraph,
+41 "propagative materials":
+42 (a) Includes seeds, seedlings, roots, bulbs, liners, transplants,
+43 cuttings, soil and plant additives, agricultural minerals, auxiliary soil
+44 and plant substances, micronutrients, fertilizers, insecticides,
+45 herbicides, fungicides, soil fumigants, desiccants, rodenticides,
+46 adjuvants, plant nutrients and plant growth regulators.
+-5-
+
+House Amendments to S.B. 1430
+1 (b) Except for use in commercially producing industrial hemp as
+2 defined in section 3-311, does not include any propagative materials used
+3 in producing any part, including seeds, of any plant of the genus
+4 cannabis.
+5 34. Machinery, equipment, technology or related supplies that are
+6 only useful to assist a person with a physical disability as defined in
+7 section 46-191 or a person who has a developmental disability as defined
+8 in section 36-551 or has a head injury as defined in section 41-3201 to be
+9 more independent and functional.
+10 35. Sales of natural gas or liquefied petroleum gas used to propel
+11 a motor vehicle.
+12 36. Paper machine clothing, such as forming fabrics and dryer
+13 felts, sold to a paper manufacturer and directly used or consumed in paper
+14 manufacturing.
+15 37. Coal, petroleum, coke, natural gas, virgin fuel oil and
+16 electricity sold to a qualified environmental technology manufacturer,
+17 producer or processor as defined in section 41-1514.02 and directly used
+18 or consumed in generating or providing on-site power or energy solely for
+19 environmental technology manufacturing, producing or processing or
+20 environmental protection. This paragraph applies for twenty full
+21 consecutive calendar or fiscal years from the date the first paper
+22 manufacturing machine is placed in service. In the case of an
+23 environmental technology manufacturer, producer or processor that does not
+24 manufacture paper, the time period begins with the date the first
+25 manufacturing, processing or production equipment is placed in service.
+26 38. Sales of liquid, solid or gaseous chemicals used in
+27 manufacturing, processing, fabricating, mining, refining, metallurgical
+28 operations, research and development and, beginning on January 1, 1999,
+29 printing, if using or consuming the chemicals, alone or as part of an
+30 integrated system of chemicals, involves direct contact with the materials
+31 from which the product is produced for the purpose of causing or allowing
+32 a chemical or physical change to occur in the materials as part of the
+33 production process. This paragraph does not include chemicals that are
+34 used or consumed in activities such as packaging, storage or
+35 transportation but does not affect any deduction for such chemicals that
+36 is otherwise provided by this section. For the purposes of this
+37 paragraph, "printing" means a commercial printing operation and includes
+38 job printing, engraving, embossing, copying and bookbinding.
+39 39. Through December 31, 1994, personal property liquidation
+40 transactions, conducted by a personal property liquidator. From and after
+41 December 31, 1994, personal property liquidation transactions shall be
+42 taxable under this section provided that nothing in this subsection shall
+43 be construed to authorize the taxation of casual activities or
+44 transactions under this chapter. For the purposes of this paragraph:
+45 (a) "Personal property liquidation transaction" means a sale of
+46 personal property made by a personal property liquidator acting solely on
+47 behalf of the owner of the personal property sold at the dwelling of the
+-6-
+
+House Amendments to S.B. 1430
+1 owner or on the death of any owner, on behalf of the surviving spouse, if
+2 any, any devisee or heir or the personal representative of the estate of
+3 the deceased, if one has been appointed.
+4 (b) "Personal property liquidator" means a person who is retained
+5 to conduct a sale in a personal property liquidation transaction.
+6 40. Sales of food, drink and condiment for consumption within the
+7 premises of any prison, jail or other institution under the jurisdiction
+8 of the state department of corrections, the department of public safety,
+9 the department of juvenile corrections or a county sheriff.
+10 41. A motor vehicle and any repair and replacement parts and
+11 tangible personal property becoming a part of such motor vehicle sold to a
+12 motor carrier that is subject to a fee prescribed in title 28, chapter 16,
+13 article 4 and that is engaged in the business of leasing or renting such
+14 property.
+15 42. Sales of:
+16 (a) Livestock and poultry to persons engaging in the businesses of
+17 farming, ranching or producing livestock or poultry.
+18 (b) Livestock and poultry feed, salts, vitamins and other additives
+19 for livestock or poultry consumption that are sold to persons for use or
+20 consumption by their own livestock or poultry, for use or consumption in
+21 the businesses of farming, ranching and producing or feeding livestock,
+22 poultry, or livestock or poultry products or for use or consumption in
+23 noncommercial boarding of livestock. For the purposes of this paragraph,
+24 "poultry" includes ratites.
+25 43. Sales of implants used as growth promotants and injectable
+26 medicines, not already exempt under paragraph 8 of this subsection, for
+27 livestock or poultry owned by or in possession of persons that are engaged
+28 in producing livestock, poultry, or livestock or poultry products or that
+29 are engaged in feeding livestock or poultry commercially. For the
+30 purposes of this paragraph, "poultry" includes ratites.
+31 44. Sales of motor vehicles at auction to nonresidents of this
+32 state for use outside this state if the vehicles are shipped or delivered
+33 out of this state, regardless of where title to the motor vehicles passes
+34 or its free on board point.
+35 45. Tangible personal property sold to a person engaged in business
+36 and subject to tax under the transient lodging classification if the
+37 tangible personal property is a personal hygiene item or articles used by
+38 human beings for food, drink or condiment, except alcoholic beverages,
+39 that are furnished without additional charge to and intended to be
+40 consumed by the transient during the transient's occupancy.
+41 46. Sales of alternative fuel, as defined in section 1-215, to a
+42 used oil fuel burner who has received a permit to burn used oil or used
+43 oil fuel under section 49-426 or 49-480.
+44 47. Sales of materials that are purchased by or for publicly funded
+45 libraries, including school district libraries, charter school libraries,
+46 community college libraries, state university libraries or federal, state,
+47 county or municipal libraries, for use by the public as follows:
+-7-
+
+House Amendments to S.B. 1430
+1 (a) Printed or photographic materials, beginning August 7, 1985.
+2 (b) Electronic or digital media materials, beginning July 17, 1994.
+3 48. Tangible personal property sold to a commercial airline and
+4 consisting of food, beverages and condiments and accessories used for
+5 serving the food and beverages, if those items are to be provided without
+6 additional charge to passengers for consumption in flight. For the
+7 purposes of this paragraph, "commercial airline" means a person holding a
+8 federal certificate of public convenience and necessity or foreign air
+9 carrier permit for air transportation to transport persons, property or
+10 United States mail in intrastate, interstate or foreign commerce.
+11 49. Sales of alternative fuel vehicles if the vehicle was
+12 manufactured as a diesel fuel vehicle and converted to operate on
+13 alternative fuel and equipment that is installed in a conventional diesel
+14 fuel motor vehicle to convert the vehicle to operate on an alternative
+15 fuel, as defined in section 1-215.
+16 50. Sales of any spirituous, vinous or malt liquor by a person that
+17 is licensed in this state as a wholesaler by the department of liquor
+18 licenses and control pursuant to title 4, chapter 2, article 1.
+19 51. Sales of tangible personal property to be incorporated or
+20 installed as part of environmental response or remediation activities
+21 under section 42-5075, subsection B, paragraph 6.
+22 52. Sales of tangible personal property by a nonprofit organization
+23 that is exempt from taxation under section 501(c)(6) of the internal
+24 revenue code if the organization produces, organizes or promotes cultural
+25 or civic related festivals or events and no part of the organization's net
+26 earnings inures to the benefit of any private shareholder or individual.
+27 53. Application services that are designed to assess or test
+28 student learning or to promote curriculum design or enhancement purchased
+29 by or for any school district, charter school, community college or state
+30 university. For the purposes of this paragraph:
+31 (a) "Application services" means software applications provided
+32 remotely using hypertext transfer protocol or another network protocol.
+33 (b) "Curriculum design or enhancement" means planning, implementing
+34 or reporting on courses of study, lessons, assignments or other learning
+35 activities.
+36 54. Sales of motor vehicle fuel and use fuel to a qualified
+37 business under section 41-1516 for off-road use in harvesting, processing
+38 or transporting qualifying forest products removed from qualifying
+39 projects as defined in section 41-1516.
+40 55. Sales of repair parts installed in equipment used directly by a
+41 qualified business under section 41-1516 in harvesting, processing or
+42 transporting qualifying forest products removed from qualifying projects
+43 as defined in section 41-1516.
+44 56. Sales or other transfers of renewable energy credits or any
+45 other unit created to track energy derived from renewable energy
+46 resources. For the purposes of this paragraph, "renewable energy credit"
+47 means a unit created administratively by the corporation commission or
+-8-
+
+House Amendments to S.B. 1430
+1 governing body of a public power utility to track kilowatt hours of
+2 electricity derived from a renewable energy resource or the kilowatt hour
+3 equivalent of conventional energy resources displaced by distributed
+4 renewable energy resources.
+5 57. Orthodontic devices dispensed by a dental professional who is
+6 licensed under title 32, chapter 11 to a patient as part of the practice
+7 of dentistry.
+8 58. Sales of tangible personal property incorporated or fabricated
+9 into a project described in section 42-5075, subsection P, that is located
+10 within the exterior boundaries of an Indian reservation for which the
+11 owner, as defined in section 42-5075, of the project is an Indian tribe or
+12 an affiliated Indian. For the purposes of this paragraph:
+13 (a) "Affiliated Indian" means an individual Native American Indian
+14 who is duly registered on the tribal rolls of the Indian tribe for whose
+15 benefit the Indian reservation was established.
+16 (b) "Indian reservation" means all lands that are within the limits
+17 of areas set aside by the United States for the exclusive use and
+18 occupancy of an Indian tribe by treaty, law or executive order and that
+19 are recognized as Indian reservations by the United States department of
+20 the interior.
+21 (c) "Indian tribe" means any organized nation, tribe, band or
+22 community that is recognized as an Indian tribe by the United States
+23 department of the interior and includes any entity formed under the laws
+24 of the Indian tribe.
+25 59. Sales of works of fine art, as defined in section 44-1771, at
+26 an art auction or gallery in this state to nonresidents of this state for
+27 use outside this state if the vendor ships or delivers the work of fine
+28 art to a destination outside this state.
+29 60. Sales of tangible personal property by a marketplace seller
+30 that are facilitated by a marketplace facilitator in which the marketplace
+31 facilitator has remitted or will remit the applicable tax to the
+32 department pursuant to section 42-5014.
+33 B. In addition to the deductions from the tax base prescribed by
+34 subsection A of this section, the gross proceeds of sales or gross income
+35 derived from sales of the following categories of tangible personal
+36 property shall be deducted from the tax base:
+37 1. Machinery, or equipment, used directly in manufacturing,
+38 processing, fabricating, job printing, refining or metallurgical
+39 operations. The terms "manufacturing", "processing", "fabricating", "job
+40 printing", "refining" and "metallurgical" as used in this paragraph refer
+41 to and include those operations commonly understood within their ordinary
+42 meaning. "Metallurgical operations" includes leaching, milling,
+43 precipitating, smelting and refining.
+44 2. Mining machinery, or equipment, used directly in the process of
+45 extracting ores or minerals from the earth for commercial purposes,
+46 including equipment required to prepare the materials for extraction and
+47 handling, loading or transporting such extracted material to the surface.
+-9-
+
+House Amendments to S.B. 1430
+1 "Mining" includes underground, surface and open pit operations for
+2 extracting ores and minerals.
+3 3. Tangible personal property sold to persons engaged in business
+4 classified under the telecommunications classification, including a person
+5 representing or working on behalf of such a person in a manner described
+6 in section 42-5075, subsection P, and consisting of central office
+7 switching equipment, switchboards, private branch exchange equipment,
+8 microwave radio equipment and carrier equipment including optical fiber,
+9 coaxial cable and other transmission media that are components of carrier
+10 systems.
+11 4. Machinery, equipment or transmission lines used directly in
+12 producing or transmitting electrical power, but not including
+13 distribution. Transformers and control equipment used at transmission
+14 substation sites constitute equipment used in producing or transmitting
+15 electrical power.
+16 5. Machinery and equipment used directly for energy storage for
+17 later electrical use. For the purposes of this paragraph:
+18 (a) "Electric utility scale" means a person that is engaged in a
+19 business activity described in section 42-5063, subsection A or such
+20 person's equipment or wholesale electricity suppliers.
+21 (b) "Energy storage" means commercially available technology for
+22 electric utility scale that is capable of absorbing energy, storing energy
+23 for a period of time and thereafter dispatching the energy and that uses
+24 mechanical, chemical or thermal processes to store energy.
+25 (c) "Machinery and equipment used directly" means all machinery and
+26 equipment that are used for electric energy storage from the point of
+27 receipt of such energy in order to facilitate storage of the electric
+28 energy to the point where the electric energy is released.
+29 6. Neat animals, horses, asses, sheep, ratites, swine or goats used
+30 or to be used as breeding or production stock, including sales of
+31 breedings or ownership shares in such animals used for breeding or
+32 production.
+33 7. Pipes or valves four inches in diameter or larger used to
+34 transport oil, natural gas, artificial gas, water, wastewater or coal
+35 slurry, including compressor units, regulators, machinery and equipment,
+36 fittings, seals and any other part that is used in operating the pipes or
+37 valves.
+38 8. Aircraft, navigational and communication instruments and other
+39 accessories and related equipment sold to:
+40 (a) A person:
+41 (i) Holding, or exempted by federal law from obtaining, a federal
+42 certificate of public convenience and necessity for use as, in conjunction
+43 with or becoming part of an aircraft to be used to transport persons for
+44 hire in intrastate, interstate or foreign commerce.
+45 (ii) That is certificated or licensed under federal aviation
+46 administration regulations (14 Code of Federal Regulations part 121 or
+47 135) as a scheduled or unscheduled carrier of persons for hire for use as
+-10-
+
+House Amendments to S.B. 1430
+1 or in conjunction with or becoming part of an aircraft to be used to
+2 transport persons for hire in intrastate, interstate or foreign commerce.
+3 (iii) Holding a foreign air carrier permit for air transportation
+4 for use as or in conjunction with or becoming a part of aircraft to be
+5 used to transport persons, property or United States mail in intrastate,
+6 interstate or foreign commerce.
+7 (iv) Operating an aircraft to transport persons in any manner for
+8 compensation or hire, or for use in a fractional ownership program that
+9 meets the requirements of federal aviation administration regulations
+10 (14 Code of Federal Regulations part 91, subpart K), including as an air
+11 carrier, a foreign air carrier or a commercial operator or under a
+12 restricted category, within the meaning of 14 Code of Federal Regulations,
+13 regardless of whether the operation or aircraft is regulated or certified
+14 under part 91, 119, 121, 133, 135, 136 or 137, or another part of 14 Code
+15 of Federal Regulations.
+16 (v) That will lease or otherwise transfer operational control,
+17 within the meaning of federal aviation administration operations
+18 specification A008, or its successor, of the aircraft, instruments or
+19 accessories to one or more persons described in item (i), (ii), (iii) or
+20 (iv) of this subdivision, subject to section 42-5009, subsection Q.
+21 (b) Any foreign government.
+22 (c) Persons who are not residents of this state and who will not
+23 use such property in this state other than in removing such property from
+24 this state. This subdivision also applies to corporations that are not
+25 incorporated in this state, regardless of maintaining a place of business
+26 in this state, if the principal corporate office is located outside this
+27 state and the property will not be used in this state other than in
+28 removing the property from this state.
+29 9. Machinery, tools, equipment and related supplies used or
+30 consumed directly in repairing, remodeling or maintaining aircraft,
+31 aircraft engines or aircraft component parts by or on behalf of a
+32 certificated or licensed carrier of persons or property.
+33 10. Railroad rolling stock, rails, ties and signal control
+34 equipment used directly to transport persons or property.
+35 11. Machinery or equipment used directly to drill for oil or gas or
+36 used directly in the process of extracting oil or gas from the earth for
+37 commercial purposes.
+38 12. Buses or other urban mass transit vehicles that are used
+39 directly to transport persons or property for hire or pursuant to a
+40 governmentally adopted and controlled urban mass transportation program
+41 and that are sold to bus companies holding a federal certificate of
+42 convenience and necessity or operated by any city, town or other
+43 governmental entity or by any person contracting with such governmental
+44 entity as part of a governmentally adopted and controlled program to
+45 provide urban mass transportation.
+46 13. Groundwater measuring devices required under section 45-604.
+-11-
+
+House Amendments to S.B. 1430
+1 14. Machinery and equipment consisting of agricultural aircraft,
+2 tractors, off-highway vehicles, tractor-drawn implements, self-powered
+3 implements, machinery and equipment necessary for extracting milk, and
+4 machinery and equipment necessary for cooling milk and livestock, and drip
+5 irrigation lines not already exempt under paragraph 7 of this subsection
+6 and that are used for commercial production of agricultural,
+7 horticultural, viticultural and floricultural crops and products in this
+8 state. For the purposes of this paragraph:
+9 (a) "Off-highway vehicles" means off-highway vehicles as defined in
+10 section 28-1171 that are modified at the time of sale to function as a
+11 tractor or to tow tractor-drawn implements and that are not equipped with
+12 a modified exhaust system to increase horsepower or speed or an engine
+13 that is more than one thousand cubic centimeters or that have a maximum
+14 speed of fifty miles per hour or less.
+15 (b) "Self-powered implements" includes machinery and equipment that
+16 are electric-powered.
+17 15. Machinery or equipment used in research and development. For
+18 the purposes of this paragraph, "research and development" means basic and
+19 applied research in the sciences and engineering, and designing,
+20 developing or testing prototypes, processes or new products, including
+21 research and development of computer software that is embedded in or an
+22 integral part of the prototype or new product or that is required for
+23 machinery or equipment otherwise exempt under this section to function
+24 effectively. Research and development do not include manufacturing
+25 quality control, routine consumer product testing, market research, sales
+26 promotion, sales service, research in social sciences or psychology,
+27 computer software research that is not included in the definition of
+28 research and development, or other nontechnological activities or
+29 technical services.
+30 16. Tangible personal property that is used by either of the
+31 following to receive, store, convert, produce, generate, decode, encode,
+32 control or transmit telecommunications information:
+33 (a) Any direct broadcast satellite television or data transmission
+34 service that operates pursuant to 47 Code of Federal Regulations part 25.
+35 (b) Any satellite television or data transmission facility, if both
+36 of the following conditions are met:
+37 (i) Over two-thirds of the transmissions, measured in megabytes,
+38 transmitted by the facility during the test period were transmitted to or
+39 on behalf of one or more direct broadcast satellite television or data
+40 transmission services that operate pursuant to 47 Code of Federal
+41 Regulations part 25.
+42 (ii) Over two-thirds of the transmissions, measured in megabytes,
+43 transmitted by or on behalf of those direct broadcast television or data
+44 transmission services during the test period were transmitted by the
+45 facility to or on behalf of those services. For the purposes of
+46 subdivision (b) of this paragraph, "test period" means the three hundred
+47 sixty-five day period beginning on the later of the date on which the
+-12-
+
+House Amendments to S.B. 1430
+1 tangible personal property is purchased or the date on which the direct
+2 broadcast satellite television or data transmission service first
+3 transmits information to its customers.
+4 17. Clean rooms that are used for manufacturing, processing,
+5 fabrication or research and development, as defined in paragraph 15 of
+6 this subsection, of semiconductor products. For the purposes of this
+7 paragraph, "clean room" means all property that comprises or creates an
+8 environment where humidity, temperature, particulate matter and
+9 contamination are precisely controlled within specified parameters,
+10 without regard to whether the property is actually contained within that
+11 environment or whether any of the property is affixed to or incorporated
+12 into real property. Clean room:
+13 (a) Includes the integrated systems, fixtures, piping, movable
+14 partitions, lighting and all property that is necessary or adapted to
+15 reduce contamination or to control airflow, temperature, humidity,
+16 chemical purity or other environmental conditions or manufacturing
+17 tolerances, as well as the production machinery and equipment operating in
+18 conjunction with the clean room environment.
+19 (b) Does not include the building or other permanent, nonremovable
+20 component of the building that houses the clean room environment.
+21 18. Machinery and equipment used directly in feeding poultry,
+22 environmentally controlling housing for poultry, moving eggs within a
+23 production and packaging facility or sorting or cooling eggs. This
+24 exemption does not apply to vehicles used for transporting eggs.
+25 19. Machinery or equipment, including related structural components
+26 and containment structures, that is employed in connection with
+27 manufacturing, processing, fabricating, job printing, refining, mining,
+28 natural gas pipelines, metallurgical operations, telecommunications,
+29 producing or transmitting electricity or research and development and that
+30 is used directly to meet or exceed rules or regulations adopted by the
+31 federal energy regulatory commission, the United States environmental
+32 protection agency, the United States nuclear regulatory commission, the
+33 Arizona department of environmental quality or a political subdivision of
+34 this state to prevent, monitor, control or reduce land, water or air
+35 pollution. For the purposes of this paragraph, "containment structure"
+36 means a structure that prevents, monitors, controls or reduces noxious or
+37 harmful discharge into the environment.
+38 20. Machinery and equipment that are sold to a person engaged in
+39 commercially producing livestock, livestock products or agricultural,
+40 horticultural, viticultural or floricultural crops or products in this
+41 state, including a person representing or working on behalf of such a
+42 person in a manner described in section 42-5075, subsection P, if the
+43 machinery and equipment are used directly and primarily to prevent,
+44 monitor, control or reduce air, water or land pollution.
+45 21. Machinery or equipment that enables a television station to
+46 originate and broadcast or to receive and broadcast digital television
+47 signals and that was purchased to facilitate compliance with the
+-13-
+
+House Amendments to S.B. 1430
+1 telecommunications act of 1996 (P.L. 104-104; 110 Stat. 56; 47 United
+2 States Code section 336) and the federal communications commission order
+3 issued April 21, 1997 (47 Code of Federal Regulations part 73). This
+4 paragraph does not exempt any of the following:
+5 (a) Repair or replacement parts purchased for the machinery or
+6 equipment described in this paragraph.
+7 (b) Machinery or equipment purchased to replace machinery or
+8 equipment for which an exemption was previously claimed and taken under
+9 this paragraph.
+10 (c) Any machinery or equipment purchased after the television
+11 station has ceased analog broadcasting, or purchased after November 1,
+12 2009, whichever occurs first.
+13 22. Qualifying equipment that is purchased from and after June 30,
+14 2004 through December 31, 2028 by a qualified business under section
+15 41-1516 for harvesting or processing qualifying forest products removed
+16 from qualifying projects as defined in section 41-1516. To qualify for
+17 this deduction, the qualified business at the time of purchase must
+18 present its certification approved by the department.
+19 23. Computer data center equipment sold to the owner, operator or
+20 qualified colocation tenant of a computer data center that is certified by
+21 the Arizona commerce authority under section 41-1519 or an authorized
+22 agent of the owner, operator or qualified colocation tenant during the
+23 qualification period for use in the qualified computer data center. For
+24 the purposes of this paragraph, "computer data center", "computer data
+25 center equipment", "qualification period" and "qualified colocation
+26 tenant" have the same meanings prescribed in section 41-1519.
+27 C. The deductions provided by subsection B of this section do not
+28 include sales of:
+29 1. Expendable materials. For the purposes of this paragraph,
+30 expendable materials do not include any of the categories of tangible
+31 personal property specified in subsection B of this section regardless of
+32 the cost or useful life of that property.
+33 2. Janitorial equipment and hand tools.
+34 3. Office equipment, furniture and supplies.
+35 4. Tangible personal property used in selling or distributing
+36 activities, other than the telecommunications transmissions described in
+37 subsection B, paragraph 16 of this section.
+38 5. Motor vehicles required to be licensed by this state, except
+39 buses or other urban mass transit vehicles specifically exempted pursuant
+40 to subsection B, paragraph 12 of this section, without regard to the use
+41 of such motor vehicles.
+42 6. Shops, buildings, docks, depots and all other materials of
+43 whatever kind or character not specifically included as exempt.
+44 7. Motors and pumps used in drip irrigation systems.
+45 8. Machinery and equipment or other tangible personal property used
+46 by a contractor in performing a contract.
+-14-
+
+House Amendments to S.B. 1430
+1 D. In addition to the deductions from the tax base prescribed by
+2 subsection A of this section, there shall be deducted from the tax base
+3 the gross proceeds of sales or gross income derived from sales of
+4 machinery, equipment, materials and other tangible personal property used
+5 directly and predominantly to construct a qualified environmental
+6 technology manufacturing, producing or processing facility as described in
+7 section 41-1514.02. This subsection applies for ten full consecutive
+8 calendar or fiscal years after the start of initial construction.
+9 E. In computing the tax base, gross proceeds of sales or gross
+10 income from retail sales of heavy trucks and trailers does not include any
+11 amount attributable to federal excise taxes imposed by 26 United States
+12 Code section 4051.
+13 F. If a person is engaged in an occupation or business to which
+14 subsection A of this section applies, the person's books shall be kept so
+15 as to show separately the gross proceeds of sales of tangible personal
+16 property and the gross income from sales of services, and if not so kept
+17 the tax shall be imposed on the total of the person's gross proceeds of
+18 sales of tangible personal property and gross income from services.
+19 G. If a person is engaged in the business of selling tangible
+20 personal property at both wholesale and retail, the tax under this section
+21 applies only to the gross proceeds of the sales made other than at
+22 wholesale if the person's books are kept so as to show separately the
+23 gross proceeds of sales of each class, and if the books are not so kept,
+24 the tax under this section applies to the gross proceeds of every sale so
+25 made.
+26 H. A person who engages in manufacturing, baling, crating, boxing,
+27 barreling, canning, bottling, sacking, preserving, processing or otherwise
+28 preparing for sale or commercial use any livestock, agricultural or
+29 horticultural product or any other product, article, substance or
+30 commodity and who sells the product of such business at retail in this
+31 state is deemed, as to such sales, to be engaged in business classified
+32 under the retail classification. This subsection does not apply to:
+33 1. Agricultural producers who are owners, proprietors or tenants of
+34 agricultural lands, orchards, farms or gardens where agricultural products
+35 are grown, raised or prepared for market and who are marketing their own
+36 agricultural products.
+37 2. Businesses classified under the:
+38 (a) Transporting classification.
+39 (b) Utilities classification.
+40 (c) Telecommunications classification.
+41 (d) Pipeline classification.
+42 (e) Private car line classification.
+43 (f) Publication classification.
+44 (g) Job printing classification.
+45 (h) Prime contracting classification.
+46 (i) Restaurant classification.
+-15-
+
+House Amendments to S.B. 1430
+1 I. The gross proceeds of sales or gross income derived from the
+2 following shall be deducted from the tax base for the retail
+3 classification:
+4 1. Sales made directly to the United States government or its
+5 departments or agencies by a manufacturer, modifier, assembler or
+6 repairer.
+7 2. Sales made directly to a manufacturer, modifier, assembler or
+8 repairer if such sales are of any ingredient or component part of products
+9 sold directly to the United States government or its departments or
+10 agencies by the manufacturer, modifier, assembler or repairer.
+11 3. Overhead materials or other tangible personal property that is
+12 used in performing a contract between the United States government and a
+13 manufacturer, modifier, assembler or repairer, including property used in
+14 performing a subcontract with a government contractor who is a
+15 manufacturer, modifier, assembler or repairer, to which title passes to
+16 the government under the terms of the contract or subcontract.
+17 4. Sales of overhead materials or other tangible personal property
+18 to a manufacturer, modifier, assembler or repairer if the gross proceeds
+19 of sales or gross income derived from the property by the manufacturer,
+20 modifier, assembler or repairer will be exempt under paragraph 3 of this
+21 subsection.
+22 J. There shall be deducted from the tax base fifty percent of the
+23 gross proceeds or gross income from any sale of tangible personal property
+24 made directly to the United States government or its departments or
+25 agencies that is not deducted under subsection I of this section.
+26 K. The department shall require every person claiming a deduction
+27 provided by subsection I or J of this section to file on forms prescribed
+28 by the department at such times as the department directs a sworn
+29 statement disclosing the name of the purchaser and the exact amount of
+30 sales on which the exclusion or deduction is claimed.
+31 L. In computing the tax base, gross proceeds of sales or gross
+32 income does not include:
+33 1. A manufacturer's cash rebate on the sales price of a motor
+34 vehicle if the buyer assigns the buyer's right in the rebate to the
+35 retailer.
+36 2. The waste tire disposal fee imposed pursuant to section 44-1302.
+37 M. There shall be deducted from the tax base the amount received
+38 from sales of solar energy devices. The retailer shall register with the
+39 department as a solar energy retailer. By registering, the retailer
+40 acknowledges that it will make its books and records relating to sales of
+41 solar energy devices available to the department for examination.
+42 N. In computing the tax base in the case of the sale or transfer of
+43 wireless telecommunications equipment as an inducement to a customer to
+44 enter into or continue a contract for telecommunications services that are
+45 taxable under section 42-5064, gross proceeds of sales or gross income
+46 does not include any sales commissions or other compensation received by
+-16-
+
+House Amendments to S.B. 1430
+1 the retailer as a result of the customer entering into or continuing a
+2 contract for the telecommunications services.
+3 O. For the purposes of this section, a sale of wireless
+4 telecommunications equipment to a person who holds the equipment for sale
+5 or transfer to a customer as an inducement to enter into or continue a
+6 contract for telecommunications services that are taxable under section
+7 42-5064 is considered to be a sale for resale in the regular course of
+8 business.
+9 P. Retail sales of prepaid calling cards or prepaid authorization
+10 numbers for telecommunications services, including sales of
+11 reauthorization of a prepaid card or authorization number, are subject to
+12 tax under this section.
+13 Q. For the purposes of this section, the diversion of gas from a
+14 pipeline by a person engaged in the business of:
+15 1. Operating a natural or artificial gas pipeline, for the sole
+16 purpose of fueling compressor equipment to pressurize the pipeline, is not
+17 a sale of the gas to the operator of the pipeline.
+18 2. Converting natural gas into liquefied natural gas, for the sole
+19 purpose of fueling compressor equipment used in the conversion process, is
+20 not a sale of gas to the operator of the compressor equipment.
+21 R. For the purposes of this section, the transfer of title or
+22 possession of coal from an owner or operator of a power plant to a person
+23 in the business of refining coal is not a sale of coal if both of the
+24 following apply:
+25 1. The transfer of title or possession of the coal is for the
+26 purpose of refining the coal.
+27 2. The title or possession of the coal is transferred back to the
+28 owner or operator of the power plant after completion of the coal refining
+29 process. For the purposes of this paragraph, "coal refining process"
+30 means the application of a coal additive system that aids in the reduction
+31 of power plant emissions during the combustion of coal and the treatment
+32 of flue gas.
+33 S. If a seller is entitled to a deduction pursuant to subsection B,
+34 paragraph 16, subdivision (b) of this section, the department may require
+35 the purchaser to establish that the requirements of subsection B,
+36 paragraph 16, subdivision (b) of this section have been satisfied. If the
+37 purchaser cannot establish that the requirements of subsection B,
+38 paragraph 16, subdivision (b) of this section have been satisfied, the
+39 purchaser is liable in an amount equal to any tax, penalty and interest
+40 that the seller would have been required to pay under article 1 of this
+41 chapter if the seller had not made a deduction pursuant to subsection B,
+42 paragraph 16, subdivision (b) of this section. Payment of the amount
+43 under this subsection exempts the purchaser from liability for any tax
+44 imposed under article 4 of this chapter and related to the tangible
+45 personal property purchased. The amount shall be treated as transaction
+46 privilege tax to the purchaser and as tax revenues collected from the
+47 seller to designate the distribution base pursuant to section 42-5029.
+-17-
+
+House Amendments to S.B. 1430
+1 T. For the purposes of section 42-5032.01, the department shall
+2 separately account for revenues collected under the retail classification
+3 from businesses selling tangible personal property at retail:
+4 1. On the premises of a multipurpose facility that is owned, leased
+5 or operated by the tourism and sports authority pursuant to title 5,
+6 chapter 8.
+7 2. At professional football contests that are held in a stadium
+8 located on the campus of an institution under the jurisdiction of the
+9 Arizona board of regents.
+10 U. For the purposes of section 42-5032.03 and subject to section
+11 48-4238, beginning October 1, 2025 and each month thereafter through
+12 December 31, 2055, the department shall separately account for revenues
+13 collected under the retail classification from each business selling
+14 tangible personal property at retail on the premises of a major league
+15 baseball facility or an adjacent building that is owned by a county
+16 stadium district pursuant to title 48, chapter 26 and operated by the
+17 county stadium district or the professional baseball franchise
+18 organization that occupies the major league baseball facility or adjacent
+19 building. For the purposes of this subsection, "adjacent building" and
+20 "major league baseball facility" have the same meanings prescribed in
+21 section 48-4201.
+22 V. In computing the tax base for the sale of a motor vehicle to a
+23 nonresident of this state, if the purchaser's state of residence allows a
+24 corresponding use tax exemption to the tax imposed by article 1 of this
+25 chapter and the rate of the tax in the purchaser's state of residence is
+26 lower than the rate prescribed in article 1 of this chapter or if the
+27 purchaser's state of residence does not impose an excise tax, and the
+28 nonresident has secured a special ninety day nonresident registration
+29 permit for the vehicle as prescribed by sections 28-2154 and 28-2154.01,
+30 there shall be deducted from the tax base a portion of the gross proceeds
+31 or gross income from the sale so that the amount of transaction privilege
+32 tax that is paid in this state is equal to the excise tax that is imposed
+33 by the purchaser's state of residence on the nonexempt sale or use of the
+34 motor vehicle.
+35 W. For the purposes of this section:
+36 1. "Agricultural aircraft" means an aircraft that is built for
+37 agricultural use for the aerial application of pesticides or fertilizer or
+38 for aerial seeding.
+39 2. "Aircraft" includes:
+40 (a) An airplane flight simulator that is approved by the federal
+41 aviation administration for use as a phase II or higher flight simulator
+42 under appendix H, 14 Code of Federal Regulations part 121.
+43 (b) Tangible personal property that is permanently affixed or
+44 attached as a component part of an aircraft that is owned or operated by a
+45 certificated or licensed carrier of persons or property.
+-18-
+
+House Amendments to S.B. 1430
+1 3. "Other accessories and related equipment" includes aircraft
+2 accessories and equipment such as ground service equipment that physically
+3 contact aircraft at some point during the overall carrier operation.
+4 4. "Selling at retail" means a sale for any purpose other than for
+5 resale in the regular course of business in the form of tangible personal
+6 property, but transfer of possession, lease and rental as used in the
+7 definition of sale mean only such transactions as are found on
+8 investigation to be in lieu of sales as defined without the words lease or
+9 rental.
+10 X. For the purposes of subsection I of this section:
+11 1. "Assembler" means a person who unites or combines products,
+12 wares or articles of manufacture so as to produce a change in form or
+13 substance without changing or altering the component parts.
+14 2. "Manufacturer" means a person who is principally engaged in
+15 fabricating, producing or manufacturing products, wares or articles for
+16 use from raw or prepared materials, imparting to those materials new
+17 forms, qualities, properties and combinations.
+18 3. "Modifier" means a person who reworks, changes or adds to
+19 products, wares or articles of manufacture.
+20 4. "Overhead materials" means tangible personal property, the gross
+21 proceeds of sales or gross income derived from that would otherwise be
+22 included in the retail classification, and that are used or consumed in
+23 performing a contract, the cost of which is charged to an overhead expense
+24 account and allocated to various contracts based on generally accepted
+25 accounting principles and consistent with government contract accounting
+26 standards.
+27 5. "Repairer" means a person who restores or renews products, wares
+28 or articles of manufacture.
+29 6. "Subcontract" means an agreement between a contractor and any
+30 person who is not an employee of the contractor for furnishing supplies or
+31 services that, in whole or in part, are necessary to perform one or more
+32 government contracts, or under which any portion of the contractor's
+33 obligation under one or more government contracts is performed, undertaken
+34 or assumed and that includes provisions causing title to overhead
+35 materials or other tangible personal property used in performing the
+36 subcontract to pass to the government or that includes provisions
+37 incorporating such title passing clauses in a government contract into the
+38 subcontract.
+39 Sec. 2. Section 42-5159, Arizona Revised Statutes, as amended by
+40 Laws 2025, chapter 135, section 2 and chapter 247, section 2, is amended
+41 to read:
+42 42-5159. Exemptions
+43 A. The tax levied by this article does not apply to the storage,
+44 use or consumption in this state of the following described tangible
+45 personal property:
+-19-
+
+House Amendments to S.B. 1430
+1 1. Tangible personal property, sold in this state, the gross
+2 receipts from the sale of which are included in the measure of the tax
+3 imposed by articles 1 and 2 of this chapter.
+4 2. Tangible personal property, the sale or use of which has already
+5 been subjected to an excise tax at a rate equal to or exceeding the tax
+6 imposed by this article under the laws of another state of the United
+7 States. If the excise tax imposed by the other state is at a rate less
+8 than the tax imposed by this article, the tax imposed by this article is
+9 reduced by the amount of the tax already imposed by the other state.
+10 3. Tangible personal property, the storage, use or consumption of
+11 which the constitution or laws of the United States prohibit this state
+12 from taxing or to the extent that the rate or imposition of tax is
+13 unconstitutional under the laws of the United States.
+14 4. Tangible personal property that directly enters into and becomes
+15 an ingredient or component part of any manufactured, fabricated or
+16 processed article, substance or commodity for sale in the regular course
+17 of business.
+18 5. Motor vehicle fuel and use fuel, the sales, distribution or use
+19 of which in this state is subject to the tax imposed under title 28,
+20 chapter 16, article 1, use fuel that is sold to or used by a person
+21 holding a valid single trip use fuel tax permit issued under
+22 section 28-5739, aviation fuel, the sales, distribution or use of which in
+23 this state is subject to the tax imposed under section 28-8344, and jet
+24 fuel, the sales, distribution or use of which in this state is subject to
+25 the tax imposed under article 8 of this chapter.
+26 6. Tangible personal property brought into this state by an
+27 individual who was a nonresident at the time the property was purchased
+28 for storage, use or consumption by the individual if the first actual use
+29 or consumption of the property was outside this state, unless the property
+30 is used in conducting a business in this state.
+31 7. Purchases of implants used as growth promotants and injectable
+32 medicines, not already exempt under paragraph 16 of this subsection, for
+33 livestock and poultry owned by, or in possession of, persons who are
+34 engaged in producing livestock, poultry, or livestock or poultry products,
+35 or who are engaged in feeding livestock or poultry commercially. For the
+36 purposes of this paragraph, "poultry" includes ratites.
+37 8. Purchases of:
+38 (a) Livestock and poultry to persons engaging in the businesses of
+39 farming, ranching or producing livestock or poultry.
+40 (b) Livestock and poultry feed, salts, vitamins and other additives
+41 sold to persons for use or consumption in the businesses of farming,
+42 ranching and producing or feeding livestock or poultry or for use or
+43 consumption in noncommercial boarding of livestock. For the purposes of
+44 this paragraph, "poultry" includes ratites.
+45 9. Propagative materials for use in commercially producing
+46 agricultural, horticultural, viticultural or floricultural crops in this
+47 state. For the purposes of this paragraph, "propagative materials":
+-20-
+
+House Amendments to S.B. 1430
+1 (a) Includes seeds, seedlings, roots, bulbs, liners, transplants,
+2 cuttings, soil and plant additives, agricultural minerals, auxiliary soil
+3 and plant substances, micronutrients, fertilizers, insecticides,
+4 herbicides, fungicides, soil fumigants, desiccants, rodenticides,
+5 adjuvants, plant nutrients and plant growth regulators.
+6 (b) Except for use in commercially producing industrial hemp as
+7 defined in section 3-311, does not include any propagative materials used
+8 in producing any part, including seeds, of any plant of the genus
+9 cannabis.
+10 10. Tangible personal property not exceeding $200 in any one month
+11 purchased by an individual at retail outside the continental limits of the
+12 United States for the individual's own personal use and enjoyment.
+13 11. Advertising supplements that are intended for sale with
+14 newspapers published in this state and that have already been subjected to
+15 an excise tax under the laws of another state in the United States that
+16 equals or exceeds the tax imposed by this article.
+17 12. Materials that are purchased by or for publicly funded
+18 libraries, including school district libraries, charter school libraries,
+19 community college libraries, state university libraries or federal, state,
+20 county or municipal libraries, for use by the public as follows:
+21 (a) Printed or photographic materials, beginning August 7, 1985.
+22 (b) Electronic or digital media materials, beginning July 17, 1994.
+23 13. Tangible personal property purchased by:
+24 (a) A hospital organized and operated exclusively for charitable
+25 purposes, no part of the net earnings of which inures to the benefit of
+26 any private shareholder or individual.
+27 (b) A hospital operated by this state or a political subdivision of
+28 this state.
+29 (c) A licensed nursing care institution or a licensed residential
+30 care institution or a residential care facility operated in conjunction
+31 with a licensed nursing care institution or a licensed kidney dialysis
+32 center, which provides medical services, nursing services or health
+33 related services and is not used or held for profit.
+34 (d) A qualifying health care organization, as defined in section
+35 42-5001, if the tangible personal property is used by the organization
+36 solely to provide health and medical related educational and charitable
+37 services.
+38 (e) A qualifying health care organization as defined in section
+39 42-5001 if the organization is dedicated to providing educational,
+40 therapeutic, rehabilitative and family medical education training for
+41 blind and visually impaired children and children with multiple
+42 disabilities from the time of birth to age twenty-one.
+43 (f) A nonprofit charitable organization that has qualified under
+44 section 501(c)(3) of the United States internal revenue code and that
+45 engages in and uses such property exclusively in programs for persons with
+46 mental or physical disabilities if the programs are exclusively for
+47 training, job placement, rehabilitation, or testing.
+-21-
+
+House Amendments to S.B. 1430
+1 (g) A person that is subject to tax under this chapter by reason of
+2 being engaged in business classified under section 42-5075, or a
+3 subcontractor working under the control of a person that is engaged in
+4 business classified under section 42-5075, if the tangible personal
+5 property is any of the following:
+6 (i) Incorporated or fabricated by the person into a structure,
+7 project, development or improvement in fulfillment of a contract.
+8 (ii) Incorporated or fabricated by the person into any project
+9 described in section 42-5075, subsection O P.
+10 (iii) Used in environmental response or remediation activities
+11 under section 42-5075, subsection B, paragraph 6.
+12 (h) A person that is not subject to tax under section 42-5075 and
+13 that has been provided a copy of a certificate described in section
+14 42-5009, subsection L, if the property purchased is incorporated or
+15 fabricated by the person into the real property, structure, project,
+16 development or improvement described in the certificate.
+17 (i) A nonprofit charitable organization that has qualified under
+18 section 501(c)(3) of the internal revenue code if the property is
+19 purchased from the parent or an affiliate organization that is located
+20 outside this state.
+21 (j) A qualifying community health center as defined in section
+22 42-5001.
+23 (k) A nonprofit charitable organization that has qualified under
+24 section 501(c)(3) of the internal revenue code and that regularly serves
+25 meals to the needy and indigent on a continuing basis at no cost.
+26 (l) A person engaged in business under the transient lodging
+27 classification if the property is a personal hygiene item or articles used
+28 by human beings for food, drink or condiment, except alcoholic beverages,
+29 which are furnished without additional charge to and intended to be
+30 consumed by the transient during the transient's occupancy.
+31 (m) For taxable periods beginning from and after June 30, 2001, a
+32 nonprofit charitable organization that has qualified under section
+33 501(c)(3) of the internal revenue code and that provides residential
+34 apartment housing for low-income persons over sixty-two years of age in a
+35 facility that qualifies for a federal housing subsidy, if the tangible
+36 personal property is used by the organization solely to provide
+37 residential apartment housing for low-income persons over sixty-two years
+38 of age in a facility that qualifies for a federal housing subsidy.
+39 (n) A qualifying health sciences educational institution as defined
+40 in section 42-5001.
+41 (o) A person representing or working on behalf of any person
+42 described in subdivision (a), (b), (c), (d), (e), (f), (i), (j), (k), (m)
+43 or (n) of this paragraph, if the tangible personal property is
+44 incorporated or fabricated into a project described in section 42-5075,
+45 subsection O P.
+46 14. Commodities, as defined by title 7 United States Code
+47 section 2, that are consigned for resale in a warehouse in this state in
+-22-
+
+House Amendments to S.B. 1430
+1 or from which the commodity is deliverable on a contract for future
+2 delivery subject to the rules of a commodity market regulated by the
+3 United States commodity futures trading commission.
+4 15. Tangible personal property sold by:
+5 (a) Any nonprofit organization organized and operated exclusively
+6 for charitable purposes and recognized by the United States internal
+7 revenue service under section 501(c)(3) of the internal revenue code.
+8 (b) A nonprofit organization that is exempt from taxation under
+9 section 501(c)(3), 501(c)(4) or 501(c)(6) of the internal revenue code if
+10 the organization is associated with a major league baseball team or a
+11 national touring professional golfing association and no part of the
+12 organization's net earnings inures to the benefit of any private
+13 shareholder or individual. This subdivision does not apply to an
+14 organization that is owned, managed or controlled, in whole or in part, by
+15 a major league baseball team, or its owners, officers, employees or
+16 agents, or by a major league baseball association or professional golfing
+17 association, or its owners, officers, employees or agents, unless the
+18 organization conducted or operated exhibition events in this state before
+19 January 1, 2018 that were exempt from transaction privilege tax under
+20 section 42-5073.
+21 (c) A nonprofit organization that is exempt from taxation under
+22 section 501(c)(3), 501(c)(4), 501(c)(6), 501(c)(7) or 501(c)(8) of the
+23 internal revenue code if the organization sponsors or operates a rodeo
+24 featuring primarily farm and ranch animals and no part of the
+25 organization's net earnings inures to the benefit of any private
+26 shareholder or individual.
+27 16. Drugs and medical oxygen, including delivery hose, mask or
+28 tent, regulator and tank, if prescribed by a member of the medical, dental
+29 or veterinarian profession who is licensed by law to administer such
+30 substances.
+31 17. Prosthetic appliances, as defined in section 23-501, prescribed
+32 or recommended by a person who is licensed, registered or otherwise
+33 professionally credentialed as a physician, dentist, podiatrist,
+34 chiropractor, naturopath, homeopath, nurse or optometrist.
+35 18. Prescription eyeglasses and contact lenses.
+36 19. Insulin, insulin syringes and glucose test strips.
+37 20. Hearing aids as defined in section 36-1901.
+38 21. Durable medical equipment that has a centers for medicare and
+39 medicaid services common procedure code, is designated reimbursable by
+40 medicare, is prescribed by a person who is licensed under title 32,
+41 chapter 7, 13, 17 or 29, can withstand repeated use, is primarily and
+42 customarily used to serve a medical purpose, is generally not useful to a
+43 person in the absence of illness or injury and is appropriate for use in
+44 the home.
+45 22. Food, as provided in and subject to the conditions of article 3
+46 of this chapter and sections 42-5074 and 42-6017.
+-23-
+
+House Amendments to S.B. 1430
+1 23. Items purchased with United States department of agriculture
+2 coupons issued under the supplemental nutrition assistance program
+3 pursuant to the food and nutrition act of 2008 (P.L. 88-525; 78 Stat. 703;
+4 7 United States Code sections 2011 through 2036b) by the United States
+5 department of agriculture food and nutrition service or food instruments
+6 issued under section 17 of the child nutrition act (P.L. 95-627; 92 Stat.
+7 3603; P.L. 99-661, section 4302; P.L. 111-296; 42 United States Code
+8 section 1786).
+9 24. Food and drink provided without monetary charge by a taxpayer
+10 that is subject to section 42-5074 to its employees for their own
+11 consumption on the premises during the employees' hours of employment.
+12 25. Tangible personal property that is used or consumed in a
+13 business subject to section 42-5074 for human food, drink or condiment,
+14 whether simple, mixed or compounded.
+15 26. Food, drink or condiment and accessory tangible personal
+16 property that are acquired for use by or provided to a school district or
+17 charter school if they are to be either served or prepared and served to
+18 persons for consumption on the premises of a public school in the school
+19 district or on the premises of the charter school during school hours.
+20 27. Lottery tickets or shares purchased pursuant to title 5,
+21 chapter 5.1, article 1.
+22 28. Textbooks, sold by a bookstore, that are required by any state
+23 university or community college.
+24 29. Magazines, other periodicals or other publications produced by
+25 this state to encourage tourist travel.
+26 30. Paper machine clothing, such as forming fabrics and dryer
+27 felts, purchased by a paper manufacturer and directly used or consumed in
+28 paper manufacturing.
+29 31. Coal, petroleum, coke, natural gas, virgin fuel oil and
+30 electricity purchased by a qualified environmental technology
+31 manufacturer, producer or processor as defined in section 41-1514.02 and
+32 directly used or consumed in generating or providing on-site power or
+33 energy solely for environmental technology manufacturing, producing or
+34 processing or environmental protection. This paragraph applies for twenty
+35 full consecutive calendar or fiscal years from the date the first paper
+36 manufacturing machine is placed in service. In the case of an
+37 environmental technology manufacturer, producer or processor that does not
+38 manufacture paper, the time period begins with the date the first
+39 manufacturing, processing or production equipment is placed in service.
+40 32. Motor vehicles that are removed from inventory by a motor
+41 vehicle dealer as defined in section 28-4301 and that are provided to:
+42 (a) Charitable or educational institutions that are exempt from
+43 taxation under section 501(c)(3) of the internal revenue code.
+44 (b) Public educational institutions.
+45 (c) State universities or affiliated organizations of a state
+46 university if no part of the organization's net earnings inures to the
+47 benefit of any private shareholder or individual.
+-24-
+
+House Amendments to S.B. 1430
+1 33. Natural gas or liquefied petroleum gas used to propel a motor
+2 vehicle.
+3 34. Machinery, equipment, technology or related supplies that are
+4 only useful to assist a person with a physical disability as defined in
+5 section 46-191 or a person who has a developmental disability as defined
+6 in section 36-551 or has a head injury as defined in section 41-3201 to be
+7 more independent and functional.
+8 35. Liquid, solid or gaseous chemicals used in manufacturing,
+9 processing, fabricating, mining, refining, metallurgical operations,
+10 research and development and, beginning on January 1, 1999, printing, if
+11 using or consuming the chemicals, alone or as part of an integrated system
+12 of chemicals, involves direct contact with the materials from which the
+13 product is produced for the purpose of causing or allowing a chemical or
+14 physical change to occur in the materials as part of the production
+15 process. This paragraph does not include chemicals that are used or
+16 consumed in activities such as packaging, storage or transportation but
+17 does not affect any exemption for such chemicals that is otherwise
+18 provided by this section. For the purposes of this paragraph, "printing"
+19 means a commercial printing operation and includes job printing,
+20 engraving, embossing, copying and bookbinding.
+21 36. Food, drink and condiment purchased for consumption within the
+22 premises of any prison, jail or other institution under the jurisdiction
+23 of the state department of corrections, the department of public safety,
+24 the department of juvenile corrections or a county sheriff.
+25 37. A motor vehicle and any repair and replacement parts and
+26 tangible personal property becoming a part of such motor vehicle sold to a
+27 motor carrier that is subject to a fee prescribed in title 28, chapter 16,
+28 article 4 and that is engaged in the business of leasing or renting such a
+29 property.
+30 38. Tangible personal property that is or directly enters into and
+31 becomes an ingredient or component part of cards used as prescription plan
+32 identification cards.
+33 39. Overhead materials or other tangible personal property that is
+34 used in performing a contract between the United States government and a
+35 manufacturer, modifier, assembler or repairer, including property used in
+36 performing a subcontract with a government contractor who is a
+37 manufacturer, modifier, assembler or repairer, to which title passes to
+38 the government under the terms of the contract or subcontract. For the
+39 purposes of this paragraph:
+40 (a) "Overhead materials" means tangible personal property, the
+41 gross proceeds of sales or gross income derived from which would otherwise
+42 be included in the retail classification, that is used or consumed in
+43 performing a contract, the cost of which is charged to an overhead expense
+44 account and allocated to various contracts based on generally accepted
+45 accounting principles and consistent with government contract accounting
+46 standards.
+-25-
+
+House Amendments to S.B. 1430
+1 (b) "Subcontract" means an agreement between a contractor and any
+2 person who is not an employee of the contractor for furnishing of supplies
+3 or services that, in whole or in part, are necessary to perform one or
+4 more government contracts, or under which any portion of the contractor's
+5 obligation under one or more government contracts is performed, undertaken
+6 or assumed, and that includes provisions causing title to overhead
+7 materials or other tangible personal property used in performing the
+8 subcontract to pass to the government or that includes provisions
+9 incorporating such title passing clauses in a government contract into the
+10 subcontract.
+11 40. Through December 31, 1994, tangible personal property sold
+12 pursuant to a personal property liquidation transaction, as defined in
+13 section 42-5061. From and after December 31, 1994, tangible personal
+14 property sold pursuant to a personal property liquidation transaction, as
+15 defined in section 42-5061, if the gross proceeds of the sales were
+16 included in the measure of the tax imposed by article 1 of this chapter or
+17 if the personal property liquidation was a casual activity or transaction.
+18 41. Wireless telecommunications equipment that is held for sale or
+19 transfer to a customer as an inducement to enter into or continue a
+20 contract for telecommunications services that are taxable under section
+21 42-5064.
+22 42. Alternative fuel, as defined in section 1-215, purchased by a
+23 used oil fuel burner who has received a permit to burn used oil or used
+24 oil fuel under section 49-426 or 49-480.
+25 43. Tangible personal property purchased by a commercial airline
+26 and consisting of food, beverages and condiments and accessories used for
+27 serving the food and beverages, if those items are to be provided without
+28 additional charge to passengers for consumption in flight. For the
+29 purposes of this paragraph, "commercial airline" means a person holding a
+30 federal certificate of public convenience and necessity or foreign air
+31 carrier permit for air transportation to transport persons, property or
+32 United States mail in intrastate, interstate or foreign commerce.
+33 44. Alternative fuel vehicles if the vehicle was manufactured as a
+34 diesel fuel vehicle and converted to operate on alternative fuel and
+35 equipment that is installed in a conventional diesel fuel motor vehicle to
+36 convert the vehicle to operate on an alternative fuel, as defined in
+37 section 1-215.
+38 45. Gas diverted from a pipeline, by a person engaged in the
+39 business of:
+40 (a) Operating a natural or artificial gas pipeline, and used or
+41 consumed for the sole purpose of fueling compressor equipment that
+42 pressurizes the pipeline.
+43 (b) Converting natural gas into liquefied natural gas, and used or
+44 consumed for the sole purpose of fueling compressor equipment used in the
+45 conversion process.
+46 46. Tangible personal property that is excluded, exempt or
+47 deductible from transaction privilege tax pursuant to section 42-5063.
+-26-
+
+House Amendments to S.B. 1430
+1 47. Tangible personal property purchased to be incorporated or
+2 installed as part of environmental response or remediation activities
+3 under section 42-5075, subsection B, paragraph 6.
+4 48. Tangible personal property sold by a nonprofit organization
+5 that is exempt from taxation under section 501(c)(6) of the internal
+6 revenue code if the organization produces, organizes or promotes cultural
+7 or civic related festivals or events and no part of the organization's net
+8 earnings inures to the benefit of any private shareholder or individual.
+9 49. Prepared food, drink or condiment donated by a restaurant as
+10 classified in section 42-5074, subsection A to a nonprofit charitable
+11 organization that has qualified under section 501(c)(3) of the internal
+12 revenue code and that regularly serves meals to the needy and indigent on
+13 a continuing basis at no cost.
+14 50. Application services that are designed to assess or test
+15 student learning or to promote curriculum design or enhancement purchased
+16 by or for any school district, charter school, community college or state
+17 university. For the purposes of this paragraph:
+18 (a) "Application services" means software applications provided
+19 remotely using hypertext transfer protocol or another network protocol.
+20 (b) "Curriculum design or enhancement" means planning, implementing
+21 or reporting on courses of study, lessons, assignments or other learning
+22 activities.
+23 51. Motor vehicle fuel and use fuel to a qualified business under
+24 section 41-1516 for off-road use in harvesting, processing or transporting
+25 qualifying forest products removed from qualifying projects as defined in
+26 section 41-1516.
+27 52. Repair parts installed in equipment used directly by a
+28 qualified business under section 41-1516 in harvesting, processing or
+29 transporting qualifying forest products removed from qualifying projects
+30 as defined in section 41-1516.
+31 53. Renewable energy credits or any other unit created to track
+32 energy derived from renewable energy resources. For the purposes of this
+33 paragraph, "renewable energy credit" means a unit created administratively
+34 by the corporation commission or governing body of a public power entity
+35 to track kilowatt hours of electricity derived from a renewable energy
+36 resource or the kilowatt hour equivalent of conventional energy resources
+37 displaced by distributed renewable energy resources.
+38 54. Coal acquired from an owner or operator of a power plant by a
+39 person that is responsible for refining coal if both of the following
+40 apply:
+41 (a) The transfer of title or possession of the coal is for the
+42 purpose of refining the coal.
+43 (b) The title or possession of the coal is transferred back to the
+44 owner or operator of the power plant after completion of the coal refining
+45 process. For the purposes of this subdivision, "coal refining process"
+46 means the application of a coal additive system that aids the reduction of
+-27-
+
+House Amendments to S.B. 1430
+1 power plant emissions during the combustion of coal and the treatment of
+2 flue gas.
+3 55. Tangible personal property incorporated or fabricated into a
+4 project described in section 42-5075, subsection O P, that is located
+5 within the exterior boundaries of an Indian reservation for which the
+6 owner, as defined in section 42-5075, of the project is an Indian tribe or
+7 an affiliated Indian. For the purposes of this paragraph:
+8 (a) "Affiliated Indian" means an individual Native American Indian
+9 who is duly registered on the tribal rolls of the Indian tribe for whose
+10 benefit the Indian reservation was established.
+11 (b) "Indian reservation" means all lands that are within the limits
+12 of areas set aside by the United States for the exclusive use and
+13 occupancy of an Indian tribe by treaty, law or executive order and that
+14 are recognized as Indian reservations by the United States department of
+15 the interior.
+16 (c) "Indian tribe" means any organized nation, tribe, band or
+17 community that is recognized as an Indian tribe by the United States
+18 department of the interior and includes any entity formed under the laws
+19 of the Indian tribe.
+20 56. Cash equivalents, precious metal bullion and monetized bullion
+21 purchased by the ultimate consumer, but coins or other forms of money for
+22 manufacture into jewelry or works of art are subject to tax, and tangible
+23 personal property that is purchased through the redemption of any cash
+24 equivalent by the holder as a means of payment for goods that are subject
+25 to tax under this article is subject to tax. For the purposes of this
+26 paragraph:
+27 (a) "Cash equivalents" means items, whether or not negotiable, that
+28 are sold to one or more persons, through which a value denominated in
+29 money is purchased in advance and that may be redeemed in full or in part
+30 for tangible personal property, intangibles or services. Cash equivalents
+31 include gift cards, stored value cards, gift certificates, vouchers,
+32 traveler's checks, money orders or other tangible instruments or orders.
+33 Cash equivalents do not include either of the following:
+34 (i) Items that are sold to one or more persons and through which a
+35 value is not denominated in money.
+36 (ii) Prepaid calling cards for telecommunications services.
+37 (b) "Monetized bullion" means coins and other forms of money that
+38 are manufactured from gold, silver or other metals and that have been or
+39 are used as a medium of exchange in this or another state, the United
+40 States or a foreign nation.
+41 (c) "Precious metal bullion" means precious metal, including gold,
+42 silver, platinum, rhodium and palladium, that has been smelted or refined
+43 so that its value depends on its contents and not on its form.
+44 B. In addition to the exemptions allowed by subsection A of this
+45 section, the following categories of tangible personal property are also
+46 exempt:
+-28-
+
+House Amendments to S.B. 1430
+1 1. Machinery, or equipment, used directly in manufacturing,
+2 processing, fabricating, job printing, refining or metallurgical
+3 operations. The terms "manufacturing", "processing", "fabricating", "job
+4 printing", "refining" and "metallurgical" as used in this paragraph refer
+5 to and include those operations commonly understood within their ordinary
+6 meaning. "Metallurgical operations" includes leaching, milling,
+7 precipitating, smelting and refining.
+8 2. Machinery, or equipment, used directly in the process of
+9 extracting ores or minerals from the earth for commercial purposes,
+10 including equipment required to prepare the materials for extraction and
+11 handling, loading or transporting such extracted material to the surface.
+12 "Mining" includes underground, surface and open pit operations for
+13 extracting ores and minerals.
+14 3. Tangible personal property sold to persons engaged in business
+15 classified under the telecommunications classification under section
+16 42-5064, including a person representing or working on behalf of such a
+17 person in a manner described in section 42-5075, subsection O P, and
+18 consisting of central office switching equipment, switchboards, private
+19 branch exchange equipment, microwave radio equipment and carrier equipment
+20 including optical fiber, coaxial cable and other transmission media that
+21 are components of carrier systems.
+22 4. Machinery, equipment or transmission lines used directly in
+23 producing or transmitting electrical power, but not including
+24 distribution. Transformers and control equipment used at transmission
+25 substation sites constitute equipment used in producing or transmitting
+26 electrical power.
+27 5. Machinery and equipment used directly for energy storage for
+28 later electrical use. For the purposes of this paragraph:
+29 (a) "Electric utility scale" means a person that is engaged in a
+30 business activity described in section 42-5063, subsection A or such
+31 person's equipment or wholesale electricity suppliers.
+32 (b) "Energy storage" means commercially available technology for
+33 electric utility scale that is capable of absorbing energy, storing energy
+34 for a period of time and thereafter dispatching the energy and that uses
+35 mechanical, chemical or thermal processes to store energy.
+36 (c) "Machinery and equipment used directly" means all machinery and
+37 equipment that are used for electric energy storage from the point of
+38 receipt of such energy in order to facilitate storage of the electric
+39 energy to the point where the electric energy is released.
+40 6. Neat animals, horses, asses, sheep, ratites, swine or goats used
+41 or to be used as breeding or production stock, including sales of
+42 breedings or ownership shares in such animals used for breeding or
+43 production.
+44 7. Pipes or valves four inches in diameter or larger used to
+45 transport oil, natural gas, artificial gas, water, wastewater or coal
+46 slurry, including compressor units, regulators, machinery and equipment,
+-29-
+
+House Amendments to S.B. 1430
+1 fittings, seals and any other part that is used in operating the pipes or
+2 valves.
+3 8. Aircraft, navigational and communication instruments and other
+4 accessories and related equipment sold to:
+5 (a) A person:
+6 (i) Holding, or exempted by federal law from obtaining, a federal
+7 certificate of public convenience and necessity for use as, in conjunction
+8 with or becoming part of an aircraft to be used to transport persons for
+9 hire in intrastate, interstate or foreign commerce.
+10 (ii) That is certificated or licensed under federal aviation
+11 administration regulations (14 Code of Federal Regulations part 121 or
+12 135) as a scheduled or unscheduled carrier of persons for hire for use as
+13 or in conjunction with or becoming part of an aircraft to be used to
+14 transport persons for hire in intrastate, interstate or foreign commerce.
+15 (iii) Holding a foreign air carrier permit for air transportation
+16 for use as or in conjunction with or becoming a part of aircraft to be
+17 used to transport persons, property or United States mail in intrastate,
+18 interstate or foreign commerce.
+19 (iv) Operating an aircraft to transport persons in any manner for
+20 compensation or hire, or for use in a fractional ownership program that
+21 meets the requirements of federal aviation administration regulations (14
+22 Code of Federal Regulations part 91, subpart K), including as an air
+23 carrier, a foreign air carrier or a commercial operator or under a
+24 restricted category, within the meaning of 14 Code of Federal Regulations,
+25 regardless of whether the operation or aircraft is regulated or certified
+26 under part 91, 119, 121, 133, 135, 136 or 137, or another part of 14 Code
+27 of Federal Regulations.
+28 (v) That will lease or otherwise transfer operational control,
+29 within the meaning of federal aviation administration operations
+30 specification A008, or its successor, of the aircraft, instruments or
+31 accessories to one or more persons described in item (i), (ii), (iii) or
+32 (iv) of this subdivision, subject to section 42-5009, subsection Q.
+33 (b) Any foreign government.
+34 (c) Persons who are not residents of this state and who will not
+35 use such property in this state other than in removing such property from
+36 this state. This subdivision also applies to corporations that are not
+37 incorporated in this state, regardless of maintaining a place of business
+38 in this state, if the principal corporate office is located outside this
+39 state and the property will not be used in this state other than in
+40 removing the property from this state.
+41 9. Machinery, tools, equipment and related supplies used or
+42 consumed directly in repairing, remodeling or maintaining aircraft,
+43 aircraft engines or aircraft component parts by or on behalf of a
+44 certificated or licensed carrier of persons or property.
+45 10. Rolling stock, rails, ties and signal control equipment used
+46 directly to transport persons or property.
+-30-
+
+House Amendments to S.B. 1430
+1 11. Machinery or equipment used directly to drill for oil or gas or
+2 used directly in the process of extracting oil or gas from the earth for
+3 commercial purposes.
+4 12. Buses or other urban mass transit vehicles that are used
+5 directly to transport persons or property for hire or pursuant to a
+6 governmentally adopted and controlled urban mass transportation program
+7 and that are sold to bus companies holding a federal certificate of
+8 convenience and necessity or operated by any city, town or other
+9 governmental entity or by any person contracting with such governmental
+10 entity as part of a governmentally adopted and controlled program to
+11 provide urban mass transportation.
+12 13. Groundwater measuring devices required under section 45-604.
+13 14. Machinery and equipment consisting of agricultural aircraft,
+14 tractors, off-highway vehicles, tractor-drawn implements, self-powered
+15 implements, machinery and equipment necessary for extracting milk, and
+16 machinery and equipment necessary for cooling milk and livestock, and drip
+17 irrigation lines not already exempt under paragraph 7 of this subsection
+18 and that are used for commercially producing agricultural, horticultural,
+19 viticultural and floricultural crops and products in this state. For the
+20 purposes of this paragraph:
+21 (a) "Off-highway vehicles" means off-highway vehicles as defined in
+22 section 28-1171 that are modified at the time of sale to function as a
+23 tractor or to tow tractor-drawn implements and that are not equipped with
+24 a modified exhaust system to increase horsepower or speed or an engine
+25 that is more than one thousand cubic centimeters or that have a maximum
+26 speed of fifty miles per hour or less.
+27 (b) "Self-powered implements" includes machinery and equipment that
+28 are electric-powered.
+29 15. Machinery or equipment used in research and development. For
+30 the purposes of this paragraph, "research and development" means basic and
+31 applied research in the sciences and engineering, and designing,
+32 developing or testing prototypes, processes or new products, including
+33 research and development of computer software that is embedded in or an
+34 integral part of the prototype or new product or that is required for
+35 machinery or equipment otherwise exempt under this section to function
+36 effectively. Research and development do not include manufacturing
+37 quality control, routine consumer product testing, market research, sales
+38 promotion, sales service, research in social sciences or psychology,
+39 computer software research that is not included in the definition of
+40 research and development, or other nontechnological activities or
+41 technical services.
+42 16. Tangible personal property that is used by either of the
+43 following to receive, store, convert, produce, generate, decode, encode,
+44 control or transmit telecommunications information:
+45 (a) Any direct broadcast satellite television or data transmission
+46 service that operates pursuant to 47 Code of Federal Regulations part 25.
+-31-
+
+House Amendments to S.B. 1430
+1 (b) Any satellite television or data transmission facility, if both
+2 of the following conditions are met:
+3 (i) Over two-thirds of the transmissions, measured in megabytes,
+4 transmitted by the facility during the test period were transmitted to or
+5 on behalf of one or more direct broadcast satellite television or data
+6 transmission services that operate pursuant to 47 Code of Federal
+7 Regulations part 25.
+8 (ii) Over two-thirds of the transmissions, measured in megabytes,
+9 transmitted by or on behalf of those direct broadcast television or data
+10 transmission services during the test period were transmitted by the
+11 facility to or on behalf of those services.
+12 For the purposes of subdivision (b) of this paragraph, "test period" means
+13 the three hundred sixty-five day period beginning on the later of the date
+14 on which the tangible personal property is purchased or the date on which
+15 the direct broadcast satellite television or data transmission service
+16 first transmits information to its customers.
+17 17. Clean rooms that are used for manufacturing, processing,
+18 fabrication or research and development, as defined in paragraph 15 of
+19 this subsection, of semiconductor products. For the purposes of this
+20 paragraph, "clean room" means all property that comprises or creates an
+21 environment where humidity, temperature, particulate matter and
+22 contamination are precisely controlled within specified parameters,
+23 without regard to whether the property is actually contained within that
+24 environment or whether any of the property is affixed to or incorporated
+25 into real property. Clean room:
+26 (a) Includes the integrated systems, fixtures, piping, movable
+27 partitions, lighting and all property that is necessary or adapted to
+28 reduce contamination or to control airflow, temperature, humidity,
+29 chemical purity or other environmental conditions or manufacturing
+30 tolerances, as well as the production machinery and equipment operating in
+31 conjunction with the clean room environment.
+32 (b) Does not include the building or other permanent, nonremovable
+33 component of the building that houses the clean room environment.
+34 18. Machinery and equipment that are used directly in feeding
+35 poultry, environmentally controlling housing for poultry, moving eggs
+36 within a production and packaging facility or sorting or cooling eggs.
+37 This exemption does not apply to vehicles used for transporting eggs.
+38 19. Machinery or equipment, including related structural components
+39 and containment structures, that is employed in connection with
+40 manufacturing, processing, fabricating, job printing, refining, mining,
+41 natural gas pipelines, metallurgical operations, telecommunications,
+42 producing or transmitting electricity or research and development and that
+43 is used directly to meet or exceed rules or regulations adopted by the
+44 federal energy regulatory commission, the United States environmental
+45 protection agency, the United States nuclear regulatory commission, the
+46 Arizona department of environmental quality or a political subdivision of
+47 this state to prevent, monitor, control or reduce land, water or air
+-32-
+
+House Amendments to S.B. 1430
+1 pollution. For the purposes of this paragraph, "containment structure"
+2 means a structure that prevents, monitors, controls or reduces noxious or
+3 harmful discharge into the environment.
+4 20. Machinery and equipment that are used in commercially producing
+5 livestock, livestock products or agricultural, horticultural, viticultural
+6 or floricultural crops or products in this state, including production by
+7 a person representing or working on behalf of such a person in a manner
+8 described in section 42-5075, subsection O P, if the machinery and
+9 equipment are used directly and primarily to prevent, monitor, control or
+10 reduce air, water or land pollution.
+11 21. Machinery or equipment that enables a television station to
+12 originate and broadcast or to receive and broadcast digital television
+13 signals and that was purchased to facilitate compliance with the
+14 telecommunications act of 1996 (P.L. 104-104; 110 Stat. 56; 47 United
+15 States Code section 336) and the federal communications commission order
+16 issued April 21, 1997 (47 Code of Federal Regulations part 73). This
+17 paragraph does not exempt any of the following:
+18 (a) Repair or replacement parts purchased for the machinery or
+19 equipment described in this paragraph.
+20 (b) Machinery or equipment purchased to replace machinery or
+21 equipment for which an exemption was previously claimed and taken under
+22 this paragraph.
+23 (c) Any machinery or equipment purchased after the television
+24 station has ceased analog broadcasting, or purchased after November 1,
+25 2009, whichever occurs first.
+26 22. Qualifying equipment that is purchased from and after June 30,
+27 2004 through December 31, 2028 by a qualified business under section
+28 41-1516 for harvesting or processing qualifying forest products removed
+29 from qualifying projects as defined in section 41-1516. To qualify for
+30 this exemption, the qualified business must obtain and present its
+31 certification from the Arizona commerce authority at the time of purchase.
+32 23. Machinery, equipment, materials and other tangible personal
+33 property used directly and predominantly to construct a qualified
+34 environmental technology manufacturing, producing or processing facility
+35 as described in section 41-1514.02. This paragraph applies for ten full
+36 consecutive calendar or fiscal years after the start of initial
+37 construction.
+38 24. Computer data center equipment sold to the owner, operator or
+39 qualified colocation tenant of a computer data center that is certified by
+40 the Arizona commerce authority under section 41-1519 or an authorized
+41 agent of the owner, operator or qualified colocation tenant during the
+42 qualification period for use in the qualified computer data center. For
+43 the purposes of this paragraph, "computer data center", "computer data
+44 center equipment", "qualification period" and "qualified colocation
+45 tenant" have the same meanings prescribed in section 41-1519.
+-33-
+
+House Amendments to S.B. 1430
+1 C. The exemptions provided by subsection B of this section do not
+2 include:
+3 1. Expendable materials. For the purposes of this paragraph,
+4 expendable materials do not include any of the categories of tangible
+5 personal property specified in subsection B of this section regardless of
+6 the cost or useful life of that property.
+7 2. Janitorial equipment and hand tools.
+8 3. Office equipment, furniture and supplies.
+9 4. Tangible personal property used in selling or distributing
+10 activities, other than the telecommunications transmissions described in
+11 subsection B, paragraph 16 of this section.
+12 5. Motor vehicles required to be licensed by this state, except
+13 buses or other urban mass transit vehicles specifically exempted pursuant
+14 to subsection B, paragraph 12 of this section, without regard to the use
+15 of such motor vehicles.
+16 6. Shops, buildings, docks, depots and all other materials of
+17 whatever kind or character not specifically included as exempt.
+18 7. Motors and pumps used in drip irrigation systems.
+19 8. Machinery and equipment or tangible personal property used by a
+20 contractor in performing a contract.
+21 D. The following shall be deducted in computing the purchase price
+22 of electricity by a retail electric customer from a utility business:
+23 1. Revenues received from sales of ancillary services, electric
+24 distribution services, electric generation services, electric transmission
+25 services and other services related to providing electricity to a retail
+26 electric customer who is located outside this state for use outside this
+27 state if the electricity is delivered to a point of sale outside this
+28 state.
+29 2. Revenues received from providing electricity, including
+30 ancillary services, electric distribution services, electric generation
+31 services, electric transmission services and other services related to
+32 providing electricity with respect to which the transaction privilege tax
+33 imposed under section 42-5063 has been paid.
+34 E. The tax levied by this article does not apply to the purchase of
+35 solar energy devices from a retailer that is registered with the
+36 department as a solar energy retailer or a solar energy contractor.
+37 F. The following shall be deducted in computing the purchase price
+38 of electricity by a retail electric customer from a utility business:
+39 1. Fees charged by a municipally owned utility to persons
+40 constructing residential, commercial or industrial developments or
+41 connecting residential, commercial or industrial developments to a
+42 municipal utility system or systems if the fees are segregated and used
+43 only for capital expansion, system enlargement or debt service of the
+44 utility system or systems.
+45 2. Reimbursement or contribution compensation to any person or
+46 persons owning a utility system for property and equipment installed to
+47 provide utility access to, on or across the land of an actual utility
+-34-
+
+House Amendments to S.B. 1430
+1 consumer if the property and equipment become the property of the utility.
+2 This deduction shall not exceed the value of such property and equipment.
+3 G. The tax levied by this article does not apply to the purchase
+4 price of electricity, natural gas or liquefied petroleum gas by:
+5 1. A qualified manufacturing or smelting business. A utility that
+6 claims this deduction shall report each month, on a form prescribed by the
+7 department, the name and address of each qualified manufacturing or
+8 smelting business for which this deduction is taken. This paragraph
+9 applies to gas transportation services. For the purposes of this
+10 paragraph:
+11 (a) "Gas transportation services" means the services of
+12 transporting natural gas to a natural gas customer or to a natural gas
+13 distribution facility if the natural gas was purchased from a supplier
+14 other than the utility.
+15 (b) "Manufacturing" means the performance as a business of an
+16 integrated series of operations that places tangible personal property in
+17 a form, composition or character different from that in which it was
+18 acquired and transforms it into a different product with a distinctive
+19 name, character or use. Manufacturing does not include job printing,
+20 publishing, packaging, mining, generating electricity or operating a
+21 restaurant.
+22 (c) "Qualified manufacturing or smelting business" means one of the
+23 following:
+24 (i) A business that manufactures or smelts tangible products in
+25 this state, of which at least fifty-one percent of the manufactured or
+26 smelted products will be exported out of state for incorporation into
+27 another product or sold out of state for a final sale.
+28 (ii) A business that derives at least fifty-one percent of its
+29 gross income from the sale of manufactured or smelted products
+30 manufactured or smelted by the business.
+31 (iii) A business that uses at least fifty-one percent of its square
+32 footage in this state for manufacturing or smelting and business
+33 activities directly related to manufacturing or smelting.
+34 (iv) A business that employs at least fifty-one percent of its
+35 workforce in this state in manufacturing or smelting and business
+36 activities directly related to manufacturing or smelting.
+37 (v) A business that uses at least fifty-one percent of the value of
+38 its capitalized assets in this state, as reflected on the business's books
+39 and records, for manufacturing or smelting and business activities
+40 directly related to manufacturing or smelting.
+41 (d) "Smelting" means to melt or fuse a metalliferous mineral, often
+42 with an accompanying chemical change, usually to separate the metal.
+43 2. A business that operates an international operations center in
+44 this state and that is certified by the Arizona commerce authority
+45 pursuant to section 41-1520.
+46 H. A city or town may exempt proceeds from sales of paintings,
+47 sculptures or similar works of fine art if such works of fine art are sold
+-35-
+
+House Amendments to S.B. 1430
+1 by the original artist. For the purposes of this subsection, fine art
+2 does not include an art creation such as jewelry, macrame, glasswork,
+3 pottery, woodwork, metalwork, furniture or clothing if the art creation
+4 has a dual purpose, both aesthetic and utilitarian, whether sold by the
+5 artist or by another person.
+6 I. For the purposes of subsection B of this section:
+7 1. "Agricultural aircraft" means an aircraft that is built for
+8 agricultural use for the aerial application of pesticides or fertilizer or
+9 for aerial seeding.
+10 2. "Aircraft" includes:
+11 (a) An airplane flight simulator that is approved by the federal
+12 aviation administration for use as a phase II or higher flight simulator
+13 under appendix H, 14 Code of Federal Regulations part 121.
+14 (b) Tangible personal property that is permanently affixed or
+15 attached as a component part of an aircraft that is owned or operated by a
+16 certificated or licensed carrier of persons or property.
+17 3. "Other accessories and related equipment" includes aircraft
+18 accessories and equipment such as ground service equipment that physically
+19 contact aircraft at some point during the overall carrier operation.
+20 J. For the purposes of subsection D of this section, "ancillary
+21 services", "electric distribution service", "electric generation service",
+22 "electric transmission service" and "other services" have the same
+23 meanings prescribed in section 42-5063.
+24 Sec. 3. Repeal
+25 Section 42-5159, Arizona Revised Statutes, as amended by Laws 2025,
+26 chapter 251, section 13, is repealed.
+27 Sec. 4. Section 43-1504, Arizona Revised Statutes, is amended to
+28 read:
+29 43-1504. Special provisions; corporate donations for
+30 low-income scholarships; rules
+31 A. A school tuition organization that receives contributions from a
+32 corporation for the purposes of section 20-224.06 or 43-1183 must use at
+33 least ninety percent of those contributions to provide educational
+34 scholarships or tuition grants only to children whose family income does
+35 not exceed one hundred eighty-five percent of the income limit required to
+36 qualify a child for reduced-price lunches under the national school lunch
+37 and child nutrition acts (42 United States Code sections 1751 through
+38 1793) and to whom any of the following applies:
+39 1. Attended a governmental primary or secondary school as a
+40 full-time student as defined in section 15-901 or attended a preschool
+41 program that offers services to students with disabilities at a
+42 governmental school for at least ninety days of the prior fiscal year or
+43 one full semester and transferred from a governmental school to a
+44 qualified school.
+45 2. Enroll in a qualified school in a kindergarten program or a
+46 preschool program that offers services to students with disabilities.
+-36-
+
+House Amendments to S.B. 1430
+1 3. Are the dependent of a member of the armed forces of the United
+2 States who is stationed in this state pursuant to military orders.
+3 4. Are homeschooled before enrolling in a qualified school.
+4 5. Moved to this state from out of state before enrolling in a
+5 qualified school.
+6 6. Participated in an Arizona empowerment scholarship account and
+7 did not renew the account or accept the scholarship in order to accept a
+8 scholarship or tuition grant under this section.
+9 7. Subject to subsection G of this section, are placed in foster
+10 care pursuant to title 8, chapter 4 at any time before the student
+11 graduates GRADUATING from high school or obtains OBTAINING a general
+12 equivalency diploma and who meet all of the following criteria:
+13 (a) Are unable to attend a governmental primary or secondary school
+14 as a full-time student as defined in section 15-901. For the purposes of
+15 this subdivision, "unable to attend" means the student has been expelled
+16 or asked not to return due to the student's behavior or the school is not
+17 able to provide necessary services to the student.
+18 (b) Have not attended a governmental primary or secondary school as
+19 a full-time student as defined in section 15-901 for at least ninety days
+20 of the prior fiscal year or one full semester before enrolling in a
+21 qualified school.
+22 (c) The qualified school in which the students CHILDREN are
+23 enrolling is only considered because a governmental primary or secondary
+24 school cannot meet the students' unique needs, such as severe medical or
+25 behavioral needs that require specialized programs.
+26 (d) Are unable to receive other scholarships or tuition grants
+27 under this chapter or chapter 15 16 of this title in an amount that is
+28 equal to the cost of tuition to attend the qualified school.
+29 8. Received an educational scholarship or tuition grant under
+30 paragraph 1, 2, 3, 4, 5, 6 or 7 of this subsection or chapter 16, article
+31 1 of this title if the children continue to attend a qualified school in a
+32 subsequent year.
+33 B. A child is eligible to receive an educational scholarship or
+34 tuition grant under subsection A of this section if the child meets the
+35 criteria to receive a reduced-price lunch but does not actually claim that
+36 benefit.
+37 C. In 2021, a school tuition organization shall not issue an
+38 educational scholarship or a tuition grant for the purposes of section
+39 20-224.06 or 43-1183 in an amount that exceeds $5,600 for students who are
+40 in a kindergarten program, a preschool program that offers services to
+41 students with disabilities or grades one through eight or $7,500 for
+42 students who are in grades nine through twelve. In each year after 2021,
+43 the limit amount for a scholarship or a grant under this subsection shall
+44 be increased by $200.
+-37-
+
+House Amendments to S.B. 1430
+1 D. A school tuition organization shall require that student
+2 beneficiaries use the educational scholarships or tuition grants on a
+3 full-time basis. If a child leaves the school before completing an entire
+4 school year, the school shall refund a prorated amount of the educational
+5 scholarship or tuition grant to the school tuition organization that
+6 issued the scholarship or grant. The school tuition organization shall
+7 allocate any refunds it receives under this subsection for educational
+8 scholarships or tuition grants.
+9 E. Students who receive an educational scholarship or tuition grant
+10 under this section shall be allowed to attend any qualified school of
+11 their parents' choice.
+12 F. The department of revenue, with the cooperation of the
+13 department of insurance and financial institutions, shall adopt rules and
+14 publish and prescribe forms and procedures necessary to administer this
+15 section.
+16 G. If a court of competent jurisdiction issues a final judgment
+17 that the aggregate tax credit limit prescribed in section 43-1183,
+18 subsection C, paragraph 1 is unenforceable and that judgment is no longer
+19 subject to further appeal or review, a school tuition organization shall
+20 not issue an educational scholarship or a tuition grant under subsection
+21 A, paragraph 7 or 8 of this section for children who received an
+22 educational scholarship or a tuition grant under subsection A, paragraph 7
+23 of this section.
+24 <<Sec. 5. Section 44-321, Arizona Revised Statutes, is amended to
+25 read:
+26 44-321. Periods of limitation
+27 A. The expiration of a period of limitation on the owner's right to
+28 receive or recover property, whether specified by contract, statute or
+29 court order, does not preclude the property from being presumed abandoned
+30 or affect a duty to file a report or to pay or deliver or transfer
+31 property to the department as required by this chapter.
+32 B. An individual, corporation, business association or other
+33 organization may not act through an amendment of articles of
+34 incorporation, an amendment of bylaws, a private agreement or any other
+35 means to do any of the following:
+36 1. Take or divert monies or personal property into income.
+37 2. Divide monies or personal property among patrons or stockholders
+38 that are able to be located.
+39 3. Divert monies or personal property by any other method for the
+40 purpose of circumventing the unclaimed property process.
+41 C. The department shall not begin an action or proceeding to
+42 enforce this chapter in regard to the reporting, delivery or payment of
+43 property more than four years after the holder identified the property in
+44 a report filed with the department or gave express notice to the
+45 department of a dispute regarding the property. If a holder omits from a
+46 report any amount of property that is properly includible and that is in
+47 excess of twenty-five percent of the amount of property stated in the
+-38-
+
+House Amendments to S.B. 1430
+1 report, the department may begin an action or proceeding to enforce this
+2 chapter at any time within six years after the report was filed. If there
+3 is no report or other express notice FILED BY THE HOLDER, the period of
+4 limitation is tolled. The period of limitation is also tolled if the
+5 holder IS EXPRESSLY NOTIFIED BY THE DEPARTMENT THAT THE HOLDER IS UNDER
+6 AUDIT OR IF THE HOLDER files a fraudulent report.>>
+7 Enroll and engross to conform
+8 Amend title to conform
+And, as so amended, it do pass
+JUSTIN OLSON
+CHAIRMAN
+1430WAYS MEANS.docx
+03/04/2026
+11:25 AM
+C: ED
+130SHNSMH
+-39-
