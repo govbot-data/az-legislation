@@ -1,0 +1,361 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Mesnard flr amend (ref Senate Engrossed House Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2249
+Mesnard ADD COW Floor Amendment
+Reference to: Senate engrossed House bill
+Amendment drafted by: Mason Holler
+FLOOR AMENDMENT EXPLANATION
+1. Specifies that a governmental entity or institution employee who is found liable of facilitating,
+encouraging or coercing a minor child to withhold information from the child's parent is personally
+liable in an amount of $20,000 for each instance in which information was withheld from the
+parent.
+2. Removes the specification that, if an act that violates the Parents' Bill of Rights occurred before
+the general effective date and the person continues to violate the Parents' Bill of Rights after the
+general effective date, each act that occurs after the general effective date constitutes a separate
+violation for the purposes of bringing suit for a violation.
+3. Determines that, within six months of the general effective date, the state, a political subdivision
+or governmental entity or institution has an affirmative duty to investigate and discover all
+previous instances in which it or its employees facilitated, encouraged or coerced a minor child to
+withhold information from the child's parent before the effective date.
+4. Specifies that the state, a political subdivision or a governmental entity or institution or an
+employee of such entities is civilly liable to the parent of a minor child for any violation that was
+not disclosed only if the violation was actually known or would have been discovered with
+reasonable diligence and investigation.
+5. Defines distinct act or omission, instance and withhold for the purposes of bringing suit for a
+violation of the Parents' Bill of Rights as outlined.
+6. Makes technical and conforming changes.
+Amendment explanation prepared by Mason Holler
+04/20/2026
+
+Fifty-seventh Legislature Mesnard
+Second Regular Session H.B. 2249
+ADDITIONAL COW
+MESNARD FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2249
+(Reference to Senate engrossed House bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 1-602, Arizona Revised Statutes, is amended to
+3 read:
+4 1-602. Parents' bill of rights; governmental interference
+5 restricted; burden of proof; civil actions;
+6 definitions
+7 A. All parental rights are exclusively reserved to a parent of a
+8 minor child without obstruction or interference from this state, any
+9 political subdivision of this state, any other governmental entity or any
+10 other institution, including:
+11 1. The right to direct the education of the minor child.
+12 2. All rights of parents identified in title 15, including the
+13 right to access and review all records relating to the minor child.
+14 3. The right to direct the upbringing of the minor child.
+15 4. The right to direct the moral or religious training of the minor
+16 child.
+17 5. The right to make all health care decisions for the minor child,
+18 including rights pursuant to sections 15-873, 36-2271 and 36-2272, unless
+19 otherwise prohibited by law.
+20 6. The right to request, access and review all written and
+21 electronic medical records of the minor child unless otherwise prohibited
+22 by law or unless the parent is the subject of an investigation of a crime
+23 committed against the minor child and a law enforcement official requests
+24 that the information not be released.
+25 7. The right to consent in writing before a biometric scan of the
+26 minor child is made pursuant to section 15-109.
+
+Senate Amendments to H.B. 2249
+1 8. The right to consent in writing before any record of the minor
+2 child's blood or deoxyribonucleic acid is created, stored or shared,
+3 except as required by section 36-694, or before any genetic testing is
+4 conducted on the minor child pursuant to section 12-2803 unless authorized
+5 pursuant to section 13-610 or a court order.
+6 9. The right to consent in writing before this state or any of its
+7 political subdivisions makes a video or voice recording of the minor
+8 child, unless the video or voice recording is made during or as a part of
+9 a court proceeding, by law enforcement officers during or as part of a law
+10 enforcement investigation, during or as part of an interview in a criminal
+11 or child safety services investigation or to be used solely for any of the
+12 following:
+13 (a) Safety demonstrations, including the maintenance of order and
+14 discipline in the common areas of a school or on pupil transportation
+15 vehicles.
+16 (b) A purpose related to a legitimate academic or extracurricular
+17 activity.
+18 (c) A purpose related to regular classroom instruction.
+19 (d) Security or surveillance of buildings or grounds.
+20 (e) A photo identification card.
+21 10. The right to be notified promptly if an employee of this state,
+22 any political subdivision of this state, any other governmental entity or
+23 any other institution suspects that a criminal offense has been committed
+24 against the minor child by someone other than a parent, unless the
+25 incident has first been reported to law enforcement and notifying the
+26 parent would impede a law enforcement or child safety services
+27 investigation. This paragraph does not create ESTABLISH any new
+28 obligation for school districts and charter schools to report misconduct
+29 between students at school, such as fighting or aggressive play, that is
+30 routinely addressed as a student disciplinary matter by the school.
+31 11. The right to obtain information about a child safety services
+32 investigation involving the parent pursuant to section 8-807.
+33 12. THE RIGHT TO CONSENT IN WRITING AND BE INFORMED IF ANY SCHOOL
+34 EMPLOYEE FACILITATES OR IMPLEMENTS ANY FORM OF SOCIAL TRANSITIONING FOR
+35 THE MINOR CHILD, INCLUDING ADDRESSING OR REFERRING TO THE MINOR CHILD BY A
+36 NAME OR NICKNAME OTHER THAN THE MINOR CHILD'S LEGAL NAME OR A NATURAL
+37 DERIVATIVE OF THAT NAME OR REFERRING TO THE MINOR CHILD USING PRONOUNS,
+38 TITLES OR PERSONAL IDENTIFIERS THAT DO NOT ALIGN WITH THE MINOR CHILD'S
+39 SEX. A SCHOOL DISTRICT OR SCHOOL EMPLOYEE MAY NOT FACILITATE OR IMPLEMENT
+40 ANY FORM OF SOCIAL TRANSITIONING FOR A MINOR [CHILD] WITHOUT THE WRITTEN
+41 CONSENT OF EACH OF THE [MINOR'S PARENTS] [PARENTS OF THE MINOR CHILD].
+42 13. IN ADDITION TO THE REQUIREMENTS PRESCRIBED IN PARAGRAPH 2 OF
+43 THIS SUBSECTION, THE RIGHT TO REQUEST, REVIEW AND ACCESS THE MINOR CHILD'S
+44 COMPLETE EDUCATIONAL RECORD. A SCHOOL EMPLOYEE MAY NOT WITHHOLD
+45 INFORMATION FROM A PARENT REGARDING THE PARENT'S MINOR CHILD, INCLUDING
+46 ANY INFORMATION IN THE MINOR CHILD'S EDUCATIONAL RECORD REGARDING THE
+47 MINOR CHILD'S PHYSICAL, EMOTIONAL, MENTAL OR ACADEMIC WELL-BEING.
+-2-
+
+Senate Amendments to H.B. 2249
+1 B. This section does not authorize or allow a parent to engage in
+2 conduct that is unlawful or to abuse or neglect a child in violation of
+3 the laws of this state. This section does not prohibit courts, law
+4 enforcement officers or employees of a government agency responsible for
+5 child welfare from acting in their official capacity within the scope of
+6 their authority. This section does not prohibit a court from issuing an
+7 order that is otherwise allowed by law.
+8 C. Any attempt to FACILITATE, encourage or coerce OR ANY COMPLETED
+9 ACT THAT FACILITATES, ENCOURAGES OR COERCES a minor child to withhold
+10 information from the child's parent is grounds for discipline of an
+11 employee of this state, any political subdivision of this state, any other
+12 governmental entity or any other institution, except for law enforcement
+13 personnel WHO HAVE PROBABLE CAUSE TO BELIEVE THAT A CRIME WAS COMMITTED BY
+14 THE MINOR CHILD'S PARENT AND WHO WITHHOLDS THAT INFORMATION IN THE COURSE
+15 OF AN INVESTIGATION OF THAT CRIME. THIS STATE, A POLITICAL SUBDIVISION OF
+16 THIS STATE, A GOVERNMENTAL ENTITY OR AN INSTITUTION MAY NOT MAINTAIN A
+17 POLICY THAT ALLOWS AN EMPLOYEE TO FACILITATE, ENCOURAGE OR COERCE A MINOR
+18 CHILD TO WITHHOLD INFORMATION FROM THE MINOR CHILD'S PARENT.
+19 D. Unless those rights have been legally waived or legally
+20 terminated, parents have inalienable rights that are more comprehensive
+21 than those listed in this section. This chapter does not prescribe all
+22 rights of parents or preempt or foreclose claims or remedies in support of
+23 parental rights that are available under the constitution, statutes or
+24 common law of this state. Unless otherwise required by law, the rights of
+25 parents of minor children shall not be limited or denied.
+26 E. Except as prescribed in subsections F and G H of this section,
+27 this state, a political subdivision of this state or any other
+28 governmental entity, or any official of this state, a political
+29 subdivision of this state or any other governmental entity acting under
+30 color of law, shall not interfere with or usurp the fundamental right of
+31 parents to direct the upbringing, education, health care and mental health
+32 of their children. A parent may bring suit against a governmental entity
+33 or official described in this subsection based on any violation of the
+34 statutory rights set forth in this chapter or any other action that
+35 interferes with or usurps the fundamental right of parents to direct the
+36 upbringing, education, health care and mental health of their children in
+37 the superior court in the county in which the violation or other action
+38 occurs or in federal court, if authorized by federal law, or before an
+39 administrative tribunal of appropriate jurisdiction. A parent may raise a
+40 violation of this chapter as a claim or a defense. IN ANY ACTION BROUGHT
+41 UNDER THIS SECTION, A SHOWING OF A VIOLATION OF THE RIGHTS GUARANTEED OR
+42 RECOGNIZED BY THIS SECTION ESTABLISHES A REBUTTABLE PRESUMPTION OF
+43 IRREPARABLE HARM.
+44 F. In any action under subsection E of this section, the
+45 governmental entity or official described in subsection E of this section
+46 has the burden of proof to demonstrate both of the following:
+-3-
+
+Senate Amendments to H.B. 2249
+1 1. That the interference or usurpation is essential to accomplish a
+2 compelling government interest of the highest order, as long recognized in
+3 the history and traditions of this state in the operation of its
+4 regulatory powers.
+5 2. That the method of interference or usurpation used by the
+6 government is narrowly tailored and is not otherwise served by a less
+7 restrictive means.
+8 G. THIS STATE, ANY POLITICAL SUBDIVISION OF THIS STATE OR ANY
+9 OFFICIAL ACTING UNDER COLOR OF LAW EXPRESSLY WAIVES ALL CLAIMS TO
+10 SOVEREIGN, QUALIFIED OR DISCRETIONARY IMMUNITY FOR ANY VIOLATION OF THIS
+11 SECTION.
+12 G. H. A governmental entity or official described in subsection E
+13 of this section may interfere with or usurp the fundamental right of
+14 parents to direct the upbringing, education, health care and mental health
+15 of their children only if the governmental entity or official successfully
+16 demonstrates both elements described in subsection F of this section. If
+17 the governmental entity or official is unsuccessful, the court shall grant
+18 appropriate relief, such as INCLUDING declaratory or injunctive relief,
+19 compensatory damages and attorney fees, based on the facts of the case and
+20 the law as applied to the facts. AT A MINIMUM, THE GOVERNMENTAL ENTITY IS
+21 LIABLE TO THE MINOR CHILD'S PARENT IN AN AMOUNT OF $500,000 [FOR EACH
+22 INSTANCE OF INTERFERING WITH OR USURPING A FUNDAMENTAL RIGHT], AND A
+23 GOVERNMENT OFFICIAL IS PERSONALLY LIABLE TO THE MINOR CHILD'S PARENT IN AN
+24 AMOUNT OF $20,000 FOR EACH [SEPARATE] INSTANCE OF INTERFERING WITH OR
+25 USURPING A FUNDAMENTAL RIGHT. A GOVERNMENTAL ENTITY THAT EMPLOYS THE
+26 OFFICIAL MAY NOT INDEMNIFY AN OFFENDING OFFICIAL AND MAY NOT USE PUBLIC
+27 MONIES TO PAY FOR THE OFFICIAL'S LIABILITY. THE RIGHT TO SUE BELONGS
+28 INDIVIDUALLY TO EACH OF THE MINOR CHILD'S PARENTS, AND ONE PARENT MAY FILE
+29 SUIT EVEN IF THE MINOR CHILD'S OTHER PARENT DOES NOT CONSENT TO THE
+30 ACTION.
+31 I. IN ADDITION TO SUBSECTION H OF THIS SECTION, A MINOR CHILD'S
+32 PARENT MAY BRING SUIT AGAINST AN EMPLOYEE WHO HAS OR WHO HAS ATTEMPTED TO
+33 FACILITATE, ENCOURAGE OR COERCE A MINOR CHILD TO WITHHOLD INFORMATION FROM
+34 THE MINOR CHILD'S PARENT. AT A MINIMUM, AN EMPLOYEE WHO IS FOUND LIABLE
+35 IS PERSONALLY LIABLE IN AN AMOUNT OF $20,000 [FOR EACH INSTANCE IN WHICH
+36 INFORMATION WAS WITHHELD FROM THE MINOR CHILD'S PARENT], AND A
+37 GOVERNMENTAL ENTITY THAT EMPLOYS THE EMPLOYEE MAY NOT INDEMNIFY AN
+38 OFFENDING EMPLOYEE AND MAY NOT USE PUBLIC MONIES TO PAY FOR THE EMPLOYEE'S
+39 LIABILITY. A PARENT MAY BRING SUIT AGAINST THIS STATE, ANY POLITICAL
+40 SUBDIVISION OF THIS STATE OR ANY OTHER GOVERNMENTAL ENTITY OR INSTITUTION
+41 THAT MAINTAINS A POLICY THAT ALLOWS THE FACILITATION, ENCOURAGEMENT OR
+42 COERCION BY THE EMPLOYEE OF A MINOR CHILD TO WITHHOLD INFORMATION FROM THE
+43 MINOR CHILD'S PARENT. AT A MINIMUM, THE GOVERNMENTAL ENTITY OR
+44 INSTITUTION THAT MAINTAINED THE POLICY IS LIABLE TO THE MINOR CHILD'S
+45 PARENT FOR $500,000 FOR EACH [OCCURRENCE] [INSTANCE] IN WHICH INFORMATION
+46 WAS WITHHELD FROM THE MINOR CHILD'S PARENT. THE RIGHT TO SUE BELONGS
+47 INDIVIDUALLY TO EACH OF THE MINOR CHILD'S PARENTS, AND ONE PARENT MAY FILE
+-4-
+
+Senate Amendments to H.B. 2249
+1 SUIT EVEN IF THE MINOR CHILD'S OTHER PARENT DOES NOT CONSENT TO THE
+2 ACTION. THE STATUTE OF LIMITATIONS FOR AN ACTION COMMENCED PURSUANT TO
+3 THIS SUBSECTION IS FIVE YEARS AFTER THE CONDUCT CEASED AND THE MINOR
+4 CHILD'S PARENT BECAME AWARE OF THE CONDUCT. [IF AN ACT THAT VIOLATES THIS
+5 SECTION OCCURRED BEFORE THE EFFECTIVE DATE OF THIS AMENDMENT TO THIS
+6 SECTION AND THE PERSON CONTINUES TO VIOLATE THIS SECTION AFTER THE
+7 EFFECTIVE DATE OF THIS AMENDMENT TO THIS SECTION, EACH ACT THAT OCCURS
+8 AFTER THE EFFECTIVE DATE OF THIS AMENDMENT TO THIS SECTION CONSTITUTES A
+9 SEPARATE VIOLATION FOR THE PURPOSES OF THIS SECTION.]
+10 J. A MINOR CHILD'S PARENT MAY DEMONSTRATE THAT A GOVERNMENTAL
+11 ENTITY OR INSTITUTION MAINTAINED A POLICY OF FACILITATING, ENCOURAGING OR
+12 COERCING A MINOR CHILD TO WITHHOLD INFORMATION FROM THE MINOR CHILD'S
+13 PARENT THROUGH ANY OF THE FOLLOWING:
+14 1. WRITTEN DOCUMENTS THAT ARE MAINTAINED BY THE GOVERNMENTAL ENTITY
+15 OR INSTITUTION, INCLUDING AS GUIDANCE OR POLICY DOCUMENTS, EMAILS,
+16 MEMORANDA OR SPREADSHEETS.
+17 2. DEMONSTRATING THAT A PERSON WHO HAS SUPERVISORY AUTHORITY IN THE
+18 GOVERNMENTAL ENTITY OR INSTITUTION REQUIRED OR RECOMMENDED THAT EMPLOYEES
+19 ENGAGE IN THE CONDUCT.
+20 3. DEMONSTRATING THAT THE GOVERNMENTAL ENTITY'S OR INSTITUTION'S
+21 EMPLOYEES REGULARLY ENGAGED IN THE CONDUCT. A CAUSE OF ACTION ACCRUES
+22 SEPARATELY FOR EACH [DISTINCT ACT] [INSTANCE] OF FACILITATING, ENCOURAGING
+23 OR COERCING A MINOR CHILD TO WITHHOLD INFORMATION FROM THE MINOR CHILD'S
+24 PARENT. FAILING TO ABIDE BY A PARENT'S EXPRESS REQUEST OR HIDING THE ISSUE
+25 FROM A PARENT CONSTITUTES A SEPARATE VIOLATION THAT TRIGGERS A NEW ACCRUAL
+26 DATE, REGARDLESS OF WHEN THE PARENT FIRST SUSPECTED A SOCIAL TRANSITION
+27 WAS OCCURRING.
+28 K. WITHIN SIX MONTHS AFTER THE EFFECTIVE DATE OF THIS AMENDMENT TO
+29 THIS SECTION, THIS STATE, A POLITICAL SUBDIVISION OF THIS STATE OR A
+30 GOVERNMENTAL ENTITY OR INSTITUTION, INCLUDING AN EDUCATIONAL INSTITUTION,
+31 [HAS AN AFFIRMATIVE DUTY TO INVESTIGATE AND DISCOVER ALL PREVIOUS
+32 INSTANCES IN WHICH IT] OR AN EMPLOYEE OF THIS STATE, A POLITICAL
+33 SUBDIVISION OF THIS STATE OR A GOVERNMENTAL ENTITY OR INSTITUTION [THAT]
+34 FACILITATED, ENCOURAGED OR COERCED, OR ATTEMPTED TO FACILITATE, ENCOURAGE
+35 OR COERCE, A MINOR CHILD TO WITHHOLD INFORMATION FROM THE MINOR CHILD'S
+36 PARENT BEFORE THE EFFECTIVE DATE OF THIS AMENDMENT TO THIS SECTION[. THIS
+37 STATE, A POLITICAL SUBDIVISION OF THIS STATE OR A GOVERNMENTAL ENTITY OR
+38 INSTITUTION, INCLUDING AN EDUCATIONAL INSTITUTION, OR AN EMPLOYEE OF THIS
+39 STATE, A POLITICAL SUBDIVISION OF THIS STATE OR A GOVERNMENTAL ENTITY OR
+40 INSTITUTION WHO FACILITATED, ENCOURAGED OR COERCED, OR ATTEMPTED TO
+41 FACILITATE, ENCOURAGE OR COERCE, A MINOR CHILD TO WITHHOLD INFORMATION
+42 FROM THE MINOR CHILD'S PARENT BEFORE THE EFFECTIVE DATE OF THIS AMENDMENT
+43 TO THIS SECTION] SHALL DISCLOSE [THE] [ANY KNOWN] OFFENDING ACTION TO THE
+44 MINOR CHILD'S PARENT. THIS STATE, A POLITICAL SUBDIVISION OF THIS STATE OR
+45 A GOVERNMENTAL ENTITY OR INSTITUTION, INCLUDING AN EDUCATIONAL
+46 INSTITUTION, OR AN EMPLOYEE OF THIS STATE, A POLITICAL SUBDIVISION OF THIS
+47 STATE OR A GOVERNMENTAL ENTITY OR INSTITUTION IS CIVILLY LIABLE TO THE
+-5-
+
+Senate Amendments to H.B. 2249
+1 PARENT OF A MINOR CHILD FOR ANY VIOLATION THAT WAS NOT DISCLOSED PURSUANT
+2 TO THIS SUBSECTION [IF THE VIOLATION WAS ACTUALLY KNOWN OR WOULD HAVE BEEN
+3 DISCOVERED WITH REASONABLE DILIGENCE AND INVESTIGATION]. THIS STATE, A
+4 POLITICAL SUBDIVISION OF THIS STATE OR A GOVERNMENTAL ENTITY OR
+5 INSTITUTION, INCLUDING AN EDUCATIONAL INSTITUTION, IS LIABLE TO THE MINOR
+6 CHILD'S PARENT FOR AT LEAST $500,000 FOR EACH [SEPARATE ACT] [INSTANCE]
+7 THAT WAS NOT DISCLOSED TO THE MINOR CHILD'S PARENT. AN EMPLOYEE OF THIS
+8 STATE, A POLITICAL SUBDIVISION OF THIS STATE OR A GOVERNMENTAL ENTITY OR
+9 INSTITUTION IS PERSONALLY LIABLE TO THE MINOR CHILD'S PARENT FOR AT LEAST
+10 $20,000 FOR EACH [SEPARATE ACT] [INSTANCE] THAT WAS NOT DISCLOSED TO THE
+11 MINOR CHILD'S PARENT. A GOVERNMENTAL ENTITY OR INSTITUTION MAY NOT
+12 INDEMNIFY AN OFFENDING EMPLOYEE AND MAY NOT USE PUBLIC MONIES TO PAY FOR
+13 THE EMPLOYEE'S LIABILITY OR AN INSURANCE POLICY TO COVER THE CIVIL
+14 LIABILITY.
+15 H. L. For the purposes of this section: ,
+16 [1. "DISTINCT ACT OR OMISSION" MEANS AN ACT OR OMISSION THAT
+17 DIFFERS FROM ANOTHER ACT OR OMISSION IN ONE OF THE FOLLOWING WAYS:
+18 (a) THE GOVERNMENTAL ENTITY OR OFFICIAL WHO PERFORMED OR DIRECTED
+19 THE ACT OR OMISSION IS DIFFERENT.
+20 (b) THE SPECIFIC FUNDAMENTAL RIGHT THAT IS INVOLVED IS DIFFERENT.
+21 (c) THE OCCASION OR EPISODE DURING WHICH THE ACT OR OMISSION
+22 OCCURRED IS DIFFERENT AND THERE IS NOT A SINGLE, CONTINUOUS, UNINTERRUPTED
+23 EXERCISE OF AUTHORITY.
+24 (d) THE ACT OR OMISSION OCCURRED AFTER THE GOVERNMENTAL ENTITY OR
+25 OFFICIAL RECEIVED ACTUAL OR CONSTRUCTIVE NOTICE, WHETHER THROUGH A WRITTEN
+26 DEMAND, A PREVIOUS COURT ORDER OR AN EXPRESS ORAL OR WRITTEN OBJECTION
+27 FROM THE MINOR CHILD'S PARENT.]
+28 [1.] [2.] "EDUCATIONAL RECORD" INCLUDES ATTENDANCE RECORDS, TEST
+29 SCORES FROM SCHOOL-ADMINISTERED TESTS AND STATEWIDE ASSESSMENTS, GRADES,
+30 EXTRACURRICULAR ACTIVITY OR CLUB PARTICIPATION RECORDS, EMAIL ACCOUNT
+31 RECORDS, ONLINE OR VIRTUAL ACCOUNTS OR DATA, DISCIPLINARY RECORDS,
+32 COUNSELING RECORDS, PSYCHOLOGICAL RECORDS, APPLICATIONS FOR ADMISSION,
+33 HEALTH AND IMMUNIZATION INFORMATION, INCLUDING ANY MEDICAL RECORDS
+34 MAINTAINED BY A HEALTH CLINIC OR MEDICAL FACILITY THAT IS OPERATED OR
+35 CONTROLLED BY A SCHOOL DISTRICT OR THAT IS LOCATED ON SCHOOL DISTRICT
+36 PROPERTY, TEACHER AND COUNSELOR EVALUATIONS, REPORTS OF THE MINOR CHILD'S
+37 BEHAVIORAL PATTERNS, THERAPY NOTES AND TREATMENT PLAN.
+38 [2.] [3.] "INSTANCE" MEANS EACH [DAY THAT INCLUDES A COMMUNICATION,
+39 MESSAGE, COMMENT OR OTHER ACT THAT VIOLATES THIS SECTION] [SEPARATE ACT OR
+40 OMISSION THAT INTERFERES WITH OR USURPS A FUNDAMENTAL RIGHT EXCEPT THAT
+41 EACH DISTINCT ACT OR OMISSION BEYOND THE FIRST ACT OR OMISSION CONSTITUTES
+42 AN ADDITIONAL INSTANCE, UNLESS IT IS BY THE SAME GOVERNMENTAL ENTITY OR
+43 OFFICIAL ENGAGING IN REPEATED ACTS OF THE SAME NATURE, DIRECTED AT THE
+44 SAME MINOR CHILD AND THE SAME FUNDAMENTAL RIGHT AND OCCURS WITHIN A SINGLE
+45 SCHOOL YEAR OR A TWELVE-MONTH PERIOD, THEN THE REPEATED ACTS CONSTITUTE A
+46 MINIMUM OF ONE INSTANCE PER SCHOOL YEAR OR TWELVE-MONTH PERIOD].
+-6-
+
+Senate Amendments to H.B. 2249
+1 [3.] [4.] "Parent" means the natural or adoptive parent or legal
+2 guardian of a minor child.
+3 [4.] [5.] "SOCIAL TRANSITIONING" MEANS THE PROCESS IN WHICH A
+4 PERSON GOES FROM IDENTIFYING WITH AND LIVING AS A GENDER THAT CORRESPONDS
+5 TO THE PERSON'S SEX TO IDENTIFYING WITH AND LIVING AS A GENDER THAT IS
+6 DIFFERENT FROM THE PERSON'S SEX AND MAY INVOLVE SOCIAL, LEGAL OR PHYSICAL
+7 CHANGES.
+8 [5.] [6.] "WITHOLD" [INCLUDES ALL OF THE FOLLOWING]:
+9 [(a) DECLINING TO NOTIFY A PARENT OR GUARDIAN.
+10 (b) INSTRUCTING A STUDENT TO KEEP INFORMATION FROM A PARENT OR
+11 GUARDIAN.
+12 (c) OTHERWISE PREVENTING A PARENT OR GUARDIAN FROM ACCESSING
+13 INFORMATION TO WHICH THE PARENT OR GUARDIAN IS ENTITLED PURSUANT TO THIS
+14 SECTION.]
+15 [(a) MEANS TO KNOWINGLY FAIL TO DISCLOSE, CONCEAL OR PREVENT THE
+16 COMMUNICATION OF INFORMATION TO A PARENT, WHETHER BY AN AFFIRMATIVE ACT OF
+17 CONCEALMENT, BY DECLINING TO RESPOND TO A PARENT'S INQUIRY OR BY OMITTING
+18 INFORMATION FROM A COMMUNICATION WITH THE PARENT IF THE GOVERNMENTAL
+19 ENTITY OR EMPLOYEE KNOWS OR REASONABLY SHOULD HAVE KNOWN THAT THE PARENT
+20 WAS ENTITLED TO THAT INFORMATION PURSUANT TO THIS SECTION.
+21 (b) DOES NOT INCLUDE A GOOD FAITH DELAY IN PROVIDING INFORMATION
+22 THAT IS PENDING VERIFICATION OF THE INFORMATION'S ACCURACY IF THE
+23 INFORMATION IS DISCLOSED TO THE PARENT WITHIN A REASONABLE TIME AND NOT
+24 LATER THAN FIVE BUSINESS DAYS AFTER THE GOOD FAITH DELAY BEGINS.]
+25 Enroll and engross to conform
+26 Amend title to conform
+J.D. MESNARD
+2249MESNARD0325.docx
+04/20/2026
+03:25 PM
+S: MH/ci
+130HQJNSJ
+-7-

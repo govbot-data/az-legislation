@@ -1,0 +1,1306 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - SUB Floor Amend to TI - Biasiucci - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1552: ADOT; revisions.
+BIASIUCCI FLOOR AMENDMENT
+1. Requires a contract, between a law enforcement agency and a business that
+uses a camera system that identifies motor vehicles, to prohibit the business
+from selling or disseminating any data collected by the camera system to
+third parties.
+2. Clarifies that evidence-based psychotherapy is an alternative form of
+treatment, rather than an alternative form of alcohol or other drug screening
+education.
+3. Makes a heading change under Title 44.
+4. Makes technical and conforming changes.
+LUCA MOLDOVAN
+4/20/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Biasiucci
+Second Regular Session S.B. 1552
+BIASIUCCI SUBSTITUTE FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1552
+I move the following SUBSTITUTE amendment to the TRANSPORTATION & INFRASTRUCTURE Committee
+Amendment to
+SENATE BILL 1552 (Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 28-101, Arizona Revised Statutes, is amended to
+3 read:
+4 28-101. Definitions
+5 In this title, unless the context otherwise requires:
+6 1. "Alcohol" means any substance containing any form of alcohol,
+7 including ethanol, methanol, propynol and isopropynol.
+8 2. "Alcohol concentration" if expressed as a percentage means
+9 either:
+10 (a) The number of grams of alcohol per one hundred milliliters of
+11 blood.
+12 (b) The number of grams of alcohol per two hundred ten liters of
+13 breath.
+14 3. "All-terrain vehicle" means either of the following:
+15 (a) A motor vehicle that satisfies all of the following:
+16 (i) Is designed primarily for recreational nonhighway all-terrain
+17 travel.
+18 (ii) Is fifty or fewer inches in width.
+19 (iii) Has an unladen weight of one thousand two hundred pounds or
+20 less.
+21 (iv) Travels on three or more nonhighway tires.
+22 (v) Is operated on a public highway.
+23 (b) A recreational off-highway vehicle that satisfies all of the
+24 following:
+25 (i) Is designed primarily for recreational nonhighway all-terrain
+26 travel.
+
+House Amendments to S.B. 1552
+1 (ii) Is eighty or fewer inches in width.
+2 (iii) Has an unladen weight of two thousand five hundred pounds or
+3 less.
+4 (iv) Travels on four or more nonhighway tires.
+5 (v) Has a steering wheel for steering control.
+6 (vi) Has a rollover protective structure.
+7 (vii) Has an occupant retention system.
+8 4. "APPLY["] AND ["]APPLICATION" MEANS THE PROCESS IN WHICH A
+9 PERSON PROVIDES REQUIRED INFORMATION IN A MANNER PRESCRIBED BY THE
+10 DEPARTMENT FOR SERVICES RENDERED BY THE DEPARTMENT.
+11 4. 5. "Authorized emergency vehicle" means any of the following:
+12 (a) A fire department vehicle.
+13 (b) A police vehicle.
+14 (c) An ambulance or emergency vehicle of a municipal department or
+15 public service corporation that is designated or authorized by the
+16 department or a local authority.
+17 (d) Any other ambulance, fire truck or rescue vehicle that is
+18 authorized by the department in its sole discretion and that meets
+19 liability insurance requirements prescribed by the department.
+20 5. 6. "Autocycle" means a three-wheeled motorcycle on which the
+21 driver and passengers ride in a fully or partially enclosed seating area
+22 that is equipped with a roll cage, safety belts for each occupant and
+23 antilock brakes and that is designed to be controlled with a steering
+24 wheel and pedals.
+25 6. 7. "Automated driving system" means the hardware and software
+26 that are collectively capable of performing the entire dynamic driving
+27 task on a sustained basis, regardless of whether it is limited to a
+28 specific operational design domain.
+29 7. 8. "Automotive recycler" means a person that is engaged in the
+30 business of buying or acquiring a motor vehicle solely for the purpose of
+31 dismantling, selling or otherwise disposing of the parts or accessories
+32 and that removes parts for resale from six or more vehicles in a calendar
+33 year.
+34 8. 9. "Autonomous vehicle" means a motor vehicle that is equipped
+35 with an automated driving system.
+36 9. 10. "Aviation fuel" means all flammable liquids composed of a
+37 mixture of selected hydrocarbons expressly manufactured and blended for
+38 the purpose of effectively and efficiently operating an internal
+39 combustion engine for use in an aircraft but does not include fuel for jet
+40 or turbine powered aircraft.
+41 10. 11. "Bicycle" means a device, including a racing wheelchair,
+42 that is propelled by human power and on which a person may ride and that
+43 has either:
+44 (a) Two tandem wheels, either of which is more than sixteen inches
+45 in diameter.
+46 (b) Three wheels in contact with the ground, any of which is more
+47 than sixteen inches in diameter.
+-2-
+
+House Amendments to S.B. 1552
+1 11. 12. "Board" means the transportation board.
+2 12. 13. "Bus" means a motor vehicle designed for carrying sixteen
+3 or more passengers, including the driver.
+4 13. 14. "Business district" means the territory contiguous to and
+5 including a highway if there are buildings in use for business or
+6 industrial purposes within any six hundred feet along the highway,
+7 including hotels, banks or office buildings, railroad stations and public
+8 buildings that occupy at least three hundred feet of frontage on one side
+9 or three hundred feet collectively on both sides of the highway.
+10 14. 15. "Certificate of ownership" means a paper or an electronic
+11 record that is issued in another state or a foreign jurisdiction and that
+12 indicates ownership of a vehicle.
+13 15. 16. "Certificate of title" means a paper document or an
+14 electronic record that is issued by the department and that indicates
+15 ownership of a vehicle.
+16 16. 17. "Combination of vehicles" means a truck or truck tractor
+17 and semitrailer and any trailer that it tows but does not include a
+18 forklift designed for the purpose of loading or unloading the truck,
+19 trailer or semitrailer.
+20 17. 18. "Controlled substance" means a substance so classified
+21 under section 102(6) of the controlled substances act (21 United States
+22 Code section 802(6)) and includes all substances listed in schedules I
+23 through V of 21 Code of Federal Regulations part 1308.
+24 18. 19. "Conviction" means:
+25 (a) An unvacated adjudication of guilt or a determination that a
+26 person violated or failed to comply with the law in a court of original
+27 jurisdiction or by an authorized administrative tribunal.
+28 (b) An unvacated forfeiture of bail or collateral deposited to
+29 secure the person's appearance in court.
+30 (c) A plea of guilty or no contest accepted by the court.
+31 (d) The payment of a fine or court costs.
+32 19. 20. "County highway" means a public road that is constructed
+33 and maintained by a county.
+34 20. 21. "Dealer" means a person who is engaged in the business of
+35 buying, selling or exchanging motor vehicles, trailers or semitrailers and
+36 who has an established place of business and has paid fees pursuant to
+37 section 28-4302.
+38 21. 22. "Department" means the department of transportation acting
+39 directly or through its duly authorized officers and agents.
+40 22. 23. "Digital network or software application" has the same
+41 meaning prescribed in section 28-9551.
+42 23. 24. "Director" means the director of the department of
+43 transportation.
+44 24. 25. "Drive" means to operate or be in actual physical control
+45 of a motor vehicle.
+46 25. 26. "Driver" means a person who drives or is in actual
+47 physical control of a vehicle.
+-3-
+
+House Amendments to S.B. 1552
+1 26. 27. "Driver license" means a license that is issued by a state
+2 to an individual and that authorizes the individual to drive a motor
+3 vehicle.
+4 27. 28. "Dynamic driving task":
+5 (a) Means all of the real-time operational and tactical functions
+6 required to operate a vehicle in on-road traffic.
+7 (b) Includes:
+8 (i) Lateral vehicle motion control by steering.
+9 (ii) Longitudinal motion control by acceleration and deceleration.
+10 (iii) Monitoring the driving environment by object and event
+11 detection, recognition, classification and response preparation.
+12 (iv) Object and event response execution.
+13 (v) Maneuver planning.
+14 (vi) Enhancing conspicuity by lighting, signaling and gesturing.
+15 (c) Does not include strategic functions such as trip scheduling
+16 and selecting destinations and waypoints.
+17 28. 29. "Electric bicycle" means a bicycle or tricycle that is
+18 equipped with fully operable pedals and an electric motor of less than
+19 seven hundred fifty watts and that meets the requirements of one of the
+20 following classes:
+21 (a) "Class 1 electric bicycle" means a bicycle or tricycle that is
+22 equipped with an electric motor that provides assistance only when the
+23 rider is pedaling and that ceases to provide assistance when the bicycle
+24 or tricycle reaches the speed of twenty miles per hour.
+25 (b) "Class 2 electric bicycle" means a bicycle or tricycle that is
+26 equipped with an electric motor that may be used exclusively to propel the
+27 bicycle or tricycle and that is not capable of providing assistance when
+28 the bicycle or tricycle reaches the speed of twenty miles per hour.
+29 (c) "Class 3 electric bicycle" means a bicycle or tricycle that is
+30 equipped with an electric motor that provides assistance only when the
+31 rider is pedaling and that ceases to provide assistance when the bicycle
+32 or tricycle reaches the speed of twenty-eight miles per hour.
+33 29. 30. "Electric miniature scooter" means a device that:
+34 (a) Weighs less than thirty pounds.
+35 (b) Has two or three wheels.
+36 (c) Has handlebars.
+37 (d) Has a floorboard on which a person may stand while riding.
+38 (e) Is powered by an electric motor or human power, or both.
+39 (f) Has a maximum speed that does not exceed ten miles per hour,
+40 with or without human propulsion, on a paved level surface.
+41 30. 31. "Electric personal assistive mobility device" means a
+42 self-balancing device with one wheel or two nontandem wheels and an
+43 electric propulsion system that limits the maximum speed of the device to
+44 fifteen miles per hour or less and that is designed to transport only one
+45 person.
+46 31. 32. "Electric standup scooter":
+47 (a) Means a device that:
+-4-
+
+House Amendments to S.B. 1552
+1 (i) Weighs less than seventy-five pounds.
+2 (ii) Has two or three wheels.
+3 (iii) Has handlebars.
+4 (iv) Has a floorboard on which a person may stand while riding.
+5 (v) Is powered by an electric motor or human power, or both.
+6 (vi) Has a maximum speed that does not exceed twenty miles per
+7 hour, with or without human propulsion, on a paved level surface.
+8 (b) Does not include an electric miniature scooter.
+9 32. 33. "Evidence" includes both of the following:
+10 (a) A display on a wireless communication device of a
+11 department-generated driver license, nonoperating identification license,
+12 vehicle registration card or other official record of the department that
+13 is presented to a law enforcement officer or in a court or an
+14 administrative proceeding.
+15 (b) An electronic or digital license plate authorized pursuant to
+16 section 28-364.
+17 33. 34. "Farm" means any lands primarily used for agriculture
+18 production.
+19 34. 35. "Farm tractor" means a motor vehicle designed and used
+20 primarily as a farm implement for drawing implements of husbandry.
+21 35. 36. "Foreign vehicle" means a motor vehicle, trailer or
+22 semitrailer that is brought into this state other than in the ordinary
+23 course of business by or through a manufacturer or dealer and that has not
+24 been registered in this state.
+25 36. 37. "Fully autonomous vehicle" means an autonomous vehicle
+26 that is equipped with an automated driving system designed to function as
+27 a level four or five system under SAE J3016 and that may be designed to
+28 function either:
+29 (a) Solely by use of the automated driving system.
+30 (b) By a human driver when the automated driving system is not
+31 engaged.
+32 37. 38. "Golf cart" means a motor vehicle that has not less than
+33 three wheels in contact with the ground, that has an unladen weight of
+34 less than one thousand eight hundred pounds, that is designed to be and is
+35 operated at not more than twenty-five miles per hour and that is designed
+36 to carry not more than four persons including the driver.
+37 38. 39. "Gross combined weight rating" means the sum of the gross
+38 vehicle weight rating of a motor vehicle and the trailer or semitrailer
+39 the motor vehicle tows.
+40 39. 40. "Gross vehicle weight rating" means the weight that is
+41 assigned by the motor vehicle manufacturer to a motor vehicle and that
+42 represents the maximum recommended total weight, including the vehicle and
+43 the load for the vehicle.
+44 40. 41. "Hazardous material" means a material, and its mixtures or
+45 solutions, that the United States department of transportation determines
+46 under 49 Code of Federal Regulations is, or any quantity of a material
+47 listed as a select agent or toxin under 42 Code of Federal Regulations
+-5-
+
+House Amendments to S.B. 1552
+1 part 73 that is, capable of posing an unreasonable risk to health, safety
+2 and property if transported in commerce and that is required to be
+3 placarded or marked as required by the department's safety rules
+4 prescribed pursuant to chapter 14 of this title.
+5 41. 42. "Human driver" means a natural person in the vehicle who
+6 performs in real time all or part of the dynamic driving task or who
+7 achieves a minimal risk condition for the vehicle.
+8 42. 43. "Implement of husbandry" means a vehicle that is designed
+9 primarily for agricultural purposes and that is used exclusively in the
+10 conduct of agricultural operations, including an implement or vehicle that
+11 uses an automated driving system or that is autonomous or that is
+12 self-propelled or otherwise, whether operated manually, equipped with an
+13 automated driving system that is not in use or equipped with an automated
+14 driving system that is in use, and that meets both of the following
+15 conditions:
+16 (a) Is used solely for agricultural purposes, including the
+17 preparation or harvesting of cotton, alfalfa, grains, specialty crops and
+18 other farm crops. For the purposes of this subdivision, "specialty crops"
+19 includes fruits, vegetables, tree nuts, dried fruits and horticulture and
+20 nursery crops, including floriculture.
+21 (b) Is only incidentally operated or moved on a highway whether as
+22 a trailer or an autonomous vehicle or a self-propelled unit. For the
+23 purposes of this subdivision, "incidentally operated or moved on a
+24 highway" means travel between a farm and another part of the same farm,
+25 from one farm to another farm or between a farm and a place of repair,
+26 supply or storage.
+27 43. 44. "Limousine" means a motor vehicle providing prearranged
+28 ground transportation service for an individual passenger, or a group of
+29 passengers, that is arranged in advance or is operated on a regular route
+30 or between specified points and includes ground transportation under a
+31 contract or agreement for services that includes a fixed rate or time and
+32 is provided in a motor vehicle with a seating capacity not exceeding
+33 fifteen passengers including the driver.
+34 44. 45. "Livery vehicle" means a motor vehicle that:
+35 (a) Has a seating capacity not exceeding fifteen passengers
+36 including the driver.
+37 (b) Provides passenger services for a fare determined by a flat
+38 rate or flat hourly rate between geographic zones or within a geographic
+39 area.
+40 (c) Is available for hire on an exclusive or shared ride basis.
+41 (d) May do any of the following:
+42 (i) Operate on a regular route or between specified places.
+43 (ii) Offer prearranged ground transportation service as defined in
+44 section 28-141.
+45 (iii) Offer on demand ground transportation service pursuant to a
+46 contract with a public airport, licensed business entity or organization.
+-6-
+
+House Amendments to S.B. 1552
+1 45. 46. "Local authority" means any county, municipal or other
+2 local board or body exercising jurisdiction over highways under the
+3 constitution and laws of this state.
+4 46. 47. "Manufacturer" means a person engaged in the business of
+5 manufacturing motor vehicles, trailers or semitrailers.
+6 47. 48. "Minimal risk condition":
+7 (a) Means a condition to which a human driver or an automated
+8 driving system may bring a vehicle in order to reduce the risk of a crash
+9 when a given trip cannot or should not be completed.
+10 (b) Includes bringing the vehicle to a complete stop.
+11 48. 49. "Moped" means a bicycle, not including an electric
+12 bicycle, an electric miniature scooter or an electric standup scooter,
+13 that is equipped with a helper motor if the vehicle has a maximum piston
+14 displacement of fifty cubic centimeters or less, a brake horsepower of one
+15 and one-half or less and a maximum speed of twenty-five miles per hour or
+16 less on a flat surface with less than a one percent grade.
+17 49. 50. "Motorcycle" means a motor vehicle that has a seat or
+18 saddle for the use of the rider and that is designed to travel on not more
+19 than three wheels in contact with the ground but excludes a tractor, an
+20 electric bicycle, an electric miniature scooter, an electric standup
+21 scooter and a moped.
+22 50. 51. "Motor driven cycle" means a motorcycle, including every
+23 motor scooter, with a motor that produces not more than five horsepower
+24 but does not include an electric bicycle, an electric miniature scooter or
+25 an electric standup scooter.
+26 51. 52. "Motorized quadricycle" means a self-propelled motor
+27 vehicle to which all of the following apply:
+28 (a) The vehicle is self-propelled by an emission-free electric
+29 motor and may include pedals operated by the passengers.
+30 (b) The vehicle has at least four wheels in contact with the
+31 ground.
+32 (c) The vehicle seats at least eight passengers, including the
+33 driver.
+34 (d) The vehicle is operable on a flat surface using solely the
+35 electric motor without assistance from the pedals or passengers.
+36 (e) The vehicle is a commercial motor vehicle as defined in section
+37 28-5201.
+38 (f) The vehicle is a limousine operating under a vehicle for hire
+39 company permit issued pursuant to section 28-9503.
+40 (g) The vehicle is manufactured by a motor vehicle manufacturer
+41 that is licensed pursuant to chapter 10 of this title.
+42 (h) The vehicle complies with the definition and standards for
+43 low-speed vehicles set forth in 49 Code of Federal Regulations sections
+44 571.3(b) and 571.500, respectively.
+45 52. 53. "Motor vehicle":
+46 (a) Means either:
+47 (i) A self-propelled vehicle.
+-7-
+
+House Amendments to S.B. 1552
+1 (ii) For the purposes of the laws relating to the imposition of a
+2 tax on motor vehicle fuel, a vehicle that is operated on the highways of
+3 this state and that is propelled by the use of motor vehicle fuel.
+4 (b) Does not include a scrap vehicle, a personal delivery device, a
+5 personal mobile cargo carrying device, a motorized wheelchair, an electric
+6 personal assistive mobility device, an electric bicycle, an electric
+7 miniature scooter, an electric standup scooter or a motorized skateboard.
+8 For the purposes of this subdivision:
+9 (i) "Motorized skateboard" means a self-propelled device that does
+10 not have handlebars and that has a motor, a deck on which a person may
+11 ride and at least two tandem wheels in contact with the ground.
+12 (ii) "Motorized wheelchair" means a self-propelled wheelchair that
+13 is used by a person for mobility.
+14 53. 54. "Motor vehicle fuel" includes all products that are
+15 commonly or commercially known or sold as gasoline, including casinghead
+16 gasoline, natural gasoline and all flammable liquids, and that are
+17 composed of a mixture of selected hydrocarbons expressly manufactured and
+18 blended for the purpose of effectively and efficiently operating internal
+19 combustion engines. Motor vehicle fuel does not include inflammable
+20 liquids that are specifically manufactured for racing motor vehicles and
+21 that are distributed for and used by racing motor vehicles at a racetrack,
+22 use fuel as defined in section 28-5601, aviation fuel, fuel for jet or
+23 turbine powered aircraft or the mixture created at the interface of two
+24 different substances being transported through a pipeline, commonly known
+25 as transmix.
+26 54. 55. "Neighborhood electric shuttle":
+27 (a) Means a self-propelled electrically powered motor vehicle to
+28 which all of the following apply:
+29 (i) The vehicle is emission free.
+30 (ii) The vehicle has at least four wheels in contact with the
+31 ground.
+32 (iii) The vehicle is capable of transporting at least eight
+33 passengers, including the driver.
+34 (iv) The vehicle is a commercial motor vehicle as defined in
+35 section 28-5201.
+36 (v) The vehicle is a vehicle for hire as defined in section 28-9501
+37 and operates under a vehicle for hire company permit issued pursuant to
+38 section 28-9503.
+39 (vi) The vehicle complies with the definition and standards for
+40 low-speed vehicles set forth in 49 Code of Federal Regulations sections
+41 571.3(b) and 571.500, respectively.
+42 (b) Includes a vehicle that meets the standards prescribed in
+43 subdivision (a) of this paragraph and that has been modified after market
+44 and not by the manufacturer to transport up to fifteen passengers,
+45 including the driver.
+46 55. 56. "Neighborhood electric vehicle" means a self-propelled
+47 electrically powered motor vehicle to which all of the following apply:
+-8-
+
+House Amendments to S.B. 1552
+1 (a) The vehicle is emission free.
+2 (b) The vehicle has at least four wheels in contact with the
+3 ground.
+4 (c) The vehicle complies with the definition and standards for
+5 low-speed vehicles, unless excepted or exempted under federal law, set
+6 forth in 49 Code of Federal Regulations sections 571.3(b) and 571.500,
+7 respectively.
+8 56. 57. "Neighborhood occupantless electric vehicle" means a
+9 neighborhood electric vehicle that is not designed, intended or marketed
+10 for human occupancy.
+11 57. 58. "Nonresident" means a person who is not a resident of this
+12 state as defined in section 28-2001.
+13 58. 59. "Off-road recreational motor vehicle" means a motor
+14 vehicle that is designed primarily for recreational nonhighway all-terrain
+15 travel and that is not operated on a public highway. Off-road
+16 recreational motor vehicle does not mean a motor vehicle used for
+17 construction, building trade, mining or agricultural purposes.
+18 59. 60. "Operational design domain":
+19 (a) Means operating conditions under which a given automated
+20 driving system is specifically designed to function.
+21 (b) Includes roadway types, speed range, environmental conditions,
+22 such as weather or time of day, and other domain constraints.
+23 60. 61. "Operator" means a person who drives a motor vehicle on a
+24 highway, who is in actual physical control of a motor vehicle on a highway
+25 or who is exercising control over or steering a vehicle being towed by a
+26 motor vehicle.
+27 61. 62. "Owner" means:
+28 (a) A person who holds the legal title of a vehicle.
+29 (b) If a vehicle is the subject of an agreement for the conditional
+30 sale or lease with the right of purchase on performance of the conditions
+31 stated in the agreement and with an immediate right of possession vested
+32 in the conditional vendee or lessee, the conditional vendee or lessee.
+33 (c) If a mortgagor of a vehicle is entitled to possession of the
+34 vehicle, the mortgagor.
+35 62. 63. "Pedestrian" means any person afoot. A person who uses an
+36 electric personal assistive mobility device or a manual or motorized
+37 wheelchair is considered a pedestrian unless the manual wheelchair
+38 qualifies as a bicycle. For the purposes of this paragraph, "motorized
+39 wheelchair" means a self-propelled wheelchair that is used by a person for
+40 mobility.
+41 63. 64. "Personal delivery device":
+42 (a) Means a device that is both of the following:
+43 (i) Manufactured for transporting cargo and goods in an area
+44 described in section 28-1225.
+45 (ii) Equipped with automated driving technology, including software
+46 and hardware, that enables the operation of the device with the remote
+47 support and supervision of a human.
+-9-
+
+House Amendments to S.B. 1552
+1 (b) Does not include a personal mobile cargo carrying device.
+2 64. 65. "Personal mobile cargo carrying device" means an
+3 electronically powered device that:
+4 (a) Is operated primarily on sidewalks and within crosswalks and
+5 that is designed to transport property.
+6 (b) Weighs less than eighty pounds, excluding cargo.
+7 (c) Operates at a maximum speed of twelve miles per hour.
+8 (d) Is equipped with technology to transport personal property with
+9 the active monitoring of a property owner and that is primarily designed
+10 to remain within twenty-five feet of the property owner.
+11 (e) Is equipped with a braking system that when active or engaged
+12 enables the personal mobile cargo carrying device to come to a controlled
+13 stop.
+14 65. 66. "Power sweeper" means an implement, with or without motive
+15 power, that is only incidentally operated or moved on a street or highway
+16 and that is designed for the removal of debris, dirt, gravel, litter or
+17 sand whether by broom, vacuum or regenerative air system from asphaltic
+18 concrete or cement concrete surfaces, including parking lots, highways,
+19 streets and warehouses, and a vehicle on which the implement is
+20 permanently mounted.
+21 66. 67. "Public transit" means the transportation of passengers on
+22 scheduled routes by means of a conveyance on an individual passenger
+23 fare-paying basis excluding transportation by a sightseeing bus, school
+24 bus or taxi or a vehicle not operated on a scheduled route basis.
+25 67. 68. "Reconstructed vehicle" means a vehicle that has been
+26 assembled or constructed largely by means of essential parts, new or used,
+27 derived from vehicles or makes of vehicles of various names, models and
+28 types or that, if originally otherwise constructed, has been materially
+29 altered by the removal of essential parts or by the addition or
+30 substitution of essential parts, new or used, derived from other vehicles
+31 or makes of vehicles. For the purposes of this paragraph, "essential
+32 parts" means integral and body parts, the removal, alteration or
+33 substitution of which will tend to conceal the identity or substantially
+34 alter the appearance of the vehicle.
+35 68. 69. "Residence district" means the territory contiguous to and
+36 including a highway not comprising a business district if the property on
+37 the highway for a distance of three hundred feet or more is in the main
+38 improved with residences or residences and buildings in use for business.
+39 69. 70. "Right-of-way" when used within the context of the
+40 regulation of the movement of traffic on a highway means the privilege of
+41 the immediate use of the highway. Right-of-way when used within the
+42 context of the real property on which transportation facilities and
+43 appurtenances to the facilities are constructed or maintained means the
+44 lands or interest in lands within the right-of-way boundaries.
+45 70. 71. "SAE J3016" means surface transportation recommended
+46 practice J3016 taxonomy and definitions for terms related to driving
+-10-
+
+House Amendments to S.B. 1552
+1 automation systems for on-road motor vehicles published by SAE
+2 international in June 2018.
+3 71. 72. "School bus" means a motor vehicle that is designed for
+4 carrying more than ten passengers and that is either:
+5 (a) Owned by any public or governmental agency or other institution
+6 and operated for the transportation of children to or from home or school
+7 on a regularly scheduled basis.
+8 (b) Privately owned and operated for compensation for the
+9 transportation of children to or from home or school on a regularly
+10 scheduled basis.
+11 72. 73. "Scrap metal dealer" has the same meaning prescribed in
+12 section 44-1641.
+13 73. 74. "Scrap vehicle" has the same meaning prescribed in section
+14 44-1641.
+15 74. 75. "Semitrailer" means a vehicle that is with or without
+16 motive power, other than a pole trailer or single-axle tow dolly, that is
+17 designed for carrying persons or property and for being drawn by a motor
+18 vehicle and that is constructed so that some part of its weight and that
+19 of its load rests on or is carried by another vehicle. For the purposes of
+20 this paragraph, "pole trailer" has the same meaning prescribed in section
+21 28-601.
+22 75. 76. "Single-axle tow dolly" means a nonvehicle device that is
+23 drawn by a motor vehicle, that is designed and used exclusively to
+24 transport another motor vehicle and on which the front or rear wheels of
+25 the drawn motor vehicle are mounted on the tow dolly while the other
+26 wheels of the drawn motor vehicle remain in contact with the ground.
+27 76. 77. "State" means a state of the United States and the
+28 District of Columbia.
+29 77. 78. "State highway" means a state route or portion of a state
+30 route that is accepted and designated by the board as a state highway and
+31 that is maintained by the state.
+32 78. 79. "State route" means a right-of-way whether actually used
+33 as a highway or not that is designated by the board as a location for the
+34 construction of a state highway.
+35 79. 80. "Street" or "highway" means the entire width between the
+36 boundary lines of every way if a part of the way is open to the use of the
+37 public for purposes of vehicular travel.
+38 80. 81. "Taxi" means a motor vehicle that has a seating capacity
+39 not exceeding fifteen passengers, including the driver, that provides
+40 passenger services and that:
+41 (a) Does not primarily operate on a regular route or between
+42 specified places.
+43 (b) Offers local transportation for a fare determined on the basis
+44 of the distance traveled or prearranged ground transportation service as
+45 defined in section 28-141 for a predetermined fare.
+-11-
+
+House Amendments to S.B. 1552
+1 81. 82. "Title transfer form" means a paper or an electronic form
+2 that is prescribed by the department for the purpose of transferring a
+3 certificate of title from one owner to another owner.
+4 82. 83. "Traffic survival school" means a school that is licensed
+5 pursuant to chapter 8, article 7.1 of this title and that offers
+6 educational sessions that are designed to improve the safety and habits of
+7 drivers and that are approved by the department.
+8 83. 84. "Trailer" means a vehicle that is with or without motive
+9 power, other than a pole trailer or single-axle tow dolly, that is
+10 designed for carrying persons or property and for being drawn by a motor
+11 vehicle and that is constructed so that no part of its weight rests on the
+12 towing vehicle. A semitrailer equipped with an auxiliary front axle
+13 commonly known as a dolly is deemed to be a trailer. For the purposes of
+14 this paragraph, "pole trailer" has the same meaning prescribed in section
+15 28-601.
+16 84. 85. "Transportation network company" has the same meaning
+17 prescribed in section 28-9551.
+18 85. 86. "Transportation network company vehicle" has the same
+19 meaning prescribed in section 28-9551.
+20 86. 87. "Transportation network service" has the same meaning
+21 prescribed in section 28-9551.
+22 87. 88. "Truck" means a motor vehicle designed or used primarily
+23 for the carrying of property other than the effects of the driver or
+24 passengers and includes a motor vehicle to which has been added a box, a
+25 platform or other equipment for such carrying.
+26 88. 89. "Truck tractor" means a motor vehicle that is designed and
+27 used primarily for drawing other vehicles and that is not constructed to
+28 carry a load other than a part of the weight of the vehicle and load
+29 drawn.
+30 89. 90. "Vehicle":
+31 (a) Means a device in, on or by which a person or property is or
+32 may be transported or drawn on a public highway.
+33 (b) Does not include:
+34 (i) Electric bicycles, electric miniature scooters, electric
+35 standup scooters and devices moved by human power.
+36 (ii) Devices used exclusively on stationary rails or tracks.
+37 (iii) Personal delivery devices.
+38 (iv) Scrap vehicles.
+39 (v) Personal mobile cargo carrying devices.
+40 90. 91. "Vehicle transporter" means either:
+41 (a) A truck tractor capable of carrying a load and drawing a
+42 semitrailer.
+43 (b) A truck tractor with a stinger-steered fifth wheel capable of
+44 carrying a load and drawing a semitrailer or a truck tractor with a dolly
+45 mounted fifth wheel that is securely fastened to the truck tractor at two
+46 or more points and that is capable of carrying a load and drawing a
+47 semitrailer.
+-12-
+
+House Amendments to S.B. 1552
+1 Sec. 2. Section 28-337, Arizona Revised Statutes, is amended to
+2 read:
+3 28-337. High occupancy vehicle lane; lane degradation;
+4 priority use
+5 A. In accordance with 23 United States Code section 166, the
+6 department shall develop procedures to monitor the impact that single
+7 occupancy vehicles authorized under sections 28-2416 and 28-2416.01 have
+8 on the operation of the high occupancy vehicle lanes.
+9 B. If a high occupancy vehicle lane becomes degraded due to the
+10 authorization of single occupancy vehicles authorized under sections
+11 28-2416 and 28-2416.01, use of the lane is restricted to the following
+12 vehicles in the following priority:
+13 1. Passenger vehicles with two or more occupants, including the
+14 driver.
+15 2. Public transit buses.
+16 3. Buses with two or more occupants, including the driver.
+17 4. Motorcycles.
+18 5. Alternative fuel vehicles.
+19 6. Low emission and energy efficient vehicles AS DEFINED IN SECTION
+20 28-601.
+21 7. BLOOD TRANSPORT VEHICLES AS DEFINED IN SECTION 28-737.
+22 C. The department shall limit THE use OF THE HIGH OCCUPANCY VEHICLE
+23 LANES to vehicles in the priority order prescribed in subsection B of this
+24 section and shall maintain those restrictions while the lane or portion of
+25 the lane remains degraded.
+26 D. For the purposes of this section, a high occupancy vehicle lane
+27 is degraded if vehicles operating on the facility, or portions of the
+28 facility, are failing to maintain a speed of forty-five miles per hour or
+29 greater ninety per cent PERCENT of the time over a consecutive one hundred
+30 eighty day EIGHTY-DAY period during morning and evening weekday peak hour
+31 periods.
+32 Sec. 3. Section 28-737, Arizona Revised Statutes, is amended to
+33 read:
+34 28-737. High occupancy vehicle lanes; exceptions; civil
+35 penalty; definitions
+36 A. Except as provided in sections 28-2416 and 28-2416.01 and
+37 subsection B of this section, a person shall not drive a vehicle carrying
+38 fewer than two persons, including the driver, in a high occupancy vehicle
+39 lane at any time the use of the high occupancy vehicle lane is restricted
+40 to vehicles carrying two or more persons, including the driver.
+41 B. Subsection A OF THIS SECTION does not apply to any of the
+42 following:
+43 1. During the performance of a tow truck operator's duties, a tow
+44 truck operator driving a tow truck.
+45 2. A person driving a motorcycle.
+46 3. A person driving a public transportation vehicle.
+-13-
+
+House Amendments to S.B. 1552
+1 4. An authorized emergency vehicle as defined in section 28-101
+2 that is in use by a first responder in the line of duty.
+3 5. A BLOOD TRANSPORT VEHICLE IF THE VEHICLE DISPLAYS ON EACH SIDE
+4 AND ON THE REAR OF THE VEHICLE A REMOVABLE DECAL OR SIGN INDICATING THAT
+5 THE VEHICLE IS TRANSPORTING HUMAN BLOOD OR BLOOD PRODUCTS.
+6 C. A person who violates subsection A of this section is subject to
+7 a civil penalty of two hundred dollars $200.
+8 D. Notwithstanding section 28-1554, one hundred dollars $100 of
+9 each civil penalty collected pursuant to subsection C of this section
+10 shall be deposited in the state general fund.
+11 E. For the purposes of this section: ,
+12 1. "BLOOD TRANSPORT VEHICLE" MEANS A MOTOR VEHICLE THAT IS OWNED OR
+13 OPERATED BY A NONPROFIT GENERAL BLOOD BANKING OPERATION, A NONPROFIT BLOOD
+14 BANK OR A NONPROFIT BLOOD BANK'S AGENT AND THAT IS TRANSPORTING BLOOD OR
+15 BLOOD PRODUCTS BETWEEN COLLECTION POINTS, HOSPITALS OR BLOOD STORAGE
+16 CENTERS.
+17 2. "Public transportation vehicle" means any vehicle that provides
+18 a public entity's public transportation service and either:
+19 1. (a) Is owned or operated by the public entity.
+20 2. (b) Is operated under a contract with the public entity.
+21 Sec. 4. Repeal
+22 Section 28-2410, Arizona Revised Statutes, is repealed.
+23 Sec. 5. Section 28-3158, Arizona Revised Statutes, is amended to
+24 read:
+25 28-3158. Driver license or instruction permit application
+26 A. A person who applies for an instruction permit or for a driver
+27 license shall use a form furnished by the department.
+28 B. An applicant shall pay the fee prescribed by section 28-3002 for
+29 a driver license or for an instruction permit issued under section
+30 28-3154, 28-3155, 28-3156 or 28-3225. The department shall refund an
+31 application fee pursuant to section 28-373.
+32 C. An applicant for an instruction permit or a driver license shall
+33 give the department satisfactory proof of the applicant's full legal name,
+34 date of birth, sex and domicile residence address in this state, if the
+35 applicant has a residence address, and that the applicant's presence in
+36 the United States is authorized under federal law.
+37 D. The application for an instruction permit or a driver license
+38 shall state MAY INCLUDE the following:
+39 1. A brief description of the applicant and any other identifying
+40 information required by the department.
+41 2. Whether the applicant has been licensed, and if so, the type of
+42 license issued, when the license was issued and what state or country
+43 issued the license.
+44 3. If the applicant was never licensed, the applicant's last
+45 previous state or country of residence.
+46 4. The social security number of the applicant.
+47 5. OTHER INFORMATION REQUIRED BY THE DEPARTMENT.
+-14-
+
+House Amendments to S.B. 1552
+1 E. The department shall:
+2 1. Verify that a social security number provided by an applicant is
+3 a valid number assigned to that applicant.
+4 2. Retain the social security number in its records.
+5 F. The social security number provided to the department pursuant
+6 to subsection D of this section for an applicant's driver license or
+7 instruction permit shall not appear on an applicant's driver license or
+8 instruction permit unless the applicant requests that the social security
+9 number appear on the applicant's driver license or instruction permit as
+10 the driver license or instruction permit number. Except as provided in
+11 sections 28-455 and 41-1954, the department shall not release the social
+12 security number to any person unless the applicant requests that the
+13 social security number appear on the applicant's driver license or
+14 instruction permit as the driver license or instruction permit number.
+15 The provisions of this subsection shall be included in each application.
+16 G. The department may adopt and implement procedures to deny a
+17 driver license or instruction permit to a person who has been deported.
+18 The department may adopt and implement procedures to reinstate a person's
+19 privilege to apply for a driver license or permit if the person's legal
+20 presence status is restored.
+21 H. On request of an applicant, the department shall allow the
+22 applicant to provide on the license or permit a post office box address
+23 that is regularly used by the applicant.
+24 I. The department may request an applicant who appears in person
+25 for a license, a duplicate license or reinstatement of a driving privilege
+26 to complete satisfactorily the vision screening prescribed by the
+27 department.
+28 J. If a driver license applicant submits satisfactory proof to the
+29 department that the applicant is a veteran, on request of the applicant,
+30 the department shall allow a distinguishing mark to appear on the license
+31 that identifies the person as a veteran.
+32 Sec. 6. Section 28-3165, Arizona Revised Statutes, is amended to
+33 read:
+34 28-3165. Nonoperating identification license; immunity;
+35 rules; emancipated minors; definition
+36 A. On receipt of an application from a person who does not have a
+37 valid driver license issued by this state or whose driving privilege is
+38 suspended, the department shall issue a nonoperating identification
+39 license that contains a distinguishing number assigned to the licensee,
+40 the full legal name, the date of birth, the residence address and a brief
+41 description of the licensee and either a facsimile of the signature of the
+42 licensee or a space on which the licensee is required to write the
+43 licensee's usual signature with pen and ink. A nonoperating
+44 identification license that is issued to a person whose driving privilege
+45 is suspended shall not be valid for more than one hundred eighty days from
+46 the date of issuance.
+47 B. On request of an applicant:
+-15-
+
+House Amendments to S.B. 1552
+1 1. The department shall allow the applicant to provide on the
+2 nonoperating identification license a post office box address that is
+3 regularly used by the applicant.
+4 2. If the applicant submits satisfactory proof to the department
+5 that the applicant is a veteran, the department shall allow a
+6 distinguishing mark to appear on the nonoperating identification license
+7 that identifies that person as a veteran.
+8 3. If the applicant elects to show and submits satisfactory proof
+9 to the department that the applicant is an enrolled member of a federally
+10 recognized Indian tribe located in this state, the department shall allow
+11 a distinguishing mark to appear on the nonoperating identification license
+12 that identifies the applicant as a native American. The distinguishing
+13 mark may not identify a specific Indian tribe or other specific personal
+14 information that is submitted on the documents that provide satisfactory
+15 proof that the person is an enrolled member of a federally recognized
+16 Indian tribe located in this state. Documents that provide satisfactory
+17 proof that the person is an enrolled member of a federally recognized
+18 Indian tribe located in this state include:
+19 (a) An enhanced tribal card.
+20 (b) A tribal identification card.
+21 (c) A tribal certificate of Indian blood.
+22 (d) A tribal or bureau of Indian affairs affidavit of birth.
+23 C. A person who is issued a license pursuant to this section shall
+24 use it only for identification purposes of the licensee. The nonoperating
+25 identification license does not grant authority to operate a motor vehicle
+26 in this state. The department shall clearly label the nonoperating
+27 identification license "for identification only, not for operation of a
+28 motor vehicle".
+29 D. On issuance of a driver license, the holder of a nonoperating
+30 identification license shall surrender the nonoperating identification
+31 license to the department, and the department shall not refund any fee
+32 paid for the issuance of the nonoperating identification license.
+33 E. A nonoperating identification license shall contain the
+34 photograph of the licensee. When issuing a nonoperating identification
+35 license, the department shall use a process that prohibits as nearly as
+36 possible the ability to superimpose a photograph on the license without
+37 ready detection. The department shall process nonoperating identification
+38 licenses and photo attachments in color.
+39 F. On application, an applicant shall give the department
+40 satisfactory proof of the applicant's full legal name, date of birth, sex
+41 and residence address, if the applicant has a residence address, and that
+42 the applicant's presence in the United States is authorized under federal
+43 law. The application shall briefly describe the applicant, state whether
+44 the applicant has been licensed, and if so, the type of license issued,
+45 when and by what state or country and whether any such license is under
+46 suspension, revocation or cancellation. The application shall contain
+47 other identifying information required by the department. AS NECESSARY,
+-16-
+
+House Amendments to S.B. 1552
+1 THE DEPARTMENT MAY REQUIRE OTHER IDENTIFYING INFORMATION FROM THE
+2 APPLICANT.
+3 G. The department may adopt and implement procedures to deny a
+4 nonoperating identification license to a person who has been deported.
+5 The department may adopt and implement procedures to reinstate a person's
+6 privilege to apply for a nonoperating identification license if the
+7 person's legal presence status is restored.
+8 H. A nonoperating identification license issued by the department
+9 is solely for the use and convenience of the applicant for identification
+10 purposes.
+11 I. The department shall adopt rules and establish fees for issuance
+12 of a nonoperating identification license, except that the department shall
+13 not require an examination.
+14 J. The fees established pursuant to this section do not apply to
+15 any of the following:
+16 1. A person who is sixty-five years of age or older.
+17 2. A person who is a recipient of public monies as an individual
+18 with a disability under title XVI of the social security act, as amended.
+19 3. A veteran who does not have a residence address.
+20 4. A veteran whose residence address is the address of a shelter
+21 that provides services to the homeless.
+22 5. A child who is in the custody of the department of child safety.
+23 K. If a person qualifies for a nonoperating identification license
+24 and is under the legal drinking age, the department shall issue a license
+25 that is marked by color, code or design to immediately distinguish it from
+26 a nonoperating identification license issued to a person of legal drinking
+27 age. The department shall indicate on the nonoperating identification
+28 license issued pursuant to this subsection the year in which the person
+29 will attain the legal drinking age.
+30 L. If a minor has been emancipated pursuant to title 12, chapter
+31 15, on application and proof of emancipation, the department shall issue a
+32 nonoperating identification license that contains the words "emancipated
+33 minor".
+34 M. Notwithstanding any other law, if an applicant for a
+35 nonoperating identification license is at least sixteen years of age and
+36 either does not have a residence address or is in the department of child
+37 safety's custody, the applicant does not need a signature of the
+38 applicant's parent, guardian, foster parent or employer.
+39 N. For the purposes of this section, "veteran" has the same meaning
+40 prescribed in section 41-601.
+41 Sec. 7. Section 28-3173, Arizona Revised Statutes, is amended to
+42 read:
+43 28-3173. License update
+44 A. By written notice the department shall require a licensee to
+45 update the licensee's photograph or present or mail to the department in a
+46 form prescribed by the department a report based on a vision test
+47 performed by the department or an examination by an optometrist or an
+-17-
+
+House Amendments to S.B. 1552
+1 ophthalmologist or physician licensed to practice medicine, if the license
+2 has not been updated in the preceding twelve SIXTEEN years.
+3 B. The director may require a licensee to update the licensee's
+4 license at any time during the twelve year SIXTEEN-YEAR period from the
+5 date of issuance.
+6 Sec. 8. Section 28-3319, Arizona Revised Statutes, is amended to
+7 read:
+8 28-3319. Action after license suspension, revocation or
+9 denial for driving under the influence or refusal
+10 of test; ignition interlock device requirement;
+11 definitions
+12 A. If, pursuant to section 28-1321, 28-1381, 28-1382, 28-1383,
+13 28-3320 or 28-3322, the license of a driver or the driving privilege of a
+14 nonresident is suspended or revoked, the department shall not terminate
+15 the suspension or revocation or issue a special ignition interlock
+16 restricted driver license, if applicable, pursuant to chapter 4, article
+17 3.1 of this title until the person provides proof of financial
+18 responsibility pursuant to chapter 9, article 3 of this title.
+19 B. If, pursuant to section 28-1321, 28-1381, 28-1382, 28-1383,
+20 28-3320 or 28-3322, an unlicensed resident is denied a license or permit
+21 to operate a motor vehicle, the department shall not issue a license or
+22 permit until the person provides proof of financial responsibility
+23 pursuant to chapter 9, article 3 of this title.
+24 C. If a person whose license or driving privilege is suspended or
+25 revoked pursuant to section 28-1321, 28-1381, 28-1382, 28-1383 or 28-1385
+26 is ordered, pursuant to section 28-1381, 28-1382, 28-1383 or 28-1385, to
+27 attend alcohol or other drug screening, education[, EVIDENCE-BASED
+28 PSYCHOTHERAPY] or treatment [OR EVIDENCE-BASED PSYCHOTHERAPY], the
+29 department shall not either:
+30 1. Terminate the suspension or issue a special ignition interlock
+31 restricted driver license, if applicable, pursuant to chapter 4, article
+32 3.1 of this title until the person or licensed treatment facility provides
+33 proof that the person has completed or is participating satisfactorily in
+34 alcohol or other drug screening, education[, EVIDENCE-BASED PSYCHOTHERAPY]
+35 or treatment [OR EVIDENCE-BASED PSYCHOTHERAPY].
+36 2. Issue a new license or a special ignition interlock restricted
+37 driver license, if applicable, pursuant to chapter 4, article 3.1 of this
+38 title to operate a motor vehicle after the revocation until the person or
+39 licensed treatment facility provides proof that the person has completed
+40 OR IS SATISFACTORILY PARTICIPATING IN the court-ordered program.
+41 D. Except as provided in subsection E of this section, on receipt
+42 of a report of conviction from a court for a violation that involved
+43 intoxicating liquor or that specifically requires the installation of a
+44 certified ignition interlock device, the department shall require any
+45 motor vehicle the convicted person operates to be equipped with a
+46 functioning certified ignition interlock device and the convicted person
+47 to meet the requirements prescribed in section 28-1461 as follows:
+-18-
+
+House Amendments to S.B. 1552
+1 1. For twelve months if:
+2 (a) Except as provided in subsection G H of this section, the
+3 person is convicted of a violation of section 28-1381, section 28-1382,
+4 subsection A, paragraph 1 or section 28-1383, subsection A, paragraph 3,
+5 subdivision (a).
+6 (b) The department determines that within a period of eighty-four
+7 months the person is convicted of a second or subsequent violation of
+8 section 28-1381 or section 28-1382, subsection A, paragraph 1 with a prior
+9 conviction of a violation of section 28-1381, 28-1382 or 28-1383 or an act
+10 in another jurisdiction that if committed in this state would be a
+11 violation of section 28-1381, 28-1382 or 28-1383.
+12 2. For eighteen months if the person is convicted of a violation of
+13 section 28-1382, subsection A, paragraph 2.
+14 3. For twenty-four months if:
+15 (a) The person is convicted of a violation of section 28-1382,
+16 subsection A, paragraph 2 and the department determines that within a
+17 period of eighty-four months the person has a prior conviction of a
+18 violation of section 28-1381, 28-1382 or 28-1383 or an act in another
+19 jurisdiction that if committed in this state would be a violation of
+20 section 28-1381, 28-1382 or 28-1383.
+21 (b) The person is convicted of a violation of section 28-1383,
+22 subsection A, paragraph 1, 2, 4 or 5 or paragraph 3, subdivision (b).
+23 E. If a person is required to equip a motor vehicle with a
+24 certified ignition interlock device pursuant to subsection D of this
+25 section and the person has a medical condition that prevents the person
+26 from using the certified ignition interlock device during the entire time
+27 period required by subsection D of this section, the department OF
+28 TRANSPORTATION shall require monthly alcohol and drug screening instead of
+29 the certified ignition interlock device for the time period prescribed by
+30 subsection D of this section. The department OF TRANSPORTATION shall
+31 require evidence of the medical condition that is satisfactory to the
+32 department OF TRANSPORTATION and in a manner prescribed by the department
+33 OF TRANSPORTATION from an authorized physician as defined in section
+34 28-2409 or an authorized physician assistant as defined in section
+35 28-2409. The alcohol or drug screening shall be provided by a facility
+36 approved by the department of health services, the United States
+37 department of veterans affairs, a substance abuse counselor as defined in
+38 section 28-3005 or a probation department.
+39 F. The requirement prescribed in subsection D of this section
+40 begins on the date the person successfully completes the alcohol or other
+41 drug screening, education[, EVIDENCE-BASED PSYCHOTHERAPY] or treatment
+42 program [OR EVIDENCE-BASED PSYCHOTHERAPY] requirements of this title and
+43 the person is otherwise eligible to reinstate the person's driver license
+44 or driving privilege. If the person is issued a special ignition
+45 interlock restricted driver license for the violations giving rise to the
+46 requirements prescribed in subsection D of this section or pursuant to
+47 section 28-1321, subsection P or section 28-1385, subsection J, the person
+-19-
+
+House Amendments to S.B. 1552
+1 shall be credited for the amount of time that a certified ignition
+2 interlock device is installed on the person's motor vehicle after the
+3 department authorizes the installation of the certified ignition interlock
+4 device on that person's motor vehicle.
+5 G. A person who is required to equip a motor vehicle with a
+6 certified ignition interlock device pursuant to this section shall comply
+7 with chapter 4, article 5 of this title.
+8 H. The department shall defer the remainder of the time period
+9 prescribed in subsection D, paragraph 1, subdivision (a) of this section
+10 commencing with the later of six months from the date the interlock was
+11 installed or the completion of the requirements of this subsection if all
+12 of the following apply:
+13 1. The person is sentenced pursuant to section 28-1381,
+14 subsection I.
+15 2. The person successfully completes an alcohol education program
+16 consisting of at least sixteen hours pursuant to section 28-1381.
+17 3. The person has maintained a functioning ignition interlock
+18 device on all motor vehicles the person operates and has met the
+19 requirements of section 28-1461.
+20 4. The person has not attempted to operate a vehicle with an
+21 alcohol concentration of 0.08 or more two or more times during the period
+22 of license restriction or limitation.
+23 5. At the time of the offense, the person was not involved in a
+24 motor vehicle accident that resulted in physical injury or property
+25 damage.
+26 6. All necessary compliance information has been provided to the
+27 department by the ignition interlock device provider, the alcohol
+28 screening program and the alcohol education program.
+29 I. The deferment pursuant to subsection H of this section is
+30 permanent, unless the person is arrested for a violation of section
+31 28-1381, 28-1382 or 28-1383 that occurs during the period of the
+32 deferment. If the person is arrested as described in this subsection, the
+33 department shall revoke the deferment and require the person to complete
+34 the remainder of the time period prescribed in subsection D, paragraph 1,
+35 subdivision (a) of this section.
+36 J. Notwithstanding any other law, the department shall reduce the
+37 length of time that a person is required to have a functioning certified
+38 ignition interlock device installed in a motor vehicle pursuant to
+39 subsection D of this section by the length of time that the person is
+40 incarcerated in a jail or prison facility for a violation of section
+41 28-1381 or 28-1383 that did not involve intoxicating liquor.
+42 K. For the purposes of this section: ,
+43 1. "Certified ignition interlock device" has the same meaning
+44 prescribed in section 28-1301.
+45 2. "EVIDENCE-BASED PSYCHOTHERAPY" HAS THE SAME MEANING PRESCRIBED
+46 IN SECTION 28-1381.
+-20-
+
+House Amendments to S.B. 1552
+1 Sec. 9. Section 28-3321, Arizona Revised Statutes, is amended to
+2 read:
+3 28-3321. Moving violations by persons under eighteen years of
+4 age; traffic survival school; suspension
+5 A person who holds a driver permit or license and who is found
+6 responsible for a moving civil traffic violation pursuant to this title or
+7 who is convicted of a moving criminal traffic offense pursuant to this
+8 title, excluding violations of sections 28-693, 28-695, 28-708, 28-1381,
+9 28-1382, 28-1383 and 28-3174, and who commits the moving civil traffic
+10 violation or moving criminal traffic offense while the person is under
+11 eighteen years of age is subject to the following:
+12 1. On receipt of the first record of judgment or conviction, the
+13 department shall order the person to attend and successfully complete
+14 traffic survival school educational sessions.
+15 2. On receipt of the second record of judgment or conviction, the
+16 department shall suspend the person's driving privilege for three months.
+17 3. On receipt of the third record of judgment or conviction, the
+18 department shall suspend the person's driving privilege for six months.
+19 Sec. 10. Section 28-4882, Arizona Revised Statutes, is amended to
+20 read:
+21 28-4882. Junk vehicle; disposition
+22 A. If a vehicle has been reported abandoned under section 28-4838,
+23 the person making the report may request that the vehicle be processed as
+24 a junk vehicle. An agent of the department shall inspect the vehicle to
+25 determine if the vehicle is a junk vehicle.
+26 B. On making a determination that the vehicle is a junk vehicle,
+27 the director shall cause a search of department records to be made, or if
+28 a junk vehicle is registered in another state, make inquiry of the vehicle
+29 registration agency in that state, to ascertain the name and address of
+30 the owner and lienholder, if any, or any other person identified on the
+31 department's record.
+32 C. On receipt of information disclosing the name and address of the
+33 owner and lienholder, if any, or any other person identified on the
+34 department's record who may have an interest in the vehicle, the director
+35 shall give notice to all interested persons of the director's intention to
+36 allow the disposition of the junk vehicle as prescribed by this section.
+37 The director shall give the notice by mail within five days for a vehicle
+38 with a record in this state or within thirty days for all other vehicles.
+39 D. If the records of the department or out of state jurisdiction do
+40 not disclose the name and address of the owner and lienholder, if any, or
+41 any other person who is identified on the department's record and who may
+42 have an interest in the vehicle, or if the notice is returned marked
+43 unclaimed or addressee unknown, the department shall publish the notice of
+44 the intention of the director to allow the disposition of the junk vehicle
+45 as prescribed by this article once in a newspaper of general circulation
+46 in the county in which the junk vehicle was found ON THE DEPARTMENT'S
+47 WEBSITE FOR AT LEAST THIRTY DAYS. The published notice shall include a
+-21-
+
+House Amendments to S.B. 1552
+1 statement that the department will make available to the public a complete
+2 vehicle description of junk vehicles.
+3 E. If the vehicle is unclaimed at the expiration of thirty days
+4 after the date placed on the notification mailed by the department or
+5 within ten days of the publication as provided in subsections C and D of
+6 this section, the director shall determine if the vehicle is a stolen
+7 vehicle. On receiving notification that the vehicle has not been reported
+8 stolen, the director shall issue written authorization to the owner of the
+9 property authorizing the owner of the property or a licensed automotive
+10 recycler to dispose of the junk vehicle pursuant to section 28-4883.
+11 Sec. 11. Section 28-5606, Arizona Revised Statutes, is amended to
+12 read:
+13 28-5606. Imposition of motor fuel taxes
+14 A. In addition to all other taxes provided by law, a tax of
+15 eighteen cents $.18 per gallon is imposed on motor vehicle fuel possessed,
+16 used or consumed in this state.
+17 B. To partially compensate this state for the use of its highways:
+18 1. A use fuel tax is imposed on use fuel used in the propulsion of
+19 a light class motor vehicle on a highway in this state at the same rate
+20 per gallon as the motor vehicle fuel tax prescribed in subsection A of
+21 this section, except that there is no use fuel tax on alternative fuels.
+22 2. A use fuel tax is imposed on use fuel used in the propulsion of
+23 a use class motor vehicle on a highway in this state at the rate of
+24 twenty-six cents $.26 for each gallon, except that there is no use fuel
+25 tax on alternative fuels and use class vehicles that are exempt pursuant
+26 to section 28-5432 from the weight fee prescribed in section 28-5433 are
+27 subject to the use fuel tax imposed by paragraph 1 of this subsection.
+28 3. Through December 31, 2024, a use fuel tax is imposed on use fuel
+29 used in the propulsion of a motor vehicle transporting forest products in
+30 compliance with the requirements of section 41-1516 on a highway in this
+31 state at the rate of nine cents for each gallon, except that there is no
+32 use fuel tax on alternative fuels.
+33 C. The motor vehicle fuel and use fuel taxes imposed pursuant to
+34 this section and the aviation fuel taxes imposed pursuant to section
+35 28-8344 are conclusively presumed to be direct taxes on the consumer or
+36 user but shall be collected and remitted to the department by suppliers
+37 for the purpose of convenience and facility only. Motor vehicle fuel, use
+38 fuel and aviation fuel taxes that are collected and paid to the department
+39 by a supplier are considered to be advance payments, shall be added to the
+40 price of motor vehicle fuel, use fuel or aviation fuel and shall be
+41 recovered from the consumer or user.
+42 D. Motor vehicle fuel and use fuel taxes imposed pursuant to this
+43 section on the use of motor vehicle fuel and use fuel and the aviation
+44 fuel taxes imposed pursuant to section 28-8344 on the use of aviation
+45 fuel, other than by bulk transfer, arise at the time the motor vehicle,
+46 use or aviation fuel either:
+-22-
+
+House Amendments to S.B. 1552
+1 1. Is imported into this state and is measured by invoiced gallons
+2 received outside this state at a refinery, terminal or bulk plant for
+3 delivery to a destination in this state.
+4 2. Is removed, as measured by invoiced gallons, from the bulk
+5 transfer terminal system or from a qualified terminal in this state.
+6 3. Is removed, as measured by invoiced gallons, from the bulk
+7 transfer terminal system or from a qualified terminal or refinery outside
+8 this state for delivery to a destination in this state as represented on
+9 the shipping papers if a supplier imports the motor vehicle, use or
+10 aviation fuel for the account of the supplier or the supplier has made a
+11 tax precollection election pursuant to section 28-5636.
+12 E. If motor fuel is removed from the bulk transfer terminal system
+13 or from a qualified terminal or is imported into this state, the original
+14 removal, transfer or importation of the motor fuel is subject to the
+15 collection of the tax. If this motor fuel is transported to another
+16 qualified terminal or reenters the bulk transfer terminal system, the
+17 subsequent sale of the motor fuel on which tax has been collected is not
+18 subject to collection of an additional tax if proper documentation is
+19 retained to support the transaction.
+20 Sec. 12. Section 28-5614, Arizona Revised Statutes, is amended to
+21 read:
+22 28-5614. Refunds; use fuel
+23 A. If a vendor pays the use fuel tax rate for use class motor
+24 vehicles on use fuel that is actually used in the propulsion of a light
+25 class motor vehicle on a highway in this state or that is actually used in
+26 the propulsion of a use class motor vehicle that is exempt pursuant to
+27 section 28-5432 from the weight fee prescribed in section 28-5433 on a
+28 highway in this state and for the purpose of convenience and facility
+29 only, the vendor may apply to the department for a refund of the
+30 difference between the amount of the use class motor vehicle use fuel tax
+31 paid and the amount of the light class motor vehicle use fuel tax on the
+32 same number of gallons purchased.
+33 B. If a person who transports forest products on a highway in this
+34 state in compliance with the requirements of section 41-1516 pays the use
+35 fuel tax rate prescribed in section 28-5606, subsection B, paragraph 2 for
+36 a use class motor vehicle that is eligible for the use fuel tax rate
+37 prescribed in section 28-5606, subsection B, paragraph 3, the person may
+38 apply to the department for a refund of the difference between the amount
+39 of the use fuel tax paid and the use fuel tax rate prescribed for a motor
+40 vehicle transporting forest products.
+41 C. B. The director may prescribe any forms the director deems
+42 necessary to implement this section.
+43 D. C. A vendor may file an application for a refund pursuant to
+44 this section on a monthly basis subject to the limitations prescribed in
+45 section 28-5612.
+46 E. D. The director shall:
+47 1. Pay the refund from current use fuel tax receipts.
+-23-
+
+House Amendments to S.B. 1552
+1 2. Deduct the refund from the monthly use fuel tax receipts before
+2 the deposit pursuant to section 28-5730 is made.
+3 Sec. 13. Section 28-5805, Arizona Revised Statutes, is amended to
+4 read:
+5 28-5805. Motor vehicle powered by alternative fuel;
+6 classification; vehicle license tax; definitions
+7 A. A separate classification of motor vehicles is established for
+8 purposes of taxation pursuant to article IX, section 11, Constitution of
+9 Arizona, that consists of motor vehicles that are powered by alternative
+10 fuel and for which the department issues an alternative fuel vehicle
+11 special plate or sticker pursuant to section 28-2416.
+12 B. Notwithstanding section 28-5801, the registering officer shall
+13 collect at the time of application for and before registration of the
+14 motor vehicle that is classified under this section an annual license tax
+15 of $4 for each $100 in value. The motor vehicle value is determined as
+16 follows:
+17 1. For a motor vehicle that is registered in this state before
+18 January 1, 2022, the value of the motor vehicle is one percent of the
+19 manufacturer's base retail price of the motor vehicle. After the first
+20 twelve months of the life of the motor vehicle as determined by its
+21 initial registration, the value of the motor vehicle is fifteen percent
+22 less for each twelve-month period than the value for the preceding
+23 twelve-month period.
+24 2. For a motor vehicle that is initially registered in this state
+25 during a period beginning January 1, 2022 and ending December 31, 2022,
+26 during the first twelve months of the life of the motor vehicle as
+27 determined by its initial registration, the value of the motor vehicle is
+28 twenty percent of the manufacturer's base retail price of the motor
+29 vehicle. During each succeeding twelve-month period, the value of the
+30 motor vehicle is fifteen percent less than the value for the preceding
+31 twelve-month period.
+32 C. The registering officer shall collect the vehicle license tax on
+33 a motor vehicle that is powered by alternative fuel and that is initially
+34 registered from and after December 31, 2022 in accordance with section
+35 28-5801. The minimum amount of the vehicle license tax collected pursuant
+36 to this subsection must be in accordance with section 28-5801 and shall be
+37 distributed pursuant to section 28-5808, subsection B.
+38 D. Except as provided in subsection C of this section, the minimum
+39 amount of the license tax computed under this section is $5 per year for
+40 each motor vehicle subject to the tax.
+41 E. Except as specifically provided in this section, the vehicle
+42 license tax on a motor vehicle classified under this section is governed
+43 by this article.
+44 F. For the purposes of this section:
+45 1. "Alternative fuel" has the same meaning prescribed in section
+46 1-215.
+-24-
+
+House Amendments to S.B. 1552
+1 2. "Motor vehicle" means a vehicle that meets the safety standards
+2 of the national highway traffic safety administration and includes:
+3 (a) Neighborhood electric vehicles that meet the standards
+4 prescribed in 49 Code of Federal Regulations section 571.500, except that,
+5 if a vehicle is designed to be operated at speeds of twenty miles per hour
+6 or less, the vehicle is not required to have a seventeen digit vehicle
+7 identification number.
+8 (b) Neighborhood electric shuttles.
+9 Sec. 14. Section 28-7041, Arizona Revised Statutes, is amended to
+10 read:
+11 28-7041. State highways and routes defined; primitive road
+12 designation
+13 A. The state highways, to be known as state routes, consist of the
+14 highways declared before August 12, 1927 to be state highways, under
+15 authority of law, that the board, after receipt of a recommendation from
+16 the director, may add to, abandon or change. If the board proceeds
+17 contrary to the recommendations of the director, it THE BOARD shall file a
+18 written report with the governor stating the reasons for the action.
+19 B. The state highways consist of the parts of the state routes
+20 designated and accepted as state highways by the board. A highway that
+21 has not been designated as a state route shall not become a state highway
+22 and any portion of a state route shall not become a state highway until it
+23 has been specifically designated and accepted by the board as a state
+24 highway and ordered to be constructed and improved.
+25 C. THE DIRECTOR OR THE DIRECTOR'S DESIGNEE MAY DESIGNATE A STATE
+26 HIGHWAY OR ROUTE AS A PRIMITIVE ROAD.
+27 D. NEITHER THIS STATE OR ITS EMPLOYEES ARE LIABLE FOR DAMAGES OR
+28 INJURIES RESULTING FROM THE USE OF A PRIMITIVE ROAD DESIGNATED PURSUANT TO
+29 SUBSECTION C OF THIS SECTION EXCEPT FOR INTENTIONAL INJURIES OR GROSS
+30 NEGLIGENCE CAUSED BY AN EMPLOYEE ACTING WITHIN THE SCOPE OF THE EMPLOYEE'S
+31 EMPLOYMENT.
+32 E. THE DEPARTMENT SHALL PLACE SIGNS ON EACH ROAD DESIGNATED AS A
+33 PRIMITIVE ROAD IN LOCATIONS ADEQUATE TO WARN THE PUBLIC. THESE SIGNS
+34 SHALL STATE "PRIMITIVE ROAD, CAUTION, USE AT YOUR OWN RISK. THIS SURFACE
+35 IS NOT REGULARLY MAINTAINED".
+36 C. F. All highways, roads or streets that have been constructed,
+37 laid out, opened, established or maintained for ten years or more by the
+38 state or an agency or political subdivision of the state before January 1,
+39 1960 and that have been used continuously by the public as thoroughfares
+40 for free travel and passage for ten years or more are declared public
+41 highways, regardless of an error, defect or omission in the proceeding or
+42 failure to act to establish those highways, roads or streets or in
+43 recording the proceedings.
+44 Sec. 15. Section 28-8328, Arizona Revised Statutes, is amended to
+45 read:
+46 28-8328. Failure to register; assessment procedure
+-25-
+
+House Amendments to S.B. 1552
+1 If an aircraft is not registered within the time periods prescribed
+2 in this article, the director shall assess registration fees, license
+3 taxes and penalties due as follows:
+4 1. The director shall give written notice of the assessment to the
+5 owner of the aircraft by either mailing the notice in a postage prepaid
+6 sealed envelope addressed to the owner of the aircraft at the owner's
+7 address as it appears in the records of the department or by delivery in
+8 person. Notice is deemed to be complete at the time of mailing or at the
+9 time of personal delivery ELECTRONIC TRANSMISSION.
+10 2. The assessment is final thirty days after notice is deemed to be
+11 complete, unless, before that time, the department receives a written
+12 objection to the assessment and a request for a hearing from the
+13 owner. If the department receives a request for a hearing, the hearing
+14 shall be conducted as provided in section 28-8244.
+15 <<Sec. 16. Heading change
+16 [The chapter heading of title 44, chapter 38, Arizona Revised
+17 Statutes, is changed from "BUSINESSES EXEMPT FROM MASK MANDATE" to
+18 "BUSINESSES GENERALLY".]>>
+19 <<Sec. 17. Title 44, chapter 38, article 1, Arizona Revised
+20 Statutes, is amended by adding section 44-7953, to read:
+21 44-7953. Businesses that use camera systems; contract
+22 requirements; data collection
+23 [A CONTRACT BETWEEN A LAW ENFORCEMENT AGENCY AND A BUSINESS THAT
+24 USES A CAMERA SYSTEM THAT HAS THE SOLE PURPOSE OF IDENTIFYING MOTOR
+25 VEHICLES MUST INCLUDE A PROVISION THAT PROHIBITS THE BUSINESS FROM SELLING
+26 OR DISSEMINATING TO THIRD PARTIES ANY DATA COLLECTED BY THE CAMERA
+27 SYSTEM.]
+28 Sec. 18. Implementation
+29 The department of transportation shall recall the honorary consular
+30 official special plates issued pursuant to section 28-2410, Arizona
+31 Revised Statutes, as repealed by this act, and shall issue each person a
+32 standard license plate in lieu of the honorary consular official special
+33 plate.
+34 Enroll and engross to conform
+35 Amend title to conform
+LEO BIASIUCCI
+1552FloorBIASIUCCI1.docx
+04/20/2026
+09:45 AM
+C: JR
+130YUMXYI
+-26-

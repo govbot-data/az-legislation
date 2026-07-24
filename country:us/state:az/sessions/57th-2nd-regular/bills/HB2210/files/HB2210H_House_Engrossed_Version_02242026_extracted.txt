@@ -1,0 +1,8 @@
+Title: HB2210 - 572R - H Ver
+Official Title: 
+Source: versions - House Engrossed Version (02/24/2026)
+Media Type: text/html
+
+================================================================================
+
+HB2210 - 572R - H Ver House Engrossed aviation surveillance technology; fees; prohibition State of Arizona House of Representatives Fifty-seventh Legislature Second Regular Session 2026 HOUSE BILL 2210 AN ACT Amending title 28, chapter 25, article 1, Arizona Revised Statutes, by adding section 28-8211; relating to aviation. (TEXT OF BILL BEGINS ON NEXT PAGE) Be it enacted by the Legislature of the State of Arizona: Section 1.1. Title 28, chapter 25, article 1, Arizona Revised Statutes, is amended by adding section 28-8211, to read: START_STATUTE28-8211. Automatic dependent surveillance-broadcast system; fees; prohibition; definition A. This state, a political subdivision of this state or a private entity may not use any surveillance equipment or information that is broadcast or collected by an automatic dependent surveillance-broadcast system to calculate, generate or collect fees from an aircraft owner or operator. B. for the purposes of this section, "automatic dependent surveillance-broadcast system" means aviation surveillance technology that uses any combination of an aircraft's positioning system, aircraft avionics and ground infrastructure to create a surveillance interface between an aircraft and air traffic control or other aircraft, including in and out signals. END_STATUTE

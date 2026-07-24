@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Regulatory Affairs and Government Efficiency
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Regulatory Affairs and Government Efficiency
+Second Regular Session S.B. 1286
+COMMITTEE ON REGULATORY AFFAIRS AND GOVERNMENT EFFICIENCY
+SENATE AMENDMENTS TO S.B. 1286
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 32-2240.03, Arizona Revised Statutes, is amended
+3 to read:
+4 32-2240.03. Veterinarian client patient relationship through
+5 electronic means; consent; prescriptions; scope
+6 of practice
+7 A. Notwithstanding any other law and except for an animal that is
+8 used in commercial food production that is regulated under title 3, a
+9 veterinarian may establish a veterinarian client patient relationship
+10 through electronic means if all of the following apply:
+11 1. The veterinarian is licensed pursuant to this chapter or holds a
+12 permit pursuant to section 32-2217.01.
+13 2. The veterinarian obtains informed consent from the client,
+14 including an acknowledgement that the standards of care prescribed by this
+15 chapter apply to in-person visits and visits through electronic means.
+16 The veterinarian shall maintain for at least three years documentation of
+17 the consent described in this paragraph.
+18 3. The veterinarian provides the client with the veterinarian's
+19 name and contact information and secures an alternate means of contacting
+20 the client if the electronic means is interrupted. The electronic or
+21 written record provided to the client after the telemedicine visit THROUGH
+22 ELECTRONIC MEANS must include the veterinarian's license number.
+23 4. Before conducting an evaluation of the patient through
+24 electronic means, the veterinarian advises the client of all of the
+25 following:
+26 (a) The veterinarian may ultimately recommend an in-person visit.
+27 (b) The veterinarian is prohibited by federal law from prescribing
+28 some drugs or medications based only on an electronic examination.
+
+Senate Amendments to S.B. 1286
+1 (c) The appointment through electronic means may be terminated at
+2 any time.
+3 5. The veterinarian is able to recommend the client to a local
+4 veterinarian who can see the animal in person. The client has the option
+5 to choose an in-person visit.
+6 B. A veterinarian may prescribe drugs or medications after
+7 establishing a veterinary VETERINARIAN client patient relationship through
+8 electronic means, except that:
+9 1. Prescriptions based only on an electronic examination [FOR
+10 NON-ANTIMICROBIAL DRUGS] may be initially issued for up to fourteen
+11 [SIXTY] [THIRTY] days and may be renewed one time for up to fourteen
+12 [SIXTY] [THIRTY] days with an additional electronic examination.
+13 [2. PRESCRIPTIONS BASED ONLY ON AN ELECTRONIC EXAMINATION FOR
+14 ANTIMICROBIAL DRUGS MAY BE ISSUED ONLY FOR A PERIOD OF UP TO FOURTEEN DAYS
+15 OF TREATMENT. THE VETERINARIAN MAY NOT ISSUE ANY FURTHER ANTIMICROBIAL
+16 DRUG PRESCRIPTIONS, INCLUDING ANY REFILLS, FOR THE SAME ANIMAL PATIENT
+17 UNLESS THE VETERINARIAN PERFORMS AN IN-PERSON EXAMINATION OF THE ANIMAL
+18 PATIENT.]
+19 [2.] [3.] Prescriptions based only on electronic examinations and
+20 that have been renewed once may not be renewed again without an in-person
+21 examination.
+22 [3.] [4.] The veterinarian must notify the client that some
+23 prescription drugs or medications may be available at a pharmacy and, if
+24 requested, the veterinarian will submit a prescription to a pharmacy that
+25 the client chooses.
+26 [4.] [5.] The veterinarian may not order, prescribe or make
+27 available a controlled substance as defined in section 36-2501 unless the
+28 veterinarian has performed an in-person physical examination of the
+29 patient or made medically appropriate and timely visits to the premises
+30 where the patient is kept.
+31 [5.] [6.] The veterinarian shall prescribe all drugs and
+32 medications in accordance with all federal and state laws.
+33 C. Veterinarian services provided through electronic means are
+34 subject to the rules adopted pursuant to section 32-2275 relating to the
+35 practice of veterinary medicine.
+36 Enroll and engross to conform
+37 Amend title to conform
+1286RAGE.docx
+02/17/2026
+3:30 PM
+C: JR
+130AIMLCP
+-2-

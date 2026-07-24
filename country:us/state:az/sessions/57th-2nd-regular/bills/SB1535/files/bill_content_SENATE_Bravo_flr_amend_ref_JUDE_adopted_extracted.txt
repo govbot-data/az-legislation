@@ -1,0 +1,483 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Bravo flr amend (ref JUDE) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1535
+Bravo Floor Amendment
+Reference to: JUDICIARY & ELECTIONS
+Committee Amendment
+Amendment drafted by: Zack Dean
+FLOOR AMENDMENT EXPLANATION
+1. Specifies that a victim of sex trafficking who is convicted of prostitution and whose conviction is
+subsequently vacated is eligible to petition the court to seal the person's case records immediately
+following the completion of all nonmonetary terms and conditions of the person's sentence.
+2. Requires the court to seal all records relating to the arrest, conviction and sentence of a person who
+is convicted of prostitution as a result of being a victim of sex trafficking and whose conviction is
+vacated by the court.
+3. Excludes the sealed records of a sex trafficking victim from being used in any subsequent matter
+or future prosecution.
+Amendment explanation prepared by Kaytie Sherman
+03/09/2026
+
+Fifty-seventh Legislature Bravo
+Second Regular Session S.B. 1535
+BRAVO FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1535
+(Reference to JUDICIARY AND ELECTIONS Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 12, chapter 1, article 1, Arizona Revised
+3 Statutes, is amended by adding section 12-116.13, to read:
+4 12-116.13. Assessment; anti-human trafficking grant fund
+5 A. IN ADDITION TO ANY OTHER ASSESSMENT, IF A PERSON IS CONVICTED OF
+6 A VIOLATION OF SECTION 13-3214, SUBSECTION A, PARAGRAPH 2, THE COURT SHALL
+7 ORDER THE PERSON TO PAY AN ASSESSMENT OF $200. THE ASSESSMENT SHALL NOT
+8 BE WAIVED AND IS NOT SUBJECT TO A SURCHARGE.
+9 B. THE COURT SHALL TRANSMIT THE ASSESSMENTS COLLECTED PURSUANT TO
+10 THIS SECTION TO THE COUNTY TREASURER.
+11 C. THE COUNTY TREASURER SHALL TRANSMIT THE ASSESSMENTS TO THE STATE
+12 TREASURER. THE STATE TREASURER SHALL DEPOSIT THE ASSESSMENTS IN THE
+13 ANTI-HUMAN TRAFFICKING GRANT FUND ESTABLISHED BY SECTION 41-1736.
+14 ≤≤Sec. 2. Section 13-909, Arizona Revised Statutes, is amended to
+15 read:
+16 13-909. Vacating the conviction of a sex trafficking victim;
+17 requirements
+
+Senate Amendments to S.B. 1535
+1 A. A person who was convicted of a violation of section 13-3214 or
+2 a city or town ordinance that has the same or substantially similar
+3 elements as section 13-3214 may apply to the court that pronounced
+4 sentence to vacate the person's conviction. The court shall grant the
+5 application and vacate the conviction if the court finds by clear and
+6 convincing evidence that the person's participation in the offense was a
+7 direct result of being a victim of sex trafficking pursuant to section
+8 13-1307 or 13-3212.
+9 B. If the prosecutor does not oppose the application, the court may
+10 grant the application and vacate the conviction without a hearing.
+11 C. If the prosecutor opposes the application, the court shall hold
+12 a hearing on the application.
+13 D. On vacating the conviction, the court shall:
+14 1. Release the applicant from all penalties and disabilities
+15 resulting from the conviction.
+16 2. Enter an order {{SEALING ALL RECORDS THAT RELATE TO THE
+17 APPLICANT'S ARREST, CONVICTION AND SENTENCE AND}} that a notation be made
+18 in the court file and in law enforcement and prosecution records that the
+19 conviction has been vacated and the person was the victim of a crime.
+20 3. Transmit the order vacating the conviction to the arresting
+21 agency, the prosecutor and the department of public safety.
+22 E. A conviction vacated pursuant to this section does not qualify
+23 as a historical prior felony conviction and cannot be alleged for any
+24 purpose pursuant to section 13-703 or 13-707.
+25 F. Except on an application for employment that requires a
+26 fingerprint clearance card pursuant to title 41, chapter 12, article 3.1,
+27 a person whose conviction is vacated under this section may in all
+28 instances state that the person has never been arrested for, charged with
+29 or convicted of the crime that is the subject of the conviction, including
+30 in response to questions on employment, housing, financial aid or loan
+31 applications. ≥≥
+32 ≤≤Sec. 3. Section 13-911, Arizona Revised Statutes, is amended to
+33 read:
+34 13-911. Sealing of arrest, conviction and sentencing records;
+35 requirements; fee; appeal; definition
+36 A. A person may file a petition to seal all case records related to
+37 a criminal offense if the person was:
+38 1. Convicted of a criminal offense and has completed all of the
+39 terms and conditions of the sentence that was imposed by the court,
+40 including the payment of all monetary obligations and restitution to all
+41 victims.
+42 2. Charged with a criminal offense and the charge was subsequently
+43 dismissed or resulted in a not guilty verdict at a trial.
+44 3. Arrested for a criminal offense and no charges were filed.
+45 B. All case records{{, EXCEPT THOSE VACATED PURSUANT TO SECTION 13-
+46 909,}} that are sealed pursuant to this section may be:
+47 1. Alleged as an element of an offense.
+48 2. Used as a historical prior felony conviction.
+49 3. Admissible for impeaching any party or witness in a subsequent
+50 trial.
+51 4. Used to enhance the sentence for a subsequent felony.
+-2-
+
+Senate Amendments to S.B. 1535
+1 5. Used to enhance the sentence pursuant to sections 28-1381 and
+2 28-1382.
+3 6. Pleaded and proved in any subsequent prosecution of the person
+4 by this state or a political subdivision of this state.
+5 7. Used as a conviction if the conviction would be admissible if
+6 the conviction was not sealed.
+7 C. The person shall file a petition to seal all case records in one
+8 of the following:
+9 1. The court in which the person was convicted of an offense.
+10 2. The court in which an indictment, information, criminal citation
+11 or complaint against the person was filed and the charges were dismissed,
+12 the person was found not guilty or the person's conviction was vacated,
+13 except that if the complaint was filed in a justice court and a subsequent
+14 information was filed, the petition must be filed in the superior court.
+15 3. The court in which the person had an initial appearance if
+16 charges were not filed.
+17 4. The superior court in the county where a person was arrested if
+18 the person did not have an initial appearance and no charges were filed.
+19 D. The court may not grant or deny a petition to seal a person's
+20 case records until sixty calendar days after the court receives the
+21 petition unless the court receives notice that both the prosecutor and all
+22 victims who have made a request for postconviction notice do not object to
+23 the petition. Unless the petitioner, prosecutor or victim requests a
+24 hearing, the court may grant or deny a petition to seal case records
+25 without a hearing. The court may dismiss a petition that does not meet
+26 the requirements prescribed in this section without a hearing. The court
+27 shall grant the petition if the court determines that granting the
+28 petition is in the best interests of the petitioner and the public's
+29 safety. The clerk of the court shall provide a copy of the petition to
+30 seal case records to the prosecutor. The prosecutor may respond to the
+31 petition and request a hearing. The victim has a right to be present and
+32 heard at any proceeding in which the defendant has filed a petition to
+33 seal case records. If the victim has made a request for postconviction
+34 notice, the prosecutor shall provide the victim with notice of the
+35 defendant's petition and of the victim's rights under this section.
+36 E. At the time of sentencing, the court shall inform the person on
+37 the record that the person may be eligible to petition the court for an
+38 order that seals all case records of the person's arrest, conviction and
+39 sentence that are related to the offense pursuant to this section and
+40 shall provide this notice in writing. A person who was convicted of any
+41 eligible offense may petition the court to seal the person's records of
+42 arrest, conviction and sentence after the person completes all of the
+43 nonmonetary terms and conditions of the person's sentence ordered by the
+44 court, and the following period of time has passed since the person
+45 completed the nonmonetary conditions of probation or sentence and was
+46 discharged by the court:
+47 1. Ten years for a class 2 or 3 felony.
+48 2. Five years for a class 4, 5 or 6 felony.
+49 3. Three years for a class 1 misdemeanor.
+50 4. Two years for a class 2 or 3 misdemeanor.
+-3-
+
+Senate Amendments to S.B. 1535
+1 {{5. IMMEDIATELY FOR AN OFFENSE VACATED PURSUANT TO SECTION 13-
+2 909.}}
+3 F. A person whose case records have been sealed pursuant to
+4 subsection E of this section and who commits a subsequent felony offense
+5 may petition the court pursuant to subsection E of this section to seal
+6 the person's records of arrest, conviction and sentence relating to the
+7 subsequent felony offense after the applicable period of time prescribed
+8 in subsection E of this section for the subsequent felony offense has
+9 expired and an additional five years have passed.
+10 G. A petitioner is required to have paid all fines, fees and
+11 restitution ordered by the court at the time of filing the petition to be
+12 eligible to seal case records pursuant to this section.
+13 H. After a petition to seal case records is filed, the court shall
+14 notify the department of public safety and request the department to
+15 prepare and submit a report to the court that includes all of the
+16 petitioner's state and federal arrests, prosecutions and convictions and
+17 any other information that the court requests or that the department
+18 believes will assist the court in making its determination. The director
+19 may charge the petitioner a fee that is determined by the director for the
+20 investigation unless the petitioner is indigent or has been found not
+21 guilty or the case was dismissed or not prosecuted and the petition is
+22 filed pursuant to subsection C, paragraph 2 or 3 of this section.
+23 I. If the court grants a petition to seal case records:
+24 1. The court shall issue an order sealing all records relating to
+25 the petitioner's arrest, conviction and sentence and directing the clerk
+26 of the court to notify the department of public safety and the prosecutor
+27 of the sealing order.
+28 2. On order of a court, the clerk of the court shall seal all case
+29 records relating to the petitioner's arrest, conviction and sentence. A
+30 court order to seal case records pursuant to this section is subject only
+31 to the disclosure requirements in this section and shall be treated
+32 differently than a record that is sealed pursuant to any other statute or
+33 court rule. The clerk shall create and manage a system for sealing case
+34 records pursuant to this section and for providing sealed case records to
+35 an entity or person that is listed in subsection J of this section and
+36 that requests the record. On the request of an entity or person listed in
+37 subsection J of this section, the clerk shall provide the entity or person
+38 with any sealed case records. The clerk may not provide sealed case
+39 records pursuant to this section to any person or entity that is not
+40 listed in subsection J of this section.
+41 3. The department of public safety shall designate the case records
+42 as sealed within the department's records and inform all appropriate state
+43 and federal law enforcement agencies of the sealing. The department may
+44 not share or provide sealed case records with any person or entity or for
+45 any purpose that is not listed in subsections B and J of this section.
+46 The department may charge the successful petitioner a fee determined by
+47 the director to research and correct the petitioner's criminal history
+48 record unless the petitioner is indigent or has been found not guilty or
+49 the case has been dismissed or not prosecuted and the petition is filed
+50 pursuant to subsection C, paragraph 2 or 3 of this section.
+-4-
+
+Senate Amendments to S.B. 1535
+1 4. The arresting and prosecuting agencies shall clearly identify in
+2 each agency's files and electronic records that the petitioner's arrest or
+3 conviction and sentence records are sealed.
+4 5. A person whose records are sealed pursuant to this section may
+5 state, in all instances, that the person has never been arrested for,
+6 charged with or convicted of the crime that is the subject of the arrest
+7 or conviction, including in response to questions on employment, housing,
+8 financial aid or loan applications unless any of the following applies:
+9 (a) The person is submitting an application that requires a
+10 fingerprint clearance card pursuant to title 41, chapter 12, article 3.1.
+11 (b) The sealed case records involved a class 2 or class 3 felony
+12 violation of chapter 34 of this title.
+13 (c) The sealed case records involved burglary under section
+14 13-1506, 13-1507 or 13-1508, theft under section 13-1802 or organized
+15 retail theft under section 13-1819 from a residential or nonresidential
+16 structure and the person is applying for a job that requires entering into
+17 and performing services inside of a residential structure.
+18 (d) The sealed case records involved child abuse under section
+19 13-3623 or aggravated assault under section 13-1204 and the person is
+20 applying for a job involving supervising, educating or administering care
+21 to a minor.
+22 (e) The sealed case records involved vulnerable adult abuse under
+23 section 13-3623 and the person is applying for a job involving supervising
+24 or administering care to a vulnerable adult or a person who is at least
+25 sixty-five years of age.
+26 (f) The sealed case records involved a violation of section
+27 5-395.01, 5-396, 5-397, 13-1814, 28-1381, 28-1382, 28-1383, 28-8282,
+28 28-8284, 28-8286, 28-8287 or 28-8288 and the person is applying for a job
+29 involving the commercial or private operation of a motor vehicle, boat or
+30 airplane.
+31 (g) The sealed case records involved a violation of chapter 18, 19,
+32 20, 21, 22 or 23 of this title or telecommunication fraud under section
+33 13-3707 and the person is applying for a job involving accounting,
+34 overseeing, transporting, handling or managing another person's money or
+35 financial assets.
+36 (h) The person is applying for a position with a law enforcement
+37 agency, a prosecutor's office, a court, a probation department, a child
+38 welfare agency as defined in section 8-501, the department of child
+39 safety, the department of juvenile corrections or the state department of
+40 corrections.
+41 (i) The person is undergoing a background check for the placement
+42 with that person of a child who is in the custody of the department of
+43 child safety.
+44 (j) The disclosure is required by a state or federal law.
+45 (k) The disclosure is required to comply with program integrity
+46 provisions of medicare, medicaid or any other federal health care program.
+47 6. The person's employer is not liable for hiring or contracting
+48 with the person as prescribed in section 12-558.03.
+49 J. If the person's case records are sealed pursuant to this
+50 section, the records shall be made available for the purposes listed in
+51 subsection B of this section and to the following:
+-5-
+
+Senate Amendments to S.B. 1535
+1 1. The person whose records are sealed and any attorney who has
+2 filed a notice of appearance on behalf of the person whose records are
+3 sealed.
+4 2. The victim in the case if the victim has exercised victims'
+5 rights pursuant to section 13-4414.
+6 3. Any of the following if the purpose relates to the operation of
+7 the requesting party's official duties or internal hiring practices, or
+8 both:
+9 (a) A law enforcement agency.
+10 (b) A prosecuting agency. On request of a person who is charged
+11 with a criminal offense or that person's attorney of record, a prosecuting
+12 agency shall provide the sealed case records of any person whom the
+13 prosecuting agency intends to call as a witness in that person's
+14 prosecution.
+15 (c) A probation department or any agency that is responsible for
+16 the preparation of a presentence report.
+17 (d) A court.
+18 (e) The department of child safety or a child welfare agency as
+19 defined in section 8-501.
+20 (f) The department of juvenile corrections.
+21 (g) The state department of corrections or any other correctional
+22 facility in this state.
+23 (h) The clerk of the court or any department that is responsible
+24 for maintaining court records.
+25 K. This section does not require the supreme court or the court of
+26 appeals to seal any record.
+27 L. If the court denies a petition to seal case records, a person
+28 may not file a new petition until three years after the date of the
+29 denial.
+30 M. A conviction for an offense that is committed in another
+31 jurisdiction and that if committed in this state would not constitute an
+32 offense in this state may not be used against the petitioner or prohibit
+33 the petitioner from having a record sealed. For the purposes of this
+34 section, the classification of an offense committed in another
+35 jurisdiction has the classification that the offense would have if
+36 committed in this state.
+37 N. If the petitioner has a charge pending or is charged with an
+38 offense after filing a petition to seal case records pursuant to
+39 subsection C, paragraph 3 or 4 of this section and the charge could result
+40 in a conviction that cannot be sealed or that could extend the time to
+41 file a petition to seal case records, the court may not grant or deny the
+42 petition until the court disposes of that charge.
+43 O. The following offenses are not eligible to be sealed pursuant to
+44 this section:
+45 1. A dangerous offense as defined in section 13-105.
+46 2. A dangerous crime against children as defined in section 13-705.
+47 3. A serious offense or violent or aggravated felony as defined in
+48 section 13-706.
+49 4. Any offense that has either of the following as an element of
+50 the offense:
+-6-
+
+Senate Amendments to S.B. 1535
+1 (a) The discharge, use or threatening exhibition of a deadly weapon
+2 or dangerous instrument.
+3 (b) The knowing infliction of serious physical injury on another
+4 person.
+5 5. Sex trafficking pursuant to section 13-1307.
+6 6. A class 2, 3, 4 or 5 felony offense that is included in chapter
+7 14 or 35.1 of this title.
+8 P. This section does not affect any of the following:
+9 1. The right of the person whose case records are sealed to appeal
+10 the conviction or sentence or to rely on it in bar of any subsequent
+11 proceeding for the same offense.
+12 2. The right of a law enforcement agency to maintain an arrest and
+13 conviction record and to communicate information regarding the sealed
+14 record of arrest or conviction to prosecuting agencies, courts, probation
+15 departments and other law enforcement agencies for a purpose listed in
+16 subsection J of this section or in defense of a civil action that arises
+17 out of the facts of the arrest or to the Arizona peace officer standards
+18 and training board solely to assist the board in determining the fitness
+19 of a person to serve as a peace officer, except that in any of these cases
+20 the information may not be disclosed to any person or entity that is not
+21 listed in subsection J of this section.
+22 3. The department of public safety or the board of fingerprinting
+23 from considering a conviction that is sealed pursuant to this section when
+24 evaluating an application for a fingerprint clearance card pursuant to
+25 section 41-1758.03 or 41-1758.07, except that the board of fingerprinting
+26 shall consider sealed case records as a mitigating circumstance in
+27 determining whether to grant a good cause exception pursuant to section
+28 41-619.55.
+29 4. A court from issuing a lifetime injunction pursuant to section
+30 13-719 or the validity of a lifetime injunction that was issued pursuant
+31 to section 13-719.
+32 Q. For the purposes of this section, "case records" means all
+33 records that pertain to a person's arrest, conviction and sentence for a
+34 particular offense and that may be sealed pursuant to this section. ≥≥
+35 Sec. 4. Section 13-3214, Arizona Revised Statutes, is amended to
+36 read:
+37 13-3214. Prostitution; classification
+38 A. It is unlawful for a person to knowingly:
+39 1. [Engage in prostitution OR AGREE OR OFFER TO ENGAGE IN SEXUAL
+40 CONDUCT UNDER A FEE ARRANGEMENT WITH ANY PERSON FOR MONEY OR OTHER
+41 VALUABLE CONSIDERATION] [OFFER TO RECEIVE, AGREE TO RECEIVE OR RECEIVE A
+42 MONETARY FEE OR OTHER VALUABLE CONSIDERATION FOR ENGAGING IN SEXUAL
+43 CONDUCT WITH ANOTHER PERSON].
+44 2. [PAY FOR OR AGREE OR OFFER TO PAY FOR SEXUAL CONDUCT UNDER A FEE
+45 ARRANGEMENT WITH ANY PERSON FOR MONEY OR ANY OTHER VALUABLE CONSIDERATION]
+46 [OFFER TO PAY, AGREE TO PAY OR PAY A MONETARY FEE OR VALUABLE
+47 CONSIDERATION FOR ENGAGING IN SEXUAL CONDUCT WITH ANOTHER PERSON].
+48 B. This section does not prohibit cities or towns from enacting and
+49 enforcing ordinances to suppress and prohibit prostitution that provide a
+50 punishment for misdemeanor violations that is at least as stringent as
+51 provided in this section.
+-7-
+
+Senate Amendments to S.B. 1535
+1 C. For the purposes of sentencing under this section, a previous
+2 violation of any city or town ordinance that prohibits prostitution and
+3 that has the same or substantially similar elements as this section shall
+4 be deemed to be a previous violation of this section.
+5 D. It is an affirmative defense to a prosecution under this section
+6 that the defendant committed the acts constituting [prostitution] [A
+7 VIOLATION OF SUBSECTION A, PARAGRAPH 1 OF THIS SECTION] as a direct result
+8 of being a victim of sex trafficking.
+9 E. A person who violates SUBSECTION A, PARAGRAPH 1 OF this section
+10 is guilty of a class 1 misdemeanor, except that:
+11 1. A person who is convicted of a first violation of this section
+12 shall be sentenced to serve not less than fifteen consecutive days in jail
+13 and is not eligible for probation or suspension of execution of sentence
+14 until the entire sentence is served.
+15 2. A person who is convicted of a second violation of this section
+16 shall be sentenced to serve not less than thirty consecutive days in jail
+17 and is not eligible for probation or suspension of execution of sentence
+18 until the entire sentence is served.
+19 3. A person who is convicted of a third violation of this section
+20 shall be sentenced to serve not less than sixty consecutive days in jail,
+21 is not eligible for probation or suspension of execution of sentence until
+22 the entire sentence is served and shall complete an appropriate court
+23 ordered COURT-ORDERED education or treatment program.
+24 4. A person who has previously been convicted of three or more
+25 violations of this section and who commits a subsequent violation of this
+26 section is guilty of a class 5 felony, shall be sentenced to serve not
+27 less than one hundred eighty consecutive days in jail and is not eligible
+28 for probation or suspension of execution of sentence until the entire
+29 sentence is served. This paragraph does not prohibit a person from being
+30 sentenced to serve a period of incarceration in the state department of
+31 corrections.
+32 F. A PERSON WHO VIOLATES SUBSECTION A, PARAGRAPH 2 OF THIS SECTION
+33 IS GUILTY OF A CLASS 6 FELONY, EXCEPT THAT:
+34 1. A PERSON WHO IS CONVICTED OF A FIRST VIOLATION OF THIS SECTION
+35 SHALL BE SENTENCED TO SERVE NOT LESS THAN FIFTEEN CONSECUTIVE DAYS IN JAIL
+36 AND IS NOT ELIGIBLE FOR PROBATION OR SUSPENSION OF EXECUTION OF SENTENCE
+37 UNTIL THE ENTIRE SENTENCE IS SERVED.
+38 2. A PERSON WHO IS CONVICTED OF A SECOND VIOLATION OF THIS SECTION
+39 SHALL BE SENTENCED TO SERVE NOT LESS THAN THIRTY CONSECUTIVE DAYS IN JAIL
+40 AND IS NOT ELIGIBLE FOR PROBATION OR SUSPENSION OF EXECUTION OF SENTENCE
+41 UNTIL THE ENTIRE SENTENCE IS SERVED.
+42 3. A PERSON WHO IS CONVICTED OF A THIRD VIOLATION OF THIS SECTION
+43 SHALL BE SENTENCED TO SERVE NOT LESS THAN SIXTY CONSECUTIVE DAYS IN JAIL,
+44 IS NOT ELIGIBLE FOR PROBATION OR SUSPENSION OF EXECUTION OF SENTENCE UNTIL
+45 THE ENTIRE SENTENCE IS SERVED AND SHALL COMPLETE AN APPROPRIATE
+46 COURT-ORDERED EDUCATION OR TREATMENT PROGRAM.
+47 4. A PERSON WHO HAS PREVIOUSLY BEEN CONVICTED OF THREE OR MORE
+48 VIOLATIONS OF THIS SECTION AND WHO COMMITS A SUBSEQUENT VIOLATION OF THIS
+49 SECTION IS GUILTY OF A CLASS 4 FELONY, SHALL BE SENTENCED TO SERVE NOT
+50 LESS THAN ONE HUNDRED EIGHTY CONSECUTIVE DAYS IN JAIL AND IS NOT ELIGIBLE
+51 FOR PROBATION OR SUSPENSION OF EXECUTION OF SENTENCE UNTIL THE ENTIRE
+-8-
+
+Senate Amendments to S.B. 1535
+1 SENTENCE IS SERVED. THIS PARAGRAPH DOES NOT PROHIBIT A PERSON FROM BEING
+2 SENTENCED TO SERVE A PERIOD OF INCARCERATION IN THE STATE DEPARTMENT OF
+3 CORRECTIONS.
+4 Sec. 5. Section 41-1736, Arizona Revised Statutes, is amended to
+5 read:
+6 41-1736. Anti-human trafficking grant fund
+7 [A.] The anti-human trafficking grant fund is established
+8 consisting of monies COLLECTED PURSUANT TO SECTION 12-116.13 AND MONIES
+9 appropriated by the legislature. Monies in the fund are continuously
+10 appropriated. The department shall administer the fund and distribute
+11 monies from the fund to programs to reduce human trafficking in this
+12 state. To be eligible for grant monies, an anti-human trafficking program
+13 shall do either ONE of the following:
+14 1. Work to reduce human trafficking by providing assistance and
+15 analytical services to law enforcement agencies.
+16 2. Provide services to victims OF HUMAN TRAFFICKING. and
+17 3. PROVIDE training to law enforcement agencies, prosecutorial
+18 agencies and the public on preventing and identifying human trafficking.
+19 [B. NOTWITHSTANDING SUBSECTION A OF THIS SECTION, MONIES COLLECTED
+20 PURSUANT TO SECTION 12-116.13 FROM A PERSON WHO IS CONVICTED OF A
+21 VIOLATION OF SECTION 13-3214, SUBSECTION A, PARAGRAPH 2 SHALL BE USED
+22 EXCLUSIVELY TO PROVIDE SERVICES TO VICTIMS OF SEX TRAFFICKING.]
+23 Enroll and engross to conform
+24 Amend title to conform
+FLAVIO BRAVO
+1535BRAVO0923.docx
+03/09/2026
+09:23 AM
+S: ZD/ci
+130LVRBSB
+-9-

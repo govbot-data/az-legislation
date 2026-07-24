@@ -1,0 +1,241 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Finchem flr amend (ref Senate Engrossed Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1649
+Finchem ADD COW Floor Amendment
+Reference to: Senate engrossed bill
+Amendment drafted by: Molly Graver
+FLOOR AMENDMENT EXPLANATION
+1. Specifies that the Digital Assets Strategic Reserve Fund (Fund) consists of digital assets that are
+held by, rather than seized by, the state and removes monies appropriated by the Legislature from
+the authorized Fund sources.
+2. Redefines cryptocurrency fair value as a weighted evaluation of a coin's economic and technical
+vitality using performance metrics including, adoption by coins owners, annual transactions,
+annual transaction value and development ecosystems.
+3. Adds Dash, EGLD, Internet Computer, NEAR, Ravencoin, Chia, eCash, Monero and Nano to the
+definition of digital asset.
+4. Adds a technology provider of a secure custody solution to the definition of qualified custodian.
+5. Defines secure custody solution and adds a technology provider of a secure custody solution to the
+definition of qualified custodian for the purposes of digital assets reported to the Arizona
+Department of Revenue as unclaimed property.
+6. Makes technical and conforming changes.
+Amendment explanation prepared by Sierra Jones
+2/27/2026
+
+Fifty-seventh Legislature Finchem
+Second Regular Session S.B. 1649
+ADDITIONAL COW
+FINCHEM FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1649
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 41, chapter 1, article 4, Arizona Revised
+3 Statutes, is amended by adding section 41-181, to read:
+4 41-181. Digital assets strategic reserve fund; deposits;
+5 definitions
+6 A. THE DIGITAL ASSETS STRATEGIC RESERVE FUND IS ESTABLISHED
+7 CONSISTING OF [MONIES APPROPRIATED BY THE LEGISLATURE AND] DIGITAL ASSETS
+8 THAT ARE [SEIZED][HELD] BY, CONFISCATED BY OR SURRENDERED TO THIS
+9 STATE. THE STATE TREASURER SHALL DEPOSIT DIGITAL ASSETS THAT ARE [SEIZED]
+10 [HELD] BY THIS STATE IN THE FUND THROUGH THE USE OF A SECURE CUSTODY
+11 SOLUTION BY A QUALIFIED CUSTODIAN OR IN A FORM OF AN EXCHANGE-TRADED
+12 PRODUCT THAT IS ISSUED BY AN INVESTMENT COMPANY REGISTERED IN THIS
+13 STATE. THE STATE TREASURER SHALL ADMINISTER THE FUND.
+14 B. THE STATE TREASURER MAY INVEST THE TOTAL AMOUNT OF MONIES
+15 DEPOSITED IN THE FUND IN ANY FISCAL YEAR.
+16 C. THE STATE TREASURER MAY LOAN DIGITAL ASSETS FROM THE FUND TO
+17 GENERATE ADDITIONAL RETURNS IF THE LOAN DOES NOT INCREASE ANY FINANCIAL
+18 RISKS TO THIS STATE.
+19 D. FOR THE PURPOSES OF THIS SECTION:
+20 1. "CRYPTOCURRENCY FAIR VALUE" MEANS A WEIGHTED EVALUATION OF A
+21 COIN'S ECONOMIC AND TECHNICAL VITALITY USING PERFORMANCE METRICS,
+22 INCLUDING:
+23 (a) [MARKET CAPITALIZATION][ADOPTION BY COIN OWNERS].
+24 (b) [NETWORK ACTIVITY AND UTILITY][ANNUAL TRANSACTIONS].
+25 (c) ANNUAL TRANSACTION VALUE.
+
+Senate Amendments to S.B. 1649
+1 (d) DEVELOPMENT ECOSYSTEMS.
+2 [(e) A NETWORK POWER SCORE THAT MEASURES DECENTRALIZATION AND
+3 SECURITY.]
+4 2. "CRYPTOGRAPHIC PRIVATE KEY" MEANS A SECRET KEY USED TO ENCRYPT
+5 AND DECRYPT DATA.
+6 3. "DIGITAL ASSET" INCLUDES:
+7 (a) VIRTUAL CURRENCY.
+8 (b) VIRTUAL COINS.
+9 (c) CRYPTOCURRENCY OR NATIVE ON-CHAIN ASSETS THAT MEET THE [CRYPTO
+10 CURRENCY] [CRYPTOCURRENCY] FAIR VALUE SCORE OF ONE PERCENT OF THE DIGITAL
+11 GOLD STANDARD BENCHMARK, INCLUDING ANY OF THE FOLLOWING:
+12 (i) BITCOIN.
+13 (ii) DIGIBYTE.
+14 (iii) XRP.
+15 (iv) STABLECOIN.
+16 (v) A NONFUNGIBLE TOKEN.
+17 [(vi) DASH.
+18 (vii) EGLD.
+19 (viii) INTERNET COMPUTER.
+20 (ix) NEAR.
+21 (x) RAVENCOIN.
+22 (xi) CHIA.
+23 (xii) ECASH.
+24 (xiii) MONERO.
+25 (xiv) NANO.]
+26 [(vi)] [(xv)] ANY OTHER DIGITAL-ONLY ASSETS THAT CONFER ECONOMIC,
+27 PROPRIETARY OR ACCESS RIGHTS OR POWERS.
+28 4. "EXCHANGE-TRADED PRODUCT" MEANS A FINANCIAL INSTRUMENT THAT IS
+29 TRADED ON A UNITED STATES-REGULATED EXCHANGE, THAT DERIVES VALUE FROM AN
+30 UNDERLYING POOL OF ASSETS, INCLUDING STOCKS, BONDS, COMMODITIES OR
+31 INDEXES, AND THAT IS APPROVED BY ANY OF THE FOLLOWING:
+32 (a) THE UNITED STATES SECURITIES AND EXCHANGE COMMISSION.
+33 (b) THE COMMODITIES FUTURES TRADING COMMISSION.
+34 (c) THE DEPARTMENT OF INSURANCE AND FINANCIAL INSTITUTIONS.
+35 5. "QUALIFIED CUSTODIAN" MEANS [EITHER OF THE FOLLOWING:
+36 (a)] A FEDERAL OR STATE-CHARTERED BANK, TRUST COMPANY OR SPECIAL
+37 PURPOSE DEPOSITORY INSTITUTION OR A COMPANY REGULATED BY THIS STATE THAT
+38 HAS CUSTODY OF VIRTUAL CURRENCY FOR AN APPROVED EXCHANGE-TRADED PRODUCT.
+39 [(b) A TECHNOLOGY PROVIDER OF A SECURE CUSTODY SOLUTION.]
+40 6. "SECURE CUSTODY SOLUTION" MEANS A TECHNOLOGICAL PRODUCT OR A
+41 BLENDED PRODUCT OR SERVICE THAT MEETS ALL OF THE FOLLOWING:
+42 (a) HAS A CRYPTOGRAPHIC PRIVATE KEY THAT SECURES A DIGITAL ASSET
+43 AND THAT IS EXCLUSIVELY KNOWN BY AND ACCESSIBLE BY A GOVERNMENTAL ENTITY.
+44 (b) HAS A CRYPTOGRAPHIC PRIVATE KEY THAT SECURES A DIGITAL ASSET,
+45 THAT IS EXCLUSIVELY CONTAINED WITHIN AN ENCRYPTED ENVIRONMENT AND THAT IS
+46 ACCESSIBLE ONLY THROUGH AN END-TO-END ENCRYPTED CHANNEL.
+-2-
+
+Senate Amendments to S.B. 1649
+1 (c) HAS A CRYPTOGRAPHIC PRIVATE KEY THAT SECURES A DIGITAL ASSET
+2 THAT IS NEVER CONTAINED BY, ACCESSIBLE BY OR CONTROLLABLE THROUGH A
+3 SMARTPHONE.
+4 (d) HAS HARDWARE THAT CONTAINS A CRYPTOGRAPHIC PRIVATE KEY THAT
+5 SECURES A DIGITAL ASSET AND THAT IS MAINTAINED IN AT LEAST TWO
+6 GEOGRAPHICALLY DIVERSIFIED AND SPECIALLY DESIGNATED SECURE DATA CENTERS.
+7 (e) ENFORCES A MULTIPARTY GOVERNANCE STRUCTURE FOR AUTHORIZING A
+8 TRANSACTION AND USER ACCESS CONTROLS.
+9 (f) LOGS EACH USER-INITIATED ACTION.
+10 (g) UNDERGOES REGULAR CODE AUDITS AND PENETRATION TESTING FROM AN
+11 AUDITING FIRM, WHICH ENSURES THAT A VULNERABILITY IDENTIFIED BY THE
+12 AUDITING FIRM IS PROMPTLY REMEDIED.
+13 (h) IS PROVIDED BY AN ENTITY THAT HAS IMPLEMENTED A DISASTER
+14 RECOVERY PROTOCOL TO ENSURE CUSTOMERS HAVE ACCESS TO THE DIGITAL ASSETS IF
+15 THE ENTITY IS UNAVAILABLE.
+16 7. "VIRTUAL COIN" HAS THE SAME MEANING PRESCRIBED IN SECTION
+17 44-1801.
+18 <<Sec. 2. Section 44-308, Arizona Revised Statutes, is amended to
+19 read:
+20 44-308. Payment or delivery of abandoned property;
+21 definitions
+22 A. On filing the report prescribed in section 44-307, the holder of
+23 property that is presumed abandoned shall pay, deliver or cause to be paid
+24 or delivered to the department the property described in the report as
+25 unclaimed. If the property is an automatically renewable deposit and a
+26 penalty or forfeiture in the payment of interest would result, the time
+27 for compliance is extended until a penalty or forfeiture would no longer
+28 result. The holder of tangible property held in a safe deposit box or any
+29 other safekeeping depository shall deliver the property to the department
+30 on filing the report prescribed in section 44-307.
+31 B. If the property reported to the department is a security or
+32 security entitlement pursuant to title 47, chapter 8, the department may
+33 make an endorsement, instruction or entitlement order on behalf of the
+34 apparent owner to invoke the duty of the issuer or its transfer agent or
+35 the securities intermediary to transfer or dispose of the security or the
+36 security entitlement in accordance with title 47, chapter 8.
+37 C. If the holder of property reported to the department is the
+38 issuer of a certificated security, the department has the right to obtain
+39 a replacement certificate pursuant to section 47-8405, but an indemnity
+40 bond is not required.
+41 D. If the property reported to the department is a digital asset,
+42 the holder shall report and deliver the digital asset in its native form
+43 to the department or the department's designated qualified custodian
+44 within thirty days after reporting the property abandoned. On direction
+45 by the department, the qualified custodian may stake to receive rewards or
+46 receive airdrops. On the expiration of three years after the date the
+47 digital asset was transferred to the qualified custodian and if the
+48 property remains unclaimed, any airdrops or staking rewards shall be
+-3-
+
+Senate Amendments to S.B. 1649
+1 transferred to the bitcoin and digital [asset] [ASSETS] reserve fund
+2 established by section 41-180. If the holder only possesses a partial
+3 private key to the digital asset or is unable to move the digital asset,
+4 the holder shall maintain the digital asset until the additional keys
+5 required to transfer the digital asset become available. [For the
+6 purposes of this subsection, "qualified custodian" means any of the
+7 following that is licensed in this state to sell digital assets and offer
+8 custody services to customers:
+9 1. A company.
+10 2. A federal or state chartered bank.
+11 3. A trust company.
+12 4. A special purpose depository institution.]
+13 E. An issuer, the holder and any transfer agent or other person who
+14 acts pursuant to the instructions and on behalf of the issuer or holder in
+15 accordance with this section are not liable to the apparent owner and are
+16 indemnified against all claims of any person in accordance with section
+17 44-310.
+18 F. Each month a holder of property reported pursuant to section
+19 44-307, subsection H shall remit the property with the report of property
+20 presumed abandoned or other form prescribed by the department.
+21 [G. FOR THE PURPOSES OF THIS SECTION:
+22 1. "QUALIFIED CUSTODIAN" MEANS EITHER OF THE FOLLOWING:
+23 (a) ANY OF THE FOLLOWING THAT IS LICENSED IN THIS STATE TO SELL
+24 DIGITAL ASSETS AND OFFER CUSTODY SERVICES TO CUSTOMERS:
+25 (i) A COMPANY.
+26 (ii) A FEDERAL OR STATE-CHARTERED BANK.
+27 (iii) A TRUST COMPANY.
+28 (iv) A SPECIAL PURPOSE DEPOSITORY INSTITUTION.
+29 (b) A TECHNOLOGY PROVIDER OF A SECURE CUSTODY SOLUTION.
+30 2. "SECURE CUSTODY SOLUTION" HAS THE SAME MEANING PRESCRIBED IN
+31 SECTION 41-181.]>>
+32 Sec. 3. Legislative findings
+33 The legislature finds that:
+34 1. The digital gold standard benchmark is a standard to provide
+35 security and stability in the marketplace. The digital gold standard
+36 benchmark was established when the market valued the first cryptocurrency
+37 at $100,000 per coin.
+38 2. The cryptocurrency fair value metrics form a universal benchmark
+39 and not a testimony to any single coin's supremacy. Like gold's role in
+40 19th century trade, the metrics set a standard for all digital gold
+41 blockchain-based coins with decentralized, scarce and transferable
+42 attributes.
+43 3. The cryptocurrency fair value ensures competition is truthful,
+44 transparent and fair and evaluates each coin's performance metrics against
+45 the digital gold standard benchmark, revealing whether its fundamental
+46 measurements support its price or signal overvaluation.
+47 4. The cryptocurrency fair value model, a cornerstone of informed
+48 cryptocurrency investing, calculates a coin's fair market capitalization
+-4-
+
+Senate Amendments to S.B. 1649
+1 by comparing its performance and market metrics to the digital gold
+2 standard, then drives a per-coin fair value by dividing market
+3 capitalization by its circulating supply.
+4 Enroll and engross to conform
+5 Amend title to conform
+MARK FINCHEM
+1649FloorFINCHEM.docx
+02/27/2026
+1:23 PM
+C: AH
+130HOFWHD
+1649FloorFINCHEM.5.docx
+03/02/2026
+6:27 PM
+S: MG/ci
+130HOFWHD
+-5-

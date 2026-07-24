@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Werner flr amend (ref ATT) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1118
+Werner Floor Amendment
+Reference to: APPROPRIATIONS, TRANSPORTATION AND
+TECHNOLOGY Committee amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+• Replaces the term ionizing radiation with real-time x-ray imaging as it relates to hospital
+procedure rooms eligible for radiation protection system grant funding.
+Amendment explanation prepared by Michael Madden
+2/11/2026
+
+Fifty-seventh Legislature Werner
+Second Regular Session S.B. 1118
+WERNER FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1118
+(Reference to APPROPRIATIONS, TRANSPORTATION AND TECHNOLOGY Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Appropriation; department of health services;
+3 rural hospitals; radiation protection systems;
+4 grants; definitions
+5 A. The sum of [$________] [$3,000,000] is appropriated from the
+6 state general fund in fiscal year 2026-2027 to the department of health
+7 services to establish and administer a grant program to assist rural
+8 hospitals with the costs of acquiring and installing radiation protection
+9 systems in [cardiac catheterization] procedure rooms in which {{ionizing
+10 radiation}} {{real-time x-ray imaging}} procedures occur.
+11 B. For the purposes of this section:
+12 1. "Radiation protection system" means a shielding system that is
+13 designed to protect against scatter or direct ionizing radiation exposure,
+14 that provides protection equal to or greater than the shielding
+15 effectiveness of a .25 millimeter lead-equivalent apron and that includes
+16 real-time dosimetry to measure radiation exposure to health professionals
+17 throughout an ionizing radiation medical procedure.
+
+Senate Amendments to S.B. 1118
+1 2. "Rural hospital" means a licensed hospital that is located in a
+2 county with a population of less than one million persons.
+3 Enroll and engross to conform
+4 Amend title to conform
+CARINE WERNER
+1118FloorWERNER2.docx
+02/04/2026
+12:44 PM
+C: MH
+130BNSZUY
+-2-

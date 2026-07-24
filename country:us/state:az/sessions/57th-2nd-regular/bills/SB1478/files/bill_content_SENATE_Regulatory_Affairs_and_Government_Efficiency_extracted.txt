@@ -1,0 +1,2524 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Regulatory Affairs and Government Efficiency
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Regulatory Affairs and Government Efficiency
+Second Regular Session S.B. 1478
+COMMITTEE ON REGULATORY AFFAIRS AND GOVERNMENT EFFICIENCY
+SENATE AMENDMENTS TO S.B. 1478
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 4-101, Arizona Revised Statutes, is amended to
+3 read:
+4 4-101. Definitions
+5 In this title, unless the context otherwise requires:
+6 1. "Act of violence":
+7 (a) Means an incident that consists of a riot, a fight, an
+8 altercation or tumultuous conduct and that meets at least one of the
+9 following criteria:
+10 (i) Bodily injuries are sustained by any person and the injuries
+11 would be obvious to a reasonable person.
+12 (ii) Is of sufficient intensity as to require the intervention of a
+13 peace officer to restore normal order.
+14 (iii) A weapon is brandished, displayed or used.
+15 (iv) A licensee or an employee or contractor of the licensee fails
+16 to follow a clear and direct lawful order from a law enforcement officer
+17 or a fire marshal.
+18 (b) Does not include the use of nonlethal devices by a peace
+19 officer.
+20 2. "Aggrieved party" means a person who resides at, owns or leases
+21 property within a one-mile radius of premises proposed to be licensed and
+22 who filed a written request with the department to speak in favor of or
+23 opposition to the issuance of the license not later than sixty days after
+24 filing the application or fifteen days after action by the local governing
+25 body, whichever is sooner.
+26 3. "Beer":
+27 (a) Means any beverage obtained by the alcoholic fermentation,
+28 infusion or decoction of barley malt, hops, rice, bran or other grain,
+29 glucose, sugar or molasses, or any combination of them, and may include,
+
+Senate Amendments to S.B. 1478
+1 as adjuncts in fermentation, honey, fruit, fruit juice, fruit concentrate,
+2 herbs, spices and other food materials.
+3 (b) Includes beer aged in an empty wooden barrel previously used to
+4 contain wine or distilled spirits and as such is not considered a dilution
+5 or mixture of any other spirituous liquor.
+6 4. "Biometric identity verification device" means a device
+7 authorized by the department that instantly verifies the identity and age
+8 of a person by an electronic scan of a biometric of the person, through a
+9 fingerprint, iris image, facial image or other biometric characteristic,
+10 or any combination of these characteristics, that references the person's
+11 identity and age against any record described in section 4-241, subsection
+12 K, and that meets all of the following conditions:
+13 (a) The authenticity of the record was previously verified by an
+14 electronic authentication process.
+15 (b) The identity of and information about the record holder was
+16 previously verified through either:
+17 (i) A secondary, electronic authentication process or set of
+18 processes using commercially available data, such as a public records
+19 query or a knowledge-based authentication quiz.
+20 (ii) Using a state or federal government system of records for
+21 digital authentication.
+22 (c) The authenticated record was securely linked to biometrics
+23 contemporaneously collected from the verified record holder and is stored
+24 in a centralized, highly secured, encrypted biometric database.
+25 5. "Board" means the state liquor board.
+26 6. "Bona fide guest" means:
+27 (a) An individual who is personally familiar to the member, who is
+28 personally sponsored by the member and whose presence as a guest is in
+29 response to a specific and personal invitation.
+30 (b) In the case of a club that meets the criteria prescribed in
+31 paragraph 8 9, subdivision (a) of this section, a current member of the
+32 armed services of the United States who presents proper military
+33 identification and any member of a recognized veterans' organization of
+34 the United States and of any country allied with the United States during
+35 current or past wars or through treaty arrangements.
+36 7. "Broken package" means any container of spirituous liquor on
+37 which the United States tax seal has been broken or removed or from which
+38 the cap, cork or seal placed on the container by the manufacturer PRODUCER
+39 has been removed.
+40 8. "CIDER":
+41 (a) MEANS ANY BEVERAGE THAT IS MADE FROM THE NORMAL ALCOHOLIC
+42 FERMENTATION OF THE JUICE OF SOUND AND RIPE APPLES, PEARS OR OTHER POME
+43 FRUIT AND THAT CONTAINS MORE THAN ONE-HALF OF ONE PERCENT OF ALCOHOL BY
+44 VOLUME AND [NOT MORE] THAN EIGHT AND ONE-HALF PERCENT OF ALCOHOL BY
+45 VOLUME.
+46 (b) INCLUDES FLAVORED, SPARKLING AND CARBONATED CIDER AND CIDER
+47 MADE FROM CONDENSED APPLE, PEAR OR OTHER POME FRUIT MUST.
+-2-
+
+Senate Amendments to S.B. 1478
+1 8. 9. "Club" includes any of the following organizations where the
+2 sale of spirituous liquor for consumption on the premises is made only to
+3 members, spouses of members, families of members, bona fide guests of
+4 members and guests at other events authorized in this title:
+5 (a) A post, chapter, camp or other local unit composed solely of
+6 veterans and its duly recognized auxiliary that has been chartered by the
+7 Congress of the United States for patriotic, fraternal or benevolent
+8 purposes and that has, as the owner, lessee or occupant, operated an
+9 establishment for that purpose in this state.
+10 (b) A chapter, aerie, parlor, lodge or other local unit of an
+11 American national fraternal organization that has, as the owner, lessee or
+12 occupant, operated an establishment for fraternal purposes in this state.
+13 An American national fraternal organization as used in this subdivision
+14 shall actively operate in at least thirty-six states or have been in
+15 active continuous existence for at least twenty years.
+16 (c) A hall or building association of a local unit mentioned in
+17 subdivisions (a) and (b) of this paragraph of which all of the capital
+18 stock is owned by the local unit or the members and that operates the
+19 clubroom facilities of the local unit.
+20 (d) A golf club that has more than fifty bona fide members and that
+21 owns, maintains or operates a bona fide golf links together with a
+22 clubhouse.
+23 (e) A social club that has more than one hundred bona fide members
+24 who are actual residents of the county in which it is located, that owns,
+25 maintains or operates club quarters, that is authorized and incorporated
+26 to operate as a nonprofit club under the laws of this state, and that has
+27 been continuously incorporated and operating for a period of at least one
+28 year. The club shall have had, during this one-year period, a bona fide
+29 membership with regular meetings conducted at least once each month, and
+30 the membership shall be and shall have been actively engaged in carrying
+31 out the objects of the club. The club's membership shall consist of bona
+32 fide dues-paying members paying dues of at least $6 per year, payable
+33 monthly, quarterly or annually, which have been recorded by the secretary
+34 of the club, and the members at the time of application for a club license
+35 shall be in good standing having for at least one full year paid dues. At
+36 least fifty-one percent of the members shall have signified their
+37 intention to secure a social club license by personally signing a
+38 petition, on a form prescribed by the board, which shall also include the
+39 correct mailing address of each signer. The petition shall not have been
+40 signed by a member at a date earlier than one hundred eighty days before
+41 the filing of the application. The club shall qualify for exemption from
+42 the payment of state income taxes under title 43. It is the intent of
+43 this subdivision that a license shall not be granted to a club that is, or
+44 has been, primarily formed or activated to obtain a license to sell
+45 liquor, but solely to a bona fide club, where the sale of liquor is
+46 incidental to the main purposes of the club.
+-3-
+
+Senate Amendments to S.B. 1478
+1 (f) An airline club operated by or for airlines that are
+2 certificated by the United States government and that maintain or operate
+3 club quarters located at airports with international status.
+4 9. 10. "Company" or "association", when used in reference to a
+5 corporation, includes successors or assigns.
+6 10. 11. "Control" means the power to direct or cause the direction
+7 of the management and policies of an applicant or licensee, whether
+8 through the ownership of voting securities or a partnership interest, by
+9 agreement or otherwise. Control is presumed to exist if a person has the
+10 direct or indirect ownership of or power to vote ten percent or more of
+11 the outstanding voting securities of the applicant or licensee or to
+12 control in any manner the election of one or more of the directors of the
+13 applicant or licensee. In the case of a partnership, control is presumed
+14 to mean the general partner or a limited partner who holds ten percent or
+15 more of the voting rights of the partnership. For the purposes of
+16 determining the percentage of voting securities owned, controlled or held
+17 by a person, there shall be aggregated with the voting securities
+18 attributed to the person the voting securities of an officer, partner,
+19 employee or agent of the person or a spouse, parent or child of the
+20 person. Control is also presumed to exist if a creditor of the applicant
+21 or licensee holds a beneficial interest in ten percent or more of the
+22 liabilities of the licensee. The presumptions in this paragraph regarding
+23 control are rebuttable.
+24 11. 12. "Controlling person" means a person directly or indirectly
+25 possessing control of an applicant or licensee.
+26 12. 13. "Craft distiller" means a distiller in the United States
+27 or in a territory or possession of the United States that holds a license
+28 pursuant to section 4-205.10.
+29 13. 14. "Craft producer" means a licensed farm winery, a licensed
+30 microbrewery or a licensed craft distiller.
+31 14. 15. "Department" means the department of liquor licenses and
+32 control.
+33 15. 16. "Director" means the director of the department of liquor
+34 licenses and control.
+35 16. 17. "Distilled spirits" includes alcohol, brandy, whiskey,
+36 rum, tequila, mescal, gin, absinthe, a compound or mixture of any of them
+37 or of any of them with any vegetable or other substance, alcohol bitters,
+38 bitters containing alcohol, fruits preserved in ardent spirits, BEVERAGES
+39 THAT CONTAIN MORE THAN ONE-HALF OF ONE PERCENT OF ALCOHOL BY VOLUME AND
+40 THAT ARE PRODUCED BY THE DISTILLATION OR RECTIFICATION OF FERMENTED
+41 MATERIAL and any alcoholic mixture or preparation, whether patented or
+42 otherwise, that may in sufficient quantities produce intoxication.
+43 17. 18. "Employee":
+44 (a) Means any person who performs any service on licensed premises
+45 on a full-time, part-time or contract basis with consent of the licensee,
+46 whether or not the person is denominated an employee or independent
+47 contractor or otherwise. Employee
+-4-
+
+Senate Amendments to S.B. 1478
+1 (b) Does not include a person who is exclusively on the premises
+2 for musical or vocal performances, for repair or maintenance of the
+3 premises or for the delivery of goods to the licensee.
+4 18. 19. "Farm winery" means a winery in the United States or in a
+5 territory or possession of the United States that holds a license pursuant
+6 to section 4-205.04.
+7 19. 20. "Government license" means a license to serve and sell
+8 spirituous liquor on specified premises available only to a state agency,
+9 state board, state commission, county, city, town, community college or
+10 state university or the national guard or Arizona coliseum and exposition
+11 center on application by the governing body of the state agency, state
+12 board, state commission, county, city, town, community college or state
+13 university or the national guard or Arizona exposition and state fair
+14 board.
+15 20. 21. "Legal drinking age" means twenty-one years of age or
+16 older.
+17 21. 22. "License" means a license or an interim retail permit
+18 issued pursuant to this title.
+19 22. 23. "Licensee" means a person who has been issued a license or
+20 an interim retail permit pursuant to this title or a special event
+21 licensee.
+22 23. 24. "License fees" means fees collected for license issuance,
+23 license application, license renewal, interim permit issuance and license
+24 transfer between persons or locations.
+25 24. 25. "Manager" means a natural person who meets the standards
+26 required of licensees and who has authority to organize, direct, carry on,
+27 control or otherwise operate a licensed business on a temporary or
+28 full-time basis.
+29 25. 26. "Menu food item" means a food item from a regular menu,
+30 special menu or happy hour menu that is prepared by the licensee or the
+31 licensee's employee.
+32 26. 27. "Microbrewery" means a brewery in the United States or in
+33 a territory or possession of the United States that meets the requirements
+34 of section 4-205.08.
+35 27. 28. "Mixed cocktail":
+36 (a) Means any drink combined at the premises of an authorized
+37 licensee that contains a spirituous liquor and that is combined with at
+38 least one other ingredient, which may include additional spirituous
+39 liquors, fruit juice, vegetable juice, mixers, cream, flavored syrup or
+40 other ingredients except water, and that when combined contains more than
+41 one-half of one percent of alcohol by volume.
+42 (b) Does not include a drink sold in an original manufacturer's
+43 packaging or any drink poured from an original manufacturer's package
+44 without the addition of all of the cocktail's other ingredients at the
+45 premises of the licensed bar, liquor store or restaurant.
+46 28. 29. "Off-sale retailer" means any person that operates a bona
+47 fide regularly established retail liquor store that sells spirituous
+-5-
+
+Senate Amendments to S.B. 1478
+1 liquors, wines and beer and any established retail store that sells
+2 commodities other than spirituous liquors and that is engaged in the sale
+3 of spirituous liquors only in the original unbroken package, to be taken
+4 away from the premises of the retailer and to be consumed off the
+5 premises.
+6 29. 30. "On-sale retailer" means any person operating an
+7 establishment where spirituous liquors are sold in the original container
+8 for consumption on or off the premises or in individual portions for
+9 consumption on the premises.
+10 30. 31. "Permanent occupancy" means the maximum occupancy of the
+11 building or facility as set by the office of the state fire marshal for
+12 the jurisdiction in which the building or facility is located.
+13 31. 32. "Person" includes a partnership, limited liability
+14 company, association, company or corporation, as well as a natural person.
+15 32. 33. "Premises" or "licensed premises":
+16 (a) Means the area from which the licensee is authorized to sell,
+17 dispense or serve spirituous liquors under the provision of the license.
+18 (b) Includes a patio that is not contiguous to the remainder of the
+19 premises or licensed premises if the patio is separated from the remainder
+20 of the premises or licensed premises by a public or private walkway or
+21 driveway not to exceed thirty feet, subject to rules the director may
+22 adopt to establish criteria for noncontiguous premises.
+23 33. 34. "Registered alcohol delivery contractor":
+24 (a) Means a person who delivers spirituous liquor to a consumer on
+25 behalf of a bar, beer and wine bar, liquor store, beer and wine store or
+26 restaurant.
+27 (b) Does not include:
+28 (i) A motor carrier as defined in section 28-5201.
+29 (ii) An independent contractor, a subcontractor of an independent
+30 contractor, an employee of an independent contractor or an employee of a
+31 subcontractor as provided in section 4-203, subsection J.
+32 34. 35. "Registered mail" includes certified mail.
+33 35. 36. "Registered retail agent" means any person who is
+34 authorized pursuant to section 4-222 to purchase spirituous liquors for
+35 and on behalf of the person and other retail licensees.
+36 36. 37. "Repeated acts of violence" means:
+37 (a) For licensed premises with a permanent occupancy of two hundred
+38 or fewer persons, two or more acts of violence occurring within seven days
+39 or three or more acts of violence occurring within thirty days.
+40 (b) For licensed premises with a permanent occupancy of more than
+41 two hundred but not more than four hundred persons, four or more acts of
+42 violence within thirty days.
+43 (c) For licensed premises with a permanent occupancy of more than
+44 four hundred but not more than six hundred fifty persons, five or more
+45 acts of violence within thirty days.
+-6-
+
+Senate Amendments to S.B. 1478
+1 (d) For licensed premises with a permanent occupancy of more than
+2 six hundred fifty but not more than one thousand fifty persons, six or
+3 more acts of violence within thirty days.
+4 (e) For licensed premises with a permanent occupancy of more than
+5 one thousand fifty persons, seven or more acts of violence within thirty
+6 days.
+7 37. 38. "Sell" includes soliciting or receiving an order for,
+8 keeping or exposing for sale, directly or indirectly delivering for value,
+9 peddling, keeping with intent to sell and trafficking in.
+10 38. 39. "Spirituous liquor":
+11 (a) Includes alcohol, brandy, whiskey, rum, tequila, mescal, gin,
+12 wine, porter, ale, beer, CIDER, any malt liquor or malt beverage,
+13 absinthe, a compound or mixture of any of them or of any of them with any
+14 vegetable or other substance, alcohol bitters, bitters containing alcohol,
+15 any liquid mixture or preparation, whether patented or otherwise, that
+16 produces intoxication, fruits preserved in ardent spirits, and beverages
+17 containing more than one-half of one percent of alcohol by volume.
+18 (b) DOES NOT INCLUDE NONBEVERAGE PRODUCTS AS DEFINED IN 27 CODE OF
+19 FEDERAL REGULATIONS PART 17 AND THAT ARE QUALIFIED BY THE UNITED STATES
+20 ALCOHOL AND TOBACCO TAX AND TRADE BUREAU AS NONBEVERAGE PRODUCTS.
+21 39. 40. "Tamperproof sealed" means designed to prevent consumption
+22 without the removal of a tamperproof cap, seal, cork or closure that has a
+23 device, mechanism or adhesive that clearly shows whether a container has
+24 been opened.
+25 40. 41. "Vehicle" means any means of transportation by land, water
+26 or air, and includes everything made use of in any way for such
+27 transportation.
+28 41. 42. "Vending machine" means a machine that dispenses
+29 merchandise through the means of coin, token, credit card or other
+30 nonpersonal means of accepting payment for merchandise received.
+31 42. 43. "Veteran" means a person who has served in the United
+32 States air force, army, navy, marine corps, SPACE FORCE or coast guard, as
+33 an active nurse in the services of the American red cross, in the army and
+34 navy nurse corps in time of war, or in any expedition of the armed forces
+35 of the United States, and who has received a discharge other than
+36 dishonorable.
+37 43. 44. "Voting security" means any security presently entitling
+38 the owner or holder of the security to vote for the election of directors
+39 of an applicant or a licensee.
+40 44. 45. "Wine" means the product obtained by the fermentation of
+41 grapes, other agricultural products containing natural or added sugar or
+42 cider or any such alcoholic beverage fortified with grape brandy and
+43 containing not more than twenty-four percent of alcohol by volume.
+44 Sec. 2. Section 4-201, Arizona Revised Statutes, is amended to
+45 read:
+46 4-201. Licensing; application procedure in city, town or
+47 county; burden of proof
+-7-
+
+Senate Amendments to S.B. 1478
+1 A. A person desiring a license to manufacture PRODUCE, sell or deal
+2 in spirituous liquors shall apply to the director on a form prescribed and
+3 furnished by the director.
+4 B. A person who files an application for a license within an
+5 incorporated city or town shall file the application with the
+6 director. The director shall remit the application to the city or town
+7 clerk. The city or town clerk shall immediately file a copy of the
+8 application in the clerk's office and post a copy for a period of twenty
+9 days in a conspicuous place on the front of the premises where the
+10 business is proposed to be conducted, with a statement requiring any
+11 natural person who is a bona fide resident residing or owning or leasing
+12 property within a one-mile radius from the premises proposed to be
+13 licensed, and who is in favor of or opposed to the issuance of the
+14 license, to file written arguments in favor of or opposed to the issuance
+15 of the license with the clerk within twenty days after the date of
+16 posting. The posting shall be limited to a copy of the license
+17 application and shall not contain any attachments filed with the
+18 application. The written argument shall contain the natural person's
+19 complete name, street address or post office box address and written or
+20 electronic signature. If the written arguments are filed by a person on
+21 behalf of a corporation or other legal entity or association, the written
+22 arguments must be accompanied by a copy of the entity's organizing
+23 document, a designation of the office or position that the person holds
+24 within the organization and a copy of the written appointment of the
+25 person to speak on behalf of the organization. If the written arguments
+26 are filed by a neighborhood association, block watch or other
+27 unincorporated association, written arguments must be accompanied by a
+28 letter of authority designating that person as a spokesperson. The
+29 posting shall contain substantially the following:
+30 Notice
+31 A hearing on a liquor license application shall be held before
+32 the local governing body at the following date, time and
+33 place:
+34 (Insert date, time and address)
+35 The local governing body will recommend to the state liquor
+36 board whether the board should grant or deny the license. The
+37 state liquor board may hold a hearing to consider the
+38 recommendation of the local governing body. Any person
+39 residing or owning or leasing property within a one-mile
+40 radius may contact the state liquor board in writing to
+41 register as a protestor. To request information regarding
+42 procedures before the board and notice of any board hearings
+43 regarding this application, contact the state liquor board at:
+44 (Insert address and telephone number).
+45 No arguments shall be filed or accepted by the city or town clerk
+46 thereafter. This subsection does not prevent a bona fide resident
+47 residing or owning or leasing property within a one-mile radius from the
+-8-
+
+Senate Amendments to S.B. 1478
+1 premises proposed to be licensed from testifying in favor of or in
+2 opposition to the issuance of the license, regardless of whether or not
+3 the person is a user or nonuser of spirituous liquor.
+4 C. The governing body of the city, town or county shall then enter
+5 an order recommending approval or disapproval within sixty days after the
+6 filing of the application and shall file a certified copy of the order
+7 with the director. If the recommendation is for disapproval, a statement
+8 of the specific reasons containing a summary of the testimony or other
+9 evidence supporting the recommendation for disapproval shall be attached
+10 to the order. All petitions submitted to the governing body within the
+11 twenty-day period for filing protests shall be transmitted to the director
+12 with the certified copy of the order.
+13 D. If a person applies for a license to conduct a spirituous liquor
+14 business outside an incorporated city or town, the director shall remit
+15 the application to the clerk of the board of supervisors of the county
+16 where the applicant desires to do business, and the proceedings by the
+17 clerk and board of supervisors shall be as provided for cities and towns.
+18 E. On receipt of an application for a spirituous liquor license,
+19 the director shall set the application for a hearing by the board on a
+20 date following the expiration of the time fixed for the submitting of the
+21 certified order by the governing body of the city or town or the board of
+22 supervisors. If the city or town or the county recommends approval of the
+23 license a hearing is not required unless the director, the board or any
+24 aggrieved party requests a hearing on the grounds that the public
+25 convenience and the best interest of the community will not be
+26 substantially served if a license is issued. Any natural person residing
+27 or owning or leasing property within a one-mile radius of the proposed
+28 location may file a written protest with the director on a form prescribed
+29 by the director not later than fifteen calendar days after action by the
+30 local governing body or sixty days after the filing of the application,
+31 whichever is sooner. The director shall allow protests to be submitted by
+32 e-mail EMAIL. The written argument shall contain the natural person's
+33 complete name, street address or post office box address and written or
+34 electronic signature. If the written arguments are filed by a person on
+35 behalf of a corporation or other legal entity or association, the written
+36 arguments must be accompanied by a copy of the entity's organizing
+37 document, a designation of the office or position that the person holds
+38 within the organization and a copy of the written appointment of the
+39 person to speak on behalf of the organization. If the written arguments
+40 are filed by a neighborhood association, block watch or other
+41 unincorporated association, written arguments must be accompanied by a
+42 letter of authority designating that person as a spokesperson. If no
+43 hearing is requested by the director, the board or any aggrieved party,
+44 the application may be approved by the director. If the recommendation is
+45 for disapproval of an application, the board shall hold a hearing. If the
+46 city, town or county recommends approval of the license pursuant to
+47 subsection C of this section or makes no recommendation, the director may
+-9-
+
+Senate Amendments to S.B. 1478
+1 cancel the hearing and issue the license unless the board or any aggrieved
+2 party requests a hearing. If the reason for the protest is clearly
+3 removed or deemed satisfied by the director, the board shall cancel the
+4 hearing. If the board cancels the hearing, the department may
+5 administratively issue an order without the applicant licensee or other
+6 parties present. The certified order, the reasons contained in the order
+7 and the summary of the testimony and other evidence supporting the city,
+8 town or county disapproval of the recommendation shall be read into the
+9 record before the board and shall be considered as evidence by the board.
+10 The board shall consider the certified order together with other facts and
+11 a report of the director relating to the qualifications of the applicant.
+12 If the governing body of the city or town or the board of supervisors
+13 fails to return to the director, as provided in subsections SUBSECTION C
+14 and D of this section, its order of disapproval, no hearing is required.
+15 An application shall be approved or disapproved within one hundred five
+16 days after the filing of the application. If, after a hearing by the
+17 board where a license has been approved, a formal written order is not
+18 entered within thirty days after the hearing, the decision of the board is
+19 deemed entered on the thirtieth day after the hearing.
+20 F. A hearing may be conducted by an administrative law judge at the
+21 request of the board to make findings and recommendations for use by the
+22 board in determining whether to grant or deny a license. The
+23 administrative law judge shall submit a report of findings to the board
+24 within twenty days after the hearing. The board may affirm, reverse,
+25 adopt, modify, supplement, amend or reject the administrative law judge's
+26 report in whole or in part.
+27 G. Except for a person-to-person transfer of a transferable license
+28 for use at the same location and as otherwise provided in section 4-203,
+29 subsection A, in all proceedings before the governing body of a city or
+30 town, the board of supervisors of a county or the board, the applicant
+31 bears the burden of showing that the public convenience requires and that
+32 the best interest of the community will be substantially served by the
+33 issuance of a license.
+34 H. In order to prevent the proliferation of spirituous liquor
+35 licenses, the department may deny a license to a business on the grounds
+36 that the business is inappropriate for the sale of spirituous liquor. An
+37 inappropriate business is one that cannot clearly demonstrate that the
+38 sale of spirituous liquor is directly connected to its primary purpose and
+39 that the sale of spirituous liquor is not merely incidental to its primary
+40 purpose.
+41 I. The board shall adopt, by rule, guidelines that state criteria
+42 for use in determining whether the public convenience requires and the
+43 best interest of the community will be substantially served by the
+44 issuance or transfer of a liquor license at the location applied for.
+45 These guidelines shall govern the recommendations and other approvals of
+46 the department and the local governing authority.
+-10-
+
+Senate Amendments to S.B. 1478
+1 J. If the governing body of a city or town recommends disapproval
+2 by a two-thirds vote of the members present and voting on an application
+3 for the issuance or transfer of a spirituous liquor license that, if
+4 approved, would result in a license being issued at a location either
+5 having no license or having a license of a different series, the
+6 application shall not be approved unless the board decides to approve the
+7 application by a two-thirds vote of the members present and voting.
+8 Sec. 3. Section 4-203, Arizona Revised Statutes, is amended to
+9 read:
+10 4-203. Licenses; issuance; transfer; reversion to state;
+11 tastings; rules; off-sale privileges; order
+12 requirements
+13 A. A spirituous liquor license shall be issued only after
+14 satisfactory showing of the capability, qualifications and reliability of
+15 the applicant and, with the exception of wholesaler, producer, government
+16 or club licenses, that the public convenience requires and that the best
+17 interest of the community will be substantially served by the issuance.
+18 If an application is filed for the issuance of a transferable or
+19 nontransferable license, other than for a craft distiller license, a
+20 microbrewery license or a farm winery license, for a location that on the
+21 date the application is filed has a valid license of the same series, or
+22 in the case of a restaurant license application filed for a location with
+23 a valid hotel-motel license, issued at that location, there shall be a
+24 rebuttable presumption that the public convenience and best interest of
+25 the community at that location was established at the time the location
+26 was previously licensed. The presumption may be rebutted by competent
+27 contrary evidence. The presumption shall not apply once the licensed
+28 location has not been in use for more than one hundred eighty days and the
+29 presumption shall not extend to the personal qualifications of the
+30 applicant.
+31 B. The license shall be to manufacture PRODUCE, sell or deal in
+32 spirituous liquors only at the place and in the manner provided in the
+33 license. A separate license shall be issued for each specific business,
+34 and each shall specify:
+35 1. The particular spirituous liquors that the licensee is
+36 authorized to manufacture PRODUCE, sell or deal in.
+37 2. The place of business for which issued.
+38 3. The purpose for which the liquors may be manufactured PRODUCED
+39 or sold.
+40 C. A spirituous liquor license issued to a bar, a liquor store or a
+41 beer and wine bar shall be transferable as to any permitted location
+42 within the same county, if the transfer meets the requirements of an
+43 original application. A spirituous liquor license may be transferred to a
+44 person qualified to be a licensee, if the transfer is pursuant to either
+45 judicial decree, nonjudicial foreclosure of a legal or equitable lien,
+46 including security interests held by financial institutions pursuant to
+47 section 4-205.05, a sale of the license, a bona fide sale of the entire
+-11-
+
+Senate Amendments to S.B. 1478
+1 business and stock in trade, or other bona fide transactions that are
+2 provided for by rule. Any change in ownership of the business of a
+3 licensee, directly or indirectly, as defined by rule is deemed a transfer,
+4 except that there is no transfer if a new artificial person is added to
+5 the ownership of a licensee's business but the controlling persons remain
+6 identical to the controlling persons that have been previously disclosed
+7 to the director as part of the licensee's existing ownership.
+8 D. All applications for a new license pursuant to section 4-201 or
+9 for a transfer to a new location pursuant to subsection C of this section
+10 shall be filed with and determined by the director, except when the
+11 governing body of the city or town or the board of supervisors receiving
+12 an application pursuant to section 4-201 orders disapproval of the
+13 application or when the director, the state liquor board or any aggrieved
+14 party requests a hearing. The application shall then be presented to the
+15 state liquor board, and the new license or transfer shall not become
+16 effective unless approved by the state liquor board.
+17 E. A person who assigns, surrenders, transfers or sells control of
+18 a liquor license or business that has a spirituous liquor license shall
+19 notify the director within thirty business days after the assignment,
+20 surrender, transfer or sale. A spirituous liquor license shall not be
+21 leased or subleased. A concession agreement entered into under section
+22 4-205.03 is not considered a lease or sublease in violation of this
+23 section.
+24 F. If a person other than those persons originally licensed
+25 acquires control over a license or licensee, the person shall file notice
+26 of the acquisition with the director within thirty business days after the
+27 acquisition of control and a list of officers, directors or other
+28 controlling persons on a form prescribed by the director. There is no
+29 acquisition of control if a new person is added to the ownership of a
+30 licensee's business but the controlling persons remain identical to the
+31 controlling persons that have been previously disclosed to the director as
+32 part of the licensee's existing ownership. All officers, directors or
+33 other controlling persons shall meet the qualifications for licensure as
+34 prescribed by this title. On request, the director shall conduct a
+35 preinvestigation before the assignment, sale or transfer of control of a
+36 license or licensee, the reasonable costs of which, not more than $1,000,
+37 shall be borne by the applicant. The preinvestigation shall determine
+38 whether the qualifications for licensure as prescribed by this title are
+39 met. On receipt of notice of an acquisition of control or request of a
+40 preinvestigation, the director, within fifteen days after receipt, shall
+41 forward the notice of the acquisition of control to the local governing
+42 body of the city or town, if the licensed premises is in an incorporated
+43 area, or the county, if the licensed premises is in an unincorporated
+44 area. The director shall include in the notice to the local governing
+45 body written instructions on how the local governing body may examine,
+46 free of charge, the results of the department's investigation regarding
+47 the capabilities, qualifications and reliability of all officers,
+-12-
+
+Senate Amendments to S.B. 1478
+1 directors or other controlling persons listed in the application for
+2 acquisition of control. The local governing body, or the governing body's
+3 designee, may provide the director with a recommendation, either in favor
+4 of or against the acquisition of control, within sixty days after the
+5 director mails the notice, but section 4-201 does not apply to the
+6 acquisition of control provided for in this section. A local governing
+7 body may charge not more than one fee, regardless of the number of
+8 licenses held by the applicant, for review of one or more applications for
+9 acquisition of control submitted to the department at the same time and
+10 for the same entity. Within one hundred five days after filing the notice
+11 of the acquisition of control, the director shall determine whether the
+12 applicant is qualified, capable and reliable for licensure. A
+13 recommendation by the local governing body, or the governing body's
+14 designee, against the acquisition of control or denial by the director
+15 shall be set for a hearing before the board. The person who has acquired
+16 control of a license or licensee has the burden of an original application
+17 at the hearing, and the board shall make its determination pursuant to
+18 section 4-202 and this section with respect to capability, reliability and
+19 qualification.
+20 G. A licensee who holds a license in nonuse status for more than
+21 five months shall be required to pay a $100 surcharge for each month
+22 thereafter. The surcharge shall be paid at the time the license is
+23 returned to active status. A license automatically reverts to the state
+24 after being held in continuous nonuse for more than thirty-six months.
+25 The director may waive the surcharge and may extend the time period
+26 provided in this subsection for good cause if the licensee files a written
+27 request for an extension of time to place the license in active status
+28 before the date of the automatic reversion. Unless the reverted license
+29 of the licensee has been subsequently reissued, the director shall relieve
+30 a licensee or its legal representative from a prior license reversion
+31 under this section if the request for such relief is filed in writing not
+32 later than two years after the date of reversion. A license shall not be
+33 deemed to have gone into active status if the license is transferred to a
+34 location that at the time of or immediately before the transfer had an
+35 active license of the same type, unless the licenses are under common
+36 ownership or control.
+37 H. A restructuring of a licensee's business is not an acquisition
+38 of control, a transfer of a spirituous liquor license or the issuance of a
+39 new spirituous liquor license if both of the following apply:
+40 1. All of the controlling persons of the licensee and the new
+41 business entity are identical.
+42 2. There is no change in control or beneficial ownership.
+43 I. If subsection H of this section applies, the licensee's history
+44 of violations of this title is the history of the new business entity.
+45 The director may prescribe a form and shall require the applicant to
+46 provide the necessary information to ensure compliance with this
+47 subsection and subsections F and G of this section.
+-13-
+
+Senate Amendments to S.B. 1478
+1 J. Notwithstanding subsection B of this section, the holder of a
+2 retail license in this state having off-sale privileges, except a bar,
+3 beer and wine bar or restaurant licensee, may take orders by telephone,
+4 mail, fax or catalog, through the internet or by other means for the sale
+5 and delivery of spirituous liquor off of the licensed premises to a person
+6 in this state in connection with the sale of spirituous liquor.
+7 Notwithstanding the definition of "sell" prescribed in section 4-101, the
+8 placement of an order and payment pursuant to this section is not a sale
+9 until delivery has been made. At the time that the order is placed, the
+10 licensee shall inform the purchaser that state law requires a purchaser of
+11 spirituous liquor to be at least twenty-one years of age and that the
+12 person accepting delivery of the spirituous liquor is required to comply
+13 with this state's age identification requirements as prescribed in section
+14 4-241, subsections A and K. The licensee may maintain a delivery service
+15 and may contract with one or more independent contractors, that may also
+16 contract with one or more independent contractors, or may contract with a
+17 common carrier for delivery of spirituous liquor if the spirituous liquor
+18 is loaded for delivery at the premises of the retail licensee in this
+19 state and delivered in this state. Except if the person delivering the
+20 order has personally retrieved and bagged or otherwise packaged the
+21 container of spirituous liquor for delivery and the licensee records, or
+22 requires to be recorded electronically, the identification information for
+23 each delivery, all containers of spirituous liquor delivered pursuant to
+24 this subsection shall be conspicuously labeled with the words "contains
+25 alcohol, signature of person who is twenty-one years of age or older is
+26 required for delivery". The licensee is responsible for any violation of
+27 this title or any rule adopted pursuant to this title that is committed in
+28 connection with any sale or delivery of spirituous liquor. Delivery must
+29 be made by an employee of the licensee or other authorized person as
+30 provided by this section who is at least twenty-one years of age to a
+31 customer who is at least twenty-one years of age and who displays an
+32 identification at the time of delivery that complies with section 4-241,
+33 subsection K. The retail licensee shall collect payment for the full
+34 price of the spirituous liquor from the purchaser before the product
+35 leaves the licensed premises. The director shall adopt rules that set
+36 operational limits for the delivery of spirituous liquors by the holder of
+37 a retail license having off-sale privileges. With respect to the delivery
+38 of spirituous liquor, for any violation of this title or any rule adopted
+39 pursuant to this title that is based on the act or omission of a
+40 licensee's employee or other authorized person, the mitigation provision
+41 of section 4-210, subsection G applies, with the exception of the training
+42 requirement. For the purposes of this subsection and notwithstanding the
+43 definition of "sell" prescribed in section 4-101, section 4-241,
+44 subsections A and K apply only at the time of delivery. For the purposes
+45 of compliance with this subsection, an independent contractor, a
+46 subcontractor of an independent contractor, the employee of an independent
+47 contractor or the employee of a subcontractor is deemed to be acting on
+-14-
+
+Senate Amendments to S.B. 1478
+1 behalf of the licensee when making a delivery of spirituous liquor for the
+2 licensee.
+3 K. Except as provided in subsection J of this section, Arizona
+4 licensees may transport spirituous liquors for themselves in vehicles
+5 owned, leased or rented by the licensee.
+6 L. Notwithstanding subsection B of this section, an off-sale retail
+7 licensee may provide consumer tasting of wines off of the licensed
+8 premises subject to all applicable provisions of section 4-206.01.
+9 M. The director may adopt reasonable rules to protect the public
+10 interest and prevent abuse by licensees of the activities permitted such
+11 licensees by subsections J and L of this section.
+12 N. Failure to pay any surcharge prescribed by subsection G of this
+13 section or failure to report the period of nonuse of a license shall be
+14 grounds for revocation of the license or grounds for any other sanction
+15 provided by this title. The director may consider extenuating
+16 circumstances if control of the license is acquired by another party in
+17 determining whether or not to impose any sanctions under this subsection.
+18 O. If a licensed location has not been in use for three years, the
+19 location must requalify for a license pursuant to subsection A of this
+20 section and shall meet the same qualifications required for issuance of a
+21 new license except when the director deems that the nonuse of the location
+22 was due to circumstances beyond the licensee's control and an extension of
+23 time has been granted pursuant to subsection G of this section.
+24 P. If the licensee's interest is forfeited pursuant to section
+25 4-210, subsection L, the location shall requalify for a license pursuant
+26 to subsection A of this section and shall meet the same qualifications
+27 required for issuance of a new license except when a bona fide lienholder
+28 demonstrates mitigation pursuant to section 4-210, subsection K.
+29 Q. The director may implement a procedure for the issuance of a
+30 license with a licensing period of two years.
+31 R. For any sale of a farm winery or craft distiller or change in
+32 ownership of a farm winery or craft distiller directly or indirectly, the
+33 business, stock-in-trade and spirituous liquor may be transferred with the
+34 ownership, in compliance with the applicable requirements of this title.
+35 S. Notwithstanding subsection B of this section, bar, beer and wine
+36 bar, liquor store, beer and wine store or restaurant licensees in this
+37 state may take orders by telephone, mail, fax or catalog, through the
+38 internet or by other means for the sale and delivery of spirituous liquor
+39 off the licensed premises as follows:
+40 1. Bar licensees for beer, wine, distilled spirits and mixed
+41 cocktails.
+42 2. Beer and wine bar licensees for beer and wine.
+43 3. Liquor store licensees for beer, wine, distilled spirits and
+44 mixed cocktails.
+45 4. Beer and wine store licensees for beer and wine.
+46 5. Restaurant licensees for any of the following:
+-15-
+
+Senate Amendments to S.B. 1478
+1 (a) Mixed cocktails, with the sale of menu food items for
+2 consumption on or off the licensed premises, if the restaurant holds a
+3 permit issued pursuant to section 4-203.07 and section 4-205.02,
+4 subsection K or a lease pursuant to section 4-203.06.
+5 (b) Beer if the restaurant holds a permit issued pursuant to
+6 section 4-205.02, subsection H.
+7 (c) Beer, wine and distilled spirits if the restaurant holds an
+8 off-sale privileges lease with a bar or liquor store pursuant to section
+9 4-203.07.
+10 (d) Beer and wine if the restaurant holds an off-sale privileges
+11 lease with a beer and wine bar pursuant to section 4-203.07.
+12 T. Notwithstanding the definition of "sell" prescribed in section
+13 4-101, placing an order and paying for that order pursuant to subsection S
+14 of this section is not a sale until delivery has been made. At the time
+15 that the order is placed, the licensee shall inform the purchaser that
+16 state law requires a purchaser of spirituous liquor to be at least
+17 twenty-one years of age and that the person accepting delivery of the
+18 spirituous liquor is required to comply with this state's age
+19 identification requirements as prescribed in section 4-241, subsections A
+20 and K. The licensee may maintain a delivery service and may contract with
+21 one or more alcohol delivery contractors registered pursuant to section
+22 4-205.13 for delivery of spirituous liquor if the spirituous liquor is
+23 packaged and tamperproof sealed by the bar, beer and wine bar, liquor
+24 store, beer and wine store or restaurant licensee or the licensee's
+25 employee and is loaded for delivery at the premises of the restaurant,
+26 beer and wine bar, liquor store, beer and wine store or bar licensee in
+27 this state and delivered in this state on the same business day. A liquor
+28 store or beer and wine store licensee may contract with one or more
+29 independent contractors as provided in subsection J of this section for
+30 delivery of spirituous liquor if the spirituous liquor is loaded for
+31 delivery at the premises of the liquor store or beer and wine store
+32 licensee in this state and delivered in this state on the same business
+33 day. All containers of spirituous liquor delivered pursuant to subsection
+34 S of this section shall be tamperproof sealed and conspicuously labeled
+35 with the words "contains alcohol, signature of person who is twenty-one
+36 years of age or older is required for delivery". The licensee is
+37 responsible for any violation of this title or any rule adopted pursuant
+38 to this title that is committed in connection with any sale or delivery of
+39 spirituous liquor. Delivery must be made by an employee of the licensee
+40 or an employee or authorized independent contractor of a registered
+41 alcohol delivery contractor as provided by this section who is at least
+42 twenty-one years of age and delivery must be made to a customer who is at
+43 least twenty-one years of age and who displays an identification at the
+44 time of delivery that complies with section 4-241, subsection K. The
+45 restaurant, beer and wine bar, liquor store, beer and wine store or bar
+46 licensee shall collect payment for the full price of the spirituous liquor
+47 from the purchaser before the product leaves the licensed premises. The
+-16-
+
+Senate Amendments to S.B. 1478
+1 director shall adopt rules that set operational limits for the delivery of
+2 spirituous liquor pursuant to this subsection and subsection S of this
+3 section with respect to the delivery of spirituous liquor. For any
+4 violation of this title or any rule adopted pursuant to this title that is
+5 based on the act or omission of a licensee's employee or a registered
+6 alcohol delivery contractor, the mitigation provision of section 4-210,
+7 subsection G applies, with the exception of the training requirement. For
+8 the purposes of this subsection and notwithstanding the definition of
+9 "sell" prescribed in section 4-101, section 4-241, subsections A and K
+10 apply only at the time of delivery. An alcohol delivery contractor, a
+11 subcontractor of an alcohol delivery contractor, an employee of an alcohol
+12 delivery contractor or an employee of a subcontractor is deemed to be
+13 acting on behalf of the licensee when making a delivery of spirituous
+14 liquor for the licensee. For the purposes of this subsection, "business
+15 day" means between the hours of 6:00 a.m. of one day and 2:00 a.m. of the
+16 next day.
+17 U. A licensee that has off-sale privileges and that delivers
+18 spirituous liquor as prescribed in this section shall complete a written
+19 record of each delivery at the time of delivery. The written record shall
+20 include all of the following:
+21 1. The name of the licensee making the delivery.
+22 2. The complete address of the licensee making the delivery.
+23 3. The licensee's license number.
+24 4. The date and time of the delivery.
+25 5. The address where the delivery was made.
+26 6. The type and brand of all spirituous liquor delivered.
+27 V. A licensee that has off-sale privileges and that delivers
+28 spirituous liquor as prescribed in this section shall obtain the following
+29 information from the individual who accepts delivery:
+30 1. The individual's name.
+31 2. The individual's date of birth.
+32 3. The individual's signature. The licensee making the delivery
+33 may use an electronic signature system to comply with the requirements of
+34 this paragraph.
+35 Sec. 4. Section 4-203.01, Arizona Revised Statutes, is amended to
+36 read:
+37 4-203.01. Interim permit; fee; rules
+38 A. The director may issue an interim permit to the applicant for a
+39 license of the same series, or for the replacement of a hotel-motel
+40 license with a restaurant license, at the same premises, REGARDLESS OF
+41 whether that license is transferrable or nontransferable and REGARDLESS OF
+42 WHETHER THAT LICENSE HAS BEEN USED IN THE PAST THREE YEARS, IF any of the
+43 following conditions exists:
+44 1. The director has good cause to believe the licensee is no longer
+45 in possession of the licensed premises.
+-17-
+
+Senate Amendments to S.B. 1478
+1 2. The license for such premises was surrendered OR EXPIRED OR WAS
+2 TERMINATED, CANCELED OR IN NONUSE AT THAT PREMISES pursuant to rules of
+3 the department.
+4 3. The applicant for the interim permit filed with the department
+5 an application for the issuance of a license of the same series of
+6 nontransferable license or the transfer or replacement of a transferable
+7 license of the same series, or for the replacement of a hotel-motel
+8 license with a restaurant license, at the same premises.
+9 B. The application for the interim permit shall be accompanied by
+10 an interim permit fee of one hundred dollars $100.
+11 C. An interim permit issued by the director pursuant to this
+12 section shall be for a period of not more than one hundred five days and
+13 shall not be extended except as provided in subsection D of this
+14 section. An interim permit is a conditional permit and authorizes the
+15 holder to sell such alcoholic beverages as would be permitted to be sold
+16 under the privileges of the license for which application has been filed
+17 with the department.
+18 D. Notwithstanding subsection C of this section, if the director
+19 extends the time limit for action by the department in connection with a
+20 license issuance or transfer pursuant to section 4-201.01, subsection B,
+21 the director shall issue an additional interim permit for a period equal
+22 to such extension unless either:
+23 1. No interim permit has previously been issued.
+24 2. For good cause shown the director denies the additional interim
+25 permit.
+26 E. Notwithstanding any other law, an interim permit may be canceled
+27 or suspended summarily at any time, if the director determines that good
+28 cause for such cancellation or suspension exists. There shall be no
+29 appeal from such cancellation or suspension of an interim permit to the
+30 board. The board may cancel an interim permit on applications that have
+31 been disapproved by the board. The cancellation or suspension of an
+32 interim permit may be appealed directly to the superior court.
+33 F. Application for an interim permit shall be on such form as the
+34 director shall prescribe PRESCRIBES. If an application for an interim
+35 permit is withdrawn before issuance or is refused by the director, the fee
+36 that accompanies such application shall be refunded.
+37 G. If an application for transfer of a license, person to person,
+38 or nontransferable spirituous liquor license is denied or an interim
+39 permit is revoked, IS suspended or expires, the licensee may request the
+40 return of the surrendered license that has been issued for such premises.
+41 H. The director may prescribe rules governing the issuance of
+42 interim permits under this section.
+43 I. The director may deny an interim permit in situations in which a
+44 current licensee holds a license described in section 4-209, subsection B,
+45 paragraph 12 and the current license is not in compliance with section
+46 4-205.02.
+-18-
+
+Senate Amendments to S.B. 1478
+1 Sec. 5. Section 4-205.02, Arizona Revised Statutes, is amended to
+2 read:
+3 4-205.02. Restaurant license; issuance; regulatory
+4 provisions; expiration; off-sale leases and
+5 permits; fee; definitions
+6 A. The director may issue a restaurant license to any restaurant in
+7 this state that is regularly open for serving food to guests for
+8 compensation and that has suitable kitchen facilities connected with the
+9 restaurant for keeping, cooking and preparing foods required for ordinary
+10 meals.
+11 B. The director shall issue the license in the name of the
+12 restaurant on application for the license by the owner or lessee of the
+13 restaurant, if the applicant is otherwise qualified to hold a spirituous
+14 liquor license. The holder of such a license is subject to the penalties
+15 prescribed for any violation of the law relating to alcoholic beverages.
+16 C. The holder of a restaurant license may sell and serve spirituous
+17 liquors solely for consumption on the licensed premises. For the purpose
+18 of this subsection, "licensed premises" may include rooms, areas or
+19 locations in which the restaurant normally sells or serves spirituous
+20 liquors pursuant to regular operating procedures and practices and that
+21 are contiguous to the restaurant or a noncontiguous patio pursuant to
+22 section 4-101, paragraph 32 33. For the purposes of this subsection, a
+23 restaurant licensee must submit proof of tenancy or permission from the
+24 landowner or lessor for all property to be included in the licensed
+25 premises.
+26 D. In addition to other grounds prescribed in this title on which a
+27 license may be revoked, the director may require the holder of a
+28 restaurant license issued pursuant to this section to surrender the
+29 license in any case in which the licensee ceases to operate as a
+30 restaurant, as prescribed in subsection A of this section. The surrender
+31 of a license pursuant to this subsection does not prevent the director
+32 from revoking the license for other grounds prescribed in this title or
+33 for making deliberate material misrepresentations to the department
+34 regarding the licensee's equipment, service or entertainment items or
+35 seating capacity in applying for the restaurant license.
+36 E. Neither the director nor the board may initially issue a
+37 restaurant license if either finds that there is sufficient evidence that
+38 the operation will not satisfy the criteria adopted by the director for
+39 issuing a restaurant license described in section 4-209, subsection B,
+40 paragraph 12. The director shall issue a restaurant license only if the
+41 applicant has submitted a plan for the operation of the restaurant. The
+42 plan shall be completed on forms provided by the department and shall
+43 include listings of all restaurant equipment and service items, the
+44 restaurant seating capacity and other information requested by the
+45 department to substantiate that the restaurant will operate in compliance
+46 with this section.
+-19-
+
+Senate Amendments to S.B. 1478
+1 F. The holder of the license described in section 4-209, subsection
+2 B, paragraph 12 who intends to alter the seating capacity or dimensions of
+3 a restaurant facility shall notify the department in advance on forms
+4 provided by the department.
+5 G. The director may charge a fee for site inspections conducted
+6 before the issuance of a restaurant license.
+7 H. A restaurant applicant or licensee may apply for a permit
+8 allowing for the sale of beer for consumption off the licensed premises
+9 pursuant to section 4-244, paragraph 32, subdivision (c) on a form
+10 prescribed and furnished by the director. The department shall not issue
+11 a permit to a restaurant applicant or licensee that does not meet the
+12 requirements in section 4-207, subsection A. Section 4-207, subsection B
+13 does not apply to this subsection. The permit shall be issued only after
+14 the director has determined that the public convenience requires and that
+15 the best interest of the community will be substantially served by the
+16 issuance of the permit, considering the same criteria adopted by the
+17 director for issuing a restaurant license described in section 4-209,
+18 subsection B, paragraph 12. The amount of beer sold under the permit
+19 shall not exceed ten percent of gross revenue of spirituous liquor sold by
+20 the establishment. After the permit has been issued, the permit shall be
+21 noted on the license itself and in the records of the department. The
+22 director may charge a fee for processing the application for the permit
+23 and a renewal fee.
+24 I. Notwithstanding any rule adopted by the department, business
+25 establishments that relied on a form issued by the department that
+26 provides for a small restaurant exemption for fifty or fewer seats before
+27 January 31, 2019 are allowed to continue to maintain the capacity of fifty
+28 or fewer seats for the duration of the business. The rights of a business
+29 establishment subject to this section are not transferable.
+30 J. Notwithstanding section 4-203, subsection E, section 4-207 and
+31 section 4-210, subsection A, paragraph 6, through December 31, 2025, a
+32 restaurant applicant or licensee may apply to the department for a lease
+33 for the privilege of selling mixed cocktails for consumption off the
+34 licensed premises pursuant to section 4-203.06 and section 4-244,
+35 paragraph 32, subdivision (d).
+36 K. Notwithstanding section 4-207, beginning January 1, 2026, a
+37 restaurant applicant or licensee may apply for a permit to allow the sale
+38 of mixed cocktails for consumption off the licensed premises pursuant to
+39 section 4-203.07 and section 4-244, paragraph 32, subdivision (d), on a
+40 form prescribed and furnished by the director. The sale of mixed
+41 cocktails for consumption off the licensed premises must be accompanied by
+42 the sale of menu food items for consumption on or off the licensed
+43 premises. The department shall issue the permit only after the director
+44 has determined that the public convenience requires and that the best
+45 interest of the community will be substantially served by issuing the
+46 permit. All permit holders and their employees, managers and agents must
+47 complete alcohol training pursuant to section 4-112, subsection G,
+-20-
+
+Senate Amendments to S.B. 1478
+1 paragraph 2. After the department issues the permit, the permit shall be
+2 noted on the license itself and in the records of the department. The
+3 director may establish and charge a fee for processing the permit
+4 application and a renewal fee.
+5 L. A restaurant licensee shall cease selling spirituous liquor,
+6 including mixed cocktails, for off-premises consumption when the licensee
+7 ceases regular kitchen service for food.
+8 M. For the purposes of this section:
+9 1. "Gross revenue":
+10 (a) Means the revenue derived from all sales of food and spirituous
+11 liquor on the licensed premises, regardless of whether the sales of
+12 spirituous liquor are made under a restaurant license issued pursuant to
+13 this section or under any other license that has been issued for the
+14 premises pursuant to this article.
+15 (b) Includes revenue derived from spirituous liquor sold for
+16 off-sale consumption.
+17 2. "Restaurant" means an establishment that derives at least forty
+18 percent of its gross revenue from the sale of food, including sales of
+19 food for consumption off the licensed premises if the amount of these
+20 sales included in the calculation of gross revenue from the sale of food
+21 does not exceed fifteen percent of all gross revenue of the restaurant.
+22 Sec. 6. Section 4-205.04, Arizona Revised Statutes, is amended to
+23 read:
+24 4-205.04. Farm winery license; issuance; regulatory
+25 provisions; retail site; fee
+26 A. The director may issue a farm winery license to any person who
+27 meets the requirements of subsection C of this section. Each location
+28 that engages in producing or manufacturing these products must obtain a
+29 separate farm winery license. The licensee may not transfer the farm
+30 winery license from person to person or from location to location.
+31 B. An applicant for a farm winery license, at the time of filing
+32 the application for the license, shall accompany the application with the
+33 license fee. A person who holds a farm winery license shall report
+34 annually at the end of each calendar year, at the time and in the manner
+35 as the director prescribes, the amount of wine produced or manufactured by
+36 the licensee during the calendar year. In addition to any provision of
+37 this title, if the total amount of wine produced or manufactured during
+38 the year exceeds the amount permitted annually by the license, the
+39 licensee shall apply for and receive a producer's license only on
+40 surrender of the farm winery license or licenses.
+41 C. A person may be licensed as a farm winery to sell wine produced
+42 or manufactured if in a calendar year it produces at least two hundred
+43 gallons and not more than forty thousand gallons of wine and if the winery
+44 either holds a winery permit issued by the United States alcohol and
+45 tobacco tax and trade bureau or has a contract pursuant to subsection D of
+46 this section for the production or manufacturing of wine from grapes or
+47 other fruit grown on at least five producing acres of land owned or
+-21-
+
+Senate Amendments to S.B. 1478
+1 controlled by the applicant and the land has been devoted to fruit growing
+2 for at least three consecutive calendar years. A licensed farm winery may
+3 make sales and deliveries of wine only as specifically provided in this
+4 section and as follows:
+5 1. A licensed farm winery may make sales and deliveries of wine to
+6 wholesalers licensed to sell wine under this title.
+7 2. A licensed farm winery may serve wine produced or manufactured
+8 on the premises for the purpose of sampling the wine. The wine may
+9 include wine produced pursuant to subsection D of this section and section
+10 4-243.03.
+11 3. A representative of the licensed farm winery may consume small
+12 amounts of the products of the licensed farm winery on the premises for
+13 the purpose of sampling the wine. The wine may include wine produced
+14 pursuant to subsection D of this section and section 4-243.03.
+15 4. A licensed farm winery may sell to a consumer physically present
+16 on the premises wine produced or manufactured on the premises in the
+17 original container for consumption on or off the premises. The wine may
+18 include wine produced pursuant to subsection D of this section and section
+19 4-243.03.
+20 5. A licensed farm winery may purchase and sell wine produced,
+21 packaged and labeled by another licensed farm winery for sampling and
+22 consumption on or off the premises only if the retail sale is to a
+23 consumer physically present on the premises of the farm winery, except
+24 that the sales of wine produced, packaged and labeled by another winery
+25 may not exceed twenty percent of the farm winery's sales by volume. The
+26 percentage limitation shall not apply to wine produced pursuant to
+27 subsection D of this section and section 4-243.03.
+28 6. If the licensed farm winery is not otherwise engaged in the
+29 business of a distiller, vintner, brewer, rectifier, blender or other
+30 producer of spirituous liquor in any jurisdiction, the licensed farm
+31 winery may hold licenses prescribed in section 4-209, subsection B,
+32 paragraph 12 on the licensed farm winery premises or other retail
+33 premises. Except as provided in paragraph 5 of this subsection, the
+34 licensed farm winery shall purchase all other spirituous liquor for sale
+35 at the on-sale retail premises from wholesalers that are licensed in this
+36 state, except that a licensed farm winery may:
+37 (a) Purchase wine from other farm wineries pursuant to paragraph 7
+38 of this subsection.
+39 (b) Make deliveries of the wine that the farm winery produces to
+40 the farm winery's own commonly controlled retail licensed premises.
+41 7. A licensed farm winery that produces not more than twenty
+42 thousand gallons of wine in a calendar year may make sales and deliveries
+43 of the wine that the licensed farm winery produces to on-sale and off-sale
+44 retailers.
+45 8. Notwithstanding section 4-244, paragraphs 3 and 7, an on-sale or
+46 off-sale retailer may purchase and accept delivery of wine from a licensed
+47 farm winery pursuant to paragraph 7 of this subsection.
+-22-
+
+Senate Amendments to S.B. 1478
+1 9. A licensed farm winery that produces not more than twenty
+2 thousand gallons of wine in a calendar year may make sales and deliveries
+3 of wine that the licensed farm winery produces to consumers off of the
+4 licensed premises and that is ordered by telephone, mail, fax or
+5 catalogue, through the internet or by other means if all of the following
+6 apply:
+7 (a) The purchaser of the wine provided the licensed farm winery
+8 with verification of the purchaser's legal age to purchase alcohol.
+9 (b) The shipping container in which the wine is shipped is marked
+10 to require the signature on delivery of an adult who is of legal age to
+11 purchase alcohol and delivery confirmation.
+12 (c) The wine is for personal use only and not for resale.
+13 (d) The wine is delivered by the licensed farm winery or shipped by
+14 the licensed farm winery by a common carrier to a residential or business
+15 address other than a premises licensed pursuant to this title.
+16 (e) The purchaser could have carried the wine lawfully into or
+17 within this state.
+18 (f) The delivery is made by a person who is at least twenty-one
+19 years of age.
+20 (g) The farm winery collects payment for the price of the
+21 spirituous liquor not later than at the time of delivery.
+22 10. A licensed farm winery may make sales and deliveries as
+23 expressly permitted by sections 4-203.03, 4-203.04 and 4-244.04.
+24 D. A person otherwise qualified to receive a farm winery license
+25 may enter into a custom crush arrangement where a licensed winery produces
+26 or manufactures wine from grapes or other fruit supplied by the person.
+27 The winery receiving the fruit shall be licensed by the United States
+28 alcohol and tobacco tax and trade bureau and the department and is
+29 responsible for filing all reports that relate to its wine production or
+30 manufacturing with the United States alcohol and tobacco tax and trade
+31 bureau and the department. Each person supplying the grapes or other
+32 fruit shall first apply for and receive a farm winery license and shall
+33 report to the department all volumes of wine from its custom crush
+34 arrangements, which shall not be allocated to the gallonage of the
+35 receiving farm winery if the supplying farm winery has an active basic
+36 permit issued by the United States alcohol and tobacco tax and trade
+37 bureau.
+38 E. On application by a farm winery licensee, the director may
+39 authorize a farm winery licensee to operate up to two remote tasting and
+40 retail premises if:
+41 1. The wine sold at the premises is limited to wine produced or
+42 manufactured by the licensed farm winery and wines produced or
+43 manufactured by other licensed farm wineries, including wines produced or
+44 manufactured pursuant to subsection D of this section and section
+45 4-243.03. The farm winery may sell wine to a consumer physically present
+46 on the premises for consumption on or off the premises. Sales of wines
+47 not produced or manufactured by the farm winery are limited to not more
+-23-
+
+Senate Amendments to S.B. 1478
+1 than twenty percent of the total sales by volume at that location. The
+2 percentage limitation shall not apply to wine produced pursuant to
+3 subsection D of this section and section 4-243.03.
+4 2. The farm winery licensee:
+5 (a) Remains responsible for the premises.
+6 (b) Obtains approval for the premises from the local governing body
+7 before submitting an application to the department. A copy of an order
+8 from the local governing body recommending approval of the premises must
+9 be filed with the department as part of the application.
+10 (c) Does not sublease the premises.
+11 (d) Has an agent who is a natural person who meets the
+12 qualifications of licensure in this state.
+13 (e) Meets the qualifications for a license pursuant to section
+14 4-203, subsection A.
+15 F. A farm winery licensee may hold a craft distiller license issued
+16 pursuant to section 4-205.10. The farm winery and craft distiller
+17 licensee is subject to all other requirements of this section and section
+18 4-205.10. The farm winery may provide sampling and sales of the distilled
+19 spirits pursuant to section 4-205.10, subsection C, paragraphs 2 and 3 on
+20 the same premises as the wine sampling and retail sales.
+21 G. The farm winery is liable for any violation committed in
+22 connection with any sale or delivery of the wine. The rules adopted by
+23 the director pursuant to section 4-203, subsection J apply to the delivery
+24 of wine under subsection C, paragraph 9 of this section. An act or
+25 omission of any person who makes a sale or delivery of wine for a licensee
+26 under subsection C, paragraph 9 of this section is deemed to be an act or
+27 omission of the licensee for the purposes of section 4-210, subsection A,
+28 paragraph 9.
+29 H. A farm winery that sells or delivers wine pursuant to this
+30 section shall:
+31 1. Pay to the department of revenue all luxury taxes imposed
+32 pursuant to title 42, chapter 3 and all transaction privilege or use taxes
+33 imposed pursuant to title 42, chapter 5.
+34 2. File all returns or reports required by law.
+35 I. A delivery of wine by a farm winery to a purchaser in this state
+36 is a transaction deemed to have occurred in this state.
+37 J. The director shall adopt rules in order to administer this
+38 section.
+39 K. The director may charge an additional farm winery license fee
+40 adopted pursuant to section 4-209 for issuing licenses, authorizations or
+41 approvals pursuant to subsections D and E of this section.
+-24-
+
+Senate Amendments to S.B. 1478
+1 L. The farm winery licensee that operates primarily as a remote
+2 tasting room premises may exchange the farm winery license for a remote
+3 tasting room license without an additional fee, not later than
+4 December 31, 2018. The new A remote tasting room license must be
+5 connected to a THE farm winery license, with common ownership, that
+6 complies AND SHALL COMPLY with all requirements for a farm winery license
+7 pursuant to subsections C and E of this section.
+8 M. Production and storage space of the farm winery is excluded from
+9 the licensed farm winery premises and is not the public area unless that
+10 space is also used for the sale of wine to the public or consumption of or
+11 sampling of wine by the public or to provide other services to the public.
+12 Pursuant to section 4-118, the director, the director's agents or any
+13 peace officer may inspect spaces excluded by this subsection. For the
+14 purposes of this subsection, "public area" means a place within a farm
+15 winery that is accessible to the public and in which the farm winery
+16 authorizes the presence of members of the public.
+17 Sec. 7. Section 4-205.08, Arizona Revised Statutes, is amended to
+18 read:
+19 4-205.08. Microbrewery license; issuance; regulatory
+20 provisions; retail site
+21 A. The director may issue a microbrewery license to any
+22 microbrewery. Each location that engages in producing, manufacturing and
+23 bottling these products must obtain a separate microbrewery license. The
+24 licensee may not transfer the microbrewery license from person to person
+25 or from location to location.
+26 B. An applicant for a microbrewery license, at the time of filing
+27 the application for the license, shall accompany the application with the
+28 license fee. Persons holding a microbrewery license shall report annually
+29 at the end of each calendar year, at the time and in the manner as the
+30 director prescribes, the amount of beer produced or manufactured by them
+31 during the calendar year and the amount delivered pursuant to subsection
+32 D, paragraph 4, subdivision (b) of this section. If the total amount of
+33 beer that is produced or manufactured during the calendar year exceeds the
+34 amount permitted annually by the license, the licensee shall apply for and
+35 receive a producer's license only on surrender of the microbrewery license
+36 or licenses and shall have no continuing rights as a microbrewery under
+37 this section. On the surrender of the microbrewery license or licenses,
+38 the licensee shall transfer, surrender or otherwise relinquish control of
+39 all of its retail licenses located remotely from a microbrewery.
+40 C. Notwithstanding any other law, a licensed microbrewery may:
+41 1. Sell beer produced or manufactured on the premises for
+42 consumption on or off the premises.
+43 2. Make sales and deliveries of beer that the microbrewery produces
+44 or manufactures to persons licensed to sell beer under this title through
+45 wholesalers licensed under this title or as provided in subsection D,
+46 paragraph 4, subdivision (a) or (b) of this section.
+-25-
+
+Senate Amendments to S.B. 1478
+1 3. Make sales and deliveries of beer that the microbrewery produces
+2 or manufactures to persons licensed to sell beer in another state if
+3 lawful under the laws of that state.
+4 4. Serve beer produced or manufactured on the premises for the
+5 purpose of sampling the beer.
+6 5. Sell beer produced or manufactured by other microbreweries for
+7 consumption only on the premises of the licensee, except that the sales
+8 percentage of beer from other microbreweries may not exceed twenty percent
+9 of the licensee's annual sales of beer by volume at the premises. If the
+10 other microbrewery has established a distribution relationship with one or
+11 more wholesalers who are licensed under this title, the beer shall be
+12 purchased through those wholesalers.
+13 6. Maintain at no charge a tapping equipment system of a licensed
+14 retailer when the microbrewery sells beer as provided in subsection D,
+15 paragraphs 3 and 4 of this section, including cleaning the tapping
+16 equipment system and replacing bonnet washers, friction rings, valve
+17 stems, hardware, unions, clamps, air tees, screws, tapping devices, tower
+18 heads and single air and beer lines.
+19 D. A licensed microbrewery is subject to all of the following
+20 requirements:
+21 1. The microbrewery shall produce or manufacture not less than one
+22 thousand gallons of beer in each calendar year following the first year of
+23 operation.
+24 2. The microbrewery shall not produce or manufacture more than six
+25 million two hundred thousand gallons of beer in a calendar year.
+26 3. If retail operations are conducted in conjunction with the
+27 microbrewery, the microbrewery may sell other spirituous liquor products
+28 if the microbrewery holds an on-sale retail license for a bar, beer and
+29 wine bar or restaurant. The microbrewery may be issued up to a combined
+30 total of seven retail licenses in this state, whether the premises are
+31 located on or adjacent to a microbrewery or remotely from a microbrewery.
+32 The limit on the number of retail licenses applies on an aggregated basis
+33 to all microbreweries that are under common control of any person with
+34 control of the microbrewery.
+35 4. The microbrewery may make sales and deliveries of beer that it
+36 has produced or manufactured to both:
+37 (a) Retail licensees that meet the requirements prescribed in
+38 paragraph 3 of this subsection in any amount.
+39 (b) Any other retail licensee in a cumulative amount not to exceed
+40 ninety-three thousand gallons in total for all licensed retailers in any
+41 calendar year.
+42 E. A microbrewery that produces or manufactures more than one
+43 million two hundred forty thousand gallons of beer in a calendar year
+44 maintains all of the rights associated with a microbrewery license, except
+45 that the microbrewery shall not:
+-26-
+
+Senate Amendments to S.B. 1478
+1 1. Apply for or receive a retail license pursuant to subsection D,
+2 paragraph 3 of this section for premises that are located remotely from
+3 the microbrewery.
+4 2. Make sales or deliveries of beer that the microbrewery has
+5 produced or manufactured to any retail licensee as provided in subsection
+6 D, paragraph 4 of this section, except for the microbrewery's retail
+7 licensees on or adjacent to the microbrewery.
+8 F. The gallonage amounts prescribed in subsection D, paragraph 2
+9 and subsection E of this section apply to the aggregate manufacture or
+10 production of all microbreweries that are under common control of any
+11 person with control of the microbrewery.
+12 G. A microbrewery that is otherwise engaged as a distiller,
+13 vintner, brewer, rectifier, blender or other producer of spirituous liquor
+14 in any jurisdiction is prohibited from holding any retail license that is
+15 located remotely from a microbrewery. This subsection does not prohibit a
+16 person with control of more than one microbrewery from conducting retail
+17 operations remotely from a microbrewery pursuant to subsection D,
+18 paragraph 3 of this section.
+19 H. A microbrewery that sells or delivers beer pursuant to this
+20 section shall:
+21 1. Pay to the department of revenue all luxury taxes imposed
+22 pursuant to title 42, chapter 3 and all transaction privilege or use taxes
+23 imposed pursuant to title 42, chapter 5.
+24 2. File all returns or reports required by law.
+25 I. A delivery of beer by a microbrewery to a purchaser in this
+26 state is a transaction deemed to have occurred in this state.
+27 J. The director shall adopt rules to administer this section.
+28 Sec. 8. Section 4-205.10, Arizona Revised Statutes, is amended to
+29 read:
+30 4-205.10. Craft distiller license; issuance; regulatory
+31 provisions; fee
+32 A. The director may issue a craft distiller license to any person
+33 that meets the requirements of subsection C of this section. Each
+34 location that engages in producing and bottling these products must obtain
+35 a separate craft distiller license. The licensee may not transfer the
+36 craft distiller license from person to person or from location to location
+37 and may not also hold a producer's license. The licensee and all commonly
+38 controlled craft distiller licensees may not manufacture or produce more
+39 than twenty thousand gallons of distilled spirits in a calendar year. For
+40 the purposes of this section, annual gallonage shall be the total proof
+41 gallons of finished distilled product available for wholesale or retail
+42 sale as defined by 26 United States Code section 5002 and rules adopted
+43 pursuant to this section or its successor.
+44 B. Persons holding a craft distiller license shall report annually
+45 at the end of each calendar year, at the time and in the manner as the
+46 director prescribes, the amount of distilled spirits that is produced or
+47 manufactured by that licensee during the calendar year. In addition to
+-27-
+
+Senate Amendments to S.B. 1478
+1 any other provision of this title, if the total amount of distilled
+2 spirits that is produced or manufactured during the year exceeds the
+3 amount that is permitted annually by the license, the licensee shall apply
+4 for and, on qualification, receive a producer's license only on the
+5 surrender of the craft distiller license and shall have no continuing
+6 rights as a craft distiller licensee under this section.
+7 C. A person may be licensed as a craft distiller to sell distilled
+8 spirits that are produced or manufactured by the person if in a calendar
+9 year the person produces or manufactures not more than twenty thousand
+10 gallons of distilled spirits and may make sales and deliveries of
+11 distilled spirits only as specified in this section and subject to the
+12 following criteria:
+13 1. A licensed craft distiller may make sales and deliveries of
+14 distilled spirits to wholesalers that are licensed to sell distilled
+15 spirits under this title.
+16 2. A licensed craft distiller may serve distilled spirits that are
+17 produced or manufactured on the premises for the purpose of consumption on
+18 the premises and may charge for samples on the premises of the craft
+19 distiller.
+20 3. A licensed craft distiller may sell distilled spirits that are
+21 produced or manufactured on the premises in the original container for
+22 consumption off the premises to a consumer who is physically present on
+23 the premises.
+24 4. The licensed craft distiller may hold one license prescribed in
+25 section 4-209, subsection B, paragraph 6 or 12 on or adjacent to the
+26 licensed craft distiller premises. The licensed craft distiller shall
+27 purchase all other spirituous liquor for sale at the on-sale retail
+28 premises from wholesalers that are licensed in this state, except that a
+29 licensed craft distiller may:
+30 (a) Purchase distilled spirits from other craft distillers that are
+31 licensed in this state. Sales of craft distillery products not produced
+32 or manufactured by the craft distiller shall be limited to no NOT more
+33 than twenty percent of the total sales by volume.
+34 (b) Make deliveries of the distilled spirits that the craft
+35 distiller manufactures or produces to any commonly controlled retail
+36 licensed premises or to the craft distiller's remote tasting rooms and
+37 that are authorized pursuant to this paragraph.
+38 5. A licensed craft distiller that produces not more than three
+39 thousand five hundred sixty-six gallons of distilled spirits in a calendar
+40 year may make sales and deliveries of distilled spirits that the licensed
+41 craft distiller produces to on-sale and off-sale retailers.
+42 6. Notwithstanding section 4-244, paragraphs 3 and 7, an on-sale or
+43 off-sale retailer may purchase and accept delivery of distilled spirits
+44 from a licensed craft distiller pursuant to paragraph 5 of this
+45 subsection.
+46 7. A licensed craft distiller may make sales and deliveries of
+47 distilled spirits that the licensed craft distiller manufactures or
+-28-
+
+Senate Amendments to S.B. 1478
+1 produces to consumers off of the licensed premises if the sale or delivery
+2 is ordered by telephone, mail, fax, catalogue, the internet or by other
+3 means if all of the following conditions exist:
+4 (a) The purchaser of the distilled spirits provided the licensed
+5 craft distiller with verification of the purchaser's legal age to purchase
+6 alcohol and a copy of same is maintained in the records of the craft
+7 distiller.
+8 (b) The shipping container in which the distilled spirits are
+9 shipped is marked to require the signature on delivery of an adult who is
+10 of legal age to purchase alcohol and delivery confirmation.
+11 (c) The distilled spirits are for personal use only and not for
+12 resale.
+13 (d) The distilled spirits are shipped to a residential or business
+14 address other than a premises licensed pursuant to this title.
+15 (e) The purchaser could have carried the distilled spirits lawfully
+16 into or within this state.
+17 (f) A person who is at least twenty-one years of age makes the
+18 delivery.
+19 (g) The craft distiller collects payment for the price of the
+20 spirituous liquor no NOT later than at the time of delivery.
+21 D. On application by a craft distiller licensee, the director may
+22 authorize a craft distiller licensee to operate two other remote tasting
+23 and retail premises if:
+24 1. The distilled spirits sold at the premises are limited to
+25 distilled spirits produced or manufactured by the licensed craft
+26 distillery and distilled spirits produced or manufactured by another
+27 licensed craft distillery. The craft distillery may sell to a consumer
+28 physically present on the premises distilled spirits produced by the craft
+29 distillery or by other licensed craft distilleries in the original
+30 container for consumption on or off the premises. The sales of the
+31 distilled spirits produced or manufactured by other craft distilleries
+32 shall not exceed twenty percent of the craft distillery's total sales by
+33 volume.
+34 2. The craft distiller licensee:
+35 (a) Remains responsible for the premises.
+36 (b) Obtains approval for the premises from the local governing body
+37 before submitting an application to the department. A copy of an order
+38 from the local governing body recommending approval of the premises must
+39 be filed with the department as part of the application.
+40 (c) Does not sublease the premises.
+41 (d) Has an agent who is a natural person who meets the
+42 qualifications of licensure in this state.
+43 (e) Meets the qualifications for a license pursuant to section
+44 4-203, subsection A.
+45 (f) For a tasting room with a shared patio, meets the requirements
+46 prescribed in section 4-205.12.
+-29-
+
+Senate Amendments to S.B. 1478
+1 E. A craft distiller licensee may hold a farm winery license issued
+2 pursuant to section 4-205.04. The craft distiller licensee and farm
+3 winery licensee are subject to all other requirements of this section and
+4 section 4-205.04. The craft distiller may provide sampling and retail
+5 sales of distilled spirits pursuant to subsection C, paragraphs 2 and 3 of
+6 this section on the same premises as the wine sampling and retail sales.
+7 F. The craft distiller is liable for any violation that is
+8 committed in connection with any sale or delivery of the distilled
+9 spirits. The rules adopted by the director pursuant to section 4-203,
+10 subsection J apply to the delivery of distilled spirits under subsection C
+11 of this section. An act or omission of any person who makes a sale or
+12 delivery of distilled spirits for a licensee under subsection C of this
+13 section is deemed to be an act or omission of the licensee for the
+14 purposes of section 4-210, subsection A, paragraph 9.
+15 G. A craft distiller that sells or delivers distilled spirits
+16 pursuant to this section shall:
+17 1. Pay to the department of revenue all luxury taxes that are
+18 imposed pursuant to title 42, chapter 3 and all transaction privilege or
+19 use taxes that are imposed pursuant to title 42, chapter 5.
+20 2. File all returns or reports that are required by law.
+21 H. A delivery of distilled spirits by a craft distiller to a
+22 purchaser in this state is a transaction deemed to have occurred in this
+23 state.
+24 I. The production and storage space of the craft distiller are
+25 excluded from the public area of the licensed craft distiller premises.
+26 Pursuant to section 4-118, the director, the director's agents or any
+27 peace officer may inspect spaces excluded by this subsection. For the
+28 purposes of this subsection:
+29 1. "Production and storage space" means a bonded area, tax-paid
+30 storage area and area that provides no services to the public.
+31 2. "Public area" means a place within a licensed and bonded craft
+32 distiller that is accessible to the public and in which the craft
+33 distiller sells and samples tax-paid product and authorizes the presence
+34 of members of the public.
+35 J. The director may adopt rules in order to administer this
+36 section.
+37 K. The director may charge a fee adopted pursuant to section 4-209
+38 for the issuance of a license pursuant to this section.
+39 L. The director may issue a craft distiller license to be located
+40 on the same parcel of land as a farm winery licensed pursuant to section
+41 4-205.04.
+42 Sec. 9. Section 4-209, Arizona Revised Statutes, is amended to
+43 read:
+44 4-209. Fees for license, application, issuance, renewal and
+45 transfer; late renewal penalty; seasonal operation;
+46 surcharges
+-30-
+
+Senate Amendments to S.B. 1478
+1 A. A fee shall accompany an application for an original license or
+2 transfer of a license, or in case of renewal, shall be paid in advance.
+3 Every license expires annually, except that a license may be renewed for a
+4 two-year period pursuant to subsection M of this section if no compliance
+5 penalties have been issued to that location during the year before the
+6 renewal. A licensee who fails to renew the license on or before the due
+7 date shall pay a penalty of $150, which the licensee shall pay with the
+8 renewal fee. A license renewal that is deposited, properly addressed and
+9 postage prepaid in an official depository of the United States mail on or
+10 before the due date shall be deemed filed and received by the department
+11 on the date shown by the postmark or other official mark of the United
+12 States postal service stamped on the envelope. If the due date falls on a
+13 Saturday, Sunday or other legal holiday, the renewal shall be considered
+14 timely if it is received by the department on the next business day. The
+15 director may waive a late renewal penalty if good cause is shown by the
+16 licensee. A licensee who fails to renew the license on or before the due
+17 date may not sell, purchase or otherwise deal in spirituous liquor until
+18 the license is renewed. A license that is not renewed within sixty days
+19 after the due date is deemed terminated. The director may renew the
+20 terminated license if good cause is shown by the licensee. Except an
+21 application fee for a permit pursuant to section 4-203.07 and section
+22 4-205.02, subsection K and leases pursuant to sections 4-203.06 and
+23 SECTION 4-203.07, an application fee for an original license or the
+24 transfer of a license shall be $100, which shall be retained by this
+25 state.
+26 B. Issuance fees for original licenses shall be:
+27 1. For an in-state producer's license to manufacture or produce
+28 spirituous liquor in this state, $1,500.
+29 2. Except as provided in paragraph 15 of this subsection, for an
+30 out-of-state producer's, exporter's, importer's or rectifier's license,
+31 $200.
+32 3. For a microbrewery license, $300.
+33 4. For a wholesaler's license to sell spirituous liquors, $1,500.
+34 5. For a government license issued in the name of a state agency,
+35 state commission, state board, county, city, town, community college or
+36 state university or the national guard, $100.
+37 6. For a bar license, which is an on-sale retailer's license to
+38 sell all spirituous liquors primarily by individual portions and in the
+39 original containers, $1,500.
+40 7. For a beer and wine bar license, which is an on-sale retailer's
+41 license to sell beer and wine primarily by individual portions and in the
+42 original containers, $1,500.
+43 8. For a conveyance license issued to an operating railroad
+44 company, to sell all spirituous liquors in individual portions or in the
+45 original containers on all passenger trains operated by the railroad
+46 company, or to an operating airline company, to sell or serve spirituous
+47 liquors solely in individual portions on all passenger planes operated by
+-31-
+
+Senate Amendments to S.B. 1478
+1 the airline company, or to a boat operating in the waters of this state,
+2 to sell all spirituous liquors in individual portions or in the original
+3 containers for consumption on the boat, $1,500.
+4 9. For a liquor store license, which is an off-sale retailer's
+5 license to sell all spirituous liquors, $1,500.
+6 10. For a beer and wine store license, which is an off-sale
+7 retailer's license to sell beer and wine, $1,500.
+8 11. For a hotel-motel license issued as such, to sell and serve
+9 spirituous liquors solely for consumption on the licensed premises of the
+10 hotel or motel, $1,500.
+11 12. For a restaurant license issued as such, to sell and serve
+12 spirituous liquors solely for consumption on the licensed premises of the
+13 restaurant, $1,500. For a permit issued under section 4-205.02,
+14 subsection H allowing for the sale of beer for the consumption off the
+15 licensed premises pursuant to section 4-244, paragraph 32, subdivision
+16 (c), the director may charge a fee. For an application for a permit
+17 pursuant to section 4-203.07 and section 4-205.02, subsection K, the
+18 director may charge a fee. The director may establish and charge fees for
+19 lease applications pursuant to sections 4-203.06 and SECTION 4-203.07.
+20 13. For a farm winery license, $100. The director may charge a
+21 licensed farm winery a fee pursuant to section 4-205.04, subsection K.
+22 14. For a club license issued in the name of a bona fide club
+23 qualified under this title to sell all spirituous liquors on-sale, $1,000.
+24 15. For an out-of-state winery that sells not more than two hundred
+25 forty gallons of wine in this state in a calendar year, $25.
+26 16. The department may charge a fee for a craft distiller license.
+27 17. The department may charge a fee for registering an alcohol
+28 delivery contractor pursuant to section 4-205.13.
+29 C. The department may issue licenses with staggered renewal dates
+30 to distribute the renewal workload as uniformly as practicable throughout
+31 the twelve months of the calendar year. If a license is issued less than
+32 six months before the scheduled renewal date of the license, as provided
+33 by the department's staggered license renewal system, one-half of the
+34 annual license fee shall be charged.
+35 D. The annual fees for licenses shall be:
+36 1. For an in-state producer's license to manufacture or produce
+37 spirituous liquors in this state, $350.
+38 2. Except as provided in paragraph 15 of this subsection, for an
+39 out-of-state producer's, exporter's, importer's or rectifier's license,
+40 $50.
+41 3. For a microbrewery license, $300.
+42 4. For a wholesaler's license, to sell spirituous liquors, $250.
+43 5. For a government license issued to a county, city or town,
+44 community college or state university or the national guard, $100.
+45 6. For a bar license, which is an on-sale retailer's license to
+46 sell all spirituous liquors primarily by individual portions and in the
+47 original containers, $150.
+-32-
+
+Senate Amendments to S.B. 1478
+1 7. For a beer and wine bar license, which is an on-sale retailer's
+2 license to sell beer and wine primarily by individual portions and in the
+3 original containers, $75.
+4 8. For a conveyance license issued to an operating railroad
+5 company, to sell all spirituous liquors in individual portions or in the
+6 original containers on all passenger trains operated by the railroad
+7 company, or to an operating airline company, to sell or serve spirituous
+8 liquors solely in individual portions on all passenger planes operated by
+9 the airline company, or to a boat operating in the waters of this state,
+10 to sell all spirituous liquor in individual portions or in the original
+11 containers for consumption on the boat, $225.
+12 9. For a liquor store license, which is an off-sale retailer's
+13 license to sell all spirituous liquors, $50.
+14 10. For a beer and wine store license, which is an off-sale
+15 retailer's license to sell beer and wine, $50.
+16 11. For a hotel-motel license issued as such, to sell and serve
+17 spirituous liquors solely for consumption on the licensed premises of the
+18 hotel or motel, $500.
+19 12. For a restaurant license issued as such, to sell and serve
+20 spirituous liquors solely for consumption on the licensed premises of the
+21 restaurant, $500, and for a restaurant license that is allowed to continue
+22 operating as a restaurant pursuant to section 4-213, subsection E, an
+23 additional amount established by the director. The department shall
+24 transfer this amount to the state treasurer for deposit in the state
+25 general fund. The director may establish an annual fee for a permit
+26 pursuant to section 4-203.07 and section 4-205.02, subsection K. The
+27 director may charge annual lease amounts pursuant to sections 4-203.06 and
+28 SECTION 4-203.07.
+29 13. For a farm winery license, $100. The director may charge a
+30 licensed farm winery an annual fee pursuant to section 4-205.04,
+31 subsection K.
+32 14. For a club license issued in the name of a bona fide club
+33 qualified under this title to sell all spirituous liquors on-sale, $150.
+34 15. For an out-of-state winery that sells not more than two hundred
+35 forty gallons of wine in this state in a calendar year, $25.
+36 16. The director may charge a fee for the annual renewal of a craft
+37 distiller license.
+38 17. The department may charge a fee for the annual registration
+39 renewal of a registered alcohol delivery contractor pursuant to section
+40 4-205.13.
+41 E. Where the business of an on-sale retail licensee is seasonal,
+42 not extending over periods of more than six months in any calendar year,
+43 the licensee may designate the periods of operation and a license may be
+44 granted for those periods only, on payment of one-half of the fee
+45 prescribed in subsection D of this section.
+46 F. Transfer fees from person to person for licenses transferred
+47 pursuant to section 4-203, subsection C shall be $300.
+-33-
+
+Senate Amendments to S.B. 1478
+1 G. Transfer fees from location to location, as provided for in
+2 section 4-203, shall be $100.
+3 H. Assignment fees for a change of agent, as provided for in
+4 section 4-202, subsection A, an acquisition of control, as provided for in
+5 section 4-203, subsection F, or a restructuring, as provided for in
+6 section 4-203, subsection H, shall be $100, except that where a licensee
+7 holds multiple licenses and requests multiple, simultaneous changes, the
+8 change of agent, acquisition of control or restructuring fee for the first
+9 license shall be $100 and the fee for all remaining licenses shall be $50
+10 each, except that the aggregate fees shall not exceed $1,000 for all
+11 change of agents, $1,000 for all acquisitions of control and $1,000 for
+12 all restructurings.
+13 I. No fee shall be charged by the department for an assignment of a
+14 liquor license in probate or an assignment pursuant to the provisions of a
+15 will or pursuant to a judicial decree in a domestic relations proceeding
+16 that assigns ownership of a business that includes a spirituous liquor
+17 license to one of the parties in the proceeding. In the case of
+18 nontransferable licenses, no fee shall be charged by the department for
+19 the issuance of a license for a licensed business pursuant to a transfer
+20 of the business in probate or pursuant to the provisions of a will or
+21 pursuant to a judicial decree in a domestic relations proceeding that
+22 assigns ownership of the business to one of the parties in the proceeding.
+23 J. The director shall assess a surcharge of $30 on all licenses
+24 prescribed in subsection D, paragraphs 6, 7 and 12 of this section.
+25 Monies from the surcharge shall be used by the department exclusively for
+26 the costs of an auditor and support staff to review compliance by
+27 applicants and licensees with the requirements of section 4-205.02,
+28 subsection E. The department shall assess the surcharge as part of the
+29 annual license renewal fee.
+30 K. The director shall assess a surcharge of $35 on all licenses
+31 prescribed in this section. Monies from the surcharge shall be used by
+32 the department exclusively for the costs of an enforcement program to
+33 investigate licensees who have been the subject of multiple complaints to
+34 the department. The enforcement program shall respond to complaints
+35 against licensees by neighborhood associations, by neighborhood civic
+36 groups and from municipal and county governments. The department shall
+37 assess the surcharge as part of the annual license renewal fee.
+38 L. The director shall assess a surcharge of $20 on all licenses
+39 prescribed in subsection D, paragraphs 11 and 12 of this section and $35
+40 on all other licenses prescribed in this section. Monies from the
+41 surcharge and from surcharges imposed pursuant to subsection K of this
+42 section shall be used by the department exclusively for the costs of a
+43 neighborhood association interaction and liquor enforcement management
+44 unit. The unit shall respond to complaints from neighborhood
+45 associations, neighborhood civic groups and local governing authorities
+46 regarding liquor violations. The director shall report the unit's
+47 activities and the use of monies from the surcharge or surcharges imposed
+-34-
+
+Senate Amendments to S.B. 1478
+1 pursuant to subsection K of this section to the board at each board
+2 meeting or as the board may direct.
+3 M. Licenses may be renewed every two years with payment of license
+4 fees that are twice the amount designated in subsection D of this section
+5 and other applicable fees. Licensees renewing every two years must comply
+6 with annual reporting requirements. The director may adopt reasonable
+7 rules to allow licensees to renew every two years.
+8 N. The department shall use all monies received from application
+9 fees for permits issued pursuant to section 4-205.02, subsection K, leases
+10 pursuant to sections 4-203.06 and SECTION 4-203.07 and registrations
+11 pursuant to section 4-205.13 for administrative costs associated with the
+12 permit, registration or lease and enforcement of this chapter.
+13 Sec. 10. Section 4-212, Arizona Revised Statutes, is amended to
+14 read:
+15 4-212. Injunctions
+16 If the board or the director has reasonable grounds to believe that
+17 a person is violating section 4-244.05 or 4-250.01 or is manufacturing
+18 PRODUCING, selling or dealing in spirituous liquor without a valid
+19 license, permit or registration in violation of this title, the board or
+20 the director may apply to the superior court for a temporary restraining
+21 order and other injunctive relief prohibiting the specific acts complained
+22 of by the board or the director.
+23 Sec. 11. Section 4-214, Arizona Revised Statutes, is amended to
+24 read:
+25 4-214. Arizona wines; labeling
+26 A. A person licensed as A farm winery LICENSED pursuant to section
+27 4-205.04 or licensed as a producer LICENSED pursuant to section 4-203 may
+28 label a wine offered for sale that states that the wine is any of the
+29 following:
+30 1. An Arizona wine or a wine from a particular county in this
+31 state, if at least seventy-five percent of the wine by volume is produced
+32 or manufactured from grapes or other fruit grown in this state and is
+33 fermented, processed, bottled and labeled in this state.
+34 2. A wine from a particular federally recognized viticultural area,
+35 if at least eighty-five percent of the wine by volume is produced or
+36 manufactured from grapes or other fruit grown WITHIN A FEDERALLY
+37 RECOGNIZED VITICULTURAL AREA THAT IS LOCATED in this state and is
+38 fermented, processed, bottled and labeled in this state.
+39 3. A wine from a particular vineyard, orchard, farm or ranch, if at
+40 least ninety-five percent of the wine by volume is produced or
+41 manufactured from grapes or other fruit grown in this state and is
+42 fermented, processed, bottled and labeled in this state.
+43 4. Estate bottled, if one hundred percent of the wine by volume is
+44 produced or manufactured from a winery in a particular federally
+45 recognized viticultural area in which all grapes or other fruit were
+46 grown, crushed, fermented, processed, aged and bottled in a continuous
+-35-
+
+Senate Amendments to S.B. 1478
+1 process, the wine at no time having left the premises of the bottling
+2 winery.
+3 B. A licensee that complies with subsection A of this section is
+4 not subject to criminal, civil or administrative action for a violation of
+5 section 4-244, paragraph 39.
+6 Sec. 12. Section 4-221, Arizona Revised Statutes, is amended to
+7 read:
+8 4-221. Registration of stills; forfeiture; sale; proceeds
+9 A. Every person having in his THE PERSON'S possession or custody or
+10 under his THE PERSON'S control a still or distilling apparatus shall
+11 register it with the director under the rules the director may prescribe,
+12 and every still or distilling apparatus not so registered, together with
+13 all mash, wort or wash, for distillation or for the production of spirits
+14 or alcohol, and all finished products, together with all personal property
+15 in the possession or custody of, or under the control of any person, which
+16 THAT may be used in the manufacture PRODUCTION or transportation of
+17 spirituous liquors, and which THAT is found in the building or in any yard
+18 or enclosure connected with the building in which the unregistered still
+19 or distilling apparatus is located, shall be forfeited to the THIS state.
+20 B. The still, distilling apparatus, mash, wort, wash or finished
+21 products shall forthwith be destroyed by any peace officer, and all
+22 personal property forfeited to the state shall be sold at public auction
+23 to the highest bidder for cash on five days' notice.
+24 C. The notice shall be posted at the courthouse in the county in
+25 which the personal property was seized or at the office of the director
+26 and shall be published in a newspaper of general circulation THAT IS
+27 published in this state which AND THAT is nearest to the place where the
+28 personal property was seized. After paying the expenses of the
+29 publication and the expenses of sale from the proceeds of the sale, any
+30 balance shall be paid into the STATE general fund of the state.
+31 Sec. 13. Section 4-222, Arizona Revised Statutes, is amended to
+32 read:
+33 4-222. Registration of retail agents; fees
+34 A. Every person who holds a bar, beer and wine bar, liquor store,
+35 beer and wine store, club, hotel-motel or restaurant license and who is
+36 authorized by other similarly licensed retailers to act as their retail
+37 agent shall register with the director. Such registration shall be in
+38 accordance with the rules adopted by the director pursuant to section
+39 4-112 and shall also include a listing of the names and business addresses
+40 of those similarly licensed retailers who have authorized him THE PERSON
+41 to act as their retail agent. While possessing a certificate of
+42 registration, a retail agent shall be entitled to purchase and shall
+43 accept delivery of spirituous liquors for which he THE RETAIL AGENT is
+44 licensed for and on behalf of himself THE RETAIL AGENT and those similarly
+45 licensed retailers who have authorized him THE RETAIL AGENT to act as
+46 their retail agent with the delivery to be made at the retail agent's
+47 licensed premises or other location authorized by the department. On the
+-36-
+
+Senate Amendments to S.B. 1478
+1 termination of such authorization by any retailer, the retail agent shall
+2 promptly notify the director. Nothing in This section shall DOES NOT
+3 require a wholesaler to sell malt beverages to a registered retail agent
+4 for distribution to other retailers.
+5 B. A fee of five dollars $5 shall be collected for each registered
+6 retailer in this state, and a fee of fifty dollars $50 for each registered
+7 agent for a distillery, winery, brewery, importer or broker having its
+8 place of manufacture PRODUCTION or business outside of the THIS state.
+9 C. The director shall issue a certificate of registration to each
+10 person so registered as provided in this section, and may, for good cause
+11 shown, cancel any certificate of registration so issued.
+12 Sec. 14. Section 4-223, Arizona Revised Statutes, is amended to
+13 read:
+14 4-223. Authority of cities and towns to tax transactions
+15 involving spirituous liquors; prohibitions
+16 A. In addition to the taxes provided for in this chapter,
+17 incorporated cities and towns shall have the power to MAY levy a tax on
+18 the privilege of engaging or continuing in the business of selling
+19 spirituous liquor at retail within their corporate limits and to MAY
+20 impose a permit tax or fee, but this section shall DOES not apply to
+21 wholesalers licensed under section 4-209.
+22 B. This section shall DOES not be construed to give to incorporated
+23 cities and towns power to prohibit the manufacture PRODUCTION, sale,
+24 distribution, and disposal of intoxicating liquors.
+25 Sec. 15. Repeal
+26 Section 4-225, Arizona Revised Statutes, is repealed.
+27 Sec. 16. Section 4-226, Arizona Revised Statutes, is amended to
+28 read:
+29 4-226. Exemptions
+30 This title does not apply to the following:
+31 1. Drugstores selling spirituous liquors only on prescription.
+32 2. Any confectionery candy containing less than five percent by
+33 weight of alcohol.
+34 3. Ethyl alcohol intended for use or used for the following
+35 purposes:
+36 (a) Scientific, chemical, mechanical, industrial and medicinal
+37 purposes. For the purposes of this paragraph SUBDIVISION, medicinal
+38 purposes do not include ethyl alcohol or spirituous liquor that contains
+39 marijuana or usable marijuana as defined in section 36-2801.
+40 (b) By those authorized to procure spirituous liquor or ethyl
+41 alcohol tax-free, as provided by the acts of Congress and regulations
+42 promulgated under the acts of Congress.
+43 (c) In the manufacture of denatured alcohol produced and used as
+44 provided by the acts of Congress and regulations promulgated under the
+45 acts of Congress.
+46 (d) In the manufacture of patented, patent, proprietary, medicinal,
+47 pharmaceutical, antiseptic, toilet, scientific, chemical, mechanical and
+-37-
+
+Senate Amendments to S.B. 1478
+1 industrial preparations or products, unfit and not used for beverage
+2 purposes.
+3 (e) In the manufacture of flavoring extracts and syrups unfit for
+4 beverage purposes.
+5 4. The purchase, storage, distribution, service or consumption of
+6 wine in connection with the bona fide practice of a religious belief or as
+7 an integral part of a religious exercise by a church recognized by the
+8 United States internal revenue service under section 501(c)(3) of the
+9 internal revenue code and in a manner not dangerous to public health or
+10 safety. This exemption does not apply to any alleged violation of section
+11 4-244, paragraph 9, 34, 35 or 41.
+12 5. Beer or wine produced for personal or family use that is not for
+13 sale. The beer or wine may be removed from the premises where it was made
+14 and exhibited at organized affairs, exhibitions or competitions, such as
+15 homebrewers' or home winemakers' contests, tasting or judging.
+16 6. The manufacture or sale of bitters products that have been
+17 classified and approved as a nonbeverage product or unfit for beverage
+18 purposes by the United States alcohol and tobacco tax and trade bureau.
+19 This paragraph is consistent with the classification guidelines as
+20 established and administered by the United States alcohol and tobacco tax
+21 and trade bureau.
+22 7. NONBEVERAGE PRODUCTS AS DEFINED IN 27 CODE OF FEDERAL
+23 REGULATIONS PART 17 AND THAT ARE QUALIFIED BY THE UNITED STATES ALCOHOL
+24 AND TOBACCO TAX AND TRADE BUREAU AS NONBEVERAGE PRODUCTS.
+25 Sec. 17. Section 4-244, Arizona Revised Statutes, is amended to
+26 read:
+27 4-244. Unlawful acts; definition
+28 It is unlawful:
+29 1. For a person to buy for resale, sell or deal in spirituous
+30 liquors in this state without first having procured a license duly issued
+31 by the board, except that the director may issue a temporary permit of any
+32 series pursuant to section 4-205.05 to a trustee in bankruptcy to acquire
+33 and dispose of the spirituous liquor of a debtor.
+34 2. For a person to sell or deal in alcohol for beverage purposes
+35 without first complying with this title.
+36 3. For a distiller, vintner, brewer or wholesaler knowingly to
+37 sell, dispose of or give spirituous liquor to any person other than a
+38 licensee except in sampling wares as may be necessary in the ordinary
+39 course of business, except in donating spirituous liquor to a nonprofit
+40 organization that has obtained a special event license for the purpose of
+41 charitable fundraising activities or except in donating spirituous liquor
+42 with a cost to the distiller, brewer or wholesaler of up to $500 in a
+43 calendar year to an organization that is exempt from federal income taxes
+44 under section 501(c) (3), (4), (6) or (7) of the internal revenue code and
+45 not licensed under this title.
+-38-
+
+Senate Amendments to S.B. 1478
+1 4. For a distiller, vintner or brewer to require a wholesaler to
+2 offer or grant a discount to a retailer, unless the discount has also been
+3 offered and granted to the wholesaler by the distiller, vintner or brewer.
+4 5. For a distiller, vintner or brewer to use a vehicle for trucking
+5 or transporting spirituous liquors unless there is affixed to both sides
+6 of the vehicle a sign showing the name and address of the licensee and the
+7 type and number of the person's license in letters not less than three and
+8 one-half inches in height.
+9 6. For a person to take or solicit orders for spirituous liquors
+10 unless the person is a salesman or solicitor of a licensed wholesaler, a
+11 salesman or solicitor of a distiller, brewer, vintner, importer or broker
+12 or a registered retail agent.
+13 7. For any retail licensee to purchase spirituous liquors from any
+14 person other than a solicitor or salesman of a wholesaler licensed in this
+15 state.
+16 8. For a retailer to acquire an interest in property owned,
+17 occupied or used by a wholesaler in the wholesaler's business, or in a
+18 license with respect to the premises of the wholesaler.
+19 9. Except as provided in paragraphs 10 and 11 of this section, for
+20 a licensee or other person to sell, furnish, dispose of or give, or cause
+21 to be sold, furnished, disposed of or given, to a person under the legal
+22 drinking age or for a person under the legal drinking age to buy, receive,
+23 have in the person's possession or consume spirituous liquor. This
+24 paragraph does not prohibit the employment by an off-sale retailer of
+25 persons who are at least sixteen years of age to check out, if supervised
+26 by a person on the premises who is at least eighteen years of age, package
+27 or carry merchandise, including spirituous liquor, in unbroken packages,
+28 for the convenience of the customer of the employer, if the employer sells
+29 primarily merchandise other than spirituous liquor.
+30 10. For a licensee to employ a person under eighteen years of age
+31 to manufacture, sell or dispose of spirituous liquors. This paragraph
+32 does not prohibit the employment by an off-sale retailer of persons who
+33 are at least sixteen years of age to check out, if supervised by a person
+34 on the premises who is at least eighteen years of age, package or carry
+35 merchandise, including spirituous liquor, in unbroken packages, for the
+36 convenience of the customer of the employer, if the employer sells
+37 primarily merchandise other than spirituous liquor.
+38 11. For an on-sale retailer to employ a person under eighteen years
+39 of age in any capacity connected with the handling of spirituous liquors.
+40 This paragraph does not prohibit the employment by an on-sale retailer of
+41 a person under eighteen years of age who cleans up the tables on the
+42 premises for reuse, removes dirty dishes, keeps a ready supply of needed
+43 items and helps clean up the premises.
+44 12. For a licensee, when engaged in waiting on or serving
+45 customers, to consume spirituous liquor or for a licensee or on-duty
+46 employee to be on or about the licensed premises while in an intoxicated
+47 or disorderly condition.
+-39-
+
+Senate Amendments to S.B. 1478
+1 13. For an employee of a retail licensee, during that employee's
+2 working hours or in connection with such employment, to give to or
+3 purchase for any other person, accept a gift of, purchase for the employee
+4 or consume spirituous liquor, except that:
+5 (a) An employee of a licensee, during that employee's working hours
+6 or in connection with the employment, while the employee is not engaged in
+7 waiting on or serving customers, may give spirituous liquor to or purchase
+8 spirituous liquor for any other person.
+9 (b) An employee of an on-sale retail licensee, during that
+10 employee's working hours or in connection with the employment, while the
+11 employee is not engaged in waiting on or serving customers, may taste
+12 samples of beer or wine of not more than four ounces per day or distilled
+13 spirits of not more than two ounces per day provided by an employee of a
+14 wholesaler or distributor who is present at the time of the sampling.
+15 (c) An employee of an on-sale retail licensee, under the
+16 supervision of a manager as part of the employee's training and education,
+17 while not engaged in waiting on or serving customers may taste samples of
+18 distilled spirits of not more than two ounces per educational session or
+19 beer or wine of not more than four ounces per educational session, and
+20 provided that a licensee does not have more than two educational sessions
+21 in any thirty-day period.
+22 (d) An unpaid volunteer who is a bona fide member of a club and who
+23 is not engaged in waiting on or serving spirituous liquor to customers may
+24 purchase for himself and consume spirituous liquor while participating in
+25 a scheduled event at the club. An unpaid participant in a food
+26 competition may purchase for himself and consume spirituous liquor while
+27 participating in the food competition.
+28 (e) An unpaid volunteer of a special event licensee under section
+29 4-203.02 may purchase and consume spirituous liquor while not engaged in
+30 waiting on or serving spirituous liquor to customers at the special event.
+31 This subdivision does not apply to an unpaid volunteer whose
+32 responsibilities include verification of a person's legal drinking age,
+33 security or the operation of any vehicle or heavy machinery.
+34 (f) A representative of a producer or wholesaler participating at a
+35 special event under section 4-203.02 may consume small amounts of the
+36 products of the producer or wholesaler on the premises of the special
+37 event for the purpose of quality control.
+38 14. For a licensee or other person to serve, sell or furnish
+39 spirituous liquor to a disorderly or obviously intoxicated person, or for
+40 a licensee or employee of the licensee to allow a disorderly or obviously
+41 intoxicated person to come into or remain on or about the premises, except
+42 that a licensee or an employee of the licensee may allow an obviously
+43 intoxicated person to remain on the premises for not more than thirty
+44 minutes after the state of obvious intoxication is known or should be
+45 known to the licensee for a nonintoxicated person to transport the
+46 obviously intoxicated person from the premises. For the purposes of this
+47 section, "obviously intoxicated" means inebriated to the extent that a
+-40-
+
+Senate Amendments to S.B. 1478
+1 person's physical faculties are substantially impaired and the impairment
+2 is shown by significantly uncoordinated physical action or significant
+3 physical dysfunction that would have been obvious to a reasonable person.
+4 15. For an on-sale or off-sale retailer or an employee of such
+5 retailer or an alcohol delivery contractor to sell, dispose of, deliver or
+6 give spirituous liquor to a person between the hours of 2:00 a.m. and
+7 6:00 a.m., except that:
+8 (a) A retailer with off-sale privileges may receive and process
+9 orders, accept payment or package, load or otherwise prepare spirituous
+10 liquor for delivery at any time, if the actual deliveries to customers are
+11 made between the hours of 6:00 a.m. and 2:00 a.m., at which time section
+12 4-241, subsections A and K apply.
+13 (b) The governor, in consultation with the governor's office of
+14 highway safety and the public safety community in this state, may issue an
+15 executive order that extends the closing time until 3:00 a.m. for
+16 spirituous liquor sales in connection with a professional or collegiate
+17 national sporting championship event held in this state.
+18 16. For a licensee or employee to knowingly allow any person on or
+19 about the licensed premises to give or furnish any spirituous liquor to
+20 any person under twenty-one years of age or knowingly allow any person
+21 under twenty-one years of age to have in the person's possession
+22 spirituous liquor on the licensed premises.
+23 17. For an on-sale retailer or an employee of such retailer to
+24 allow a person to consume or possess spirituous liquors on the premises
+25 between the hours of 2:30 a.m. and 6:00 a.m., except that if the governor
+26 extends the closing time for a day for spirituous liquor sales pursuant to
+27 paragraph 15 of this section it is unlawful for an on-sale retailer or an
+28 employee of such retailer on that day to allow a person to consume or
+29 possess spirituous liquor on the premises between the hours of 3:30 a.m.
+30 and 6:00 a.m.
+31 18. For an on-sale retailer to allow an employee or for an employee
+32 to solicit or encourage others, directly or indirectly, to buy the
+33 employee drinks or anything of value in the licensed premises during the
+34 employee's working hours. An on-sale retailer shall not serve employees
+35 or allow a patron of the establishment to give spirituous liquor to,
+36 purchase liquor for or drink liquor with any employee during the
+37 employee's working hours.
+38 19. For an off-sale retailer or employee to sell spirituous liquor
+39 except in the original unbroken container, to allow spirituous liquor to
+40 be consumed on the premises or to knowingly allow spirituous liquor to be
+41 consumed on adjacent property under the licensee's exclusive control.
+42 20. For a person to consume spirituous liquor in a public place,
+43 thoroughfare or gathering. The license of a licensee allowing a violation
+44 of this paragraph on the premises shall be subject to revocation. This
+45 paragraph does not apply to the sale of spirituous liquors on the premises
+46 of and by an on-sale retailer. This paragraph also does not apply to a
+47 person consuming beer or wine from a broken package in a public recreation
+-41-
+
+Senate Amendments to S.B. 1478
+1 area or on private property with permission of the owner or lessor or on
+2 the walkways surrounding such private property or to a person consuming
+3 beer or wine from a broken package in a public recreation area as part of
+4 a special event or festival that is conducted under a license secured
+5 pursuant to section 4-203.02 or 4-203.03.
+6 21. For a person to possess or to transport spirituous liquor that
+7 is manufactured PRODUCED in a distillery, winery, brewery or rectifying
+8 plant contrary to the laws of the United States and this state. Any
+9 property used in transporting such spirituous liquor shall be forfeited to
+10 the state and shall be seized and disposed of as provided in section
+11 4-221.
+12 22. For an on-sale retailer or employee to allow a person under the
+13 legal drinking age to remain in an area on the licensed premises during
+14 those hours in which its primary use is the sale, dispensing or
+15 consumption of alcoholic beverages after the licensee, or the licensee's
+16 employees, know or should have known that the person is under the legal
+17 drinking age. An on-sale retailer may designate an area of the licensed
+18 premises as an area in which spirituous liquor will not be sold or
+19 consumed for the purpose of allowing underage persons on the premises if
+20 the designated area is separated by a physical barrier and at no time will
+21 underage persons have access to the area in which spirituous liquor is
+22 sold or consumed. A licensee or an employee of a licensee may require a
+23 person who intends to enter a licensed premises or a portion of a licensed
+24 premises where persons under the legal drinking age are prohibited under
+25 this section to exhibit an instrument of identification that is acceptable
+26 under section 4-241 as a condition of entry or may use a biometric
+27 identity verification device to determine the person's age as a condition
+28 of entry. The director, or a municipality, may adopt rules to regulate
+29 the presence of underage persons on licensed premises provided the rules
+30 adopted by a municipality are more stringent than those adopted by the
+31 director. The rules adopted by the municipality shall be adopted by local
+32 ordinance and shall not interfere with the licensee's ability to comply
+33 with this paragraph. This paragraph does not apply:
+34 (a) If the person under the legal drinking age is accompanied by a
+35 spouse, parent, grandparent or legal guardian of legal drinking age or is
+36 an on-duty employee of the licensee.
+37 (b) If the owner, lessee or occupant of the premises is a club as
+38 defined in section 4-101, paragraph 8 9, subdivision (a) and the person
+39 under the legal drinking age is any of the following:
+40 (i) An active duty military service member.
+41 (ii) A veteran.
+42 (iii) A member of the United States army national guard or the
+43 United States air national guard.
+44 (iv) A member of the United States military reserve forces.
+45 (c) To the area of the premises used primarily for serving food
+46 during the hours when food is served.
+-42-
+
+Senate Amendments to S.B. 1478
+1 23. For an on-sale retailer or employee to conduct drinking
+2 contests, to sell or deliver to a person an unlimited number of spirituous
+3 liquor beverages during any set period of time for a fixed price, to
+4 deliver more than fifty ounces of beer, one liter of wine or four ounces
+5 of distilled spirits in any spirituous liquor drink to one person at one
+6 time for that person's consumption or to advertise any practice prohibited
+7 by this paragraph. This paragraph does not prohibit an on-sale retailer
+8 or employee from selling and delivering an opened, original container of
+9 distilled spirits if:
+10 (a) Service or pouring of the spirituous liquor is provided by an
+11 employee of the on-sale retailer. A licensee shall not be charged for a
+12 violation of this paragraph if a customer, without the knowledge of the
+13 retailer, removes or tampers with a locking device on a bottle delivered
+14 to the customer for bottle service and the customer pours the customer's
+15 own drink from the bottle, if when the licensee becomes aware of the
+16 removal or tampering of the locking device the licensee immediately
+17 installs a functioning locking device on the bottle or removes the bottle
+18 and lock from bottle service.
+19 (b) The employee of the on-sale retailer monitors consumption to
+20 ensure compliance with this paragraph. Locking devices may be used, but
+21 are not required.
+22 24. For a licensee or employee to knowingly allow the unlawful
+23 possession, use, sale or offer for sale of narcotics, dangerous drugs or
+24 marijuana on the premises. For the purposes of this paragraph, "dangerous
+25 drug" has the same meaning prescribed in section 13-3401.
+26 25. For a licensee or employee to knowingly allow prostitution or
+27 the solicitation of prostitution on the premises.
+28 26. For a licensee or employee to knowingly allow unlawful gambling
+29 on the premises.
+30 27. For a licensee or employee to knowingly allow trafficking or
+31 attempted trafficking in stolen property on the premises.
+32 28. For a licensee or employee to fail or refuse to make the
+33 premises or records available for inspection and examination as provided
+34 in this title or to comply with a lawful subpoena issued under this title.
+35 29. For any person other than a peace officer while on duty or off
+36 duty or a member of a sheriff's volunteer posse while on duty who has
+37 received firearms training that is approved by the Arizona peace officer
+38 standards and training board, a retired peace officer as defined in
+39 section 38-1113 or an honorably retired law enforcement officer who has
+40 been issued a certificate of firearms proficiency pursuant to section
+41 13-3112, subsection T, the licensee or an employee of the licensee acting
+42 with the permission of the licensee to be in possession of a firearm while
+43 on the licensed premises of an on-sale retailer. This paragraph does not
+44 include a situation in which a person is on licensed premises for a
+45 limited time in order to seek emergency aid and such person does not buy,
+46 receive, consume or possess spirituous liquor. This paragraph does not
+47 apply to:
+-43-
+
+Senate Amendments to S.B. 1478
+1 (a) Hotel or motel guest room accommodations.
+2 (b) Exhibiting or displaying a firearm in conjunction with a
+3 meeting, show, class or similar event.
+4 (c) A person with a permit issued pursuant to section 13-3112 who
+5 carries a concealed handgun on the licensed premises of any on-sale
+6 retailer that has not posted a notice pursuant to section 4-229.
+7 30. For a licensee or employee to knowingly allow a person in
+8 possession of a firearm other than a peace officer while on duty or off
+9 duty or a member of a sheriff's volunteer posse while on duty who has
+10 received firearms training that is approved by the Arizona peace officer
+11 standards and training board, a retired peace officer as defined in
+12 section 38-1113 or an honorably retired law enforcement officer who has
+13 been issued a certificate of firearms proficiency pursuant to section
+14 13-3112, subsection T, the licensee or an employee of the licensee acting
+15 with the permission of the licensee to remain on the licensed premises or
+16 to serve, sell or furnish spirituous liquor to a person in possession of a
+17 firearm while on the licensed premises of an on-sale retailer. It is a
+18 defense to action under this paragraph if the licensee or employee
+19 requested assistance of a peace officer to remove such person. This
+20 paragraph does not apply to:
+21 (a) Hotel or motel guest room accommodations.
+22 (b) Exhibiting or displaying a firearm in conjunction with a
+23 meeting, show, class or similar event.
+24 (c) A person with a permit issued pursuant to section 13-3112 who
+25 carries a concealed handgun on the licensed premises of any on-sale
+26 retailer that has not posted a notice pursuant to section 4-229.
+27 31. For any person in possession of a firearm while on the licensed
+28 premises of an on-sale retailer to consume spirituous liquor. This
+29 paragraph does not prohibit the consumption of small amounts of spirituous
+30 liquor by an undercover peace officer on assignment to investigate the
+31 licensed establishment.
+32 32. For a licensee or employee to knowingly allow spirituous liquor
+33 to be removed from the licensed premises, except in the original unbroken
+34 package. This paragraph does not apply to any of the following:
+35 (a) A person who removes a bottle of wine that has been partially
+36 consumed in conjunction with a purchased meal from licensed premises if a
+37 cork is inserted flush with the top of the bottle or the bottle is
+38 otherwise securely closed.
+39 (b) A person who is in licensed premises that have noncontiguous
+40 portions that are separated by a public or private walkway or driveway and
+41 who takes spirituous liquor from one portion of the licensed premises
+42 across the public or private walkway or driveway directly to the other
+43 portion of the licensed premises.
+44 (c) A licensee of a bar, beer and wine bar, liquor store, beer and
+45 wine store, microbrewery or restaurant that has a permit pursuant to
+46 section 4-205.02, subsection H that dispenses beer only in a clean
+47 container composed of a material approved by a national sanitation
+-44-
+
+Senate Amendments to S.B. 1478
+1 organization with a maximum capacity that does not exceed one gallon and
+2 not for consumption on the premises if:
+3 (i) The licensee or the licensee's employee fills the container at
+4 the tap at the time of sale.
+5 (ii) The container is sealed and displays a government warning
+6 label.
+7 (d) A bar or liquor store licensee that prepares a mixed cocktail
+8 or a restaurant licensee that leases the privilege to sell mixed cocktails
+9 for consumption off the licensed premises pursuant to section 4-203.06 or
+10 holds a permit pursuant to section 4-203.07 and section 4-205.02,
+11 subsection K and that prepares a mixed cocktail and transfers it to a
+12 clean container composed of a material approved by a national sanitation
+13 organization with a maximum capacity that does not exceed thirty-two
+14 ounces and not for consumption on the premises if all of the following
+15 apply:
+16 (i) The licensee or licensee's employee fills the container with
+17 the mixed cocktail on the licensed premises of the bar, liquor store or
+18 restaurant.
+19 (ii) The container is tamperproof sealed by the licensee or the
+20 licensee's employee and displays a government warning label.
+21 (iii) The container clearly displays the bar's, liquor store's or
+22 restaurant's logo or name.
+23 (iv) For a restaurant licensee licensed pursuant to section
+24 4-205.02, the sale of mixed cocktails for consumption off the licensed
+25 premises is accompanied by the sale of menu food items for consumption on
+26 or off the licensed premises.
+27 33. For a person who is obviously intoxicated to buy or attempt to
+28 buy spirituous liquor from a licensee or employee of a licensee or to
+29 consume spirituous liquor on licensed premises.
+30 34. For a person who is under twenty-one years of age to drive or
+31 be in physical control of a motor vehicle while there is any spirituous
+32 liquor in the person's body.
+33 35. For a person who is under twenty-one years of age to operate or
+34 be in physical control of a motorized watercraft that is underway while
+35 there is any spirituous liquor in the person's body. For the purposes of
+36 this paragraph, "underway" has the same meaning prescribed in section
+37 5-301.
+38 36. For a licensee, manager, employee or controlling person to
+39 purposely induce a voter, by means of alcohol, to vote or abstain from
+40 voting for or against a particular candidate or issue on an election day.
+41 37. For a licensee to fail to report an occurrence of an act of
+42 violence to either the department or a law enforcement agency.
+43 38. For a licensee to use a vending machine for the purpose of
+44 dispensing spirituous liquor.
+45 39. For a licensee to offer for sale a wine carrying a label
+46 including a reference to Arizona or any Arizona city, town or geographic
+-45-
+
+Senate Amendments to S.B. 1478
+1 location unless at least seventy-five percent by volume of the grapes used
+2 in making the wine were grown in Arizona.
+3 40. For a retailer to knowingly allow a customer to bring
+4 spirituous liquor onto the licensed premises, except that an on-sale
+5 retailer may allow a wine and food club to bring wine onto the premises
+6 for consumption by the club's members and guests of the club's members in
+7 conjunction with meals purchased at a meeting of the club that is
+8 conducted on the premises and that at least seven members attend. An
+9 on-sale retailer that allows wine and food clubs to bring wine onto its
+10 premises under this paragraph shall comply with all applicable provisions
+11 of this title and any rules adopted pursuant to this title to the same
+12 extent as if the on-sale retailer had sold the wine to the members of the
+13 club and their guests. For the purposes of this paragraph, "wine and food
+14 club" means an association that has more than twenty bona fide members
+15 paying at least $6 per year in dues and that has been in existence for at
+16 least one year.
+17 41. For a person who is under twenty-one years of age to have in
+18 the person's body any spirituous liquor. In a prosecution for a violation
+19 of this paragraph:
+20 (a) Pursuant to section 4-249, it is a defense that the spirituous
+21 liquor was consumed in connection with the bona fide practice of a
+22 religious belief or as an integral part of a religious exercise and in a
+23 manner not dangerous to public health or safety.
+24 (b) Pursuant to section 4-226, it is a defense that the spirituous
+25 liquor was consumed for a bona fide medicinal purpose and in a manner not
+26 dangerous to public health or safety.
+27 42. For an employee of a licensee to accept any gratuity,
+28 compensation, remuneration or consideration of any kind to either:
+29 (a) Allow a person who is under twenty-one years of age to enter
+30 any portion of the premises where that person is prohibited from entering
+31 pursuant to paragraph 22 of this section.
+32 (b) Sell, furnish, dispose of or give spirituous liquor to a person
+33 who is under twenty-one years of age.
+34 43. For a person to purchase, offer for sale or use any device,
+35 machine or process that mixes spirituous liquor with pure oxygen or
+36 another gas to produce a vaporized product for the purpose of consumption
+37 by inhalation or to allow patrons to use any item for the consumption of
+38 vaporized spirituous liquor.
+39 44. For a retail licensee or an employee of a retail licensee to
+40 sell spirituous liquor to a person if the retail licensee or employee
+41 knows the person intends to resell the spirituous liquor.
+42 45. Except as authorized by paragraph 32, subdivision (c) of this
+43 section, for a person to reuse a bottle or other container authorized for
+44 use by the laws of the United States or any agency of the United States
+45 for the packaging of distilled spirits or for a person to increase the
+46 original contents or a portion of the original contents remaining in a
+47 liquor bottle or other authorized container by adding any substance.
+-46-
+
+Senate Amendments to S.B. 1478
+1 46. For a direct shipment licensee, a farm winery licensee or an
+2 employee of those licensees to sell, dispose of, deliver or give
+3 spirituous liquor to an individual purchaser between the hours of
+4 2:00 a.m. and 6:00 a.m., except that a direct shipment licensee or a farm
+5 winery licensee may receive and process orders, accept payment, package,
+6 load or otherwise prepare wine for delivery at any time without complying
+7 with section 4-241, subsections A and K, if the actual deliveries to
+8 individual purchasers are made between the hours of 6:00 a.m. and
+9 2:00 a.m. and in accordance with section 4-203.04 for direct shipment
+10 licensees and section 4-205.04 for farm winery licensees.
+11 47. For a supplier to coerce or attempt to coerce a wholesaler to
+12 accept delivery of beer or any other commodity that has not been ordered
+13 by the wholesaler or for which the order was canceled. A supplier may
+14 impose reasonable inventory requirements on a wholesaler if the
+15 requirements are made in good faith and are generally applied to other
+16 similarly situated wholesalers that have an agreement with the supplier.
+17 Sec. 18. Section 42-3001, Arizona Revised Statutes, is amended to
+18 read:
+19 42-3001. Definitions
+20 In this chapter, unless the context otherwise requires:
+21 1. "Affix" and "affixed" include imprinting tax meter stamps on
+22 packages and individual containers as authorized by the department.
+23 2. "BEER" HAS THE SAME MEANING PRESCRIBED IN SECTION 4-101.
+24 2. 3. "Brand family" has the same meaning prescribed in section
+25 44-7111.
+26 3. 4. "Cavendish" means a tobacco product that is smoked from a
+27 pipe and that meets one of the following criteria:
+28 (a) Is described as cavendish, as containing cavendish or as a
+29 cavendish blend on its packaging, labeling or promotional materials.
+30 (b) Appears to have been processed or manufactured with an amount
+31 of flavorings and humectants that exceeds twenty percent of the weight of
+32 the tobacco contained in the product.
+33 (c) Appears to be blended with or contain a tobacco product
+34 described in subdivision (b) of this paragraph.
+35 4. 5. "Cider" means vinous liquor that is made from the normal
+36 alcoholic fermentation of the juice of sound, ripe apples, pears or other
+37 pome fruit, including flavored, sparkling and carbonated cider and cider
+38 made from condensed apple, pear or other pome fruit must, and that
+39 contains more than one-half of one percent of alcohol by volume but not
+40 more than seven percent of alcohol by volume. HAS THE SAME MEANING
+41 PRESCRIBED IN SECTION 4-101.
+42 5. 6. "Cigar" means any roll of tobacco wrapped in leaf tobacco or
+43 in any substance containing tobacco other than any roll of tobacco that is
+44 a cigarette, as defined in paragraph 6 7, subdivision (b) of this
+45 section.
+46 6. 7. "Cigarette" means either of the following:
+-47-
+
+Senate Amendments to S.B. 1478
+1 (a) Any roll of tobacco wrapped in paper or any substance not
+2 containing tobacco.
+3 (b) Any roll of tobacco wrapped in any substance containing tobacco
+4 that, because of its appearance, the type of tobacco used in the filler or
+5 its packaging and labeling, is likely to be offered to or purchased by a
+6 consumer as a cigarette described in subdivision (a) of this paragraph.
+7 This subdivision shall be interpreted consistently with the classification
+8 guidelines established by the federal alcohol and tobacco tax and trade
+9 bureau.
+10 7. 8. "Consumer" means a person in this state that comes into
+11 possession of any luxury subject to the tax imposed by this chapter and
+12 that, on coming into possession of the luxury, is not a distributor
+13 intending to sell or distribute the luxury, a retailer or a wholesaler.
+14 8. 9. "Craft distiller" means a distiller in the United States or
+15 in a territory or possession of the United States that holds a license
+16 pursuant to section 4-205.10. HAS THE SAME MEANING PRESCRIBED IN SECTION
+17 4-101.
+18 9. 10. "Distributor" means any person that manufactures, produces,
+19 ships, transports or imports into this state or in any manner acquires or
+20 possesses for the purpose of making the first sale of the following:
+21 (a) Cigarettes without Arizona tax stamps affixed as required by
+22 this article.
+23 (b) Roll-your-own tobacco or other tobacco products on which the
+24 taxes have not been paid as required by this chapter.
+25 10. 11. "Farm winery" has the same meaning prescribed in section
+26 4-101.
+27 11. 12. "First sale" means the initial sale or distribution in
+28 intrastate commerce or the initial use or consumption of cigarettes,
+29 roll-your-own tobacco or other tobacco products.
+30 12. 13. "Luxury" means any article, object or device on which a
+31 tax is imposed under this chapter.
+32 13. 14. "Malt liquor":
+33 means any liquid that contains more than one-half of one percent alcohol
+34 by volume and that is made by the process of fermentation and not
+35 distillation of hops or grains, but not including:
+36 (a) Liquids made by the process of distillation of such substances.
+37 (b) Medicines that are unsuitable for beverage purposes.
+38 (a) MEANS ANY BEVERAGE THAT IS OBTAINED BY THE ALCOHOLIC
+39 FERMENTATION, INFUSION OR DECOCTION OF BARLEY MALT, HOPS, RICE, BRAN OR
+40 OTHER GRAIN, GLUCOSE, SUGAR OR MOLASSES, OR ANY COMBINATION OF THEM, AND
+41 MAY INCLUDE, AS ADJUNCTS IN FERMENTATION, HONEY, FRUIT, FRUIT JUICE, FRUIT
+42 CONCENTRATE, HERBS, SPICES AND OTHER FOOD MATERIALS.
+43 (b) INCLUDES BEER THAT IS AGED IN AN EMPTY WOODEN BARREL PREVIOUSLY
+44 USED TO CONTAIN WINE OR DISTILLED SPIRITS AND AS SUCH IS NOT CONSIDERED A
+45 DILUTION OR MIXTURE OF ANY OTHER SPIRITUOUS LIQUOR.
+46 14. 15. "Master settlement agreement" has the same meaning
+47 prescribed in section 44-7101.
+-48-
+
+Senate Amendments to S.B. 1478
+1 15. 16. "Microbrewery" has the same meaning prescribed in section
+2 4-101.
+3 16. 17. "Nonparticipating manufacturer" has the same meaning
+4 prescribed in section 44-7111.
+5 17. 18. "Other tobacco products" means tobacco products other than
+6 cigarettes and roll-your-own tobacco.
+7 18. 19. "Participating manufacturer" has the same meaning
+8 prescribed in section 44-7111.
+9 19. 20. "Person" means any individual, firm, partnership, joint
+10 venture, association, corporation, municipal corporation, estate, trust,
+11 club, society or other group or combination acting as a unit, and the
+12 plural as well as the singular number.
+13 20. 21. "Place of business":
+14 (a) Means a building, facility site or location where an order is
+15 received or where tobacco products are sold, distributed or transferred.
+16 Place of business
+17 (b) Does not include a vehicle.
+18 21. 22. "Retailer" means any person that comes into possession of
+19 any luxury subject to the taxes imposed by this chapter for the purpose of
+20 selling it for consumption and not for resale.
+21 22. 23. "Roll-your-own tobacco" means any tobacco that, because of
+22 its appearance, type, packaging or labeling, is suitable for use and
+23 likely to be offered to or purchased by consumers as tobacco for making
+24 cigarettes. This paragraph shall be interpreted consistently with the
+25 term as used in section 44-7101. This paragraph shall be interpreted
+26 consistently with the classification guidelines established by the federal
+27 alcohol and tobacco tax and trade bureau.
+28 23. 24. "Smoking tobacco":
+29 (a) Means any tobacco that, because of its appearance, type,
+30 packaging, labeling or promotion, is suitable for use and likely to be
+31 offered to or purchased by consumers as tobacco for making cigarettes or
+32 otherwise consumed by burning. Smoking tobacco
+33 (b) Includes pipe tobacco and roll-your-own tobacco.
+34 24. 25. "Spirituous liquor" means any liquid that contains more
+35 than one-half of one percent alcohol by volume, that is produced by
+36 distillation of any fermented substance and that is used or prepared for
+37 use as a beverage. Spirituous liquor does not include medicines that are
+38 unsuitable for beverage purposes. HAS THE SAME MEANING PRESCRIBED IN
+39 SECTION 4-101.
+40 25. 26. "Tobacco product manufacturer" has the same meaning
+41 prescribed in section 44-7101.
+42 26. 27. "Tobacco products" means all luxuries included in section
+43 42-3052, paragraphs 5 through 9.
+44 27. 28. "Vehicle" means a device in, on or by which a person or
+45 property is or may be transported or drawn on the roads of this state
+46 regardless of the means by which it is propelled or whether it runs on a
+47 track.
+-49-
+
+Senate Amendments to S.B. 1478
+1 28. 29. "Vinous liquor":
+2 means any liquid that contains more than one-half of one percent alcohol
+3 by volume and that is made by the process of fermentation of grapes,
+4 berries, fruits, vegetables or other substances.
+5 (a) MEANS THE PRODUCT OBTAINED BY THE FERMENTATION OF GRAPES, OTHER
+6 AGRICULTURAL PRODUCTS THAT CONTAINS NATURAL OR ADDED SUGAR OR CIDER OR ANY
+7 SUCH ALCOHOLIC BEVERAGE FORTIFIED WITH GRAPE BRANDY AND THAT CONTAINS NOT
+8 MORE THAN TWENTY-FOUR PERCENT OF ALCOHOL BY VOLUME.
+9 (b) DOES NOT INCLUDE:
+10 (a) (i) Liquids in which hops or grains are used in the process of
+11 fermentation.
+12 (b) (ii) Liquids made by the process of distillation of hops or
+13 grains.
+14 (c) (iii) Medicines that are unsuitable for beverage purposes.
+15 (iv) CIDER AS DEFINED IN SECTION 4-101.
+16 29. 30. "Wholesaler" means a person that sells any spirituous,
+17 vinous or malt liquor taxed under this chapter to retail dealers or for
+18 the purposes of resale only.
+19 Sec. 19. Section 42-3352, Arizona Revised Statutes, is amended to
+20 read:
+21 42-3352. Reports of distillers and producers
+22 A. Every distiller or manufacturer PRODUCER of distilled spirits
+23 and vinous and malt liquors that sells any of those products to
+24 wholesalers within this state shall maintain in its records a copy of the
+25 invoice of the sale, showing in detail:
+26 1. The kind of liquor or beverage sold.
+27 2. The quantities of each.
+28 3. The size of the container and the weight of the contents.
+29 4. The alcoholic content if required by section 42-3052.
+30 5. The name of the person, firm or corporation to whom sold.
+31 B. A distiller or manufacturer PRODUCER shall make the invoices
+32 required to be kept pursuant to subsection A of this section available to
+33 the department on request.
+34 Sec. 20. Section 42-3355, Arizona Revised Statutes, is amended to
+35 read:
+36 42-3355. Return and payment by farm wineries, producers,
+37 direct shipment licensees, microbreweries and
+38 craft distillers
+39 A. A farm winery selling vinous liquor at retail or to a retail
+40 licensee pursuant to title 4, chapter 2 that is manufactured or produced
+41 on the premises, a producer of vinous liquor that sells at retail pursuant
+42 to section 4-243.02 or a direct shipment licensee that sells pursuant to
+43 section 4-203.04 shall pay the tax under this chapter on all such liquor
+44 sold at retail or to a retail licensee within this state and add the
+45 amount of the tax to the sales price.
+46 B. A microbrewery selling malt liquor at retail or to a retail
+47 licensee pursuant to title 4, chapter 2 that is manufactured or produced
+-50-
+
+Senate Amendments to S.B. 1478
+1 on the premises or a manufacturer PRODUCER of beer that sells at retail
+2 pursuant to section 4-243.02 shall pay the tax under this chapter on all
+3 malt liquor sold at retail or to a retail licensee within this state and
+4 add the amount of the tax to the sales price.
+5 C. A craft distiller selling spirituous liquor at retail or to a
+6 retail licensee pursuant to title 4, chapter 2 that is manufactured or
+7 produced on the premises or a distiller of spirituous liquor that sells at
+8 retail pursuant to section 4-243.02 shall pay the tax under this chapter
+9 on all spirituous liquor sold at retail or to a retail licensee within
+10 this state and add the amount of the tax to the sales price.
+11 D. The farm winery, manufacturer PRODUCER, microbrewery, craft
+12 distiller or direct shipment licensee shall pay the tax to the department
+13 annually on or before the twentieth day of the first month of the year
+14 succeeding the year in which the tax accrues.
+15 E. On or before that date, the farm winery, manufacturer PRODUCER,
+16 microbrewery, craft distiller or direct shipment licensee shall prepare a
+17 sworn return for the year in which the tax accrues in the form prescribed
+18 by the department, showing:
+19 1. The amount of liquors or beer sold in this state during the year
+20 in which the tax accrues.
+21 2. The amount of tax for the period covered by the return.
+22 3. Any other information that the department deems necessary for
+23 the proper administration of this chapter.
+24 F. The farm winery, manufacturer PRODUCER, microbrewery, craft
+25 distiller or direct shipment licensee shall deliver the return, together
+26 with a remittance of the amount of the tax due, to the department.
+27 G. Any taxpayer that fails to pay the tax within ten days after the
+28 date on which the payment becomes due is subject to and shall pay a
+29 penalty determined under section 42-1125, plus interest at the rate
+30 determined pursuant to section 42-1123 from the time the tax was due and
+31 payable until paid.
+32 H. For reporting periods beginning from and after December 31,
+33 2019, or when the department has established an electronic filing program,
+34 whichever is later, each taxpayer shall file electronically any report or
+35 return required under this chapter. The report or return is considered to
+36 be filed and received by the department on the date of the electronic
+37 postmark pursuant to section 42-1105.02.
+38 Enroll and engross to conform
+39 Amend title to conform
+1478RAGE.docx
+02/10/2026
+07:54 AM
+S: JT/ci
+130KJEIFJ
+-51-

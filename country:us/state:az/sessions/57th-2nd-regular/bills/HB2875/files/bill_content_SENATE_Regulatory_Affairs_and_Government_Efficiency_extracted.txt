@@ -1,0 +1,278 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Regulatory Affairs and Government Efficiency
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Regulatory Affairs and Government Efficiency
+Second Regular Session H.B. 2875
+COMMITTEE ON REGULATORY AFFAIRS AND GOVERNMENT EFFICIENCY
+SENATE AMENDMENTS TO H.B. 2875
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 9, chapter 4, article 8, Arizona Revised Statutes,
+3 is amended by adding section 9-500.54, to read:
+4 9-500.54. Prohibition on unmanned aircraft regulation;
+5 exceptions; definitions
+6 A. EXCEPT AS OTHERWISE PROVIDED BY LAW, A CITY OR TOWN MAY NOT
+7 ENACT OR ADOPT ANY ORDINANCE, POLICY OR RULE THAT RELATES TO THE OWNERSHIP
+8 OR OPERATION OF AN UNMANNED AIRCRAFT, UNMANNED AIRCRAFT SYSTEM OR
+9 COMMERCIAL DRONE DELIVERY SYSTEM OR OTHERWISE ENGAGE IN REGULATING THE
+10 OWNERSHIP OR OPERATION OF AN UNMANNED AIRCRAFT, UNMANNED AIRCRAFT SYSTEM
+11 OR COMMERCIAL DRONE DELIVERY SYSTEM. ANY ORDINANCE, POLICY OR RULE THAT
+12 VIOLATES THIS SUBSECTION, WHETHER ENACTED OR ADOPTED BY THE CITY OR TOWN
+13 BEFORE OR AFTER AUGUST 6, 2016, IS VOID.
+14 B. THIS SECTION DOES NOT:
+15 1. PROHIBIT A CITY OR TOWN FROM ENACTING OR ADOPTING AN ORDINANCE
+16 OR RULE ON ANY OF THE FOLLOWING:
+17 (a) OPERATING OR USING A PUBLIC UNMANNED AIRCRAFT THAT IS OWNED BY
+18 THE CITY OR TOWN.
+19 (b) TAKING OFF OR LANDING A MODEL AIRCRAFT IN A PARK OR PRESERVE
+20 THAT IS OWNED BY THE CITY OR TOWN IF EITHER OF THE FOLLOWING APPLIES:
+21 (i) THERE ARE OTHER PARKS OR PRESERVES THAT ARE WITHIN THE CITY OR
+22 TOWN AND THAT ARE AVAILABLE FOR OPERATING MODEL AIRCRAFT.
+23 (ii) THE CITY OR TOWN HAS ONLY ONE PARK OR PRESERVE THAT IS WITHIN
+24 THE CITY OR TOWN.
+25 (c) LAND USE APPROVALS FOR TAKING OFF, DOCKING AND LANDING A
+26 COMMERCIAL DRONE DELIVERY SYSTEM IN AN AREA ZONED FOR RESIDENTIAL USE OR
+27 WITHIN A ONE HUNDRED FIFTY-FOOT RADIUS OF THE OUTER BOUNDARY OF THE AREA
+28 ZONED FOR RESIDENTIAL USE.
+
+Senate Amendments to H.B. 2875
+1 (d) TAKING OFF, DOCKING OR LANDING A COMMERCIAL DRONE DELIVERY
+2 SYSTEM FROM A CITY OR TOWN OWNED FACILITY OR PROPERTY.
+3 2. PROHIBIT A CITY OR TOWN FROM REQUIRING OR ENFORCING EXISTING
+4 REGULATIONS THAT ARE NOT EXPLICITLY FOR AN UNMANNED AIRCRAFT, UNMANNED
+5 AIRCRAFT SYSTEM OR A COMMERCIAL DRONE DELIVERY SYSTEM.
+6 3. ALLOW A CITY OR TOWN TO WITHHOLD ISSUING A PERMIT OR APPROVAL
+7 FOR OPERATING, TAKING OFF, DOCKING OR LANDING AN UNMANNED AIRCRAFT,
+8 UNMANNED AIRCRAFT SYSTEM OR A COMMERCIAL DRONE DELIVERY SYSTEM IN AN AREA
+9 THAT IS NOT ZONED FOR RESIDENTIAL USE.
+10 4. LIMIT A CITY'S OR TOWN'S AUTHORITY TO APPLY AND ENFORCE
+11 GENERALLY APPLICABLE ZONING, LAND USE, SITE PLAN, BUILDING, FIRE AND
+12 PUBLIC SAFETY REGULATIONS TO THE PHYSICAL LOCATION OF FACILITIES THAT ARE
+13 USED FOR TAKING OFF, DOCKING OR LANDING AN UNMANNED AIRCRAFT OR COMMERCIAL
+14 DRONE DELIVERY SYSTEM WITHIN [ONE MILE] [TWO AND ONE-HALF MILES] OF A
+15 [MEDIUM OR] LARGE HUB AIRPORT'S LATITUDE AND LONGITUDE AS RECORDED IN THE
+16 FEDERAL AVIATION ADMINISTRATION'S MASTER AIRPORT RECORDS, IF THE
+17 REGULATIONS DO NOT GOVERN THE FLIGHT PATH, NAVIGATION OR OPERATION OF THE
+18 UNMANNED AIRCRAFT AND DO NOT HAVE THE EFFECT OF PROHIBITING COMMERCIAL
+19 DRONE DELIVERY SYSTEMS WITHIN THE JURISDICTION [AND IF THE COMMERCIAL
+20 DRONE DELIVERY SYSTEM OPERATOR CONSULTS WITH THE AIRPORT REGARDING THE
+21 REGULATIONS].
+22 C. FOR THE PURPOSES OF THIS SECTION:
+23 1. "COMMERCIAL DRONE DELIVERY SYSTEM" MEANS AN UNMANNED AIRCRAFT
+24 SYSTEM ENGAGED IN THE DELIVERING OF GOODS VIA DRONE AND IS APPROVED TO
+25 OPERATE FOR THAT PURPOSE BY THE FEDERAL AVIATION ADMINISTRATION.
+26 2. "MODEL AIRCRAFT" MEANS AN UNMANNED AIRCRAFT THAT IS:
+27 (a) CAPABLE OF SUSTAINED FLIGHT IN THE ATMOSPHERE.
+28 (b) FLOWN WITHIN THE VISUAL LINE OF SIGHT OF THE PERSON OPERATING
+29 THE MODEL AIRCRAFT.
+30 (c) FLOWN FOR HOBBY OR RECREATIONAL PURPOSES.
+31 3. "PUBLIC UNMANNED AIRCRAFT" MEANS AN UNMANNED AIRCRAFT OR
+32 UNMANNED AIRCRAFT SYSTEM THAT IS OPERATED BY A PUBLIC AGENCY FOR A
+33 GOVERNMENT-RELATED PURPOSE.
+34 4. "UNMANNED AIRCRAFT" MEANS AN AIRCRAFT, INCLUDING AN AIRCRAFT
+35 COMMONLY KNOWN AS A DRONE, THAT IS OPERATED WITHOUT THE POSSIBILITY OF
+36 DIRECT HUMAN INTERVENTION FROM WITHIN OR ON THE AIRCRAFT.
+37 5. "UNMANNED AIRCRAFT SYSTEM" MEANS AN UNMANNED AIRCRAFT AND
+38 ASSOCIATED ELEMENTS, INCLUDING ANY COMMUNICATION LINKS AND COMPONENTS THAT
+39 CONTROL THE UNMANNED AIRCRAFT.
+40 Sec. 2. Title 11, chapter 2, article 4, Arizona Revised Statutes,
+41 is amended by adding section 11-256.31, to read:
+42 11-256.31. Prohibition on unmanned aircraft; exceptions;
+43 definitions
+44 A. EXCEPT AS OTHERWISE PROVIDED BY LAW, A COUNTY MAY NOT ENACT OR
+45 ADOPT ANY ORDINANCE, POLICY OR RULE THAT RELATES TO THE OWNERSHIP OR
+46 OPERATION OF AN UNMANNED AIRCRAFT, UNMANNED AIRCRAFT SYSTEM OR COMMERCIAL
+47 DRONE DELIVERY SYSTEM OR OTHERWISE ENGAGE IN REGULATING THE OWNERSHIP OR
+-2-
+
+Senate Amendments to H.B. 2875
+1 OPERATION OF AN UNMANNED AIRCRAFT, AN UNMANNED AIRCRAFT SYSTEM OR
+2 COMMERCIAL DRONE DELIVERY SYSTEM. ANY ORDINANCE, POLICY OR RULE THAT
+3 VIOLATES THIS SUBSECTION, WHETHER ENACTED OR ADOPTED BY THE COUNTY BEFORE
+4 OR AFTER AUGUST 6, 2016, IS VOID.
+5 B. THIS SECTION DOES NOT:
+6 1. PROHIBIT A COUNTY FROM ENACTING OR ADOPTING AN ORDINANCE OR RULE
+7 ON ANY OF THE FOLLOWING:
+8 (a) OPERATING OR USING A PUBLIC UNMANNED AIRCRAFT THAT IS OWNED BY
+9 THE COUNTY.
+10 (b) TAKING OFF OR LANDING A MODEL AIRCRAFT IN A PARK OR PRESERVE
+11 THAT IS OWNED BY THE COUNTY IF EITHER OF THE FOLLOWING APPLIES:
+12 (i) THERE ARE OTHER PARKS OR PRESERVES THAT ARE WITHIN THE COUNTY
+13 AND THAT ARE AVAILABLE FOR OPERATING MODEL AIRCRAFT.
+14 (ii) THE COUNTY HAS ONLY ONE PARK OR PRESERVE THAT IS WITHIN THE
+15 COUNTY.
+16 (c) LAND USE APPROVALS FOR TAKING OFF, DOCKING AND LANDING A
+17 COMMERCIAL DRONE DELIVERY SYSTEM IN AN AREA ZONED FOR RESIDENTIAL USE OR
+18 WITHIN A ONE HUNDRED FIFTY-FOOT RADIUS OF THE OUTER BOUNDARY OF THE AREA
+19 ZONED FOR RESIDENTIAL USE.
+20 (d) TAKING OFF, DOCKING OR LANDING A COMMERCIAL DRONE DELIVERY
+21 SYSTEM FROM A COUNTY OWNED FACILITY OR PROPERTY.
+22 2. PROHIBIT A COUNTY FROM REQUIRING OR ENFORCING EXISTING
+23 REGULATIONS THAT ARE NOT EXPLICITLY FOR AN UNMANNED AIRCRAFT, UNMANNED
+24 AIRCRAFT SYSTEM OR A COMMERCIAL DRONE DELIVERY SYSTEM.
+25 3. ALLOW A COUNTY TO WITHHOLD ISSUING A PERMIT OR APPROVAL FOR
+26 OPERATING, TAKING OFF, DOCKING OR LANDING AN UNMANNED AIRCRAFT, UNMANNED
+27 AIRCRAFT SYSTEM OR A COMMERCIAL DRONE DELIVERY SYSTEM IN AN AREA THAT IS
+28 NOT ZONED FOR RESIDENTIAL USE.
+29 4. LIMIT A COUNTY'S AUTHORITY TO APPLY AND ENFORCE GENERALLY
+30 APPLICABLE ZONING, LAND USE, SITE PLAN, BUILDING, FIRE AND PUBLIC SAFETY
+31 REGULATIONS TO THE PHYSICAL LOCATION OF FACILITIES THAT ARE USED FOR
+32 TAKING OFF, DOCKING OR LANDING AN UNMANNED AIRCRAFT OR COMMERCIAL DRONE
+33 DELIVERY SYSTEM WITHIN [ONE MILE] [TWO AND ONE-HALF MILES] OF A [MEDIUM
+34 OR] LARGE HUB AIRPORT'S LATITUDE AND LONGITUDE AS RECORDED IN THE FEDERAL
+35 AVIATION ADMINISTRATION'S MASTER AIRPORT RECORDS, IF THE REGULATIONS DO
+36 NOT GOVERN THE FLIGHT PATH, NAVIGATION OR OPERATION OF THE UNMANNED
+37 AIRCRAFT AND DO NOT HAVE THE EFFECT OF PROHIBITING COMMERCIAL DRONE
+38 DELIVERY SYSTEMS WITHIN THE JURISDICTION [AND IF THE COMMERCIAL DRONE
+39 DELIVERY SYSTEM OPERATOR CONSULTS WITH THE AIRPORT REGARDING THE
+40 REGULATIONS].
+41 C. FOR THE PURPOSES OF THIS SECTION:
+42 1. "COMMERCIAL DRONE DELIVERY SYSTEM" MEANS AN UNMANNED AIRCRAFT
+43 SYSTEM ENGAGED IN THE DELIVERING OF GOODS VIA DRONE AND IS APPROVED TO
+44 OPERATE FOR THAT PURPOSE BY THE FEDERAL AVIATION ADMINISTRATION.
+45 2. "MODEL AIRCRAFT" MEANS AN UNMANNED AIRCRAFT THAT IS:
+46 (a) CAPABLE OF SUSTAINED FLIGHT IN THE ATMOSPHERE.
+-3-
+
+Senate Amendments to H.B. 2875
+1 (b) FLOWN WITHIN THE VISUAL LINE OF SIGHT OF THE PERSON OPERATING
+2 THE MODEL AIRCRAFT.
+3 (c) FLOWN FOR HOBBY OR RECREATIONAL PURPOSES.
+4 3. "PUBLIC UNMANNED AIRCRAFT" MEANS AN UNMANNED AIRCRAFT OR
+5 UNMANNED AIRCRAFT SYSTEM THAT IS OPERATED BY A PUBLIC AGENCY FOR A
+6 GOVERNMENT-RELATED PURPOSE.
+7 4. "UNMANNED AIRCRAFT" MEANS AN AIRCRAFT, INCLUDING AN AIRCRAFT
+8 COMMONLY KNOWN AS A DRONE, THAT IS OPERATED WITHOUT THE POSSIBILITY OF
+9 DIRECT HUMAN INTERVENTION FROM WITHIN OR ON THE AIRCRAFT.
+10 5. "UNMANNED AIRCRAFT SYSTEM" MEANS AN UNMANNED AIRCRAFT AND
+11 ASSOCIATED ELEMENTS, INCLUDING ANY COMMUNICATION LINKS AND COMPONENTS THAT
+12 CONTROL THE UNMANNED AIRCRAFT.
+13 Sec. 3. Section 13-3729, Arizona Revised Statutes, is amended to
+14 read:
+15 13-3729. Unlawful operation of model or unmanned aircraft;
+16 state preemption; classification; definitions
+17 A. It is unlawful for a person to operate a model aircraft or a
+18 civil unmanned aircraft if the operation:
+19 1. Is prohibited by a federal law or regulation that governs
+20 aeronautics, including federal aviation administration regulations.
+21 2. Interferes with a law enforcement, firefighter or emergency
+22 services operation.
+23 B. It is unlawful for a person to operate or use an unmanned
+24 aircraft or unmanned aircraft system to intentionally photograph or loiter
+25 over or near a critical facility in the furtherance of any criminal
+26 offense.
+27 C. Except as authorized by law, a city, town or county may not
+28 enact or adopt any ordinance, policy or rule that relates to the ownership
+29 or operation of an unmanned aircraft or unmanned aircraft system or
+30 otherwise engage in the regulation of the ownership or operation of an
+31 unmanned aircraft or an unmanned aircraft system. Any ordinance, policy or
+32 rule that violates this subsection, whether enacted or adopted by the
+33 city, town or county before or after August 6, 2016, is void.
+34 D. C. This section does not:
+35 1. Apply to a person or entity that is authorized or allowed by the
+36 federal aviation administration to operate or use an unmanned aircraft
+37 system if the person's or entity's operation or use complies with the
+38 authorization granted to the person or entity or with federal aviation
+39 administration rules.
+40 2. Prohibit a city, town or county from enacting or adopting
+41 ordinances or rules on the operation or use of a public unmanned aircraft
+42 that is owned by the city, town or county.
+43 3. Prohibit a city, town or county from enacting or adopting
+44 ordinances or rules that regulate the takeoff or landing of a model
+45 aircraft in a park or preserve owned by the city, town or county if:
+46 (a) There are other parks or preserves that are within the city,
+47 town or county and that are available for model aircraft operation.
+-4-
+
+Senate Amendments to H.B. 2875
+1 (b) The city, town or county only has one park or preserve that is
+2 within the city, town or county.
+3 4. 2. Apply to the operation of an unmanned aircraft, including a
+4 public unmanned aircraft, by a first responder as defined in section
+5 36-661 while acting in the first responder's official capacity or an
+6 emergency worker while engaged in or supporting authorized emergency
+7 management activities or performing emergency functions pursuant to title
+8 26, chapter 2.
+9 E. D. A violation of subsection B of this section is a class 6
+10 felony, except that a second or subsequent violation is a class 5 felony.
+11 A violation of subsection A of this section is a class 1 misdemeanor.
+12 F. E. For the purposes of this section:
+13 1. "Civil unmanned aircraft" means an unmanned aircraft or unmanned
+14 aircraft system that is operated by a person for any purpose other than
+15 strictly for hobby or recreational purposes, including commercial
+16 purposes, or in furtherance of or incidental to any business or media
+17 service or agency.
+18 2. "Commercial purposes" means the use of an unmanned aircraft in
+19 return for financial compensation and includes aerial photography, aerial
+20 mapping or geospatial imaging.
+21 3. "Critical facility" means any of the following:
+22 (a) A petroleum or alumina refinery.
+23 (b) A petroleum, chemical or rubber production, transportation,
+24 storage or processing facility.
+25 (c) A chemical manufacturing facility.
+26 (d) A water or wastewater treatment facility and water development,
+27 distribution or conveyance system, including a dam.
+28 (e) An electric generation facility, as defined in section
+29 42-14156, and any associated substation or switchyard.
+30 (f) An electrical transmission or distribution substation.
+31 (g) An electrical transmission line of at least sixty-nine thousand
+32 volts.
+33 (h) An electronic communication station or tower.
+34 (i) An energy control center.
+35 (j) A distribution operating center.
+36 (k) A facility that transfers or distributes natural gas, including
+37 a compressor station, regulator station, city gate station or pressure
+38 limiting station or a liquefied natural gas facility or supplier tap
+39 facility.
+40 (l) Any railroad infrastructure or facility.
+41 (m) A federal, state, county or municipal court.
+42 (n) A public safety or emergency operation facility.
+43 (o) A federal, state, county or municipal jail or prison or other
+44 facility in which persons are incarcerated.
+45 (p) A federal or state military installation or facility.
+46 (q) A hospital that receives air ambulance services.
+-5-
+
+Senate Amendments to H.B. 2875
+1 4. "Model aircraft" has the same meaning prescribed in section 336
+2 of the FAA modernization and reform act of 2012 (P.L. 112-95), as amended
+3 MEANS AN UNMANNED AIRCRAFT THAT IS:
+4 (a) CAPABLE OF SUSTAINED FLIGHT IN THE ATMOSPHERE.
+5 (b) FLOWN WITHIN THE VISUAL LINE OF SIGHT OF THE PERSON OPERATING
+6 THE MODEL AIRCRAFT.
+7 (c) FLOWN FOR HOBBY OR RECREATIONAL PURPOSES.
+8 5. "Person" means a corporation, firm, partnership, association,
+9 individual or organization or any other group acting as a unit.
+10 6. "Public unmanned aircraft" means an unmanned aircraft or
+11 unmanned aircraft system that is operated by a public agency for a
+12 government-related purpose.
+13 7. "Unmanned aircraft" means an aircraft, including an aircraft
+14 commonly known as a drone, that is operated without the possibility of
+15 direct human intervention from within or on the aircraft.
+16 8. "Unmanned aircraft system" means an unmanned aircraft and
+17 associated elements, including any communication links and components that
+18 control the unmanned aircraft.
+19 Enroll and engross to conform
+20 Amend title to conform
+2875RAGE.docx
+03/17/2026
+2:32 PM
+C: ED
+130MVOJHH
+-6-

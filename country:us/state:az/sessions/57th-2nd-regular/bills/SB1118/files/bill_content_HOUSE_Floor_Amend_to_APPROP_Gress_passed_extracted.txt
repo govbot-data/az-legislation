@@ -1,0 +1,200 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to APPROP - Gress - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1118: rural hospitals; radiation protection grants
+S/E: historic neighborhoods; housing; zoning
+GRESS FLOOR AMENDMENT
+1. Removes the provisions relating to the building form and dimensional
+standards for municipal middle housing developed.
+2. Removes demolished structures on sites that are designated as historic by the
+municipality from areas where middle housing cannot be developed unless
+the demolition was necessary due to conditions that constitute a danger to
+public health, safety and welfare.
+M. LAVENDER
+4/27/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Gress
+Second Regular Session S.B. 1118
+GRESS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1118
+(Reference to APPROPRIATIONS S/E Committee amendment)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Strike everything after the enacting clause and insert:
+3 "Section 1. Section 9-462.13, Arizona Revised Statutes, is amended
+4 to read:
+5 9-462.13. Zoning; development; middle housing; applicability;
+6 definitions
+7 A. On or before January 1, 2026, a municipality with a population
+8 of seventy-five thousand persons or more must authorize, by ordinance and
+9 incorporate into its development regulations, zoning regulations and other
+10 official controls, the development of duplexes, triplexes, fourplexes and
+11 townhomes as a permitted use on both of the following:
+12 1. All lots zoned for single-family residential use within one mile
+13 of the municipality's central business district.
+14 2. At least twenty percent of any new development of more than ten
+15 contiguous acres.
+16 B. The municipality may not do any of the following:
+17 1. Discourage the development of middle housing through
+18 requirements or actions that individually or cumulatively make
+19 impracticable the permitting, siting, or construction of middle housing.
+20 2. Restrict middle housing types to less than two floors.
+21 3. Restrict middle housing types to a floor area ratio of less than
+22 fifty percent.
+23 4. Set restrictions, permitting or review processes for middle
+24 housing that are more restrictive than those for single-family dwellings
+25 within the same zone.
+26 5. Require owner occupancy of any structures on the lot.
+
+House Amendments to S.B. 1118
+1 6. Require any structures to comply with a commercial building code
+2 or to contain a fire sprinkler.
+3 7. Require more than one off-street parking space per unit.
+4 C. This section does not prohibit the governing body of a
+5 municipality from allowing either of the following:
+6 1. Single-family dwellings in areas zoned for single-family
+7 dwellings.
+8 2. Additional types of middle housing not required under this
+9 section.
+10 D. This section does not apply to any of the following:
+11 1. Areas that are not incorporated.
+12 2. Areas that lack sufficient urban services.
+13 3. Areas that are not served by water and sewer services.
+14 4. Areas that are not zoned for residential use.
+15 5. Areas that are not incorporated and are zoned under an interim
+16 zoning designation that maintains the area's potential for planned urban
+17 development.
+18 6. Areas covered under title 48, chapter 6, article 4.
+19 7. Any land within the territory in the vicinity of a public
+20 airport as defined in section 28-8486 or to the extent this section would
+21 interfere with the public airport's ability to comply with the laws,
+22 regulations and requirements of the United States related to applying for,
+23 receiving or spending federal monies.
+24 8. Any land within the territory in the vicinity of a military
+25 airport as defined in section 28-8461.
+26 E. NOTWITHSTANDING ANY OTHER LAW, A MUNICIPALITY MAY ALLOW MIDDLE
+27 HOUSING THAT IS DEVELOPED IN AN AREA DESIGNATED AS HISTORIC BY THE
+28 MUNICIPALITY OR IN AN AREA THAT IS DESIGNATED AS HISTORIC ON THE NATIONAL
+29 REGISTER OF HISTORIC PLACES IF THE MIDDLE HOUSING IS DESIGNED TO BE
+30 COMPATIBLE WITH THE HISTORIC CHARACTER, SCALE AND SETTING OF THE
+31 SURROUNDING AREA.
+32 F. FOR MIDDLE HOUSING THAT IS DEVELOPED PURSUANT TO SUBSECTION E OF
+33 THIS SECTION[,][:
+34 1.] THE MUNICIPALITY MAY REQUIRE THAT THE MIDDLE HOUSING COMPLY
+35 WITH THE HISTORIC PRESERVATION OR DESIGN STANDARDS ADOPTED BY THE
+36 MUNICIPALITY OR, IF THE MUNICIPALITY HAS NOT ADOPTED HISTORIC PRESERVATION
+37 OR DESIGN STANDARDS, WITH THE UNITED STATES SECRETARY OF THE INTERIOR'S
+38 STANDARDS FOR THE TREATMENT OF HISTORIC PROPERTIES, INCLUDING THE
+39 STANDARDS GOVERNING REHABILITATION AND NEW CONSTRUCTION.
+40 [2. THE MUNICIPALITY MAY REGULATE STANDARDS, INCLUDING BUILDING
+41 HEIGHT, MASSING, LOT COVERAGE, SETBACKS, ROOF FORM, SITE LAYOUT AND
+42 OVERALL BUILDING VOLUME.
+43 3. MIDDLE HOUSING MAY NOT EXCEED THE MAXIMUM BUILDING HEIGHT, LOT
+44 COVERAGE OR FLOOR AREA RATIO THAT IS ALLOWED BY APPLICABLE ZONING
+45 REGULATIONS THAT WERE ADOPTED BEFORE JANUARY 1, 2025.]
+46 G. UNLESS STRICTER ZONING REGULATIONS ARE REQUIRED BY APPLICABLE
+47 HISTORIC PRESERVATION STANDARDS, A MUNICIPALITY MAY REQUIRE ADMINISTRATIVE
+48 SITE PLAN REVIEW SOLELY FOR THE PURPOSE OF CONFIRMING COMPLIANCE WITH
+49 APPLICABLE STANDARDS, BUT MAY NOT REQUIRE A PUBLIC HEARING, VARIANCE,
+-2-
+
+House Amendments to S.B. 1118
+1 CONDITIONAL USE PERMIT, SPECIAL PERMIT OR OTHER DISCRETIONARY APPROVAL
+2 PROCESS FOR DEVELOPING MIDDLE HOUSING PURSUANT TO SUBSECTION E OF THIS
+3 SECTION.
+4 H. NOTWITHSTANDING ANY OTHER LAW, MIDDLE HOUSING THAT IS DEVELOPED
+5 PURSUANT TO THIS SECTION MAY NOT BE DEVELOPED ON A SITE WHERE A STRUCTURE
+6 THAT IS LISTED ON THE NATIONAL REGISTER OF HISTORIC PLACES [OR THAT IS
+7 DESIGNATED AS HISTORIC BY THE MUNICIPALITY] WAS DEMOLISHED UNLESS THE
+8 DEMOLITION OF THE STRUCTURE WAS NECESSARY BECAUSE A CONDITION OR
+9 CONDITIONS EXIST THAT CONSTITUTE A DANGER TO PUBLIC HEALTH, SAFETY AND
+10 WELFARE, AS DEFINED BY A MUNICIPAL ORDINANCE, AND THE EXISTENCE OF THOSE
+11 CONDITIONS ARE CERTIFIED BY A LICENSED ENGINEER OR BUILDING CODE OFFICIAL.
+12 E. I. If a municipality does not adopt the regulations required by
+13 this section on or before January 1, 2026, middle housing shall be allowed
+14 on all lots in the municipality zoned for single-family residential use
+15 without any limitations.
+16 F. J. This section does not change or otherwise impair the terms
+17 of any development agreement that exists on September 14, 2024.
+18 G. K. Notwithstanding subsection A of this section, a utility
+19 provider impacted by a development being developed pursuant to this
+20 section shall have the opportunity to review and approve the site plan for
+21 the development.
+22 H. L. For the purpose PURPOSES of this section:
+23 1. "Building code":
+24 (a) Means a construction code adopted by a municipality.
+25 (b) Includes a model building code, commercial code, plumbing and
+26 mechanical code, electric code, energy conservation code, fire code,
+27 property maintenance code, neighborhood preservation code, antiblight code
+28 or other similar code.
+29 2. "Central business district" means an area or series of areas
+30 designated by a municipality that are primarily nonindustrial and that
+31 attract community activity, including the entire geographic area that the
+32 municipality has officially designated as its downtown or equivalent on
+33 September 14, 2024.
+34 3. "Duplex" means two dwelling units on the same parcel or lot in
+35 attached, detached or semidetached arrangements that are designed for
+36 residential occupancy by not more than two households living independently
+37 from each other.
+38 4. "Floor area ratio" means the ratio of allowed square footage in
+39 a middle housing project to the square footage of the parcel on which it
+40 is built.
+41 5. "Fourplex" means four dwelling units on the same parcel or lot
+42 in attached, detached or semidetached arrangements that are designed for
+43 residential occupancy by not more than four households living
+44 independently from each other.
+45 6. "Household" means either:
+46 (a) A single person living or residing in a dwelling or place of
+47 residence.
+48 (b) Two or more persons living together or residing in the same
+49 dwelling or place of residence.
+-3-
+
+House Amendments to S.B. 1118
+1 7. "Middle housing":
+2 (a) Means buildings that are compatible in scale, form and
+3 character with single-family houses and that contain two or more attached,
+4 detached, stacked or clustered homes.
+5 (b) Includes duplexes, triplexes, fourplexes and townhouses.
+6 8. "Permitted use" means the ability for a development to be
+7 approved without requiring a public hearing, variance, conditional use
+8 permit, special permit or special exception, other than a discretionary
+9 zoning action to determination DETERMINE that a site plan conforms with
+10 applicable zoning regulations.
+11 9. "Townhouses" means dwelling units that are constructed in a row
+12 of two or more attached units in which each dwelling unit shares at least
+13 one common wall with an adjacent unit and that are accessed by separate
+14 outdoor entrances.
+15 10. "Triplex" means three dwelling units on the same parcel or lot
+16 in attached, detached or semidetached arrangements that are designed for
+17 residential occupancy by not more than three households living
+18 independently from each other."
+19 Enroll and engross to conform
+20 Amend title to conform
+MATT GRESS
+1118FloorGRESS.docx
+04/20/2026
+3:55 PM
+C: LAT
+130DDJWSC
+-4-

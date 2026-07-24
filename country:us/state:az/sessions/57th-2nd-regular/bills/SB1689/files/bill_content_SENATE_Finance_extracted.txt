@@ -1,0 +1,854 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Finance
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Finance
+Second Regular Session S.B. 1689
+PROPOSED
+SENATE AMENDMENTS TO S.B. 1689
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 6-601, Arizona Revised Statutes, is amended to
+3 read:
+4 6-601. Definitions
+5 In this chapter, unless the context otherwise requires:
+6 1. "Actuarial method" means the method of allocating each payment
+7 between finance charges and principal pursuant to which the payment is
+8 applied first to finance charges computed on the unpaid balance of
+9 principal for the time the balance is outstanding, and the remainder of
+10 the payment is subtracted from the unpaid principal amount.
+11 2. "Amount financed" means the amount of credit extended to a
+12 consumer on a consumer loan determined in accordance with the truth in
+13 lending act.
+14 3. "Annual percentage rate" means the measure of the cost of
+15 credit, expressed as a yearly rate, that relates the amount and timing of
+16 value received by the consumer to the amount and timing of payments made,
+17 determined in accordance with the truth in lending act.
+18 4. "Consumer" means an individual who obtains a consumer lender
+19 loan for personal, family or household purposes.
+20 5. "Consumer lender" means a person that advertises to make or
+21 procure, solicits or holds itself out to make or procure, or makes or
+22 procures consumer lender loans to consumers in this state.
+23 6. "Consumer lender loans" means consumer loans, AND consumer
+24 revolving loans and home equity revolving loans.
+25 7. "Consumer loan" means the direct closed end loan of money,
+26 whether unsecured or secured by personal or real property, in an amount of
+27 $10,000 $50,000 or less that is subject to a finance charge in which only
+28 the principal amount of the loan is considered, and not any finance
+29 charges or other fees allowed pursuant to section 6-635, for the purpose
+
+Senate Amendments to S.B. 1689
+1 of determining TO DETERMINE whether the consumer loan is $10,000 $50,000
+2 or less.
+3 8. "Consumer loan rate":
+4 (a) Means the periodic rate of finance charges that applies to the
+5 outstanding principal balance of a consumer loan and that remains
+6 unpaid. Consumer loan rate
+7 (b) Does not include any prepaid finance charges pursuant to
+8 section 6-632, subsection E or any fees pursuant to section 6-635.
+9 9. "Consumer revolving loan" means an open end revolving loan that
+10 is established pursuant to an agreement with an agreed on credit limit
+11 that does not exceed $10,000 [$30,000] [$50,000], that the consumer may
+12 pay in full at any time but has the privilege of paying in installments
+13 and that contemplates or provides that advances may be obtained from time
+14 to time by the consumer, through checks, drafts, items, credit access
+15 devices, orders for the payment of money, evidences of debt or similar
+16 means, whether or not negotiable.
+17 10. "Educational loan" means any loan or other aid or assistance
+18 for the purpose of furthering the education of a consumer or a relative of
+19 a consumer at an accredited or approved university, college, community
+20 college, junior college, technical, vocational or professional school, or
+21 similar institution.
+22 11. "Finance charge" means the amount payable by a consumer
+23 incident to or as a condition of the extension of a consumer lender loan
+24 but does not include other fees allowed pursuant to section 6-635.
+25 12. "Home equity revolving loan" means an open end revolving loan
+26 that is made pursuant to an agreement with an agreed on credit limit that
+27 is not more than $10,000, that is secured by the consumer's principal
+28 residence and that provides that advances may be obtained from time to
+29 time by the consumer through checks, drafts, items, credit access devices,
+30 orders for the payment of money, evidences of debt or similar means,
+31 whether or not negotiable.
+32 13. 12. "License" means a license issued under the authority of
+33 this chapter to make consumer lender loans in accordance with this
+34 chapter.
+35 14. 13. "Licensee" means a person licensed pursuant to this
+36 chapter.
+37 15. 14. "Precomputed consumer loan" means a consumer loan that is
+38 payable in substantially equal, consecutive monthly installments that are
+39 applied to the unpaid balance of the principal and precomputed finance
+40 charges combined, subject to provisions for refund or credit in the event
+41 of prepayment and for deferral or default charges in the event of deferral
+42 or default.
+43 16. 15. "Regularly engaged in the business" means either:
+44 (a) Advertising to or any other solicitation of a resident of this
+45 state that offers a consumer loan and that occurs within this state.
+-2-
+
+Senate Amendments to S.B. 1689
+1 (b) Making three or more consumer loans within a calendar year to
+2 residents of this state.
+3 17. 16. "Truth in lending act" means title I of the consumer
+4 credit protection act (15 United States Code sections 1601 through 1666j),
+5 as amended, and the regulations promulgated under that act (12 Code of
+6 Federal Regulations part 226), as amended.
+7 Sec. 2. Section 6-602, Arizona Revised Statutes, is amended to
+8 read:
+9 6-602. Exemptions
+10 A. This chapter does not apply to:
+11 1. A person who does business under any other law of this state, or
+12 any other state while regulated by a state agency of that other state, or
+13 of the United States, relating to banks, savings banks, trust companies,
+14 savings and loan associations, profit sharing and pension trusts, credit
+15 unions, insurance companies or receiverships if the consumer lender loan
+16 transactions are regulated by the other law or are under the jurisdiction
+17 of a court.
+18 2. A person who is licensed as a pawnbroker pursuant to title 44,
+19 chapter 11, article 3 to the extent that the person's activities are
+20 governed by that article.
+21 3. A person who is not regularly engaged in the business of making
+22 consumer lender loans.
+23 4. A person who is licensed pursuant to chapter 9 of this title to
+24 the extent that the person's activities are governed by that chapter.
+25 B. The requirements of this chapter do not apply to:
+26 1. Closed end loans of more than $10,000 $50,000.
+27 2. Advances on open end revolving loans that are not secured by the
+28 consumer's principal residence with an agreed on credit limit of more than
+29 $10,000 [$30,000] [$50,000], regardless of the amount of any advances on
+30 these revolving loans.
+31 3. Advances on open end revolving loans that are secured by the
+32 consumer's principal residence with an agreed on credit limit of more than
+33 $10,000 [$30,000] [$50,000], regardless of the amount of any advances on
+34 these revolving loans.
+35 4. Consumer lender loans that are lawfully made to nonresidents of
+36 the state in any other state under and in accordance with a regulatory
+37 consumer lender law similar in principle to this chapter.
+38 5. Educational loans that are either:
+39 (a) Made, insured or guaranteed pursuant to a program authorized by
+40 the United States, this state or any other state.
+41 (b) Made by a nonprofit organization that is exempt from taxation
+42 under section 501(c)(3) of the internal revenue code to students who
+43 attend postsecondary educational institutions in this state.
+44 C. A consumer loan made pursuant to a consumer lender license is
+45 not a secondary motor vehicle finance transaction as defined in section
+46 44-281.
+-3-
+
+Senate Amendments to S.B. 1689
+1 Sec. 3. Section 6-606, Arizona Revised Statutes, is amended to
+2 read:
+3 6-606. Business limited to licensed locations; restrictions
+4 A. Except as provided in subsection B of this section, a licensee
+5 may not conduct the business of making consumer lender loans pursuant to
+6 this chapter under any name or at any place of business in this state
+7 other than the name and place stated in the licensee's consumer lender
+8 license or branch office license.
+9 B. Subsection A of this section does not prohibit a licensee from:
+10 1. Making consumer lender loans by mail or electronic means.
+11 2. On request, making accommodations to consumers at any location
+12 requested by the consumer.
+13 3. Conducting any administrative, loan servicing or recordkeeping
+14 activity at any other location not open to the public, if the deputy
+15 director is notified in advance of that activity.
+16 4. Closing a consumer lender loan secured by real property at an
+17 office of a financial institution, title company, licensed escrow agent,
+18 licensed mortgage broker or licensed mortgage banker.
+19 5. Giving a consumer an advance on a consumer revolving loan or
+20 home equity revolving loan from any location.
+21 6. Conducting business pursuant to this chapter under an assumed
+22 name or a trade name that is submitted to the department pursuant to
+23 section 6-117.
+24 C. On approval by the deputy director, the licensee may conduct any
+25 of the activities listed in subsection B of this section outside of this
+26 state.
+27 D. A licensee may change the location of its licensed office or
+28 licensed branch office by giving written notice to the deputy director,
+29 who shall amend the license accordingly.
+30 E. All consumer lender loans that are made at the location of a
+31 licensed office or branch office are subject to the requirements of
+32 article 2 of this chapter, whether made by a licensee, any person
+33 otherwise exempt from this chapter pursuant to section 6-602 or any other
+34 person.
+35 F. A licensee may not conduct the business of making consumer
+36 lender loans pursuant to this chapter from within any licensed office or
+37 branch office in which any other business not licensed pursuant to this
+38 title is solicited or engaged in, or in association or conjunction with
+39 any other business not licensed pursuant to this title, without giving
+40 prior notice to the deputy director. If it appears to the deputy director
+41 that the other business is of such a nature or is being conducted in such
+42 a manner as to conceal an evasion of this chapter or is contrary to the
+43 public interest or otherwise being conducted in an unlawful manner, the
+44 deputy director may act pursuant to section 6-137 to restrict the licensee
+45 from conducting its business in conjunction with that other business. For
+-4-
+
+Senate Amendments to S.B. 1689
+1 the purposes of this subsection, "public interest" means the laws of this
+2 state or of the United States or rules adopted by the deputy director.
+3 Sec. 4. Section 6-609, Arizona Revised Statutes, is amended to
+4 read:
+5 6-609. Reporting rates; change in rates; quarterly report of
+6 deputy director
+7 A. At the time of making its annual report to the deputy director,
+8 each licensee shall report the licensee's standard annual percentage rate
+9 or range of annual percentage rates in effect at that time on the
+10 following types of loans:
+11 1. A $500 unsecured consumer loan, payable in twelve equal monthly
+12 installments.
+13 2. A $2,500 consumer loan secured by a motor vehicle, payable in
+14 thirty-six equal monthly installments.
+15 3. A $9,000 consumer loan secured in full by real property, payable
+16 in one hundred twenty equal monthly installments.
+17 4. A consumer revolving loan with an agreed on credit limit of
+18 $3,000.
+19 5. A home equity revolving loan with an agreed on credit limit of
+20 $15,000.
+21 B. The amount of each of the consumer loans described in subsection
+22 A of this section refers to the amount financed as computed in accordance
+23 with the truth in lending act. The licensee shall also report the range
+24 of the percentage amount of any prepaid finance charges charged in
+25 connection with a home equity revolving loan described in subsection A,
+26 paragraph 5 of this section.
+27 C. Within thirty days after effectuating a change in the standard
+28 rate of charge for any of the types of loans described in subsection A of
+29 this section, the licensee shall report that change to the deputy
+30 director.
+31 D. On at least a quarterly basis the deputy director shall compile
+32 a report of the standard annual percentage rate or range of annual
+33 percentage rates of each licensee for the types of loans described in
+34 subsection A of this section. The deputy director shall disseminate this
+35 report in a manner deemed appropriate by the deputy director, and the
+36 deputy director shall make the report available to the public for
+37 inspection and copying.
+38 Sec. 5. Section 6-613, Arizona Revised Statutes, is amended to
+39 read:
+40 6-613. Restrictions; voidable loans
+41 A. Except as the result of an accidental or bona fide error, if the
+42 licensee charges, contracts for or receives any amount in excess of the
+43 finance charges and other fees permitted by this chapter, the following
+44 restrictions apply:
+45 1. If the original principal amount of a consumer loan is five
+46 thousand dollars or less NOT MORE THAN $5,000, that consumer loan is
+-5-
+
+Senate Amendments to S.B. 1689
+1 voidable and the licensee has no right to collect or receive any
+2 principal, finance charges or other fees in connection with that consumer
+3 loan.
+4 2. If the original principal amount of a consumer loan is more than
+5 five thousand dollars $5,000, the licensee has no right to collect or
+6 receive any finance charges in connection with that consumer loan.
+7 3. If the aggregate amount of advances borrowed on a consumer
+8 revolving loan or home equity revolving loan is five thousand dollars or
+9 less NOT MORE THAN $5,000, that consumer revolving loan or home equity
+10 revolving loan is voidable and the licensee has no right to collect or
+11 receive any principal, finance charges or other fees in connection with
+12 that consumer revolving loan or home equity revolving loan.
+13 4. If the aggregate amount of advances borrowed on a consumer
+14 revolving loan or home equity revolving loan is more than five thousand
+15 dollars $5,000, the licensee has no right to collect or receive any
+16 finance charges in connection with that consumer revolving loan or home
+17 equity revolving loan.
+18 B. Any consumer lender loan that is made by a person who is
+19 required to be licensed pursuant to this chapter but who is not licensed
+20 is void, and the person making that consumer lender loan has no right to
+21 collect, receive or retain any principal, finance charges or other fees in
+22 connection with that consumer lender loan.
+23 Sec. 6. Section 6-631, Arizona Revised Statutes, is amended to
+24 read:
+25 6-631. Disclosures; civil penalty
+26 A. To the extent applicable, a licensee shall comply with the
+27 disclosure requirements of the truth in lending act.
+28 B. Each note or agreement evidencing a consumer lender loan shall
+29 contain the following disclosure statement in at least ten-point type that
+30 is in English and in Spanish and in close proximity to the consumer's
+31 signature line:
+32 Notice: You may request that the initial disclosures
+33 prescribed in the truth in lending act (15 United States Code
+34 sections 1601 through 1666j) be provided in Spanish before
+35 signing any loan documents.
+36 C. A licensee shall continuously and conspicuously display a sign
+37 printed in at least twelve-point bold type BOLD FACE containing the notice
+38 prescribed by subsection B of this section and the following notice at
+39 each desk in each licensed office or branch office at which consumer
+40 lender loans are usually and normally closed:
+41 Notice
+42 Before signing any loan documents or otherwise committing to a
+43 loan, you may take copies of those documents away from the
+44 consumer lender's place of business for review.
+45 D. A licensee shall give to the consumer a receipt or another
+46 written record of the amount of any payment made in currency on any
+-6-
+
+Senate Amendments to S.B. 1689
+1 consumer lender loan, either at the time the payment is made or within ten
+2 days after the payment is made, or the licensee may reflect the payment on
+3 the periodic statement sent to the consumer for the billing period that
+4 includes the date of that payment.
+5 E. A licensee shall mail PROVIDE periodic statements for consumer
+6 revolving loans and home equity revolving loans to the consumer within
+7 fourteen days after the end of each monthly billing cycle period. A
+8 billing cycle period is considered monthly if the closing date of the
+9 billing cycle period is the same day each month or does not vary by more
+10 than four days from that day.
+11 F. If the licensee fails to make the disclosure statement
+12 prescribed in subsection B of this section, the deputy director shall
+13 assess the licensee a one-time CIVIL penalty of up to NOT MORE THAN $300
+14 for every EACH violation.
+15 Sec. 7. Section 6-632, Arizona Revised Statutes, is amended to
+16 read:
+17 6-632. Finance charges
+18 A. A licensee may contract for and receive finance charges on
+19 consumer loans that are not more than the following amounts:
+20 1. On a consumer loan in an original principal amount of three
+21 thousand dollars or less NOT MORE THAN $10,000, a consumer loan rate of
+22 thirty-six per cent PERCENT.
+23 2. On a consumer loan in an original principal amount of more than
+24 three thousand dollars $10,000, either:
+25 (a) A consumer loan rate of thirty-six per cent PERCENT on the
+26 initial three thousand dollars $10,000 of the original principal amount,
+27 and a consumer loan rate of twenty-four per cent PERCENT on that part of
+28 the principal amount greater THAT IS MORE than three thousand dollars
+29 $10,000 BUT LESS THAN $20,000, AND A CONSUMER LOAN RATE OF EIGHTEEN
+30 PERCENT ON A CONSUMER LOAN RATE OF MORE THAN $20,000 BUT LESS THAN
+31 $50,000.
+32 (b) The single blended consumer loan rate that results from the
+33 total amount of finance charges that the licensee would receive through
+34 the scheduled maturity of the consumer loan at the consumer loan rates
+35 that otherwise would be applicable pursuant to subdivision (a) of this
+36 paragraph to the different portions of the unpaid principal balance,
+37 assuming that the consumer loan will be paid according to its agreed
+38 terms.
+39 B. A licensee may contract for and receive periodic finance charges
+40 on consumer revolving loans and home equity revolving loans that are not
+41 more than the following amounts:
+42 1. On consumer revolving loans with credit limits of three thousand
+43 dollars or less NOT MORE THAN $10,000, a periodic rate corresponding to an
+44 annual percentage rate of thirty-six per cent PERCENT on the outstanding
+45 balance each monthly billing cycle.
+-7-
+
+Senate Amendments to S.B. 1689
+1 2. On consumer revolving loans with credit limits of more than
+2 three thousand dollars and home equity revolving loans $10,000, either:
+3 (a) A periodic rate corresponding to an annual percentage rate of
+4 thirty-six per cent PERCENT on that portion of the outstanding balance
+5 each monthly billing cycle that is not more than three thousand dollars
+6 $10,000 and a periodic rate corresponding to an annual percentage rate of
+7 twenty-four per cent PERCENT on that portion of the outstanding balance
+8 each monthly billing cycle that is more than three thousand dollars
+9 $10,000.
+10 (b) A periodic rate corresponding to the single blended annual
+11 percentage rate that would result in a periodic finance charge during a
+12 monthly billing cycle that is not more than the finance charges that
+13 result from the application of the multiple periodic rates authorized by
+14 subdivision (a) of this paragraph.
+15 C. A licensee may charge a fixed or variable rate of periodic
+16 finance charges on a consumer revolving loan or a home equity revolving
+17 loan, as provided by the agreement that establishes the consumer revolving
+18 loan or home equity revolving loan. The licensee shall not base a
+19 variable rate of periodic finance charges on an index that is under the
+20 control of the licensee. Unless the consumer can readily verify the index
+21 on which an adjustment in the rate of periodic finance charges is based,
+22 the licensee shall provide conspicuous notice of the rate adjustment at
+23 least one monthly billing cycle before the effective date of the rate
+24 adjustment. The licensee may include a rate adjustment notice on or with
+25 a periodic statement to the consumer. The corresponding annual percentage
+26 rate of periodic finance charges may not increase or decrease more than
+27 three percentage points in any period of twelve consecutive months, and
+28 the corresponding annual percentage rate of periodic finance charges may
+29 not increase or decrease more than seven percentage points above or below
+30 the initial annual percentage rate of periodic finance charges at the time
+31 the consumer revolving loan or home equity revolving loan is established.
+32 D. Except as permitted ALLOWED by subsection E of this section,
+33 prepaid finance charges commonly referred to as points are prohibited.
+34 E. In addition to the finance charges authorized in subsections A,
+35 B and C of this section, a licensee may contract for and receive, and
+36 collect finance charges on, nonrefundable prepaid finance charges or fees
+37 commonly referred to as points in an amount of not more than:
+38 1. four per cent PERCENT of the original principal amount of a
+39 consumer loan of at least five thousand dollars $5,000 secured by the
+40 consumer's principal residence.
+41 2. Four per cent of the agreed on credit limit of a home equity
+42 revolving loan.
+43 F. If a consumer loan, OR consumer revolving loan or home equity
+44 revolving loan is in existence before the effective date of this amendment
+45 to this section JULY 24, 2014 and is modified or restructured after the
+46 effective date of this amendment to this section JULY 24, 2014 and the
+-8-
+
+Senate Amendments to S.B. 1689
+1 total new cash advances do not exceed one hundred dollars $100, a licensee
+2 may not contract for and receive periodic finance charges at an annual
+3 percentage rate that is higher than the annual percentage rate that
+4 existed before the effective date of this amendment to this section
+5 JULY 24, 2014.
+6 Sec. 8. Section 6-633, Arizona Revised Statutes, is amended to
+7 read:
+8 6-633. Computation of finance charges
+9 A. A licensee shall compute and measure finance charges on consumer
+10 loans on unpaid balances outstanding from time to time. A licensee may
+11 also precompute finance charges on consumer loans on scheduled unpaid
+12 principal balances as provided in section 6-634. For the purposes of
+13 computing TO COMPUTE finance charges on consumer loans that are not
+14 precomputed, a licensee may calculate the finance charges on an annual
+15 basis of twelve months of thirty days each month or on a daily basis if a
+16 day is counted either as 1/360th, 1/365th or 1/366th of a year, as the
+17 licensee and consumer may agree in writing.
+18 B. A licensee shall compute periodic finance charges on consumer
+19 revolving loans or home equity revolving loans on the unpaid balance of
+20 the consumer revolving loan or home equity revolving loan by either of the
+21 following methods:
+22 1. By multiplying the daily periodic rate by the actual unpaid
+23 balance of the consumer revolving loan or home equity revolving loan each
+24 day during the billing cycle period. The daily periodic rate shall be IS
+25 determined by dividing the annual percentage rate by three hundred
+26 sixty-five.
+27 2. By multiplying the monthly periodic rate by the average daily
+28 balance of the consumer revolving loan or home equity revolving loan
+29 during the billing cycle. The average daily balance is the sum of the
+30 unpaid balances of the consumer revolving loan or home equity revolving
+31 loan each day during the billing cycle period divided by the number of
+32 days in the billing cycle period. The monthly periodic rate is determined
+33 by dividing the annual percentage rate by twelve. The unpaid balance on
+34 any day is determined by adding to any balance unpaid as of the beginning
+35 of that day all advances and allowed additional fees and deducting all
+36 payments and other credits to the consumer revolving loan or home equity
+37 revolving loan that day.
+38 C. A licensee may compute finance charges only on the unpaid
+39 principal balance, allowed additional fees and prepaid finance charges. A
+40 licensee shall not compound finance charges. Precomputation of the
+41 finance charges on a consumer loan does not constitute compounding of
+42 finance charges.
+43 D. If part or all of the principal of a consumer loan is the unpaid
+44 principal balance of a prior precomputed consumer loan, the principal
+45 amount payable under such consumer loan may include any unpaid finance
+-9-
+
+Senate Amendments to S.B. 1689
+1 charges on the prior loan that have accrued within sixty days before the
+2 making of that consumer loan.
+3 Sec. 9. Section 6-635, Arizona Revised Statutes, is amended to
+4 read:
+5 6-635. Other allowable fees; annual reporting
+6 A. In addition to the finance charges authorized by section 6-632,
+7 a licensee may contract for and receive, and collect finance charges on,
+8 the following fees:
+9 1. A delinquency charge in an amount equal to five percent of the
+10 amount of any installment not paid in full within seven days after its due
+11 date.
+12 2. The actual costs of charges that are paid to a third party who
+13 is not an employee of the licensee and that are incurred in making
+14 consumer lender loans secured in whole or in part by real property,
+15 including the charges for a preliminary title search, title examination
+16 and report, title insurance premiums, property survey and appraisal fees.
+17 3. Lawful fees for the acknowledging, filing and recording,
+18 continuing or releasing in any public office of any instrument or
+19 financing statement evidencing or perfecting a lien or security interest
+20 in real or personal property securing a consumer lender loan or the
+21 premiums paid for insurance in lieu of filing or recording that shall not
+22 exceed the filing or recording fee.
+23 4. A loan origination fee of not more than five percent of a closed
+24 end consumer loan or the agreed credit limit of a consumer revolving loan
+25 but in no event in an amount that is more than $150 $300. A licensee
+26 shall not charge a loan origination fee:
+27 (a) For the refinancing of a closed end consumer loan or the
+28 renegotiating of an agreed credit limit of a consumer revolving loan if
+29 the refinancing or renegotiating occurs within one year of the collection
+30 of a prior loan origination fee.
+31 (b) If the licensee charges prepaid finance charges pursuant to
+32 section 6-632, subsection E, paragraph 1.
+33 5. Deferral fees authorized in section 6-634 for precomputed
+34 consumer loans.
+35 6. Insurance premiums as provided in section 6-636.
+36 7. Court costs.
+37 8. Reasonable attorney fees if the consumer lender loan is referred
+38 for collection to an attorney other than a salaried employee of the
+39 licensee.
+40 9. Costs, expenses and fees authorized in section 33-813,
+41 subsection B for reinstatement of a deed of trust encumbering real
+42 property that secures a consumer lender loan.
+43 10. Costs and expenses of exercising the power of sale in a deed of
+44 trust encumbering real property that secures a consumer lender loan and
+45 costs and expenses of a sale that are included in a credit bid or that are
+46 applied from the proceeds of a trustee's sale pursuant to section 33-812,
+-10-
+
+Senate Amendments to S.B. 1689
+1 including the payment of trustee fees and reasonable attorney fees
+2 actually incurred.
+3 11. Costs and expenses of retaking, holding, preparing for sale and
+4 selling any personal property in accordance with title 47, chapter 9,
+5 article 6.
+6 12. THE COST OF THE GUARANTEED ASSET PROTECTION WAIVER AS DEFINED
+7 IN SECTION 20-103.
+8 B. If a licensee receives a check, draft, negotiable order of
+9 withdrawal or similar instrument drawn on a depository institution that is
+10 offered by a consumer in full or partial payment on a consumer lender loan
+11 and the instrument is not paid or is dishonored by the depository
+12 institution, the licensee may charge and collect from the consumer a
+13 dishonored check service fee pursuant to section 44-6852.
+14 C. In addition to the finance charges and fees provided in this
+15 article, the licensee shall not directly or indirectly charge, contract
+16 for or receive any further or other amount in connection with a consumer
+17 lender loan.
+18 D. In conjunction with the reporting requirements prescribed in
+19 section 6-609, on or before October 1 each year, a licensee shall report
+20 to the deputy director the number of closed end consumer loans and
+21 consumer revolving loans under $1,000 made in the prior two years.
+22 Sec. 10. Section 6-636, Arizona Revised Statutes, is amended to
+23 read:
+24 6-636. Insurance securing loan; cancellation; notice
+25 A. The following types of insurance may be sold to the consumer in
+26 connection with a consumer lender loan and the consumer may contract for:
+27 1. Property insurance, covering any property securing a consumer
+28 lender loan.
+29 2. Life insurance insuring the life of one or more consumers
+30 obligated on a consumer lender loan.
+31 3. Credit disability insurance that provides indemnity for payments
+32 due on a consumer lender loan while any covered consumer has a disability.
+33 4. Credit involuntary unemployment insurance that provides
+34 indemnity for payments due on a consumer lender loan while one or more
+35 consumers are involuntarily unemployed.
+36 5. Accidental death and dismemberment insurance providing a benefit
+37 if death occurs as a result of an accident or if dismemberment occurs.
+38 6. Disability income protection insurance providing a benefit if a
+39 total disability occurs during the term of insurance.
+40 B. Any insurance purchased by a consumer from or through a
+41 licensee, except insurance on property securing a consumer lender loan, is
+42 optional, and a licensee shall not refuse to make a consumer lender loan
+43 based on the consumer's refusal to purchase the insurance. The consumer
+44 may cancel any insurance purchased in connection with a consumer lender
+45 loan for any reason at any time within thirty days after the consumer
+46 lender loan is made and shall mail or deliver a written notice of the
+-11-
+
+Senate Amendments to S.B. 1689
+1 cancellation to the licensee's place of business. If the consumer cancels
+2 the insurance pursuant to this subsection, the consumer is entitled to a
+3 full refund of any premiums paid for the insurance. Before executing the
+4 note or agreement evidencing a consumer lender loan that includes a
+5 premium for insurance, the licensee shall give the consumer the
+6 disclosures required to exclude those insurance premiums from the finance
+7 charge in accordance with the truth in lending act.
+8 C. At the time the insurance is sold the licensee shall mail or
+9 deliver PROVIDE a written receipt or binder to the consumer. Within
+10 thirty days after mailing or delivering PROVIDE the written receipt or
+11 binder, the licensee shall deliver to the consumer, or if more than one,
+12 to any one of them, a policy or certificate of insurance covering any
+13 insurance purchased by or through the licensee or any employee or
+14 affiliate of the licensee in connection with the consumer lender loan that
+15 sets forth the amount of any premium that the consumer has paid or is
+16 obligated to pay, the amount of insurance, the term of insurance and a
+17 description of the coverage. The policy or certificate may contain a
+18 mortgagee clause or other appropriate provisions to protect the insurable
+19 interest of the licensee.
+20 D. All property insurance sold pursuant to this section shall bear
+21 a reasonable bona fide relation to the existing hazard or risk of loss and
+22 shall be written by an agent licensed in this state and by an insurance
+23 company authorized to conduct property insurance business in this state.
+24 A licensee shall not require the purchase of property insurance from the
+25 licensee or any employee, affiliate or associate of the licensee as a
+26 condition precedent to the making of a consumer lender loan. The licensee
+27 may otherwise designate the company in which the insurance shall be placed
+28 as long as the insurance company is authorized to conduct business in this
+29 state.
+30 E. Property insurance, if sold by a licensee in connection with a
+31 consumer loan, is at the option of the consumer in an amount not exceeding
+32 MORE THAN the greater of the reasonable value of the property insured as
+33 designated in writing by the consumer or the approximate amount of the
+34 consumer loan and shall be for a term not exceeding the approximate term
+35 of the consumer loan. However, the amount of this property insurance may
+36 not exceed the designated value of the property insured.
+37 F. If a licensee sells property insurance in connection with a
+38 consumer revolving loan or a home equity revolving loan, the amount of the
+39 property insurance shall not exceed the greater of the reasonable value of
+40 the property insured as designated in writing by the consumer or the
+41 agreed on credit limit. However, the amount of property insurance shall
+42 not exceed the designated value of the insured property. The licensee may
+43 sell property insurance for renewable terms of not more than two years.
+44 Alternatively, the amount of property insurance may be equal to the
+45 balance outstanding on a consumer revolving loan or a home equity
+46 revolving loan from time to time with the premiums calculated on the basis
+-12-
+
+Senate Amendments to S.B. 1689
+1 of the actual daily unpaid balance or the average daily balance of the
+2 account during each billing cycle period. Premiums for property insurance
+3 may be charged as an advance on a consumer revolving loan or a home equity
+4 revolving loan.
+5 G. If the licensee sells the consumer property insurance for a
+6 renewable term, the licensee shall mail a notice to the consumer at least
+7 thirty days before the renewal date that states all of the following:
+8 1. The consumer's property insurance is about to expire.
+9 2. The consumer may obtain property insurance from any source
+10 chosen by the consumer subject to the licensee's right to reasonably
+11 reject the insurer chosen by the consumer by providing written notice to
+12 the consumer of those reasons for rejection.
+13 3. The term, coverage and premium for the renewal of property
+14 insurance.
+15 4. The property insurance will be renewed on expiration unless the
+16 consumer provides the licensee before the expiration date with evidence
+17 that the consumer has obtained other property insurance.
+18 H. Notwithstanding any other provision of this chapter, any
+19 advantage, commission, dividend, gain or identifiable charge for insurance
+20 authorized by this section, or otherwise, to the licensee or any employee
+21 or affiliate of the licensee from that insurance or its sale is not an
+22 additional finance charge or other allowed fee in connection with the
+23 consumer lender loan. If the licensee provides a new consumer lender loan
+24 or renews a contract of a consumer lender loan and the licensee sells the
+25 consumer new insurance, the licensee shall apply the insurance provided
+26 for in this section to the new loan or renewal, or the licensee shall
+27 cancel the prior insurance and provide the consumer with a refund or
+28 credit of the unearned premium or identifiable charge before selling the
+29 new insurance to the consumer.
+30 I. The licensee shall determine the refund of unearned premiums for
+31 credit life insurance and credit disability insurance on prepayment in
+32 full according to title 20, chapter 6, article 10.
+33 J. Except as otherwise specifically provided in this chapter,
+34 insurance transactions pursuant to this chapter are subject in all
+35 respects to the applicable laws pertaining to that insurance pursuant to
+36 title 20 and to the applicable rules adopted pursuant to title 20.
+37 Sec. 11. Section 6-637, Arizona Revised Statutes, is amended to
+38 read:
+39 6-637. Term; payments
+40 A. The scheduled term of a consumer loan shall not be longer than
+41 the following:
+42 1. Twenty-four months and fifteen days from the date of making a
+43 consumer loan of one thousand dollars or less NOT MORE THAN $1,000.
+44 2. Thirty-six months and fifteen days from the date of making a
+45 consumer loan of more than one thousand dollars $1,000 but not more than
+46 two thousand five hundred dollars $2,500.
+-13-
+
+Senate Amendments to S.B. 1689
+1 3. Forty-eight months and fifteen days from the date of making a
+2 consumer loan of more than two thousand five hundred dollars $2,500 but
+3 not more than four thousand dollars $4,000.
+4 4. Sixty months and fifteen days from the date of making a consumer
+5 loan of more than four thousand dollars $4,000 but not more than
+6 six thousand dollars $6,000.
+7 5. Any agreed on time period for a consumer loan of more than
+8 six thousand dollars $6,000.
+9 B. The note evidencing a consumer loan shall provide for the
+10 scheduled repayment of principal and finance charges in approximately
+11 equal periodic installments.
+12 C. Pursuant to the provisions of 12 United States Code section
+13 3804, subsections A and B of this section shall not be superseded by the
+14 provisions of 12 United States Code section 3803.
+15 D. Balloon payments, prepayment penalties, call options and other
+16 contract provisions that permit a consumer lender to accelerate payment of
+17 a consumer revolving loan or home equity revolving loan for any reason
+18 other than the consumer's default as provided in the agreement evidencing
+19 the consumer revolving loan or home equity revolving loan are prohibited,
+20 except that a licensee may include a call option to be exercised at least
+21 fifteen years after the date of the agreement. If the licensee exercises
+22 this call option and the consumer revolving loan or home equity revolving
+23 loan is not in default, the licensee shall amortize the amount due on the
+24 account over at least sixty monthly installments.
+25 E. Except as provided in subsection D of this section, an agreement
+26 evidencing a consumer revolving loan or home equity revolving loan shall
+27 provide that on termination of the right to obtain advances the
+28 outstanding principal balance and finance charges at the time of
+29 termination of the right to obtain advances are repayable in installments
+30 if a consumer is not in default as provided in the agreement. These
+31 installments shall provide for the scheduled repayment of principal and
+32 finance charges in approximately equal periodic installments except as a
+33 result of an adjustment in the index on which a variable rate of periodic
+34 finance charges is based. These installments are payable within the
+35 following time limits:
+36 1. Twenty-four months and fifteen days from the date of termination
+37 of the right to obtain advances for an outstanding principal balance on
+38 that date of one thousand dollars or less NOT MORE THAN $1,000.
+39 2. Thirty-six months and fifteen days from the date of termination
+40 of the right to obtain advances for an outstanding principal balance on
+41 that date that is more than one thousand dollars $1,000 but not more than
+42 two thousand five hundred dollars $2,500.
+43 3. Forty-eight months and fifteen days from the date of termination
+44 of the right to obtain advances for an outstanding principal balance on
+45 that date that is more than two thousand five hundred dollars $2,500 but
+46 not more than four thousand dollars $4,000.
+-14-
+
+Senate Amendments to S.B. 1689
+1 4. Sixty months and fifteen days from the date of termination of
+2 the right to obtain advances for an outstanding principal balance on that
+3 date that is more than four thousand dollars $4,000 but not more than
+4 six thousand dollars $6,000.
+5 5. Any agreed on time period for an outstanding principal balance
+6 that is more than six thousand dollars $6,000 on the date of termination
+7 of the right to obtain advances.
+8 F. A licensee shall permit a consumer to prepay any scheduled
+9 installment or additional amount due on any consumer lender loan in
+10 advance at any time during the licensee's regular business hours, but the
+11 licensee may apply that prepayment first to all finance charges accrued
+12 through the date of that prepayment.
+13 G. On payment in full or renewal of a consumer lender loan, the
+14 licensee shall provide written notice of payment and release to the
+15 consumer, or if more than one consumer is obligated on the consumer lender
+16 loan, to any one of the consumers. The notice of payment and release
+17 shall include the date of the original note or agreement evidencing the
+18 consumer lender loan and the date of payment in full. In lieu of the
+19 notice of payment and release, the licensee may return the original note
+20 or agreement evidencing the consumer lender loan marked paid or renewed,
+21 as applicable. The licensee shall release any lien or security interest
+22 on property securing a consumer lender loan that is paid in full as
+23 provided in section 33-707 for real property and section 47-9513 for
+24 personal property. This subsection does not apply to a consumer revolving
+25 loan or home equity revolving loan on which there is no unpaid balance if
+26 the consumer's right to receive advances on the account continues in
+27 effect.
+28 <<Sec. 12. Title 6, chapter 5, article 2, Arizona Revised Statutes,
+29 is amended by adding section 6-640, to read:
+30 6-640. Applicability; home equity revolving loan; licensure;
+31 definition
+32 [A. NOTWITHSTANDING SECTIONS 6-601, 6-602, 6-609, 6-613, 6-631,
+33 6-632, 6-633, 6-635, 6-636 AND 6-637, ANY OUTSTANDING HOME EQUITY
+34 REVOLVING LOAN MUST CONTINUE TO COMPLY WITH THE REQUIREMENTS OF THIS
+35 CHAPTER THAT WERE IN EFFECT BEFORE JANUARY 1, 2027. EXCEPT AS PRESCRIBED
+36 IN SUBSECTION B OF THIS SECTION, A LICENSED CONSUMER LENDER IS NOT
+37 REQUIRED TO OBTAIN A LICENSE PURSUANT TO CHAPTER 9 OF THIS TITLE TO
+38 CONTINUE TO SERVICE ANY HOME EQUITY REVOLVING LOAN.
+39 B. ANY EXTENSION, AMENDMENT OR MODIFICATION TO A HOME EQUITY
+40 REVOLVING LOAN SHALL COMPLY WITH THE REQUIREMENTS OF CHAPTER 9 OF THIS
+41 TITLE. A LICENSED CONSUMER LENDER THAT SEEKS TO EXTEND, AMEND OR MODIFY A
+42 HOME EQUITY REVOLVING LOAN ON OR AFTER JANUARY 1, 2027 SHALL APPLY FOR AND
+43 OBTAIN AN APPROPRIATE LICENSE TO ISSUE A MORTGAGE LOAN PURSUANT TO CHAPTER
+44 9 OF THIS TITLE.
+-15-
+
+Senate Amendments to S.B. 1689
+1 C. FOR THE PURPOSES OF THIS SECTION, "HOME EQUITY REVOLVING LOAN"
+2 MEANS AN OPEN END REVOLVING LOAN THAT IS MADE PURSUANT TO AN AGREEMENT
+3 WITH AN AGREED-ON CREDIT LIMIT THAT IS NOT MORE THAN $10,000, THAT IS
+4 SECURED BY THE CONSUMER'S PRINCIPAL RESIDENCE AND THAT PROVIDES THAT
+5 ADVANCES MAY BE OBTAINED FROM TIME TO TIME BY THE CONSUMER THROUGH CHECKS,
+6 DRAFTS, ITEMS, CREDIT ACCESS DEVICES, ORDERS FOR THE PAYMENT OF MONEY,
+7 EVIDENCES OF DEBT OR SIMILAR MEANS, WHETHER OR NOT NEGOTIABLE.]>>
+8 <<Sec. 12. Section 41-5605, Arizona Revised Statutes, is amended to
+9 read:
+10 41-5605. Scope
+11 A. If the attorney general approves an application for entry into
+12 the regulatory sandbox, the applicant is deemed a sandbox participant and
+13 both of the following apply:
+14 1. The sandbox participant has twenty-four months after the date of
+15 approval to test the innovation described in the sandbox participant's
+16 application.
+17 2. The attorney general must issue the sandbox participant a
+18 registration number.
+19 B. Innovations tested within the regulatory sandbox are subject to
+20 the following restrictions:
+21 1. Consumers must be residents of this state, except for
+22 transactions that involve an innovation provided by a sandbox participant
+23 testing financial products or services as a money transmitter as defined
+24 in section 6-1241 or a related innovation, in which case only physical
+25 presence of the consumer in this state at the time of the transaction may
+26 be required.
+27 2. Except as provided in subsection C of this section or section
+28 41-5608, an innovation may not be tested with more than ten thousand
+29 consumers.
+30 3. For a sandbox participant testing consumer lender loans as
+31 defined in section 6-601, an individual consumer lender loan may be issued
+32 for up to $15,000, except that aggregate loans per consumer may not exceed
+33 $50,000. All consumer lender loans issued in the regulatory sandbox,
+34 including loans in excess of $10,000 $50,000, are subject to all of the
+35 following:
+36 (a) Section 6-114.
+37 (b) Section 6-632.
+38 (c) Section 6-635, subsections A, B and C.
+39 (d) Section 6-637.
+40 4. Except as provided in subsection C of this section, for a
+41 sandbox participant testing financial products or services as a money
+42 transmitter as defined in section 6-1241, individual transactions per
+43 consumer may not exceed $2,500 and aggregate transactions per consumer may
+44 not exceed $25,000.
+-16-
+
+Senate Amendments to S.B. 1689
+1 5. For sandbox participants testing financial products or services
+2 as a sales finance company as defined in section 44-281, all of the
+3 following apply:
+4 (a) Section 44-286.
+5 (b) Section 44-287, except subsection B, paragraph 8.
+6 (c) Section 44-288.
+7 (d) Section 44-289.
+8 (e) Section 44-290.
+9 (f) Section 44-291.
+10 (g) Section 44-293.
+11 (h) Section 47-9601.
+12 6. For sandbox participants testing financial products or services
+13 that provide investment management that is regulated pursuant to title 44,
+14 chapter 13:
+15 (a) Section 44-3241 applies.
+16 (b) The corporation commission rules adopted pursuant to title 44,
+17 chapter 13 apply as they relate to dishonest and unethical practices.
+18 C. If a sandbox participant demonstrates adequate financial
+19 capitalization, risk management process and management oversight, the
+20 attorney general may allow either or both of the following:
+21 1. Except as provided in section 41-5608, an innovation to not be
+22 tested with more than seventeen thousand five hundred consumers.
+23 2. For a sandbox participant testing products or services as a
+24 money transmitter as defined in section 6-1241, individual transactions
+25 per consumer that do not exceed $15,000 and aggregate transactions per
+26 consumer that do not exceed $50,000.
+27 D. This section does not restrict a sandbox participant who holds a
+28 license or other authorization in another jurisdiction from acting
+29 pursuant to and in accordance with that license or other authorization.
+30 E. A sandbox participant is deemed to possess an appropriate
+31 license under the laws of this state for purposes of any provision of
+32 federal law requiring state licensure or authorization.
+33 F. Except as otherwise provided in this chapter, a sandbox
+34 participant is not subject to state laws that establish requirements
+35 pursuant to a license or authorization issued by an applicable agency that
+36 otherwise would or may regulate an innovative financial product or
+37 service.
+38 G. The attorney general may determine that certain state laws that
+39 regulate a financial product or service or innovation apply to a sandbox
+40 participant. If the attorney general makes this determination and
+41 approves an application for entry into the regulatory sandbox, the
+42 attorney general must notify the sandbox participant of the specific state
+43 regulatory laws that will apply to the sandbox participant. Pursuant to
+44 section 41-5611, the attorney general alone shall enforce the state
+45 regulatory laws applicable to sandbox participants, including the
+46 restrictions established by this section.
+-17-
+
+Senate Amendments to S.B. 1689
+1 H. To the extent that a sandbox participant is required by this
+2 chapter to obtain, record, provide or maintain any information, writing,
+3 signature, record or disclosure, the sandbox participant may do so in
+4 electronic form, including as provided in section 44-7601, or may
+5 substitute any substantially similar equivalent information, writing,
+6 signature, record or disclosure that is approved by the attorney
+7 general.>>
+8 Sec. 13. Applicability
+9 This act applies to any contract or addendum entered into from and
+10 after December 31, 2026.
+11 Sec. 14. Effective date
+12 Sections 6-601, [6-602, 6-606,] 6-609, 6-613, 6-631, [6-632,] 6-633,
+13 [6-635,] 6-636 and 6-637, Arizona Revised Statutes, as amended by this
+14 act, are effective from and after December 31, 2026.
+15 Enroll and engross to conform
+16 Amend title to conform
+J.D. MESNARD
+1689MESNARD.docx
+02/13/2026
+3:21 PM
+C: SK
+130QQGFTI
+-18-

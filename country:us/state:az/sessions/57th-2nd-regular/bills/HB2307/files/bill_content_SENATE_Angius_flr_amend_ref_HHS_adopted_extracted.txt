@@ -1,0 +1,410 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Angius flr amend (ref HHS) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2307
+Angius Floor Amendment
+Reference to: HEALTH AND HUMAN SERVICES
+Committee amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Requires the Department of Health Services (DHS) to pay all costs of nonpsychiatric medical
+services provided to a dangerous, incompetent and nonrestorable defendant placed at the Arizona
+State Hospital (ASH) forensic campus, rather than the defendant's originating county.
+2. Reduces, from three to one, the maximum number of defendants who may be placed at ASH and
+requires the defendant to originate from a county with a population of less than 400,000 persons.
+3. Requires, the Superintendent of ASH to inform each county's presiding judge, county attorney and
+chairperson of the board of supervisors that ASH may not accept additional defendants after
+reaching, or when expected to reach, its maximum funded capacity.
+4. Specifies that DHS is not required to reimburse a county for costs associated with deferred ASH
+admission for a person found guilty except insane if the deferral is due to current placement of a
+dangerous, incompetent and nonrestorable defendant.
+5. Adds two representatives of a statewide association representing county supervisors to the
+membership of the Study Committee on Secure State Mental Health Facilities and modifies
+recommendation requirements.
+Amendment explanation prepared by Michael Madden
+03/25/2026
+
+Fifty-seventh Legislature Angius
+Second Regular Session H.B. 2307
+ANGIUS FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2307
+(Reference to HEALTH AND HUMAN SERVICES Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-4521, Arizona Revised Statutes, is amended to
+3 read:
+4 13-4521. Dangerous and incompetent defendants; proof evident
+5 hearing; commitment trial; disposition; findings;
+6 annual report
+7 A. If a court enters an order pursuant to section 13-4517,
+8 subsection A, paragraph 4, the court shall hold a hearing within ten days
+9 after the order is issued to determine if the proof is evident or the
+10 presumption great that the defendant committed the act that constitutes a
+11 serious offense as defined in section 13-706. If the court does not find
+12 the proof is evident or the presumption great that the defendant committed
+13 the act, the court shall proceed pursuant to section 13-4517, subsection
+14 A, paragraph 1, 2 or 3.
+15 B. If the court does find the proof is evident or the presumption
+16 great pursuant to subsection A of this section, the court shall hold a
+17 trial within one hundred twenty days after the court issued the order
+
+Senate Amendments to H.B. 2307
+1 pursuant to section 13-4517, subsection A, paragraph 4 to determine if the
+2 defendant is dangerous and should be involuntarily committed. Unless the
+3 state or defendant requests a jury trial, a trial held pursuant to this
+4 subsection shall be before the court.
+5 C. The Arizona rules of evidence and the Arizona rules of civil
+6 procedure apply to proceedings held pursuant to this section, except that
+7 the court may consider evidence that is not admissible under the Arizona
+8 rules of evidence when making a determination pursuant to subsection A of
+9 this section.
+10 D. If there has not been a previous evaluation to determine whether
+11 the defendant is dangerous, the defendant shall be examined by mental
+12 health experts in accordance with the requirements of section 13-4509,
+13 subsection D to determine if the defendant should be considered dangerous.
+14 The state and the defendant may each retain a mental health expert to
+15 examine the defendant and present the defendant's mental health evaluation
+16 at the trial.
+17 E. At a trial to determine if the defendant is dangerous, the state
+18 shall establish beyond a reasonable doubt that the defendant is dangerous
+19 and should be involuntarily committed. If the factfinder does not find
+20 that the defendant is dangerous or does not find that the defendant should
+21 be involuntarily committed, the court shall proceed pursuant to section
+22 13-4517, subsection A, paragraph 1, 2 or 3.
+23 F. If the factfinder finds that the defendant is dangerous and
+24 should be involuntarily committed, the court shall dismiss the charges
+25 against the defendant without prejudice and order the defendant to be
+26 committed to a secure state mental health facility. The defendant shall
+27 receive education, care, supervision and treatment to render the defendant
+28 either competent or nondangerous.
+29 G. If the court issues [OR HAS ISSUED] a commitment order pursuant
+30 to this section:
+31 1. [UNTIL DECEMBER 31, 2031,] IF THE DEFENDANT HAS BEEN DETERMINED
+32 TO BE DANGEROUS AND INCOMPETENT AND IS INVOLUNTARILY COMMITTED TO A SECURE
+33 STATE MENTAL HEALTH FACILITY PURSUANT TO THIS SECTION BUT THERE ARE NO
+34 BEDS AVAILABLE IN A SECURE STATE MENTAL HEALTH FACILITY IN THIS STATE,
+35 [THE DEPARTMENT OF HEALTH SERVICES SHALL CONTRACT WITH A SECURE MENTAL
+36 HEALTH FACILITY OUTSIDE OF THIS STATE OR A FACILITY THAT IS ABLE TO
+37 PROVIDE EQUIVALENT SERVICES OUTSIDE OF THIS STATE TO PROVIDE SERVICES TO
+38 THE DEFENDANT AS REQUIRED BY THIS SECTION AND TO ABIDE BY THE REQUIREMENTS
+39 PRESCRIBED IN TITLE 36, CHAPTER 40. THE DEPARTMENT OF HEALTH SERVICES IS
+40 RESPONSIBLE FOR ALL CONTRACTUAL COSTS ASSOCIATED WITH OUT-OF-STATE
+41 PLACEMENT AND SERVICES FOR A DEFENDANT PURSUANT TO THIS SUBSECTION]
+42 [SECTION 13-4521.01 APPLIES TO THE PLACEMENT OF THE DEFENDANT, BUT ALL
+43 OTHER PROVISIONS OF THIS SECTION REMAIN APPLICABLE TO THE DEFENDANT].
+44 1. 2. All further proceedings for the defendant's continued
+45 treatment and the circumstances under which the defendant may be released
+46 shall be conducted pursuant to title 36, chapter 40.
+-2-
+
+Senate Amendments to H.B. 2307
+1 2. 3. The order shall require that the defendant remain committed
+2 to a secure state mental health facility until any of the following
+3 occurs:
+4 (a) The court finds that the defendant is competent to stand trial.
+5 (b) The court finds that the defendant is no longer dangerous.
+6 H. A commitment order issued pursuant to this section may not be in
+7 effect for more than the presumptive sentence the defendant could have
+8 received for the highest charged offense pursuant to section 13-702 or
+9 13-703, section 13-704, subsection A, B, C, D or E, section 13-705,
+10 section 13-706, subsection A, section 13-708, subsection D or section
+11 13-751 or any section for which a specific sentence is authorized. In
+12 making this determination, the court may not consider the sentence
+13 enhancements under section 13-703 or 13-704 for prior convictions. The
+14 court shall consider all time a defendant has been in custody, including
+15 pretrial detention and custody under title 36.
+16 I. The court shall retain jurisdiction over a defendant who is
+17 committed pursuant to this section until the court discharges the
+18 defendant from treatment. If a defendant is discharged or released on the
+19 expiration of a commitment order issued pursuant to this section, the
+20 medical director of the secure state mental health facility from which the
+21 defendant is discharged or released or the state may file a petition
+22 stating that the defendant requires further treatment pursuant to title
+23 36, chapter 5 or the appointment of a guardian pursuant to title 14.
+24 J. Findings by the court made pursuant to this section and, except
+25 as provided in section 13-4508, any statements made by the defendant
+26 during an examination by a mental health expert pursuant to section
+27 13-4509 are inadmissible in any proceeding other than a proceeding under
+28 title 36, chapters 5 and 40.
+29 K. A person who is involuntarily committed to a secure state mental
+30 health facility pursuant to this section shall receive credit for all time
+31 spent under the jurisdiction of the secure state mental health facility if
+32 the person is found competent to stand trial and is subsequently sentenced
+33 to the state department of corrections for any of the charges that were
+34 the basis for the involuntary commitment.
+35 L. The court shall annually report the following information for
+36 the previous year to the Arizona criminal justice commission:
+37 1. The number of court orders for a trial pursuant to section
+38 13-4517, subsection A, paragraph 4, including the number of jury trials
+39 that were held.
+40 2. The number of defendants who are committed after a trial
+41 pursuant to this section.
+42 3. The number of committed defendants who are conditionally
+43 released to a less restrictive alternative.
+44 4. The number of committed defendants who are restored to
+45 competency or determined to not be dangerous and who are discharged.
+-3-
+
+Senate Amendments to H.B. 2307
+1 <<Sec. 2. Title 13, chapter 41, Arizona Revised Statutes, is
+2 amended by adding section 13-4521.01, to read:
+3 13-4521.01. Dangerous and incompetent defendants; placement
+4 until December 31, 2031; reports
+5 [A. UNTIL DECEMBER 31, 2031, IF THE COURT ISSUES OR HAS ISSUED A
+6 COMMITMENT ORDER PURSUANT TO SECTION 13-4521 AND THERE ARE NO BEDS
+7 AVAILABLE IN A SECURE STATE MENTAL HEALTH FACILITY IN THIS STATE, THE
+8 ARIZONA STATE HOSPITAL MAY ACCEPT THE DEFENDANT FOR CARE AND TREATMENT ON
+9 ITS FORENSIC CAMPUS IF ALL OF THE FOLLOWING APPLY:
+10 1. THE DEFENDANT HAS BEEN DETERMINED TO BE DANGEROUS AND
+11 INCOMPETENT AND IS INVOLUNTARILY COMMITTED TO A SECURE STATE MENTAL HEALTH
+12 FACILITY PURSUANT TO SECTION 13-4521.
+13 2. THE DEFENDANT HAS RECEIVED AT LEAST TWELVE MONTHS OF RESTORATION
+14 TO COMPETENCY SERVICES.
+15 3. THE DEFENDANT HAS A PRIMARY PSYCHIATRIC CONDITION.
+16 B. THE ORDER SHALL:
+17 1. REQUIRE THAT THE DEFENDANT REMAIN COMMITTED TO THE ARIZONA STATE
+18 HOSPITAL PURSUANT TO THIS SECTION OR A SECURE STATE MENTAL HEALTH FACILITY
+19 UNTIL EITHER OF THE FOLLOWING OCCURS:
+20 (a) THE COURT FINDS THAT THE DEFENDANT IS COMPETENT TO STAND TRIAL.
+21 (b) THE COURT FINDS THAT THE DEFENDANT IS NO LONGER DANGEROUS.
+22 2. INCLUDE AUTHORIZATION FOR THE ARIZONA STATE HOSPITAL TO PROVIDE
+23 NECESSARY TREATMENT TO THE DEFENDANT, INCLUDING THE ADMINISTRATION OF
+24 MEDICATIONS AS CLINICALLY INDICATED, AND TO ENSURE THE SAFETY AND SECURITY
+25 OF THE FACILITY.
+26 3. ALLOW THE ARIZONA STATE HOSPITAL TO ISSUE A STANDING ORDER FOR
+27 THE APPLICATION OF RESTRAINTS TO THE DEFENDANT AS NECESSARY TO ENSURE THE
+28 SAFETY AND SECURITY OF THE FACILITY.
+29 C. IF THE MEDICAL DIRECTOR DETERMINES THAT A DEFENDANT WHO WAS
+30 DETERMINED TO BE DANGEROUS, INCOMPETENT AND NONRESTORABLE PURSUANT TO
+31 SECTION 13-4521 MAY NO LONGER BE DANGEROUS OR INCOMPETENT, THE DISPOSITION
+32 OF THE PROCEEDINGS SHALL BE PURSUANT TO TITLE 36, CHAPTER 40.
+33 D. AS SOON AS PRACTICABLE, ON THE LICENSURE OF A SECURE STATE
+34 MENTAL HEALTH FACILITY FOR THE CARE AND TREATMENT OF DEFENDANTS WHO ARE
+35 COMMITTED UNDER SECTION 13-4521, THE ARIZONA STATE HOSPITAL SHALL
+36 COORDINATE THE TRANSFER OF ANY DEFENDANT WHO IS ADMITTED TO THE ARIZONA
+37 STATE HOSPITAL PURSUANT TO THIS SECTION TO THE SECURE STATE MENTAL HEALTH
+38 FACILITY.
+39 E. THE {{ORIGINATING COUNTY FROM WHICH}} {{COSTS OF}} A DEFENDANT
+40 {{WHO}} IS DETERMINED TO BE DANGEROUS, INCOMPETENT AND NONRESTORABLE AND
+41 {{WHO IS}} SUBSEQUENTLY ADMITTED TO THE ARIZONA STATE HOSPITAL PURSUANT TO
+42 THIS SECTION SHALL {{REIMBURSE}}{{BE PAID BY}} THE DEPARTMENT OF HEALTH
+43 SERVICES{{,}} {{FOR ONE HUNDRED PERCENT OF}} {{INCLUDING}} THE COSTS FOR
+44 {{ANY}} {{ALL}} NONPSYCHIATRIC OR NONMENTAL HEALTH DISORDER-RELATED
+45 SERVICES PROVIDED TO THE DEFENDANT DURING THE DEFENDANT'S
+46 ADMISSION{{.}}{{, INCLUDING:
+47 1. PHYSICAL HEALTH CARE SERVICES.
+-4-
+
+Senate Amendments to H.B. 2307
+1 2. SERVICES TO TREAT CO-OCCURRING AND COMORBID MEDICAL CONDITIONS.
+2 3. SERVICES TO TREAT DIAGNOSED NEUROCOGNITIVE DISORDERS.
+3 4. SERVICES TO TREAT DIAGNOSED NEURODEVELOPMENTAL DISORDERS.}}
+4 F. THE ARIZONA STATE HOSPITAL MAY NOT ACCEPT MORE THAN {{THREE
+5 DEFENDANTS}} {{ONE DEFENDANT}} WHO {{HAVE}} {{HAS}} A PRIMARY PSYCHIATRIC
+6 CONDITION{{,}} {{AND}} WHO {{HAVE}} {{HAS}} BEEN DETERMINED TO BE
+7 DANGEROUS, INCOMPETENT AND NONRESTORABLE PURSUANT TO SECTION 13-4521 {{AND
+8 WHOSE ORIGINATING COUNTY HAS A POPULATION OF LESS THAN FOUR HUNDRED
+9 THOUSAND PERSONS}} FOR CARE AND TREATMENT ON {{ITS}} {{THE ARIZONA STATE
+10 HOSPITAL'S}} FORENSIC CAMPUS. IF THE ARIZONA STATE HOSPITAL REACHES, OR
+11 IS EXPECTED TO REACH, THE MAXIMUM FUNDED CAPACITY FOR FORENSIC PROGRAMS,
+12 THE SUPERINTENDENT SHALL INFORM {{ALL COUNTIES}} {{EACH COUNTY'S PRESIDING
+13 JUDGE, COUNTY ATTORNEY AND CHAIRPERSON OF THE BOARD OF SUPERVISORS}} THAT
+14 THE ARIZONA STATE HOSPITAL MAY NOT ACCEPT ANY ADDITIONAL DEFENDANTS
+15 PURSUANT TO SECTION 13-502, 13-3992 OR 13-4521 OR THIS SECTION AND THE
+16 FOLLOWING APPLY:
+17 1. NOTWITHSTANDING SECTION 13-3992, SUBSECTION E, THE DEPARTMENT OF
+18 HEALTH SERVICES {{MAY}} {{IS NOT REQUIRED TO}} REIMBURSE A COUNTY FOR THE
+19 ACTUAL COSTS OF EACH DAY AN ADMISSION IS DEFERRED FOR A PERSON WHO HAS
+20 BEEN FOUND GUILTY EXCEPT INSANE PURSUANT TO SECTION 13-502 {{IF THE
+21 DEFERRAL IS DUE TO A DEFENDANT ADMITTED TO THE ARIZONA STATE HOSPITAL
+22 PURSUANT TO THIS SECTION}}.
+23 2. NEITHER THE DEPARTMENT OF HEALTH SERVICES OR ITS OFFICERS ARE
+24 LIABLE FOR OR SUBJECT TO CIVIL SANCTIONS AS A RESULT OF THE ARIZONA STATE
+25 HOSPITAL'S INABILITY TO ADMIT DEFENDANTS DUE TO REACHING THE MAXIMUM
+26 FUNDED CAPACITY.
+27 G. BEGINNING OCTOBER 1, 2026 AND EVERY SIX MONTHS THEREAFTER, THE
+28 ADMINISTRATIVE OFFICE OF THE COURTS SHALL REPORT TO THE SPEAKER OF THE
+29 HOUSE OF REPRESENTATIVES, THE PRESIDENT OF THE SENATE, THE GOVERNOR AND
+30 THE DIRECTOR OF THE DEPARTMENT OF HEALTH SERVICES ALL OF THE FOLLOWING:
+31 1. THE NUMBER OF DEFENDANTS WHO WERE DETERMINED TO BE INCOMPETENT
+32 TO STAND TRIAL AND NONRESTORABLE.
+33 2. THE NUMBER OF TRIALS INITIATED TO DETERMINE IF A DEFENDANT IS
+34 DANGEROUS PURSUANT TO THIS SECTION.
+35 3. THE NUMBER OF DEFENDANTS WHO WERE DETERMINED TO BE DANGEROUS
+36 PURSUANT TO THIS SECTION.
+37 4. THE NUMBER OF DEFENDANTS WHO WERE DETERMINED TO BE EITHER
+38 INCOMPETENT TO STAND TRIAL AND NONRESTORABLE OR INCOMPETENT, NONRESTORABLE
+39 AND DANGEROUS AND WHO WERE DIAGNOSED WITH A NEUROCOGNITIVE OR
+40 NEURODEVELOPMENTAL DISORDER, INCLUDING A TRAUMATIC BRAIN INJURY, DEMENTIA
+41 OR AUTISM.]>>
+42 <<Sec. 3. Delayed repeal
+43 [Section 13-4521.01, Arizona Revised Statutes, as added by this act,
+44 is repealed from and after December 31, 2031.]>>
+-5-
+
+Senate Amendments to H.B. 2307
+1 <<Sec. 4. Legislative study committee on secure state mental
+2 health facilities; membership; powers and duties;
+3 delayed repeal; definition
+4 [A. The legislative study committee on secure state mental health
+5 facilities is established consisting of the following members:
+6 1. Three members of the senate who are appointed by the president
+7 of the senate, not more than two of whom are members of the same political
+8 party.
+9 2. Three members of the house of representatives who are appointed
+10 by the speaker of the house of representatives, not more than two of whom
+11 are members of the same political party.
+12 3. The director of the Arizona health care cost containment system
+13 or the director's designee.
+14 4. The superintendent of the Arizona state hospital or the
+15 superintendent's designee.
+16 5. The attorney general or a member of the attorney general's staff
+17 who has experience in civil commitment procedures under title 36, Arizona
+18 Revised Statutes, and commitment procedures under title 13, Arizona
+19 Revised Statutes.
+20 6. One member who is from a county attorney's office in a county
+21 with a population of at least one million five hundred thousand persons
+22 and who is appointed by the speaker of the house of representatives.
+23 7. One member who is from a county attorney's office in a county
+24 with a population of less than one million five hundred thousand persons
+25 and who is appointed by the president of the senate.
+26 8. At least two private sector providers who each have experience
+27 in operating behavioral health facilities, one of whom is appointed by the
+28 speaker of the house of representatives and one of whom is appointed by
+29 the president of the senate{{.}}
+30 9. One member who is a public defender in a county with a
+31 population of at least one million five hundred thousand persons and who
+32 is appointed by the president of the senate.
+33 10. One member who is a public defender in a county with a
+34 population of less than one million five hundred thousand persons and who
+35 is appointed by the speaker of the house of representatives.
+36 11. One member who is from the administrative office of the courts.
+37 12. One member who is from a nonprofit federally mandated
+38 protection and advocacy agency for this state and who is appointed by the
+39 president of the senate.
+40 {{13. Two members who are from a statewide association that
+41 represents county supervisors, one of whom represents a county with a
+42 population of at least one million persons and who is appointed by the
+43 speaker of the house of representatives and one of whom represents a
+44 county with a population of less than one million persons and who is
+45 appointed by the president of the senate.}}
+-6-
+
+Senate Amendments to H.B. 2307
+1 B. The committee shall make recommendations on the long-term
+2 feasibility of secure state mental health facilities or other care models,
+3 and shall:
+4 1. Identify sustainable funding by analyzing and recommending
+5 long-term funding sources for persons who are determined to be dangerous,
+6 incompetent and nonrestorable pursuant to section 13-4521, Arizona Revised
+7 Statutes, as amended by this act, including the feasibility of {{state
+8 general funded, county-funded and}} federal medicaid reimbursement models.
+9 2. Determine the appropriate per diem rates that are required to
+10 incentivize private providers to build and operate secure state mental
+11 health facilities, including accounting for specialized security and
+12 high-acuity clinical staffing.
+13 3. Evaluate the feasibility of privately operated secure state
+14 mental health facilities versus separate and specialized secure state
+15 mental health facilities operated directly by the Arizona state hospital.
+16 4. Research if commitments of defendants who have been determined
+17 to be dangerous, incompetent and nonrestorable pursuant to section
+18 13-4521, Arizona Revised Statutes, as amended by this act, remains the
+19 most appropriate legal pathway and if a modified civil commitment process
+20 under title 36, Arizona Revised Statutes, provides better clinical
+21 outcomes and federal funding eligibility.
+22 5. Review the literature and data from this state and other
+23 jurisdictions to project the growth over the next ten years of the
+24 population of defendants who have been determined to be dangerous,
+25 incompetent and nonrestorable pursuant to section 13-4521, Arizona Revised
+26 Statutes, as amended by this act.
+27 6. Evaluate the costs and logistics associated with entering into
+28 an interstate compact or multistate agreement to establish an out of state
+29 placement for a defendant who has been determined to be dangerous,
+30 incompetent and nonrestorable pursuant to section 13-4521, Arizona Revised
+31 Statutes, as amended by this act, if a bed in a secure state mental health
+32 facility in this state is unavailable.
+33 C. The committee may hold hearings, conduct site visits to existing
+34 secure facilities and request data from the department of health services,
+35 the Arizona health care cost containment system and the administrative
+36 office of the courts.
+37 D. Committee members are not eligible to receive compensation but
+38 are eligible for reimbursement of expenses pursuant to title 38, chapter
+39 4, article 2, Arizona Revised Statutes.
+40 E. On or before December 31, 2026, the committee shall submit a
+41 report of its findings and recommendations to the governor, the president
+42 of the senate and the speaker of the house of representatives and provide
+43 a copy of this report to the secretary of state.
+44 F. This section is repealed from and after December 31, 2026.
+45 G. For the purposes of this section, "secure state mental health
+46 facility" has the same meaning prescribed in section 13-4501, Arizona
+47 Revised Statutes.]>>
+-7-
+
+Senate Amendments to H.B. 2307
+1 <<Sec. 5. Department of health services; analysis; secure
+2 state mental health facilities
+3 [A. The department of health services shall conduct an analysis of
+4 the cost to staff and construct a new secure state mental health facility
+5 on the grounds of the Arizona state hospital or renovate an existing
+6 structure to be converted to a secure state mental health facility on the
+7 grounds of the Arizona state hospital for {{defendant}} {{defendants}} who
+8 are determined to be dangerous, incompetent and nonrestorable pursuant to
+9 section 13-4521, Arizona Revised Statutes, as amended by this act.
+10 B. On or before November 1, 2026, the department shall submit the
+11 analysis to the president of the senate, the speaker of the house of
+12 representatives and the governor and provide a copy of this analysis to
+13 the secretary of state.]>>
+14 <<Sec. 6. Applicability
+15 [Section 13-4521, Arizona Revised Statutes, as amended by this act,
+16 and section 13-4521.01, Arizona Revised Statutes, as added by this act,
+17 apply retroactively to from and after December 31, 2023.]>>
+18 [(ENACTED WITHOUT THE EMERGENCY)
+19 Sec. 7. Emergency
+20 This act is an emergency measure that is necessary to preserve the
+21 public peace, health or safety and is operative immediately as provided by
+22 law.]
+23 <<Sec. 7. Emergency
+24 [This act is an emergency measure that is necessary to preserve the
+25 public peace, health or safety and is operative immediately as provided by
+26 law.]>>
+27 Enroll and engross to conform
+28 Amend title to conform
+HILDY ANGIUS
+2307FloorANGIUS 3.docx
+03/25/2026
+02:58 PM
+C: MH
+130RYGKRO
+-8-

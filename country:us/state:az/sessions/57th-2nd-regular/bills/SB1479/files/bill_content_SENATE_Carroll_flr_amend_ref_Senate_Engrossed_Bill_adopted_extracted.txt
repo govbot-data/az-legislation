@@ -1,0 +1,339 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Carroll flr amend (ref Senate Engrossed Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1479
+Carroll ADD COW Floor Amendment
+Reference to: Senate engrossed bill
+Amendment drafted by: Jason Theodorou
+FLOOR AMENDMENT EXPLANATION
+• Classifies, as a class 5 felony, rather than a class 4 felony, the act of knowingly recording a forged
+or groundless document asserting a claim in real property with the county recorder's office.
+Amendment explanation prepared by Jason Theodorou
+2/25/2026
+
+Fifty-seventh Legislature Carroll
+Second Regular Session S.B. 1479
+ADDITIONAL COW
+CARROLL FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1479
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 11, chapter 3, article 3, Arizona Revised
+3 Statutes, is amended by adding section 11-472, to read:
+4 11-472. Recording; photo identification; exemptions
+5 A. FOR ANY DOCUMENT THAT IS RECORDED IN PERSON AT THE RECORDER'S
+6 OFFICE OR AT A RECORDING KIOSK, A PERSON SHALL PROVIDE THE RECORDER WITH A
+7 VALID FORM OF PHOTO IDENTIFICATION UNLESS THE DOCUMENT TO BE RECORDED IS
+8 SUBMITTED BY ANY OF THE FOLLOWING:
+9 1. AN ESCROW OFFICER OR ESCROW OFFICE.
+10 2. A TITLE INSURANCE AGENT OR TITLE INSURER AS DEFINED IN SECTION
+11 20-1562.
+12 3. A STATE-CHARTERED OR FEDERALLY CHARTERED BANK OR CREDIT UNION.
+13 4. AN ACTIVE MEMBER OF THE STATE BAR OF ARIZONA.
+14 5. A GOVERNMENTAL ENTITY, INCLUDING AN AGENCY, BRANCH OR
+15 INSTRUMENTALITY OF THE FEDERAL GOVERNMENT.
+16 B. THE RECORDER MAY NOT RETAIN A COPY OF THE PERSON'S
+17 IDENTIFICATION, BUT SHALL NOTE IN THE RECORDING SYSTEM OR RECEIPT FOR THE
+18 RECORDING, OR BOTH, THE FOLLOWING:
+19 1. THE TYPE OF IDENTIFICATION.
+20 2. THE NAME ON THE IDENTIFICATION.
+21 3. THE IDENTIFICATION NUMBER.
+22 C. THE INFORMATION NOTED PURSUANT TO SUBSECTION B OF THIS SECTION
+23 IS NOT A PUBLIC RECORD, IS EXEMPT FROM TITLE 39, CHAPTER 1 AND IS NOT
+24 SUBJECT TO DISCLOSURE.
+25 Sec. 2. Title 11, chapter 3, article 7, Arizona Revised Statutes,
+26 is amended by adding section 11-544, to read:
+27 11-544. Notice to owner; changed information
+
+Senate Amendments to S.B. 1479
+1 ON OR BEFORE JANUARY 1, 2027, THE ASSESSOR SHALL PROVIDE A SYSTEM
+2 FOR NOTIFYING AN OWNER OF A PARCEL OF REAL PROPERTY WHEN THE ASSESSOR
+3 RECEIVES NOTICE OF A CHANGE IN THE OWNERSHIP OF OR THE MAILING ADDRESS FOR
+4 THE OWNER OF THE PARCEL OF REAL PROPERTY. THE SYSTEM SHALL ALLOW AN OWNER
+5 TO CHOOSE TO PARTICIPATE AND IS VOLUNTARY FOR THE OWNER, AND THE NOTICE
+6 SHALL BE PROVIDED PROMPTLY BY EMAIL, TEXT MESSAGE OR OTHER SIMILAR MEANS.
+7 Sec. 3. Section 11-1133, Arizona Revised Statutes, is amended to
+8 read:
+9 11-1133. Affidavit of legal value
+10 A. Each deed evidencing a transfer of title and any contract
+11 relating to the sale of real property shall have appended at the time of
+12 recording an affidavit of the seller and the buyer to the transaction, or
+13 the agent of either the seller or buyer, or both, in a form approved by
+14 the department of revenue, who shall declare and jointly certify the
+15 following information:
+16 1. The name, and MAILING address AND TELEPHONE NUMBER of the buyer
+17 and seller. THE BUYER AND SELLER MAY PROVIDE ADDITIONAL CONTACT
+18 INFORMATION, INCLUDING EMAIL ADDRESSES.
+19 2. The name and address where a tax statement may be sent.
+20 3. The complete legal description of the property.
+21 4. The situs address, if any, of the property.
+22 5. The date of sale.
+23 6. The total consideration paid for the property, the amount of
+24 cash down payment and whether or not the type of financing included cash,
+25 a new third party THIRD-PARTY loan, a new loan from the seller, an
+26 assumption of an existing loan or an exchange or trade of property.
+27 7. Whether or not the estimated market value of personal property
+28 received by the buyer equals five per cent PERCENT or more of the total
+29 consideration.
+30 8. The assessor's parcel number or numbers assigned to the real
+31 property by the county assessor or, in the case of a new parcel or parcels
+32 not yet assigned a parcel number, the parcel number or numbers of the
+33 previous parcel or parcels from which the new parcel or parcels are
+34 created.
+35 9. The conditions of the transaction, including the relationship,
+36 if any, of the parties.
+37 10. The use and description of the property and, in the case of a
+38 residential dwelling, whether the property is to be owner-occupied or
+39 rented.
+40 11. The name and address of the person to contact regarding
+41 information contained on the affidavit.
+42 B. If a beneficiary of a foreclosed trustee's deed receives payment
+43 based on private mortgage insurance covering the sale that is in addition
+44 to the proceeds of the sale, the beneficiary shall submit, in a form
+45 approved by the department of revenue, to the county recorder in the
+46 county where the property is located within four months after the date of
+-2-
+
+Senate Amendments to S.B. 1479
+1 the trustee's sale a beneficiary's declaration of additional funds
+2 received that contains the following:
+3 1. The county assessor's parcel number or numbers assigned as of
+4 the date of the trustee's sale.
+5 2. The name and address of the beneficiary submitting the
+6 declaration.
+7 3. The date of the trustee's sale.
+8 4. The highest bid amount received by the trustee at the trustee's
+9 sale.
+10 5. The recording number of the trustee's deed on sale.
+11 6. The amount of any additional compensation received by the
+12 beneficiary within three months after the date of the trustee's sale.
+13 C. The county recorder shall refuse to record any deed and any
+14 contract relating to the sale of real property if a complete affidavit of
+15 legal value is not appended unless the instrument bears a notation
+16 indicating an exemption pursuant to section 11-1134.
+17 D. An affidavit is complete for THE purposes of this section if all
+18 of the required information is stated on the affidavit form or is
+19 indicated on the form as "not applicable".
+20 Sec. 4. Repeal
+21 Section 12-524, Arizona Revised Statutes, is repealed.
+22 Sec. 5. Section 33-420, Arizona Revised Statutes, is amended to
+23 read:
+24 33-420. False documents; liability; special action; damages;
+25 violation; classification
+26 A. A person purporting to claim an interest in, or a lien or
+27 encumbrance against, real property, who causes a document asserting such
+28 claim to be recorded in the office of the county recorder, knowing or
+29 having reason to know that the document is forged, OR groundless,
+30 contains a material misstatement or false claim or is otherwise invalid is
+31 liable to the owner or beneficial title holder of the real property for
+32 the sum of not less than five thousand dollars, AT LEAST $5,000 or for
+33 treble the actual damages caused by the recording, whichever is greater,
+34 and reasonable attorney fees and costs of the action.
+35 B. The owner or beneficial title holder of the real property may
+36 bring an action pursuant to this section in the superior court in the
+37 county in which the real property is located for such relief as is
+38 required to immediately clear title to the real property as provided for
+39 in the rules of procedure for special actions. This special action may be
+40 brought based on the ground that the lien is forged, OR groundless,
+41 contains a material misstatement or false claim or is otherwise invalid.
+42 The owner or beneficial title holder may bring a separate special action
+43 to clear title to the real property or join such action with an action for
+44 damages as described in this section. In either case, the owner or
+45 beneficial title holder may recover reasonable attorney fees and costs of
+46 the action if he THE OWNER OR BENEFICIAL TITLE HOLDER prevails.
+-3-
+
+Senate Amendments to S.B. 1479
+1 C. A person who is named in a document which THAT purports to
+2 create an interest in, or a lien or encumbrance against, real property and
+3 who knows that the document is forged, OR groundless, contains a material
+4 misstatement or false claim or is otherwise invalid shall be IS liable to
+5 the owner or BENEFICIAL title holder for the sum of not less than one
+6 thousand dollars, AT LEAST $1,000 or for treble actual damages, whichever
+7 is greater, and reasonable attorney fees and costs as provided in this
+8 section, if he THE PERSON wilfully refuses to release or correct such THE
+9 document of record within twenty days from AFTER the date of a written
+10 request from the owner or beneficial title holder of the real property.
+11 D. A document purporting to create an interest in, or a lien or
+12 encumbrance against, real property not authorized by statute, judgment or
+13 other specific legal authority is presumed to be groundless and invalid.
+14 E. A person purporting to claim an interest in, or a lien or
+15 encumbrance against, real property, who causes a document asserting such
+16 claim to be recorded in the office of the county recorder, knowing or
+17 having reason to know that the document is forged, OR groundless,
+18 contains a material misstatement or false claim or is otherwise invalid,
+19 is guilty of a class 1 misdemeanor [4] [5] FELONY.
+20 Sec. 6. Section 41-254, Arizona Revised Statutes, is amended to
+21 read:
+22 41-254. Personal appearance required; thumbprint; exceptions
+23 A. If a notarial act relates to a statement made in or a signature
+24 executed on a record, the individual making the statement or executing the
+25 signature shall appear personally before the notarial officer.
+26 B. If a notarial act involves a translator under section 41-253,
+27 subsection F, the translator shall appear personally before the notary
+28 public.
+29 C. IF THE DOCUMENT TO BE NOTARIZED IS A DEED, QUITCLAIM DEED, DEED
+30 OF TRUST OR OTHER DOCUMENT THAT AFFECTS REAL PROPERTY OR A POWER OF
+31 ATTORNEY DOCUMENT, THE NOTARY PUBLIC SHALL REQUIRE THE PARTY SIGNING THE
+32 DOCUMENT TO PLACE THE PARTY'S RIGHT THUMBPRINT IN THE NOTARY'S
+33 JOURNAL. IF THE RIGHT THUMBPRINT IS NOT AVAILABLE, THE NOTARY PUBLIC
+34 SHALL HAVE THE PARTY USE THE PARTY'S LEFT THUMB, OR ANY AVAILABLE FINGER,
+35 AND SHALL SO INDICATE IN THE JOURNAL. IF THE PARTY SIGNING THE DOCUMENT
+36 IS PHYSICALLY UNABLE TO PROVIDE A THUMBPRINT OR FINGERPRINT, THE NOTARY
+37 PUBLIC SHALL SO INDICATE IN THE JOURNAL AND SHALL ALSO PROVIDE AN
+38 EXPLANATION OF THAT PHYSICAL CONDITION.
+39 D. SUBSECTION C OF THIS SECTION DOES NOT APPLY TO ANY OF THE
+40 FOLLOWING:
+41 1. A TRUSTEE'S DEED THAT RESULTS FROM A JUDICIAL OR NONJUDICIAL
+42 FORECLOSURE.
+43 2. A DEED OF RELEASE AND RECONVEYANCE.
+44 3. A NOTARIAL ACT FOR A DOCUMENT PRESCRIBED BY SUBSECTION C OF THIS
+45 SECTION FOR A REMOTELY LOCATED INDIVIDUAL IF THE AUDIOVISUAL RECORDING OF
+46 THE NOTARIZATION SHOWS THE FORMS OF IDENTIFICATION PROVIDED FOR THE
+-4-
+
+Senate Amendments to S.B. 1479
+1 NOTARIZATION, THE NOTARY RETAINS THE AUDIOVISUAL RECORDING FOR AT LEAST
+2 SEVEN YEARS AND THE NOTARY OTHERWISE COMPLIES WITH SECTION 41-263.
+3 Sec. 7. Section 41-263, Arizona Revised Statutes, is amended to
+4 read:
+5 41-263. Notarial act performed for remotely located
+6 individual; definitions
+7 A. A remotely located individual may comply with section 41-254 by
+8 using communication technology to appear before a notary public.
+9 B. A notary public located in this state may perform a notarial act
+10 using communication technology for a remotely located individual if:
+11 1. The notary public has any of the following:
+12 (a) Personal knowledge under section 41-255, subsection A of the
+13 remotely located individual's identity.
+14 (b) Satisfactory evidence of the identity of the REMOTELY LOCATED
+15 individual by oath or affirmation from a credible witness appearing before
+16 and identified by the notary public under section 41-255, subsection B or
+17 this section.
+18 (c) Satisfactory evidence of the identity of the remotely located
+19 individual by using at least two different types of identity proofing.
+20 2. The notary public is able reasonably to confirm that a record
+21 before the notary public is the same record in which the remotely located
+22 individual made a statement or on which the individual executed a
+23 signature.
+24 3. The notary public, or a person acting on behalf of the notary
+25 public, creates an audiovisual recording of the performance of the
+26 notarial act.
+27 4. For a remotely located individual located outside the United
+28 States, both of the following apply:
+29 (a) The record either:
+30 (i) Is to be filed with or relates to a matter before a public
+31 official or court, governmental entity or other entity subject to the
+32 jurisdiction of the United States.
+33 (ii) Involves property located in the territorial jurisdiction of
+34 the United States or involves a transaction substantially connected with
+35 the United States.
+36 (b) The notary public has no actual knowledge that the act of
+37 making the statement or signing the record is prohibited by the foreign
+38 state in which the remotely located individual is located.
+39 C. If a notarial act is performed under this section, the
+40 certificate of notarial act required by section 41-264 and the short form
+41 certificate provided in section 41-265 must indicate that the notarial act
+42 was performed using communication technology.
+43 D. A short form certificate provided in section 41-265 for a
+44 notarial act subject to this section is sufficient if either of the
+45 following applies:
+46 1. The form of certificate complies with rules adopted under
+47 subsection G, paragraph 1 of this section.
+-5-
+
+Senate Amendments to S.B. 1479
+1 2. The certificate is in the form provided in section 41-265 and
+2 contains a statement substantially as follows: "This notarial act involved
+3 the use of communication technology."
+4 E. A notary public, a guardian, conservator or agent of a notary
+5 public or a personal representative of a deceased notary public shall
+6 retain the audiovisual recording created under subsection B, paragraph 3
+7 of this section or cause the recording to be retained by a repository
+8 designated by or on behalf of the person required to retain the recording.
+9 Unless a different period is required by rule adopted under subsection G,
+10 paragraph 4 of this section AND EXCEPT AS PRESCRIBED BY SECTION 41-254,
+11 the recording must be retained for a period of at least five years after
+12 the recording is made.
+13 F. Before a notary public performs the notary public's initial
+14 notarial act under this section, the notary public must notify the
+15 secretary of state that the notary public will be performing notarial acts
+16 with respect to remotely located individuals and identify the technologies
+17 the notary public intends to use. If the secretary of state has
+18 established standards under subsection G of this section and section
+19 41-275 for approval of communication technology or identity proofing, the
+20 communication technology and identity proofing must conform to the
+21 standards.
+22 G. In addition to adopting rules under section 41-275, on or before
+23 July 1, 2022, the secretary of state shall adopt rules under this section
+24 regarding performance of notarial acts for remotely located individuals.
+25 The rules may:
+26 1. Prescribe the means of performing a notarial act involving a
+27 remotely located individual using communication technology.
+28 2. Establish standards for communication technology and identity
+29 proofing.
+30 3. Establish requirements or procedures to approve providers of
+31 communication technology and the process of identity proofing.
+32 4. Establish standards and a period for the retention of an
+33 audiovisual recording created under subsection B, paragraph 3 of this
+34 section.
+35 H. Before adopting, amending or repealing a rule governing
+36 performance of a notarial act with respect to a remotely located
+37 individual, the secretary of state must consider:
+38 1. The most recent standards regarding the performance of a
+39 notarial act with respect to a remotely located individual adopted by
+40 national standard-setting organizations and the recommendations of the
+41 national association of secretaries of state.
+42 2. Standards, practices and customs of other jurisdictions that
+43 have laws substantially similar to this section.
+44 3. The views of governmental officials and entities and other
+45 interested persons.
+46 I. For the purposes of this section:
+-6-
+
+Senate Amendments to S.B. 1479
+1 1. "Communication technology" means an electronic device or process
+2 that:
+3 (a) Allows a notary public and a remotely located individual to
+4 communicate with each other simultaneously by sight and sound.
+5 (b) When necessary and consistent with other applicable law,
+6 facilitates communication with a remotely located individual who has a
+7 vision, hearing or speech impairment.
+8 2. "Foreign state" means a jurisdiction other than the United
+9 States, a state or a federally recognized Indian tribe.
+10 3. "Identity proofing" means a process or service by which a third
+11 person provides a notary public with a means to verify the identity of a
+12 remotely located individual by a review of personal information from
+13 public or private data sources.
+14 4. "Outside the United States" means a location outside the
+15 geographic boundaries of the United States, Puerto Rico, the United States
+16 Virgin Islands and any territory, insular possession or other location
+17 subject to the jurisdiction of the United States.
+18 5. "Remotely located individual" means an individual who is not in
+19 the physical presence of the notary public who performs a notarial act
+20 under subsection B of this section.
+21 Enroll and engross to conform
+22 Amend title to conform
+FRANK CARROLL
+1479CARROLL0402.docx
+02/25/2026
+04:02 PM
+S: JT/ci
+130GLFJEF
+-7-

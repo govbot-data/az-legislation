@@ -1,0 +1,1042 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Rogers flr amend (ref House Engrossed Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2573
+Rogers ADD COW Floor Amendment
+Reference to: House engrossed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Removes the requirement that a person who is subject to a one-year driver license revocation for
+multiple simple DUI offenses must complete 45 days of the license revocation period prior to
+being eligible for a special ignition interlock restricted driver license.
+2. Modifies the definition of evidence-based psychotherapy to include:
+a) a licensed health professional who is authorized to engage in the practice of behavioral health;
+and
+b) a licensed health professional whose scope of practice authorizes the professional to
+independently provide psychotherapy, including psychiatrists, psychiatric physician assistants
+and psychiatric nurse practitioners.
+3. Requires ignition interlock manufacturers to provide specified information regarding use of an
+ignition interlock device to a licensed health professional who is providing evidence-based
+psychotherapy to the person who is using the ignition interlock device.
+Amendment explanation prepared by Zack Dean
+4/20/2026
+
+Fifty-seventh Legislature Rogers
+Second Regular Session H.B. 2573
+ADDITIONAL COW
+ROGERS FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2573
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 28-1381, Arizona Revised Statutes, is amended
+3 to read:
+4 28-1381. Driving or actual physical control while under the
+5 influence; trial by jury; presumptions; admissible
+6 evidence; sentencing; time limitation; violation;
+7 classification; definition
+8 A. It is unlawful for a person to drive or be in actual physical
+9 control of a vehicle in this state under any of the following
+10 circumstances:
+11 1. While under the influence of intoxicating liquor, any drug, a
+12 vapor releasing substance containing a toxic substance or any combination
+13 of liquor, drugs or vapor releasing substances if the person is impaired
+14 to the slightest degree.
+15 2. If the person has an alcohol concentration of 0.08 or more
+16 within two hours of driving or being in actual physical control of the
+17 vehicle and the alcohol concentration results from alcohol consumed either
+18 before or while driving or being in actual physical control of the
+19 vehicle.
+20 3. While there is any drug defined in section 13-3401 or its
+21 metabolite in the person's body.
+22 4. If the vehicle is a commercial motor vehicle that requires a
+23 person to obtain a commercial driver license as defined in section 28-3001
+24 and the person has an alcohol concentration of 0.04 or more.
+25 5. While operating a vehicle for hire as defined in section 28-9501
+26 or while providing transportation network services as defined in section
+27 28-9551 as a transportation network company driver as defined in section
+28 28-9551 if the person has an alcohol concentration of 0.04 or more.
+
+Senate Amendments to H.B. 2573
+1 B. It is not a defense to a charge of a violation of subsection A,
+2 paragraph 1 of this section that the person is or has been entitled to use
+3 the drug under the laws of this state.
+4 C. A person who is convicted of a violation of this section is
+5 guilty of a class 1 misdemeanor.
+6 D. A person using a drug as prescribed by a medical practitioner
+7 who is licensed pursuant to title 32 and who is authorized to prescribe
+8 the drug is not guilty of violating subsection A, paragraph 3 of this
+9 section.
+10 E. In any prosecution for a violation of this section, the state
+11 shall allege, for the purpose of classification and sentencing pursuant to
+12 this section, all prior convictions of violating this section, section
+13 28-1382 or section 28-1383 occurring within the past thirty-six months,
+14 unless there is an insufficient legal or factual basis to do so.
+15 F. At the arraignment, the court shall inform the defendant that
+16 the defendant may request a trial by jury and that the request, if made,
+17 shall be granted.
+18 G. In a trial, action or proceeding for a violation of this section
+19 or section 28-1383 other than a trial, action or proceeding involving a
+20 person who is driving or in actual physical control of a commercial motor
+21 vehicle or a vehicle for hire as defined in section 28-9501 or involving a
+22 person who is providing transportation network services as defined in
+23 section 28-9551 as a transportation network company driver as defined in
+24 section 28-9551, the defendant's alcohol concentration within two hours of
+25 the time of driving or being in actual physical control as shown by
+26 analysis of the defendant's blood, breath or other bodily substance gives
+27 rise to the following presumptions:
+28 1. If there was at that time 0.05 or less alcohol concentration in
+29 the defendant's blood, breath or other bodily substance, it may be
+30 presumed that the defendant was not under the influence of intoxicating
+31 liquor.
+32 2. If there was at that time in excess of 0.05 but less than 0.08
+33 alcohol concentration in the defendant's blood, breath or other bodily
+34 substance, that fact shall not give rise to a presumption that the
+35 defendant was or was not under the influence of intoxicating liquor, but
+36 that fact may be considered with other competent evidence in determining
+37 the guilt or innocence of the defendant.
+38 3. If there was at that time 0.08 or more alcohol concentration in
+39 the defendant's blood, breath or other bodily substance, it may be
+40 presumed that the defendant was under the influence of intoxicating
+41 liquor.
+42 H. Subsection G of this section does not limit the introduction of
+43 any other competent evidence bearing on the question of whether or not the
+44 defendant was under the influence of intoxicating liquor.
+-2-
+
+Senate Amendments to H.B. 2573
+1 I. A person who is convicted of a violation of this section:
+2 1. Shall be sentenced to serve not less than ten consecutive days
+3 in jail and is not eligible for probation or suspension of execution of
+4 sentence unless the entire sentence is served.
+5 2. Shall pay a fine of not less than $250.
+6 3. May be ordered by a court to perform community restitution.
+7 4. Shall pay an additional assessment of $500 to be deposited by
+8 the state treasurer in the prison construction and operations fund
+9 established by section 41-1651. This assessment is not subject to any
+10 surcharge. If the conviction occurred in the superior court or a justice
+11 court, the court shall transmit the assessed monies to the county
+12 treasurer. If the conviction occurred in a municipal court, the court
+13 shall transmit the assessed monies to the city treasurer. The city or
+14 county treasurer shall transmit the monies received to the state
+15 treasurer.
+16 5. Shall pay an additional assessment of $500 to be deposited by
+17 the state treasurer in the public safety equipment fund established by
+18 section 41-1723. This assessment is not subject to any surcharge. If the
+19 conviction occurred in the superior court or a justice court, the court
+20 shall transmit the assessed monies to the county treasurer. If the
+21 conviction occurred in a municipal court, the court shall transmit the
+22 assessed monies to the city treasurer. The city or county treasurer shall
+23 transmit the monies received to the state treasurer.
+24 6. If the violation involved intoxicating liquor, shall be required
+25 by the department, on report of the conviction, to equip any motor vehicle
+26 the person operates with a certified ignition interlock device pursuant to
+27 section 28-3319. In addition, the court may order the person to equip any
+28 motor vehicle the person operates with a certified ignition interlock
+29 device for more than twelve months beginning on the date the person
+30 successfully completes the alcohol or other drug screening, education[,
+31 evidence-based psychotherapy] or treatment program [OR EVIDENCE-BASED
+32 PSYCHOTHERAPY] requirements of this title and the person is otherwise
+33 eligible to reinstate the person's driver license or driving
+34 privilege. The person who operates a motor vehicle with a certified
+35 ignition interlock device under this paragraph shall comply with article 5
+36 of this chapter.
+37 7. Shall be required by the department to attend and successfully
+38 complete an approved traffic survival school course.
+39 8. At the person's option, may be ordered by the court to
+40 participate in a religious program that is approved by the court. The
+41 person's participation in a religious program must be voluntary, and the
+42 purpose of the religious program may not include any effort to coerce the
+43 person to adopt or change any religious affiliation or beliefs.
+44 J. Notwithstanding subsection I, paragraph 1 of this section, at
+45 the time of sentencing the judge may suspend all but one day of the
+-3-
+
+Senate Amendments to H.B. 2573
+1 sentence if the person completes a court ordered alcohol or other drug
+2 screening, education[, evidence-based psychotherapy] or treatment program
+3 [OR EVIDENCE-BASED PSYCHOTHERAPY]. If the person fails to complete the
+4 court ordered alcohol or other drug screening, education[, evidence-based
+5 psychotherapy] or treatment program [OR EVIDENCE-BASED PSYCHOTHERAPY] and
+6 has not been placed on probation, the court shall issue an order to show
+7 cause to the defendant as to why the remaining jail sentence should not be
+8 served.
+9 K. If within a period of eighty-four months a person is convicted
+10 of a second violation of this section or is convicted of a violation of
+11 this section and has previously been convicted of a violation of section
+12 28-1382 or 28-1383 or an act in another jurisdiction that if committed in
+13 this state would be a violation of this section or section 28-1382 or
+14 28-1383, the person:
+15 1. Shall be sentenced to serve not less than ninety days in jail,
+16 thirty days of which shall be served consecutively, and is not eligible
+17 for probation or suspension of execution of sentence unless the entire
+18 sentence has been served.
+19 2. Shall pay a fine of not less than $500.
+20 3. Shall be ordered by a court to perform at least thirty hours of
+21 community restitution.
+22 4. Shall have the person's driving privilege revoked for one year.
+23 The court shall report the conviction to the department. On receipt of
+24 the report, the department shall revoke the person's driving privilege
+25 and, if the violation involved intoxicating liquor, shall require the
+26 person to equip any motor vehicle the person operates with a certified
+27 ignition interlock device pursuant to section 28-3319. In addition, the
+28 court may order the person to equip any motor vehicle the person operates
+29 with a certified ignition interlock device for more than twelve months
+30 beginning on the date the person successfully completes the alcohol or
+31 other drug screening, education[, evidence-based psychotherapy] or
+32 treatment program [OR EVIDENCE-BASED PSYCHOTHERAPY] requirements of this
+33 title and the person is otherwise eligible to reinstate the person's
+34 driver license or driving privilege. The person who operates a motor
+35 vehicle with a certified ignition interlock device under this paragraph
+36 shall comply with article 5 of this chapter.
+37 5. Shall pay an additional assessment of $1,250 to be deposited by
+38 the state treasurer in the prison construction and operations fund
+39 established by section 41-1651. This assessment is not subject to any
+40 surcharge. If the conviction occurred in the superior court or a justice
+41 court, the court shall transmit the assessed monies to the county
+42 treasurer. If the conviction occurred in a municipal court, the court
+43 shall transmit the assessed monies to the city treasurer. The city or
+44 county treasurer shall transmit the monies received to the state
+45 treasurer.
+-4-
+
+Senate Amendments to H.B. 2573
+1 6. Shall pay an additional assessment of $1,250 to be deposited by
+2 the state treasurer in the public safety equipment fund established by
+3 section 41-1723. This assessment is not subject to any surcharge. If the
+4 conviction occurred in the superior court or a justice court, the court
+5 shall transmit the assessed monies to the county treasurer. If the
+6 conviction occurred in a municipal court, the court shall transmit the
+7 assessed monies to the city treasurer. The city or county treasurer shall
+8 transmit the monies received to the state treasurer.
+9 7. Shall be required by the department to attend and successfully
+10 complete an approved traffic survival school course.
+11 L. Notwithstanding subsection K, paragraph 1 of this section, at
+12 the time of sentencing, the judge may suspend all but thirty days of the
+13 sentence if the person completes a court ordered alcohol or other drug
+14 screening, education[, evidence-based psychotherapy] or treatment program
+15 [OR EVIDENCE-BASED PSYCHOTHERAPY]. If the person fails to complete the
+16 court ordered alcohol or other drug screening, education[, evidence-based
+17 psychotherapy] or treatment program [OR EVIDENCE-BASED PSYCHOTHERAPY] and
+18 has not been placed on probation, the court shall issue an order to show
+19 cause as to why the remaining jail sentence should not be served.
+20 M. In applying the eighty-four month provision of subsection K of
+21 this section, the dates of the commission of the offense shall be the
+22 determining factor, irrespective of the sequence in which the offenses
+23 were committed.
+24 N. A second violation for which a conviction occurs as provided in
+25 this section shall not include a conviction for an offense arising out of
+26 the same series of acts.
+27 O. [After completing forty-five days of the revocation period
+28 prescribed by subsection K of this section,] A person whose driving
+29 privilege is revoked for a violation of this section and who is sentenced
+30 pursuant to subsection K of this section is eligible for a special
+31 ignition interlock restricted driver license pursuant to section 28-1401.
+32 P. The court may order a person who is convicted of a violation of
+33 this section that does not involve intoxicating liquor to equip any motor
+34 vehicle the person operates with a certified ignition interlock device
+35 pursuant to section 28-3319. On receipt of the report of conviction and
+36 certified ignition interlock device requirement, the department shall
+37 require the person to equip any motor vehicle the person operates with a
+38 certified ignition interlock device pursuant to section 28-3319. In
+39 addition, the court may order the person to equip any motor vehicle the
+40 person operates with a certified ignition interlock device for more than
+41 twelve months beginning on the date the person successfully completes the
+42 alcohol or other drug screening, education[, evidence-based psychotherapy]
+43 or treatment program [OR EVIDENCE-BASED PSYCHOTHERAPY] requirements of
+44 this title and the person is otherwise eligible to reinstate the person's
+45 driver license or driving privilege. The person who operates a motor
+-5-
+
+Senate Amendments to H.B. 2573
+1 vehicle with a certified ignition interlock device under this subsection
+2 shall comply with article 5 of this chapter.
+3 Q. A prosecution for a violation of this section involving a
+4 collision that resulted in serious physical injury or death as identified
+5 in a written accident report completed pursuant to section 28-667 must be
+6 commenced within two years after actual discovery of the offense by the
+7 state or the political subdivision having jurisdiction or discovery by the
+8 state or the political subdivision that should have occurred with the
+9 exercise of reasonable diligence, whichever first occurs.
+10 R. For the purposes of this section, "evidence-based psychotherapy"
+11 means psychotherapy services that are offered by [ANY OF THE FOLLOWING AND
+12 THAT INTEGRATE THE BEST AVAILABLE SCIENTIFIC RESEARCH WITH CLINICAL
+13 EXPERTISE BASED ON THE CONTEXT OF THE PATIENT'S CHARACTERISTICS, CULTURE
+14 AND PREFERENCES:
+15 1.] A psychologist who is licensed pursuant to title 32, chapter
+16 19.1 [and who integrates the best available scientific research with
+17 clinical expertise based on the context of the patient's characteristics,
+18 culture and preferences].
+19 [2. A HEALTH PROFESSIONAL WHO IS LICENSED PURSUANT TO TITLE 32,
+20 CHAPTER 33 AND WHO IS AUTHORIZED TO ENGAGE IN THE PRACTICE OF BEHAVIORAL
+21 HEALTH.
+22 3. A HEALTH PROFESSIONAL WHO IS LICENSED IN THIS STATE PURSUANT TO
+23 TITLE 32 AND WHOSE SCOPE OF PRACTICE AUTHORIZES THE HEALTH PROFESSIONAL TO
+24 INDEPENDENTLY PROVIDE PSYCHOTHERAPY, INCLUDING:
+25 (a) A PSYCHIATRIC NURSE PRACTITIONER WHO IS LICENSED PURSUANT TO
+26 TITLE 32, CHAPTER 15.
+27 (b) A PSYCHIATRIC PHYSICIAN ASSISTANT WHO IS LICENSED PURSUANT TO
+28 TITLE 32, CHAPTER 25.
+29 (c) A PSYCHIATRIST WHO IS LICENSED PURSUANT TO TITLE 32, CHAPTERS
+30 13 AND 17.]>>
+31 Sec. 2. Section 28-1382, Arizona Revised Statutes, is amended to
+32 read:
+33 28-1382. Driving or actual physical control while under the
+34 extreme influence of intoxicating liquor; trial by
+35 jury; sentencing; time limitation; violation;
+36 classification
+37 A. It is unlawful for a person to drive or be in actual physical
+38 control of a vehicle in this state if the person has an alcohol
+39 concentration as follows within two hours of driving or being in actual
+40 physical control of the vehicle and the alcohol concentration results from
+41 alcohol consumed either before or while driving or being in actual
+42 physical control of the vehicle:
+43 1. 0.15 or more but less than 0.20.
+44 2. 0.20 or more.
+-6-
+
+Senate Amendments to H.B. 2573
+1 B. A person who is convicted of a violation of this section is
+2 guilty of driving or being in actual physical control of a vehicle while
+3 under the extreme influence of intoxicating liquor.
+4 C. At the arraignment, the court shall inform the defendant that
+5 the defendant may request a trial by jury and that the request, if made,
+6 shall be granted.
+7 D. A person who is convicted of a violation of this section:
+8 1. Shall be sentenced to serve not less than thirty consecutive
+9 days in jail and is not eligible for probation or suspension of execution
+10 of sentence unless the entire sentence is served if the person is
+11 convicted of a violation of subsection A, paragraph 1 of this section. A
+12 person who is convicted of a violation of subsection A, paragraph 2 of
+13 this section shall be sentenced to serve not less than forty-five
+14 consecutive days in jail and is not eligible for probation or suspension
+15 of execution of sentence unless the entire sentence is served.
+16 2. Shall pay a fine of not less than $250, except that a person who
+17 is convicted of a violation of subsection A, paragraph 2 of this section
+18 shall pay a fine of not less than $500. The fine prescribed in this
+19 paragraph and any assessments, restitution and incarceration costs shall
+20 be paid before the assessment prescribed in paragraph 3 of this
+21 subsection.
+22 3. Shall pay an additional assessment of $250. If the conviction
+23 occurred in the superior court or a justice court, the court shall
+24 transmit the monies received pursuant to this paragraph to the county
+25 treasurer. If the conviction occurred in a municipal court, the court
+26 shall transmit the monies received pursuant to this paragraph to the city
+27 treasurer. The city or county treasurer shall transmit the monies
+28 received to the state treasurer. The state treasurer shall deposit the
+29 monies received in the driving under the influence abatement fund
+30 established by section 28-1304.
+31 4. May be ordered by a court to perform community restitution.
+32 5. Shall be required by the department, on receipt of the report of
+33 conviction, to equip any motor vehicle the person operates with a
+34 certified ignition interlock device pursuant to section 28-3319. In
+35 addition, the court may order the person to equip any motor vehicle the
+36 person operates with a certified ignition interlock device for more than
+37 twelve months beginning on the date the person successfully completes the
+38 alcohol or other drug screening, education or treatment program [OR
+39 EVIDENCE-BASED PSYCHOTHERAPY] requirements of this title and the person is
+40 otherwise eligible to reinstate the person's driver license or driving
+41 privilege. The person who operates a motor vehicle with a certified
+42 ignition interlock device under this paragraph shall comply with article 5
+43 of this chapter.
+44 6. Shall pay an additional assessment of $1,000 to be deposited by
+45 the state treasurer in the prison construction and operations fund
+-7-
+
+Senate Amendments to H.B. 2573
+1 established by section 41-1651. This assessment is not subject to any
+2 surcharge. If the conviction occurred in the superior court or a justice
+3 court, the court shall transmit the assessed monies to the county
+4 treasurer. If the conviction occurred in a municipal court, the court
+5 shall transmit the assessed monies to the city treasurer. The city or
+6 county treasurer shall transmit the monies received to the state
+7 treasurer.
+8 7. Shall pay an additional assessment of $1,000 to be deposited by
+9 the state treasurer in the public safety equipment fund established by
+10 section 41-1723. This assessment is not subject to any surcharge. If the
+11 conviction occurred in the superior court or a justice court, the court
+12 shall transmit the assessed monies to the county treasurer. If the
+13 conviction occurred in a municipal court, the court shall transmit the
+14 assessed monies to the city treasurer. The city or county treasurer shall
+15 transmit the monies received to the state treasurer.
+16 8. Shall be required by the department to attend and successfully
+17 complete an approved traffic survival school course.
+18 E. If within a period of eighty-four months a person is convicted
+19 of a second violation of this section or is convicted of a violation of
+20 this section and has previously been convicted of a violation of section
+21 28-1381 or 28-1383 or an act in another jurisdiction that if committed in
+22 this state would be a violation of this section or section 28-1381 or
+23 28-1383, the person:
+24 1. Shall be sentenced to serve not less than one hundred twenty
+25 days in jail, sixty days of which shall be served consecutively, and is
+26 not eligible for probation or suspension of execution of sentence unless
+27 the entire sentence has been served if the person is convicted of a
+28 violation of subsection A, paragraph 1 of this section. A person who is
+29 convicted of a violation of subsection A, paragraph 2 of this section
+30 shall be sentenced to serve not less than one hundred eighty days in jail,
+31 ninety of which shall be served consecutively, and is not eligible for
+32 probation or suspension of execution of sentence unless the entire
+33 sentence has been served.
+34 2. Shall pay a fine of not less than $500, except that a person who
+35 is convicted of a violation of subsection A, paragraph 2 of this section
+36 shall pay a fine of not less than $1,000. The fine prescribed in this
+37 paragraph and any assessments, restitution and incarceration costs shall
+38 be paid before the assessment prescribed in paragraph 3 of this
+39 subsection.
+40 3. Shall pay an additional assessment of $250. If the conviction
+41 occurred in the superior court or a justice court, the court shall
+42 transmit the monies received pursuant to this paragraph to the county
+43 treasurer. If the conviction occurred in a municipal court, the court
+44 shall transmit the monies received pursuant to this paragraph to the city
+45 treasurer. The city or county treasurer shall transmit the monies
+-8-
+
+Senate Amendments to H.B. 2573
+1 received to the state treasurer. The state treasurer shall deposit the
+2 monies received in the driving under the influence abatement fund
+3 established by section 28-1304.
+4 4. Shall be ordered by a court to perform at least thirty hours of
+5 community restitution.
+6 5. Shall have the person's driving privilege revoked for at least
+7 one year. The court shall report the conviction to the department. On
+8 receipt of the report, the department shall revoke the person's driving
+9 privilege and shall require the person to equip any motor vehicle the
+10 person operates with a certified ignition interlock device pursuant to
+11 section 28-3319. In addition, the court may order the person to equip any
+12 motor vehicle the person operates with a certified ignition interlock
+13 device for more than twelve months beginning on the date the person
+14 successfully completes the alcohol or other drug screening, education or
+15 treatment program [OR EVIDENCE-BASED PSYCHOTHERAPY] requirements of this
+16 title and the person is otherwise eligible to reinstate the person's
+17 driver license or driving privilege. The person who operates a motor
+18 vehicle with a certified ignition interlock device under this paragraph
+19 shall comply with article 5 of this chapter.
+20 6. Shall pay an additional assessment of $1,250 to be deposited by
+21 the state treasurer in the prison construction and operations fund
+22 established by section 41-1651. This assessment is not subject to any
+23 surcharge. If the conviction occurred in the superior court or a justice
+24 court, the court shall transmit the assessed monies to the county
+25 treasurer. If the conviction occurred in a municipal court, the court
+26 shall transmit the assessed monies to the city treasurer. The city or
+27 county treasurer shall transmit the monies received to the state
+28 treasurer.
+29 7. Shall pay an additional assessment of $1,250 to be deposited by
+30 the state treasurer in the public safety equipment fund established by
+31 section 41-1723. This assessment is not subject to any surcharge. If the
+32 conviction occurred in the superior court or a justice court, the court
+33 shall transmit the assessed monies to the county treasurer. If the
+34 conviction occurred in a municipal court, the court shall transmit the
+35 assessed monies to the city treasurer. The city or county treasurer shall
+36 transmit the monies received to the state treasurer.
+37 8. Shall be required by the department to attend and successfully
+38 complete an approved traffic survival school course.
+39 F. In applying the eighty-four month provision of subsection E of
+40 this section, the dates of the commission of the offense shall be the
+41 determining factor, irrespective of the sequence in which the offenses
+42 were committed.
+43 G. A second violation for which a conviction occurs as provided in
+44 this section shall not include a conviction for an offense arising out of
+45 the same series of acts.
+-9-
+
+Senate Amendments to H.B. 2573
+1 H. After completing forty-five days of the revocation period
+2 prescribed by subsection E of this section, A person whose driving
+3 privilege is revoked for a violation of this section and who is sentenced
+4 pursuant to subsection E of this section is eligible for a special
+5 ignition interlock restricted driver license pursuant to section 28-1401.
+6 I. Notwithstanding subsection D, paragraph 1 of this section, at
+7 the time of sentencing if the person is convicted of a violation of
+8 subsection A, paragraph 1 of this section, the judge may suspend all but
+9 nine days of the sentence if the person equips any motor vehicle the
+10 person operates with a certified ignition interlock device for a period of
+11 twelve months. If the person is convicted of a violation of subsection A,
+12 paragraph 2 of this section, the judge may suspend all but fourteen days
+13 of the sentence if the person equips any motor vehicle the person operates
+14 with a certified ignition interlock device for a period of twelve months.
+15 If the person fails to comply with article 5 of this chapter and has not
+16 been placed on probation, the court shall issue an order to show cause as
+17 to why the remaining jail sentence should not be served.
+18 J. A prosecution for a violation of this section involving a
+19 collision that resulted in serious physical injury or death as identified
+20 in a written accident report completed pursuant to section 28-667 must be
+21 commenced within two years after actual discovery of the offense by the
+22 state or the political subdivision having jurisdiction or discovery by the
+23 state or the political subdivision that should have occurred with the
+24 exercise of reasonable diligence, whichever first occurs.
+25 K. A person who is convicted of a violation of this section is
+26 guilty of a class 1 misdemeanor.
+27 <<Sec. 3. Section 28-1383, Arizona Revised Statutes, is amended to
+28 read:
+29 28-1383. Aggravated driving or actual physical control while
+30 under the influence; county jail program; annual
+31 report; violation; classification; definitions
+32 A. A person is guilty of aggravated driving or actual physical
+33 control while under the influence of intoxicating liquor or drugs if the
+34 person does any of the following:
+35 1. Commits a violation of section 28-1381, section 28-1382 or this
+36 section while the person's driver license or privilege to drive is
+37 suspended, canceled, revoked or refused or while a restriction is placed
+38 on the person's driver license or privilege to drive as a result of
+39 violating section 28-1381 or 28-1382 or under section 28-1385.
+40 2. Within a period of eighty-four months commits a third or
+41 subsequent violation of section 28-1381, section 28-1382 or this section
+42 or is convicted of a violation of section 28-1381, section 28-1382 or this
+43 section and has previously been convicted of any combination of
+44 convictions of section 28-1381, section 28-1382 or this section or acts in
+-10-
+
+Senate Amendments to H.B. 2573
+1 another jurisdiction that if committed in this state would be a violation
+2 of section 28-1381, section 28-1382 or this section.
+3 3. While a person under fifteen years of age is in the vehicle,
+4 commits a violation of either:
+5 (a) Section 28-1381.
+6 (b) Section 28-1382.
+7 4. While the person is ordered by the court or required pursuant to
+8 section 28-3319 by the department to equip any motor vehicle the person
+9 operates with a certified ignition interlock device, commits a violation
+10 of section 28-1381, section 28-1382 or this section.
+11 5. Commits a violation of section 28-1381, section 28-1382 or this
+12 section while driving the wrong way on a highway.
+13 B. The dates of the commission of the offenses are the determining
+14 factor in applying the eighty-four month provision provided in subsection
+15 A, paragraph 2 of this section regardless of the sequence in which the
+16 offenses were committed. For the purposes of this section, a third or
+17 subsequent violation for which a conviction occurs does not include a
+18 conviction for an offense arising out of the same series of acts. The
+19 time that a probationer is found to be on absconder status or the time
+20 that a person is incarcerated in any state, federal, county or city jail
+21 or correctional facility is excluded when determining the eighty-four
+22 month period provided in subsection A, paragraph 2 and subsection E of
+23 this section.
+24 C. The notice to a person of the suspension, cancellation,
+25 revocation or refusal of a driver license or privilege to drive is
+26 effective as provided in section 28-3318 or pursuant to the laws of the
+27 state issuing the license.
+28 D. A person is not eligible for probation, pardon, commutation or
+29 suspension of sentence or release on any other basis until the person has
+30 served not less than four months in prison if the person is convicted
+31 under any of the following:
+32 1. Subsection A, paragraph 1 of this section.
+33 2. Subsection A, paragraph 2 of this section and within an
+34 eighty-four month period has been convicted of two prior violations of
+35 section 28-1381, section 28-1382 or this section, or any combination of
+36 those sections, or acts in another jurisdiction that if committed in this
+37 state would be a violation of section 28-1381, section 28-1382 or this
+38 section.
+39 3. Subsection A, paragraph 5 of this section.
+40 E. A person who is convicted under subsection A, paragraph 2 of
+41 this section and who within an eighty-four month period has been convicted
+42 of three or more prior violations of section 28-1381, section 28-1382 or
+43 this section, or any combination of those sections, or acts in another
+44 jurisdiction that if committed in this state would be a violation of
+45 section 28-1381, section 28-1382 or this section is not eligible for
+-11-
+
+Senate Amendments to H.B. 2573
+1 probation, pardon, commutation or suspension of sentence or release on any
+2 other basis until the person has served not less than eight months in
+3 prison.
+4 F. A person who is convicted under subsection A, paragraph 3,
+5 subdivision (a) of this section shall serve at least the minimum term of
+6 incarceration required pursuant to section 28-1381.
+7 G. A person who is convicted under subsection A, paragraph 3,
+8 subdivision (b) of this section shall serve at least the minimum term of
+9 incarceration required pursuant to section 28-1382.
+10 H. A person who is convicted of a violation of this section shall
+11 attend and complete alcohol or other drug screening, education or
+12 treatment from an approved facility [OR RECEIVE EVIDENCE-BASED
+13 PSYCHOTHERAPY AS ORDERED BY THE COURT]. If the person fails to comply
+14 with this subsection and is placed on probation, in addition to the
+15 provisions of section 13-901 the court may order that the person be
+16 incarcerated as a term of probation as follows:
+17 1. For a person sentenced pursuant to subsection D of this section,
+18 for an individual period of not more than four months and a total period
+19 of not more than one year.
+20 2. For a person sentenced pursuant to subsection E of this section,
+21 for an individual period of not more than eight months and a total period
+22 of not more than two years.
+23 I. The time that a person spends in custody pursuant to subsection
+24 H of this section shall not be counted towards the sentence imposed if the
+25 person's probation is revoked and the person is sentenced to prison after
+26 revocation of probation.
+27 J. On a conviction for a violation of this section, the court:
+28 1. Shall report the conviction to the department. On receipt of
+29 the report, the department shall revoke the driving privilege of the
+30 person. The department shall not issue the person a new driver license
+31 within one year of the date of the conviction and, if the violation
+32 involved intoxicating liquor, shall require the person to equip any motor
+33 vehicle the person operates with a certified ignition interlock device
+34 pursuant to section 28-3319. In addition, the court may order the person
+35 to equip any motor vehicle the person operates with a certified ignition
+36 interlock device for more than twenty-four months beginning on the date
+37 the person successfully completes the alcohol or other drug screening,
+38 education or treatment program [OR EVIDENCE-BASED PSYCHOTHERAPY]
+39 requirements of this title and the person is otherwise eligible to
+40 reinstate the person's driver license or driving privilege. The person
+41 who operates a motor vehicle with a certified ignition interlock device
+42 under this paragraph shall comply with article 5 of this chapter.
+43 2. In addition to any other penalty prescribed by law, shall order
+44 the person to pay an additional assessment of $250. If the conviction
+45 occurred in the superior court or a justice court, the court shall
+-12-
+
+Senate Amendments to H.B. 2573
+1 transmit the monies received pursuant to this paragraph to the county
+2 treasurer. If the conviction occurred in a municipal court, the court
+3 shall transmit the monies received pursuant to this paragraph to the city
+4 treasurer. The city or county treasurer shall transmit the monies
+5 received to the state treasurer. The state treasurer shall deposit the
+6 monies received in the driving under the influence abatement fund
+7 established by section 28-1304. Any fine imposed for a violation of this
+8 section and any assessments, restitution and incarceration costs shall be
+9 paid before the assessment prescribed in this paragraph.
+10 3. Shall order the person to pay a fine of not less than $750.
+11 4. In addition to any other penalty prescribed by law, shall order
+12 the person to pay an additional assessment of $1,500 to be deposited by
+13 the state treasurer in the prison construction and operations fund
+14 established by section 41-1651. This assessment is not subject to any
+15 surcharge. If the conviction occurred in the superior court or a justice
+16 court, the court shall transmit the assessed monies to the county
+17 treasurer. If the conviction occurred in a municipal court, the court
+18 shall transmit the assessed monies to the city treasurer. The city or
+19 county treasurer shall transmit the monies received to the state
+20 treasurer.
+21 5. In addition to any other penalty prescribed by law, shall order
+22 the person to pay an additional assessment of $1,500 to be deposited by
+23 the state treasurer in the public safety equipment fund established by
+24 section 41-1723. This assessment is not subject to any surcharge. If the
+25 conviction occurred in the superior court or a justice court, the court
+26 shall transmit the assessed monies to the county treasurer. If the
+27 conviction occurred in a municipal court, the court shall transmit the
+28 assessed monies to the city treasurer. The city or county treasurer shall
+29 transmit the monies received to the state treasurer.
+30 K. On conviction for a violation of this section the defendant
+31 shall be required by the department to attend and successfully complete an
+32 approved traffic survival school course.
+33 L. After completing the period of suspension required by section
+34 28-1385, a person whose driving privilege is revoked for a violation of
+35 subsection A, paragraph 3 of this section may apply to the department for
+36 a special ignition interlock restricted driver license pursuant to section
+37 28-1401.
+38 M. The court may order a person who is convicted of a violation of
+39 this section that does not involve intoxicating liquor to equip any motor
+40 vehicle the person operates with a certified ignition interlock device
+41 pursuant to section 28-3319. On receipt of the report of conviction and
+42 certified ignition interlock device requirement, the department shall
+43 require the person to equip any motor vehicle the person operates with a
+44 certified ignition interlock device pursuant to section 28-3319. In
+45 addition, the court may order the person to equip any motor vehicle the
+-13-
+
+Senate Amendments to H.B. 2573
+1 person operates with a certified ignition interlock device for more than
+2 twelve months beginning on the date the person successfully completes the
+3 alcohol or other drug screening, education or treatment program [OR
+4 EVIDENCE-BASED PSYCHOTHERAPY] requirements of this title and the person is
+5 otherwise eligible to reinstate the person's driver license or driving
+6 privilege. The person who operates a motor vehicle with a certified
+7 ignition interlock device under this subsection shall comply with article
+8 5 of this chapter.
+9 N. The sheriff of a county with a population of less than five
+10 hundred thousand persons may establish an aggravated driving under the
+11 influence jail program. If the sheriff establishes an aggravated driving
+12 under the influence jail program, the program may not be implemented until
+13 the state department of corrections enters into an agreement with the
+14 county board of supervisors pursuant to section 31-234 to facilitate the
+15 program. Notwithstanding subsections D and E of this section, if the
+16 violation occurs in a county that has established and implemented an
+17 aggravated driving under the influence jail program or in a county that is
+18 contiguous to a county that has established and implemented an aggravated
+19 driving under the influence jail program and the person is placed on
+20 probation, the mandatory term of incarceration that the person would
+21 otherwise serve in prison may be served in the jail of the county that
+22 established and implemented the program. A person who is incarcerated in
+23 a county jail pursuant to this subsection is not eligible for any release,
+24 work detail or monitoring program that the person would not otherwise be
+25 eligible for if incarcerated in prison. A county sheriff who establishes
+26 an aggravated driving under the influence jail program pursuant to this
+27 subsection shall submit an annual report to the Arizona criminal justice
+28 commission that contains the data that the Arizona statistical analysis
+29 center determines is necessary to prepare a recidivism report pursuant to
+30 section 41-2405.
+31 O. Aggravated driving or actual physical control while under the
+32 influence of intoxicating liquor or drugs committed under:
+33 1. Subsection A, paragraph 1, 2, 4 or 5 of this section is a class
+34 4 felony.
+35 2. Subsection A, paragraph 3 of this section is a class 6 felony.
+36 P. For the purposes of this section:
+37 1. "Suspension, cancellation, revocation or refusal" means any
+38 suspension, cancellation, revocation or refusal.
+39 2. "Wrong way" means vehicular movement that is in a direction
+40 opposing the legal flow of traffic. Wrong way does not include median
+41 crossing or a collision where a motor vehicle comes to a stop facing the
+42 wrong way.>>
+-14-
+
+Senate Amendments to H.B. 2573
+1 <<Sec. 4. Section 28-1387, Arizona Revised Statutes, is amended to
+2 read:
+3 28-1387. Prior convictions; alcohol or other drug screening,
+4 education and treatment and evidence-based
+5 psychotherapy; license suspension; supervised
+6 probation; civil liability; procedures
+7 A. The court shall allow the allegation of a prior conviction or
+8 any other pending charge of a violation of section 28-1381, 28-1382 or
+9 28-1383 or an act in another jurisdiction that if committed in this state
+10 would be a violation of section 28-1381, 28-1382 or 28-1383 filed twenty
+11 or more days before the date the case is actually tried and may allow the
+12 allegation of a prior conviction or any other pending charge of a
+13 violation of section 28-1381, 28-1382 or 28-1383 or an act in another
+14 jurisdiction that if committed in this state would be a violation of
+15 section 28-1381, 28-1382 or 28-1383 filed at any time before the date the
+16 case is actually tried if this state makes available to the defendant when
+17 the allegation is filed a copy of any information obtained concerning the
+18 prior conviction or other pending charge. Any conviction may be used to
+19 enhance another conviction irrespective of the dates on which the offenses
+20 occurred within the eighty-four month provision. For the purposes of this
+21 article, an order of a juvenile court adjudicating a person delinquent is
+22 equivalent to a conviction.
+23 B. In addition to any other penalties prescribed by law, the judge
+24 shall order a person who is convicted of a violation of section 28-1381,
+25 28-1382 or 28-1383 to complete alcohol or other drug screening that is
+26 provided by a facility approved by the department of health services, the
+27 United States department of veterans affairs or a probation department.
+28 If a judge determines that the person requires further alcohol or other
+29 drug education or treatment [OR EVIDENCE-BASED PSYCHOTHERAPY], the person
+30 may be required pursuant to court order to obtain alcohol or other drug
+31 education or treatment [OR EVIDENCE-BASED PSYCHOTHERAPY] under the court's
+32 supervision from an approved facility [OR A HEALTH PROFESSIONAL LICENSED
+33 IN THIS STATE WHO PROVIDES EVIDENCE-BASED PSYCHOTHERAPY]. The judge may
+34 review an education[,] [or] treatment [OR PSYCHOTHERAPY] determination at
+35 the request of the state, the defendant or the probation officer or on the
+36 judge's initiative. The person shall pay the costs of the screening,
+37 education[,] [or] treatment [OR PSYCHOTHERAPY] unless, after considering
+38 the person's ability to pay all or part of the costs, the court waives all
+39 or part of the costs. If a person is referred to a screening, education
+40 or treatment facility [OR PSYCHOTHERAPY], the facility [OR THE HEALTH
+41 PROFESSIONAL] shall report to the court whether the person has
+42 successfully completed the screening, education or treatment program [OR
+43 PSYCHOTHERAPY]. The court may accept evidence of a person's completion of
+44 alcohol or other drug screening pursuant to section 28-1445 as sufficient
+45 to meet the requirements of this section or section 28-1381, 28-1382 or
+-15-
+
+Senate Amendments to H.B. 2573
+1 28-1383 or may order the person to complete additional alcohol or other
+2 drug screening, education or treatment programs [OR EVIDENCE-BASED
+3 PSYCHOTHERAPY]. If a person has previously been ordered to complete an
+4 alcohol or other drug screening, education or treatment program [OR
+5 EVIDENCE-BASED PSYCHOTHERAPY] pursuant to this section, the judge shall
+6 order the person to complete an alcohol or other drug screening, education
+7 or treatment program [OR EVIDENCE-BASED PSYCHOTHERAPY] unless the court
+8 determines that alternative sanctions are more appropriate.
+9 C. After a person who is sentenced pursuant to section 28-1381,
+10 subsection I has served twenty-four consecutive hours in jail or after a
+11 person who is sentenced pursuant to section 28-1381, subsection K or
+12 section 28-1382, subsection D or E has served forty-eight consecutive
+13 hours in jail and after the court receives confirmation that the person is
+14 employed or is a student, the court shall provide in the sentence that the
+15 defendant, if the defendant is employed or is a student and can continue
+16 the defendant's employment or schooling, may continue the employment or
+17 schooling for not more than twelve hours a day nor more than six days a
+18 week, unless the court finds good cause to not allow the release and
+19 places those findings on the record. The person shall spend the remaining
+20 day, days or parts of days in jail until the sentence is served and shall
+21 be allowed out of jail only long enough to complete the actual hours of
+22 employment or schooling.
+23 D. Unless the license of a person convicted under section 28-1381
+24 or 28-1382 has been or is suspended pursuant to section 28-1321 or
+25 28-1385, the department on receipt of the abstract of conviction of a
+26 violation of section 28-1381 or 28-1382 shall suspend the license of the
+27 affected person for not less than ninety consecutive days.
+28 E. When the department receives notification that the person meets
+29 the criteria provided in section 28-1385, subsection I, the department
+30 shall suspend the driving privileges of the person for not less than
+31 thirty consecutive days and shall restrict the person's driving privileges
+32 as described in section 28-144 for not less than sixty consecutive
+33 additional days.
+34 F. If a person is placed on probation for violating section 28-1381
+35 or 28-1382, the probation shall be supervised unless the court finds that
+36 supervised probation is not necessary or the court does not have
+37 supervisory probation services.
+38 G. Any political subdivision processing or using the services of a
+39 person ordered to perform community restitution pursuant to section
+40 28-1381 or 28-1382 does not incur any civil liability to the person
+41 ordered to perform community restitution as a result of these activities
+42 unless the political subdivision or its agent or employee acts with gross
+43 negligence.
+-16-
+
+Senate Amendments to H.B. 2573
+1 H. The court may order alternative sanctions to community
+2 restitution that is ordered pursuant to section 28-1381, subsection K or
+3 section 28-1382, subsection E if the court determines that education,
+4 treatment or other alternative sanctions are more appropriate.>>
+5 <<Sec. 5. Section 28-1461, Arizona Revised Statutes, is amended to
+6 read:
+7 28-1461. Use of certified ignition interlock devices;
+8 reporting
+9 A. If a person's driving privilege is limited pursuant to section
+10 28-1381, 28-1382, 28-1383 or 28-3319 or restricted pursuant to section
+11 28-1402:
+12 1. The person shall:
+13 (a) Pay the costs for installation and maintenance of the certified
+14 ignition interlock device.
+15 (b) Provide proof to the department of installation of a
+16 functioning certified ignition interlock device in each motor vehicle
+17 operated by the person.
+18 (c) Provide proof of compliance to the department at least once
+19 every ninety days during the period the person is ordered to use an
+20 ignition interlock device.
+21 (d) Provide proof of calibration of the certified ignition
+22 interlock device to the department at least once every ninety days during
+23 the period the person is ordered to use an ignition interlock device.
+24 2. The department shall not reinstate the person's driving
+25 privilege or issue a special ignition interlock restricted driver license
+26 until the person has installed a functioning certified ignition interlock
+27 device in each motor vehicle operated by the person and has provided proof
+28 of installation to the department.
+29 B. While a person maintains a functioning certified ignition
+30 interlock device in a vehicle pursuant to this chapter, the ignition
+31 interlock manufacturer shall electronically provide the following
+32 information to the department in the manner and format prescribed by the
+33 department in rule, and the department shall reject any information that
+34 does not meet these requirements:
+35 1. Any tampering or circumvention.
+36 2. Any failure to provide proof of compliance or inspection of the
+37 certified ignition interlock device as prescribed in this section.
+38 3. Any attempt to operate the vehicle with an alcohol concentration
+39 exceeding the presumptive limit as prescribed in section 28-1381,
+40 subsection G, paragraph 3 or, if the person is under twenty-one years of
+41 age, any attempt to operate the vehicle with any spirituous liquor in the
+42 person's body.
+43 4. Each time that a person fails to properly perform any set of
+44 three consecutive rolling retests that occur during a drive cycle.
+-17-
+
+Senate Amendments to H.B. 2573
+1 C. If the person is under eighteen years of age, the ignition
+2 interlock service provider, if requested by the person's parent or legal
+3 guardian, shall provide to the person's parent or legal guardian the
+4 information prescribed in subsection B of this section.
+5 D. On request, the ignition interlock manufacturer shall provide
+6 the information prescribed in subsection B of this section to:
+7 1. The department of health services authorized provider.
+8 2. The probation department that is providing alcohol or other drug
+9 screening, education or treatment to the person.
+10 3. The physician, psychologist, physician assistant, registered
+11 nurse practitioner or addiction counselor who is evaluating the person's
+12 ability to safely operate a motor vehicle following a revocation of the
+13 person's driving privilege as prescribed in section 28-3315, subsection D.
+14 4. The court.
+15 [5. THE LICENSED HEALTH PROFESSIONAL WHO IS PROVIDING
+16 EVIDENCE-BASED PSYCHOTHERAPY TO THE PERSON.]
+17 E. The department shall extend an ignition interlock restricted or
+18 limited driver license and the certified ignition interlock device period
+19 for six months if the department has reasonable grounds to believe that
+20 any of the following applies:
+21 1. The person tampered with or circumvented the certified ignition
+22 interlock device.
+23 2. The person attempted to operate the vehicle with an alcohol
+24 concentration exceeding the presumptive limit as prescribed in section
+25 28-1381, subsection G, paragraph 3, two or more times during the period of
+26 license restriction or limitation.
+27 3. If the person is under twenty-one years of age, the person
+28 attempted to operate the vehicle with any spirituous liquor in the
+29 person's body during the period of license restriction or limitation.
+30 4. The person failed to provide proof of compliance or inspection
+31 as prescribed in this section.
+32 5. The person attempts to operate the vehicle with an alcohol
+33 concentration of 0.08 or more during a six month extension pursuant to
+34 this subsection.
+35 6. The person fails to properly perform any set of three
+36 consecutive rolling retests that occur during a drive cycle.
+37 F. If the special ignition interlock restricted license is extended
+38 pursuant to subsection E of this section, the limitations prescribed in
+39 sections 28-1381, 28-1382, 28-1383 and 28-3319 do not begin until the
+40 restrictive period of the license ends.
+41 G. The department shall make a notation on the driving record of a
+42 person whose driving privilege is limited pursuant to section 28-1381,
+43 28-1382, 28-1383, 28-1385 or 28-3319 or restricted pursuant to section
+44 28-1402 that states that the person shall not operate a motor vehicle
+45 unless it is equipped with a certified ignition interlock device. Unless
+-18-
+
+Senate Amendments to H.B. 2573
+1 the person is convicted of a second or subsequent violation of section
+2 28-1381, 28-1382 or 28-1383, the notation may not include any mark, color
+3 change or other notation or indication on the person's physical driver
+4 license.
+5 H. Proof of compliance does not include a skipped or missed random
+6 sample if the motor vehicle's ignition is off at the time of the skipped
+7 or missed sample.>>
+8 Sec. 6. Section 28-3319, Arizona Revised Statutes, is amended to
+9 read:
+10 28-3319. Action after license suspension, revocation or
+11 denial for driving under the influence or refusal
+12 of test; ignition interlock device requirement;
+13 definitions
+14 A. If, pursuant to section 28-1321, 28-1381, 28-1382, 28-1383,
+15 28-3320 or 28-3322, the license of a driver or the driving privilege of a
+16 nonresident is suspended or revoked, the department shall not terminate
+17 the suspension or revocation or issue a special ignition interlock
+18 restricted driver license, if applicable, pursuant to chapter 4, article
+19 3.1 of this title until the person provides proof of financial
+20 responsibility pursuant to chapter 9, article 3 of this title.
+21 B. If, pursuant to section 28-1321, 28-1381, 28-1382, 28-1383,
+22 28-3320 or 28-3322, an unlicensed resident is denied a license or permit
+23 to operate a motor vehicle, the department shall not issue a license or
+24 permit until the person provides proof of financial responsibility
+25 pursuant to chapter 9, article 3 of this title.
+26 C. If a person whose license or driving privilege is suspended or
+27 revoked pursuant to section 28-1321, 28-1381, 28-1382, 28-1383 or 28-1385
+28 is ordered, pursuant to section 28-1381, 28-1382, 28-1383 or 28-1385, to
+29 attend alcohol or other drug screening, education[, EVIDENCE-BASED
+30 PSYCHOTHERAPY] or treatment [OR EVIDENCE-BASED PSYCHOTHERAPY], the
+31 department shall not either:
+32 1. Terminate the suspension or issue a special ignition interlock
+33 restricted driver license, if applicable, pursuant to chapter 4, article
+34 3.1 of this title until the person or licensed treatment facility provides
+35 proof that the person has completed or is participating satisfactorily in
+36 alcohol or other drug screening, education[, EVIDENCE-BASED PSYCHOTHERAPY]
+37 or treatment [OR EVIDENCE-BASED PSYCHOTHERAPY].
+38 2. Issue a new license or a special ignition interlock restricted
+39 driver license, if applicable, pursuant to chapter 4, article 3.1 of this
+40 title to operate a motor vehicle after the revocation until the person or
+41 licensed treatment facility provides proof that the person has completed
+42 OR IS SATISFACTORILY PARTICIPATING IN the court-ordered program.
+43 D. Except as provided in subsection E of this section, on receipt
+44 of a report of conviction from a court for a violation that involved
+45 intoxicating liquor or that specifically requires the installation of a
+-19-
+
+Senate Amendments to H.B. 2573
+1 certified ignition interlock device, the department shall require any
+2 motor vehicle the convicted person operates to be equipped with a
+3 functioning certified ignition interlock device and the convicted person
+4 to meet the requirements prescribed in section 28-1461 as follows:
+5 1. For twelve months if:
+6 (a) Except as provided in subsection G H of this section, the
+7 person is convicted of a violation of section 28-1381, section 28-1382,
+8 subsection A, paragraph 1 or section 28-1383, subsection A, paragraph 3,
+9 subdivision (a).
+10 (b) The department determines that within a period of eighty-four
+11 months the person is convicted of a second or subsequent violation of
+12 section 28-1381 or section 28-1382, subsection A, paragraph 1 with a prior
+13 conviction of a violation of section 28-1381, 28-1382 or 28-1383 or an act
+14 in another jurisdiction that if committed in this state would be a
+15 violation of section 28-1381, 28-1382 or 28-1383.
+16 2. For eighteen months if the person is convicted of a violation of
+17 section 28-1382, subsection A, paragraph 2.
+18 3. For twenty-four months if:
+19 (a) The person is convicted of a violation of section 28-1382,
+20 subsection A, paragraph 2 and the department determines that within a
+21 period of eighty-four months the person has a prior conviction of a
+22 violation of section 28-1381, 28-1382 or 28-1383 or an act in another
+23 jurisdiction that if committed in this state would be a violation of
+24 section 28-1381, 28-1382 or 28-1383.
+25 (b) The person is convicted of a violation of section 28-1383,
+26 subsection A, paragraph 1, 2, 4 or 5 or paragraph 3, subdivision (b).
+27 E. If a person is required to equip a motor vehicle with a
+28 certified ignition interlock device pursuant to subsection D of this
+29 section and the person has a medical condition that prevents the person
+30 from using the certified ignition interlock device during the entire time
+31 period required by subsection D of this section, the department OF
+32 TRANSPORTATION shall require monthly alcohol and drug screening instead of
+33 the certified ignition interlock device for the time period prescribed by
+34 subsection D of this section. The department OF TRANSPORTATION shall
+35 require evidence of the medical condition that is satisfactory to the
+36 department OF TRANSPORTATION and in a manner prescribed by the department
+37 OF TRANSPORTATION from an authorized physician as defined in section
+38 28-2409 or an authorized physician assistant as defined in section
+39 28-2409. The alcohol or drug screening shall be provided by a facility
+40 approved by the department of health services, the United States
+41 department of veterans affairs, a substance abuse counselor as defined in
+42 section 28-3005 or a probation department.
+-20-
+
+Senate Amendments to H.B. 2573
+1 F. The requirement prescribed in subsection D of this section
+2 begins on the date the person successfully completes the alcohol or other
+3 drug screening, education[, EVIDENCE-BASED PSYCHOTHERAPY] or treatment
+4 program [OR EVIDENCE-BASED PSYCHOTHERAPY] requirements of this title and
+5 the person is otherwise eligible to reinstate the person's driver license
+6 or driving privilege. If the person is issued a special ignition
+7 interlock restricted driver license for the violations giving rise to the
+8 requirements prescribed in subsection D of this section or pursuant to
+9 section 28-1321, subsection P or section 28-1385, subsection J, the person
+10 shall be credited for the amount of time that a certified ignition
+11 interlock device is installed on the person's motor vehicle after the
+12 department authorizes the installation of the certified ignition interlock
+13 device on that person's motor vehicle.
+14 G. A person who is required to equip a motor vehicle with a
+15 certified ignition interlock device pursuant to this section shall comply
+16 with chapter 4, article 5 of this title.
+17 H. The department shall defer the remainder of the time period
+18 prescribed in subsection D, paragraph 1, subdivision (a) of this section
+19 commencing with the later of six months from the date the interlock was
+20 installed or the completion of the requirements of this subsection if all
+21 of the following apply:
+22 1. The person is sentenced pursuant to section 28-1381,
+23 subsection I.
+24 2. The person successfully completes an alcohol education program
+25 consisting of at least sixteen hours pursuant to section 28-1381.
+26 3. The person has maintained a functioning ignition interlock
+27 device on all motor vehicles the person operates and has met the
+28 requirements of section 28-1461.
+29 4. The person has not attempted to operate a vehicle with an
+30 alcohol concentration of 0.08 or more two or more times during the period
+31 of license restriction or limitation.
+32 5. At the time of the offense, the person was not involved in a
+33 motor vehicle accident that resulted in physical injury or property
+34 damage.
+35 6. All necessary compliance information has been provided to the
+36 department by the ignition interlock device provider, the alcohol
+37 screening program and the alcohol education program.
+38 I. The deferment pursuant to subsection H of this section is
+39 permanent, unless the person is arrested for a violation of section
+40 28-1381, 28-1382 or 28-1383 that occurs during the period of the
+41 deferment. If the person is arrested as described in this subsection, the
+42 department shall revoke the deferment and require the person to complete
+43 the remainder of the time period prescribed in subsection D, paragraph 1,
+44 subdivision (a) of this section.
+-21-
+
+Senate Amendments to H.B. 2573
+1 J. Notwithstanding any other law, the department shall reduce the
+2 length of time that a person is required to have a functioning certified
+3 ignition interlock device installed in a motor vehicle pursuant to
+4 subsection D of this section by the length of time that the person is
+5 incarcerated in a jail or prison facility for a violation of section
+6 28-1381 or 28-1383 that did not involve intoxicating liquor.
+7 K. For the purposes of this section: ,
+8 1. "Certified ignition interlock device" has the same meaning
+9 prescribed in section 28-1301.
+10 2. "EVIDENCE-BASED PSYCHOTHERAPY" HAS THE SAME MEANING PRESCRIBED
+11 IN SECTION 28-1381.
+12 Enroll and engross to conform
+13 Amend title to conform
+WENDY ROGERS
+2573FloorROGERS.docx
+04/17/2026
+4:12 PM
+C: JR
+130BBNTDU
+-22-

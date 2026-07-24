@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - SUB Floor Amend to WM - Olson - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1180: DOR; income tax forms; conformity
+OLSON SUBSTITUTE FLOOR AMENDMENT
+1. Requires the Department of Revenue (DOR) to supplement the income tax
+forms and instructions if nonconformity occurs and provides deadlines for
+when they are to be published.
+2. Includes a citation to the itemized deduction statute for DOR to consider
+when prescribing the forms and instructions.
+3. Includes addressing the abatement of penalties and interest due to
+nonconformity that DOR needs to address in the published forms and
+instructions.
+4. Includes a legislative intent clause.
+5. Makes technical changes.
+VINCE PEREZ
+6/11/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Olson
+Second Regular Session S.B. 1180
+OLSON SUBSTITUTE FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1180
+I move the following SUBSTITUTE amendment to the WAYS & MEANS Committee Amendment to
+SENATE BILL 1180 (Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 43-107, Arizona Revised Statutes, is amended
+3 to read:
+4 43-107. Nonconformity in application of internal revenue
+5 code; abatement of penalties and interest; form and
+6 instruction preparation; definitions
+7 A. Notwithstanding sections 42-1123 and 42-1125, no interest or
+8 penalty may NOT be assessed on a nonconformity deficiency if all of the
+9 following are true for a taxable year:
+10 1. The taxpayer filed a return and paid the taxes due, relying on
+11 the department's published forms and instructions.
+12 2. Conformity does not occur.
+13 3. The department supplements its THE published forms and
+14 instructions related to nonconformity and requires the taxpayer to file an
+15 amended return.
+16 4. [By the extended due date of the next taxable year's return] [ON
+17 OR BEFORE THE EXTENDED RETURN DUE DATE FOR THE SECOND YEAR FOLLOWING THE
+18 CLOSE OF THAT TAXABLE YEAR], the taxpayer amends its THE TAXPAYER'S return
+19 to report the nonconformity deficiency and pays the additional tax in the
+20 manner prescribed by the department.
+21 [B. IF NONCONFORMITY OCCURS FOR A TAXABLE YEAR, THE DEPARTMENT
+22 SHALL SUPPLEMENT THE PUBLISHED FORMS AND INSTRUCTIONS RELATING TO
+23 NONCONFORMITY AS FOLLOWS:
+24 1. FOR NONCONFORMITY AS PRESCRIBED BY SUBSECTION D, PARAGRAPH 2,
+25 SUBDIVISION (a) OF THIS SECTION ENACTED ON OR BEFORE FEBRUARY 15 OF THE
+26 YEAR FOLLOWING THE CLOSE OF THAT TAXABLE YEAR, THE SUPPLEMENTAL FORMS AND
+27 INSTRUCTIONS SHALL BE PUBLISHED AS QUICKLY AS PRACTICABLE.
+
+House Amendments to S.B. 1180
+1 2. FOR NONCONFORMITY AS PRESCRIBED BY SUBSECTION D, PARAGRAPH 2,
+2 SUBDIVISION (a) OF THIS SECTION ENACTED FROM AND AFTER FEBRUARY 15 OF THE
+3 YEAR FOLLOWING THE CLOSE OF THAT TAXABLE YEAR, THE SUPPLEMENTAL FORMS AND
+4 INSTRUCTIONS SHALL BE PUBLISHED ON OR BEFORE JANUARY 1 OF THE SECOND YEAR
+5 FOLLOWING THE CLOSE OF THAT TAXABLE YEAR.
+6 3. FOR NONCONFORMITY AS PRESCRIBED BY SUBSECTION D, PARAGRAPH 2,
+7 SUBDIVISION (b) OF THIS SECTION, THE SUPPLEMENTAL FORMS AND INSTRUCTIONS
+8 SHALL BE PUBLISHED ON OR BEFORE JULY 15 OF THE SECOND YEAR FOLLOWING THE
+9 CLOSE OF THAT TAXABLE YEAR.]
+10 [B.] [C.] Notwithstanding section 42-1123, the department shall not
+11 pay interest on refunds resulting from an amended return related to
+12 nonconformity unless the refund is paid more than sixty days after the due
+13 date set forth in subsection A, paragraph 4 of this section or filing
+14 date, whichever is later.
+15 [C.] [D.] For the purposes of this section:
+16 1. "Conformity" means an amendment to section 43-105 that results
+17 in adoption of the definition of the internal revenue code for the taxable
+18 year.
+19 2. "Nonconformity" means either:
+20 (a) Conformity plus another amendment to this title that does not
+21 conform to specific provisions of the internal revenue code as defined in
+22 section 43-105 for the taxable year.
+23 (b) No amendment to section 43-105 for the taxable year.>>
+24 Sec. 2. Title 43, chapter 3, article 2, Arizona Revised Statutes,
+25 is amended by adding section 43-329, to read:
+26 43-329. Returns; form and instruction preparation; conformity
+27 assumption; definitions
+28 A. PURSUANT TO SECTION 43-102, FOR THE PURPOSES OF PRESCRIBING THE
+29 FORMS AND INSTRUCTIONS REQUIRED FOR A TAXPAYER TO FILE A RETURN PURSUANT
+30 TO THIS TITLE, THE DEPARTMENT SHALL ASSUME THAT THE LEGISLATURE WILL ENACT
+31 AN AMENDMENT TO SECTION 43-105 THAT RESULTS IN CONFORMITY TO THE
+32 PROVISIONS OF THE INTERNAL REVENUE CODE, BUT ONLY TO THE EXTENT THOSE
+33 PROVISIONS AFFECT FEDERAL ADJUSTED GROSS INCOME OR FEDERAL TAXABLE INCOME
+34 [AND IMPLEMENT SECTION 43-1042]. IF THE LEGISLATURE ENACTS NONCONFORMITY,
+35 THE DEPARTMENT SHALL SUPPLEMENT THE PUBLISHED FORMS AND INSTRUCTIONS
+36 RELATED TO THE NONCONFORMITY [PURSUANT TO SECTION 43-107].
+37 B. FOR THE PURPOSES OF THIS SECTION, "CONFORMITY" AND
+38 "NONCONFORMITY" HAVE THE SAME MEANINGS PRESCRIBED IN SECTION 43-107.
+39 <<Sec. 3. Legislative intent
+40 [It is the intent of the legislature to establish a consistent
+41 conformity cycle that:
+42 1. Provides taxpayers and tax professionals with timely and
+43 reliable tax forms and instructions.
+44 2. Allows the legislature sufficient opportunity to review and
+45 determine whether federal tax law changes should be adopted for Arizona
+46 income tax purposes.
+47 3. Reduces administrative burdens on the department of revenue.
+-2-
+
+House Amendments to S.B. 1180
+1 4. Minimizes midyear revisions to income tax forms, filing
+2 requirements, software programming and taxpayer guidance.
+3 5. Preserves the legislature's authority to adopt, reject or modify
+4 federal income tax law changes while providing certainty regarding the
+5 taxable year to which such changes apply.]>>
+6 Enroll and engross to conform
+7 Amend title to conform
+JUSTIN OLSON
+1180FloorOLSON.docx
+06/11/2026
+10:38 AM
+H: VP/ls
+130UPVEGZ
+-3-

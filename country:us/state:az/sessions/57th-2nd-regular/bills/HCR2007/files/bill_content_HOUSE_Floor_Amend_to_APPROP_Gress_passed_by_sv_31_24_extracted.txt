@@ -1,0 +1,264 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to APPROP - Gress - passed by s/v 31-24
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HCR2007: reporting; teacher salary increases; schools
+S/E: school districts; instructional expenses; requirements
+GRESS FLOOR AMENDMENT
+1. Applies the direct instructional expenses requirement to each school district
+with a student count of at least 7,500, rather than 500, or that operates a school
+in a county with a population of at least 500,000.
+2. Removes the requirement that a school district spend at least 50% of its
+operational spending on teacher pay.
+3. Removes the requirement for a school district to use unrestricted operational
+spending to comply with the direct instructional expenses requirement.
+4. Prohibits the Auditor General (OAG), if a school district reduces the portion of
+its operational spending on direct instructional expenses, from considering the
+reduction when calculating the amount of the required annual direct
+instructional expenses increase.
+5. Stipulates that if a school district reduces the portion of its operational
+spending on direct instructional expenses, the school district may count only
+the portion of an increase in operational spending on direct instructional
+expenses for a subsequent year that results in an increase above the portion of
+operational spending before the reduction.
+6. Deletes the state aid withholding penalty and direct instruction fund
+requirements for a school district that the OAG identifies did not comply with
+the direct instructional expenses requirement.
+7. Directs the Arizona Department of Education (ADE) to reduce, if the school
+district receives Classroom Site Fund (CSF) monies and the OAG determines
+a school district did not comply with the direct instructional expenses spending
+requirement in the immediately preceding fiscal year, a school district's CSF
+allocation for the budget year as follows:
+a. 25% of the amount that would otherwise be allocated if the school district
+did not comply for one year;
+b. 50% of the amount that would otherwise be allocated if the school district
+did not comply for two years;
+c. 75% of the amount that would otherwise be allocated if the school district
+did not comply for three years; and
+CH
+6/11/2026
+(602) 926-3848
+
+d. an amount equal to the amount that would be otherwise allocated if the
+school district did not comply for at least four years.
+8. Instructs Joint Legislative Budget Committee staff to include in the CSF
+carryforward the monies that are not distributed because of the required
+reductions.
+9. Modifies waiver procedures by authorizing the Superintendent of Public
+Instruction (SPI) to waive the CSF reduction requirements, except that:
+a. the SPI may not issue more than two waivers for a school district during
+any 10-year period, unless otherwise allowed; and
+b. if the SPI issues a second waiver for a school district more than four years
+after the SPI issues a first waiver, the SPI may issue another waiver for the
+school district at any time during the 10-year period beginning the date the
+SPI issues the second waiver.
+10. Clarifies the state or a state officer or agency is not required to maintain the
+CSF or allocate monies for a CSF except as otherwise provided by state law.
+11. Requires the OAG to define direct instructional expenses and operational
+spending.
+Amendment explanation prepared by Chase Houser
+Page 2
+_________________________________________
+
+Fifty-seventh Legislature Gress
+Second Regular Session H.C.R. 2007
+GRESS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.C.R. 2007
+(Reference to APPROPRIATIONS S/E Committee amendment)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 Strike everything after the resolving clause and insert:
+2 "1. Under the power of the referendum, as vested in the
+3 Legislature, the following measure, relating to school district budgets,
+4 is enacted to become valid as a law if approved by the voters and on
+5 proclamation of the Governor:
+6 AN ACT
+7 AMENDING TITLE 15, CHAPTER 9, ARTICLE 1, ARIZONA REVISED
+8 STATUTES, BY ADDING SECTION 15-917; RELATING TO SCHOOL
+9 DISTRICT BUDGETS.
+10 Be it enacted by the Legislature of the State of Arizona:
+11 Section 1. Title 15, chapter 9, article 1, Arizona
+12 Revised Statutes, is amended by adding section 15-917, to
+13 read:
+14 15-917. Operational spending; direct instructional
+15 expenses; enforcement; waivers
+16 A. EACH SCHOOL DISTRICT THAT HAS A STUDENT COUNT OF AT
+17 LEAST [SEVEN THOUSAND] FIVE HUNDRED [OR THAT OPERATES A SCHOOL
+18 IN A COUNTY WITH A POPULATION OF AT LEAST FIVE HUNDRED
+19 THOUSAND PERSONS] SHALL[:
+20 1.] SPEND AT LEAST SIXTY PERCENT OF THE SCHOOL
+21 DISTRICT'S OPERATIONAL SPENDING ON DIRECT INSTRUCTIONAL
+22 EXPENSES.
+23 [2. SPEND AT LEAST FIFTY PERCENT OF THE SCHOOL
+24 DISTRICT'S OPERATIONAL SPENDING ON TEACHER PAY.
+25 B.] BEGINNING IN FISCAL YEAR 2027-2028, ANY SCHOOL
+26 DISTRICT THAT [IS NOT COMPLYING WITH SUBSECTION A OF THIS
+27 SECTION] [SPENDS LESS THAN SIXTY PERCENT OF THE SCHOOL
+28 DISTRICT'S OPERATIONAL SPENDING ON DIRECT INSTRUCTIONAL
+29 EXPENSES] SHALL INCREASE THE PORTION OF THE SCHOOL DISTRICT'S
+30 OPERATIONAL SPENDING THAT IS SPENT ON DIRECT INSTRUCTIONAL
+31 EXPENSES [OR TEACHER PAY, OR BOTH,] EACH YEAR BY AT LEAST
+
+House Amendments to H.C.R. 2007
+1 ONE-HALF OF ONE PERCENT [OF THE PORTION OF THE SCHOOL
+2 DISTRICT'S OPERATIONAL SPENDING THAT IS SPENT ON DIRECT
+3 INSTRUCTIONAL EXPENSES OR TEACHER PAY, OR BOTH, IN THE
+4 2024-2025 SCHOOL] [PER] YEAR UNTIL THE SCHOOL DISTRICT IS IN
+5 COMPLIANCE[, SUBJECT TO THE FOLLOWING:] [. ]
+6 [1.] IF A SCHOOL DISTRICT INCREASES THE PORTION OF THE
+7 SCHOOL DISTRICT'S OPERATIONAL SPENDING [REQUIRED BY SUBSECTION
+8 A OF THIS SECTION] [ON DIRECT INSTRUCTIONAL EXPENSES] BY MORE
+9 THAN ONE-HALF OF ONE PERCENT [IN ANY] [PER] YEAR, THE SCHOOL
+10 DISTRICT MAY COUNT THE PORTION OF THE INCREASE THAT EXCEEDS
+11 ONE-HALF OF ONE PERCENT TOWARD ANY INCREASE THAT IS REQUIRED
+12 IN A SUBSEQUENT YEAR. [A SCHOOL DISTRICT SHALL USE
+13 UNRESTRICTED OPERATIONAL SPENDING TO COMPLY WITH THIS
+14 SUBSECTION AND MAY NOT COUNT EXPENDITURES FROM THE DIRECT
+15 INSTRUCTION FUND IN THE INCREASES REQUIRED BY THIS
+16 SUBSECTION.]
+17 [2. IF A SCHOOL DISTRICT REDUCES THE PORTION OF THE
+18 SCHOOL DISTRICT'S OPERATIONAL SPENDING ON DIRECT INSTRUCTIONAL
+19 EXPENSES, BOTH OF THE FOLLOWING APPLY:
+20 (a) THE AUDITOR GENERAL MAY NOT CONSIDER THE REDUCTION
+21 WHEN CALCULATING THE AMOUNT OF THE ANNUAL INCREASE THAT IS
+22 REQUIRED BY THIS SUBSECTION FOR THE SCHOOL DISTRICT.
+23 (b) THE SCHOOL DISTRICT MAY COUNT ONLY THE PORTION OF
+24 AN INCREASE IN OPERATIONAL SPENDING ON DIRECT INSTRUCTIONAL
+25 EXPENSES FOR A SUBSEQUENT YEAR THAT RESULTS IN AN INCREASE
+26 ABOVE THE PORTION OF OPERATIONAL SPENDING BEFORE THE
+27 REDUCTION.]
+28 [C.] [B.] IF [IN THE ANNUAL REPORT REQUIRED BY SECTION
+29 41-1279.03,] THE AUDITOR GENERAL [IDENTIFIES] [DETERMINES
+30 THAT] A SCHOOL DISTRICT [THAT] DID NOT COMPLY WITH THE
+31 REQUIREMENTS PRESCRIBED BY SUBSECTION [B ] [A] OF THIS SECTION
+32 [IN THE IMMEDIATELY PRECEDING FISCAL YEAR AND IF THE SCHOOL
+33 DISTRICT RECEIVES MONIES FROM THE CLASSROOM SITE FUND
+34 ESTABLISHED BY SECTION 15-977], [THE AUDITOR GENERAL SHALL
+35 NOTIFY THE DEPARTMENT OF EDUCATION AND:
+36 1. IN THE NEXT FISCAL YEAR AFTER THE AUDITOR GENERAL
+37 NOTIFIES THE DEPARTMENT OF EDUCATION, THE DEPARTMENT SHALL
+38 WITHHOLD FROM THE STATE AID THAT THE SCHOOL DISTRICT WOULD
+39 OTHERWISE RECEIVE AN AMOUNT EQUAL TO THE GREATER OF:
+40 (a) THE DIFFERENCE BETWEEN THE AMOUNT THAT THE SCHOOL
+41 DISTRICT WAS REQUIRED TO SPEND ON DIRECT INSTRUCTIONAL
+42 EXPENSES PURSUANT TO SUBSECTION B OF THIS SECTION AND THE
+43 AMOUNT THAT THE SCHOOL DISTRICT ACTUALLY SPENT ON DIRECT
+44 INSTRUCTIONAL EXPENSES FOR THE SCHOOL YEAR THAT IS THE SUBJECT
+45 OF THE AUDITOR GENERAL'S DETERMINATION.
+46 (b) THE DIFFERENCE BETWEEN THE AMOUNT THAT THE SCHOOL
+47 DISTRICT WAS REQUIRED TO SPEND ON TEACHER PAY PURSUANT TO
+48 SUBSECTION A OF THIS SECTION AND THE AMOUNT THAT THE SCHOOL
+49 DISTRICT ACTUALLY SPENT ON TEACHER PAY FOR THE SCHOOL YEAR
+50 THAT IS THE SUBJECT OF THE AUDITOR GENERAL'S DETERMINATION.
+-2-
+
+House Amendments to H.C.R. 2007
+1 2. IF THE SCHOOL DISTRICT IS SUBJECT TO A WITHHOLDING
+2 PURSUANT TO THIS SUBSECTION, THE SCHOOL DISTRICT SHALL
+3 ESTABLISH A DIRECT INSTRUCTION FUND. THE SCHOOL DISTRICT
+4 SHALL USE MONIES FROM THE FUND ONLY FOR DIRECT INSTRUCTIONAL
+5 EXPENSES.
+6 3.] THE DEPARTMENT SHALL REDUCE THE SCHOOL DISTRICT'S
+7 [GENERAL BUDGET LIMIT CALCULATED] [ALLOCATION] PURSUANT TO
+8 SECTION [15-947] [15-977, SUBSECTION G FOR THE BUDGET YEAR] BY
+9 THE [TOTAL AMOUNT THAT IS WITHHELD PURSUANT TO PARAGRAPH 1 OF
+10 THIS SUBSECTION.
+11 4. THE DEPARTMENT SHALL RETURN TO THE SCHOOL DISTRICT
+12 MONIES THAT ARE WITHHELD PURSUANT TO PARAGRAPH 1 OF THIS
+13 SUBSECTION AND THE SCHOOL DISTRICT SHALL DEPOSIT THE MONIES IN
+14 THE DIRECT INSTRUCTION FUND 2 OF THIS SUBSECTION.
+15 D. THE AUDITOR GENERAL SHALL:
+16 1. ANNUALLY DETERMINE WHETHER EACH SCHOOL DISTRICT IN
+17 THIS STATE IS IN COMPLIANCE WITH THE REQUIREMENTS PRESCRIBED
+18 BY SUBSECTION C, PARAGRAPH 2 OF THIS SECTION AND SHALL REPORT
+19 THE DETERMINATIONS TO THE DEPARTMENT OF EDUCATION, THE
+20 GOVERNOR, THE SPEAKER OF THE HOUSE OF REPRESENTATIVES, THE
+21 PRESIDENT OF THE SENATE AND THE JOINT LEGISLATIVE BUDGET
+22 COMMITTEE.
+23 2. DEFINE OPERATIONAL SPENDING FOR THE PURPOSES OF THIS
+24 SECTION.] [FOLLOWING AMOUNTS:
+25 1. IF THE SCHOOL DISTRICT DID NOT COMPLY FOR ONE YEAR,
+26 AN AMOUNT THAT IS EQUAL TO TWENTY-FIVE PERCENT OF THE AMOUNT
+27 THAT WOULD OTHERWISE BE ALLOCATED TO THE SCHOOL DISTRICT.
+28 2. IF THE SCHOOL DISTRICT DID NOT COMPLY FOR TWO YEARS,
+29 AN AMOUNT THAT IS EQUAL TO FIFTY PERCENT OF THE AMOUNT THAT
+30 WOULD OTHERWISE BE ALLOCATED TO THE SCHOOL DISTRICT.
+31 3. IF THE SCHOOL DISTRICT DID NOT COMPLY FOR THREE
+32 YEARS, AN AMOUNT THAT IS EQUAL TO SEVENTY-FIVE PERCENT OF THE
+33 AMOUNT THAT WOULD OTHERWISE BE ALLOCATED TO THE DISTRICT.
+34 4. IF THE SCHOOL DISTRICT DID NOT COMPLY FOR AT LEAST
+35 FOUR YEARS, AN AMOUNT THAT IS EQUAL TO THE AMOUNT THAT WOULD
+36 OTHERWISE BE ALLOCATED TO THE DISTRICT.
+37 C. THE STAFF OF THE JOINT LEGISLATIVE BUDGET COMMITTEE
+38 SHALL INCLUDE MONIES THAT ARE NOT DISTRIBUTED BECAUSE OF
+39 REDUCTIONS REQUIRED BY SUBSECTION B OF THIS SECTION IN THE
+40 CARRYFORWARD FOR THE PURPOSES OF SECTION 15-977, SUBSECTION G,
+41 PARAGRAPH 1.]
+42 [E.] [D.] THE SUPERINTENDENT OF PUBLIC INSTRUCTION MAY
+43 WAIVE THE REQUIREMENTS PRESCRIBED BY SUBSECTION [C ] [B] OF
+44 THIS SECTION FOR A SCHOOL DISTRICT SUBJECT TO THE FOLLOWING:
+45 1. THE DURATION OF A WAIVER PURSUANT TO THIS SUBSECTION
+46 MAY NOT EXCEED ONE YEAR.
+47 2. THE SUPERINTENDENT OF PUBLIC INSTRUCTION MAY NOT
+48 ISSUE [A WAIVER] [MORE THAN TWO WAIVERS] FOR A SCHOOL DISTRICT
+49 [FOR MORE THAN TWO CONSECUTIVE YEARS.
+50 F. FOR THE PURPOSES OF THIS SECTION, "TEACHER PAY":
+-3-
+
+House Amendments to H.C.R. 2007
+1 1. INCLUDES:
+2 (a) MONIES SPENT BY A SCHOOL DISTRICT FOR TEACHER BASE
+3 SALARIES, PERFORMANCE PAY AND OTHER PAYMENTS TO TEACHERS THAT
+4 ARE NOT RELATED TO COCURRICULAR ACTIVITIES, ATHLETICS OR OTHER
+5 ADDITIONAL DUTIES AS DEFINED BY THE UNIFORM SYSTEM OF
+6 FINANCIAL RECORDS.
+7 (b) MONIES SPENT BY A SCHOOL DISTRICT FOR EMPLOYEE
+8 BENEFITS THAT TEACHERS RECEIVE.
+9 2. DOES NOT INCLUDE PAYMENTS TO OR COSTS INCURRED FOR
+10 BENEFITS THAT ARE PROVIDED TO SUBSTITUTE TEACHERS OR
+11 CONTRACTED TEACHERS.] [DURING ANY TEN-YEAR PERIOD, EXCEPT AS
+12 PROVIDED IN PARAGRAPH 3 OF THIS SUBSECTION.
+13 3. IF THE SUPERINTENDENT ISSUES A SECOND WAIVER FOR A
+14 SCHOOL DISTRICT MORE THAN FOUR YEARS AFTER THE DATE ON WHICH
+15 THE SUPERINTENDENT ISSUES A FIRST WAIVER FOR THE SCHOOL
+16 DISTRICT, THE SUPERINTENDENT MAY ISSUE ANOTHER WAIVER FOR THE
+17 SCHOOL DISTRICT AT ANY TIME DURING THE TEN-YEAR PERIOD THAT
+18 BEGINS ON THE DATE THAT THE SUPERINTENDENT ISSUES THE SECOND
+19 WAIVER.
+20 E. THIS SECTION DOES NOT REQUIRE THIS STATE OR AN
+21 OFFICER OR AGENCY OF THIS STATE TO MAINTAIN THE CLASSROOM SITE
+22 FUND ESTABLISHED BY SECTION 15-977 OR ALLOCATE MONIES FOR A
+23 CLASSROOM SITE FUND EXCEPT AS OTHERWISE PROVIDED BY THE LAWS
+24 OF THIS STATE.
+25 F. THE AUDITOR GENERAL SHALL DEFINE "DIRECT
+26 INSTRUCTIONAL EXPENSES" AND "OPERATIONAL SPENDING" FOR THE
+27 PURPOSES OF THIS SECTION.]
+28 2. The Secretary of State shall submit this proposition to the
+29 voters at the next general election as provided by article IV, part 1,
+30 section 1, Constitution of Arizona."
+31 Enroll and engross to conform
+32 Amend title to conform
+MATT GRESS
+HCR2007FloorGRESS2.docx
+03/17/2026
+5:40 PM
+C: VS
+130YSYLEH
+-4-

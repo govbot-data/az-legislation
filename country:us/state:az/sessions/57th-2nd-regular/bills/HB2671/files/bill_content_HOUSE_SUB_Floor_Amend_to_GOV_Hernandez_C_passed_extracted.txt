@@ -1,0 +1,1294 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - SUB Floor Amend to GOV - Hernandez C - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE FLOOR AMENDMENT EXPLANATION
+HB2671
+Bill Number:
+Floor Amendment
+Hernandez C
+The C. Hernandez floor amendment dated 03/06/2026 at 4:37 PM, does the
+following:
+1. Removes language allowing prosecutors to charge juveniles 14 or older directly
+as adults based on certain felony offenses.
+2. Requires a juvenile court hearing before a juvenile can be prosecuted as an
+adult, where the court must find probable cause and determine that adult
+prosecution is necessary for public safety and the interests of justice.
+3. Requires the state to prove by clear and convincing evidence that adult
+prosecution is necessary.
+4. Replaces the list of qualifying felony offenses with a set of factors the court
+must consider, including use of a deadly weapon, the juvenile’s prior
+delinquency history, age and mental condition, rehabilitation history, prior
+commitment to juvenile corrections, victim views, gang involvement, level of
+participation, and likelihood of rehabilitation.
+5. Specifies that a juvenile committed to the Department of Juvenile Corrections
+who has two prior separate felony adjudications for conduct that would qualify
+as historical prior felony convictions if tried as an adult is considered a chronic
+felony offender.
+Amendment explanation prepared by Israel Kiyogera
+Phone Number 6-5846
+ik
+3/6/2026
+
+Fifty-seventh Legislature Hernandez C
+Second Regular Session H.B. 2671
+HERNANDEZ C SUBSTITUTE FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2671
+I move the following SUBSTITUTE amendment to the GOVERNMENT Committee Amendment to
+HOUSE BILL 2671 (Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 8-201, Arizona Revised Statutes, is amended to
+3 read:
+4 8-201. Definitions
+5 In this title, unless the context otherwise requires:
+6 1. "Abandoned" means the failure of the parent to provide
+7 reasonable support and to maintain regular contact with the child,
+8 including providing normal supervision. Abandoned includes a judicial
+9 finding that a parent has made only minimal efforts to support and
+10 communicate with the child. Failure to maintain a normal parental
+11 relationship with the child without just cause for a period of six months
+12 constitutes prima facie evidence of abandonment.
+13 2. "Abuse":
+14 (a) Means the infliction or allowing of physical injury, impairment
+15 of bodily function or disfigurement or the infliction of or allowing
+16 another person to cause serious emotional damage as evidenced by severe
+17 anxiety, depression, withdrawal or untoward aggressive behavior and which
+18 emotional damage is diagnosed by a medical doctor or psychologist and is
+19 caused by the acts or omissions of an individual who has the care, custody
+20 and control of a child, including an employee of a child welfare agency
+21 where a child is placed that is licensed by and contracted with the
+22 department.
+23 (b) Includes:
+24 (i) Inflicting or allowing sexual abuse pursuant to section
+25 13-1404, sexual conduct with a minor pursuant to section 13-1405, sexual
+26 assault pursuant to section 13-1406, molestation of a child pursuant to
+27 section 13-1410, commercial sexual exploitation of a minor pursuant to
+
+House Amendments to H.B. 2671
+1 section 13-3552, sexual exploitation of a minor pursuant to section
+2 13-3553, incest pursuant to section 13-3608 or child sex trafficking
+3 pursuant to section 13-3212.
+4 (ii) Physical injury that results from allowing a child to enter or
+5 remain in any structure or vehicle in which volatile, toxic or flammable
+6 chemicals are found or equipment is possessed by any person for the
+7 purpose of manufacturing a dangerous drug as defined in section 13-3401.
+8 (iii) Unreasonable confinement of a child.
+9 3. "Adult" means a person who is eighteen years of age or older.
+10 4. "Adult court" means the appropriate justice court, municipal
+11 court or criminal division of the superior court that has jurisdiction to
+12 hear proceedings concerning offenses committed by juveniles as provided in
+13 [sections 8-327 and] [SECTION] 13-501.
+14 5. "Award" or "commit" means to assign legal custody.
+15 6. "Child", "youth" or "juvenile" means an individual who is under
+16 eighteen years of age.
+17 7. "Complaint" means a written statement of the essential facts
+18 constituting a public offense that is any of the following:
+19 (a) Made on an oath before a judge or commissioner of the superior
+20 court or an authorized juvenile hearing officer.
+21 (b) Made pursuant to section 13-3903.
+22 (c) Accompanied by an affidavit of a law enforcement officer or
+23 employee that swears on information and belief to the accuracy of the
+24 complaint pursuant to section 13-4261.
+25 8. "Criminal conduct allegation" means an allegation of conduct by
+26 a parent, guardian or custodian of a child or an adult member of the
+27 victim's household that, if true, would constitute any of the following:
+28 (a) A violation of section 13-3623 involving child abuse.
+29 (b) A felony offense that constitutes domestic violence as defined
+30 in section 13-3601.
+31 (c) A violation of section 13-1404 or 13-1406 involving a minor.
+32 (d) A violation of section 13-1405, 13-1410 or 13-1417.
+33 (e) Any other act of abuse that is classified as a felony.
+34 (f) An offense that constitutes domestic violence as defined in
+35 section 13-3601 and that involves a minor who is a victim of or was in
+36 imminent danger during the domestic violence.
+37 9. "Custodian" means a person, other than a parent or legal
+38 guardian, who stands in loco parentis to the child or a person to whom
+39 legal custody of the child has been given by order of the juvenile court.
+40 10. "DCS report" means a communication received by the centralized
+41 intake hotline that alleges child abuse or neglect and that meets the
+42 criteria for a report as prescribed in section 8-455.
+43 11. "Delinquency hearing" means a proceeding in the juvenile court
+44 to determine whether a juvenile has committed a specific delinquent act as
+45 set forth in a petition.
+46 12. "Delinquent act" means an act by a juvenile that if committed
+47 by an adult would be a criminal offense or a petty offense, a violation of
+-2-
+
+House Amendments to H.B. 2671
+1 any law of this state, or of another state if the act occurred in that
+2 state, or a law of the United States, or a violation of any law that can
+3 only be violated by a minor and that has been designated as a delinquent
+4 offense, or any ordinance of a city, county or political subdivision of
+5 this state defining crime. Delinquent act does not include an offense
+6 [under section 13-501, subsection A or B if the offense] [THAT] is filed
+7 in adult court [PURSUANT TO SECTION 13-501, SUBSECTION A OR B]. Any
+8 juvenile who is prosecuted as an adult or who is remanded for prosecution
+9 as an adult shall not be adjudicated as a delinquent juvenile for the same
+10 offense.
+11 13. "Delinquent juvenile" means a child who is adjudicated to have
+12 committed a delinquent act.
+13 14. "Department" means the department of child safety.
+14 15. "Dependent child":
+15 (a) Means a child who is adjudicated to be:
+16 (i) In need of proper and effective parental care and control and
+17 who has no parent or guardian, or one who has no parent or guardian
+18 willing to exercise or capable of exercising such care and control.
+19 (ii) Destitute or who is not provided with the necessities of life,
+20 including adequate food, clothing, shelter or medical care.
+21 (iii) A child whose home is unfit by reason of abuse, neglect,
+22 cruelty or depravity by a parent, a guardian or any other person having
+23 custody or care of the child.
+24 (iv) Under eight years of age and who is found to have committed an
+25 act that would result in adjudication as a delinquent juvenile or
+26 incorrigible child if committed by an older juvenile or child.
+27 (v) Incompetent or not restorable to competency and who is alleged
+28 to have committed a serious offense as defined in section 13-706.
+29 (b) Does not include a child who in good faith is being furnished
+30 Christian Science treatment by a duly accredited practitioner if none of
+31 the circumstances described in subdivision (a) of this paragraph exists.
+32 16. "Detention" means the temporary confinement of a juvenile who
+33 requires secure care in a physically restricting facility that is
+34 completely surrounded by a locked and physically secure barrier with
+35 restricted ingress and egress for the protection of the juvenile or the
+36 community pending court disposition or as a condition of probation.
+37 17. "Director" means the director of the department.
+38 18. "Health professional" has the same meaning prescribed in
+39 section 32-3201.
+40 19. "Incorrigible child" means a child who:
+41 (a) Is adjudicated as a child who refuses to obey the reasonable
+42 and proper orders or directions of a parent, guardian or custodian and who
+43 is beyond the control of that person.
+44 (b) Is habitually truant from school as defined in section 15-803,
+45 subsection C.
+46 (c) Is a runaway from the child's home or parent, guardian or
+47 custodian.
+-3-
+
+House Amendments to H.B. 2671
+1 (d) Habitually behaves in such a manner as to injure or endanger
+2 the morals or health of self or others.
+3 (e) Commits any act constituting an offense that can only be
+4 committed by a minor and that is not designated as a delinquent act.
+5 (f) Fails to obey any lawful order of a court of competent
+6 jurisdiction given in a noncriminal action.
+7 20. "Independent living program" includes a residential program
+8 with supervision of less than twenty-four hours a day.
+9 21. "Juvenile court" means the juvenile division of the superior
+10 court when exercising its jurisdiction over children in any proceeding
+11 relating to delinquency, dependency or incorrigibility.
+12 22. "Law enforcement officer" means a peace officer, sheriff,
+13 deputy sheriff, municipal police officer or constable.
+14 23. "Medical director of a mental health agency":
+15 (a) Means a psychiatrist, or licensed physician experienced in
+16 psychiatric matters, who is designated in writing by the governing body of
+17 the agency as the person in charge of the medical services of the agency,
+18 or a psychiatrist designated by the governing body to act for the
+19 director.
+20 (b) Includes the superintendent of the state hospital.
+21 24. "Mental health agency" means any private or public facility
+22 that is licensed by this state as a mental health treatment agency, a
+23 psychiatric hospital, a psychiatric unit of a general hospital or a
+24 residential treatment center for emotionally disturbed children and that
+25 uses secure settings or mechanical restraints.
+26 25. "Neglect" or "neglected" means:
+27 (a) The inability or unwillingness of a parent, guardian or
+28 custodian of a child to provide that child with supervision, food,
+29 clothing, shelter or medical care if that inability or unwillingness
+30 causes substantial risk of harm to the child's health or welfare, except
+31 if the inability of a parent, guardian or custodian to provide services to
+32 meet the needs of a child with a disability or chronic illness is solely
+33 the result of the unavailability of reasonable services.
+34 (b) Allowing a child to enter or remain in any structure or vehicle
+35 in which volatile, toxic or flammable chemicals are found or equipment is
+36 possessed by any person with the intent and for the purpose of
+37 manufacturing a dangerous drug as defined in section 13-3401.
+38 (c) A determination by a health professional that a newborn infant
+39 was exposed prenatally to a drug or substance listed in section 13-3401
+40 and that this exposure was not the result of a medical treatment
+41 administered to the mother or the newborn infant by a health professional.
+42 This subdivision does not expand a health professional's duty to report
+43 neglect based on prenatal exposure to a drug or substance listed in
+44 section 13-3401 beyond the requirements prescribed pursuant to section
+45 13-3620, subsection E. The determination by the health professional shall
+46 be based on one or more of the following:
+-4-
+
+House Amendments to H.B. 2671
+1 (i) Clinical indicators in the prenatal period including maternal
+2 and newborn presentation.
+3 (ii) History of substance use or abuse.
+4 (iii) Medical history.
+5 (iv) Results of a toxicology or other laboratory test on the mother
+6 or the newborn infant.
+7 (d) Diagnosis by a health professional of an infant under one year
+8 of age with clinical findings consistent with fetal alcohol syndrome or
+9 fetal alcohol effects.
+10 (e) Deliberate exposure of a child by a parent, guardian or
+11 custodian to sexual conduct as defined in section 13-3551 or to sexual
+12 contact, oral sexual contact or sexual intercourse as defined in section
+13 13-1401, bestiality as prescribed in section 13-1411 or explicit sexual
+14 materials as defined in section 13-3507.
+15 (f) Any of the following acts committed by the child's parent,
+16 guardian or custodian with reckless disregard as to whether the child is
+17 physically present:
+18 (i) Sexual contact as defined in section 13-1401.
+19 (ii) Oral sexual contact as defined in section 13-1401.
+20 (iii) Sexual intercourse as defined in section 13-1401.
+21 (iv) Bestiality as prescribed in section 13-1411.
+22 26. "Newborn infant" means a child who is under thirty days of age.
+23 27. "Petition" means a written statement of the essential facts
+24 that allege delinquency, incorrigibility or dependency.
+25 28. "Prevention" means the creation of conditions, opportunities
+26 and experiences that encourage and develop healthy, self-sufficient
+27 children and that occur before the onset of problems.
+28 29. "Protective supervision" means supervision that is ordered by
+29 the juvenile court of children who are found to be dependent or
+30 incorrigible.
+31 30. "Qualified young adult" means a former dependent child who is
+32 at least eighteen years of age and not over twenty-one years of age, who
+33 meets the criteria for an extended foster care program pursuant to section
+34 8-521.02 and who signs a voluntary agreement to participate in the
+35 program.
+36 31. "Referral" means a report that is submitted to the juvenile
+37 court and that alleges that a child is dependent or incorrigible or that a
+38 juvenile has committed a delinquent or criminal act.
+39 32. "Secure care" means confinement in a facility that is
+40 completely surrounded by a locked and physically secure barrier with
+41 restricted ingress and egress.
+42 33. "Serious emotional injury" means an injury that is diagnosed by
+43 a medical doctor or a psychologist and that does any one or a combination
+44 of the following:
+45 (a) Seriously impairs mental faculties.
+-5-
+
+House Amendments to H.B. 2671
+1 (b) Causes serious anxiety, depression, withdrawal or social
+2 dysfunction behavior to the extent that the child suffers dysfunction that
+3 requires treatment.
+4 (c) Is the result of sexual abuse pursuant to section 13-1404,
+5 sexual conduct with a minor pursuant to section 13-1405, sexual assault
+6 pursuant to section 13-1406, molestation of a child pursuant to section
+7 13-1410, child sex trafficking pursuant to section 13-3212, commercial
+8 sexual exploitation of a minor pursuant to section 13-3552, sexual
+9 exploitation of a minor pursuant to section 13-3553 or incest pursuant to
+10 section 13-3608.
+11 34. "Serious physical injury" means an injury that is diagnosed by
+12 a medical doctor and that does any one or a combination of the following:
+13 (a) Creates a reasonable risk of death.
+14 (b) Causes serious or permanent disfigurement.
+15 (c) Causes significant physical pain.
+16 (d) Causes serious impairment of health.
+17 (e) Causes the loss or protracted impairment of an organ or limb.
+18 (f) Is the result of sexual abuse pursuant to section 13-1404,
+19 sexual conduct with a minor pursuant to section 13-1405, sexual assault
+20 pursuant to section 13-1406, molestation of a child pursuant to section
+21 13-1410, child sex trafficking pursuant to section 13-3212, commercial
+22 sexual exploitation of a minor pursuant to section 13-3552, sexual
+23 exploitation of a minor pursuant to section 13-3553 or incest pursuant to
+24 section 13-3608.
+25 35. "Shelter care" means the temporary care of a child in any
+26 public or private facility or home that is licensed by this state and that
+27 offers a physically nonsecure environment that is characterized by the
+28 absence of physically restricting construction or hardware and that
+29 provides the child access to the surrounding community.
+30 36. "Standardized hotline assessment tool" means any written tool
+31 used to make a determination that the allegation of abuse or neglect that
+32 is the subject of a report received pursuant to section 8-455 involves
+33 conduct that warrants investigation by the department pursuant to section
+34 8-456 or 8-471.
+35 37. "Young adult administrative review" means an administrative
+36 review of a voluntary extended foster care case plan with the qualified
+37 young adult, the department's case specialist or designee, an independent
+38 party who is not responsible for the case management of or the delivery of
+39 services to the qualified young adult and any other individual the young
+40 adult invites.>>
+41 <<Sec. 2. Section 8-202, Arizona Revised Statutes, is amended to
+42 read:
+43 8-202. Jurisdiction of juvenile court
+44 A. The juvenile court has original jurisdiction over all
+45 delinquency proceedings brought under the authority of this title.
+-6-
+
+House Amendments to H.B. 2671
+1 B. The juvenile court has exclusive original jurisdiction over all
+2 proceedings brought under the authority of this title except for
+3 delinquency proceedings.
+4 C. The juvenile court may consolidate any matter, except that the
+5 juvenile court shall not consolidate any of the following:
+6 1. A criminal proceeding that is filed in another division of
+7 superior court and that involves a child who is subject to the
+8 jurisdiction of the juvenile court.
+9 2. A delinquency proceeding with any other proceeding that does not
+10 involve delinquency, unless the juvenile delinquency adjudication
+11 proceeding is not heard at the same time or in the same hearing as a
+12 nondelinquency proceeding.
+13 D. The juvenile court has jurisdiction of proceedings to:
+14 1. Obtain judicial consent to the marriage, employment or
+15 enlistment in the armed services of a child, if consent is required by
+16 law.
+17 2. In an action in which parental rights are terminated pursuant to
+18 chapter 4, article 5 or 11 of this title, change the name of a minor child
+19 who is the subject of the action. If the minor child who is the subject
+20 of the action is twelve years of age or older, the court shall consider
+21 the wishes of the child with respect to the name change.
+22 E. The juvenile court has jurisdiction over civil traffic
+23 violations, civil marijuana violations and offenses listed in section
+24 8-323, subsection B that are committed within the county by persons who
+25 are under eighteen years of age unless the presiding judge of the county
+26 declines jurisdiction of these cases. The presiding judge of the county
+27 may decline jurisdiction of civil traffic violations and civil marijuana
+28 violations committed within the county by juveniles if the presiding judge
+29 finds that the declination would promote the more efficient use of limited
+30 judicial and law enforcement resources located within the county. If the
+31 presiding judge declines jurisdiction, juvenile civil traffic violations
+32 and civil marijuana violations shall be processed, heard and disposed of
+33 in the same manner and with the same penalties as adult civil traffic
+34 violations.
+35 F. The orders of the juvenile court under the authority of this
+36 chapter or chapter 3 or 4 of this title take precedence over any order of
+37 any other court of this state except for the following:
+38 1. An order entered in the criminal court concerning an ongoing
+39 case that governs a criminal defendant's ability to contact the victim,
+40 the family of the victim or other minor children if the criminal court
+41 makes a finding that contact with other minor children would pose a risk
+42 of harm to those children.
+43 2. [An order] [ORDERS] by the court of appeals and the supreme
+44 court to the extent they are inconsistent with orders of other courts.
+45 G. Except as provided in subsection H of this section, jurisdiction
+46 of a child that is obtained by the juvenile court in a proceeding under
+47 this chapter or chapter 3 or 4 of this title shall be retained by it, for
+-7-
+
+House Amendments to H.B. 2671
+1 the purposes of implementing the orders made and filed in that proceeding,
+2 until the child becomes eighteen years of age, unless terminated by order
+3 of the court before the child's eighteenth birthday.
+4 H. At any time before an adjudication hearing or a proceeding in
+5 which a juvenile is admitting to an allegation in a petition that alleges
+6 the juvenile is delinquent, the state may file a notice of intent to
+7 retain jurisdiction over a juvenile who is seventeen years of age. If the
+8 state files a notice of intent to retain jurisdiction, the juvenile
+9 court's jurisdiction over a juvenile is retained on the filing of the
+10 notice and the court shall retain jurisdiction over the juvenile until the
+11 juvenile reaches nineteen years of age, unless before the juvenile's
+12 nineteenth birthday either:
+13 1. Jurisdiction is terminated by order of the court.
+14 2. The juvenile is discharged from the jurisdiction of the
+15 department of juvenile corrections pursuant to section 41-2820.
+16 I. Persons who are under eighteen years of age shall be prosecuted
+17 in the same manner as adults if either:
+18 1. The juvenile court transfers jurisdiction pursuant to section
+19 [8-327] [13-501].
+20 2. The juvenile is charged as an adult with an offense listed in
+21 section 13-501.
+22 J. The juvenile court shall retain jurisdiction after a juvenile's
+23 eighteenth birthday for the purpose of:
+24 1. Designating an undesignated felony offense as a misdemeanor or
+25 felony, including after an adjudication is set aside pursuant to section
+26 8-348.
+27 2. Modifying an outstanding monetary obligation imposed by the
+28 court except for victim restitution.
+29 3. Implementing section 36-2862.
+30 K. The juvenile court has jurisdiction to make the initial
+31 determination prescribed in section 8-829 whether the voluntary
+32 participation of a qualified young adult in an extended foster care
+33 program pursuant to section 8-521.02 is in the young adult's best
+34 interests.>>
+35 <<Sec. 3. Section 8-305, Arizona Revised Statutes, is amended to
+36 read:
+37 8-305. Detention center; jail; separate custody; definition
+38 A. The county board of supervisors or the county jail district, if
+39 authorized pursuant to title 48, chapter 25, shall maintain a detention
+40 center that is separate and apart from a jail or lockup in which adults
+41 are confined and where juveniles who are alleged to be delinquent or
+42 children who are incorrigible and within the provisions of this article
+43 shall be detained when necessary before or after a hearing or as a
+44 condition of probation. A juvenile who is charged with an offense that is
+45 listed in section 13-501 may be detained in a juvenile detention center if
+46 the court orders the detention. The board may enter agreements with
+47 public or private entities to acquire land for, build, purchase,
+-8-
+
+House Amendments to H.B. 2671
+1 lease-purchase, lease or expand a detention center required by this
+2 section.
+3 B. The board of supervisors or the county jail district, if
+4 authorized pursuant to title 48, chapter 25, may provide for the detention
+5 of juveniles who are accused or convicted of a criminal offense in a jail
+6 or lockup in which adults are confined. A juvenile who is confined in a
+7 jail or lockup in which adults are confined shall be kept in a physically
+8 separate section from any adult who is charged with or convicted of a
+9 criminal offense, and no sight or sound contact between the juvenile and
+10 any charged or convicted adult is allowed, except to the extent authorized
+11 under federal laws or regulations.
+12 C. A juvenile, pending a juvenile hearing, shall not be confined
+13 with adults charged with or convicted of a crime, except that:
+14 1. A juvenile who is accused of a criminal offense or who is
+15 alleged to be delinquent may be securely detained in such location for up
+16 to six hours until transportation to a juvenile detention center can be
+17 arranged if the juvenile is kept in a physically separate section from any
+18 adult who is charged with or convicted of a crime and no sight or sound
+19 contact between the juvenile and any charged or convicted adult is
+20 allowed, except to the extent authorized under federal laws or
+21 regulations.
+22 2. A juvenile who is transferred as provided in section
+23 [8-327] [13-501] to the criminal division of the superior court may be
+24 securely detained if the juvenile is kept in a physically separate section
+25 from any adult charged with or convicted of a crime, and no sight or sound
+26 contact with any charged or convicted adult is allowed, except to the
+27 extent authorized under federal laws or regulations.
+28 3. A juvenile who is arrested for an offense listed in section
+29 13-501 may be detained in a juvenile detention center until formally
+30 charged as an adult if the court orders the detention. After a juvenile
+31 has been formally charged as an adult the juvenile may be either of the
+32 following:
+33 (a) Detained in a juvenile detention center.
+34 (b) Securely detained in an adult facility if the juvenile is
+35 detained separately from any adult charged with or convicted of a crime,
+36 except to the extent authorized under federal laws or regulations.
+37 D. In determining whether to order that a juvenile who is charged
+38 with an offense that is listed in section 13-501 be detained in a juvenile
+39 detention center or an adult facility pursuant to subsection A or
+40 subsection C, paragraph 3, subdivision (a) of this section, the court
+41 shall consider all of the following:
+42 1. The best interests of both the juvenile charged as an adult and
+43 the other juveniles detained in the juvenile detention center.
+44 2. The juvenile's age.
+45 3. The juvenile's physical and mental maturity.
+46 4. The juvenile's present mental state, including whether the
+47 juvenile presents an imminent risk of harm to the juvenile.
+-9-
+
+House Amendments to H.B. 2671
+1 5. The nature and circumstances of the alleged offense.
+2 6. The juvenile's history of prior delinquent acts.
+3 7. The relative ability of the available adult and juvenile
+4 detention facilities to meet the specific needs of the juvenile and to
+5 protect the safety of the public as well as other detained juveniles.
+6 8. The existing programs and facilities for juveniles at both the
+7 juvenile detention center and the adult facility.
+8 9. Any other factor relevant to the determination of where to
+9 detain the juvenile.
+10 E. The director of juvenile court services in the county in which
+11 the juvenile is detained may file a motion in the juvenile's criminal case
+12 that requests a juvenile who is charged with an offense listed in section
+13 13-501 be transferred to an adult facility based on the juvenile's conduct
+14 while in detention. On the director's request for the juvenile's
+15 transfer, the court shall hold a hearing to consider the transfer. At the
+16 hearing, the court shall consider all of the factors listed in subsection
+17 D of this section.
+18 F. A child who is alleged to be delinquent or who is alleged to be
+19 incorrigible shall not be securely detained in a jail or lockup in which
+20 adults charged with or convicted of a crime are detained. A child may be
+21 nonsecurely detained if necessary to obtain the child's name, age,
+22 residence or other identifying information for up to six hours until
+23 arrangements for transportation to any shelter care facility, home or
+24 other appropriate place can be made. A child who is nonsecurely detained
+25 shall be detained separately from any adult charged with or convicted of a
+26 crime, and no sight or sound contact with any charged or convicted adult
+27 is [permitted] [ALLOWED], except to the extent authorized under federal
+28 laws or regulations.
+29 G. Any detained juvenile or child who, by the juvenile's or child's
+30 conduct, endangers or evidences that the juvenile or child may endanger
+31 the safety of other detained children shall not be allowed to intermingle
+32 with any other juvenile or child in the detention center.
+33 H. Pursuant to section 8-322, the county board of supervisors, the
+34 county jail district board of directors or the administrative office of
+35 the courts on behalf of the juvenile court may enter into an agreement
+36 with public or private entities to provide the detention centers required
+37 by subsection A of this section.
+38 I. For the purposes of this section, "juvenile" includes a person
+39 who is under the jurisdiction of the juvenile court pursuant to section
+40 8-202, subsection H.>>
+41 <<Sec. 4. Repeal
+42 [Section 8-327, Arizona Revised Statutes, is repealed.]>>
+43 <<Sec. 5. Section 8-341, Arizona Revised Statutes, is amended to
+44 read:
+45 8-341. Disposition and commitment; definitions
+46 A. After receiving and considering the evidence on the proper
+47 disposition of the case, the court may enter judgment as follows:
+-10-
+
+House Amendments to H.B. 2671
+1 1. It may award a delinquent juvenile:
+2 (a) To the care of the juvenile's parents, subject to the
+3 supervision of a probation department.
+4 (b) To a probation department, subject to any conditions the court
+5 may impose, including a period of incarceration in a juvenile detention
+6 center of not more than one year.
+7 (c) To a reputable citizen of good moral character, subject to the
+8 supervision of a probation department.
+9 (d) To a private agency or institution, subject to the supervision
+10 of a probation officer.
+11 (e) To the department of juvenile corrections.
+12 (f) To maternal or paternal relatives, subject to the supervision
+13 of a probation department.
+14 (g) To an appropriate official of a foreign country of which the
+15 juvenile is a foreign national who is unaccompanied by a parent or
+16 guardian in this state to remain on unsupervised probation for at least
+17 one year on the condition that the juvenile cooperate with that official.
+18 2. It may award an incorrigible child:
+19 (a) To the care of the child's parents, subject to the supervision
+20 of a probation department.
+21 (b) To the protective supervision of a probation department,
+22 subject to any conditions the court may impose.
+23 (c) To a reputable citizen of good moral character, subject to the
+24 supervision of a probation department.
+25 (d) To a public or private agency, subject to the supervision of a
+26 probation department.
+27 (e) To maternal or paternal relatives, subject to the supervision
+28 of a probation department.
+29 B. If a juvenile is placed on probation pursuant to this section,
+30 the period of probation may continue until the juvenile's eighteenth
+31 birthday or until the juvenile's nineteenth birthday if jurisdiction is
+32 retained pursuant to section 8-202, subsection H, except that the term of
+33 probation shall not exceed one year if all of the following apply:
+34 1. The juvenile is not charged with a subsequent offense.
+35 2. The juvenile has not been found in violation of a condition of
+36 probation.
+37 3. The court has not made a determination that it is in the best
+38 interests of the juvenile or the public to require continued supervision.
+39 The court may not use the juvenile's failure to pay fees, costs or fines
+40 as a reason to continue supervision. The court shall state by minute
+41 entry or written order its reasons for finding that continued supervision
+42 is required.
+43 4. The offense for which the juvenile is placed on probation does
+44 not involve a dangerous offense as defined in section 13-105.
+45 5. The offense for which the juvenile is placed on probation does
+46 not involve a violation of title 13, chapter 14 or 35.1.
+47 6. Restitution ordered pursuant to section 8-344 has been made.
+-11-
+
+House Amendments to H.B. 2671
+1 C. If a juvenile is adjudicated as a first time felony juvenile
+2 offender, the court shall provide the following written notice to the
+3 juvenile:
+4 This is your first felony offense. If you commit
+5 another felony offense and you are fourteen years of age or
+6 older, any of the following could happen to you:
+7 1. You could be tried as an adult in adult criminal
+8 court.
+9 2. You could be committed to the department of juvenile
+10 corrections.
+11 3. You could be placed on juvenile intensive probation,
+12 which could include incarceration in a juvenile detention
+13 center.
+14 D. If a juvenile is fourteen years of age or older and is
+15 adjudicated as a repeat felony juvenile offender, unless the court
+16 determines based on the severity of the offense and a risk assessment that
+17 juvenile intensive probation services are not required, the juvenile court
+18 shall place the juvenile on juvenile intensive probation, which may
+19 include incarceration in a juvenile detention center, or may commit the
+20 juvenile to the department of juvenile corrections pursuant to subsection
+21 A, paragraph 1, subdivision (e) of this section.
+22 E. If the juvenile is adjudicated as a repeat felony juvenile
+23 offender, the court shall provide the following written notice to the
+24 juvenile:
+25 You are now a repeat felony offender. This means:
+26 1. You will be tried as an adult in adult criminal
+27 court if you commit another felony offense and you are fifteen
+28 years of age or older.
+29 2. You could be tried as an adult in adult criminal
+30 court if you commit another felony offense when you are at
+31 least fourteen years of age.
+32 3. You could be incarcerated in the state department of
+33 corrections if you are convicted as an adult in adult criminal
+34 court.
+35 F. The failure or inability of the court to provide the notices
+36 required under subsections C and E of this section does not preclude the
+37 use of the prior adjudications for any purpose otherwise allowed.
+38 G. After considering the length of stay guidelines developed
+39 pursuant to section 41-2816, subsection C, the court may set forth in the
+40 order of commitment the minimum period during which the juvenile shall
+41 remain in secure care while in the custody of the department of juvenile
+42 corrections. When the court awards a juvenile to the department of
+43 juvenile corrections or an institution or agency, it shall transmit with
+44 the order of commitment copies of a diagnostic psychological evaluation
+45 and educational assessment if one has been administered, copies of the
+46 case report, all other psychological and medical reports, restitution
+47 orders, any request for postadjudication notice that has been submitted by
+-12-
+
+House Amendments to H.B. 2671
+1 a victim and any other documents or records pertaining to the case
+2 requested by the department of juvenile corrections or an institution or
+3 agency. The department shall not release a juvenile from secure care
+4 before the juvenile completes the length of stay determined by the court
+5 in the commitment order unless the county attorney in the county from
+6 which the juvenile was committed requests the committing court to reduce
+7 the length of stay. The department may temporarily escort the juvenile
+8 from secure care pursuant to section 41-2804, may release the juvenile
+9 from secure care without a further court order after the juvenile
+10 completes the length of stay determined by the court or may retain the
+11 juvenile in secure care for any period subsequent to the completion of the
+12 length of stay in accordance with the law.
+13 H. Written notice of the release of any juvenile pursuant to
+14 subsection G of this section shall be made to any victim requesting
+15 notice, the juvenile court that committed the juvenile and the county
+16 attorney of the county from which the juvenile was committed.
+17 I. Notwithstanding any law to the contrary, if a person is under
+18 the supervision of the court as an adjudicated delinquent juvenile at the
+19 time the person reaches eighteen years of age, treatment services may be
+20 provided until the person reaches twenty-one years of age if the court,
+21 the person and the state agree to the provision of the treatment and a
+22 motion to transfer the person pursuant to section [8-327] [13-501] has not
+23 been filed or has been withdrawn. The court may terminate the provision
+24 of treatment services after the person reaches eighteen years of age if
+25 the court determines that any of the following applies:
+26 1. The person is not progressing toward treatment goals.
+27 2. The person terminates treatment.
+28 3. The person commits a new offense after reaching eighteen years
+29 of age.
+30 4. Continued treatment is not required or is not in the best
+31 interests of the state or the person.
+32 J. On the request of a victim of an act that may have involved
+33 significant exposure as defined in section 13-1415 or that if committed by
+34 an adult would be a sexual offense, the prosecuting attorney shall
+35 petition the adjudicating court to require that the juvenile be tested for
+36 the presence of the human immunodeficiency virus. If the victim is a
+37 minor the prosecuting attorney shall file this petition at the request of
+38 the victim's parent or guardian. If the act committed against a victim is
+39 an act that if committed by an adult would be a sexual offense or the
+40 court determines that sufficient evidence exists to indicate that
+41 significant exposure occurred, it shall order the department of juvenile
+42 corrections or the department of health services to test the juvenile
+43 pursuant to section 13-1415. Notwithstanding any law to the contrary, the
+44 department of juvenile corrections and the department of health services
+45 shall release the test results only to the victim, the delinquent
+46 juvenile, the delinquent juvenile's parent or guardian and a minor
+-13-
+
+House Amendments to H.B. 2671
+1 victim's parent or guardian and shall counsel them regarding the meaning
+2 and health implications of the results.
+3 K. If a juvenile has been adjudicated delinquent for an offense
+4 that if committed by an adult would be an offense listed in section
+5 41-1750, subsection C, the court shall provide the department of public
+6 safety Arizona automated fingerprint identification system established in
+7 section 41-2411 with the juvenile's ten-print fingerprints, personal
+8 identification data and other pertinent information. If a juvenile has
+9 been committed to the department of juvenile corrections the department
+10 shall provide the fingerprints and information required by this subsection
+11 to the Arizona automated fingerprint identification system. If the
+12 juvenile's fingerprints and information have been previously submitted to
+13 the Arizona automated fingerprint identification system[,] the information
+14 is not required to be resubmitted.
+15 L. Access to fingerprint records submitted pursuant to subsection K
+16 of this section shall be limited to the administration of criminal justice
+17 as defined in section 41-1750. Dissemination of fingerprint information
+18 shall be limited to the name of the juvenile, juvenile case number, date
+19 of adjudication and court of adjudication.
+20 M. If a juvenile is adjudicated delinquent for an offense that if
+21 committed by an adult would be a misdemeanor, the court may prohibit the
+22 juvenile from carrying or possessing a firearm while the juvenile is under
+23 the jurisdiction of the department of juvenile corrections or the juvenile
+24 court.
+25 N. If a juvenile is adjudicated delinquent for a violation of
+26 section 13-1602, subsection A, paragraph 5, the court shall order the
+27 juvenile to pay a fine of at least $300 but not more than $1,000. Any
+28 restitution ordered shall be paid in accordance with section 13-809,
+29 subsection A. The court may order the juvenile to perform community
+30 restitution in lieu of the payment for all or part of the fine if it is in
+31 the best interests of the juvenile. The court shall credit community
+32 restitution performed at a rate that is equal to the minimum wage
+33 prescribed by section 23-363, subsections A and B, rounded up to the
+34 nearest dollar. If the juvenile is convicted of a second or subsequent
+35 violation of section 13-1602, subsection A, paragraph 5 and is ordered to
+36 perform community restitution, the court may order the parent or guardian
+37 of the juvenile to assist the juvenile in the performance of the community
+38 restitution if both of the following apply:
+39 1. The parent or guardian had knowledge that the juvenile intended
+40 to engage in or was engaging in the conduct that gave rise to the
+41 violation.
+42 2. The parent or guardian knowingly provided the juvenile with the
+43 means to engage in the conduct that gave rise to the violation.
+44 O. If a juvenile is adjudicated delinquent for an offense involving
+45 the purchase, possession or consumption of spirituous liquor or a
+46 violation of title 13, chapter 34 and is placed on juvenile probation, the
+-14-
+
+House Amendments to H.B. 2671
+1 court may order the juvenile to submit to random drug and alcohol testing
+2 at least two times per week as a condition of probation.
+3 P. If jurisdiction of the juvenile court is retained pursuant to
+4 section 8-202, subsection H, the court shall order continued probation
+5 supervision and treatment services until a child who has been adjudicated
+6 a delinquent juvenile reaches nineteen years of age or until otherwise
+7 terminated by the court. The court may terminate continued probation
+8 supervision or treatment services before the child's nineteenth birthday
+9 if the court determines that continued probation supervision or treatment
+10 is not required or is not in the best interests of the juvenile or the
+11 state or the juvenile commits a criminal offense after reaching eighteen
+12 years of age.
+13 Q. For the purposes of this section:
+14 1. "First time felony juvenile offender" means a juvenile who is
+15 adjudicated delinquent for an offense that would be a felony offense if
+16 committed by an adult.
+17 2. "Repeat felony juvenile offender" means a juvenile to whom both
+18 of the following apply:
+19 (a) Is adjudicated delinquent for an offense that would be a felony
+20 offense if committed by an adult.
+21 (b) Previously has been adjudicated a first time felony juvenile
+22 offender.
+23 3. "Sexual offense" means oral sexual contact, sexual contact or
+24 sexual intercourse as defined in section 13-1401.>>
+25 Sec. 6. Section 13-501, Arizona Revised Statutes, is amended to
+26 read:
+27 13-501. Persons under eighteen years of age; felony charging;
+28 definitions
+29 A. The county attorney shall bring a criminal prosecution against a
+30 juvenile in the same manner as an adult if the juvenile is fifteen,
+31 sixteen or seventeen years of age at the time the alleged offense is
+32 committed and the juvenile is accused of any of the following offenses:
+33 1. First degree murder in violation of section 13-1105.
+34 2. Second degree murder in violation of section 13-1104.
+35 3. Forcible sexual assault in violation of section 13-1406.
+36 4. Armed robbery in violation of section 13-1904.
+37 5. Any other violent felony offense.
+38 6. Any felony offense committed by a chronic felony offender.
+39 7. Any offense that is properly joined to an offense listed in this
+40 subsection.
+41 B. Except as provided in subsection A of this section, the county
+42 attorney may bring a criminal prosecution against a juvenile [WHO IS
+43 CHARGED WITH A FELONY OFFENSE] in the same manner as an adult [if the
+44 juvenile is at least fourteen years of age at the time the alleged offense
+45 is committed and the juvenile is accused of any of the following offenses]
+46 [ONLY AFTER A HEARING IS HELD IN JUVENILE COURT IN WHICH THE COURT FINDS
+47 PROBABLE CAUSE EXISTS TO BELIEVE THE OFFENSE WAS COMMITTED BY THE
+-15-
+
+House Amendments to H.B. 2671
+1 JUVENILE, AND THE COURT DETERMINES THAT PUBLIC SAFETY AND THE INTERESTS OF
+2 JUSTICE REQUIRE ADULT PROSECUTION. THE STATE HAS THE BURDEN OF PROVING BY
+3 CLEAR AND CONVINCING EVIDENCE THAT ADULT PROSECUTION IS NECESSARY. IN
+4 MAKING THIS DETERMINATION, THE COURT SHALL CONSIDER THE FOLLOWING
+5 FACTORS]:
+6 [1. A class 1 felony.
+7 2. A class 2 felony.
+8 3. A class 3 felony in violation of any offense in chapters 10
+9 through 17 or chapter 19 or 23 of this title.
+10 4. A class 3, 4, 5 or 6 felony involving a dangerous offense.
+11 5. Any felony offense committed by a chronic felony offender.
+12 6. Any offense that is properly joined to an offense listed in this
+13 subsection.]
+14 [1. THE SERIOUSNESS AND CIRCUMSTANCES OF THE OFFENSE.
+15 2. WHETHER THE OFFENSE INVOLVED THE USE OR THREATENED USE OF A
+16 DEADLY WEAPON.
+17 3. THE JUVENILE'S PRIOR DELINQUENCY HISTORY.
+18 4. THE JUVENILE'S AGE, MATURITY AND MENTAL, EMOTIONAL AND
+19 PSYCHOLOGICAL CONDITION.
+20 5. WHETHER THE JUVENILE HAS PREVIOUSLY PARTICIPATED IN
+21 REHABILITATION PROGRAMS AND THE RESULTS OF THAT PARTICIPATION.
+22 6. WHETHER THE JUVENILE HAS PREVIOUSLY BEEN COMMITTED TO THE
+23 DEPARTMENT OF JUVENILE CORRECTIONS.
+24 7. THE VIEWS OF THE VICTIM OF THE OFFENSE.
+25 8. WHETHER THE JUVENILE COMMITTED THE OFFENSE WHILE PARTICIPATING
+26 IN, ASSISTING, PROMOTING OR FURTHERING THE INTERESTS OF A CRIMINAL STREET
+27 GANG, A CRIMINAL SYNDICATE OR A RACKETEERING ENTERPRISE.
+28 9. WHETHER THE DEGREE OF THE JUVENILE'S PARTICIPATION IN THE
+29 OFFENSE WAS RELATIVELY MINOR BUT NOT SO MINOR AS TO CONSTITUTE A DEFENSE
+30 TO PROSECUTION.
+31 10. THE LIKELIHOOD OF THE JUVENILE'S REASONABLE REHABILITATION
+32 THROUGH AVAILABLE JUVENILE COURT SERVICES.]
+33 C. A criminal prosecution shall be brought against a juvenile in
+34 the same manner as an adult if the juvenile has been accused of a criminal
+35 offense and has a historical prior felony conviction.
+36 D. At the time the county attorney files a complaint or indictment
+37 the county attorney shall file a [WRITTEN STATEMENT OF SPECIFIC FACTS
+38 SUPPORTING ADULT PROSECUTION AND A] notice stating that the juvenile is a
+39 chronic felony offender. Subject to subsection E of this section, the
+40 notice shall establish and confer jurisdiction over the juvenile as a
+41 chronic felony offender.
+42 E. On motion of the juvenile the court shall hold a hearing after
+43 arraignment and before trial to determine if a juvenile is a chronic
+44 felony offender. [THE COURT SHALL ISSUE WRITTEN FINDINGS SUPPORTING ITS
+45 DETERMINATION.] At the hearing the state shall prove by a preponderance
+46 of the evidence that the juvenile is a chronic felony offender. If the
+47 court does not find that the juvenile is a chronic felony offender, the
+-16-
+
+House Amendments to H.B. 2671
+1 court shall transfer the juvenile to the juvenile court pursuant to
+2 section 8-302. If the court finds that the juvenile is a chronic felony
+3 offender or if the juvenile does not file a motion to determine if the
+4 juvenile is a chronic felony offender, the criminal prosecution shall
+5 continue.
+6 F. Except as provided in section 13-921, a person who is charged
+7 pursuant to this section shall be sentenced in the criminal court in the
+8 same manner as an adult for any offense for which the person is convicted.
+9 G. Unless otherwise provided by law, nothing in this section shall
+10 be construed as to DOES NOT confer jurisdiction in the juvenile court over
+11 any person who is eighteen years of age or older.
+12 [H. THIS SECTION DOES NOT ELIMINATE JUDICIAL DISCRETION OR DUE
+13 PROCESS PROTECTIONS THAT ARE GUARANTEED BY THE ARIZONA CONSTITUTION.]
+14 [H.] [I.] For the purposes of this section:
+15 1. "Accused" means a juvenile against whom a complaint, information
+16 or indictment is filed.
+17 2. "Chronic felony offender" means[:
+18 (a)] A juvenile who has had two prior and separate adjudications and
+19 dispositions THAT WERE CLASSIFIED AS [ANY FELONY UNDER CHAPTER 14 OF THIS
+20 TITLE OR] A CLASS 1, 2 OR 3 FELONY for conduct that would constitute a
+21 historical prior felony conviction if the juvenile had been tried as an
+22 adult.
+23 [(b) A JUVENILE WHO HAS BEEN COMMITTED TO THE DEPARTMENT OF
+24 JUVENILE CORRECTIONS AND WHO HAS HAD TWO PRIOR AND SEPARATE FELONY
+25 ADJUDICATIONS AND DISPOSITIONS FOR CONDUCT THAT WOULD CONSTITUTE A
+26 HISTORICAL PRIOR FELONY CONVICTION IF THE JUVENILE HAD BEEN TRIED AS AN
+27 ADULT.]
+28 3. "Forcible sexual assault" means sexual assault pursuant to
+29 section 13-1406 that is committed without consent as defined in section
+30 13-1401, SUBSECTION A, paragraph 7, subdivision (a).
+31 4. "Other violent felony offense" means:
+32 (a) Aggravated assault pursuant to section 13-1204, subsection A,
+33 paragraph 1.
+34 (b) Aggravated assault pursuant to section 13-1204, subsection A,
+35 paragraph 2 involving the use of a deadly weapon.
+36 (c) Drive by shooting pursuant to section 13-1209.
+37 (d) Discharging a firearm at a structure pursuant to section
+38 13-1211.
+39 <<Sec. 7. Section 13-610, Arizona Revised Statutes, is amended to
+40 read:
+41 13-610. DNA testing
+42 A. Within thirty days after a person is sentenced to the state
+43 department of corrections or a person who is accepted under the interstate
+44 compact for the supervision of parolees and probationers arrives in this
+45 state, the state department of corrections shall secure a sufficient
+46 sample of blood or other bodily substances for deoxyribonucleic acid
+47 testing and extraction from the person if the person was convicted of an
+-17-
+
+House Amendments to H.B. 2671
+1 offense listed in this section and was sentenced to a term of imprisonment
+2 or was convicted of any offense that was committed in another jurisdiction
+3 that if committed in this state would be a violation of any offense listed
+4 in this section and the person is under the supervision of the state
+5 department of corrections. The state department of corrections shall
+6 transmit the sample to the department of public safety.
+7 B. Within thirty days after a person is placed on probation and
+8 sentenced to a term of incarceration in a county jail detention facility
+9 or is detained in a county juvenile detention facility, the county
+10 detention facility shall secure a sufficient sample of blood or other
+11 bodily substances for deoxyribonucleic acid testing and extraction from
+12 the person if the person was convicted of or adjudicated delinquent for an
+13 offense listed in this section. The county detention facility shall
+14 transmit the sample to the department of public safety.
+15 C. Within thirty days after a person is convicted and placed on
+16 probation without a term of incarceration or adjudicated delinquent and
+17 placed on probation, the county probation department shall secure a
+18 sufficient sample of blood or other bodily substances for deoxyribonucleic
+19 acid testing and extraction from the person if the person was convicted of
+20 or adjudicated delinquent for an offense listed in this section. The
+21 county probation department shall transmit the sample to the department of
+22 public safety.
+23 D. Within thirty days after the arrival of a person who is accepted
+24 under the interstate compact for the supervision of parolees and
+25 probationers and who is under the supervision of a county probation
+26 department, the county probation department shall secure a sufficient
+27 sample of blood or other bodily substances for deoxyribonucleic acid
+28 testing and extraction from the person if the person was convicted of an
+29 offense that was committed in another jurisdiction that if committed in
+30 this state would be a violation of any offense listed in this section and
+31 was sentenced to a term of probation. The county probation department
+32 shall transmit the sample to the department of public safety.
+33 E. Within thirty days after a juvenile is committed to the
+34 department of juvenile corrections, the department of juvenile corrections
+35 shall secure a sufficient sample of blood or other bodily substances for
+36 deoxyribonucleic acid testing and extraction from the youth if the youth
+37 was adjudicated delinquent for an offense listed in this section and was
+38 committed to a secure care facility. The department of juvenile
+39 corrections shall transmit the sample to the department of public safety.
+40 F. Within thirty days after the arrival in this state of a juvenile
+41 who is accepted by the department of juvenile corrections pursuant to the
+42 interstate compact on juveniles and who was adjudicated for an offense
+43 that was committed in another jurisdiction that if committed in this state
+44 would be a violation of any offense listed in this section, the compact
+45 administrator shall request that the sending state impose as a condition
+46 of supervision that the juvenile submit a sufficient sample of blood or
+47 other bodily substances for deoxyribonucleic acid testing. If the sending
+-18-
+
+House Amendments to H.B. 2671
+1 state does not impose that condition, the department of juvenile
+2 corrections shall request a sufficient sample of blood or other bodily
+3 substances for deoxyribonucleic acid testing within thirty days after the
+4 juvenile's arrival in this state. The department of juvenile corrections
+5 shall transmit the sample to the department of public safety.
+6 G. Notwithstanding subsections A through F, K, L and O of this
+7 section, the agency that is responsible for securing a sample pursuant to
+8 this section shall not secure the sample if the scientific criminal
+9 analysis section of the department of public safety has previously
+10 received and is maintaining a sample sufficient for deoxyribonucleic acid
+11 testing.
+12 H. The department of public safety shall do all of the following:
+13 1. Conduct or oversee through mutual agreement an analysis of the
+14 samples that it receives pursuant to subsections K, L and O of this
+15 section.
+16 2. Make and maintain a report of the results of each
+17 deoxyribonucleic acid analysis.
+18 3. Maintain samples of blood and other bodily substances for at
+19 least thirty-five years.
+20 I. Any sample and the result of any test that is obtained pursuant
+21 to this section or section 8-238 may be used only as follows:
+22 1. For law enforcement identification purposes.
+23 2. In a proceeding in a criminal prosecution or juvenile
+24 adjudication.
+25 3. In a proceeding under title 36, chapter 37.
+26 J. If the conviction or adjudication of a person who is subject to
+27 this section or section 8-238 is overturned on appeal or postconviction
+28 relief and a final mandate has been issued, on petition of the person to
+29 the superior court in the county in which the conviction occurred, the
+30 court shall order that the person's deoxyribonucleic acid profile
+31 resulting from that conviction or adjudication be expunged from the
+32 Arizona deoxyribonucleic acid identification system established by section
+33 41-2418 unless the person has been convicted or adjudicated delinquent of
+34 another offense that would require the person to submit to
+35 deoxyribonucleic acid testing pursuant to this section.
+36 K. If a person is arrested for any offense listed in subsection O,
+37 paragraph 3 of this section and is transferred by the arresting authority
+38 to a state, county or local law enforcement agency or jail, the arresting
+39 authority or its designee shall secure a sufficient sample of buccal cells
+40 or other bodily substances for deoxyribonucleic acid testing and
+41 extraction from the person for the purpose of determining identification
+42 characteristics. The arresting authority or its designee shall transmit
+43 the sample to the department of public safety.
+44 L. A person who is charged with a felony or misdemeanor offense
+45 listed in subsection O, paragraph 3 of this section and who is summoned to
+46 appear in court for an initial appearance shall report within five days of
+47 release on bail or on the person's own recognizance to the law enforcement
+-19-
+
+House Amendments to H.B. 2671
+1 agency that investigated the person or its designee and submit a
+2 sufficient sample of buccal cells or other bodily substances for
+3 deoxyribonucleic acid testing and extraction. The arresting authority or
+4 its designee shall transmit the sample to the department of public safety.
+5 M. A person who is subject to subsection K or L of this section or
+6 section 8-238 may petition the superior court in the county in which the
+7 arrest occurred or the criminal charge was filed to order that the
+8 person's deoxyribonucleic acid profile and sample be expunged from the
+9 Arizona deoxyribonucleic acid identification system, unless the person has
+10 been arrested, charged with or convicted of or adjudicated delinquent [of]
+11 [FOR] another offense that would require the person to submit to
+12 deoxyribonucleic acid testing pursuant to this section, if any of the
+13 following applies:
+14 1. The criminal charges are not filed within the applicable period
+15 prescribed by section 13-107.
+16 2. The criminal charges are dismissed.
+17 3. The person is acquitted at trial.
+18 N. If any sample that is submitted to the department of public
+19 safety under this section or section 8-238 is found to be unacceptable for
+20 analysis and use or cannot be used by the department, the department shall
+21 require that another sample of blood or other bodily substances be secured
+22 pursuant to this section.
+23 O. This section applies to persons who are:
+24 1. Convicted of any felony offense.
+25 2. Adjudicated delinquent for any of the following offenses:
+26 (a) A violation or an attempt to violate any offense in chapter 11
+27 of this title, any felony offense in chapter 14 or 35.1 of this title or
+28 section 13-1507, 13-1508 or 13-3608.
+29 (b) Any offense for which a person is required to register pursuant
+30 to section 13-3821.
+31 (c) A violation of any felony offense in chapter 34 of this title
+32 that may be prosecuted pursuant to section 13-501, subsection B[,
+33 paragraph 2].
+34 (d) A violation of any [felony] offense that is listed in section
+35 13-501[, SUBSECTION A OR ANY FELONY OFFENSE THAT MAY BE PROSECUTED
+36 PURSUANT TO SECTION 13-501, SUBSECTION B].
+37 3. Arrested for a violation of any offense in chapter 11 of this
+38 title, a violation of section 13-1402, 13-1403, 13-1404, 13-1405, 13-1406,
+39 13-1410, 13-1411, 13-1417, 13-1507, 13-1508, 13-3208, 13-3214, 13-3555 or
+40 13-3608 or a violation of any serious offense as defined in section 13-706
+41 that is a dangerous offense.>>
+42 <<Sec. 8. Section 13-1206, Arizona Revised Statutes, is amended to
+43 read:
+44 13-1206. Dangerous or deadly assault by prisoner or juvenile;
+45 classification
+46 A person, while in the custody of the state department of
+47 corrections, the department of juvenile corrections, a law enforcement
+-20-
+
+House Amendments to H.B. 2671
+1 agency or a county or city jail, who commits an assault involving the
+2 discharge, use or threatening exhibition of a deadly weapon or dangerous
+3 instrument or who intentionally or knowingly inflicts serious physical
+4 injury [upon] [ON] another person is guilty of a class 2 felony. If the
+5 person is an adult or is a juvenile convicted as an adult pursuant to
+6 section [8-327 or] 13-501 or the rules of procedure for the juvenile
+7 court, the person [shall] [IS] not [be] eligible for suspension of
+8 sentence, probation, pardon or release from confinement on any basis until
+9 the sentence imposed by the court has been served or commuted. A sentence
+10 imposed pursuant to this section shall be consecutive to any other
+11 sentence presently being served by the convicted person.>>
+12 <<Sec. 9. Section 13-3967, Arizona Revised Statutes, is amended to
+13 read:
+14 13-3967. Release on bailable offenses before trial;
+15 definition
+16 A. At his appearance before a judicial officer, any person who is
+17 charged with a public offense that is bailable as a matter of right shall
+18 be ordered released pending trial on his own recognizance or on the
+19 execution of bail in an amount specified by the judicial officer.
+20 B. In determining the method of release or the amount of bail, the
+21 judicial officer, on the basis of available information, shall take into
+22 account all of the following:
+23 1. The views of the victim.
+24 2. The nature and circumstances of the offense charged.
+25 3. Whether the accused has a prior arrest or conviction for a
+26 serious offense or violent or aggravated felony as defined in section
+27 13-706 or an offense in another state that would be a serious offense or
+28 violent or aggravated felony as defined in section 13-706 if committed in
+29 this state.
+30 4. Evidence that the accused poses a danger to others in the
+31 community.
+32 5. The results of a risk or lethality assessment in a domestic
+33 violence charge that is presented to the court.
+34 6. The weight of evidence against the accused.
+35 7. The accused's family ties, employment, financial resources,
+36 character and mental condition.
+37 8. The results of any drug test submitted to the court.
+38 9. Whether the accused is using any substance if its possession or
+39 use is illegal pursuant to chapter 34 of this title.
+40 10. Whether the accused violated section 13-3407, subsection A,
+41 paragraph 2, 3, 4 or 7 involving methamphetamine or section 13-3407.01.
+42 11. The length of residence in the community.
+43 12. The accused's record of arrests and convictions.
+44 13. The accused's record of appearance at court proceedings or of
+45 flight to avoid prosecution or failure to appear at court proceedings.
+46 14. Whether the accused has entered or remained in the United
+47 States illegally.
+-21-
+
+House Amendments to H.B. 2671
+1 15. Whether the accused's residence is in this state, in another
+2 state or outside the United States.
+3 C. If a judicial officer orders the release of a defendant who is
+4 charged with a felony either on his own recognizance or on bail, the
+5 judicial officer shall condition the defendant's release on the
+6 defendant's good behavior while so released. On a showing of probable
+7 cause that the defendant committed any offense during the period of
+8 release, a judicial officer may revoke the defendant's release pursuant to
+9 section 13-3968.
+10 D. After providing notice to the victim pursuant to section
+11 13-4406, a judicial officer may impose any of the following conditions on
+12 a person who is released on his own recognizance or on bail:
+13 1. Place the person in the custody of a designated person or
+14 organization agreeing to supervise him.
+15 2. Place restrictions on the person's travel, associates or place
+16 of abode during the period of release.
+17 3. Require the deposit with the clerk of the court of cash or other
+18 security, such deposit to be returned on the performance of the conditions
+19 of release.
+20 4. Prohibit the person from possessing any deadly weapon or
+21 engaging in certain described activities or indulging in intoxicating
+22 liquors or certain drugs.
+23 5. Require the person to report regularly to and remain under the
+24 supervision of an officer of the court.
+25 6. Impose any other conditions deemed reasonably necessary to
+26 assure appearance as required including a condition requiring that the
+27 person return to custody after specified hours.
+28 E. In addition to any of the conditions a judicial officer may
+29 impose pursuant to subsection D of this section, the judicial officer
+30 shall impose both of the following conditions on a person who is charged
+31 with a felony violation of chapter 14 or 35.1 of this title or section
+32 13-3212 and who is released on his own recognizance or on bail:
+33 1. Electronic monitoring where available.
+34 2. A condition prohibiting the person from having any contact with
+35 the victim.
+36 F. The judicial officer who authorizes the release of the person
+37 charged on his own recognizance or on bail shall do all of the following:
+38 1. Issue an appropriate order containing statements of the
+39 conditions imposed.
+40 2. Inform the person of the penalties that apply to any violation
+41 of the conditions of release.
+42 3. Advise the person that a warrant for his arrest may be issued
+43 immediately on any violation of the conditions of release, including the
+44 failure to submit to deoxyribonucleic acid testing ordered pursuant to
+45 paragraph 4 of this subsection.
+46 4. If the person is charged with a felony or misdemeanor offense
+47 listed in section 13-610, subsection O, paragraph 3 and is summoned to
+-22-
+
+House Amendments to H.B. 2671
+1 appear, order the person to report within five days to the law enforcement
+2 agency that arrested the person or to the agency's designee and submit a
+3 sufficient sample of buccal cells or other bodily substances for
+4 deoxyribonucleic acid testing and extraction. If a person does not comply
+5 with an order issued pursuant to this paragraph, the court shall revoke
+6 the person's release.
+7 G. At any time after providing notice to the victim pursuant to
+8 section 13-4406, the judicial officer who orders the release of a person
+9 on any condition specified in this section or the court in which a
+10 prosecution is pending may amend the order to employ additional or
+11 different conditions of release, including either an increase or reduction
+12 in the amount of bail. On application, the defendant shall be entitled to
+13 have the conditions of release reviewed by the judicial officer who
+14 imposed them or by the court in which the prosecution is pending.
+15 Reasonable notice of the application shall be given to the county attorney
+16 and the victim.
+17 H. Any information that is stated or offered in connection with any
+18 order pursuant to this section need not conform to the rules pertaining to
+19 admissibility of evidence in a court of law.
+20 I. This section does not prevent the disposition of any case or
+21 class of cases by forfeiture of bail or collateral security if such
+22 disposition is authorized by the court.
+23 J. A judicial officer who orders the release of a juvenile who is
+24 enrolled in a school and who has been transferred to the criminal division
+25 of the superior court pursuant to section [8-327] [13-501] or who has been
+26 charged as an adult pursuant to section 13-501 shall notify the
+27 appropriate school on the release of the juvenile from custody.
+28 K. For the purposes of this section and section 13-3968, "judicial
+29 officer" means any person or court authorized pursuant to the constitution
+30 or laws of this state to bail or otherwise release a person before trial
+31 or sentencing or pending appeal.>>
+32 <<Sec. 10. Section 36-520, Arizona Revised Statutes, is amended to
+33 read:
+34 36-520. Application for evaluation; definition
+35 A. Any responsible individual may apply for a court-ordered
+36 evaluation of a person who is alleged to be, as a result of a mental
+37 disorder, a danger to self or to others or a person with a persistent or
+38 acute disability or a grave disability and who is unwilling or unable to
+39 undergo a voluntary evaluation. The application shall be made in the
+40 prescribed form and manner as adopted by the director.
+41 B. The application for evaluation shall include the following, if
+42 known:
+43 1. The name and address of the proposed patient for whom evaluation
+44 is applied.
+45 2. The age, date of birth, sex, race, marital status, occupation,
+46 social security number, present location, dates and places of previous
+47 hospitalizations, names and addresses of the guardian, agent under a
+-23-
+
+House Amendments to H.B. 2671
+1 health care power of attorney or mental health care power of attorney,
+2 spouse, next of kin and significant other persons and other data that the
+3 director may require on the form to whatever extent that this data is
+4 known and is applicable to the proposed patient.
+5 3. The name, address and relationship of the person who is applying
+6 for the evaluation.
+7 4. A statement that the proposed patient is exhibiting behaviors
+8 that may be consistent with a mental disorder and is believed to be, as a
+9 result of a mental disorder, a danger to self or to others or a patient
+10 with a persistent or acute disability or a grave disability and the facts
+11 on which this statement is based.
+12 5. A statement from the applicant of whether the applicant believes
+13 that the proposed patient is or is not willing or able to undergo
+14 voluntary evaluation and the facts on which this statement is based.
+15 6. A statement of the proposed patient's relevant history of mental
+16 health diagnosis, treatment recommended or provided and compliance with
+17 the treatment recommended or provided.
+18 7. A statement that the applicant believes the proposed patient is
+19 in need of screening, evaluation, supervision, care and treatment and the
+20 facts on which this statement is based.
+21 8. Copies of all documents relating to guardianship or powers of
+22 attorney that allow the guardian or agent to consent to inpatient
+23 psychiatric treatment, which shall be attached to the application if
+24 available at the time of the application.
+25 9. A statement by the applicant of whether the applicant believes
+26 that, without a period of inpatient observation, stabilization and
+27 assessment or emergency inpatient psychiatric hospitalization, the
+28 proposed patient is likely to cause or endure serious physical harm or
+29 injury and the facts supporting that statement.
+30 10. To the extent known, the names and contact information of
+31 persons other than the applicant who have witnessed the behavior exhibited
+32 by the proposed patient on which the application is based. The screening
+33 agency may not deny or refuse to process an application because no other
+34 witnesses have been identified.
+35 C. The application shall be signed and notarized. For an
+36 application made by a peace officer or a health care professional who is
+37 licensed pursuant to title 32, chapter 13, 15, 17 or 19.1, a copy of the
+38 application that contains the applicant's original signature is
+39 acceptable, does not have to be notarized and may be submitted as the
+40 written application.
+41 D. The screening agency shall offer assistance to the applicant in
+42 preparation of the application. On receipt of the application, the
+43 screening agency shall immediately note on the front of the application
+44 the time and date of receipt, shall log this information in a record of
+45 applications received by the screening agency and shall act as prescribed
+46 in section 36-521 within forty-eight hours after the filing of the
+47 application, excluding weekends and holidays. If the application is not
+-24-
+
+House Amendments to H.B. 2671
+1 acted on within forty-eight hours, excluding weekends and holidays, the
+2 reasons for not acting promptly shall be reviewed by the director of the
+3 screening agency or the director's designee and the reasons shall be
+4 stated in the report required by section 36-521, subsection B.
+5 E. If the applicant for the court-ordered evaluation presents the
+6 person to be evaluated at the screening agency, the agency shall conduct a
+7 prepetition screening examination. Except in the case of an emergency
+8 evaluation, the person to be evaluated shall not be detained or forced to
+9 undergo prepetition screening against the person's will.
+10 F. In the course of conducting a prepetition screening, the
+11 screening agency shall accept and consider information relevant to the
+12 present behavior and past behavioral health history of the proposed
+13 patient from persons who have a significant relationship with the proposed
+14 patient, including family members and guardians.
+15 G. If the applicant for the court-ordered evaluation does not
+16 present the person to be evaluated at the screening agency, the agency
+17 shall conduct the prepetition screening at the home of the person to be
+18 evaluated or any other place the person to be evaluated is found. If
+19 prepetition screening is not possible, the screening agency shall proceed
+20 as prescribed in section 36-521, subsection B.
+21 H. If a person is being treated by prayer or spiritual means alone
+22 in accordance with the tenets and practices of a recognized church or
+23 religious denomination by a duly accredited practitioner of that church or
+24 denomination, the person may not be ordered evaluated, detained or
+25 involuntarily treated unless the court has determined that the person is,
+26 as a result of mental disorder, a danger to others or to self.
+27 I. If the application is not acted on because it has been
+28 determined that the proposed patient does not need an evaluation, the
+29 medical director of the screening agency or the medical director's
+30 designee shall make a written statement of the reasons why the proposed
+31 patient does not need an evaluation and shall retain the application
+32 together with the medical director's statement and any records or reports
+33 concerning prepetition screening required pursuant to section 36-521.
+34 J. If the screening agency determines that the application should
+35 be denied or if the application is accepted but the screening agency
+36 declines to file a petition for court-ordered evaluation, the screening
+37 agency shall comply with the requirements of section 36-521, subsection C.
+38 If the screening of the proposed patient took place in a facility operated
+39 by the screening agency, the screening agency shall attempt to notify the
+40 applicant that the screening agency intends to release the proposed
+41 patient. The screening agency shall document the time and method of the
+42 notification or an unsuccessful attempt to notify the applicant. If
+43 requested by the applicant, the medical director of the screening agency
+44 or the medical director's designee shall provide the reason for the denial
+45 of the application or the decision not to file a petition for
+46 court-ordered evaluation if either:
+47 1. The disclosure is not opposed by the person who was screened.
+-25-
+
+House Amendments to H.B. 2671
+1 2. The person who was screened is deemed to lack capacity to make
+2 the decision to allow the disclosure and the disclosure is deemed to be in
+3 the person's best interest.
+4 K. For the purposes of this section, "person" includes a person
+5 who:
+6 1. Is under eighteen years of age.
+7 2. Has been transferred to the criminal division of the superior
+8 court pursuant to section [8-327] [13-501] or who has been charged with an
+9 offense pursuant to section 13-501.
+10 3. Is under the supervision of an adult probation department.>>
+11 Enroll and engross to conform
+12 Amend title to conform
+CONSUELO HERNANDEZ
+2671FloorHERNANDEZ C.docx
+03/06/2026
+4:37 PM
+C: JV
+130AOLNWY
+-26-

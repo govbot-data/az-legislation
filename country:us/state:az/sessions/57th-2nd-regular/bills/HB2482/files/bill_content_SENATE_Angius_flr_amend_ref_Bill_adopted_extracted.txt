@@ -1,0 +1,508 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Angius flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2482
+Angius Floor Amendment
+Reference to: House engrossed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Specifies that the $1,000,000 limitation on job-order-contracting for construction services applies
+only to projects that receive monies from the Building Renewal Grant Fund (BRG Fund) and are
+not an emergency, as determined by the School Facilities Division (Division).
+2. Stipulates that, before the Division formally approves a project and on request by a school district,
+Division Staff must determine whether a project submitted for funding from the BRG Fund is an
+emergency within five days of receiving the request.
+3. Requires the Division to determine that a project is an emergency if the school district
+demonstrates a serious need for materials, services, construction or expenses that exceeds the
+school district's adopted budget for the current fiscal year and seriously threatens the functioning
+of the school district, the preservation of property of public health, welfare or safety.
+4. Specifies that the Division may not approve funding from the BRG Fund for a project that does
+not serve an academic purpose.
+5. Makes technical and conforming changes.
+Amendment explanation prepared by Mason Holler
+04/13/2026
+
+Fifty-seventh Legislature Angius
+Second Regular Session H.B. 2482
+ANGIUS FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2482
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 41-5702, Arizona Revised Statutes, is amended to
+3 read:
+4 41-5702. Powers and duties; staffing; reporting requirements
+5 A. The division shall:
+6 1. Assess school facilities and equipment deficiencies and approve
+7 the distribution of grants as appropriate.
+8 2. Maintain a database of school facilities to allow for the
+9 administration of the new school facilities formula and the building
+10 renewal grant fund. The facilities listed in the database must include
+11 all buildings that are owned by school districts. The division shall
+12 ensure that the database is updated on at least an annual basis. Each
+13 school district shall report to the division not later than September 1 of
+14 each year information as required by the division to administer the
+15 building renewal grant fund and by the school facilities oversight board
+16 to compute new school facilities formula distributions, including the
+17 nature and cost of major repairs, renovations or physical improvements to
+18 or replacement of building systems or equipment that were made in the
+19 previous year and that were paid for either with local monies or monies
+20 provided from the building renewal grant fund. Each school district shall
+21 report any school or school buildings that have been closed, that are
+22 vacant or partially used pursuant to section 15-119 and that have been
+23 leased to another entity or that operate as a charter school. The
+24 division shall develop guidelines and definitions for the reporting
+25 prescribed in this paragraph and may review or audit the information, or
+26 both, to confirm the information submitted by a school district.
+27 Notwithstanding any other provision of this chapter, if a school district
+28 converts space that is listed in the database maintained pursuant to this
+29 paragraph to space that will be used for administrative purposes, the
+
+Senate Amendments to H.B. 2482
+1 school district is responsible for any costs associated with converting,
+2 maintaining and replacing that space. If a building is significantly
+3 upgraded or remodeled, the division shall adjust the age of that school
+4 facility in the database as follows:
+5 (a) Determine the building capacity value as follows:
+6 (i) Multiply the student capacity of the building by the per pupil
+7 square foot capacity established by section 41-5741.
+8 (ii) Multiply the product determined in item (i) of this
+9 subdivision by the cost per square foot established by section 41-5741.
+10 (b) Divide the cost of the renovation by the building capacity
+11 value determined in subdivision (a) of this paragraph.
+12 (c) Multiply the quotient determined in subdivision (b) of this
+13 paragraph by the currently listed age of the building in the database.
+14 (d) Subtract the product determined in subdivision (c) of this
+15 paragraph from the currently listed age of the building in the database,
+16 rounded to the nearest whole number. If the result is a negative number,
+17 use zero.
+18 3. Inspect, contract with a third party to inspect or certify
+19 school district self-inspections of school buildings at least once every
+20 five years to ensure compliance with the building adequacy standards
+21 prescribed in section 41-5711, the accuracy of the reporting of vacant and
+22 partially used buildings pursuant to this subsection and routine
+23 preventive maintenance guidelines as prescribed in this section with
+24 respect to constructing new buildings and maintaining existing buildings.
+25 The division shall randomly select twenty school districts every thirty
+26 months and provide for them to be inspected pursuant to this paragraph.
+27 4. Develop prototypical elementary and high school designs. The
+28 division shall review the design differences between the schools with the
+29 highest academic productivity scores and the schools with the lowest
+30 academic productivity scores. The division shall also review the results
+31 of a valid and reliable survey of parent quality rating in the highest
+32 performing schools and the lowest performing schools in this state. The
+33 survey of parent quality rating shall be administered by the department of
+34 education. The division shall consider the design elements of the schools
+35 with the highest academic productivity scores and parent quality ratings
+36 in the development of elementary and high school designs. The division
+37 shall develop separate school designs for elementary, middle and high
+38 schools with varying pupil capacities.
+39 5. Develop application forms, reporting forms and procedures to
+40 carry out the requirements of this article, including developing and
+41 implementing policies and procedures to:
+42 (a) Ensure that the division and the school facilities oversight
+43 board, as applicable, notify school districts in a uniform manner of the
+44 services and funding available for school districts from the board or the
+45 division for facility construction, renovation and repair projects. The
+46 policies and procedures shall require the division and the board to
+47 provide at least one annual communication to school districts in a manner
+-2-
+
+Senate Amendments to H.B. 2482
+1 prescribed by the division and shall require each school district to
+2 develop and maintain a list of persons who are responsible for facilities
+3 management at that school district.
+4 (b) Establish a project eligibility assessment for all projects
+5 submitted for FUNDING FROM THE building renewal grant funding FUND
+6 ESTABLISHED BY SECTION 41-5731 or THE emergency deficiencies correction
+7 funding FUND ESTABLISHED BY SECTION 41-5721, including establishing
+8 standardized criteria for project eligibility. NOTWITHSTANDING SECTION
+9 15-213, SUBSECTION M, CHAPTER 23 OF THIS TITLE AND THE RULES ADOPTED BY
+10 THE STATE BOARD OF EDUCATION PURSUANT TO SECTION 15-213, SUBSECTION A, THE
+11 MAXIMUM DOLLAR AMOUNT OF AN INDIVIDUAL JOB ORDER FOR JOB-ORDER-CONTRACTING
+12 FOR CONSTRUCTION SERVICES IS $1,000,000 FOR ANY PROJECT THAT RECEIVES
+13 MONIES FROM THE BUILDING RENEWAL GRANT FUND ESTABLISHED BY SECTION 41-5731
+14 [AND THAT IS NOT AN EMERGENCY, AS DETERMINED BY THE DIVISION]. Before the
+15 division formally approves a project, the staff of the division[:
+16 (i)] May review the costs and scope of the proposed project with
+17 persons and entities that have submitted bids on the project[.] [AND]
+18 [(ii)] SHALL VERIFY THAT REQUIREMENTS ARE NOT ARTIFICIALLY DIVIDED
+19 OR FRAGMENTED IN ORDER TO CONSTITUTE A JOB ORDER THAT SATISFIES THE
+20 REQUIREMENTS OF THIS SUBDIVISION.
+21 [(iii) ON REQUEST BY A SCHOOL DISTRICT, SHALL DETERMINE WHETHER A
+22 PROJECT SUBMITTED FOR FUNDING FROM THE BUILDING RENEWAL GRANT FUND IS AN
+23 EMERGENCY NOT LATER THAN FIVE BUSINESS DAYS AFTER THE DATE ON WHICH THE
+24 DIVISION RECEIVES THE REQUEST. THE DIVISION SHALL DETERMINE THAT A
+25 PROJECT IS AN EMERGENCY IF THE SCHOOL DISTRICT DEMONSTRATES A SERIOUS NEED
+26 FOR MATERIALS, SERVICES OR CONSTRUCTION OR EXPENSES THAT EXCEEDS THE
+27 SCHOOL DISTRICT'S ADOPTED BUDGET FOR THE CURRENT FISCAL YEAR AND THAT
+28 SERIOUSLY THREATENS THE FUNCTIONING OF THE SCHOOL DISTRICT, THE
+29 PRESERVATION OF PROPERTY OR PUBLIC HEALTH, WELFARE OR SAFETY. THIS ITEM
+30 DOES NOT AUTHORIZE THE DIVISION TO APPROVE FUNDING FROM THE BUILDING
+31 RENEWAL GRANT FUND FOR A PROJECT THAT DOES NOT SERVE AN ACADEMIC PURPOSE
+32 AS REQUIRED BY SECTION 41-5731, SUBSECTION I.]
+33 (c) Ensure that the division and the school facilities oversight
+34 board maintain standardized documentation of all projects submitted to the
+35 board and the division for consideration to receive services or a
+36 financial award from the board or the division. The board and the
+37 division shall maintain standardized documentation of any project awarded
+38 monies by the board or the division, including records of payments to
+39 school districts in a manner prescribed by the division. The standardized
+40 documentation shall include the following as part of the eligibility
+41 determination criteria:
+42 (i) Whether the problem that the proposed project intends to
+43 address caused the building or facility to fall below the minimum school
+44 facility adequacy guidelines prescribed in section 41-5711.
+45 (ii) Whether the school district performed the routine preventive
+46 maintenance required by section 41-5731 on the building or facility.
+-3-
+
+Senate Amendments to H.B. 2482
+1 (d) Require a school district to submit contact information for
+2 each proposed project, including the name, email address and telephone
+3 number of persons who are responsible for facilities management at the
+4 school district.
+5 (e) Require a school district to provide justification for each
+6 proposed project, including all of the following:
+7 (i) The school district's use or planned use of the facility.
+8 (ii) A detailed description of the problem and the school
+9 district's recommended solution.
+10 (iii) Any completed professional study regarding the proposed
+11 project.
+12 (iv) Any citation or report from government entities.
+13 (v) The estimated cost of the proposed project, with documentation.
+14 (vi) The project category.
+15 (vii) A description of any local funding that will be used for the
+16 proposed project.
+17 (viii) Documentation on associated insurance coverage, if
+18 applicable.
+19 (f) Require that an initial application not be considered complete
+20 until all necessary information is submitted.
+21 (g) Allow a school district to submit an incomplete application and
+22 request technical assistance from the staff of the board if the school
+23 district is unable to provide sufficient information in the initial
+24 application.
+25 (h) If applicable, require that a complete application be received
+26 by the board at least fifteen business days before the next regularly
+27 scheduled board meeting in order for the application to be considered at
+28 that meeting. An incomplete application may be considered at that meeting
+29 if both the staff of the board and the superintendent of the school
+30 district deem the project critical.
+31 (i) Allow the staff of the board or the division, as applicable, to
+32 notify a school district in writing before review by the board or division
+33 that the proposed project does not meet eligibility criteria prescribed in
+34 this chapter. The written notification shall include documentation to
+35 support the determination that the proposed project does not meet the
+36 eligibility criteria prescribed in this chapter. The school district may
+37 directly appeal the determination of ineligibility to the director of the
+38 division. The school district may directly appeal the director's
+39 determination of ineligibility to the board.
+40 (j) Prohibit the staff of the board or division from requesting
+41 that a school district withdraw a project application from review by the
+42 board or division if the initial review determines that the proposed
+43 project may be ineligible for monies pursuant to this chapter.
+44 6. Electronically submit an annual report on or before December 15
+45 to the speaker of the house of representatives, the president of the
+46 senate, the superintendent of public instruction, the secretary of state
+47 and the governor that includes the following information:
+-4-
+
+Senate Amendments to H.B. 2482
+1 (a) A detailed description of the amount of monies distributed by
+2 the division under this chapter in the previous fiscal year.
+3 (b) A list of each capital project that received monies from the
+4 division under this chapter during the previous fiscal year, a brief
+5 description of each project that was funded and a summary of the
+6 division's reasons for distributing monies for the project.
+7 (c) A summary of the findings and conclusions of the building
+8 maintenance inspections conducted pursuant to this article during the
+9 previous fiscal year.
+10 (d) A summary of the findings of common design elements and
+11 characteristics of the highest performing schools and the lowest
+12 performing schools based on academic productivity, including the results
+13 of the parent quality rating survey. For the purposes of this
+14 subdivision, "academic productivity" means academic year advancement per
+15 calendar year as measured with student-level data using the statewide
+16 nationally standardized norm-referenced achievement test.
+17 7. On or before December 1 of each year, report electronically to
+18 the joint committee on capital review the amounts necessary to fulfill the
+19 requirements of section 41-5721 for the following three fiscal years. In
+20 developing the amounts necessary for this report, the division shall use
+21 the most recent average daily membership data available. On request from
+22 the division, the department of education shall make available the most
+23 recent average daily membership data for use in calculating the amounts
+24 necessary to fulfill the requirements of section 41-5721 for the following
+25 three fiscal years. The division shall provide copies of the report to
+26 the president of the senate, the speaker of the house of representatives
+27 and the governor.
+28 8. On or before June 15 of each year, electronically submit
+29 detailed information regarding demographic assumptions and a proposed
+30 construction schedule for individual projects approved in the current
+31 fiscal year and expected project approvals for the upcoming fiscal year to
+32 the joint committee on capital review for its review. A copy of the
+33 report shall also be submitted electronically to the governor's office of
+34 strategic planning and budgeting. The joint legislative budget committee
+35 staff, the governor's office of strategic planning and budgeting staff and
+36 the division staff shall agree on the format of the report.
+37 9. Every two years, provide school districts with information on
+38 improving and maintaining the indoor environmental quality in school
+39 buildings.
+40 10. Adopt rules regarding the validation of adjacent ways projects
+41 pursuant to paragraph 11 of this subsection.
+42 11. Validate proposed adjacent ways projects that are submitted by
+43 school districts as prescribed in section 15-995 pursuant to rules adopted
+44 by the division under paragraph 10 of this subsection.
+45 12. Submit a monthly report to the school facilities oversight
+46 board that details each adjacent ways project validated pursuant to
+47 paragraph 11 of this subsection.
+-5-
+
+Senate Amendments to H.B. 2482
+1 13. Brief the joint committee on capital review at least once each
+2 year regarding the use of monies from all of the following:
+3 (a) The emergency deficiencies correction fund established by
+4 section 41-5721.
+5 (b) The building renewal grant fund established by section 41-5731.
+6 (c) The new school facilities fund established by section 41-5741.
+7 B. The school facilities oversight board or the division may
+8 contract for the following services in compliance with the procurement
+9 practices prescribed in chapter 23 of this title:
+10 1. Private services.
+11 2. Construction project management services.
+12 3. Assessments for school buildings to determine if the buildings
+13 have outlived their useful life pursuant to section 41-5741, subsection G
+14 or have been condemned.
+15 4. Services related to land acquisition and development of a school
+16 site.
+17 C. The school facilities oversight board shall:
+18 1. Review and approve student population projections submitted by
+19 school districts to determine to what extent school districts are entitled
+20 to monies to construct new facilities pursuant to section 41-5741. The
+21 board shall make a final determination within five months after receiving
+22 an application from a school district for monies from the new school
+23 facilities fund.
+24 2. Certify that plans for new school facilities meet the building
+25 adequacy standards prescribed in section 41-5711.
+26 3. Review and approve or reject requests submitted by school
+27 districts to take actions pursuant to section 15-341, subsection G.
+28 4. On or before December 15 of each year, electronically submit a
+29 report to the speaker of the house of representatives, the president of
+30 the senate, the superintendent of public instruction, the secretary of
+31 state and the governor that includes the following information:
+32 (a) A detailed description of the amount of monies the board
+33 distributed under this chapter in the previous fiscal year.
+34 (b) A list of each capital project that received monies from the
+35 board under this chapter during the previous fiscal year, a brief
+36 description of each project that was funded and a summary of the board's
+37 reasons for distributing monies for the project.
+38 (c) A summary of the findings and conclusions of the building
+39 maintenance inspections conducted pursuant to this article during the
+40 previous fiscal year.
+41 5. On or before December 1 of each year, electronically report to
+42 the joint committee on capital review the amounts necessary to fulfill the
+43 requirements of section 41-5741 for the following three fiscal years. In
+44 developing the amounts necessary for this report, the board shall use the
+45 most recent average daily membership data available. On request from the
+46 board, the department of education shall make available the most recent
+47 average daily membership data for use in calculating the amounts necessary
+-6-
+
+Senate Amendments to H.B. 2482
+1 to fulfill the requirements of section 41-5741 for the following three
+2 fiscal years. The board shall provide copies of the report to the
+3 president of the senate, the speaker of the house of representatives and
+4 the governor.
+5 6. Adopt minimum school facility adequacy guidelines to provide the
+6 minimum quality and quantity of school buildings and the facilities and
+7 equipment necessary and appropriate to enable pupils to achieve the
+8 educational goals of the Arizona state schools for the deaf and the blind.
+9 The board shall establish minimum school facility adequacy guidelines
+10 applicable to the Arizona state schools for the deaf and the blind.
+11 7. On or before June 15 of each year, electronically submit to the
+12 joint committee on capital review for its review detailed information
+13 regarding demographic assumptions, a proposed construction schedule and
+14 new school construction cost estimates for individual projects approved in
+15 the current fiscal year and expected project approvals for the upcoming
+16 fiscal year. A copy of the report shall also be submitted electronically
+17 to the governor's office of strategic planning and budgeting. The joint
+18 legislative budget committee staff, the governor's office of strategic
+19 planning and budgeting staff and the board staff shall agree on the format
+20 of the report.
+21 8. On or before December 31 of each year, report to the joint
+22 legislative budget committee on all class B bond approvals by school
+23 districts in that year. Each school district shall report to the board on
+24 or before December 1 of each year information required by the board for
+25 the report prescribed in this paragraph.
+26 9. Determine whether any interest disclosed pursuant to subsection
+27 D, paragraph 13 of this section is a substantial interest as defined in
+28 section 38-502 and maintain a record of all substantial interests that are
+29 identified pursuant to this paragraph.
+30 D. The director of the division shall serve as the director of the
+31 school facilities oversight board. The director may hire and fire
+32 necessary staff subject to chapter 4, article 4 of this title and as
+33 approved by the legislature in the budget. The staff of the school
+34 facilities oversight board is exempt from chapter 4, articles 5 and 6 of
+35 this title. The director:
+36 1. Shall analyze applications for monies submitted to the board and
+37 to the division by school districts.
+38 2. Shall assist the board and the division in developing forms and
+39 procedures for distributing and reviewing applications and distributing
+40 monies to school districts.
+41 3. May review or audit, or both, the expenditure of monies by a
+42 school district for deficiencies corrections and new school facilities.
+43 4. Shall assist the board and the division in preparing the board's
+44 and division's annual reports.
+45 5. Shall research and provide reports on issues of general interest
+46 to the board and the division.
+-7-
+
+Senate Amendments to H.B. 2482
+1 6. May aid school districts in developing reasonable and
+2 cost-effective school designs in order to avoid statewide duplicated
+3 efforts and unwarranted expenditures in the area of school design.
+4 7. May assist school districts in facilitating the development of
+5 multijurisdictional facilities.
+6 8. Shall assist the board and the division in any other appropriate
+7 matter or method as directed by the division and the members of the board.
+8 9. Shall establish procedures to ensure compliance with the notice
+9 and hearing requirements prescribed in section 15-905. The notice and
+10 hearing procedures adopted by the board shall include the requirement,
+11 with respect to the board's consideration of any application filed after
+12 July 1, 2001 or after December 31 of the year in which the property
+13 becomes territory in the vicinity of a military airport or ancillary
+14 military facility as defined in section 28-8461 for monies to fund the
+15 construction of new school facilities proposed to be located in territory
+16 in the vicinity of a military airport or ancillary military facility, that
+17 the military airport receive notification of the application by first
+18 class mail at least thirty days before any hearing concerning the
+19 application.
+20 10. Shall expedite any request for monies in which the school
+21 district governing board submits an application that shows an immediate
+22 need for a new school facility.
+23 11. Shall determine administrative completeness within one month
+24 after receiving an application from a school district for monies from the
+25 new school facilities fund.
+26 12. Shall provide technical support to school districts as
+27 requested by school districts in connection with constructing new school
+28 facilities and maintaining existing school facilities and may contract
+29 directly with construction project managers pursuant to subsection B of
+30 this section. This paragraph does not restrict a school district from
+31 contracting with a construction project manager using district or state
+32 resources.
+33 13. Shall require each employee of the school facilities oversight
+34 board to disclose in writing to the board at least once per year any
+35 interest that the employee has in any contract, sale, purchase, service or
+36 other transaction of the board or division or of a school district.
+37 E. When appropriate, the board and the division shall review and
+38 use the statewide school facilities inventory and needs assessment
+39 conducted by the joint committee on capital review and issued in July
+40 1995.
+41 F. The school facilities oversight board shall contract with one or
+42 more private building inspectors to complete an initial assessment of
+43 school facilities and equipment and shall inspect each school building in
+44 this state at least once every five years to ensure compliance with
+45 section 41-5711. A copy of the inspection report, together with any
+46 recommendations for building maintenance, shall be provided to the school
+47 facilities oversight board and the governing board of the school district.
+-8-
+
+Senate Amendments to H.B. 2482
+1 G. The division or the board, as applicable, may consider
+2 appropriate combinations of facilities or uses in assessing and curing
+3 deficiencies pursuant to subsection A, paragraph 1 of this section and in
+4 certifying plans for new school facilities pursuant to subsection C,
+5 paragraph 2 of this section.
+6 H. The board shall not award any monies to fund new facilities that
+7 are financed by class A bonds that are issued by the school district.
+8 I. The board or the division shall not distribute monies to a
+9 school district for replacing or repairing facilities if the costs
+10 associated with the replacement or repair are covered by insurance or a
+11 performance or payment bond.
+12 J. The division may contract for construction services and
+13 materials that are necessary to correct existing deficiencies in school
+14 district facilities. The division may procure the construction services
+15 necessary pursuant to this subsection by any method, including
+16 construction-manager-at-risk, design-build, design-bid-build or
+17 job-order-contracting as provided by chapter 23 of this title, EXCEPT THAT
+18 THE MAXIMUM DOLLAR AMOUNT OF AN INDIVIDUAL JOB ORDER FOR
+19 JOB-ORDER-CONTRACTING FOR CONSTRUCTION SERVICES IS $1,000,000 FOR ANY
+20 PROJECT THAT IS FUNDED BY MONIES FROM THE BUILDING RENEWAL GRANT FUND
+21 ESTABLISHED BY SECTION 41-5731 [AND THAT IS NOT AN EMERGENCY, AS
+22 DETERMINED BY THE DIVISION]. The construction planning and services
+23 performed pursuant to this subsection are exempt from section 41-791.01.
+24 K. The division may enter into agreements with school districts to
+25 allow division staff and contractors access to school property for the
+26 purposes of performing the construction services necessary pursuant to
+27 subsection J of this section.
+28 L. Each school district shall develop routine preventive
+29 maintenance guidelines for its facilities. The guidelines shall include
+30 plumbing systems, electrical systems, heating, ventilation and air
+31 conditioning systems, special equipment and other systems and for roofing
+32 systems shall recommend visual inspections performed by district staff for
+33 signs of structural stress and weakness. The guidelines shall be
+34 submitted to the division for review and approval. If on inspection by
+35 the division it is determined that a school district facility was
+36 inadequately maintained pursuant to the school district's routine
+37 preventive maintenance guidelines, the school district shall return the
+38 building to compliance with the school district's routine preventive
+39 maintenance guidelines.
+40 M. The division may temporarily transfer monies, or, if applicable,
+41 the board may direct the division to transfer monies, between the
+42 emergency deficiencies correction fund established by section 41-5721 and
+43 the new school facilities fund established by section 41-5741 if all of
+44 the following conditions are met:
+45 1. The transfer is necessary to avoid a temporary shortfall in the
+46 fund into which the monies are transferred.
+-9-
+
+Senate Amendments to H.B. 2482
+1 2. The transferred monies are restored to the fund where the monies
+2 originated as soon as practicable after the temporary shortfall in the
+3 other fund has been addressed.
+4 3. The board and the division report to the joint committee on
+5 capital review the amount of and the reason for any monies transferred.
+6 N. After notifying each school district, and if a written objection
+7 from the school district is not received by the board or the division
+8 within thirty days after the notification, the board or the division may
+9 access public utility company records of power, water, natural gas,
+10 telephone and broadband usage to assemble consistent and accurate data on
+11 utility consumption at school facilities to determine the effectiveness of
+12 facility design, operation and maintenance measures intended to reduce
+13 energy and water consumption and costs. Any public utility that provides
+14 service to a school district in this state shall provide the data
+15 requested by the board or the division pursuant to this subsection.
+16 O. The division or the board shall not require a common school
+17 district that provides instruction to pupils in grade nine to obtain
+18 approval from the division or the board to reconfigure its school
+19 facilities. A common school district that provides instruction to pupils
+20 in grade nine is not entitled to additional monies from the division or
+21 the board for facilities to educate pupils in grade nine.
+22 P. A school district may appeal the denial of a request for monies
+23 pursuant to this chapter or any other appealable agency action by the
+24 division or the board pursuant to chapter 6, article 10 of this title.
+25 For the purposes of this subsection, "appealable agency action" has the
+26 same meaning prescribed in section 41-1092.
+27 Enroll and engross to conform
+28 Amend title to conform
+HILDY ANGIUS
+2482FloorANGIUS1.docx
+03/30/2026
+12:18 PM
+C: VS
+130VDMOIQ
+-10-

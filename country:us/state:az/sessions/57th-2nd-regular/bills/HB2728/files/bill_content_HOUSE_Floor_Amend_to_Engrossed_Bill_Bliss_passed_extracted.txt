@@ -1,0 +1,1004 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Engrossed Bill - Bliss - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2728: department of economic security; continuation
+BLISS FLOOR AMENDMENT
+1. Outlines evaluation and verification requirements for DES to confirm
+eligibility for SNAP benefits.
+2. Contains provisions relating to hospital reporting of patient immigration
+status.
+3. Contains provisions relating to the SNAP payment error rate.
+A GRAHAM
+3/3/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Bliss
+Second Regular Session H.B. 2728
+ADDITIONAL COW
+BLISS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2728
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 23-634.01, Arizona Revised Statutes, is
+3 amended to read:
+4 23-634.01. Denial of benefits for failure to accept suitable
+5 work or actively seek work; definition
+6 A. Notwithstanding section 23-776, an individual who is found by
+7 the department, with respect to any week in an eligibility period [which]
+8 [THAT] begins from and after April 4, 1981, to have failed to apply for or
+9 accept available suitable work to which [he] [THE INDIVIDUAL] was referred
+10 by the department or to have failed to actively engage in seeking work is
+11 disqualified from receiving extended benefits. The disqualification shall
+12 begin with the week in which the failure occurred and continue until the
+13 individual has been employed in each of four subsequent weeks, whether or
+14 not consecutive, and has earned remuneration equal to [not less than] [AT
+15 LEAST] four times [his] [THE INDIVIDUAL'S] weekly benefit amount.
+16 B. An individual shall not be denied extended benefits for failure
+17 to accept an offer of or apply for available suitable work as defined in
+18 subsection G of this section, if:
+19 1. The position was not offered to the individual in writing or was
+20 not listed with the department.
+21 2. The failure would not result in a denial of benefits under
+22 section 23-776 to the extent that the criteria of suitability in section
+23 23-776 are not inconsistent with this section.
+24 C. If an individual furnishes evidence satisfactory to the
+25 department that prospects for obtaining work in [his] [THE INDIVIDUAL'S]
+26 customary occupation within a reasonably short period are good, the
+27 determination of whether any work is suitable with respect to the
+
+House Amendments to H.B. 2728
+1 individual shall be made in accordance with [the provisions of] section
+2 23-776 without reference to the definition contained in this section.
+3 D. Work shall not be considered suitable work under this section if
+4 it would not be considered suitable under section 23-776, subsection [C ]
+5 [E].
+6 E. For the purposes of this section, an individual shall be treated
+7 as actively engaged in seeking work during any week if the department
+8 finds from tangible evidence provided by the individual that [he] [THE
+9 INDIVIDUAL] has engaged in a systematic and sustained effort to obtain
+10 work during such week.
+11 F. The department shall refer an individual entitled to extended
+12 benefits under this chapter to any work [which] [THAT] is suitable work.
+13 G. For the purposes of this section, "suitable work" with respect
+14 to any individual means work within the individual's capabilities in
+15 which:
+16 1. The gross average weekly wages payable for the work exceed the
+17 sum of the individual's weekly benefit amount plus the amount of any
+18 supplemental unemployment benefits payable to the individual for such
+19 week.
+20 2. The wages for the work are at least equal to the higher of:
+21 (a) The minimum wages provided by section 6(a)(1) of the fair labor
+22 standards act of 1938, without regard to any exemption.
+23 (b) The state or local minimum wage.>>
+24 <<Sec. 2. Section 23-762, Arizona Revised Statutes, is amended to
+25 read:
+26 23-762. Requirements of shared work plan; approval
+27 A. An employer [wishing] [THAT WISHES] to participate in the shared
+28 work unemployment compensation program shall submit a signed, written
+29 shared work plan to the department for approval. The department shall
+30 approve a shared work plan only if the plan:
+31 1. Specifies the employees in the affected group.
+32 2. Applies to only one affected group.
+33 3. If feasible, includes a description of the employer's plan for
+34 notifying an employee whose [work week] [WORKWEEK] is to be reduced.
+35 4. Includes a certified statement by the employer that, for the
+36 six-month period immediately preceding the date the plan is submitted,
+37 compensation was payable from the shared work employer, or its
+38 predecessors whether or not they were shared work employers, to each
+39 employee in the affected group in an amount equal to or greater than the
+40 wages for insured work in one calendar quarter as provided in section
+41 23-771, subsection A, paragraph [6 ] [7]. An employee who joins an
+42 affected group after the approval of the shared work plan is automatically
+43 covered under the previously approved plan, effective the week that the
+44 department receives written notice from the shared work employer that the
+45 employee has joined and certification from the employer that the employee
+46 meets the provisions of section 23-771, subsection A, paragraph [6 ] [7].
+-2-
+
+House Amendments to H.B. 2728
+1 5. Includes a certified statement by the employer that for the
+2 duration of the plan the reduction in the total normal weekly hours of
+3 work of the employees in the affected group is instead of layoffs [which]
+4 [THAT] otherwise would result in at least as large a reduction in the
+5 total normal weekly hours of work. The employer shall include an estimate
+6 of the number of layoffs that would have occurred without an approved
+7 shared work plan.
+8 6. Specifies the manner in which the employer will treat fringe
+9 benefits of the employees in the affected group if the employees' hours
+10 are reduced to less than their normal weekly hours of work. The employer
+11 must certify, if the employer provides health benefits and retirement
+12 benefits under a defined benefit plan to any employee whose workweek is
+13 reduced under the plan, that these benefits will continue to be provided
+14 to an employee participating in the shared work plan under the same terms
+15 and conditions as though the workweek of the employee had not been reduced
+16 or to the same extent as other employees not participating in the shared
+17 work program.
+18 7. Specifies an expiration date that is [no] [NOT] more than one
+19 year [from] [AFTER] the date the employer submits the plan for approval,
+20 except that on written request by the employer, the department may approve
+21 an extension of the plan for a period of not more than one year [from]
+22 [AFTER] the date of the request.
+23 8. Is approved in writing by the collective bargaining agent for
+24 each collective bargaining agreement that covers any employee in the
+25 affected group.
+26 B. The plan prescribed in subsection A of this section and the
+27 implementation of the plan must be consistent with the employer's
+28 obligations under all other federal and state laws.
+29 C. The department shall approve or disapprove the plan within
+30 fifteen days after receipt of the plan by the department. The department
+31 shall notify the employer of the reasons for denial of a shared work plan
+32 within ten days [of] [AFTER] the determination.>>
+33 <<Sec. 3. Section 23-763, Arizona Revised Statutes, is amended to
+34 read:
+35 23-763. Shared work benefits; eligibility; requirements
+36 A. An individual is eligible to receive shared work benefits with
+37 respect to any week only if, in addition to meeting the requirements of
+38 article 6 of this chapter as modified by subsection E of this section, the
+39 department finds that during the week:
+40 1. The individual is employed as a member of an affected group in
+41 an approved plan that was approved before the week and is in effect for
+42 the week.
+43 2. The individual's normal weekly hours of work were reduced at
+44 least ten [per cent] [PERCENT] but not more than forty [per cent]
+45 [PERCENT].
+46 3. The individual met the requirements of section 23-771,
+47 subsection A, paragraphs 3[,] [and] 4 [AND 5].
+-3-
+
+House Amendments to H.B. 2728
+1 B. Eligible individuals may participate in training to enhance job
+2 skills, including [employer sponsored] [EMPLOYER-SPONSORED] training or
+3 worker training funded under the workforce investment act of 1998, if the
+4 training is approved by the department.
+5 C. The department shall not pay an individual shared work benefits
+6 for more than twenty-six weeks in a benefit year, except that this
+7 limitation does not apply to a week if for the period consisting of the
+8 week and the immediately preceding twelve weeks the rate, not seasonally
+9 adjusted, of insured unemployment in this state is equal to or greater
+10 than four [per cent] [PERCENT].
+11 D. The total amount of regular benefits and shared work benefits
+12 that the department pays to an individual for weeks in the individual's
+13 benefit year shall not exceed the total for the benefit year as provided
+14 in section 23-780.
+15 E. Notwithstanding section 23-621 or any other provision of this
+16 chapter, for purposes of this article an individual is unemployed in any
+17 week for which compensation is payable to the individual, as an employee
+18 in an affected group, for less than the individual's normal weekly hours
+19 of work in accordance with an approved plan in effect for the week.>>
+20 <<Sec. 4. Section 23-771, Arizona Revised Statutes, is amended to
+21 read:
+22 23-771. Eligibility for benefits
+23 A. An unemployed individual is eligible to receive benefits with
+24 respect to any week only if the department finds that the individual:
+25 1. Has registered for work at and thereafter has continued to
+26 report at an employment office in accordance with the regulations
+27 prescribed by the department.
+28 2. Has made a claim for benefits in accordance with section 23-772.
+29 3. Is able to work.
+30 [4. IS AVAILABLE FOR WORK.]
+31 [4.] [5.] Except for an individual who is applying for shared work
+32 benefits pursuant to article 5.1 of this chapter, [is available for work
+33 and both of the following apply:
+34 (a) The individual has engaged in a systematic and sustained effort
+35 to obtain work during at least four days of the week.
+36 (b) The individual has made at least one job contact per day on
+37 four different days of the week.] [ACTIVELY SEEKS AND APPLIES FOR SUITABLE
+38 WORK AND:
+39 (a) CONDUCTS AT LEAST FIVE WORK SEARCH ACTIONS EACH WEEK IN ORDER
+40 TO QUALIFY AS ACTIVELY SEEKING AND APPLYING FOR SUITABLE WORK. THE
+41 ACTIONS SHALL INCLUDE ANY OF THE FOLLOWING:
+42 (i) SUBMITTING RESUMES TO EMPLOYERS.
+43 (ii) COMPLETING JOB APPLICATIONS AND SUBMITTING THE APPLICATIONS TO
+44 EMPLOYERS.
+45 (iii) ATTENDING JOB FAIRS THAT ARE RECOGNIZED BY THE DEPARTMENT AND
+46 THE INDIVIDUAL'S ATTENDANCE IS VERIFIABLE BY THE DEPARTMENT.
+47 (iv) ATTENDING INTERVIEWS WITH POTENTIAL EMPLOYERS.
+-4-
+
+House Amendments to H.B. 2728
+1 (v) ATTENDING A DEPARTMENT-APPROVED TRAINING PROGRAM THAT INCLUDES
+2 A RESUME WRITING SESSION, WHICH SHALL COUNT AS ONE WORK SEARCH ACTION FOR
+3 THE WEEK THE INDIVIDUAL ATTENDED THE TRAINING PROGRAM.
+4 (b) IF THE INDIVIDUAL IS APPLYING FOR A WEEKLY BENEFIT, PROVIDES A
+5 WEEKLY REPORT TO THE DEPARTMENT THAT DETAILS THE INDIVIDUAL'S WORK SEARCH
+6 ACTIONS FOR EVERY WEEK A BENEFIT IS SOUGHT.]
+7 [5.] [6.] Has been unemployed for a waiting period of one week. A
+8 week is not counted as a week of unemployment for the purpose of this
+9 paragraph:
+10 (a) Unless it occurs within the benefit year that includes the week
+11 with respect to which the individual claims payment of benefits.
+12 (b) Unless the individual was eligible for benefits with respect to
+13 the week as provided in this section and sections 23-775, 23-776 and
+14 23-777.
+15 (c) If benefits have been paid in respect to the week.
+16 [6.] [7.] Has met one of the following requirements:
+17 (a) Has been paid wages for insured work during the individual's
+18 base period equal to at least one and one-half times the wages paid to the
+19 individual in the calendar quarter of the individual's base period in
+20 which the wages were highest, and the individual has been paid wages for
+21 insured work in one calendar quarter of the individual's base period equal
+22 to an amount that is equal to at least three hundred ninety times the
+23 minimum wage prescribed by section 23-363 that is in effect when the
+24 individual files a claim for benefits.
+25 (b) For a benefit year beginning on or after September 2, 1984, has
+26 been paid wages for insured work during at least two quarters of the
+27 individual's base period and the amount of the wages paid in one quarter
+28 would be sufficient to qualify the individual for the maximum weekly
+29 benefit amount payable under this chapter and the total of the
+30 individual's base-period wages is equal to or greater than the taxable
+31 limit as specified in section 23-622, subsection B, paragraphs 1 and 2.
+32 [7.] [8.] Following the beginning date of a benefit year
+33 established under this chapter or the unemployment compensation law of any
+34 other state and before the effective date of a subsequent benefit year
+35 under this chapter, has performed services whether or not in employment as
+36 defined in section 23-615 for which wages were payable in an amount equal
+37 to or in excess of eight times the weekly benefit amount for which the
+38 individual is otherwise qualified under section 23-779. In making a
+39 determination under this paragraph, the department shall use information
+40 available in its records or require the individual to furnish necessary
+41 information within thirty days after the date notice is given that the
+42 information is required.
+43 B. If an unemployed individual cannot establish a benefit year as
+44 defined in section 23-609 due to receipt during the base period of
+45 compensation for a temporary total disability pursuant to chapter 6 of
+46 this title, or any similar federal law, the individual's base period shall
+47 be the first four of the last five completed calendar quarters immediately
+-5-
+
+House Amendments to H.B. 2728
+1 preceding the first day of the calendar week in which the disability
+2 began. Wages previously used to establish a benefit year may not be
+3 reused. This subsection does not apply unless all of the following occur:
+4 1. The individual has filed a claim for benefits not later than the
+5 fourth calendar week of unemployment after the end of the period of
+6 disability.
+7 2. The claim is filed within two years after the period of
+8 disability begins.
+9 3. The individual meets the requirements of subsection A of this
+10 section.
+11 4. The individual has attempted to return to the employment where
+12 the temporary total disability occurred.
+13 C. If an unemployed individual is a member of the national guard or
+14 other reserve component of the United States armed forces, the individual
+15 is not considered to be either employed or unavailable for work by reason
+16 of the individual's participation in drill, training or other national
+17 guard or reserve activity that occurs on not more than one weekend per
+18 month or in lieu of a weekend drill or the equivalent.
+19 D. The department shall not disqualify an individual from receiving
+20 benefits under this chapter on the basis of the individual's separation
+21 from employment if the individual is a victim of domestic violence and
+22 leaves employment due to a documented case involving domestic violence
+23 pursuant to section 13-3601 or 13-3601.02. Benefits paid to an individual
+24 pursuant to this subsection shall not be charged against an employer's
+25 account pursuant to section 23-727, subsection G.
+26 E. The department shall not disqualify an individual from receiving
+27 benefits under this chapter on the basis of the individual's separation
+28 from employment if the individual was terminated from employment for not
+29 receiving a COVID-19 vaccine or COVID-19 booster shot required by the
+30 employer. Benefits paid to an individual pursuant to this subsection
+31 shall not be charged against an employer's account pursuant to section
+32 23-727 if the employer's requirement that employees receive the COVID-19
+33 vaccine or COVID-19 booster shot is required by law.
+34 F. For the purposes of subsection A, paragraph [6 ] [7] of this
+35 section, wages shall be counted as wages for insured work for benefit
+36 purposes with respect to any benefit year only if that benefit year begins
+37 subsequent to the date on which the employing unit by which those wages
+38 were paid has become an employer subject to this chapter.>>
+39 <<Sec. 5. Section 23-773, Arizona Revised Statutes, is amended to
+40 read:
+41 23-773. Examination and determination of claims
+42 A. A representative designated by the department as a deputy shall
+43 promptly examine any claim for benefits and, on the basis of the facts
+44 found by the deputy, shall determine whether [or not] the claim is valid.
+45 If the claim is valid, the deputy shall also determine the week with
+46 respect to which the benefit year shall commence, the weekly benefit
+47 amount payable and the maximum duration of the benefit.
+-6-
+
+House Amendments to H.B. 2728
+1 B. The deputy shall promptly notify the claimant and any other
+2 interested parties of the determination and the reasons for the
+3 determination. Except as provided in subsection D of this section, unless
+4 the claimant or an interested party, within seven calendar days after the
+5 delivery of notification, or within fifteen calendar days after
+6 notification was mailed to the claimant's or interested party's last known
+7 address, files an appeal from the determination, it shall become final,
+8 and benefits shall be paid or denied in accordance with the determination.
+9 The department shall adopt rules to allow an appeal to be filed in
+10 writing, electronically or by telephone. If an appeal tribunal affirms a
+11 determination of the deputy allowing benefits, or the appeals board
+12 affirms a determination or decision allowing benefits, the benefits shall
+13 be paid regardless of any appeal that may thereafter be taken, but if that
+14 decision is finally reversed, no employer's account shall be charged with
+15 benefits so paid.
+16 C. On receipt of a request from an interested party for information
+17 about a deputy's determination made pursuant to this section or section
+18 23-673, the department shall make available by memorandum or other written
+19 document within five days after receipt of the request the following
+20 information:
+21 1. The facts considered and the facts relied on in making the
+22 determination.
+23 2. The specific statutes, regulations or other authority relied on
+24 in making the determination.
+25 3. The reasoning applied in making the determination.
+26 D. Before the time for appeal as prescribed in subsection B of this
+27 section has expired, an interested party may request a reconsidered
+28 determination. The department shall examine the request and, within seven
+29 calendar days, deny the request or issue a reconsidered determination.
+30 The interested party may prove that a response was timely filed by using
+31 evidence of fax records that documents the date and time when a faxed
+32 response was transmitted and received by the department. A request for
+33 reconsideration that is denied shall be treated as an appeal, and the same
+34 procedure shall be followed as provided for in case of appeal from the
+35 original determination. If a reconsidered determination is issued, the
+36 time for appeal shall run from the date of issuance of the reconsidered
+37 determination. The employer and the claimant shall each be [permitted no]
+38 [ALLOWED NOT] more than one request for reconsideration on each case.
+39 E. Before the actual filing of an appeal under subsection B of this
+40 section, but not later than the time [permitted] [ALLOWED] to appeal, the
+41 department on its own motion may issue a reconsidered determination.
+42 After the time for appeal has expired, but within one year after the
+43 issuance of the original determination, the department with authorization
+44 of the unemployment insurance program administrator may issue a
+45 reconsidered determination, on the basis of newly discovered evidence that
+46 by due diligence could not have been previously discovered, if no
+47 administrative or judicial review has occurred or is pending on the
+-7-
+
+House Amendments to H.B. 2728
+1 original determination. If a redetermination is based on fraud, the [one
+2 year] [ONE-YEAR] limitation on the issuance of redeterminations does not
+3 apply.
+4 F. Prompt notice in writing of any reconsidered determination under
+5 subsection E of this section and the reasons for reconsideration shall be
+6 given to all interested parties. An interested party may appeal within
+7 the time prescribed under subsection B of this section, and the same
+8 procedure shall be followed as provided for in case of an appeal from the
+9 original determination.
+10 [G. IN DETERMINING THE VALIDITY OF CLAIMS PURSUANT TO SUBSECTION A
+11 OF THIS SECTION, THE DEPARTMENT MAY NOT PAY BENEFITS FOR AN INITIAL OR
+12 ONGOING CLAIM UNTIL THE INITIAL CLAIM IS CROSS-CHECKED, OR AN ONGOING
+13 CLAIM IS CROSS-CHECKED ON A WEEKLY BASIS, AGAINST THE FOLLOWING DATA SETS:
+14 1. THE NATIONAL ASSOCIATION OF STATE WORKFORCE AGENCIES' INTEGRITY
+15 DATA HUB.
+16 2. THE UNITED STATES DEPARTMENT OF HEALTH AND HUMAN SERVICES
+17 NATIONAL DIRECTORY OF NEW HIRES.
+18 3. THE DEPARTMENT OF ECONOMIC SECURITY'S NEW HIRE REPORTING SYSTEM.
+19 4. THE STATE DEPARTMENT OF CORRECTIONS INMATE DATABASES OR A
+20 THIRD-PARTY, COMMERCIALLY AVAILABLE INCARCERATION DATA NETWORK.
+21 5. THE SOCIAL SECURITY ADMINISTRATION'S PRISONER UPDATE PROCESSING
+22 SYSTEM.
+23 6. THE CENTERS FOR DISEASE CONTROL AND PREVENTION'S NATIONAL VITAL
+24 STATISTICS SYSTEM'S DEATH RECORDS DATABASE.
+25 7. THE DEPARTMENT OF HEALTH SERVICES BUREAU OF VITAL RECORDS' DEATH
+26 RECORDS DATABASE OR A THIRD-PARTY, COMMERCIALLY AVAILABLE DEATH RECORDS
+27 DATABASE.
+28 8. CURRENT EMPLOYMENT AND INCOME INFORMATION DELIVERABLE
+29 INSTANTANEOUSLY VIA VERIFICATION SERVICES FROM EXTERNAL DATA SOURCES
+30 PURSUANT TO SECTION 23-799.01.
+31 H. TO MAKE THE MOST EFFECTIVE DETERMINATION OF THE POTENTIAL
+32 VALIDITY OF CLAIMS, THE DEPARTMENT SHALL PRIORITIZE CROSS-CHECKING THE
+33 MOST CURRENT DATA SETS, INCLUDING THOSE FROM A COMMERCIALLY AVAILABLE
+34 THIRD-PARTY DATABASE, BEFORE CROSS-CHECKING OLDER DATA SETS.
+35 I. IF A CROSS-CHECK PURSUANT TO SUBSECTION G OF THIS SECTION
+36 RESULTS IN INFORMATION INDICATING THAT A CLAIM IS INELIGIBLE OR
+37 FRAUDULENT, THAT CLAIM MAY NOT BE PAID AND THE CLAIMANT SHALL BE
+38 DISQUALIFIED FROM RECEIVING BENEFITS PURSUANT TO SECTION 23-778 AND
+39 REFERRED FOR PROSECUTION.
+40 J. THE DEPARTMENT SHALL EXAMINE ANY INITIAL CLAIM FOR BENEFITS AND
+41 CONFIRM ITS VALIDITY BEFORE BENEFITS ARE PAID IF THE INITIAL CLAIM:
+42 1. WAS SUBMITTED ELECTRONICALLY THROUGH AN INTERNET PROTOCOL
+43 ADDRESS LOCATED OUTSIDE OF THIS STATE OR THE UNITED STATES.
+44 2. REFERENCES A MAILING ADDRESS OR RESIDENTIAL ADDRESS FOR WHICH
+45 ANOTHER CURRENT CLAIM WAS SUBMITTED.
+-8-
+
+House Amendments to H.B. 2728
+1 3. IS ASSOCIATED WITH A DIRECT DEPOSIT FOR A BANK ACCOUNT ALREADY
+2 USED FOR ANOTHER CURRENT CLAIM.
+3 K. IF A FRAUDULENT CLAIM WAS FILED, THE DEPARTMENT MAY REFER THE
+4 MATTER FOR PROSECUTION.]>>
+5 <<Sec. 6. Section 23-776, Arizona Revised Statutes, is amended to
+6 read:
+7 23-776. Disqualification from benefits for failure to accept
+8 suitable work or actively seek work; exceptions
+9 A. An individual shall be disqualified for benefits if the
+10 department finds the individual has failed without cause [either to apply
+11 for available, suitable work, when so directed by the employment office or
+12 the department, to actively engage in seeking work, to accept suitable
+13 work when offered or to return to the individual's customary
+14 self-employment when so directed by the department] [TO ACTIVELY SEEK AND
+15 APPLY FOR SUITABLE WORK, TO ACCEPT AN OFFER OF SUITABLE WORK OR TO ACCEPT
+16 REEMPLOYMENT AT THE SAME EMPLOYER FOR SUITABLE WORK, IF OFFERED]. The
+17 disqualification shall begin with the week in which the failure occurred
+18 and shall continue for the duration of the individual's unemployment and
+19 until the individual has earned wages in an amount equivalent to eight
+20 times the individual's weekly benefit amount otherwise payable.
+21 [B. AN EMPLOYER SHALL REPORT TO THE DEPARTMENT WHEN AN INDIVIDUAL
+22 WHO WAS PREVIOUSLY EMPLOYED WITH THAT EMPLOYER DOES ANY OF THE FOLLOWING:
+23 1. REFUSES TO RETURN TO WORK.
+24 2. REFUSES TO ACCEPT AN OFFER OF SUITABLE WORK.
+25 3. FAILS, WITHOUT CAUSE, TO APPEAR FOR A SCHEDULED INTERVIEW.
+26 4. FAILS TO RESPOND TO AN OFFER OF EMPLOYMENT.
+27 C. THE DEPARTMENT SHALL ALLOW EMPLOYERS TO SUBMIT THE REPORTS
+28 PURSUANT TO SUBSECTION B OF THIS SECTION DIGITALLY OR THROUGH EMAIL AND
+29 SHALL CONDUCT AN INDEPENDENT REVIEW OF EACH REPORT TO DETERMINE WHETHER AN
+30 INDIVIDUAL SHOULD BE DISQUALIFIED FROM RECEIVING BENEFITS.]
+31 [B.] [D.] In determining whether [or not] work is suitable for an
+32 individual:
+33 1. During the first four weeks of a benefit period, the department
+34 shall consider the degree of risk involved to the individual's health,
+35 safety and morals, the individual's physical fitness and prior training,
+36 the individual's experience and prior earnings, the individual's length of
+37 unemployment and prospects for securing local work in the individual's
+38 customary occupation and the distance of the available work from the
+39 individual's residence.
+40 2. After the first four weeks of a benefit period, the department
+41 shall consider any employment offer that pays one hundred twenty percent
+42 of the individual's weekly benefit amount to be suitable work.
+-9-
+
+House Amendments to H.B. 2728
+1 [C.] [E.] Notwithstanding any other provisions of this chapter,
+2 work shall not be deemed suitable and benefits shall not be denied under
+3 this chapter to an otherwise eligible individual for refusing to accept
+4 new work under any of the following conditions:
+5 1. The position offered is vacant due directly to a strike, lockout
+6 or other labor dispute.
+7 2. The wages, hours or other conditions of the work offered are
+8 substantially less favorable to the individual than those prevailing for
+9 similar work in the locality.
+10 3. As a condition of being employed, the individual would be
+11 required to join a company union or to resign from or refrain from joining
+12 a bona fide labor organization.
+13 [D.] [F.] An individual is considered to have refused an offer of
+14 suitable work under subsection A of this section if an offer of work is
+15 withdrawn by an employer after an individual either:
+16 1. Tests positive for drugs after a drug test given pursuant to
+17 chapter 2, article 14 of this title by or on behalf of a prospective
+18 employer as a condition of an offer of employment.
+19 2. Refuses, without good cause, to submit to a drug test that is
+20 required by a prospective employer as a condition of an offer of
+21 employment.>>
+22 <<Sec. 7. Title 36, chapter 4, article 1, Arizona Revised Statutes,
+23 is amended by adding section 36-407.04, to read:
+24 36-407.04. Hospitals; patient immigration status; data
+25 collection; reporting requirements
+26 [A. EACH HOSPITAL THAT ACCEPTS PAYMENT PURSUANT TO CHAPTER 29,
+27 ARTICLE 1 OF THIS TITLE SHALL INCLUDE A PLACE ON ITS PATIENT ADMISSION OR
+28 REGISTRATION FORM FOR THE PATIENT OR THE PATIENT'S REPRESENTATIVE TO STATE
+29 OR INDICATE WHETHER THE PATIENT IS A UNITED STATES CITIZEN OR LAWFULLY
+30 PRESENT IN THE UNITED STATES OR IS NOT LAWFULLY PRESENT IN THE UNITED
+31 STATES. THE INQUIRY MUST BE FOLLOWED BY A STATEMENT ON THE FORM THAT THE
+32 PATIENT'S RESPONSE WILL NOT AFFECT THE PATIENT'S CARE OR RESULT IN A
+33 REPORT OF THE PATIENT'S IMMIGRATION STATUS TO IMMIGRATION AUTHORITIES.
+34 B. EACH HOSPITAL SHALL SUBMIT A QUARTERLY REPORT TO THE DEPARTMENT
+35 WITHIN THIRTY DAYS AFTER THE END OF EACH CALENDAR QUARTER THAT STATES THE
+36 NUMBER OF HOSPITAL ADMISSIONS OR EMERGENCY DEPARTMENT VISITS WITHIN THE
+37 PREVIOUS QUARTER THAT WERE MADE BY PATIENTS WHO INDICATED THAT THEY ARE A
+38 CITIZEN OF THE UNITED STATES OR LAWFULLY PRESENT IN THE UNITED STATES,
+39 INDICATED THAT THEY ARE NOT LAWFULLY PRESENT IN THE UNITED STATES OR
+40 DECLINED TO ANSWER THE QUESTION.
+41 C. THE DEPARTMENT MAY ADOPT RULES RELATING TO THE FORMAT AND
+42 INFORMATION TO BE CONTAINED IN QUARTERLY REPORTS AND THE ACCEPTABLE
+43 FORMATS FOR HOSPITALS TO USE IN REQUESTING INFORMATION REGARDING A
+44 PATIENT'S IMMIGRATION STATUS ON HOSPITAL ADMISSION OR REGISTRATION FORMS.
+45 THE RULES MAY NOT REQUIRE THE DISCLOSURE OF PATIENT NAMES OR ANY OTHER
+46 PERSONAL IDENTIFYING INFORMATION TO THE DEPARTMENT.
+-10-
+
+House Amendments to H.B. 2728
+1 D. ON OR BEFORE MARCH 1 OF EACH YEAR, THE DEPARTMENT SHALL SUBMIT A
+2 REPORT TO THE GOVERNOR, THE PRESIDENT OF THE SENATE AND THE SPEAKER OF THE
+3 HOUSE OF REPRESENTATIVES THAT INCLUDES THE TOTAL NUMBER OF HOSPITAL
+4 ADMISSIONS AND EMERGENCY DEPARTMENT VISITS FOR THE PREVIOUS CALENDAR YEAR
+5 FOR WHICH THE PATIENT OR PATIENT'S REPRESENTATIVE REPORTED THAT THE
+6 PATIENT IS A CITIZEN OF THE UNITED STATES, IS LAWFULLY PRESENT IN THE
+7 UNITED STATES OR IS NOT LAWFULLY PRESENT IN THE UNITED STATES OR DECLINED
+8 TO ANSWER THE QUESTION. THE REPORT MUST ALSO DESCRIBE INFORMATION
+9 RELATING TO THE COSTS OF UNCOMPENSATED CARE FOR ALIENS WHO ARE NOT
+10 LAWFULLY PRESENT IN THE UNITED STATES, THE IMPACT OF UNCOMPENSATED CARE ON
+11 THE COST OR ABILITY OF HOSPITALS TO PROVIDE SERVICES TO THE PUBLIC,
+12 HOSPITAL FUNDING NEEDS AND OTHER RELATED INFORMATION. THE DEPARTMENT
+13 SHALL PROVIDE A COPY OF THE REPORT TO THE SECRETARY OF STATE.]>>
+14 <<Sec. 8. Title 36, chapter 29, article 1, Arizona Revised
+15 Statutes, is amended by adding sections 36-2903.18 and 36-2903.19, to
+16 read:
+17 36-2903.18. Data matching agreements; review of member
+18 eligibility information; quarterly eligibility
+19 redetermination; waiver requests
+20 [A. THE ADMINISTRATION SHALL ENTER INTO A DATA MATCHING AGREEMENT
+21 WITH THE DEPARTMENT OF REVENUE TO IDENTIFY MEMBERS WHO HAVE LOTTERY OR
+22 GAMBLING WINNINGS OF $3,000 OR MORE. THE ADMINISTRATION SHALL REVIEW THIS
+23 INFORMATION ON AT LEAST A MONTHLY BASIS. IF A MEMBER FAILS TO DISCLOSE
+24 WINNINGS OF $3,000 OR MORE AND IS IDENTIFIED THROUGH THE DATABASE MATCH,
+25 THE ADMINISTRATION SHALL CONSIDER THE MEMBER'S FAILURE TO DISCLOSE THE
+26 INFORMATION A VIOLATION OF THE SYSTEM'S TERMS OF ELIGIBILITY.
+27 B. ON AT LEAST A MONTHLY BASIS, THE ADMINISTRATION SHALL:
+28 1. RECEIVE AND REVIEW DEATH RECORDS INFORMATION FROM THE DEPARTMENT
+29 OF HEALTH SERVICES CONCERNING MEMBERS AND SHALL ADJUST SYSTEM ELIGIBILITY
+30 ACCORDINGLY.
+31 2. REVIEW INFORMATION CONCERNING MEMBERS THAT INDICATES A CHANGE IN
+32 CIRCUMSTANCES THAT MAY AFFECT ELIGIBILITY, INCLUDING POTENTIAL CHANGES IN
+33 RESIDENCY AS IDENTIFIED BY OUT-OF-STATE ELECTRONIC BENEFIT TRANSFER CARD
+34 TRANSACTIONS.
+35 C. ON A QUARTERLY BASIS, THE ADMINISTRATION SHALL REDETERMINE THE
+36 ELIGIBILITY OF ABLE-BODIED ADULTS WHO ARE ELIGIBLE PURSUANT TO SECTION
+37 36-2901, 36-2901.01 OR 36-2901.07 AND WHO ARE NOT AMERICAN INDIANS OR
+38 ALASKA NATIVES. FOR THE PURPOSES OF THE REDETERMINATION PROCESS, THE
+39 ADMINISTRATION SHALL RECEIVE AND REVIEW INFORMATION FROM BOTH:
+40 1. THE DEPARTMENT OF REVENUE CONCERNING MEMBERS THAT INDICATES A
+41 CHANGE IN CIRCUMSTANCES THAT MAY AFFECT ELIGIBILITY FOR THE SYSTEM,
+42 INCLUDING POTENTIAL CHANGES IN INCOME, WAGES OR RESIDENCY AS IDENTIFIED BY
+43 TAX RECORDS.
+44 2. THE DEPARTMENT OF ECONOMIC SECURITY CONCERNING MEMBERS THAT
+45 INDICATES A CHANGE IN CIRCUMSTANCES THAT MAY AFFECT ELIGIBILITY, INCLUDING
+46 CHANGES TO UNEMPLOYMENT BENEFITS, EMPLOYMENT STATUS OR WAGES.
+-11-
+
+House Amendments to H.B. 2728
+1 D. UNLESS REQUIRED BY FEDERAL LAW, THE ADMINISTRATION MAY NOT
+2 ACCEPT SELF-ATTESTATION OF INCOME, RESIDENCY, AGE, HOUSEHOLD COMPOSITION,
+3 CARETAKER OR RELATIVE STATUS OR RECEIPT OF OTHER HEALTH INSURANCE COVERAGE
+4 WITHOUT INDEPENDENT VERIFICATION BEFORE ENROLLMENT. THE ADMINISTRATION
+5 MAY NOT REQUEST AUTHORITY TO WAIVE OR DECLINE TO PERIODICALLY CHECK ANY
+6 AVAILABLE INCOME-RELATED DATA SOURCES TO VERIFY ELIGIBILITY.
+7 E. THE ADMINISTRATION MAY NOT ACCEPT ELIGIBILITY DETERMINATIONS FOR
+8 THE SYSTEM FROM AN EXCHANGE ESTABLISHED PURSUANT TO 42 UNITED STATES CODE
+9 SECTION 18041(c). THE ADMINISTRATION MAY ACCEPT ASSESSMENTS FROM AN
+10 EXCHANGE ESTABLISHED PURSUANT TO 42 UNITED STATES CODE SECTION 18041(c)
+11 BUT SHALL INDEPENDENTLY VERIFY ELIGIBILITY AND MAKE ELIGIBILITY
+12 DETERMINATIONS.
+13 F. IF THE ADMINISTRATION RECEIVES INFORMATION CONCERNING A MEMBER
+14 THAT INDICATES A CHANGE IN THE MEMBER'S CIRCUMSTANCES THAT MAY AFFECT
+15 ELIGIBILITY, THE ADMINISTRATION SHALL REVIEW THE MEMBER'S ELIGIBILITY.
+16 G. THE ADMINISTRATION MAY EXECUTE A MEMORANDUM OF UNDERSTANDING
+17 WITH ANY OTHER DEPARTMENT OF THIS STATE FOR INFORMATION REQUIRED TO BE
+18 SHARED PURSUANT TO THIS SECTION. THE ADMINISTRATION MAY CONTRACT WITH ONE
+19 OR MORE INDEPENDENT VENDORS TO PROVIDE ADDITIONAL DATA OR INFORMATION THAT
+20 MAY INDICATE A CHANGE IN CIRCUMSTANCES AND AFFECT AN INDIVIDUAL'S
+21 ELIGIBILITY.
+22 H. ON OR BEFORE APRIL 1, 2027, THE ADMINISTRATION SHALL SUBMIT TO
+23 THE CENTERS FOR MEDICARE AND MEDICAID SERVICES ANY WAIVER REQUESTS
+24 NECESSARY TO IMPLEMENT THIS SECTION.]
+25 36-2903.19. Presumptive eligibility; limits; standards;
+26 notification; training
+27 [A. THE ADMINISTRATION SHALL REQUEST APPROVAL FROM THE CENTERS FOR
+28 MEDICARE AND MEDICAID SERVICES FOR A SECTION 1115 WAIVER TO ALLOW THE
+29 ADMINISTRATION TO ELIMINATE MANDATORY HOSPITAL PRESUMPTIVE ELIGIBILITY AND
+30 RESTRICT PRESUMPTIVE ELIGIBILITY DETERMINATIONS TO CHILDREN AND PREGNANT
+31 WOMEN ELIGIBILITY GROUPS. IF APPROVAL FOR THE SECTION 1115 WAIVER IS
+32 DENIED, THE ADMINISTRATION SHALL RESUBMIT A SUBSEQUENT REQUEST FOR
+33 APPROVAL WITHIN TWELVE MONTHS AFTER EACH DENIAL.
+34 B. UNLESS REQUIRED BY FEDERAL LAW, THE ADMINISTRATION MAY NOT
+35 DESIGNATE ITSELF AS A QUALIFIED HEALTH ENTITY FOR THE PURPOSE OF MAKING
+36 PRESUMPTIVE ELIGIBILITY DETERMINATIONS OR FOR ANY PURPOSE NOT EXPRESSLY
+37 AUTHORIZED BY STATE LAW.
+38 C. WHEN MAKING PRESUMPTIVE ELIGIBILITY DETERMINATIONS, A QUALIFIED
+39 HOSPITAL SHALL DO ALL OF THE FOLLOWING:
+40 1. NOTIFY THE ADMINISTRATION OF EACH PRESUMPTIVE ELIGIBILITY
+41 DETERMINATION WITHIN FIVE WORKING DAYS AFTER THE DATE THE DETERMINATION IS
+42 MADE.
+43 2. ASSIST INDIVIDUALS WHO ARE DETERMINED PRESUMPTIVELY ELIGIBLE
+44 UNDER THE SYSTEM WITH COMPLETING AND SUBMITTING A FULL APPLICATION FOR
+45 SYSTEM ELIGIBILITY.
+-12-
+
+House Amendments to H.B. 2728
+1 3. NOTIFY EACH APPLICANT IN WRITING AND ON ALL RELEVANT FORMS WITH
+2 PLAIN LANGUAGE AND LARGE PRINT THAT IF THE APPLICANT DOES NOT FILE A FULL
+3 APPLICATION FOR SYSTEM ELIGIBILITY WITH THE ADMINISTRATION BEFORE THE LAST
+4 DAY OF THE FOLLOWING MONTH, PRESUMPTIVE ELIGIBILITY COVERAGE WILL END ON
+5 THE LAST DAY OF THE FOLLOWING MONTH.
+6 4. NOTIFY EACH APPLICANT THAT IF THE APPLICANT FILES A FULL
+7 APPLICATION FOR SYSTEM ELIGIBILITY WITH THE ADMINISTRATION BEFORE THE LAST
+8 DAY OF THE FOLLOWING MONTH, PRESUMPTIVE ELIGIBILITY COVERAGE WILL CONTINUE
+9 UNTIL AN ELIGIBILITY DETERMINATION IS MADE ON THE APPLICATION THAT IS
+10 FILED.
+11 D. THE ADMINISTRATION SHALL APPLY THE FOLLOWING STANDARDS TO
+12 ESTABLISH AND ENSURE THAT ACCURATE PRESUMPTIVE ELIGIBILITY DETERMINATIONS
+13 ARE MADE BY EACH QUALIFIED HOSPITAL:
+14 1. WHETHER THE QUALIFIED HOSPITAL SUBMITTED TO THE ADMINISTRATION
+15 THE PRESUMPTIVE ELIGIBILITY CARD WITHIN FIVE WORKING DAYS AFTER THE
+16 DETERMINATION DATE.
+17 2. WHETHER A FULL APPLICATION FOR SYSTEM ELIGIBILITY WAS RECEIVED
+18 BY THE ADMINISTRATION BEFORE THE EXPIRATION OF THE PRESUMPTIVE ELIGIBILITY
+19 PERIOD.
+20 3. IF A FULL APPLICATION WAS RECEIVED BY THE ADMINISTRATION,
+21 WHETHER THE INDIVIDUAL WAS FOUND TO BE ELIGIBLE UNDER THE SYSTEM.
+22 E. IF THE ADMINISTRATION DETERMINES THAT A QUALIFIED HOSPITAL FAILS
+23 TO MEET ANY OF THE STANDARDS ESTABLISHED UNDER SUBSECTION D OF THIS
+24 SECTION FOR ANY PRESUMPTIVE ELIGIBILITY DETERMINATION THAT THE QUALIFIED
+25 HOSPITAL MADE, THE ADMINISTRATION SHALL NOTIFY THE QUALIFIED HOSPITAL IN
+26 WRITING WITHIN FIVE DAYS AFTER THE DETERMINATION. THE NOTICE MUST
+27 INCLUDE:
+28 1. FOR THE FIRST VIOLATION, BOTH OF THE FOLLOWING:
+29 (a) A DESCRIPTION OF THE STANDARD THAT WAS NOT MET AND AN
+30 EXPLANATION OF WHY IT WAS NOT MET.
+31 (b) CONFIRMATION THAT A SECOND FINDING WILL REQUIRE THAT ALL
+32 APPLICABLE HOSPITAL STAFF PARTICIPATE IN MANDATORY TRAINING BY THE
+33 ADMINISTRATION ON HOSPITAL PRESUMPTIVE ELIGIBILITY RULES.
+34 2. FOR THE SECOND VIOLATION, ALL OF THE FOLLOWING:
+35 (a) A DESCRIPTION OF THE STANDARD THAT WAS NOT MET AND AN
+36 EXPLANATION OF WHY IT WAS NOT MET.
+37 (b) CONFIRMATION THAT ALL APPLICABLE HOSPITAL STAFF WILL BE
+38 REQUIRED TO PARTICIPATE IN MANDATORY TRAINING BY THE ADMINISTRATION ON
+39 HOSPITAL PRESUMPTIVE ELIGIBILITY RULES, INCLUDING THE DATE, TIME AND
+40 LOCATION OF THE TRAINING AS DETERMINED BY THE ADMINISTRATION.
+41 (c) A DESCRIPTION OF AVAILABLE APPEALS PROCEDURES BY WHICH A
+42 QUALIFIED HOSPITAL MAY DISPUTE THE FINDING AND REMOVE THE FINDING FROM THE
+43 QUALIFIED HOSPITAL'S RECORD BY PROVIDING CLEAR AND CONVINCING EVIDENCE
+44 THAT THE STANDARD WAS MET.
+45 (d) CONFIRMATION THAT IF THE QUALIFIED HOSPITAL SUBSEQUENTLY FAILS
+46 TO MEET ANY STANDARD FOR PRESUMPTIVE ELIGIBILITY FOR ANY DETERMINATION,
+-13-
+
+House Amendments to H.B. 2728
+1 THE QUALIFIED HOSPITAL WILL NO LONGER BE QUALIFIED TO MAKE PRESUMPTIVE
+2 ELIGIBILITY DETERMINATIONS UNDER THE SYSTEM.
+3 3. FOR THE THIRD VIOLATION, ALL OF THE FOLLOWING:
+4 (a) A DESCRIPTION OF THE STANDARD THAT WAS NOT MET AND AN
+5 EXPLANATION OF WHY IT WAS NOT MET.
+6 (b) A DESCRIPTION OF AVAILABLE APPEALS PROCEDURES BY WHICH A
+7 QUALIFIED HOSPITAL MAY DISPUTE THE FINDING AND REMOVE THE FINDING FROM THE
+8 QUALIFIED HOSPITAL'S RECORD BY PROVIDING CLEAR AND CONVINCING EVIDENCE
+9 THAT THE STANDARD WAS MET.
+10 (c) CONFIRMATION THAT, EFFECTIVE IMMEDIATELY, THE QUALIFIED
+11 HOSPITAL IS NO LONGER QUALIFIED TO MAKE PRESUMPTIVE ELIGIBILITY
+12 DETERMINATIONS UNDER THE SYSTEM.]>>
+13 <<Sec. 9. Section 41-708, Arizona Revised Statutes, is amended to
+14 read:
+15 41-708. Annual report; state employee salaries; full-time
+16 equivalent positions; vacant positions;
+17 applicability; definitions
+18 A. On or before October 1 of each year, the department shall
+19 collect from each budget unit and shall submit to the joint legislative
+20 budget committee and the governor's office of strategic planning and
+21 budgeting a report containing the number of full-time equivalent positions
+22 and the total amount of salaries for each budget unit for the prior fiscal
+23 year, delineated by:
+24 1. Retirement system.
+25 2. Employee tier.
+26 3. Fund source.
+27 [B. THE DEPARTMENT SHALL ALSO COLLECT A LIST FROM EACH BUDGET UNIT
+28 OF ALL VACANT, FULL-TIME EQUIVALENT POSITIONS THAT HAVE BEEN VACANT FOR AT
+29 LEAST ONE HUNDRED FIFTY DAYS TO INCLUDE IN THE REPORT SUBMITTED PURSUANT
+30 TO SUBSECTION A OF THIS SECTION.]
+31 [B.] [C.] For the purposes of this section:
+32 1. "Budget unit":
+33 (a) Means a department, commission, board, institution or other
+34 agency of this state that receives, expends or disburses state monies or
+35 incurs obligations of this state.
+36 (b) Does not include the Arizona board of regents, universities
+37 under the jurisdiction of the Arizona board of regents and community
+38 college districts.
+39 2. "Employee tier" means a class of employees in a retirement
+40 system in which each employee is subject to the same employer contribution
+41 rate pursuant to title 38, chapter 5.>>
+-14-
+
+House Amendments to H.B. 2728
+1 <<Sec. 10. Title 41, chapter 4, article 1, Arizona Revised
+2 Statutes, is amended by adding section 41-710.04, to read:
+3 41-710.04. Agency vacancies; elimination; full-time
+4 equivalent positions; adjustment; definition
+5 [A. NOTWITHSTANDING ANY OTHER LAW, EACH FISCAL YEAR A BUDGET UNIT
+6 SHALL ELIMINATE ANY POSITIONS WITHIN THE BUDGET UNIT THAT HAVE BEEN VACANT
+7 FOR MORE THAN ONE HUNDRED FIFTY DAYS. THE BUDGET UNIT'S ALLOCATED
+8 FULL-TIME EQUIVALENT POSITIONS SHALL BE ADJUSTED TO REFLECT THE
+9 ELIMINATION OF ANY VACANT POSITIONS.
+10 B. FOR THE PURPOSES OF THIS SECTION, "BUDGET UNIT":
+11 1. MEANS A DEPARTMENT, COMMISSION, BOARD, INSTITUTION OR OTHER
+12 AGENCY OF THIS STATE THAT RECEIVES, SPENDS OR DISBURSES STATE MONIES OR
+13 INCURS OBLIGATIONS OF THIS STATE.
+14 2. DOES NOT INCLUDE THE STATE DEPARTMENT OF CORRECTIONS, THE
+15 DEPARTMENT OF PUBLIC SAFETY, THE ARIZONA BOARD OF REGENTS, UNIVERSITIES
+16 UNDER THE JURISDICTION OF THE ARIZONA BOARD OF REGENTS AND COMMUNITY
+17 COLLEGE DISTRICTS.]>>
+18 Sec. 11. Repeal
+19 Section 41-3026.21, Arizona Revised Statutes, is repealed.
+20 Sec. 12. Title 41, chapter 27, article 2, Arizona Revised Statutes,
+21 is amended by adding section 41-3030.27, to read:
+22 41-3030.27. Department of economic security; termination July
+23 1, 2030
+24 A. THE DEPARTMENT OF ECONOMIC SECURITY TERMINATES ON JULY 1, 2030.
+25 B. TITLE 41, CHAPTER 14 AND THIS SECTION ARE REPEALED ON JANUARY 1,
+26 2031.
+27 <<Sec. 13. Title 46, chapter 2, article 2, Arizona Revised
+28 Statutes, is amended by adding sections 46-232, 46-233, 46-234, 46-235 and
+29 46-236, to read:
+30 46-232. Supplemental nutrition assistance program;
+31 eligibility evaluations; public posting;
+32 definitions
+33 [A. TO DETERMINE OR EVALUATE SNAP ELIGIBILITY, THE DEPARTMENT OF
+34 ECONOMIC SECURITY SHALL:
+35 1. ENTER INTO A DATA MATCHING AGREEMENT WITH THE DEPARTMENT OF
+36 REVENUE TO IDENTIFY HOUSEHOLDS WITH LOTTERY OR GAMBLING WINNINGS OF $3,000
+37 OR MORE AND, TO THE EXTENT PERMISSIBLE UNDER FEDERAL LAW, TO TREAT THE
+38 DATA OBTAINED AS VERIFIED ON RECEIPT. TO THE EXTENT THE DATA MAY NOT BE
+39 VERIFIED ON RECEIPT, THE DEPARTMENT OF ECONOMIC SECURITY SHALL REFER THOSE
+40 HOUSEHOLDS WITH LOTTERY OR GAMBLING WINNINGS THAT ARE EQUAL TO OR GREATER
+41 THAN THE RESOURCE LIMIT FOR HOUSEHOLD MEMBERS WHO ARE ELDERLY OR WHO HAVE
+42 A DISABILITY AS PRESCRIBED IN 7 CODE OF FEDERAL REGULATIONS SECTION
+43 273.8(b) TO THE DEPARTMENT OF ECONOMIC SECURITY FOR FURTHER INVESTIGATION.
+44 2. ON AT LEAST A MONTHLY BASIS, REVIEW INFORMATION THAT IS PROVIDED
+45 BY THE DEPARTMENT OF HEALTH SERVICES AND THAT IDENTIFIES INDIVIDUALS WHO
+46 HAVE HAD A CHANGE IN CIRCUMSTANCES THAT MAY AFFECT SNAP ELIGIBILITY.
+-15-
+
+House Amendments to H.B. 2728
+1 3. ON AT LEAST A QUARTERLY BASIS, REVIEW THE DEPARTMENT'S
+2 INFORMATION THAT IDENTIFIES INDIVIDUALS WHO HAVE HAD A CHANGE IN
+3 CIRCUMSTANCES THAT MAY AFFECT SNAP ELIGIBILITY, INCLUDING A CHANGE IN
+4 UNEMPLOYMENT BENEFITS, EMPLOYMENT STATUS OR WAGES.
+5 4. ON AT LEAST A MONTHLY BASIS, REVIEW THE DEPARTMENT'S INFORMATION
+6 THAT IDENTIFIES INDIVIDUALS WHO HAVE HAD A CHANGE IN CIRCUMSTANCES THAT
+7 MAY AFFECT SNAP ELIGIBILITY, INCLUDING POTENTIAL CHANGES IN RESIDENCY AS
+8 IDENTIFIED BY OUT-OF-STATE ELECTRONIC BENEFIT TRANSFER CARD TRANSACTIONS.
+9 5. ON AT LEAST A MONTHLY BASIS, REVIEW INFORMATION THAT IS PROVIDED
+10 BY THE STATE DEPARTMENT OF CORRECTIONS AND THAT IDENTIFIES INDIVIDUALS WHO
+11 HAVE HAD A CHANGE IN CIRCUMSTANCES THAT MAY AFFECT SNAP ELIGIBILITY.
+12 6. ON AT LEAST A QUARTERLY BASIS, REVIEW INFORMATION THAT IS
+13 PROVIDED BY THE DEPARTMENT OF REVENUE AND THAT IDENTIFIES HOUSEHOLDS THAT
+14 HAVE HAD A CHANGE IN CIRCUMSTANCES THAT MAY AFFECT SNAP ELIGIBILITY,
+15 INCLUDING POTENTIAL CHANGES IN INCOME, WAGES OR RESIDENCY AS IDENTIFIED BY
+16 TAX RECORDS.
+17 7. ON AT LEAST A QUARTERLY BASIS, POST ON THE DEPARTMENT'S PUBLIC
+18 WEBSITE THE FOLLOWING AGGREGATED AMOUNTS THAT WERE OBTAINED FROM
+19 NONCOMPLIANCE AND FRAUD INVESTIGATIONS RELATED TO SNAP, EXCLUDING
+20 CONFIDENTIAL AND PERSONALLY IDENTIFIABLE INFORMATION:
+21 (a) THE NUMBER OF SNAP CASES THAT WERE INVESTIGATED FOR INTENTIONAL
+22 PROGRAM VIOLATIONS OR FRAUD.
+23 (b) THE NUMBER OF SNAP CASES THAT WERE REFERRED TO THE ATTORNEY
+24 GENERAL'S OFFICE FOR PROSECUTION.
+25 (c) THE AMOUNT OF IMPROPER PAYMENTS AND EXPENDITURES.
+26 (d) THE AMOUNT OF MONIES RECOVERED.
+27 (e) THE AMOUNT OF MONIES SPENT FOR IMPROPER PAYMENTS AND INELIGIBLE
+28 RECIPIENTS AS A PERCENTAGE OF CASES THAT WERE INVESTIGATED AND REVIEWED.
+29 (f) THE AMOUNT OF MONIES SPENT BY ELECTRONIC BENEFIT CARD
+30 TRANSACTIONS THAT OCCURRED OUTSIDE OF THIS STATE, CATEGORIZED BY STATE.
+31 B. ON AT LEAST A MONTHLY BASIS, THE DEPARTMENT OF HEALTH SERVICES
+32 AND THE DEPARTMENT OF ECONOMIC SECURITY SHALL REVIEW THE FOLLOWING
+33 INFORMATION FROM FEDERAL SOURCES TO ASSESS A RECIPIENT'S CONTINUED
+34 ELIGIBILITY FOR SNAP:
+35 1. EARNED INCOME INFORMATION, DEATH REGISTER INFORMATION,
+36 INCARCERATION RECORDS, SUPPLEMENTAL SECURITY INCOME INFORMATION,
+37 BENEFICIARY RECORDS, EARNINGS INFORMATION AND PENSION INFORMATION THAT IS
+38 MAINTAINED BY THE UNITED STATES SOCIAL SECURITY ADMINISTRATION.
+39 2. INCOME AND EMPLOYMENT INFORMATION THAT IS MAINTAINED IN THE
+40 NATIONAL DIRECTORY OF NEW HIRES DATABASE AND CHILD SUPPORT ENFORCEMENT
+41 DATA THAT IS MAINTAINED BY THE UNITED STATES DEPARTMENT OF HEALTH AND
+42 HUMAN SERVICES.
+43 3. PAYMENT AND EARNINGS INFORMATION THAT IS MAINTAINED BY THE
+44 UNITED STATES DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT.
+45 4. NATIONAL FLEEING FELON INFORMATION THAT IS MAINTAINED BY THE
+46 UNITED STATES FEDERAL BUREAU OF INVESTIGATION.
+-16-
+
+House Amendments to H.B. 2728
+1 C. IF THE DEPARTMENT RECEIVES INFORMATION THAT IDENTIFIES AN
+2 INDIVIDUAL WHO IS ENROLLED IN SNAP AND THAT INDICATES A CHANGE IN
+3 CIRCUMSTANCES THAT MAY AFFECT THAT INDIVIDUAL'S SNAP ELIGIBILITY, THE
+4 DEPARTMENT SHALL REVIEW THAT INDIVIDUAL'S CASE.
+5 D. FOR THE PURPOSES OF THIS SECTION:
+6 1. "DEPARTMENT" MEANS THE DEPARTMENT OF ECONOMIC SECURITY.
+7 2. "SNAP" MEANS THE SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM.]
+8 46-233. Department of economic security; supplemental
+9 nutrition assistance program; work requirement
+10 waivers; discretionary exemption prohibition
+11 [A. A. THE DEPARTMENT OF ECONOMIC SECURITY MAY NOT SEEK, APPLY
+12 FOR, ACCEPT OR RENEW ANY WAIVER OF WORK REQUIREMENT FOR ABLE-BODIED ADULTS
+13 WITHOUT DEPENDENTS PURSUANT TO 7 UNITED STATES CODE SECTION 2015(o)(4)
+14 UNLESS:
+15 1. IT IS REQUIRED BY FEDERAL LAW.
+16 2. IT IS AUTHORIZED BY STATE LAW.
+17 B. THE DEPARTMENT OF ECONOMIC SECURITY MAY NOT EXERCISE THIS
+18 STATE'S OPTION TO PROVIDE ANY EXEMPTIONS FROM THE WORK REQUIREMENT UNDER
+19 7 UNITED STATES CODE SECTION 2015(o)(6)(F) UNLESS AUTHORIZED BY STATE
+20 LAW.]
+21 46-234. Supplemental nutrition assistance program; mandatory
+22 employment and training
+23 [THE DEPARTMENT OF ECONOMIC SECURITY SHALL REQUIRE ABLE-BODIED
+24 ADULTS WHO ARE UNDER SIXTY YEARS OF AGE AND WHO ARE RECEIVING SUPPLEMENTAL
+25 NUTRITION ASSISTANCE TO PARTICIPATE IN A MANDATORY EMPLOYMENT AND TRAINING
+26 PROGRAM, AS PRESCRIBED IN 7 UNITED STATES CODE SECTION 2015(d), UNLESS THE
+27 RECIPIENT IS:
+28 1. IN COMPLIANCE WITH THE WORK REGISTRATION REQUIREMENTS UNDER
+29 TITLE IV OF THE SOCIAL SECURITY ACT OR THE FEDERAL-STATE UNEMPLOYMENT
+30 COMPENSATION SYSTEM. A RECIPIENT WHO IS NONCOMPLIANT WITH THE WORK
+31 REGISTRATION REQUIREMENTS UNDER TITLE IV OF THE SOCIAL SECURITY ACT OR THE
+32 FEDERAL-STATE UNEMPLOYMENT COMPENSATION SYSTEM IS NONCOMPLIANT WITH THE
+33 WORK REQUIREMENTS OF 7 UNITED STATES CODE SECTION 2015(d).
+34 2. A PARENT OR OTHER MEMBER OF A HOUSEHOLD WHO IS RESPONSIBLE FOR
+35 THE CARE OF AN INCAPACITATED PERSON OR A DEPENDENT CHILD WHO IS UNDER SIX
+36 YEARS OF AGE.
+37 3. A BONA FIDE STUDENT WHO IS ENROLLED AT LEAST HALF TIME IN ANY
+38 RECOGNIZED SCHOOL, TRAINING PROGRAM OR INSTITUTION OF HIGHER EDUCATION
+39 UNLESS THE RECIPIENT IS INELIGIBLE TO PARTICIPATE PURSUANT TO 7 UNITED
+40 STATES CODE SECTION 2015(e).
+41 4. A REGULAR PARTICIPANT IN A DRUG ADDICTION OR AN ALCOHOLIC
+42 TREATMENT AND REHABILITATION PROGRAM.
+43 5. EMPLOYED AT LEAST THIRTY HOURS PER WEEK OR RECEIVES WEEKLY
+44 EARNINGS THAT EQUAL THE MINIMUM HOURLY RATE UNDER THE FAIR LABOR STANDARDS
+45 ACT OF 1938 (52 STAT. 1060; 29 UNITED STATES CODE SECTIONS 201 THROUGH
+46 219), MULTIPLIED BY THIRTY HOURS.
+-17-
+
+House Amendments to H.B. 2728
+1 6. SIXTEEN, SEVENTEEN OR EIGHTEEN YEARS OF AGE AND IS NOT THE HEAD
+2 OF A HOUSEHOLD OR ATTENDS SCHOOL OR IS ENROLLED IN AN EMPLOYMENT TRAINING
+3 PROGRAM ON AT LEAST A HALF-TIME BASIS.]
+4 46-235. Use of supplemental nutrition assistance benefits;
+5 purchases; waiver; definitions
+6 [A. THE DIRECTOR OF THE DEPARTMENT OF ECONOMIC SECURITY SHALL
+7 REQUEST ANY WAIVER FROM THE UNITED STATES DEPARTMENT OF AGRICULTURE TO
+8 IMPLEMENT THIS SECTION THAT INCLUDES THE AUTHORITY TO RESTRICT THE
+9 PURCHASE OF NONELIGIBLE FOODS USING SUPPLEMENTAL NUTRITION ASSISTANCE
+10 PROGRAM BENEFITS.
+11 B. IF THE WAIVER IS NOT GRANTED, THE DIRECTOR SHALL RESUBMIT THE
+12 REQUEST ANNUALLY AND MAY PURSUE THE UNITED STATES DEPARTMENT OF
+13 AGRICULTURE PILOT OR DEMONSTRATION AUTHORITY AS ALLOWED UNDER FEDERAL LAW.
+14 C. THE DEPARTMENT SHALL PROVIDE CLEAR GUIDANCE TO SUPPLEMENTAL
+15 NUTRITION ASSISTANCE PROGRAM RECIPIENTS AND RETAILERS AND ALLOW A
+16 REASONABLE IMPLEMENTATION PERIOD TO ENSURE COMPLIANCE WITH THIS SECTION.
+17 D. THIS SECTION DOES NOT REDUCE BENEFIT AMOUNTS, RESTRICT ACCESS TO
+18 ELIGIBLE FOODS OR LIMIT PARTICIPATION IN THE SUPPLEMENTAL NUTRITION
+19 ASSISTANCE PROGRAM.
+20 E. FOR THE PURPOSES OF THIS SECTION:
+21 1. "ELIGIBLE FOODS" MEANS ANY FOOD ITEM THAT MAY BE PURCHASED USING
+22 SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM BENEFITS AND INCLUDES THE
+23 FOLLOWING CATEGORIES:
+24 (a) WHOLE MEATS, POULTRY AND FISH, INCLUDING FROZEN, FRESH OR
+25 CANNED PRODUCTS.
+26 (b) DAIRY PRODUCTS, INCLUDING MILK, CHEESE, YOGURT, BUTTER, CREAM
+27 AND MILK ALTERNATIVES.
+28 (c) EGGS AND EGG SUBSTITUTES.
+29 (d) FRUITS AND VEGETABLES, INCLUDING FRESH, FROZEN, DRIED OR CANNED
+30 PRODUCTS WITHOUT ADDED SWEETENERS.
+31 (e) GRAINS AND GRAIN PRODUCTS, INCLUDING FLOUR, RICE, PASTA,
+32 CEREALS AND TORTILLAS.
+33 (f) COOKING OILS AND FATS.
+34 (g) WATER PRODUCTS WITHOUT ADDED SWEETENERS OR SUGAR SUBSTITUTES.
+35 (h) ONE HUNDRED PERCENT FRUIT OR VEGETABLE JUICE.
+36 (i) ANY FOOD ITEM APPROVED FOR PURCHASE UNDER THE FEDERAL WOMEN,
+37 INFANTS AND CHILDREN FOOD PROGRAM.
+38 2. "NONELIGIBLE FOODS" INCLUDES ANY OF THE FOLLOWING:
+39 (a) SUGAR-SWEETENED BEVERAGES, INCLUDING SODA AND ENERGY DRINKS.
+40 (b) CANDY AND CONFECTIONERY PRODUCTS.
+41 (c) SNACK FOODS OF MINIMAL NUTRITIONAL VALUE AS DEFINED BY THE
+42 UNITED STATES DEPARTMENT OF AGRICULTURE.
+43 (d) PREPARED HOT FOODS INTENDED FOR IMMEDIATE CONSUMPTION.]
+-18-
+
+House Amendments to H.B. 2728
+1 46-236. Payment error rate; reduction; quarterly reports;
+2 requirements; auditor general
+3 [A. ON OR BEFORE DECEMBER 30, 2030, THE DEPARTMENT SHALL REDUCE THE
+4 SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM'S PAYMENT ERROR RATE AS REPORTED
+5 BY THE UNITED STATES DEPARTMENT OF AGRICULTURE TO NOT MORE THAN THREE
+6 PERCENT.
+7 B. BEGINNING IN FISCAL YEAR 2026-2027 AND EACH FISCAL YEAR
+8 THEREAFTER, THE DEPARTMENT SHALL SUBMIT A QUARTERLY REPORT TO THE
+9 LEGISLATURE WITHIN THIRTY DAYS AFTER THE END OF THE QUARTER THAT DETAILS
+10 THE DEPARTMENT'S MONTHLY PROGRESS TOWARDS REDUCING THE PAYMENT ERROR RATE
+11 AND THAT INCLUDES STRATEGIES AND BARRIERS THAT MAY BE PRESENT IN REDUCING
+12 THE PAYMENT ERROR RATE.
+13 C. IF THE DEPARTMENT FAILS TO MEET ANNUAL INTERIM TARGETS
+14 ESTABLISHED BY RULE OR THE FINAL TARGET AS PRESCRIBED IN SUBSECTION A OF
+15 THIS SECTION, THE DEPARTMENT SHALL:
+16 1. SUBMIT A CORRECTIVE ACTION PLAN TO THE LEGISLATURE WITHIN SIXTY
+17 DAYS THAT INCLUDES AN ANALYSIS OF WHY THE TARGETS WERE NOT MET AND
+18 TIMELINES FOR CORRECTING THE PAYMENT ERROR RATE.
+19 2. PAY FIFTY PERCENT OF ANY FEDERAL LIABILITIES THAT MAY BE IMPOSED
+20 DUE TO THE EXCESS PAYMENT ERROR RATES. THE REMAINING FEDERAL LIABILITIES
+21 SHALL BE PAID FROM THE STATE GENERAL FUND.
+22 3. IMPLEMENT A CORRECTIVE PLAN. IF THE DEPARTMENT FAILS TO COMPLY
+23 WITH THE CORRECTIVE PLAN, THE DEPARTMENT'S ADMINISTRATIVE FUNDING SHALL BE
+24 REDUCED BY TEN PERCENT UNTIL RESOLVED.
+25 D. ON OR BEFORE NOVEMBER 15, 2027, THE AUDITOR GENERAL SHALL
+26 COMPLETE A SPECIAL AUDIT. THE SPECIAL AUDIT SHALL DETERMINE WHAT FACTORS
+27 CONTRIBUTED TO THE PAYMENT ERROR RATE AND SHALL INCLUDE RECOMMENDATIONS TO
+28 REDUCE THE PAYMENT ERROR RATE. THE DEPARTMENT SHALL IMPLEMENT THE
+29 RECOMMENDATIONS WITHIN TWELVE MONTHS AFTER RECEIVING THE RECOMMENDATIONS
+30 FROM THE AUDITOR GENERAL UNLESS THE RECOMMENDATIONS ARE WAIVED BY THE
+31 JOINT LEGISLATIVE AUDIT COMMITTEE. THE AUDITOR GENERAL MAY REQUEST THAT
+32 THE DEPARTMENT SUBMIT A WRITTEN STATUS REPORT ON THE DEPARTMENT'S
+33 IMPLEMENTATION OF THE SPECIAL AUDIT RECOMMENDATIONS.
+34 E. IF THE DEPARTMENT CORRECTS THE PAYMENT ERROR RATE AHEAD OF
+35 SCHEDULE, THE LEGISLATURE MAY ALLOCATE ADDITIONAL FUNDING FOR PROGRAM
+36 IMPROVEMENTS.]>>
+37 <<Sec. 14. Delayed repeal
+38 [Section 46-236, Arizona Revised Statutes, as added by this act, is
+39 repealed from and after December 31, 2032.]>>
+40 <<Sec. 15. Section 46-297.01, Arizona Revised Statutes, is amended
+41 to read:
+42 46-297.01. Electronic benefit transfer cards; replacements;
+43 out-of-state spending; fraud investigation
+44 A. The department shall send each recipient who requests two
+45 replacement cards within a twelve-month period a letter informing the
+46 recipient that another request will initiate an investigation by the
+47 department to determine whether there is fraud. If a third-party vendor
+-19-
+
+House Amendments to H.B. 2728
+1 is administering replacement cards directly to recipients, the vendor
+2 shall notify the department after a recipient requests a second
+3 replacement card in a twelve-month period and makes any subsequent request
+4 thereafter.
+5 B. After a recipient's request for a third replacement card within
+6 any twelve-month period, and any subsequent request thereafter, the
+7 department shall schedule an interview with the recipient and, if the
+8 department has been granted a waiver, determine whether there is fraud
+9 before issuing a new card. The recipient's request for a fourth
+10 replacement card requires the department to schedule an interview with the
+11 recipient to determine whether there is fraud before issuing a new card.
+12 The department shall request any necessary federal waivers to comply with
+13 this section.
+14 C. If a recipient uses more than ten percent of the recipient's
+15 electronic benefit transfer card balance in a six-month period on
+16 out-of-state purchases, the department shall schedule an interview with
+17 the recipient to determine whether there is fraud.
+18 D. ON AT LEAST A MONTHLY BASIS, THE DEPARTMENT SHALL USE THE DATA
+19 FROM AN ELECTRONIC BENEFIT TRANSFER CARD TO IDENTIFY ANY INDIVIDUAL WHO
+20 HAS MADE PURCHASES EXCLUSIVELY OUT-OF-STATE OVER A NINETY-DAY PERIOD. THE
+21 DEPARTMENT SHALL CONTACT THE INDIVIDUAL WHO IS IDENTIFIED WITHIN THIRTY
+22 DAYS TO DETERMINE WHETHER THAT INDIVIDUAL RESIDES IN THIS STATE. IF THE
+23 INDIVIDUAL DOES NOT RESIDE IN THIS STATE, THE DEPARTMENT SHALL REMOVE THAT
+24 INDIVIDUAL WITHIN THIRTY DAYS AFTER CONTACTING THE INDIVIDUAL. WITHIN
+25 FIFTEEN DAYS AFTER THE INDIVIDUAL'S REMOVAL, THE DEPARTMENT SHALL REFER
+26 THE INDIVIDUAL TO THE UNITED STATES ATTORNEY'S OFFICE FOR THE DISTRICT OF
+27 ARIZONA.]>>
+28 <<Sec. 16. Legislative findings
+29 [A. For the purposes of section 46-235, Arizona Revised Statutes,
+30 as added by this act, the legislature finds that the supplemental
+31 nutrition assistance program is intended to:
+32 1. Promote access to nutritious food.
+33 2. Support the health and well-being of recipients.
+34 3. Ensure responsible stewardship of taxpayer monies.
+35 B. The purpose of section 46-235, Arizona Revised Statutes, as
+36 added by this act, is to prioritize access to whole and minimally
+37 processed foods while limiting the purchase of items with minimal
+38 nutritional value.]>>
+39 Sec. 17. Purpose
+40 Pursuant to section 41-2955, subsection B, Arizona Revised Statutes,
+41 the legislature continues the department of economic security to provide
+42 social services, welfare programs, vocational rehabilitation and
+43 employment services and developmental disability programs.
+44 Sec. 18. Retroactivity
+45 Sections [1 ] [11] and [2 ] [12] of this act apply retroactively to
+46 from and after July 1, 2026.
+-20-
+
+House Amendments to H.B. 2728
+1 Sec. 19. Effective Date
+2 <<[Sections 36-2903.18 and 36-2903.19, Arizona Revised Statutes, as
+3 added by this act, are effective from and after December 31, 2026.]>>
+4 Enroll and engross to conform
+5 Amend title to conform
+SELINA BLISS
+2728FloorBLISS.docx
+03/02/2026
+4:58 PM
+C: SK
+130LRPZGU
+-21-

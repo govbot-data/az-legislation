@@ -1,0 +1,693 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Heap - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2686: physicians; surgical centers; call coverage
+HEAP FLOOR AMENDMENT
+1. Deems it unprofessional conduct for a medical doctor or osteopathic physician
+who performs surgeries at an outpatient surgical center and fails to annually
+provide the outpatient surgical center with their call-coverage plan, including
+hospital call coverage, if applicable.
+2. Requires a physician to provide the outpatient surgical center with an updated
+call-coverage plan, including hospital call coverage if applicable, as changes
+are made.
+A GRAHAM
+2/23/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Heap
+Second Regular Session H.B. 2686
+HEAP FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2686
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 32-1401, Arizona Revised Statutes, is amended to
+3 read:
+4 32-1401. Definitions
+5 In this chapter, unless the context otherwise requires:
+6 1. "Active license" means a valid and existing license to practice
+7 medicine.
+8 2. "Adequate records" means legible medical records, produced by
+9 hand or electronically, containing, at a minimum, sufficient information
+10 to identify the patient, support the diagnosis, justify the treatment,
+11 accurately document the results, indicate advice and cautionary warnings
+12 provided to the patient and provide sufficient information for another
+13 practitioner to assume continuity of the patient's care at any point in
+14 the course of treatment.
+15 3. "Advisory letter" means a nondisciplinary letter to notify a
+16 licensee that either:
+17 (a) While there is insufficient evidence to support disciplinary
+18 action, the board believes that continuation of the activities that led to
+19 the investigation may result in further board action against the licensee.
+20 (b) The violation is a minor or technical violation that is not of
+21 sufficient merit to warrant disciplinary action.
+22 (c) While the licensee has demonstrated substantial compliance
+23 through rehabilitation or remediation that has mitigated the need for
+24 disciplinary action, the board believes that repetition of the activities
+25 that led to the investigation may result in further board action against
+26 the licensee.
+27 4. "Approved hospital internship, residency or clinical fellowship
+28 program" means a program at a hospital that at the time the training
+
+House Amendments to H.B. 2686
+1 occurred was legally incorporated and that had a program that was approved
+2 for internship, fellowship or residency training by the accreditation
+3 council for graduate medical education, the association of American
+4 medical colleges, the royal college of physicians and surgeons of Canada
+5 or any similar body in the United States or Canada approved by the board
+6 whose function is that of approving hospitals for internship, fellowship
+7 or residency training.
+8 5. "Approved school of medicine" means any school or college
+9 offering a course of study that, on successful completion, results in the
+10 degree of doctor of medicine and whose course of study has been approved
+11 or accredited by an educational or professional association, recognized by
+12 the board, including the association of American medical colleges, the
+13 association of Canadian medical colleges or the American medical
+14 association.
+15 6. "Board" means the Arizona medical board.
+16 7. "Completed application" means that the applicant has supplied
+17 all required fees, information and correspondence requested by the board
+18 on forms and in a manner acceptable to the board.
+19 8. "Direct supervision" means that a physician, physician assistant
+20 licensed pursuant to chapter 25 of this title or nurse practitioner
+21 certified pursuant to chapter 15 of this title is within the same room or
+22 office suite as the medical assistant in order to be available for
+23 consultation regarding those tasks the medical assistant performs pursuant
+24 to section 32-1456.
+25 9. "Dispense" means the delivery by a doctor of medicine of a
+26 prescription drug or device to a patient, except for samples packaged for
+27 individual use by licensed manufacturers or repackagers of drugs, and
+28 includes the prescribing, administering, packaging, labeling and security
+29 necessary to prepare and safeguard the drug or device for delivery.
+30 10. "Doctor of medicine" means a natural person holding a license,
+31 registration or permit to practice medicine pursuant to this chapter.
+32 11. "Full-time faculty member" means a physician who is employed
+33 full time as a faculty member while holding the academic position of
+34 assistant professor or a higher position at an approved school of
+35 medicine.
+36 12. "Health care institution" means any facility as defined in
+37 section 36-401, any person authorized to transact disability insurance, as
+38 defined in title 20, chapter 6, article 4 or 5, any person who is issued a
+39 certificate of authority pursuant to title 20, chapter 4, article 9 or any
+40 other partnership, association or corporation that provides health care to
+41 consumers.
+42 13. "Immediate family" means the spouse, natural or adopted
+43 children, father, mother, brothers and sisters of the doctor of medicine
+44 and the natural or adopted children, father, mother, brothers and sisters
+45 of the doctor of medicine's spouse.
+46 14. "Letter of reprimand" means a disciplinary letter that is
+47 issued by the board and that informs the physician that the physician's
+-2-
+
+House Amendments to H.B. 2686
+1 conduct violates state or federal law and may require the board to monitor
+2 the physician.
+3 15. "Limit" means taking a nondisciplinary action that alters the
+4 physician's practice or professional activities if the board determines
+5 that there is evidence that the physician is or may be mentally or
+6 physically unable to safely engage in the practice of medicine.
+7 16. "Medical assistant" means an unlicensed person who meets the
+8 requirements of section 32-1456, has completed an education program
+9 approved by the board, assists in a medical practice under the supervision
+10 of a doctor of medicine, physician assistant or nurse practitioner and
+11 performs delegated procedures commensurate with the medical assistant's
+12 education and training but does not diagnose, interpret, design or modify
+13 established treatment programs or perform any functions that would violate
+14 any statute applicable to the practice of medicine.
+15 17. "Medically incompetent" means a person who the board determines
+16 is incompetent based on a variety of factors, including:
+17 (a) A lack of sufficient medical knowledge or skills, or both, to a
+18 degree likely to endanger the health of patients.
+19 (b) When considered with other indications of medical incompetence,
+20 failing to obtain a scaled score of at least seventy-five percent on the
+21 written special purpose licensing examination.
+22 18. "Medical peer review" means:
+23 (a) The participation by a doctor of medicine in the review and
+24 evaluation of the medical management of a patient and the use of resources
+25 for patient care.
+26 (b) Activities relating to a health care institution's decision to
+27 grant or continue privileges to practice at that institution.
+28 19. "Medicine" means allopathic medicine as practiced by the
+29 recipient of a degree of doctor of medicine.
+30 20. "Office-based surgery" means a medical procedure conducted in a
+31 physician's office or other outpatient setting that is not part of a
+32 licensed hospital or licensed ambulatory surgical center.
+33 21. "Physician" means a doctor of medicine who is licensed pursuant
+34 to this chapter.
+35 22. "Practice of medicine":
+36 (a) Means the diagnosis, the treatment or the correction of or the
+37 attempt or the claim to be able to diagnose, treat or correct any and all
+38 human diseases, injuries, ailments, infirmities or deformities, physical
+39 or mental, real or imaginary, by any means, methods, devices or
+40 instrumentalities, except as the same may be among the acts or persons not
+41 affected by this chapter.
+42 (b) Includes the practice of medicine alone or the practice of
+43 surgery alone, or both.
+44 23. "Restrict" means taking a disciplinary action that alters the
+45 physician's practice or professional activities if the board determines
+46 that there is evidence that the physician is or may be medically
+47 incompetent or guilty of unprofessional conduct.
+-3-
+
+House Amendments to H.B. 2686
+1 24. "Special purpose licensing examination" means an examination
+2 that is developed by the national board of medical examiners on behalf of
+3 the federation of state medical boards for use by state licensing boards
+4 to test the basic medical competence of physicians who are applying for
+5 licensure and who have been in practice for a considerable period of time
+6 in another jurisdiction and to determine the competence of a physician who
+7 is under investigation by a state licensing board.
+8 25. "Teaching hospital's accredited graduate medical education
+9 program" means that the hospital is incorporated and has an internship,
+10 fellowship or residency training program that is accredited by the
+11 accreditation council for graduate medical education, the American medical
+12 association, the association of American medical colleges, the royal
+13 college of physicians and surgeons of Canada or a similar body in the
+14 United States or Canada that is approved by the board and whose function
+15 is that of approving hospitals for internship, fellowship or residency
+16 training.
+17 26. "Teaching license" means a valid license to practice medicine
+18 as a full-time faculty member of an approved school of medicine or a
+19 teaching hospital's accredited graduate medical education program.
+20 27. "Unprofessional conduct" includes the following, whether
+21 occurring in this state or elsewhere:
+22 (a) Violating any federal or state laws, rules or regulations
+23 applicable to the practice of medicine.
+24 (b) Intentionally disclosing a professional secret or intentionally
+25 disclosing a privileged communication except as either act may otherwise
+26 be required by law.
+27 (c) Committing false, fraudulent, deceptive or misleading
+28 advertising by a doctor of medicine or the doctor of medicine's staff,
+29 employer or representative.
+30 (d) Committing a felony, whether or not involving moral turpitude,
+31 or a misdemeanor involving moral turpitude. In either case, conviction by
+32 any court of competent jurisdiction or a plea of no contest is conclusive
+33 evidence of the commission.
+34 (e) Failing or refusing to maintain adequate records on a patient.
+35 (f) Exhibiting a pattern of using or being under the influence of
+36 alcohol or drugs or a similar substance while practicing medicine or to
+37 the extent that judgment may be impaired and the practice of medicine
+38 detrimentally affected.
+39 (g) Using controlled substances except if prescribed by another
+40 physician for use during a prescribed course of treatment.
+41 (h) Prescribing or dispensing controlled substances to members of
+42 the physician's immediate family.
+43 (i) Prescribing, dispensing or administering schedule II controlled
+44 substances as prescribed by section 36-2513 or the rules adopted pursuant
+45 to section 36-2513, including amphetamines and similar schedule II
+46 sympathomimetic drugs in the treatment of exogenous obesity for a period
+-4-
+
+House Amendments to H.B. 2686
+1 in excess of thirty days in any one year, or the nontherapeutic use of
+2 injectable amphetamines.
+3 (j) Prescribing, dispensing or administering any controlled
+4 substance or prescription-only drug for other than accepted therapeutic
+5 purposes.
+6 (k) Dispensing a schedule II controlled substance that is an
+7 opioid, except as provided in sections 32-1491 and 32-3248.03.
+8 (l) Signing a blank, undated or predated prescription form.
+9 (m) Committing conduct that the board determines is gross
+10 malpractice, repeated malpractice or any malpractice resulting in the
+11 death of a patient.
+12 (n) Representing that a manifestly incurable disease or infirmity
+13 can be permanently cured, or that any disease, ailment or infirmity can be
+14 cured by a secret method, procedure, treatment, medicine or device, if
+15 this is not true.
+16 (o) Refusing to divulge to the board on demand the means, method,
+17 procedure, modality of treatment or medicine used in the treatment of a
+18 disease, injury, ailment or infirmity.
+19 (p) Having action taken against a doctor of medicine by another
+20 licensing or regulatory jurisdiction due to that doctor of medicine's
+21 mental or physical inability to engage safely in the practice of medicine
+22 or the doctor of medicine's medical incompetence or for unprofessional
+23 conduct as defined by that jurisdiction and that corresponds directly or
+24 indirectly to an act of unprofessional conduct prescribed by this
+25 paragraph. The action taken may include refusing, denying, revoking or
+26 suspending a license by that jurisdiction or a surrendering of a license
+27 to that jurisdiction, otherwise limiting, restricting or monitoring a
+28 licensee by that jurisdiction or placing a licensee on probation by that
+29 jurisdiction.
+30 (q) Having sanctions imposed by an agency of the federal
+31 government, including restricting, suspending, limiting or removing a
+32 person from the practice of medicine or restricting that person's ability
+33 to obtain financial remuneration.
+34 (r) Committing any conduct or practice that is or might be harmful
+35 or dangerous to the health of the patient or the public.
+36 (s) Violating a formal order, probation, consent agreement or
+37 stipulation issued or entered into by the board or its executive director
+38 under this chapter.
+39 (t) Violating or attempting to violate, directly or indirectly, or
+40 assisting in or abetting the violation of or conspiring to violate any
+41 provision of this chapter.
+42 (u) Knowingly making any false or fraudulent statement, written or
+43 oral, in connection with the practice of medicine or if applying for
+44 privileges or renewing an application for privileges at a health care
+45 institution.
+46 (v) Charging a fee for services not rendered or dividing a
+47 professional fee for patient referrals among health care providers or
+-5-
+
+House Amendments to H.B. 2686
+1 health care institutions or between these providers and institutions or a
+2 contractual arrangement that has the same effect. This subdivision does
+3 not apply to payments from a medical researcher to a physician in
+4 connection with identifying and monitoring patients for a clinical trial
+5 regulated by the United States food and drug administration.
+6 (w) Obtaining a fee by fraud, deceit or misrepresentation.
+7 (x) Charging or collecting a clearly excessive fee. In determining
+8 whether a fee is clearly excessive, the board shall consider the fee or
+9 range of fees customarily charged in this state for similar services in
+10 light of modifying factors such as the time required, the complexity of
+11 the service and the skill requisite to perform the service properly. This
+12 subdivision does not apply if there is a clear written contract for a
+13 fixed fee between the physician and the patient that has been entered into
+14 before the provision of the service.
+15 (y) Committing conduct that is in violation of section 36-2302.
+16 (z) Using experimental forms of diagnosis and treatment without
+17 adequate informed patient consent, and without conforming to generally
+18 accepted experimental criteria, including protocols, detailed records,
+19 periodic analysis of results and periodic review by a medical peer review
+20 committee as approved by the United States food and drug administration or
+21 its successor agency.
+22 (aa) Engaging in sexual conduct with a current patient or with a
+23 former patient within six months after the last medical consultation
+24 unless the patient was the licensee's spouse at the time of the contact
+25 or, immediately preceding the physician-patient relationship, was in a
+26 dating or engagement relationship with the licensee. For the purposes of
+27 this subdivision, "sexual conduct" includes:
+28 (i) Engaging in or soliciting sexual relationships, whether
+29 consensual or nonconsensual.
+30 (ii) Making sexual advances, requesting sexual favors or engaging
+31 in any other verbal conduct or physical contact of a sexual nature.
+32 (iii) Intentionally viewing a completely or partially disrobed
+33 patient in the course of treatment if the viewing is not related to
+34 patient diagnosis or treatment under current practice standards.
+35 (bb) Procuring or attempting to procure a license to practice
+36 medicine or a license renewal by fraud, by misrepresentation or by
+37 knowingly taking advantage of the mistake of another person or an agency.
+38 (cc) Representing or claiming to be a medical specialist if this is
+39 not true.
+40 (dd) Maintaining a professional connection with or lending one's
+41 name to enhance or continue the activities of an illegal practitioner of
+42 medicine.
+43 (ee) Failing to furnish information in a timely manner to the board
+44 or the board's investigators or representatives if legally requested by
+45 the board.
+46 (ff) Failing to allow properly authorized board personnel on demand
+47 to examine and have access to documents, reports and records maintained by
+-6-
+
+House Amendments to H.B. 2686
+1 the physician that relate to the physician's medical practice or medically
+2 related activities.
+3 (gg) Knowingly failing to disclose to a patient on a form that is
+4 prescribed by the board and that is dated and signed by the patient or
+5 guardian acknowledging that the patient or guardian has read and
+6 understands that the doctor has a direct financial interest in a separate
+7 diagnostic or treatment agency or in nonroutine goods or services that the
+8 patient is being prescribed if the prescribed treatment, goods or services
+9 are available on a competitive basis. This subdivision does not apply to
+10 a referral by one doctor of medicine to another doctor of medicine within
+11 a group of doctors of medicine practicing together.
+12 (hh) Using chelation therapy in the treatment of arteriosclerosis
+13 or as any other form of therapy, with the exception of treatment of heavy
+14 metal poisoning, without:
+15 (i) Adequate informed patient consent.
+16 (ii) Conforming to generally accepted experimental criteria,
+17 including protocols, detailed records, periodic analysis of results and
+18 periodic review by a medical peer review committee.
+19 (iii) Approval by the United States food and drug administration or
+20 its successor agency.
+21 (ii) Prescribing, dispensing or administering anabolic-androgenic
+22 steroids to a person for other than therapeutic purposes.
+23 (jj) Exhibiting a lack of or inappropriate direction, collaboration
+24 or direct supervision of a medical assistant or a licensed, certified or
+25 registered health care provider employed by, supervised by or assigned to
+26 the physician.
+27 (kk) Knowingly making a false or misleading statement to the board
+28 or on a form required by the board or in a written correspondence,
+29 including attachments, with the board.
+30 (ll) Failing to dispense drugs and devices in compliance with
+31 article 6 of this chapter.
+32 (mm) Committing conduct that the board determines is gross
+33 negligence, repeated negligence or negligence resulting in harm to or the
+34 death of a patient.
+35 (nn) Making a representation by a doctor of medicine or the doctor
+36 of medicine's staff, employer or representative that the doctor of
+37 medicine is boarded or board certified if this is not true or the standing
+38 is not current or without supplying the full name of the specific agency,
+39 organization or entity granting this standing.
+40 (oo) Refusing to submit to a body fluid examination or any other
+41 examination known to detect the presence of alcohol or other drugs as
+42 required by the board pursuant to section 32-1452 or pursuant to a board
+43 investigation into a doctor of medicine's alleged substance abuse.
+44 (pp) Failing to report in writing to the Arizona medical board or
+45 the Arizona regulatory board of physician assistants any evidence that a
+46 doctor of medicine or a physician assistant is or may be medically
+-7-
+
+House Amendments to H.B. 2686
+1 incompetent, guilty of unprofessional conduct or mentally or physically
+2 unable to safely practice medicine or to perform as a physician assistant.
+3 (qq) As a physician who is the chief executive officer, the medical
+4 director or the medical chief of staff of a health care institution,
+5 failing to report in writing to the board that the hospital privileges of
+6 a doctor of medicine have been denied, revoked, suspended, supervised or
+7 limited because of actions by the doctor of medicine that appear to show
+8 that the doctor of medicine is or may be medically incompetent, is or may
+9 be guilty of unprofessional conduct or is or may be unable to engage
+10 safely in the practice of medicine.
+11 (rr) Claiming to be a current member of the board or its staff or a
+12 board medical consultant if this is not true.
+13 (ss) Failing to make patient medical records in the physician's
+14 possession promptly available to a physician assistant, a nurse
+15 practitioner, a person licensed pursuant to this chapter or a podiatrist,
+16 chiropractor, naturopathic physician, osteopathic physician or homeopathic
+17 physician licensed under chapter 7, 8, 14, 17 or 29 of this title on
+18 receipt of proper authorization to do so from the patient, a minor
+19 patient's parent, the patient's legal guardian or the patient's authorized
+20 representative or failing to comply with title 12, chapter 13,
+21 article 7.1.
+22 (tt) Prescribing, dispensing or furnishing a prescription
+23 medication or a prescription-only device as defined in section 32-1901 to
+24 a person unless the licensee first conducts a physical or mental health
+25 status examination of that person or has previously established a
+26 doctor-patient relationship. The physical or mental health status
+27 examination may be conducted through telehealth as defined in section
+28 36-3601 with a clinical evaluation that is appropriate for the patient and
+29 the condition with which the patient presents, unless the examination is
+30 for the purpose of obtaining a written certification from the physician
+31 for the purposes of title 36, chapter 28.1. This subdivision does not
+32 apply to:
+33 (i) A physician who provides temporary patient supervision on
+34 behalf of the patient's regular treating licensed health care professional
+35 or provides a consultation requested by the patient's regular treating
+36 licensed health care professional.
+37 (ii) Emergency medical situations as defined in section 41-1831.
+38 (iii) Prescriptions written to prepare a patient for a medical
+39 examination.
+40 (iv) Prescriptions written or prescription medications issued for
+41 use by a county or tribal public health department for immunization
+42 programs or emergency treatment or in response to an infectious disease
+43 investigation, public health emergency, infectious disease outbreak or act
+44 of bioterrorism. For the purposes of this item, "bioterrorism" has the
+45 same meaning prescribed in section 36-781.
+46 (v) Prescriptions written or antimicrobials dispensed to a contact
+47 as defined in section 36-661 who is believed to have had significant
+-8-
+
+House Amendments to H.B. 2686
+1 exposure risk as defined in section 36-661 with another person who has
+2 been diagnosed with a communicable disease as defined in section 36-661 by
+3 the prescribing or dispensing physician.
+4 (vi) Prescriptions written or prescription medications issued for
+5 administration of immunizations or vaccines listed in the United States
+6 centers for disease control and prevention's recommended immunization
+7 schedule to a household member of a patient.
+8 (vii) Prescriptions for epinephrine delivery systems that are
+9 written or dispensed for a school district or charter school to be stocked
+10 for emergency use pursuant to section 15-157 or for an authorized entity
+11 to be stocked pursuant to section 36-2226.01.
+12 (viii) Prescriptions for glucagon written or dispensed for a school
+13 district or charter school to be stocked for emergency use pursuant to
+14 section 15-344.01.
+15 (ix) Prescriptions written by a licensee through a telehealth
+16 program that is covered by the policies and procedures adopted by the
+17 administrator of a hospital or outpatient treatment center.
+18 (x) Prescriptions for naloxone hydrochloride or any other opioid
+19 antagonist approved by the United States food and drug administration that
+20 are written or dispensed for use pursuant to section 36-2228 or 36-2266.
+21 (uu) Performing office-based surgery using sedation in violation of
+22 board rules.
+23 (vv) Practicing medicine under a false or assumed name in this
+24 state.
+25 (ww) IF A PHYSICIAN PERFORMS SURGERIES AT AN OUTPATIENT SURGICAL
+26 CENTER, FAILING TO ANNUALLY PROVIDE THE OUTPATIENT SURGICAL CENTER WITH
+27 THE PHYSICIAN'S CALL-COVERAGE PLAN, INCLUDING HOSPITAL CALL COVERAGE [IF
+28 APPLICABLE]. THE PHYSICIAN SHALL PROVIDE THE OUTPATIENT SURGICAL CENTER
+29 WITH AN UPDATED CALL-COVERAGE PLAN, INCLUDING HOSPITAL CALL COVERAGE [IF
+30 APPLICABLE], AS CHANGES ARE MADE.
+31 Sec. 2. Section 32-1854, Arizona Revised Statutes, is amended to
+32 read:
+33 32-1854. Definition of unprofessional conduct
+34 For the purposes of this chapter, "unprofessional conduct" includes
+35 the following acts, whether occurring in this state or elsewhere:
+36 1. Knowingly betraying a professional secret or wilfully violating
+37 a privileged communication except as either of these may otherwise be
+38 required by law. This paragraph does not prevent members of the board
+39 from exchanging information with the licensing and disciplinary boards of
+40 other states, territories or districts of the United States or with
+41 foreign countries or with osteopathic medical organizations located in
+42 this state or in any state, district or territory of this country or in
+43 any foreign country.
+44 2. Committing a felony or a misdemeanor involving moral turpitude.
+45 In either case conviction by any court of competent jurisdiction is
+46 conclusive evidence of the commission of the offense.
+-9-
+
+House Amendments to H.B. 2686
+1 3. Practicing medicine while under the influence of alcohol, a
+2 dangerous drug as defined in section 13-3401, narcotic or hypnotic drugs
+3 or any substance that impairs or may impair the licensee's ability to
+4 safely and skillfully practice medicine.
+5 4. Being diagnosed by a physician licensed under this chapter or
+6 chapter 13 of this title or a psychologist licensed under chapter 19.1 of
+7 this title as excessively or illegally using alcohol or a controlled
+8 substance.
+9 5. Prescribing, dispensing or administering controlled substances
+10 or prescription-only drugs for other than accepted therapeutic purposes.
+11 6. Engaging in the practice of medicine in a manner that harms or
+12 may harm a patient or that the board determines falls below the community
+13 standard.
+14 7. Impersonating another physician.
+15 8. Acting or assuming to act as a member of the board if this is
+16 not true.
+17 9. Procuring, renewing or attempting to procure or renew a license
+18 to practice osteopathic medicine by fraud or misrepresentation.
+19 10. Having professional connection with or lending one's name to an
+20 illegal practitioner of osteopathic medicine or any of the other healing
+21 arts.
+22 11. Representing that a manifestly incurable disease, injury,
+23 ailment or infirmity can be permanently cured or that a curable disease,
+24 injury, ailment or infirmity can be cured within a stated time if this is
+25 not true.
+26 12. Failing to reasonably disclose and inform the patient or the
+27 patient's representative of the method, device or instrumentality the
+28 licensee uses to treat the patient's disease, injury, ailment or
+29 infirmity.
+30 13. Refusing to divulge to the board on demand the means, method,
+31 device or instrumentality used to treat a disease, injury, ailment or
+32 infirmity.
+33 14. Charging a fee for services not rendered or dividing a
+34 professional fee for patient referrals. This paragraph does not apply to
+35 payments from a medical researcher to a physician in connection with
+36 identifying and monitoring patients for clinical trial regulated by the
+37 United States food and drug administration.
+38 15. Knowingly making any false or fraudulent statement, written or
+39 oral, in connection with the practice of medicine or when applying for or
+40 renewing privileges at a health care institution or a health care program.
+41 16. Advertising in a false, deceptive or misleading manner.
+42 17. Representing or claiming to be an osteopathic medical
+43 specialist if the physician has not satisfied the applicable requirements
+44 of this chapter or board rules.
+45 18. Having a license denied or disciplinary action taken against a
+46 license by any other state, territory, district or country, unless it can
+47 be shown that this occurred for reasons that did not relate to the
+-10-
+
+House Amendments to H.B. 2686
+1 person's ability to safely and skillfully practice osteopathic medicine or
+2 to any act of unprofessional conduct as provided in this section.
+3 19. Committing any conduct or practice contrary to recognized
+4 standards of ethics of the osteopathic medical profession.
+5 20. Violating or attempting to violate, directly or indirectly, or
+6 assisting in or abetting the violation of or conspiring to violate any of
+7 the provisions of this chapter.
+8 21. Failing or refusing to establish and maintain adequate records
+9 on a patient as follows:
+10 (a) If the patient is an adult, for at least six years after the
+11 last date the licensee provided the patient with medical or health care
+12 services.
+13 (b) If the patient is a child, either for at least three years
+14 after the child's eighteenth birthday or for at least six years after the
+15 last date the licensee provided that patient with medical or health care
+16 services, whichever date occurs later.
+17 22. Using controlled substances or prescription-only drugs unless
+18 they are provided by a medical practitioner, as defined in section
+19 32-1901, as part of a lawful course of treatment.
+20 23. Prescribing controlled substances to members of one's immediate
+21 family unless there is no other physician available within fifty miles to
+22 treat a member of the family and an emergency exists.
+23 24. Committing nontherapeutic use of injectable amphetamines.
+24 25. Violating a formal order, probation or a stipulation issued by
+25 the board under this chapter.
+26 26. Charging or collecting an inappropriate fee. This paragraph
+27 does not apply to a fee that is fixed in a written contract between the
+28 physician and the patient and entered into before treatment begins.
+29 27. Using experimental forms of therapy without adequate informed
+30 patient consent or without conforming to generally accepted criteria and
+31 complying with federal and state statutes and regulations governing
+32 experimental therapies.
+33 28. Failing to make patient medical records in the physician's
+34 possession promptly available to a physician assistant, a nurse
+35 practitioner, a person licensed pursuant to this chapter or a podiatrist,
+36 chiropractor, naturopathic physician, physician or homeopathic physician
+37 licensed under chapter 7, 8, 13, 14 or 29 of this title on receipt of
+38 proper authorization to do so from the patient, a minor patient's parent,
+39 the patient's legal guardian or the patient's authorized representative or
+40 failing to comply with title 12, chapter 13, article 7.1.
+41 29. Failing to allow properly authorized board personnel to have,
+42 on presentation of a subpoena, access to any documents, reports or records
+43 that are maintained by the physician and that relate to the physician's
+44 medical practice or medically related activities pursuant to section
+45 32-1855.01.
+46 30. Signing a blank, undated or predated prescription form.
+47 31. Obtaining a fee by fraud, deceit or misrepresentation.
+-11-
+
+House Amendments to H.B. 2686
+1 32. Failing to report to the board an osteopathic physician and
+2 surgeon who is or may be guilty of unprofessional conduct or is or may be
+3 mentally or physically unable safely to engage in the practice of
+4 medicine.
+5 33. Referring a patient to a diagnostic or treatment facility or
+6 prescribing goods and services without disclosing that the physician has a
+7 direct pecuniary interest in the facility, goods or services to which the
+8 patient has been referred or prescribed. This paragraph does not apply to
+9 a referral by one physician to another physician within a group of
+10 physicians practicing together.
+11 34. Exhibiting a lack of or inappropriate direction, collaboration
+12 or supervision of a licensed, certified or registered health care provider
+13 or office personnel employed by or assigned to the physician in the
+14 medical care of patients.
+15 35. Violating a federal law, a state law or a rule applicable to
+16 the practice of medicine.
+17 36. Prescribing or dispensing controlled substances or
+18 prescription-only medications without establishing and maintaining
+19 adequate patient records.
+20 37. Dispensing a schedule II controlled substance that is an
+21 opioid, except as provided in sections 32-1871 and 32-3248.03.
+22 38. Failing to dispense drugs and devices in compliance with
+23 article 4 of this chapter.
+24 39. Committing any conduct or practice that endangers a patient's
+25 or the public's health or may reasonably be expected to do so.
+26 40. Committing any conduct or practice that impairs the licensee's
+27 ability to safely and skillfully practice medicine or that may reasonably
+28 be expected to do so.
+29 41. With the exception of heavy metal poisoning, using chelation
+30 therapy in the treatment of arteriosclerosis or as any other form of
+31 therapy without adequate informed patient consent and without conforming
+32 to generally accepted experimental criteria, including protocols, detailed
+33 records, periodic analysis of results and periodic review by a medical
+34 peer review committee.
+35 42. Prescribing, dispensing or administering anabolic-androgenic
+36 steroids to a person for other than therapeutic purposes.
+37 43. Engaging in sexual conduct with a current patient or with a
+38 former patient within six months after the last medical consultation
+39 unless the patient was the licensee's spouse at the time of the contact
+40 or, immediately preceding the physician-patient relationship, was in a
+41 dating or engagement relationship with the licensee. For the purposes of
+42 this paragraph, "sexual conduct" includes:
+43 (a) Engaging in or soliciting sexual relationships, whether
+44 consensual or nonconsensual.
+45 (b) Making sexual advances, requesting sexual favors or engaging in
+46 any other verbal conduct or physical conduct of a sexual nature.
+47 44. Committing conduct that is in violation of section 36-2302.
+-12-
+
+House Amendments to H.B. 2686
+1 45. Committing conduct that the board determines constitutes gross
+2 negligence, repeated negligence or negligence that results in harm or
+3 death of a patient.
+4 46. Committing conduct in the practice of medicine that evidences
+5 unfitness to practice medicine.
+6 47. Engaging in disruptive or abusive behavior in a professional
+7 setting.
+8 48. Failing to disclose to a patient that the licensee has a direct
+9 financial interest in a prescribed treatment, good or service if the
+10 treatment, good or service is available on a competitive basis. This
+11 paragraph does not apply to a referral by one licensee to another licensee
+12 within a group of licensees who practice together. A licensee meets the
+13 disclosure requirements of this paragraph if both of the following are
+14 true:
+15 (a) The licensee makes the disclosure on a form prescribed by the
+16 board.
+17 (b) The patient or the patient's guardian or parent acknowledges by
+18 signing the form that the licensee has disclosed the licensee's direct
+19 financial interest.
+20 49. Prescribing, dispensing or furnishing a prescription medication
+21 or a prescription-only device to a person if the licensee has not
+22 conducted a physical or mental health status examination of that person or
+23 has not previously established a physician-patient relationship. The
+24 physical or mental health status examination may be conducted through
+25 telehealth as defined in section 36-3601 with a clinical evaluation that
+26 is appropriate for the patient and the condition with which the patient
+27 presents, unless the examination is for the purpose of obtaining a written
+28 certification from the physician for the purposes of title 36,
+29 chapter 28.1. This paragraph does not apply to:
+30 (a) Emergencies.
+31 (b) A licensee who provides patient care on behalf of the patient's
+32 regular treating licensed health care professional or provides a
+33 consultation requested by the patient's regular treating licensed health
+34 care professional.
+35 (c) Prescriptions written or antimicrobials dispensed to a contact
+36 as defined in section 36-661 who is believed to have had significant
+37 exposure risk as defined in section 36-661 with another person who has
+38 been diagnosed with a communicable disease as defined in section 36-661 by
+39 the prescribing or dispensing physician.
+40 (d) Prescriptions for epinephrine delivery systems that are written
+41 or dispensed for a school district or charter school to be stocked for
+42 emergency use pursuant to section 15-157 or for an authorized entity to be
+43 stocked pursuant to section 36-2226.01.
+44 (e) Prescriptions for glucagon written or dispensed for a school
+45 district or charter school to be stocked for emergency use pursuant to
+46 section 15-344.01.
+-13-
+
+House Amendments to H.B. 2686
+1 (f) Prescriptions written by a licensee through a telehealth
+2 program that is covered by the policies and procedures adopted by the
+3 administrator of a hospital or outpatient treatment center.
+4 (g) Prescriptions for naloxone hydrochloride or any other opioid
+5 antagonist approved by the United States food and drug administration that
+6 are written or dispensed for use pursuant to section 36-2228 or 36-2266.
+7 50. If a licensee provides medical care by computer, failing to
+8 disclose the licensee's license number and the board's address and
+9 telephone number.
+10 51. IF A PHYSICIAN PERFORMS SURGERIES AT AN OUTPATIENT SURGICAL
+11 CENTER, FAILING TO ANNUALLY PROVIDE THE OUTPATIENT SURGICAL CENTER WITH
+12 THE PHYSICIAN'S CALL-COVERAGE PLAN, INCLUDING HOSPITAL CALL COVERAGE [IF
+13 APPLICABLE]. THE PHYSICIAN SHALL PROVIDE THE OUTPATIENT SURGICAL CENTER
+14 WITH AN UPDATED CALL-COVERAGE PLAN, INCLUDING HOSPITAL CALL COVERAGE [IF
+15 APPLICABLE], AS CHANGES ARE MADE.
+16 Sec. 3. Effective date
+17 This act is effective from and after December 31, 2026.
+18 Enroll and engross to conform
+19 Amend title to conform
+RALPH HEAP
+2686FloorHEAP
+02/09/2026
+4:12 PM
+C: MH
+130KHNOQH
+-14-

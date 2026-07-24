@@ -1,0 +1,324 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Shamp flr amend (ref JUDE) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2133
+Shamp Floor Amendment
+Reference to: JUDICIARY AND ELECTIONS
+Committee Amendment
+Amendment drafted by: Zack Dean
+FLOOR AMENDMENT EXPLANATION
+1. Removes the prohibition against commercial entities retaining any identifying information of a
+person depicted in sexual material for verification purposes.
+2. Removes the ability of the Attorney General to inspect such records on request.
+3. Expands acceptable verification methods to include providing proof that the sexual material was
+created before the enactment of the federal Child Protection and Obscenity Enforcement Act of
+1988.
+4. Provides that such proof may include:
+a) an affidavit from the uploader or custodian of the records;
+b) contemporaneous publication or copyright records;
+c) technical metadata; or
+d) any other evidence that reasonably establishes the date the sexual material was first fixed in a
+tangible medium.
+5. Exempts commercial entities from requirements relating to consent verification if it is clear to a
+reasonable viewer that an image, recording or video has been digitally manipulated and is created
+for the purposes of parody, comedy, artistic expression or criticism of matters of public concern.
+6. Applies this same exemption to the unlawful disclosure of images depicting states of nudity or
+specific sexual activities.
+7. Removes the definition of synthetic depiction from statute relating to the unlawful disclosure of
+nude images and modifies the definitions of image and identifiable person.
+Amendment explanation prepared by Zack Dean
+4/7/2026
+
+Fifty-seventh Legislature Shamp
+Second Regular Session H.B. 2133
+SHAMP FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2133
+(Reference to JUDICIARY AND ELECTIONS Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-1425, Arizona Revised Statutes, is amended to
+3 read:
+4 13-1425. Unlawful disclosure of images depicting states of
+5 nudity or specific sexual activities;
+6 classification; definitions
+7 A. It is unlawful for a person to intentionally disclose an image
+8 of another person who is identifiable from the image itself or from
+9 information displayed in connection with the image if all of the following
+10 apply:
+11 1. The person in the image is depicted in a state of nudity or is
+12 engaged in specific sexual activities.
+13 2. The depicted person has a reasonable expectation of privacy.
+14 Evidence that a person has sent an image to another person using an
+15 electronic device does not, on its own, remove the person's reasonable
+16 expectation of privacy for that image. Unless the realistic pictorial
+17 representation is created or modified by the depicted person, this
+
+Senate Amendments to H.B. 2133
+1 paragraph does not apply to an image that is a realistic pictorial
+2 representation.
+3 3. The image is disclosed with the intent to harm, harass,
+4 intimidate, threaten or coerce the depicted person.
+5 B. This section does not apply to any of the following:
+6 1. The reporting of unlawful conduct.
+7 2. Lawful and common practices of law enforcement, criminal
+8 reporting, legal proceedings or medical treatment.
+9 3. Images involving voluntary exposure in a public or commercial
+10 setting.
+11 4. An interactive computer service, as defined in 47 United States
+12 Code section 230(f)(2), or an information service or cable service, as
+13 defined in 47 United States Code section 153, with regard to content
+14 wholly provided by another party.
+15 5. Any disclosure that is made with the consent of the person who
+16 is depicted in the image.
+17 {{C. THIS SECTION DOES NOT APPLY IF IT IS CLEAR TO A REASONABLE
+18 VIEWER THAT THE IMAGE, RECORDING OR VIDEO HAS BEEN BOTH:
+19 1. DIGITALLY MANIPULATED.
+20 2. CREATED FOR THE PURPOSES OF ANY OF THE FOLLOWING:
+21 (a) PARODY.
+22 (b) COMEDY.
+23 (c) ARTISTIC EXPRESSION.
+24 (d) CRITICISM OF MATTERS OF PUBLIC CONCERN.}}
+25 {{C.}}{{D.}} A violation of this section is a class 5 felony,
+26 except that a violation of this section is a:
+27 1. Class 4 felony if the image is disclosed by electronic means.
+28 2. Class 1 misdemeanor if a person threatens to disclose but does
+29 not disclose an image that if disclosed would be a violation of this
+30 section or if the image is a realistic pictorial representation.
+31 {{D.}}{{E.}} For the purposes of this section:
+32 1. "Disclose" means display, distribute, publish, advertise or
+33 offer.
+34 2. "Disclosed by electronic means" means delivery to an email
+35 address, mobile device, tablet or other electronic device and includes
+36 disclosure on a website.
+37 3. "Harm" means physical injury, financial injury or serious
+38 emotional distress.
+39 4. "IDENTIFIABLE {{INDIVIDUAL}}{{PERSON}}" MEANS A PERSON WHO IS
+40 RECOGNIZABLE BY ANY PERSON, INCLUDING THE PERSON {{THEMSELF}}{{HIMSELF}},
+41 BY ANY PART OF THE PERSON OR BY ANY OTHER INFORMATION THAT IS PART OF THE
+42 DEPICTION.
+43 4. 5. "Image" means a photograph, videotape, film, digital
+44 recording{{, or}}{{or}} realistic pictorial representation {{OR SYNTHETIC
+45 DEPICTION OF AN IDENTIFIABLE INDIVIDUAL}}.
+46 5. 6. "Realistic pictorial representation":
+47 (a) Means an image that is created or modified to reasonably appear
+48 to be an actual image of an identifiable person depicted in a state of
+- 2 -
+
+Senate Amendments to H.B. 2133
+1 nudity or engaged in specific sexual activities that did not actually
+2 occur.
+3 (b) Does not include an image made in the public interest,
+4 including scientific or educational activities, a newsworthy event or an
+5 issue of public concern.
+6 6. 7. "Reasonable expectation of privacy" means the person
+7 exhibits an actual expectation of privacy and the expectation is
+8 reasonable.
+9 7. 8. "Specific sexual activities" has the same meaning prescribed
+10 in section 11-811, subsection E, paragraph 18, subdivisions (a) and (b).
+11 8. 9. "State of nudity" has the same meaning prescribed in section
+12 11-811, subsection E, paragraph 14, subdivision (a).
+13 {{10. "SYNTHETIC DEPICTION" MEANS ANY VISUAL DEPICTION THAT IS
+14 CREATED OR ALTERED THROUGH THE USE OF ARTIFICIAL INTELLIGENCE, DIGITAL
+15 MANIPULATION OR OTHER TECHNOLOGY AND THAT APPEARS TO DEPICT AN
+16 IDENTIFIABLE INDIVIDUAL BUT THAT DOES NOT REPRESENT AN ACTUAL EVENT OR
+17 CONDUCT INVOLVING THAT INDIVIDUAL.}}
+18 Sec. 2. Heading change; transfer and renumber
+19 A. The chapter heading of title 18, chapter 7, Arizona Revised
+20 Statutes, is changed from "GOVERNMENT INFORMATION TECHNOLOGY USE" to
+21 "SEXUAL MATERIAL ON THE INTERNET".
+22 B. Title 18, chapter 7, Arizona Revised Statutes, is transferred
+23 and renumbered for placement in title 44, Arizona Revised Statutes, as
+24 chapter 30. Title 18, chapter 7, article 1, Arizona Revised Statutes, is
+25 transferred and renumbered for placement in title 44, chapter 30, Arizona
+26 Revised Statutes, as article 1. Section 18-701, Arizona Revised Statutes,
+27 is transferred and renumbered for placement in title 44, chapter 30,
+28 article 1, Arizona Revised Statutes, as section 44-7301.
+29 Sec. 3. Title 44, chapter 30, article 1, Arizona Revised Statutes,
+30 as transferred and renumbered, is amended by adding section 44-7302, to
+31 read:
+32 44-7302. Sexual material on the internet; verification and
+33 consent requirements; records; applicability;
+34 civil penalties; definitions
+35 A. A COMMERCIAL ENTITY THAT KNOWINGLY AND INTENTIONALLY PUBLISHES
+36 OR DISTRIBUTES, [OR] [AND] ALLOWS THE PUBLICATION OR DISTRIBUTION OF,
+37 SEXUAL MATERIAL ON AN INTERNET WEBSITE SHALL DO ALL OF THE FOLLOWING:
+38 1. REQUIRE EACH PERSON WHO UPLOADS OR PLACES THE SEXUAL MATERIAL ON
+39 AN INTERNET WEBSITE TO VERIFY, USING REASONABLE {{CONSENT}} VERIFICATION
+40 METHODS, {{THAT EACH INDIVIDUAL WHO IS DEPICTED IN THE SEXUAL
+41 MATERIAL}}{{EITHER OF THE FOLLOWING}}:
+42 (a) {{HAS PROVIDED EXPLICIT INFORMED CONSENT TO THE CREATION,
+43 DISTRIBUTION AND PUBLICATION OF}} {{THAT EACH INDIVIDUAL WHO IS DEPICTED
+44 IN}}THE SEXUAL MATERIAL{{.
+45 (b)}} {{HAS PROVIDED EXPLICIT INFORMED CONSENT TO THE CREATION,
+46 DISTRIBUTION AND PUBLICATION OF THE SEXUAL MATERIAL AND}}WAS AT LEAST
+47 EIGHTEEN YEARS OF AGE AT THE TIME THE {{SEXUAL}} MATERIAL WAS CREATED.
+- 3 -
+
+Senate Amendments to H.B. 2133
+1 {{(b.) THAT THE SEXUAL MATERIAL WAS CREATED BEFORE THE ENACTMENT OF
+2 THE CHILD PROTECTION AND OBSCENITY ENFORCEMENT ACT OF 1988 (P.L. 100-690;
+3 102 STAT. 4485) BY USING ANY OF THE FOLLOWING:
+4 (i) AN AFFIDAVIT FROM THE UPLOADER OR CUSTODIAN OF RECORDS.
+5 (ii) CONTEMPORANEOUS PUBLICATION OR COPYRIGHT RECORDS.
+6 (iii) TECHNICAL METADATA.
+7 (iv) ANY OTHER EVIDENCE THAT REASONABLY ESTABLISHES THE DATE THE
+8 SEXUAL MATERIAL WAS FIRST FIXED IN A TANGIBLE MEDIUM.}}
+9 2. MAINTAIN RECORDS OF THE VERIFICATION FOR AT LEAST SEVEN YEARS.
+10 {{ON REQUEST, THE ATTORNEY GENERAL MAY INSPECT THE RECORDS.}}
+11 3. IMPLEMENT REASONABLE MEASURES TO PREVENT THE UPLOADING OF SEXUAL
+12 MATERIAL THAT DOES NOT HAVE VERIFIED CONSENT, INCLUDING USING AUTOMATED
+13 DETECTION TOOLS WHERE FEASIBLE.
+14 {{B. A COMMERCIAL ENTITY MAY NOT RETAIN ANY IDENTIFYING INFORMATION
+15 OF THE DEPICTED PERSON AFTER THE VERIFICATION IS COMPLETE EXCEPT AS
+16 REQUIRED FOR THE RECORDKEEPING REQUIREMENTS PRESCRIBED IN THIS SECTION.
+17 THE COMMERCIAL ENTITY MAY NOT CAUSE OR ALLOW ANY IDENTIFYING INFORMATION
+18 TO BE TRANSMITTED TO ANY FEDERAL, STATE OR LOCAL GOVERNMENT ENTITY.
+19 C.}}{{B.}} THIS SECTION DOES NOT APPLY TO ANY OF THE FOLLOWING:
+20 1. A NEWS OR PUBLIC INTEREST BROADCAST OR PUBLICATION.
+21 2. MATERIAL THAT IS DISTRIBUTED FOR BONA FIDE SCIENTIFIC, MEDICAL
+22 OR EDUCATIONAL PURPOSES.
+23 3. AN INTERNET SERVICE PROVIDER, AN INTERNET SERVICE PROVIDER'S
+24 AFFILIATES OR SUBSIDIARIES, A SEARCH ENGINE OR A CLOUD SERVICE PROVIDER
+25 THAT SOLELY PROVIDES ACCESS OR A CONNECTION TO OR FROM A WEBSITE OR OTHER
+26 INFORMATION OR CONTENT ON THE INTERNET OR ON A FACILITY, SYSTEM OR NETWORK
+27 THAT IS NOT UNDER THAT INTERNET SERVICE PROVIDER'S CONTROL, INCLUDING
+28 TRANSMISSION, DOWNLOADING, INTERMEDIATE STORAGE, ACCESS SOFTWARE OR OTHER
+29 SERVICES TO THE EXTENT THAT THE INTERNET SERVICE PROVIDER, SEARCH ENGINE
+30 OR CLOUD SERVICE PROVIDER IS NOT RESPONSIBLE FOR THE CREATION OR DIRECT
+31 HOSTING OF THE SEXUAL MATERIAL.
+32 {{D.}}{{C.}} A COMMERCIAL ENTITY THAT PUBLISHES OR DISTRIBUTES
+33 SEXUAL MATERIAL ON AN INTERNET WEBSITE WITHOUT {{OBTAINING VERIFIED
+34 CONSENT FROM A DEPICTED INDIVIDUAL}}{{COMPLYING WITH SUBSECTION A OF THIS
+35 SECTION AND}} IN VIOLATION OF THIS SECTION IS SUBJECT TO:
+36 1. A CIVIL PENALTY OF $10,000 FOR EACH DAY OF THE VIOLATION.
+37 2. ACTUAL DAMAGES.
+38 3. COSTS AND REASONABLE ATTORNEY FEES.
+39 4. ADDITIONAL RELIEF, INCLUDING INJUNCTIVE RELIEF.
+40 {{D. THIS SECTION DOES NOT APPLY IF IT IS CLEAR TO A REASONABLE
+41 VIEWER THAT THE IMAGE, RECORDING OR VIDEO HAS BEEN BOTH:
+42 1. DIGITALLY MANIPULATED.
+43 2. CREATED FOR THE PURPOSES OF ANY OF THE FOLLOWING:
+44 (a) PARODY.
+45 (b) COMEDY.
+46 (c) ARTISTIC IMPRESSION.
+47 (d) CRITICISM OF MATTERS OF PUBLIC CONCERN.}}
+48 E. THE ATTORNEY GENERAL MAY BRING AN ACTION TO ENFORCE THIS SECTION
+49 AND, IN ADDITION TO ANY PENALTY PROVIDED FOR IN SECTION 13-3553, MAY SEEK
+- 4 -
+
+Senate Amendments to H.B. 2133
+1 CIVIL PENALTIES OF UP TO $250,000 IF A MINOR IS DEPICTED IN THE SEXUAL
+2 MATERIAL THAT IS PUBLISHED OR DISTRIBUTED IN VIOLATION OF THIS SECTION.
+3 F. THE FOLLOWING PERSONS MAY BRING A CIVIL ACTION PURSUANT TO THIS
+4 SECTION:
+5 1. THE ATTORNEY GENERAL.
+6 2. AN INDIVIDUAL WHO IS DEPICTED IN THE SEXUAL MATERIAL AND WHO DID
+7 NOT CONSENT TO THE DEPICTION.
+8 G. FOR THE PURPOSES OF THIS SECTION:
+9 1. "COMMERCIAL ENTITY" HAS THE SAME MEANING PRESCRIBED IN SECTION
+10 44-7301.
+11 2. "CONSENT" MEANS AFFIRMATIVE, CONSCIOUS AND VOLUNTARY
+12 AUTHORIZATION THAT IS GIVEN BY AN INDIVIDUAL AND THAT IS DOCUMENTED AND
+13 VERIFIABLE.
+14 3. "DIRECT HOSTING":
+15 (a) MEANS STORING SEXUAL MATERIAL ON SERVERS, SYSTEMS OR NETWORKS
+16 THAT ARE CONTROLLED OR OPERATED BY THE COMMERCIAL ENTITY WHERE THE
+17 COMMERCIAL ENTITY ENABLES USERS TO UPLOAD THE MATERIAL AND MAKES THE
+18 MATERIAL ACCESSIBLE FOR VIEWING, DOWNLOADING, SHARING OR DISTRIBUTION BY
+19 OTHER USES OR THE PUBLIC THROUGH THE ENTITY'S WEBSITE, APPLICATION OR
+20 PLATFORM.
+21 (b) DOES NOT INCLUDE ANY OF THE FOLLOWING:
+22 (i) TRANSITORY DIGITAL NETWORK COMMUNICATIONS OR THE MERE PROVISION
+23 OF INTERNET CONNECTIVITY OR ACCESS.
+24 (ii) SYSTEM CACHING OR INTERMEDIATE STORAGE THAT IS INCIDENTAL TO
+25 TRANSMISSION.
+26 (iii) INFORMATION LOCATION TOOLS, INCLUDING SEARCH ENGINES, THAT
+27 ONLY INDEX, LINK TO OR REFERENCE CONTENT THAT IS HOSTED BY A THIRD PARTY
+28 WITHOUT STORING THE MATERIAL ON THE COMMERCIAL ENTITY'S CONTROLLED
+29 SYSTEMS.
+30 4. "DISTRIBUTE" HAS THE SAME MEANING PRESCRIBED IN SECTION 44-7301.
+31 5. "IDENTIFIABLE INDIVIDUAL" MEANS A PERSON WHO IS RECOGNIZABLE BY
+32 ANY PERSON, INCLUDING THE PERSON {{THEMSELF}} {{HIMSELF}}, BY ANY PART OF
+33 THE PERSON OR BY ANY OTHER INFORMATION THAT IS PART OF THE DEPICTION.
+34 6. "PUBLISH" HAS THE SAME MEANING PRESCRIBED IN SECTION 44-7301.
+35 7. "REASONABLE {{CONSENT}} VERIFICATION METHODS":
+36 (a) MEANS ANY COMMERCIALLY REASONABLE METHOD THAT IS REGULARLY USED
+37 BY BUSINESSES TO VERIFY CONSENT, {{AGE OR THE DATE THE SEXUAL MATERIAL WAS
+38 CREATED,}} WITHOUT REQUIRING OR ALLOWING THE USE OF ANY GOVERNMENT-ISSUED
+39 DIGITAL IDENTIFICATION SYSTEM.
+40 (b) INCLUDES:
+41 (i) AN AFFIDAVIT THAT ATTESTS TO THE CONSENT AND AGE OF EACH
+42 DEPICTED PERSON {{OR THAT ATTESTS TO THE DATE THE SEXUAL MATERIAL WAS
+43 CREATED IF THE SEXUAL MATERIAL WAS CREATED BEFORE THE ENACTMENT OF THE
+44 CHILD PROTECTION AND OBSCENITY ENFORCEMENT ACT OF 1988 (P.L. 100-690; 102
+45 STAT. 4485)}}.
+46 (ii) A VERIFICATION THROUGH AN INDEPENDENT THIRD PARTY.
+47 (iii) ANY OTHER COMMERCIALLY REASONABLE METHOD {{THAT DOES NOT
+48 RETAIN IDENTIFYING INFORMATION AFTER THE VERIFICATION IS COMPLETE}}.
+49 8. "SEXUAL MATERIAL" INCLUDES:
+- 5 -
+
+Senate Amendments to H.B. 2133
+1 (a) SEXUAL MATERIAL THAT IS HARMFUL TO MINORS AS DEFINED IN SECTION
+2 44-7301.
+3 (b) A SYNTHETIC DEPICTION INVOLVING SEXUAL MATERIAL OF AN
+4 IDENTIFIABLE INDIVIDUAL.
+5 9. "SYNTHETIC DEPICTION" MEANS ANY VISUAL DEPICTION THAT IS CREATED
+6 OR ALTERED THROUGH THE USE OF ARTIFICIAL INTELLIGENCE, DIGITAL
+7 MANIPULATION OR OTHER TECHNOLOGY AND THAT APPEARS TO DEPICT AN
+8 IDENTIFIABLE INDIVIDUAL BUT THAT DOES NOT REPRESENT AN ACTUAL EVENT OR
+9 CONDUCT INVOLVING THAT INDIVIDUAL.
+10 Sec. 4. Severability
+11 If a provision of this act or its application to any person or
+12 circumstance is held invalid, the invalidity does not affect other
+13 provisions or applications of the act that can be given effect without the
+14 invalid provision or application, and to this end the provisions of this
+15 act are severable.
+16 Sec. 5. Short title
+17 This act may be cited as the "Protect Act".
+18 Enroll and engross to conform
+19 Amend title to conform
+JANAE SHAMP
+2133FloorSHAMP1.docx
+04/06/2026
+03:07 PM
+C: SP
+130NUZWNC
+2133FloorSHAMP1.1.docx
+04/07/2026
+03:57 PM
+S: ZD/ci
+130NUZWNC
+- 6 -

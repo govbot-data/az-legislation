@@ -1,0 +1,492 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - SUB Floor Amend to FMAE - Kolodin - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2022: elections; July primary; curing; observers
+KOLODIN FLOOR AMENDMENT
+1. Decreases, from within 10 to within 7 calendar days after a general election
+that includes an election for a federal office, the time frame in which a
+provisional ballot must be compared to the signature roster for the precinct in
+which the voter was listed.
+2. Clarifies that a provisional ballot must be compared to the signature roster for
+the precinct in which the voter was listed within five calendar days after the
+election, rather than five business days, for any election other than one that
+includes a federal election.
+3. Adjusts the day on which primary elections are required to be held from the
+last Tuesday in July to the second-to-last Tuesday in July and reflects that
+adjustment in statute where election days are outlined as not legal holidays.
+4. Amends, for candidate elections, the required day for primary or first elections
+in even-numbered years to be held to the second-to-last Tuesday in July, rather
+than the last Tuesday in July.
+5. Clarifies that non-candidate elections, including special and recall elections,
+may be held on the second-to-last Tuesday in July, rather than the last
+Tuesday in July, in addition to other dates outlined by statute.
+6. Removes a provision from the underlying bill that specified county recorders
+or officers in charge of an election must allow signatures to be corrected not
+later than the fifth calendar day, rather than the fifth business day, after a
+primary, general or special election that includes a federal office.
+7. Clarifies, as session law, that a person who collects signatures for the 2026
+primary election and uses a petition, nomination paper form or electronic
+petition before, on or after the effective date of the act with the former primary
+election date of August 4, 2026 on the form or petition may lawfully submit
+those signatures for the 2026 primary election to be held July 21, 2026.
+8. States, as session law, that signatures submitted for the primary election with
+the August 4, 2026, primary election date on the form or petition cannot be
+GREY GARTIN
+2/2/2026
+(602) 926-3848
+
+ruled invalid due to any clerical error by election officials in the preparation of
+the 2026 electronic petition.
+9. Prohibits, as session law, a filing officer from rejecting petitions collected under
+the August 4, 2026, primary election date and states this applies to the online
+signature collection system provided by the Secretary of State.
+10. Clarifies, as session law, that any city, town or county initiative petition that
+is circulated before, on or after the effective date of the act and that is on a
+petition form that includes the former primary election date of August 4, 2026
+may lawfully submit those petitions and signatures for the primary election to
+be held on July 21, 2026.
+11. States, as session law, that signatures collected for a city, town or county
+initiative petition with the former primary election date of August 4, 2026 and
+that otherwise comply with legal requirements are deemed to be as valid as
+signatures collected on an initiative petition with the newly designated
+primary election date of July 21, 2026 and may not be ruled invalid due solely
+to the changed primary election date.
+12. Clarifies, as session law, that a prospective primary election candidate
+collecting signatures does not need to file a new or amended statement of
+interest based on the change in 2026 primary election date.
+13. Requires, as session law, that any election item that was duly called by a city,
+town or county for the August 4, 2026, primary election date must be placed on
+the ballot for the newly designated primary date of July 21, 2026.
+14. Adds a legislative intent clause.
+Amendment explanation prepared by Lindsay Suppa
+Page 2
+_________________________________________
+
+*corrected*
+Fifty-seventh Legislature Kolodin
+Second Regular Session H.B. 2022
+KOLODIN SUBSTITUTE FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2022
+I move the following SUBSTITUTE amendment to the FEDERALISM, MILITARY AFFAIRS & ELECTIONS
+Committee Amendment to
+HOUSE BILL 2022 (Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 16-135, Arizona Revised Statutes, is amended
+3 to read:
+4 16-135. Change of residence from one address to another
+5 A. An elector who is correcting the residence address shown on the
+6 elector's voter registration record shall reregister with the new
+7 residence address or correct the voter registration record as prescribed
+8 by this section.
+9 B. An elector who moves from the address at which the elector is
+10 registered to another address within the same county and who fails to
+11 notify the county recorder of the change of address before the date of an
+12 election shall be allowed to correct the voter registration records at the
+13 appropriate polling place for the voter's new address. The voter shall
+14 present a form of identification that includes the voter's given name and
+15 surname and the voter's complete residence address that is located within
+16 the precinct for the voter's new residence address. The voter shall
+17 affirm in writing the new residence address and shall be allowed to vote a
+18 provisional ballot.
+19 C. When an elector completes voting a provisional ballot, the
+20 election official shall place the ballot in an envelope for provisional
+21 ballots and shall deposit the envelope in the ballot box designated for
+22 provisional ballots.
+23 D. Within [ten] [SEVEN] calendar days after a general election that
+24 includes an election for a federal office and within five [business]
+25 [CALENDAR] days after any other election, a provisional ballot shall be
+26 compared to the signature roster for the precinct in which the voter was
+
+House Amendments to H.B. 2022
+1 listed and if the voter's signature does not appear on the signature
+2 roster for that election and if there is no record of that voter having
+3 voted early for that election, the provisional ballot shall be processed.
+4 If the signature roster or early ballot information indicates that the
+5 person did vote in that election, the provisional ballot for that person
+6 shall remain unopened and shall not be counted.
+7 E. An elector may also correct the residence address on the
+8 elector's voter registration record by requesting the address change on a
+9 written request for an early ballot that is submitted pursuant to section
+10 16-542 and that contains all of the following:
+11 1. A request to change the voter registration record.
+12 2. The elector's new residence address.
+13 3. An affirmation that the information is true and correct.
+14 4. The elector's signature.>>
+15 Sec. 2. Section 16-201, Arizona Revised Statutes, is amended to
+16 read:
+17 16-201. Primary elections
+18 A primary election shall be held on the first [SECOND TO] LAST
+19 Tuesday in August JULY in any year in which a general election or special
+20 election is held and at which candidates for public office are to be
+21 elected.
+22 Sec. 3. Section 16-204, Arizona Revised Statutes, is amended to
+23 read:
+24 16-204. Declaration of statewide concern; consolidated
+25 election dates; definition
+26 A. The legislature finds and determines that for the purposes of
+27 increasing voter participation and for decreasing the costs to the
+28 taxpayers it is a matter of statewide concern that all elections in this
+29 state be conducted on a limited number of days and, therefore, the
+30 legislature finds and declares that the holding of all elections on
+31 certain specific consolidated days is a matter of statewide concern. This
+32 section preempts all local laws, ordinances and charter provisions to the
+33 contrary.
+34 B. For elections held before 2014 and notwithstanding any other law
+35 or any charter or ordinance of any county, city or town to the contrary,
+36 an election held for or on behalf of a county, city or town, a school
+37 district, a community college district or special districts organized
+38 pursuant to title 48, chapters 5, 6, 8, 10, 13 through 16 and 33 may only
+39 be held on the following dates:
+40 1. Except for regular elections for candidates in a city or town
+41 with a population of one hundred seventy-five thousand or more persons,
+42 all elections, including recall elections and special elections to fill
+43 vacancies, shall be held on:
+44 (a) The second Tuesday in March.
+45 (b) The third Tuesday in May.
+46 (c) The tenth Tuesday before the first Tuesday after the first
+47 Monday in November.
+-2-
+
+House Amendments to H.B. 2022
+1 (d) The first Tuesday after the first Monday in November.
+2 Notwithstanding any other law, an election must be held on this date for
+3 the approval of an obligation or other authorization requiring or
+4 authorizing the assessment of secondary property taxes by a county, city,
+5 town, school district, community college district or special taxing
+6 district, except as provided by title 48.
+7 2. For regular elections that are only for candidates in a city or
+8 town with a population of one hundred seventy-five thousand or more
+9 persons and not including recall elections and special elections to fill
+10 vacancies in those cities or towns, elections shall be held on:
+11 (a) The tenth Tuesday before the first Tuesday after the first
+12 Monday in November.
+13 (b) The first Tuesday after the first Monday in November.
+14 C. For elections held before 2014, for any city or town, including
+15 a charter city, that holds its regularly scheduled candidate elections in
+16 even-numbered years pursuant to subsection B, paragraph 2 of this section,
+17 the term of office for a member of the city council or for the office of
+18 mayor begins on or after the second Tuesday in January in the year
+19 following the election.
+20 D. Subsections B and C of this section do not apply to an election
+21 regarding a county or city charter committee or county or city charter
+22 proposal that is conducted pursuant to article XIII, section 2 or 3 or
+23 article XII, section 5, Constitution of Arizona.
+24 E. Beginning with elections held in 2014 and later and
+25 notwithstanding any other law or any charter or ordinance to the contrary,
+26 a candidate election held for or on behalf of any political subdivision of
+27 this state other than a special election to fill a vacancy or a recall
+28 election may only be held on the following dates and only in even-numbered
+29 years:
+30 1. Through 2019, the tenth Tuesday before the first Tuesday after
+31 the first Monday in November. Beginning in 2020 2026 and later, the
+32 election shall be held on the first [SECOND TO] LAST Tuesday in August
+33 JULY. If the political subdivision holds a primary or first election and
+34 a general or runoff election is either required or optional for that
+35 political subdivision, the first election shall be held on this date,
+36 without regard to whether the political subdivision designates the
+37 election a primary election, a first election, a preliminary election or
+38 any other descriptive term.
+39 2. The first Tuesday after the first Monday in November. If the
+40 political subdivision holds a general election or a runoff election, the
+41 second election held shall be held on this date. If the political
+42 subdivision holds only a single election and no preliminary or primary or
+43 other election is ever held for the purpose of reducing the number of
+44 candidates, or receiving a partisan nomination or designation or for any
+45 other purpose for that political subdivision, the single election shall be
+46 held on this date.
+-3-
+
+House Amendments to H.B. 2022
+1 F. Beginning with elections held in 2014 and later that are not
+2 candidate elections, an election held for or on behalf of any political
+3 subdivision of this state, and including a special election to fill a
+4 vacancy or a recall election, may only be held on the following dates:
+5 1. The second Tuesday in March.
+6 2. The third Tuesday in May.
+7 3. Through 2019, the tenth Tuesday before the first Tuesday after
+8 the first Monday in November. Beginning in 2020 2026 and later, the
+9 election shall be held on the first [SECOND TO] LAST Tuesday in August
+10 JULY.
+11 4. The first Tuesday after the first Monday in November.
+12 Notwithstanding any other law, an election must be held on this date for
+13 the approval of an obligation or other authorization requiring or
+14 authorizing the assessment of secondary property taxes by a county, city,
+15 town, school district, community college district or special taxing
+16 district, except as provided by title 48. Notwithstanding any other law,
+17 an election must be held on the date specified in this paragraph and only
+18 in even-numbered years for the approval of or authorizing the assessment
+19 of transaction privilege taxes by a county, city or town.
+20 G. Notwithstanding any other law, for an election administered by a
+21 county recorder or other officer in charge of elections on behalf of a
+22 city, town or school district and that is an all mail ballot election for
+23 that city, town or school district, the county recorder or other officer
+24 in charge of elections may use a unified ballot format that combines all
+25 of the issues applicable to the voters in the city, town or school
+26 district requesting the all mail ballot election.
+27 H. For the purposes of this section, "political subdivision" means
+28 any governmental entity operating under the authority of this state and
+29 governed by an elected body, including a city, town, county, school
+30 district or community college district or any other district organized
+31 under state law but not including a special taxing district.
+32 Sec. 4. Section 16-206, Arizona Revised Statutes, is amended to
+33 read:
+34 16-206. Election day
+35 A. The biennial primary election day on the first [SECOND TO] LAST
+36 Tuesday in August JULY in the year the general election is held and the
+37 biennial general election day on the first Tuesday after the first Monday
+38 in November of every even-numbered year are not legal holidays.
+39 B. Every public officer or employee is entitled to absence from
+40 service or employment for the purpose of voting pursuant to section 16-402
+41 on the biennial primary and general election days.
+42 <<Sec. 5. Section 16-550, Arizona Revised Statutes, is amended to
+43 read:
+44 16-550. Receipt of voter's ballot; cure period; tracking
+45 system
+46 A. Except for early ballots tabulated as prescribed in section
+47 16-579.02 or, beginning in 2026, received at a voting location after a
+-4-
+
+House Amendments to H.B. 2022
+1 voter's identification is confirmed as prescribed by section 16-579,
+2 subsection A, paragraph 4, on receipt of the envelope containing the early
+3 ballot and the mail affidavit, the county recorder or other officer in
+4 charge of elections shall compare the signature on the envelope with the
+5 signature of the elector on the elector's registration record as
+6 prescribed by section 16-550.01. If the signature is inconsistent with
+7 the elector's signature on the elector's registration record, the county
+8 recorder or other officer in charge of elections shall make reasonable
+9 efforts to contact the voter, advise the voter of the inconsistent
+10 signature and allow the voter to correct or the county to confirm the
+11 inconsistent signature. The county recorder or other officer in charge of
+12 elections shall allow signatures to be corrected not later than the fifth
+13 business CALENDAR day after a primary, general or special election that
+14 includes a federal office or the third business day after any other
+15 election. If the election is a primary, general or special election that
+16 includes a federal office and there are outstanding ballots that require
+17 identification or ballot signatures to be corrected or confirmed, in
+18 addition to the office's regular business hours, the county recorder's and
+19 any city or town clerks' offices that have an agreement with a county to
+20 be used as locations at which a voter may submit proof of identification
+21 shall be open during regular business hours to allow for curing signatures
+22 during the Friday and weekend before and the Friday and weekend after the
+23 election. Regular business hours include at a minimum 8:00 a.m. until
+24 5:00 p.m. If there are no ballots remaining that require identification
+25 or signatures to be cured, the county recorder and city and town clerks
+26 are not required to be open during the weekend. If the signature is
+27 missing, the county recorder or other officer in charge of elections shall
+28 make reasonable efforts to contact the elector, advise the elector of the
+29 missing signature and allow the elector to add the elector's signature not
+30 later than 7:00 p.m. on election day. If satisfied that the signatures
+31 correspond, the recorder or other officer in charge of elections shall
+32 hold the envelope containing the early ballot and the completed mail
+33 affidavit unopened in accordance with the rules of the secretary of state.
+34 Signatures that cannot be verified pursuant to section 16-550.01 or cured
+35 pursuant to this section shall be rejected. If the ballot is a
+36 conditional provisional ballot, the voter shall provide proof of
+37 identification to the county recorder or other officer in charge of
+38 elections not later than the fifth business day after a primary, general
+39 or special election that includes a federal office or the third business
+40 day after any other election. Beginning with the first missing or
+41 mismatched signature that is identified after the period of early voting
+42 begins through the Monday immediately preceding the election, the county
+43 recorder or other officer in charge of elections shall submit daily to the
+44 political parties that are qualified for continued representation on the
+45 state ballot an updated list of all voters whose signatures are missing or
+46 inconsistent with the voter's signature on the voter's registration
+47 record. Beginning on the Wednesday immediately following the election
+-5-
+
+House Amendments to H.B. 2022
+1 through the end of the signature cure period after a primary, general or
+2 special election that includes a federal office, or the third business day
+3 after the election for any other election, the county recorder or other
+4 officer in charge of elections shall submit daily to the political parties
+5 that are qualified for continued representation on the state ballot an
+6 updated list of all voters whose signatures are inconsistent with the
+7 voter's signature on the voter's registration record and all voters who
+8 voted with a conditional provisional ballot. This list of voters whose
+9 signatures require curing shall include for those voters all voter
+10 information that is provided to the political parties that are qualified
+11 for continued representation on the state ballot as prescribed by section
+12 16-168.
+13 B. The recorder or other officer in charge of elections shall
+14 thereafter safely keep the mail affidavits and early ballots in the
+15 recorder's or other officer's office and may deliver them for tallying
+16 pursuant to section 16-551.
+17 C. Processing and tabulation of individual ballots may begin
+18 immediately after the envelope and completed mail affidavit are processed
+19 pursuant to this section and delivered to the early election board and
+20 shall continue without delay until completed. Until election day, the
+21 early election board and the county recorder or other officer in charge of
+22 elections shall:
+23 1. Not access an aggregated complete results file of early voting
+24 and vote by mail ballots that were processed and tabulated by the end of
+25 the early voting period.
+26 2. Not produce for internal or external use an aggregated results
+27 report or associated files of complete results.
+28 3. Only produce a partial results report or associated files if it
+29 is part of the internal preparation for the hand count pursuant to section
+30 16-602 or for the logic and accuracy testing required pursuant to section
+31 16-449.
+32 4. Not publicly release complete or partial results, whether for
+33 internal or external use, until all precincts have reported or one hour
+34 after the closing of the polls on election day, whichever is earlier.
+35 D. The county recorder or other officer in charge of elections
+36 shall post on its website within forty-eight hours after all ballot
+37 tabulation is complete all system log files and other similar files from
+38 the election management system that verify compliance with subsection C of
+39 this section.
+40 E. The county recorder shall send a list of all voters who were
+41 issued early ballots to the election board of the precinct in which the
+42 voter is registered.
+43 F. For a county that uses early ballots, the county recorder or
+44 other officer in charge of elections shall provide an early ballot
+45 tracking system that indicates whether the voter's early ballot has been
+46 received and whether the early ballot has been verified and sent to be
+47 tabulated or rejected. The county recorder or other officer in charge of
+-6-
+
+House Amendments to H.B. 2022
+1 elections shall provide voters with access to the early ballot tracking
+2 system on the county's website.
+3 G. This section does not apply to:
+4 1. A special taxing district that is authorized pursuant to section
+5 16-191 to conduct its own elections.
+6 2. A special district mail ballot election that is conducted
+7 pursuant to article 8.1 of this chapter.>>
+8 Sec. 5. Section 16-558.02, Arizona Revised Statutes, is amended to
+9 read:
+10 16-558.02. Replacement ballots; observers
+11 A. The county recorder or other officer in charge of elections
+12 shall determine a central location in the district and shall provide for a
+13 ballot replacement center that is as near to that location as is
+14 practicable for electors to obtain a replacement ballot or for an elector
+15 who is listed as inactive to confirm or revise the elector's voter
+16 registration information and receive a ballot. The location shall be open
+17 from 6:00 a.m. until 7:00 p.m. of the day of the election. An elector may
+18 obtain a replacement ballot until 7:00 p.m. on the day of the election on
+19 presenting a signed, sworn statement that the ballot was lost, spoiled,
+20 destroyed or not received.
+21 B. The recorder or other officer in charge of elections shall keep
+22 a record of each replacement ballot provided pursuant to this section.
+23 C. If an elector to whom a replacement ballot is issued votes more
+24 than once, only the first ballot received shall be counted.
+25 D. FOR EACH BALLOT REPLACEMENT LOCATION, THE COUNTY CHAIRMAN OF
+26 EACH PARTY MAY DESIGNATE BY WRITTEN APPOINTMENT ADDRESSED TO THE ELECTION
+27 BOARD A PARTY REPRESENTATIVE AND ALTERNATES TO SERVE AS OBSERVERS. A
+28 PARTY REPRESENTATIVE SHALL BE A RESIDENT OF THIS STATE AND REGISTERED TO
+29 VOTE IN THIS STATE.
+30 Sec. 6. Section 16-590, Arizona Revised Statutes, is amended to
+31 read:
+32 16-590. Appointment of challengers and party representatives
+33 A. The county chairman of each party may DESIGNATE, for each
+34 precinct OR LOCATION, by written appointment addressed to the election
+35 board, designate a party agent or representative and alternates for a
+36 polling place in the precinct AND AT ANY VOTING CENTER, INCLUDING AN
+37 IN-PERSON EARLY VOTING LOCATION AND AN EMERGENCY VOTING LOCATION, who may
+38 act as challengers for the party which appointed him.
+39 B. At each voting place, one challenger for each political party
+40 may be present and act, but no A challenger may NOT enter a voting booth
+41 except to mark his ballot.
+42 C. Not more than the number of party representatives for each party
+43 which THAT were mutually agreed upon ON by each political party
+44 represented on the ballot shall be in the polling place VOTING PLACE at
+45 one time. If such agreement cannot be reached, the number of
+46 representatives shall be limited to one in the polling place VOTING PLACE
+47 at one time for each political party.
+-7-
+
+House Amendments to H.B. 2022
+1 D. A challenger or party representative shall be a resident of this
+2 state and registered to vote in this state.
+3 Sec. 7. 2026 primary election; nomination petition forms;
+4 local initiative petition forms; previous primary
+5 election date
+6 A. A person who desires to become a candidate at the 2026 primary
+7 election, who collects signatures on a nomination petition [or nomination
+8 paper] form[, including an electronic petition with signatures as
+9 prescribed by section 16-316, 16-317 or 16-318, Arizona Revised Statutes,]
+10 before[, on or after] the effective date of this act and who has used a
+11 petition form that includes the former primary election date of August 4,
+12 2026 may lawfully submit those signatures for the 2026 primary election to
+13 be held on July [28] [21], 2026. Signatures that are collected with the
+14 August 4, 2026 primary election date, that are submitted as prescribed in
+15 this subsection and that otherwise comply with the requirements provided
+16 by law are deemed to be as valid as signatures collected on a nomination
+17 petition [or nomination paper] form[, including an electronic petition
+18 with signatures as prescribed by section 16-316, 16-317 or 16-318, Arizona
+19 Revised Statutes,] that complies with the newly designated primary
+20 election date of July [28] [21], 2026 and shall not be ruled invalid due
+21 solely to the changed date of the primary election [or for any clerical
+22 error by an election official in the preparation of the electronic
+23 petition. The filing officer shall not reject those nomination petitions,
+24 nomination papers or signatures based solely on the date of the primary
+25 election. This subsection applies to and includes nomination petitions,
+26 nomination papers and signatures that are submitted through the secure
+27 online signature collection system provided by the secretary of state].
+28 B. Any city, town or county initiative petition that is circulated
+29 before[, on or after] the effective date of this act and that is on a
+30 petition form that includes the former 2026 primary election date of
+31 August 4, 2026 may lawfully submit those petitions and signatures for the
+32 primary election to be held on July [28] [21], 2026. Signatures that are
+33 collected with the August 4, 2026 primary election date, that are
+34 submitted as prescribed in this subsection and that otherwise comply with
+35 the requirements provided by law are deemed to be as valid as signatures
+36 collected on an initiative petition form that complies with the newly
+37 designated primary election date of July [28] [21], 2026 and shall not be
+38 ruled invalid due solely to the changed date of the primary election.
+39 [The filing officer shall not reject those signatures or petitions based
+40 solely on the date of the primary election.]
+41 [C. This section does not require a person to file a new or amended
+42 statement of interest based solely on the change in the 2026 primary
+43 election date.]
+-8-
+
+House Amendments to H.B. 2022
+1 <<Sec. 8. 2026 primary election date; city, town and county
+2 matters
+3 [Any election item that was duly called by a city, town or county
+4 pursuant to section 16-226, Arizona Revised Statutes, for the August 4,
+5 2026 primary election date shall be placed on the ballot for the newly
+6 designated primary election date of July 21, 2026.]>>
+7 <<Sec. 9. Legislative intent
+8 [The legislature intends and finds that this act does not make
+9 changes to the length of time during which voter signatures are allowed to
+10 be cured and conditional provisional ballot voters are allowed to provide
+11 proof of identification, and that Laws 2024, chapter 1, section 22, as
+12 amended by Laws 2024, chapter 2, section 4, continues to apply to all
+13 primary, general or special elections that include a federal office in
+14 2026.]>>
+15 Sec. 10. Emergency
+16 This act is an emergency measure that is necessary to preserve the
+17 public peace, health or safety and is operative immediately as provided by
+18 law.
+19 Enroll and engross to conform
+20 Amend title to conform
+ALEXANDER KOLODIN
+2022FloorKOLODIN2.docx
+02/02/2026
+10:20 AM
+C: MR
+130BQDLAX
+-9-

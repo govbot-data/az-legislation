@@ -1,0 +1,256 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to WM - Olson - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2784: cities and towns; technical correction
+OLSON FLOOR AMENDMENT
+1. Caps the reduction in the primary school district tax levy at 85% of the
+calculated amount. (Sec. 2)
+2. As session law, notwithstands statute for tax years 2027, 2028, 2029, 2030
+and 2031, allowing school districts to reduce their tax rate for the calculated
+“dead cash” levy by less than the 85% statutory amount, but not less than
+20% in each year. (Sec. 3)
+VINCE PEREZ
+3/6/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Olson
+Second Regular Session H.B. 2784
+OLSON FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2784
+(Reference to WAYS & MEANS S/E Committee amendment)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Strike everything after the enacting clause and insert:
+3 "Section 1. Section 15-991, Arizona Revised Statutes, is amended to
+4 read:
+5 15-991. County school superintendents; annual estimate;
+6 monies for ensuing year; property tax calculations;
+7 property tax oversight commission review
+8 A. The county school superintendent shall recompute the
+9 equalization assistance for education for each school district pursuant to
+10 section 15-971, subsection A and compute the additional amount to be
+11 levied pursuant to section 15-992, subsection B using the property values
+12 provided by the county assessor under section 42-17052. The county school
+13 superintendent must certify in writing to the property tax oversight
+14 commission on or before July 25 of each year the amount of equalization
+15 assistance for education and the amount to be levied for each school
+16 district from the primary property tax pursuant to section 15-992.
+17 B. The county school superintendent must prepare and file with the
+18 governing board of each school district in the county and the property tax
+19 oversight commission on or before July 25 of each year a written estimate
+20 of the amount of monies required by each school district for the ensuing
+21 school year based on the proposed budget adopted by each school district
+22 governing board. The estimate shall contain:
+23 1. A statement of the student count of each school district.
+24 2. The additional amounts needed for each school district from the
+25 primary property tax and the secondary property tax, as estimated by the
+26 county school superintendent. The county school superintendent shall
+27 certify those amounts to the board of supervisors and the property tax
+28 oversight commission in writing at the time of filing the estimate.
+
+House Amendments to H.B. 2784
+1 3. THE AMOUNT DETERMINED PURSUANT TO SECTION 15-992, SUBSECTION H.
+2 3. 4. The calculation of the amount to be levied as prescribed by
+3 section 15-992 using the values provided by the county assessor under
+4 section 42-17052.
+5 C. The property tax oversight commission must review the primary
+6 property tax calculations filed under subsection B, paragraph 3 4 of this
+7 section.
+8 D. The county school superintendent must file in writing with the
+9 county board of supervisors and the property tax oversight commission on
+10 or before the third Monday in August of each year the amount that is
+11 required to be levied for each school district from both the primary
+12 property tax prescribed by section 15-992 and the secondary property tax.
+13 E. On or before September 1 OF EACH YEAR, the governing board of a
+14 school district shall file with the county school superintendent an
+15 estimate of the amount of title VIII of the elementary and secondary
+16 education act of 1965 monies it is eligible to receive during the current
+17 year. On or before June 1 OF EACH YEAR, the governing board shall file
+18 with the county school superintendent and the superintendent of public
+19 instruction a statement of the actual amount of title VIII of the
+20 elementary and secondary education act of 1965 monies it received during
+21 the current year. This subsection does not apply to accommodation
+22 schools.
+23 F. The department may collect any other similar or related
+24 information from school districts that the department may determine is
+25 necessary to carry out the purposes of this section.
+26 Sec. 2. Section 15-992, Arizona Revised Statutes, is amended to
+27 read:
+28 15-992. School district tax levy; additional tax in districts
+29 ineligible for equalization assistance; primary
+30 property tax levy reduction; definition
+31 A. The board of supervisors of each county, at the time of levying
+32 other taxes, shall annually levy school district taxes on the property in
+33 any school district in which additional amounts are required, which shall
+34 be at rates prescribed in this section. A delinquency factor for
+35 estimated uncollected taxes may not be included in the computation of the
+36 primary tax rate for school district taxes. Local property taxes may not
+37 be levied for any deficit in the classroom site fund. The taxes shall be
+38 added to and collected in the same manner as other county taxes on the
+39 property within the school district. The amount of the school district
+40 taxes levied on the property in a particular school district shall be paid
+41 into the school fund of that school district.
+42 B. At the same time of levying taxes as provided in subsection A of
+43 this section, the county board of supervisors shall annually levy an
+44 additional tax in each school district that is not eligible for
+45 equalization assistance as provided in section 15-971 in an amount
+46 determined as follows:
+47 1. Determine the levy that would be produced by fifty percent of
+48 the applicable qualifying tax rate, prescribed in section 15-971,
+49 subsection B, per $100 assessed valuation.
+-2-
+
+House Amendments to H.B. 2784
+1 2. Subtract the amounts determined in section 15-971, subsection A
+2 and subsection F of this section from the levy determined in paragraph 1
+3 of this subsection. This difference is the additional amount levied or
+4 collected as voluntary contributions pursuant to title 48, chapter 1,
+5 article 8, except that if the difference is zero or is a negative number,
+6 there shall be no levy.
+7 C. Monies collected pursuant to subsections B and F of this section
+8 shall be transmitted to the state treasurer for deposit in the state
+9 general fund to aid in school financial assistance.
+10 D. The additional tax prescribed in subsection B of this section is
+11 considered to be primary property tax for purposes of section 15-972,
+12 subsection B, except that this state is not required to make the payments
+13 prescribed in section 15-972, subsection H for these reductions in taxes.
+14 E. The tax levy prescribed in subsection A of this section shall be
+15 a rate equal to the applicable qualifying tax rate or rates as prescribed
+16 in section 15-971, subsection B or a rate that would result in a levy that
+17 equals the school district equalization assistance base prescribed in
+18 section 15-971 subtracted by any amount received pursuant to section
+19 15-905, subsections K, O and P per $100 of assessed valuation used for
+20 primary property taxes, whichever is less.
+21 F. At the same time of levying taxes as provided in subsection A of
+22 this section, the county board of supervisors shall annually levy an
+23 additional tax in each common school district not within a high school
+24 district that is equal to the lesser of:
+25 1. A rate that is equal to the applicable qualifying tax rate or
+26 rates as prescribed in section 15-971, subsection B.
+27 2. A rate that would result in a levy that equals the statewide
+28 average per pupil funding for high school pupils multiplied by the student
+29 count as defined in section 15-901 of resident high school pupils in the
+30 common school district not within a high school district during the prior
+31 school year. On or before July 1 of each year, the department of
+32 education shall provide each common school district not within a high
+33 school district with the student count as defined in section 15-901 of
+34 resident high school pupils in the district during the prior school
+35 year. On or before July 1 of each year, the department of education shall
+36 provide each county board of supervisors with the statewide average per
+37 pupil funding for high school pupils, the student count as defined in
+38 section 15-901 of resident high school pupils in the common school
+39 district not within a high school district during the prior school year
+40 and any other information requested by the county board of supervisors for
+41 the purposes of levying the tax prescribed in this subsection. For the
+42 purposes of this paragraph, "per pupil funding" means the amount
+43 calculated pursuant to section 15-943, paragraph 2, subdivision (a) for
+44 grades nine through twelve multiplied by the sum of the following:
+45 (a) District additional assistance pursuant to section 15-961,
+46 subsections A, B and C for a school district with a student count of six
+47 hundred or more in grades nine through twelve.
+48 (b) The base level amount prescribed by section 15-901.
+-3-
+
+House Amendments to H.B. 2784
+1 G. At the time of levying taxes as provided in subsection E of this
+2 section, the county school superintendent shall annually validate any
+3 additional primary school district tax levy amount requests from each
+4 school district and levy the sum of the following amounts:
+5 1. A rate that would result in a levy that equals the difference
+6 between the transportation revenue control limit as determined in section
+7 15-946 and the transportation support level as determined in section
+8 15-945 or a lesser amount.
+9 2. A rate that would result in a levy that equals any amount
+10 pursuant to section 15-910.
+11 3. A rate that would result in a levy that equals any amount for
+12 tuition loss as determined in section 15-954.
+13 4. A rate that would result in a levy that equals any amount for
+14 the small school adjustment as determined in section 15-949.
+15 5. A rate that would result in a levy that equals any amount for
+16 liabilities in excess of the school district budget pursuant to section
+17 15-907.
+18 6. A rate that would result in a levy that equals any amount for
+19 adjacent ways pursuant to section 15-995.
+20 7. A rate that would result in a levy that equals the amount not
+21 captured by the qualifying tax rate as a result of property subject to the
+22 government property lease excise tax pursuant to title 42, chapter 6,
+23 article 5 as calculated in section 15-971, subsection B, paragraph 2.
+24 8. Following the recommendation of the county school superintendent
+25 and on approval by the county board of supervisors, for a school district
+26 that is not eligible for state aid, a rate that would result in a levy
+27 that equals any legal amount not levied in the current year as a result of
+28 underestimated average daily membership in the current year or as a result
+29 of a judgment in accordance with section 42-16213.
+30 9. A rate that would result in a levy that equals any amount
+31 pursuant to a qualifying dropout prevention program that was originally
+32 established by law in 1987.
+33 10. On the recommendation of the county school superintendent and
+34 on approval by the county board of supervisors before adoption of tax
+35 rates pursuant to section 42-17151, a rate that would result in a levy
+36 that equals any separately stated cash deficit from the prior fiscal year
+37 resulting from an anticipated or actual deviation in the property tax
+38 roll, including resolutions or judgments pursuant to title 42, chapter 16,
+39 articles 5 and 6.
+40 H. AT THE TIME OF LEVYING TAXES AS PROVIDED IN SUBSECTIONS E AND G
+41 OF THIS SECTION, THE COUNTY SCHOOL SUPERINTENDENT SHALL ANNUALLY REDUCE
+42 THE PRIMARY SCHOOL DISTRICT TAX LEVY AMOUNT REQUESTS FROM EACH SCHOOL
+43 DISTRICT BY AN AMOUNT DETERMINED AS FOLLOWS:
+44 1. DETERMINE THE TOTAL ENDING CASH BALANCES FROM THE SCHOOL
+45 DISTRICT'S MAINTENANCE AND OPERATIONS FUND AND UNRESTRICTED CAPITAL OUTLAY
+46 FUND REPORTED IN THE SCHOOL DISTRICT'S ANNUAL FINANCIAL REPORT FOR THE
+47 IMMEDIATELY PRECEDING FISCAL YEAR PURSUANT TO SECTION 15-904.
+48 2. DETERMINE THE AMOUNT THAT THE SCHOOL DISTRICT GOVERNING BOARD
+49 BUDGETED FROM BUDGET BALANCES FOR THE CURRENT YEAR PURSUANT TO SECTION
+-4-
+
+House Amendments to H.B. 2784
+1 15-947, SUBSECTION C, PARAGRAPH 2, SUBDIVISION (a), ITEM (i) AND
+2 SUBSECTION D, PARAGRAPH 4.
+3 3. SUBTRACT THE AMOUNT DETERMINED IN PARAGRAPH 2 OF THIS SUBSECTION
+4 FROM THE AMOUNT DETERMINED IN PARAGRAPH 1 OF THIS SUBSECTION.
+5 [4. EIGHTY-FIVE PERCENT OF THE AMOUNT CALCULATED PURSUANT TO
+6 PARAGRAPH 3 OF THIS SUBSECTION IS THE AMOUNT OF THE REDUCTION.]
+7 H. I. For the purposes of this section, "assessed valuation"
+8 includes the values used to determine voluntary contributions collected
+9 pursuant to title 9, chapter 4, article 3 and title 48, chapter 1,
+10 article 8.
+11 <<Sec. 3. School district property tax levy reductions; tax
+12 years 2027 through 2031; delayed repeal
+13 [A. Notwithstanding sections 15-991 and 15-992, Arizona Revised
+14 Statutes, as amended by this act, in each of tax years 2027, 2028, 2029,
+15 2030 and 2031, the county school superintendent of each county shall
+16 reduce the primary school district tax levy amounts requested by each
+17 school district pursuant to section 15-992, Arizona Revised Statutes, as
+18 amended by this act, by an amount determined by the school district,
+19 except that the amount of the reduction for any tax year may not be less
+20 than twenty percent of the amount calculated pursuant to section 15-992,
+21 subsection H, paragraph 3, Arizona Revised Statutes, as added by this act.
+22 B. This section is repealed from and after July 1, 2032.]>>"
+23 Enroll and engross to conform
+24 Amend title to conform
+JUSTIN OLSON
+2784FloorOLSON.docx
+03/06/2026
+9:17 AM
+C: VS
+130ZIQUXJ
+-5-
