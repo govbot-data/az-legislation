@@ -1,0 +1,578 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Government
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Government
+Second Regular Session S.B. 1246
+COMMITTEE ON GOVERNMENT
+SENATE AMENDMENTS TO S.B. 1246
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 33-1202, Arizona Revised Statutes, is amended
+3 to read:
+4 33-1202. Definitions
+5 In the condominium documents, unless specifically provided otherwise
+6 or the context otherwise requires, and in this chapter:
+7 1. "Affiliate of a declarant" means any person who controls, is
+8 controlled by or is under common control with a declarant.
+9 2. "Allocated interests" means the undivided interests in the
+10 common elements, the common expense liability and votes in the association
+11 allocated to each unit.
+12 3. "Articles of incorporation" means the instrument by which an
+13 incorporated association or unit owners' association is formed and
+14 organized under this state's corporate statutes.
+15 4. "Assessment" means the share of monies that is required for the
+16 payment of common expenses and that the association assesses periodically
+17 against each unit ASSOCIATION'S CHARGES THAT ARE APPLIED TO EACH UNIT
+18 OWNER TO FUND THE ACTUAL OR ANTICIPATED COMMON EXPENSES BASED ON EACH UNIT
+19 OWNER'S COMMON EXPENSE LIABILITY.
+20 5. "Association" or "unit owners' association" means the unit
+21 owners' association organized under section 33-1241.
+22 6. "Board of directors" means the body, regardless of its name,
+23 designated in the declaration and given general management powers to act
+24 on behalf of the association.
+25 7. "Bylaws" means the bylaws required by section 33-1246.
+26 8. "Common elements" means all portions of a condominium other than
+27 the units.
+
+Senate Amendments to S.B. 1246
+1 9. "Common expense liability" means the liability for common
+2 expenses allocated to each unit pursuant to section SECTIONS 33-1217 or
+3 AND 33-1255.
+4 10. "Common expense lien" means the lien for assessments, charges
+5 for late payment of assessments OR INTEREST ON THOSE ASSESSMENTS if
+6 authorized in the declaration, reasonable collection fees and costs
+7 incurred or applied by the association and reasonable attorney fees and
+8 costs that are incurred IN ANY ACTION with respect to those assessments,
+9 if the attorney fees and costs are awarded by a court.
+10 11. "Common expenses" means expenditures made by or financial
+11 liabilities of the association, together with any allocations to reserves
+12 FOR THE MAINTENANCE, OPERATION, USE, UPGRADE, REPLACEMENT OR ACQUISITION
+13 OF THE COMMON ELEMENTS, UTILITIES OR OTHER SERVICES REQUIRED BY THE
+14 DECLARATION AND THE ASSOCIATION'S REASONABLE ADMINISTRATIVE AND
+15 OPERATIONAL EXPENSES AS AUTHORIZED IN THE DECLARATION.
+16 12. "Condominium" means real estate, portions of which are
+17 designated for separate ownership and the remainder of which is designated
+18 for common ownership solely by the owners of the separate portions. Real
+19 estate is not a condominium unless the undivided interests in the common
+20 elements are vested in the unit owners.
+21 13. "Condominium documents" means the declaration, bylaws, articles
+22 of incorporation, if any, and rules, if any.
+23 14. "Declarant" means any person or group of persons who reserves,
+24 is granted or succeeds to any special declarant right.
+25 15. "Declaration" means any instruments, however denominated, that
+26 create a condominium and any amendments to those instruments.
+27 16. "Development rights" means any right or combination of rights
+28 reserved by or granted to a declarant in the declaration to do any of the
+29 following:
+30 (a) Add real estate to a condominium.
+31 (b) Create easements, units, common elements or limited common
+32 elements within a condominium.
+33 (c) Subdivide units, convert units into common elements or convert
+34 common elements into units.
+35 (d) Withdraw real estate from a condominium.
+36 (e) Make the condominium part of a larger condominium or planned
+37 community.
+38 (f) Amend the declaration during any period of declarant control,
+39 pursuant to section 33-1243, subsection E, to comply with applicable law
+40 or to correct any error or inconsistency in the declaration, if the
+41 amendment does not adversely affect the rights of any unit owner.
+42 (g) Amend the declaration during any period of declarant control,
+43 pursuant to section 33-1243, subsection E, to comply with the rules or
+44 guidelines, in effect from time to time, of any governmental or
+45 quasi-governmental entity or federal corporation guaranteeing or insuring
+46 mortgage loans or governing transactions involving mortgage instruments.
+-2-
+
+Senate Amendments to S.B. 1246
+1 17. "Identifying number" means a symbol or address that identifies
+2 one unit in a condominium.
+3 18. "Leasehold condominium" means a condominium in which all or a
+4 portion of the real estate is subject to a lease the expiration or
+5 termination of which will terminate the condominium or reduce its size.
+6 19. "Limited common element" means a portion of the common elements
+7 specifically designated as a limited common element in the declaration and
+8 allocated by the declaration or by operation of section 33-1212, paragraph
+9 2 or 4 for the exclusive use of one or more but fewer than all of the
+10 units.
+11 20. "Person" means:
+12 (a) A natural person, corporation, business trust, estate, trust,
+13 partnership, association, joint venture, government, governmental
+14 subdivision or agency, or other legal or commercial entity.
+15 (b) In the case of a subdivision trust, as defined in section
+16 6-801, the beneficiary of the trust who holds the right to subdivide,
+17 develop or sell the real estate rather than the trust or trustee.
+18 21. "Real estate":
+19 (a) Means any legal, equitable, leasehold or other estate or
+20 interest in, over or under land, including structures, fixtures and other
+21 improvements and interests which by custom, usage or law pass with a
+22 conveyance of land though not described in the contract of sale or
+23 instrument of conveyance.
+24 (b) Includes parcels with or without upper or lower boundaries and
+25 spaces that may be filled with air or water.
+26 22. "Rules" means the provisions, if any, adopted pursuant to the
+27 declaration or bylaws governing maintenance and use of the units and
+28 common elements.
+29 23. "Special declarant rights" means any right or combination of
+30 rights reserved by or granted to a declarant in the declaration to do any
+31 of the following:
+32 (a) Construct improvements provided for in the declaration.
+33 (b) Exercise any development right.
+34 (c) Maintain sales offices, management offices, signs advertising
+35 the condominium, and models.
+36 (d) Use easements through the common elements for the purpose of
+37 making improvements within the condominium or within real estate that may
+38 be added to the condominium.
+39 (e) Appoint or remove any officer of the association or any board
+40 member during any period of declarant control.
+41 24. "Unit" means a portion of the condominium designated for
+42 separate ownership or occupancy.
+43 25. "Unit owner" means:
+44 (a) A declarant or other person who owns a unit or, unless
+45 otherwise provided in the lease, a lessee of a unit in a leasehold
+46 condominium whose lease expires simultaneously with any lease the
+47 expiration or termination of which will remove the unit from the
+-3-
+
+Senate Amendments to S.B. 1246
+1 condominium but does not include a person having an interest in a unit
+2 solely as security for an obligation.
+3 (b) In the case of a contract for conveyance, as defined in section
+4 33-741, of real property, the purchaser of the unit.
+5 26. "Unit owner expenses CHARGES":
+6 (a) Means fees, charges, late charges and monetary penalties or
+7 interest that is imposed pursuant to section 33-1242, subsection A,
+8 paragraphs 10, 11 and 12 OR THE CONDOMINIUM DOCUMENTS.
+9 (b) Does not include any amount that is included in a common
+10 expense lien.>>
+11 Section 1. Section 33-1256, Arizona Revised Statutes, is amended to
+12 read:
+13 33-1256. Common expense liens; priority; mechanics' and
+14 materialmen's liens; notice; applicability
+15 A. The association has a common expense lien on a unit for any
+16 [VALID] assessment levied against that unit from the time the assessment
+17 becomes due. The association's common expense lien may be foreclosed in
+18 the same manner as a mortgage on real estate but may be foreclosed only if
+19 the unit owner has been and remains delinquent in the payment of
+20 assessments, ANY ASSESSMENT OR PORTION OF THE ASSESSMENT for a period of
+21 one year EIGHTEEN MONTHS or in the amount of $1,200 $10,000 or more,
+22 whichever occurs first, as determined on the date the action is filed.
+23 FOR ANY SPECIAL ASSESSMENT WITH AN INITIAL VALUE OF $10,000 OR MORE, ONLY
+24 THE EIGHTEEN-MONTH DELINQUENCY THRESHOLD APPLIES. The association board
+25 of directors shall exercise reasonable efforts to communicate with the
+26 unit owner and offer a reasonable payment plan before filing a foreclosure
+27 action. If an assessment is payable in installments, the full amount of
+28 the assessment is a COMMON EXPENSE lien from the time the first
+29 installment of the assessment becomes due.
+30 B. Notwithstanding any provision in the condominium documents, unit
+31 owner [expenses] [CHARGES] are not enforceable as common expense liens
+32 under this section. The association has a JUDGMENT lien for unit owner
+33 [expenses] [CHARGES] after the entry of a judgment in a civil suit for
+34 those unit owner [expenses] [CHARGES] from a court of competent
+35 jurisdiction and the recording of that judgment in the office of the
+36 county recorder as otherwise provided by law. The association's judgment
+37 lien for unit owner [expenses] [CHARGES] may not be foreclosed and is
+38 effective only on conveyance of any interest in the real property.
+39 C. A common expense lien under this section is prior to all other
+40 liens, interests and encumbrances on a unit except:
+41 1. Liens and encumbrances recorded before the recordation of the
+42 declaration.
+43 2. A recorded first mortgage on the unit, a seller's interest in a
+44 first contract for sale pursuant to chapter 6, article 3 of this title on
+45 the unit recorded before the COMMON EXPENSE lien arising pursuant to
+46 subsection A of this section or a recorded first deed of trust on the
+47 unit.
+-4-
+
+Senate Amendments to S.B. 1246
+1 3. Liens for real estate taxes and other governmental assessments
+2 or charges against the unit.
+3 D. Subsection C of this section does not affect the priority of
+4 mechanics' or materialmen's liens. The common expense lien under this
+5 section is not subject to chapter 8 of this title.
+6 E. Unless the declaration otherwise provides, if two or more
+7 associations have common expense liens created at any time on the same
+8 real estate, those COMMON EXPENSE liens have equal priority.
+9 F. Recording the declaration constitutes record notice and
+10 perfection of the common expense lien. Further recordation of any claim
+11 of common expense lien under this section is not required.
+12 G. A common expense lien is extinguished unless proceedings to
+13 enforce the COMMON EXPENSE lien are instituted within six years after the
+14 full amount of the assessments becomes due.
+15 H. This section does not prohibit:
+16 1. Actions to recover sums for which subsection A or B of this
+17 section creates a [PERFECTED AND OTHERWISE EFFECTIVE] lien.
+18 2. An association from taking a deed in lieu of foreclosure.
+19 I. A judgment or decree in any action brought under this section
+20 may include costs and reasonable attorney fees for the prevailing party.
+21 J. The association on written request shall furnish to a
+22 lienholder, escrow agent, unit owner or person designated by a unit owner
+23 a statement setting forth the amount of any unpaid liens prescribed by
+24 subsection A or B of this section against the unit. The statement shall
+25 be furnished within ten days after receipt of the request. The statement
+26 is binding on the association if the statement is requested by an escrow
+27 agency that is licensed pursuant to title 6, chapter 7. Failure to
+28 provide the statement to the escrow agent within the time provided for in
+29 this subsection extinguishes any lien for any unpaid assessment then due.
+30 K. Notwithstanding any provision in the condominium documents or in
+31 any contract between the association and a management company or any other
+32 agent of the association, including any agreement or contract with any
+33 attorney, unless the unit owner directs otherwise, all payments received
+34 on a unit owner's account shall be applied first to any unpaid
+35 assessments, due but not delinquent assessments, unpaid charges for late
+36 payment of [OR INTEREST ON] those assessments if authorized in the
+37 declaration, unpaid reasonable collection fees and costs incurred or
+38 applied by the association and unpaid attorney fees and costs incurred [IN
+39 ANY ACTION] with respect to those assessments if awarded by a court, in
+40 that order, with any remaining amounts applied next to other unpaid fees,
+41 charges and monetary penalties or interest [and late charges] on any of
+42 those amounts.
+43 L. For a delinquent account for unpaid common expense liens, the
+44 association shall [provide] [DELIVER] the following written notice to the
+45 unit owner at the unit owner's address [as provided to the association]
+46 [OF RECORD] at least thirty days before authorizing an attorney, or a
+-5-
+
+Senate Amendments to S.B. 1246
+1 collection agency that is not acting as the association's managing agent,
+2 to begin collection activity on behalf of the association:
+3 Your account is delinquent. If you do not bring your account
+4 current or make arrangements that are approved by the
+5 association to bring your account current within thirty days
+6 after the date of this notice, your account will be turned
+7 over for further collection proceedings. Such collection
+8 proceedings could include bringing a foreclosure action
+9 against your property.
+10 The notice shall be in boldfaced BOLD-FACED type or all capital letters
+11 and shall include the contact information for the person that the unit
+12 owner may contact to discuss payment. The notice shall be sent by
+13 certified mail, return receipt requested[, and may be included within
+14 other correspondence sent to the unit owner regarding the unit owner's
+15 delinquent account]. [IF THE ASSOCIATION DOES NOT COMPLY WITH THE NOTICE
+16 REQUIREMENTS PRESCRIBED BY THIS SUBSECTION, ALL SUBSEQUENT COLLECTION
+17 COSTS INCURRED BY THE ASSOCIATION ARE UNCOLLECTIBLE AGAINST THE UNIT
+18 OWNER.]
+19 [M. Except for condominiums that have fewer than fifty units and
+20 that do not contract with a third party to perform management services on
+21 behalf of the association, the association shall provide a statement of
+22 account in lieu of a periodic payment book to the unit owner with the same
+23 frequency that assessments are provided for in the declaration. The
+24 statement of account shall include the current account balance due and the
+25 immediately preceding ledger history. If the association offers the
+26 statement of account by electronic means, a unit owner may opt to receive
+27 the statement electronically. The association may stop providing any
+28 further statements of account to a unit owner if collection activity
+29 begins by an attorney, or a collection agency that is not acting as the
+30 association's managing agent, regarding that unit owner's unpaid account.
+31 After collection activity begins, a unit owner may request statements of
+32 account by written request to the attorney or collection agency. Any
+33 request by a unit owner for a statement of account after collection
+34 activity begins by an attorney or a collection agency that is not acting
+35 as the association's managing agent must be fulfilled by the attorney or
+36 the collection agency responsible for the collection. The statement of
+37 account provided by the attorney or collection agency responsible for the
+38 collection shall include all amounts claimed to be owing to resolve the
+39 delinquency through the date set forth in the statement, including
+40 attorney fees and costs, regardless of whether such amounts have been
+41 reduced to judgment.]
+42 [M. THE ASSOCIATION SHALL MAINTAIN A TRUE AND ACCURATE RECORD OF
+43 ACCOUNTS FOR EACH UNIT IN THE CONDOMINIUM. THESE ACCOUNTS SHALL
+44 DISTINGUISH BETWEEN CHARGES THAT ARE INCLUDED IN THE COMMON EXPENSE LIEN
+45 AND OTHER UNIT OWNER CHARGES. WITH RESPECT TO THE ACCOUNTS:
+46 1. THE ASSOCIATION MAY USE ANY PROCESS OR TOOL IT DEEMS APPROPRIATE
+47 FOR THE BILLING OF MONEY OWED ON THE UNIT OWNER'S ACCOUNTS, INCLUDING THE
+-6-
+
+Senate Amendments to S.B. 1246
+1 USE OF PERIODIC PAYMENT BOOKS. THE ASSOCIATION SHALL PROVIDE EITHER
+2 SECURE ONLINE VIEWING ACCESS TO THE INDIVIDUAL UNIT OWNER'S ACCOUNT OR, ON
+3 REQUEST BY THE UNIT OWNER, AN ELECTRONIC COPY OF THE STATEMENT OF ACCOUNT
+4 FOR THE CURRENT FISCAL YEAR, WITHOUT CHARGE.
+5 2. THE ASSOCIATION OR ITS AGENTS SHALL MAKE GOOD FAITH EFFORTS TO
+6 EVALUATE AND RESOLVE ANY CHARGES ON THE UNIT OWNER'S ACCOUNT THAT ARE
+7 CONTESTED BY THE UNIT OWNER, INCLUDING A REQUEST FOR REVIEW AND CORRECTION
+8 BY THE BOARD OF DIRECTORS, IF NECESSARY.
+9 3. ANY CHARGE ASSESSED IN VIOLATION OF THE DECLARATION OR THIS
+10 CHAPTER ON EITHER THE COMMON EXPENSE LIEN OR THE UNIT OWNER CHARGES IS
+11 INVALID AND UNENFORCEABLE.
+12 4. ANY CONTESTED CHARGE FROM THE UNIT OWNER'S STATEMENT OF ACCOUNT
+13 MAY BE CHALLENGED IN A COURT OF COMPETENT JURISDICTION IN ANY ACTION BY
+14 THE ASSOCIATION TO ENFORCE OR APPLY THE COMMON EXPENSE LIEN OR JUDGMENT
+15 LIEN. IF THE COURT FINDS THE CHARGE TO BE INVALID, THE CHARGE AND ANY
+16 SUBSEQUENT RELATED COLLECTION COST OR FEES THAT ARE INCLUDED IN THE COMMON
+17 EXPENSE LIEN OR JUDGMENT LIEN BASED ON THAT CHARGE SHALL BE EXTINGUISHED
+18 AND EXCLUDED FROM THE COMMON EXPENSE LIEN OR JUDGMENT LIEN BY ORDER OF THE
+19 COURT.]
+20 N. An agent for the association may collect on behalf of the
+21 association directly from a unit owner the assessments and other amounts
+22 owed by cash or check, by mailed or hand-delivered bank drafts, checks,
+23 cashier's checks or money orders, by credit, charge or debit card or by
+24 other electronic means. For any form of payment other than for cash or
+25 for mailed or hand-delivered bank drafts, checks, cashier's checks or
+26 money orders, the agent may charge a convenience fee to the unit owner
+27 that is approximately the amount charged to the agent by a third-party
+28 service provider.
+29 O. The association may not transfer ownership or control of debt
+30 for common expense liens or unit owner [expenses] [CHARGES].
+31 O. P. This section does not apply to timeshare plans or
+32 associations that are subject to chapter 20 of this title.
+33 <<Sec. 3. Section 33-1802, Arizona Revised Statutes, is amended to
+34 read:
+35 33-1802. Definitions
+36 In this chapter and in the community documents, unless the context
+37 otherwise requires:
+38 1. "ALLOCATED INTERESTS" MEANS THE COMMON EXPENSE LIABILITY AND
+39 VOTING RIGHTS THAT ARE ALLOCATED TO EACH MEMBER OF THE ASSOCIATION.
+40 2. "ASSESSMENT" MEANS THE ASSOCIATION'S CHARGES THAT ARE APPLIED TO
+41 EACH MEMBER TO FUND THE ACTUAL OR ANTICIPATED COMMON EXPENSES BASED ON
+42 EACH MEMBER'S COMMON EXPENSE LIABILITY.
+43 1. 3. "Association":
+44 (a) Means a nonprofit corporation or unincorporated association of
+45 owners that is created pursuant to a declaration to own and operate
+46 portions of a planned community and that has the power under the
+47 declaration to assess association members to pay the costs and expenses
+-7-
+
+Senate Amendments to S.B. 1246
+1 incurred in the performance of the association's obligations under the
+2 declaration.
+3 (b) Does not include a nonprofit corporation or unincorporated
+4 association of owners that is created or incorporated before January 1,
+5 1974 and that does not have authority to enforce covenants, conditions or
+6 restrictions related to the use, occupancy or appearance of the separately
+7 owned lots, parcels or units in a real estate development, unless the
+8 nonprofit corporation or unincorporated association of owners elects to be
+9 subject to this chapter pursuant to section 33-1801, subsection D.
+10 4. "COMMON EXPENSE LIABILITY" MEANS THE SHARE OR ASSIGNMENT OF
+11 COMMON EXPENSES THAT ARE ALLOCATED TO EACH MEMBER BY THE DECLARATION.
+12 2. 5. "Common expense lien" means the lien for assessments,
+13 charges for late payment of assessments OR INTEREST ON THOSE ASSESSMENTS
+14 if authorized in the declaration, reasonable collection fees and costs
+15 THAT ARE incurred or applied by the association and reasonable attorney
+16 fees and costs that are incurred IN ANY ACTION with respect to those
+17 assessments, if the attorney fees and costs are awarded by a court.
+18 6. "COMMON EXPENSES" MEANS EXPENDITURES MADE BY OR FINANCIAL
+19 LIABILITIES OF THE ASSOCIATION FOR THE MAINTENANCE, OPERATION, USE,
+20 UPGRADE, REPLACEMENT OR ACQUISITION OF THE COMMON PROPERTY, THE
+21 MAINTENANCE OF MEMBER PROPERTY OR UTILITIES OR OTHER SERVICES REQUIRED BY
+22 THE DECLARATION AND THE ASSOCIATION'S REASONABLE ADMINISTRATIVE AND
+23 OPERATIONAL EXPENSES AS AUTHORIZED IN THE DECLARATION.
+24 3. 7. "Community documents" means the declaration, bylaws,
+25 articles of incorporation, if any, and rules, if any.
+26 4. 8. "Declaration" means any instruments, however denominated,
+27 that establish a planned community and any amendment to those instruments.
+28 5. 9. "Member expenses CHARGES":
+29 (a) Means fees, charges, late charges and monetary penalties or
+30 interest THAT ARE IMPOSED PURSUANT TO THE COMMUNITY DOCUMENTS.
+31 (b) Does not include any amount that is included in a common
+32 expense lien.
+33 6. 10. "Planned community":
+34 (a) Means a real estate development that includes real estate owned
+35 and operated by or real estate on which an easement to maintain roadways
+36 or a covenant to maintain roadways is held by a nonprofit corporation or
+37 unincorporated association of owners, that is created for the purpose of
+38 managing, maintaining or improving TO MANAGE, MAINTAIN OR IMPROVE the
+39 property and in which the declaration expressly states both that the
+40 owners of separately owned lots, parcels or units are mandatory members
+41 and that the owners are required to pay assessments to the association for
+42 these purposes.
+-8-
+
+Senate Amendments to S.B. 1246
+1 (b) Does not include any of the following:
+2 (i) A timeshare plan or a timeshare association that is governed by
+3 chapter 20 of this title.
+4 (ii) A condominium that is governed by chapter 9 of this title.
+5 (iii) A real estate development that is not managed or maintained
+6 by an association.>>
+7 Sec. 2. Section 33-1807, Arizona Revised Statutes, is amended to
+8 read:
+9 33-1807. Common expense liens; priority; mechanics' and
+10 materialmen's liens; notice
+11 A. The association has a common expense lien on a property for any
+12 [VALID] assessment levied against that property from the time the
+13 assessment becomes due. The association's common expense lien may be
+14 foreclosed in the same manner as a mortgage on real estate but may be
+15 foreclosed only if the owner has been and remains delinquent in the
+16 payment of any assessment or portion of the assessment for a period of
+17 eighteen months or in the amount of $10,000 or more, whichever occurs
+18 first, as determined on the date the action is filed. FOR ANY SPECIAL
+19 ASSESSMENT WITH AN INITIAL VALUE OF $10,000 OR MORE, ONLY THE
+20 EIGHTEEN-MONTH DELINQUENCY THRESHOLD APPLIES. The association board of
+21 directors shall exercise reasonable efforts to communicate with the member
+22 and offer a reasonable payment plan before filing a foreclosure
+23 action. If an assessment is payable in installments, the full amount of
+24 the assessment is a common expense lien from the time the first
+25 installment of the assessment becomes due.
+26 B. Notwithstanding any provision in the community documents, member
+27 [expenses] [CHARGES] are not enforceable as common expense liens under
+28 this section. The association has a judgment lien for member [expenses]
+29 [CHARGES] after the entry of a judgment in a civil suit for those member
+30 [expenses] [CHARGES] from a court of competent jurisdiction and the
+31 recording of that judgment in the office of the county recorder as
+32 otherwise provided by law. The association's judgment lien for member
+33 [expenses] [CHARGES] may not be foreclosed and is effective only on
+34 conveyance of any interest in the real property.
+35 C. A common expense lien under this section is prior to all other
+36 liens, interests and encumbrances on a property except:
+37 1. Liens and encumbrances recorded before the recordation of the
+38 declaration.
+39 2. A recorded first mortgage on the property, a seller's interest
+40 in a first contract for sale pursuant to chapter 6, article 3 of this
+41 title on the property recorded before the common expense lien arising
+42 pursuant to subsection A of this section or a recorded first deed of trust
+43 on the property.
+44 3. Liens for real estate taxes and other governmental assessments
+45 or charges against the property.
+-9-
+
+Senate Amendments to S.B. 1246
+1 D. Subsection C of this section does not affect the priority of
+2 mechanics' or materialmen's liens. The common expense lien under this
+3 section is not subject to chapter 8 of this title.
+4 E. Unless the declaration otherwise provides, if two or more
+5 associations have common expense liens created at any time on the same
+6 real estate those common expense liens have equal priority.
+7 F. Recording the declaration constitutes record notice and
+8 perfection of the common expense lien. Further recordation of any claim
+9 of common expense lien under this section is not required.
+10 G. A common expense lien is extinguished unless proceedings to
+11 enforce the common expense lien are instituted within six years after the
+12 full amount of the assessment becomes due.
+13 H. This section does not prohibit:
+14 1. Actions to recover amounts for which subsection A or B of this
+15 section creates a [PERFECTED AND OTHERWISE EFFECTIVE] lien.
+16 2. An association from taking a deed in lieu of foreclosure.
+17 I. A judgment or decree in any action brought under this section
+18 may include costs and reasonable attorney fees for the prevailing party.
+19 J. On written request, the association shall furnish to a
+20 lienholder, escrow agent, member or person designated by a member a
+21 statement setting forth the amount of any unpaid liens prescribed by
+22 subsection A or B of this section against the property. The association
+23 shall furnish the statement within ten days after receipt of the request.
+24 The statement is binding on the association if the statement is requested
+25 by an escrow agency that is licensed pursuant to title 6, chapter 7.
+26 Failure to provide the statement to the escrow agent within the time
+27 provided for in this subsection extinguishes any lien for any unpaid
+28 assessment then due.
+29 K. Notwithstanding any provision in the community documents or in
+30 any contract between the association and a management company or any other
+31 agent of the association, including any agreement or contract with any
+32 attorney, unless the member directs otherwise, all payments received on a
+33 member's account shall be applied first to any unpaid assessments, due but
+34 not delinquent assessments, unpaid charges for late payment of [OR
+35 INTEREST ON] those assessments if authorized in the declaration, unpaid
+36 reasonable collection fees and costs incurred or applied by the
+37 association, and unpaid attorney fees and costs incurred [IN ANY ACTION]
+38 with respect to those assessments if awarded by a court, in that order,
+39 with any remaining amounts applied next to other unpaid fees[, ] [AND]
+40 charges and monetary penalties or interest [and late charges] on any of
+41 those amounts.
+42 L. For a delinquent account for unpaid common expense liens, the
+43 association shall [provide] [DELIVER] the following written notice to the
+44 member at the member's address [as provided to the association] [OF
+45 RECORD] at least thirty days before authorizing an attorney, or a
+46 collection agency that is not acting as the association's managing agent,
+47 to begin collection activity on behalf of the association:
+-10-
+
+Senate Amendments to S.B. 1246
+1 Your account is delinquent. If you do not bring your account
+2 current or make arrangements that are approved by the
+3 association to bring your account current within thirty days
+4 after the date of this notice, your account will be turned
+5 over for further collection proceedings. Such collection
+6 proceedings could include bringing a foreclosure action
+7 against your property.
+8 The notice shall be in bold-faced type or all capital letters and shall
+9 include the contact information for the person that the member may contact
+10 to discuss payment. The notice shall be sent by certified mail, return
+11 receipt requested[, and may be included within other correspondence sent
+12 to the member regarding the member's delinquent account]. [IF THE
+13 ASSOCIATION DOES NOT COMPLY WITH THE NOTICE REQUIREMENTS PRESCRIBED BY
+14 THIS SUBSECTION, ALL SUBSEQUENT COLLECTION COSTS ARE UNCOLLECTIBLE AGAINST
+15 THE MEMBER.]
+16 [M. Except for planned communities that have fewer than fifty lots
+17 and that do not contract with a third party to perform management services
+18 on behalf of the association, the association shall provide a statement of
+19 account in lieu of a periodic payment book to the member with the same
+20 frequency that assessments are provided for in the declaration. The
+21 statement of account shall include the current account balance due and the
+22 immediately preceding ledger history. If the association offers the
+23 statement of account by electronic means, a member may opt to receive the
+24 statement electronically. The association may stop providing any further
+25 statements of account to a member if collection activity begins by an
+26 attorney, or a collection agency that is not acting as the association's
+27 managing agent, regarding that member's unpaid account. After collection
+28 activity begins, a member may request statements of account by written
+29 request to the attorney or collection agency. Any request by a member for
+30 a statement of account after collection activity begins by an attorney or
+31 a collection agency that is not acting as the association's managing agent
+32 must be fulfilled by the attorney or the collection agency responsible for
+33 the collection. The statement of account provided by the attorney or
+34 collection agency responsible for the collection shall include all amounts
+35 claimed to be owing to resolve the delinquency through the date set forth
+36 in the statement, including attorney fees and costs, regardless of whether
+37 such amounts have been reduced to judgment.]
+38 [M. THE ASSOCIATION SHALL MAINTAIN A TRUE AND ACCURATE RECORD OF
+39 ACCOUNTS FOR EACH PROPERTY IN THE PLANNED COMMUNITY. THESE ACCOUNTS SHALL
+40 DISTINGUISH BETWEEN CHARGES THAT ARE INCLUDED IN THE COMMON EXPENSE LIEN
+41 AND OTHER MEMBER CHARGES. WITH RESPECT TO THE ACCOUNTS:
+42 1. THE ASSOCIATION MAY USE ANY PROCESS OR TOOL IT DEEMS APPROPRIATE
+43 FOR THE BILLING OF MONEY OWED ON THE MEMBER'S ACCOUNTS, INCLUDING THE USE
+44 OF PERIODIC PAYMENT BOOKS. THE ASSOCIATION SHALL PROVIDE EITHER SECURE
+45 ONLINE VIEWING ACCESS TO THE INDIVIDUAL MEMBER'S ACCOUNT OR, ON REQUEST BY
+46 THE MEMBER, AN ELECTRONIC COPY OF THE STATEMENT OF ACCOUNT FOR THE CURRENT
+47 FISCAL YEAR, WITHOUT CHARGE.
+-11-
+
+Senate Amendments to S.B. 1246
+1 2. THE ASSOCIATION OR ITS AGENTS SHALL MAKE GOOD FAITH EFFORTS TO
+2 EVALUATE AND RESOLVE ANY CHARGES ON THE MEMBER'S ACCOUNT THAT ARE
+3 CONTESTED BY THE MEMBER, INCLUDING A REQUEST FOR REVIEW AND CORRECTION BY
+4 THE BOARD OF DIRECTORS, IF NECESSARY.
+5 3. ANY CHARGE ASSESSED IN VIOLATION OF THE DECLARATION OR THIS
+6 CHAPTER ON EITHER THE COMMON EXPENSE LIEN OR THE MEMBER CHARGES IS INVALID
+7 AND UNENFORCEABLE.
+8 4. ANY CONTESTED CHARGE FROM THE MEMBER'S STATEMENT OF ACCOUNT MAY
+9 BE CHALLENGED IN A COURT OF COMPETENT JURISDICTION IN ANY ACTION BY THE
+10 ASSOCIATION TO ENFORCE OR APPLY THE COMMON EXPENSE LIEN OR JUDGMENT LIEN.
+11 IF THE COURT FINDS THE CHARGE TO BE INVALID, THE CHARGE AND ANY SUBSEQUENT
+12 RELATED COLLECTION COST OR FEES THAT ARE INCLUDED IN THE COMMON EXPENSE
+13 LIEN OR JUDGMENT LIEN BASED ON THAT CHARGE SHALL BE EXTINGUISHED AND
+14 EXCLUDED FROM THE COMMON EXPENSE LIEN OR JUDGMENT LIEN BY ORDER OF THE
+15 COURT.]
+16 N. An agent for the association may collect on behalf of the
+17 association directly from a member the assessments and other amounts owed
+18 by cash or check, by mailed or hand-delivered bank drafts, checks,
+19 cashier's checks or money orders, by credit, charge or debit card or by
+20 other electronic means. For any form of payment other than for cash or
+21 for mailed or hand-delivered bank drafts, checks, cashier's checks or
+22 money orders, the agent may charge a convenience fee to the member that is
+23 approximately the amount charged to the agent by a third-party service
+24 provider.
+25 O. The association may not transfer ownership or control of debt
+26 for common expense liens or member [expenses] [CHARGES].
+27 Enroll and engross to conform
+28 Amend title to conform
+1246GOV.docx
+02/16/2026
+08:01 PM
+C: MR
+130PUJQRE
+-12-

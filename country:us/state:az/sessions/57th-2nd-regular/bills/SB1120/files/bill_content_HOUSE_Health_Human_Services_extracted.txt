@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Health & Human Services
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Health & Human Services
+Second Regular Session S.B. 1120
+PROPOSED
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1120
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 36, chapter 4, article 2, Arizona Revised
+3 Statutes, is amended by adding section 36-434.03, to read:
+4 36-434.03. Radiation protection systems; installation
+5 requirement; applicability; definitions
+6 A. ON OR BEFORE JULY 1, 2027, EACH HOSPITAL THAT PERFORMS CARDIAC
+7 CATHETERIZATION PROCEDURES INVOLVING REAL-TIME X-RAY IMAGING SHALL ENSURE
+8 THAT AT LEAST FIFTY PERCENT OF THE PROCEDURE ROOMS IN WHICH THESE
+9 PROCEDURES OCCUR ARE EQUIPPED WITH A RADIATION PROTECTION SYSTEM.
+10 B. A HOSPITAL THAT ISSUES A PURCHASE ORDER FOR RADIATION PROTECTION
+11 SYSTEMS FOR AT LEAST FIFTY PERCENT OF THE APPLICABLE PROCEDURE ROOMS ON OR
+12 BEFORE JULY 1, 2027 AND THAT INSTALLS THOSE RADIATION PROTECTION SYSTEMS
+13 NOT LATER THAN DECEMBER 31, 2027 SATISFIES THE REQUIREMENT PRESCRIBED IN
+14 SUBSECTION A OF THIS SECTION.
+15 [C. THIS SECTION DOES NOT APPLY TO PROCEDURE ROOMS IN A
+16 FREESTANDING CHILDREN'S HOSPITAL OR A CHILDREN'S HOSPITAL SYSTEM.]
+17 [C.] [D.] FOR THE PURPOSES OF THIS SECTION:
+18 1. "PURCHASE ORDER" MEANS A BINDING DOCUMENT THAT IS ISSUED BY A
+19 HOSPITAL REQUESTING A VENDOR TO DELIVER THE DESCRIBED EQUIPMENT AT A
+20 SPECIFIC PRICE AND THAT OBLIGATES THE HOSPITAL TO PAY THE VENDOR ON
+21 DELIVERY AND ACCEPTANCE OF THE EQUIPMENT OR IN ACCORDANCE WITH THE TERMS
+22 OF THE PURCHASE ORDER.
+
+House Amendments to S.B. 1120
+1 2. "RADIATION PROTECTION SYSTEM" MEANS A SHIELDING SYSTEM THAT IS
+2 DESIGNED TO PROTECT AGAINST SCATTER OR DIRECT IONIZING RADIATION EXPOSURE,
+3 THAT PROVIDES PROTECTION EQUAL TO OR GREATER THAN THE SHIELDING
+4 EFFECTIVENESS OF A .25 MILLIMETER LEAD-EQUIVALENT APRON AND THAT INCLUDES
+5 REAL-TIME DOSIMETRY TO MEASURE RADIATION EXPOSURE TO HEALTH PROFESSIONALS
+6 THROUGHOUT AN IONIZING RADIATION MEDICAL PROCEDURE.
+7 Enroll and engross to conform
+8 Amend title to conform
+SELINA BLISS
+1120BLISS.docx
+03/20/2026
+11:14 AM
+C: MH
+130MKXKYX
+-2-

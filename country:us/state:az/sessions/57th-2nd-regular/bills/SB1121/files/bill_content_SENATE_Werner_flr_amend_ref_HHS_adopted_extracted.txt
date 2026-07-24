@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Werner flr amend (ref HHS) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1121
+Werner Floor Amendment
+Reference to: HEALTH & HUMAN SERVICES
+Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Removes outpatient surgical centers and other health care institutions from the lead apron
+enforcement requirement.
+2. Applies the exception to the lead apron requirement, for hospitals that use a radiation protection
+system, to cardiac catheterization procedures involving real-time x-ray imaging.
+3. Conditions the exception to the lead apron requirement on the radiation protection system being
+used according to the manufacturer's instructions.
+4. Limits the lead apron exception to health professionals working primarily within a radiation
+protection system’s designated safety zone.
+5. Allows the Department of Health Services to adopt rules governing radiation protection system
+requirements using an expedited rulemaking process.
+Amendment explanation prepared by Michael Madden
+2/11/2026
+
+Fifty-seventh Legislature Werner
+Second Regular Session S.B. 1121
+WERNER FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1121
+(Reference to HEALTH AND HUMAN SERVICES Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 36, chapter 4, article 1, Arizona Revised
+3 Statutes, is amended by adding section 36-420.06, to read:
+4 36-420.06. Procedures involving ionizing radiation; lead
+5 aprons; radiation protection systems; real-time
+6 dosimeters; definitions
+7 A. A HOSPITAL{{, OUTPATIENT SURGICAL CENTER OR OTHER HEALTH CARE
+8 INSTITUTION}} THAT PERFORMS {{CARDIAC CATHETERIZATION}} PROCEDURES {{USING
+9 IONIZING RADIATION}} {{INVOLVING REAL-TIME X-RAY IMAGING}} MAY NOT REQUIRE
+10 THAT PHYSICIANS, PHYSICIAN ASSISTANTS, NURSES OR OTHER HEALTH
+11 PROFESSIONALS WEAR LEAD APRONS DURING THESE PROCEDURES IF THE PROCEDURE
+12 ROOM IS EQUIPPED WITH A RADIATION PROTECTION SYSTEM {{AND THE RADIATION
+13 PROTECTION SYSTEM IS IN USE ACCORDING TO THE MANUFACTURER'S
+14 INSTRUCTIONS}}.
+15 {{B. A HOSPITAL SHALL REQUIRE THAT HEALTH PROFESSIONALS WEAR LEAD
+16 APRONS DURING PROCEDURES IN PROCEDURE ROOMS THAT ARE EQUIPPED WITH
+
+Senate Amendments to S.B. 1121
+1 RADIATION PROTECTION SYSTEMS IF THE HEALTH PROFESSIONAL IS NOT WORKING
+2 PRIMARILY IN THE RADIATION PROTECTION SYSTEM'S DESIGNATED SAFETY ZONE.}}
+3 [{{B.}} {{C.}} IF A HEALTH PROFESSIONAL WHO IS {{AN EMPLOYEE OF A
+4 HEALTH CARE INSTITUTION}} {{WORKING PRIMARILY IN THE RADIATION PROTECTION
+5 SYSTEM'S DESIGNATED SAFETY ZONE}} CHOOSES TO NOT WEAR A LEAD APRON BECAUSE
+6 THE PROCEDURE ROOM IS EQUIPPED WITH A RADIATION PROTECTION SYSTEM, THE
+7 {{HEALTH CARE INSTITUTION}} {{HOSPITAL}} SHALL REQUIRE THE HEALTH
+8 PROFESSIONAL TO WEAR A REAL-TIME DOSIMETER TO MONITOR RADIATION EXPOSURE.]
+9 [B.] {{[C.]}} {{D.}} {{THIS SECTION DOES NOT PROHIBIT}} A HEALTH
+10 PROFESSIONAL {{MAY}} {{FROM}} VOLUNTARILY {{CHOOSE} {{CHOOSING}}} TO WEAR
+11 A LEAD APRON DURING A PROCEDURE {{USING IONIZING RADIATION}} {{INVOLVING
+12 REAL-TIME X-RAY IMAGING}} EVEN IF THE PROCEDURE ROOM IS EQUIPPED WITH A
+13 RADIATION PROTECTION SYSTEM.
+14 [C.] {{[D.]}} {{E.}} FOR THE PURPOSES OF THIS SECTION{{:}}{{, }}
+15 {{1. "DESIGNATED SAFETY ZONE" MEANS THE SPECIFIC AREA WITHIN A
+16 PROCEDURE ROOM THAT IS IDENTIFIED BY A HOSPITAL AS PROVIDING PRIMARY
+17 RADIATION SHIELDING OR EXPOSURE REDUCTION.
+18 2.}} "RADIATION PROTECTION SYSTEM" MEANS A SHIELDING SYSTEM THAT IS
+19 DESIGNED TO PROTECT AGAINST SCATTER OR DIRECT IONIZING RADIATION EXPOSURE,
+20 THAT PROVIDES PROTECTION EQUAL TO OR GREATER THAN THE SHIELDING
+21 EFFECTIVENESS OF A .25 MILLIMETER LEAD-EQUIVALENT APRON AND THAT INCLUDES
+22 REAL-TIME DOSIMETRY TO MEASURE RADIATION EXPOSURE TO HEALTH PROFESSIONALS
+23 THROUGHOUT AN IONIZING RADIATION MEDICAL PROCEDURE.
+24 ≤≤Sec. 2. Expedited rulemaking
+25 {{Notwithstanding any other law, the department of health services
+26 may adopt rules necessary to implement this act using an expedited
+27 rulemaking process pursuant to section 41-1027, Arizona Revised
+28 Statutes.}}≥≥
+29 Enroll and engross to conform
+30 Amend title to conform
+CARINE WERNER
+1121FloorWERNER.docx
+02/10/2026
+11:12 AM
+C: MH
+130LGOPNH
+-2-

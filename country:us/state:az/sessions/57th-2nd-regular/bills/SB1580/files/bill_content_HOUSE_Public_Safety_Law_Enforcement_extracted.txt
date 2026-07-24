@@ -1,0 +1,209 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Public Safety & Law Enforcement
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON PUBLIC SAFETY & LAW ENFORCEMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1580
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Appropriation; fire incident management; law
+3 enforcement equipment; exemption
+4 A. The following amounts are appropriated from the [state general
+5 fund] [peace officer training equipment fund established by section 41-
+6 1731, Arizona Revised Statutes,] in fiscal year 2026-2027 to the
+7 department of administration to distribute to the following entities for a
+8 fire incident management:
+9 1. Pinetop fire district $ 49,700
+10 2. Vernon fire district $ 145,700
+11 3. Surprise fire-medical department $ 99,400
+12 4. Gilbert fire and rescue $ 160,900
+13 5. Buckeye fire-medical-rescue department $ 49,700
+14 6. Goodyear fire department $ 132,500
+15 7. Daisy Mountain fire district $ 49,700
+16 8. Scottsdale fire department $ 1,044,000
+17 9. Chandler fire department $ 552,400
+18 10. Superstition fire department $ 261,000
+19 B. The monies appropriated pursuant to subsection A of this section
+20 shall be used for hardware and software that:
+21 1. Enable the statewide deployment of a secure incident management
+22 platform to fire and law enforcement agencies.
+23 2. Provide a standardized incident command and management platform
+24 based on federal emergency management agency standards that enable diverse
+25 incident management and support entities to work together and ensure the
+26 following:
+27 (a) A clearly defined chain of command.
+28 (b) The use of common terminology.
+29 (c) The safety of first responders and others.
+30 (d) The achievement of response objectives.
+31 (e) The efficient use of resources.
+32 3. Provide a collaboration and communications solution that does
+33 the following:
+34 (a) Identifies the location, status and assignment of assigned
+35 resources.
+
+House Amendments to S.B. 1580
+1 (b) Allows status updates, tracking and management of an incident.
+2 (c) Allows secure messaging and file sharing to all users involved
+3 in an incident.
+4 (d) Allows the sharing of collaborative maps, building floor plans
+5 and images between public safety agencies.
+6 (e) Allows collaboration and information sharing between disparate
+7 agencies during a mass casualty incident.
+8 (f) Defines a federal emergency management agency or national
+9 incident management systems based organizational structure for the
+10 management of incidents.
+11 (g) Provides the ability to print standard integrated computer
+12 solutions forms for tracking and cost reimbursement.
+13 (h) Provides enhanced telemetry-based firefighter safety
+14 monitoring.
+15 (i) Works in areas without internet access in a disconnected mode.
+16 (j) Provides a seamless and connected platform for notification,
+17 response and rostering.
+18 (k) Provides cross platform functionality.
+19 (l) Provides a smartphone-based application for notification,
+20 accountability and situational awareness.
+21 [C. The following amounts are appropriated from the peace officer
+22 training equipment fund established by section 41-1731, Arizona Revised
+23 Statutes, in fiscal year 2026-2027 to the state treasurer to distribute to
+24 the following recipients for pepper ball equipment:
+25 1. Navajo county sheriff’s office $53,645
+26 2. Page police department $20,850
+27 3. Benson police department $24,624
+28 4. Yuma police department $121,434
+29 5. Queen Creek police department $103,487
+30 6. Maricopa police department $30,337
+31 7. Tucson police department $200,000
+32 8. Apache county sheriff’s office $68,035
+33 9. Show Low police department $7,495
+34 10. Pinetop-Lakeside police department $18,920
+35 11. Tempe police department $25,412
+36 12. Douglas police department $34,323
+37 13. Nogales police department $29,366
+38 14. Coconino county sheriff’s office $12,735
+39 15. Clarkdale police department $33,311
+40 16. Bullhead City police department $87,651
+41 17. La Paz county sheriff’s office $39,049
+42 18. Flagstaff police department $97,319
+43 19. St. John’s police department $32,867
+44 20. Surprise police department $52,879
+45 21. Tonto Apache police department $39,574
+46 22. Arizona State University police department $54,600
+47 23. Cochise county sheriff’s office $36,224
+48 24. Goodyear police department $74,828
+-2-
+
+House Amendments to S.B. 1580
+1 25. San Luis police department $18,758
+2 26. Pinal county sheriff’s office $63,080
+3 27. Graham county sheriff’s office $13,807
+4 28. Kingman police department $16,562
+5 29. Huachuca City police department $19,118
+6 30. Phoenix police department $135,000
+7 D. The following amounts are appropriated from the peace officer
+8 training equipment fund established by section 41-1731, Arizona Revised
+9 Statutes, in fiscal year 2026-2027 to the state treasurer to distribute to
+10 the following recipients for police training simulators:
+11 1. State department of corrections $420,000
+12 2. Flagstaff police department $418,000
+13 3. Glendale police department $840,000
+14 4. Yavapai county sheriff’s office $420,000
+15 E. The following amounts are appropriated from the peace officer
+16 training equipment fund established by section 41-1731, Arizona Revised
+17 Statutes, in fiscal year 2026-2027 to the state treasurer to distribute to
+18 the following recipients for record management systems software:
+19 1. Pima county sheriff’s office $171,760
+20 2. Coconino county sheriff’s office $47,750
+21 3. Phoenix police department $343,000
+22 4. Glendale police department $131,345
+23 5. Buckeye police department $65,945
+24 6. Paradise Valley police department $55,000
+25 7. Tucson police department $237,000
+26 8. Mesa police department $300,000
+27 9. Chandler police department $111,725
+28 10. Peoria police department $83,930
+29 11. Avondale police department $72,485
+30 12. Goodyear police department $69,215
+31 13. Flagstaff police department $82,500
+32 14. Oro Valley police department $67,035
+33 15. Marana police department $65,000
+34 16. El Mirage police department $55,045
+35 17. Maricopa county sheriff's office $220,000
+36 18. Yavapai county sheriff’s office $84,000
+37 19. Cochise county sheriff’s office $78,000
+38 20. Navajo county sheriff’s office $100,000
+39 21. Gilbert police department $102,000
+40 22. Prescott police department $67,000
+41 23. Prescott Valley police department $54,000
+42 24. Sierra Vista police department $44,200
+43 25. Sahuarita police department $54,000
+44 26. Coolidge police department $44,200
+45 27. Show Low police department $44,200
+46 28. South Tucson police department $50,685
+47 29. Cottonwood police department $54,000
+48 30. Sedona police department $38,000
+-3-
+
+House Amendments to S.B. 1580
+1 31. Winslow police department $38,600
+2 32. Camp Verde marshal's office $35,000
+3 33. Chino Valley police department $35,000
+4 34. Wickenburg police department $35,000
+5 35. Snowflake-Taylor police department $25,000
+6 36. Pinetop-Lakeside police department $21,700
+7 37. Williams police department $20,000
+8 38. Youngtown police services $20,000
+9 39. Bisbee police department $20,000
+10 40. Holbrook police department $20,000
+11 41. Clarkdale police department $20,000
+12 42. Huachuca City police department $20,000
+13 43. Jerome police department $20,000
+14 44. Douglas police department $55,000
+15 45. Benson police department $20,000
+16 46. Wilcox police department $20,000
+17 47. Tombstone police department $20,000
+18 48. Scottsdale police department $135,000
+19 F. The following amounts are appropriated from the peace officer
+20 training equipment fund established by section 41-1731, Arizona Revised
+21 Statutes, in fiscal year 2026-2027 to the state treasurer to distribute to
+22 the following recipients for the following purposes:
+23 1. $200,000 to the department of public safety for three years of
+24 records management software.
+25 2. $255,000 to the Maricopa county sheriff's office for recruiter
+26 training and two years of records management software.
+27 3. $750,000 to the state department of corrections for recruitment
+28 training, records management software, employee retention and leadership
+29 training.
+30 4. $250,000 to the department of child services for recruitment
+31 training, software and employee retention.]
+32 [C.] [G.] The [appropriation] [appropriations] made in [subsection]
+33 [subsections] A[, B, C, D, E and F] of this section [is] [are] exempt from
+34 the provisions of section 35-190, Arizona Revised Statutes, relating to
+35 lapsing of appropriations.
+36 Enroll and engross to conform
+37 Amend title to conform
+And, as so amended, it do pass
+DAVID MARSHALL, SR.
+CHAIRMAN
+1580PUBLIC SAFETY LAW ENFORCEMENT.docx
+03/23/2026
+04:36 PM
+H: AI/ls
+130UPBQHD
+-4-

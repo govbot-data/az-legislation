@@ -1,0 +1,423 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Bolick flr amend (ref JUDE) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1720
+Bolick Floor Amendment
+Reference to: JUDICIARY AND ELECTIONS
+Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Modifies the prescribed relevant factors to a child's physical and emotional well-being to include
+the child's attachment relationships, developmental stage and developmental needs, including the
+need for stability, continuity of care and emotional security.
+2. Requires the court, when determining that equal parenting time is not in the child's best interests,
+to consider the child's age, developmental stage, attachment needs and ability to tolerate frequent
+transitions between households.
+3. Requires the court to prioritize stability, continuity of care and the child's emotional security, for
+decisions involving children of a young age or those with developmental needs.
+4. Outlines conditions which prohibit a presumption of equal parenting time, including conditions
+relating to orders of protection and domestic violence, and conditions in which the court finds that
+equal parenting time would endanger the child.
+5. Allows the court to consider the child's wishes in approving a parental agreement, if the child is of
+suitable age and maturity.
+6. Prohibits the court from ordering equal parenting time over the objection of a child unless the court
+makes specific findings that the order will not endanger the child.
+7. Requires the court to make a specific finding that both parents are safe and do not pose a risk of
+harm to the child before applying a presumption of equal parenting time.
+8. Removes the requirement that the court consider newly established criteria relating to equal
+parenting time presumptions when awarding temporary legal decision-making or parenting time.
+Amendment explanation prepared by Kaytie Sherman
+2/25/2026
+
+Fifty-seventh Legislature Bolick
+Second Regular Session S.B. 1720
+BOLICK FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1720
+(Reference to JUDICIARY AND ELECTIONS Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 25-403, Arizona Revised Statutes, is amended to
+3 read:
+4 25-403. Legal decision-making; best interests of child
+5 A. The court shall determine legal decision-making and parenting
+6 time, either originally or on petition for modification, in accordance
+7 with the best interests of the child. The court shall consider all
+8 factors that are relevant to the child's physical and emotional
+9 well-being, including:
+10 1. The past, present and potential future relationship between the
+11 parent and the child.
+12 2. The interaction and interrelationship of the child with the
+13 child's parent or parents, the child's siblings and any other person who
+14 may significantly affect the child's best interest INTERESTS.
+15 3. The child's adjustment to home, school and community.
+16 4. If the child is of suitable age and maturity, the wishes of the
+17 child as to legal decision-making and parenting time.
+
+Senate Amendments to S.B. 1720
+1 5. The mental and physical health of all individuals involved.
+2 6. Which parent is more likely to allow the child frequent,
+3 meaningful and continuing contact with the other parent. This paragraph
+4 does not apply if the court determines that a parent is acting in good
+5 faith to protect the child from witnessing an act of domestic violence or
+6 being a victim of domestic violence or child abuse.
+7 7. Whether one parent intentionally misled the court to cause an
+8 unnecessary delay, to increase the cost of litigation or to persuade the
+9 court to give a legal decision-making or a parenting time preference to
+10 that parent.
+11 8. Whether there has been domestic violence or child abuse pursuant
+12 to section 25-403.03.
+13 9. The nature and extent of coercion or duress used by a parent in
+14 obtaining an agreement regarding legal decision-making or parenting time.
+15 10. Whether a parent has complied with chapter 3, article 5 of this
+16 title.
+17 11. Whether either parent was convicted of an act of false
+18 reporting of child abuse or neglect under section 13-2907.02.
+19 12. THE CHILD'S AGE, {{DEVELOPMENTAL STAGE, DEVELOPMENTAL}}
+20 NEEDS{{,}} {{AND}} EXISTING PARENTAL BONDS {{AND ATTACHMENT RELATIONSHIPS,
+21 INCLUDING THE CHILD'S NEED FOR STABILITY, CONTINUITY OF CARE AND EMOTIONAL
+22 SECURITY}}.
+23 B. In a contested legal decision-making or parenting time case, the
+24 court shall make specific findings on the record about all relevant
+25 factors and the reasons for which the decision is in the best interests of
+26 the child.
+27 Sec. 2. Section 25-403.01, Arizona Revised Statutes, is amended to
+28 read:
+29 25-403.01. Sole and joint legal decision-making and parenting
+30 time
+31 A. In awarding legal decision-making, the court may order sole
+32 legal decision-making or joint legal decision-making.
+33 B. In determining the level of LEGAL decision-making that is in the
+34 child's best interests, the court shall consider the factors prescribed in
+35 section 25-403, subsection A and all of the following:
+36 1. The agreement or lack of an agreement by the parents regarding
+37 joint legal decision-making.
+38 2. Whether a parent's lack of an agreement is unreasonable or is
+39 influenced by an issue not related to the child's best interests.
+40 3. The past, present and future abilities of the parents to
+41 cooperate in LEGAL decision-making about the child to the extent required
+42 by the order of joint legal decision-making.
+43 4. Whether the joint legal decision-making arrangement is
+44 logistically possible.
+45 C. An order for sole legal decision-making does not allow the
+46 parent designated as sole legal decision-maker to alter unilaterally a
+47 court-ordered parenting time plan.
+48 D. A parent who is not granted sole LEGAL DECISION-MAKING or joint
+49 legal decision-making is entitled to reasonable parenting time PURSUANT TO
+-2-
+
+Senate Amendments to S.B. 1720
+1 SECTION 25-403.11 to ensure that the minor child has substantial,
+2 frequent, meaningful and continuing contact with the parent unless the
+3 court finds, after a hearing, that parenting time would endanger the
+4 child's physical, mental, moral or emotional health.
+5 Sec. 3. Section 25-403.02, Arizona Revised Statutes, is amended to
+6 read:
+7 25-403.02. Parenting plans
+8 A. If the child's parents cannot agree on a plan for legal
+9 decision-making or parenting time, each parent must submit a proposed
+10 parenting plan.
+11 B. Consistent with the child's best interests AS PRESCRIBED in
+12 section SECTIONS 25-403 AND 25-403.11 and sections 25-403.03, 25-403.04
+13 and 25-403.05, the court shall adopt a parenting plan that provides for
+14 both parents to share legal decision-making regarding their child and that
+15 maximizes their respective parenting time. The court shall not prefer a
+16 parent's proposed plan because of the parent's or child's gender.
+17 C. Parenting plans shall include at least the following:
+18 1. A designation of the legal decision-making as joint or sole as
+19 defined in section 25-401.
+20 2. A description of each parent's rights and responsibilities for
+21 the personal care of the child and for decisions in areas such as
+22 education, health care and religious training.
+23 3. A practical schedule of parenting time for the child, including
+24 holidays and school vacations.
+25 4. A procedure for the exchanges of the child, including location
+26 and responsibility for transportation. The parenting plan must specify
+27 when WHETHER the exchange is required to take place at a safe exchange
+28 location pursuant to section 25-403.10.
+29 5. A procedure by which proposed changes, relocation of where a
+30 child resides with either parent pursuant to section 25-408, disputes and
+31 alleged breaches may be mediated or resolved, which may include the use of
+32 conciliation services or private counseling.
+33 6. A procedure for periodic review of the PARENTING plan's terms by
+34 the parents.
+35 7. A procedure for parents to communicate with each other about the
+36 child, including methods and frequency.
+37 8. A statement that each party has read, understands and will abide
+38 by the notification requirements of section 25-403.05, subsection B.
+39 D. If the parents are unable to agree on any element to be included
+40 in a parenting plan, the court shall determine that element. The court
+41 may determine other factors that are necessary to promote and protect the
+42 emotional and physical health of the child.
+43 E. Shared legal decision-making does not necessarily mean equal
+44 parenting time.
+-3-
+
+Senate Amendments to S.B. 1720
+1 Sec. 4. Title 25, chapter 4, article 1, Arizona Revised Statutes,
+2 is amended by adding section 25-403.11, to read:
+3 25-403.11. Parenting time; equal time; best interests of
+4 child; definitions
+5 A. IN ANY PARENTING TIME PROCEEDING, THE COURT SHALL PRESUME THAT
+6 AN AWARD OF EQUAL PARENTING TIME IS IN THE BEST INTERESTS OF THE CHILD IF
+7 BOTH OF THE FOLLOWING APPLY:
+8 1. BOTH PARENTS ARE DETERMINED BY THE COURT TO BE FIT{{,}}
+9 {{PARENTS WHO ARE}} WILLING AND ABLE TO SHARE EQUAL PARENTING TIME.
+10 2. BOTH PARENTS RESIDE WITHIN TWENTY-FIVE MILES OF THE CHILD'S
+11 SCHOOL OR OTHER EDUCATIONAL SETTING.
+12 B. THE PRESUMPTION THAT EQUAL PARENTING TIME IS IN THE BEST
+13 INTERESTS OF THE CHILD MAY BE REBUTTED BY [CLEAR AND CONVINCING] [A
+14 PREPONDERANCE OF THE] EVIDENCE. IF THE COURT ENTERS A PARENTING TIME
+15 AWARD THAT DOES NOT INCLUDE EQUAL PARENTING TIME, THE COURT SHALL MAKE
+16 SPECIFIC FINDINGS ON THE RECORD ABOUT ALL RELEVANT FACTORS AND THE REASONS
+17 FOR WHICH AN AWARD OF EQUAL PARENTING TIME IS NOT IN THE BEST INTERESTS OF
+18 THE CHILD. IN DETERMINING THAT AN AWARD OF EQUAL PARENTING TIME IS NOT IN
+19 THE BEST INTERESTS OF THE CHILD, THE COURT{{:
+20 1.}} MAY CONSIDER THE FOLLOWING FACTORS:
+21 {{1.}} {{(a)}} WHETHER THERE HAS BEEN DOMESTIC VIOLENCE OR CHILD
+22 ABUSE BY EITHER PARENT.
+23 {{2.}} {{(b)}} WHETHER THERE HAS BEEN ONGOING ABUSE OF DRUGS OR
+24 ALCOHOL BY EITHER PARENT.
+25 {{3.}} {{(c)}} THE MENTAL HEALTH OF BOTH PARENTS.
+26 {{4.}} {{(d)}} THE GEOGRAPHIC LOCATION OF BOTH PARENTS.
+27 {{5.}} {{(e)}} WHETHER THERE HAS BEEN INTERFERENCE BY ONE PARENT
+28 WITH THE OTHER PARENT'S RELATIONSHIP WITH THE CHILD.
+29 {{6.}} {{(f)}} THE PROVISIONS OF SECTION 25-403.05.
+30 {{2. SHALL CONSIDER THE CHILD'S AGE, DEVELOPMENTAL STAGE,
+31 ATTACHMENT NEEDS AND ABILITY TO TOLERATE FREQUENT TRANSITIONS BETWEEN
+32 HOUSEHOLDS.
+33 3. FOR CHILDREN OF A YOUNG AGE OR WITH SPECIAL DEVELOPMENTAL NEEDS,
+34 SHALL PRIORITIZE STABILITY, CONTINUITY OF CARE AND THE CHILD'S EMOTIONAL
+35 SECURITY.
+36 C. THERE IS NOT A PRESUMPTION OF EQUAL PARENTING TIME IN ANY OF THE
+37 FOLLOWING CIRCUMSTANCES:
+38 1. THE COURT MAKES A FINDING OF THE EXISTENCE OF SIGNIFICANT
+39 DOMESTIC VIOLENCE PURSUANT TO SECTION 13-3601 OR THE COURT FINDS BY A
+40 PREPONDERANCE OF THE EVIDENCE THAT THERE HAS BEEN A SIGNIFICANT HISTORY OF
+41 DOMESTIC VIOLENCE AS DESCRIBED IN SECTION 25-403.03.
+42 2. THERE IS A CURRENT OR PRIOR ORDER OF PROTECTION OR INJUNCTION
+43 AGAINST HARASSMENT INVOLVING THE CHILD OR OTHER PARENT.
+44 3. THE COURT FINDS THAT EQUAL PARENTING TIME WOULD ENDANGER THE
+45 CHILD'S PHYSICAL, MENTAL, MORAL OR EMOTIONAL HEALTH.
+46 4. A PARENT HAS BEEN ORDERED TO COMPLETE DOMESTIC VIOLENCE OFFENDER
+47 TREATMENT, SUBSTANCE ABUSE TREATMENT, MENTAL HEALTH TREATMENT OR ANY OTHER
+48 COURT-ORDERED INTERVENTION. THIS PARAGRAPH DOES NOT APPLY IF THE COURT
+-4-
+
+Senate Amendments to S.B. 1720
+1 MAKES SPECIFIC WRITTEN FINDINGS THAT THE PARENT HAS DONE ALL OF THE
+2 FOLLOWING:
+3 (a) SUCCESSFULLY COMPLETED ALL COURT-ORDERED PROGRAMS IN FULL.
+4 (b) DEMONSTRATED MEANINGFUL BEHAVIORAL CHANGE.
+5 (c) COMPLIED WITH ALL TERMS OF THE COURT'S PRIOR ORDERS.
+6 (d) NOT ENGAGED IN ANY FURTHER ACTS OF DOMESTIC VIOLENCE, COERCIVE
+7 CONTROL, HARASSMENT OR ENDANGERING CONDUCT.
+8 (e) ESTABLISHED BY CLEAR AND CONVINCING EVIDENCE THAT EQUAL
+9 PARENTING TIME WOULD NOT ENDANGER THE CHILD'S PHYSICAL, MENTAL, MORAL OR
+10 EMOTIONAL HEALTH.
+11 5. THE CHILD IS LESS THAN SIX YEARS OF AGE.
+12 6. THE ARRANGEMENT WOULD BE DEVELOPMENTALLY INAPPROPRIATE OR
+13 DETRIMENTAL TO THE CHILD.
+14 D. IF BOTH PARENTS VOLUNTARILY AGREE TO EQUAL PARENTING TIME AND
+15 THE COURT FINDS THAT THE AGREEMENT IS KNOWING, VOLUNTARY AND IN THE
+16 CHILD'S BEST INTERESTS, THE COURT MAY ORDER EQUAL PARENTING TIME. IF THE
+17 CHILD IS OF SUITABLE AGE AND MATURITY, THE COURT MAY CONSIDER THE CHILD'S
+18 WISHES IN APPROVING THE PARENTAL AGREEMENT. THE COURT MAY NOT ORDER EQUAL
+19 PARENTING TIME OVER THE OBJECTION OF A CHILD OF SUITABLE AGE AND MATURITY
+20 UNLESS THE COURT MAKES SPECIFIC FINDINGS THAT THE ORDER WILL NOT ENDANGER
+21 THE CHILD. THE COURT SHALL ENSURE THAT THE CHILD'S WISHES ARE FREELY
+22 EXPRESSED AND ARE NOT THE RESULT OF COERCION, PRESSURE OR UNDUE INFLUENCE
+23 BY EITHER PARENT. THIS SECTION DOES NOT PREVENT THE COURT FROM APPROVING
+24 EQUAL PARENTING TIME WHEN BOTH PARENTS AGREE AND THE COURT FINDS THAT THE
+25 ARRANGEMENT IS SAFE AND IN THE CHILD'S BEST INTERESTS.
+26 E. THIS SECTION DOES NOT LIMIT THE COURT'S AUTHORITY OR OBLIGATION
+27 TO PROTECT THE CHILD'S SAFETY AS THE PRIMARY CONSIDERATION WHEN
+28 DETERMINING PARENTING TIME. BEFORE APPLYING THE PRESUMPTION OF EQUAL
+29 PARENTING TIME, THE COURT SHALL MAKE A SPECIFIC FINDING THAT BOTH PARENTS
+30 ARE SAFE AND DO NOT POSE A RISK OF HARM TO THE CHILD.}}
+31 {{C.}} {{F.}} FOR THE PURPOSES OF THIS SECTION{{:}} {{,}}
+32 {{1.}} "EQUAL PARENTING TIME" MEANS THAT EACH PARENT IS AWARDED AT
+33 LEAST FORTY-FIVE PERCENT OF OVERNIGHT VISITS WITH THE CHILD ANNUALLY,
+34 ALLOWING FOR ADJUSTMENTS FOR HOLIDAYS, THE CHILD'S SCHOOL SCHEDULE AND THE
+35 PARENT'S EMPLOYMENT.
+36 {{2. "FIT PARENT" MEANS A PARENT WHO HAS NOT BEEN FOUND TO HAVE
+37 COMMITTED DOMESTIC VIOLENCE AS DEFINED IN SECTION 13-3601, ABUSE OR
+38 NEGLECT AS DEFINED IN SECTION 8-201 OR OTHER CONDUCT THAT WOULD ENDANGER
+39 THE CHILD.}}
+40 ≤≤Sec. 5. Section 25-404, Arizona Revised Statutes, is amended to
+41 read:
+42 25-404. Temporary orders
+43 A. A party to a legal decision-making and parenting time proceeding
+44 may move for a temporary order. This motion must be supported by
+45 pleadings as provided in section 25-411. The court may award temporary
+46 legal decision-making and parenting time under the standards of section
+47 25-403 AND 25-403.11 after a hearing, or, if there is no objection, solely
+48 on the basis of the pleadings.
+-5-
+
+Senate Amendments to S.B. 1720
+1 B. If a proceeding for dissolution of marriage or legal separation
+2 is dismissed, any temporary legal decision-making or parenting time order
+3 is vacated unless a parent or the child's custodian moves that the
+4 proceeding continue as a legal decision-making or parenting time
+5 proceeding and the court finds, after a hearing, that the circumstances of
+6 the parents and the best interest of the child require that a legal
+7 decision-making or parenting time plan decree be issued.
+8 C. If a legal decision-making or parenting time proceeding
+9 commenced in the absence of a petition for dissolution of marriage or
+10 legal separation is dismissed, any temporary custody LEGAL DECISION-MAKING
+11 OR PARENTING TIME order thereby is vacated.≥≥
+12 Sec. 5. Section 25-408, Arizona Revised Statutes, is amended to
+13 read:
+14 25-408. Rights of each parent; parenting time; relocation of
+15 child; exception; attorney fees; costs; access to
+16 prescription medication and records
+17 A. If by written agreement or court order both parents are entitled
+18 to joint legal decision-making or parenting time and both parents reside
+19 in the THIS state, at least forty-five days' advance written notice shall
+20 be provided to the other parent before a parent may do either of the
+21 following:
+22 1. Relocate the child outside the THIS state.
+23 2. Relocate the child more than one hundred miles within the THIS
+24 state.
+25 B. The notice required by this section shall be made by certified
+26 mail, return receipt requested, or pursuant to the Arizona rules of family
+27 law procedure. The court shall sanction a parent who, without good cause,
+28 does not comply with the notification requirements of this subsection.
+29 The court may impose a sanction that will affect legal decision-making or
+30 parenting time only in accordance with the child's best interests.
+31 C. Within thirty days after notice is made, the nonmoving parent
+32 may petition the court to prevent relocation of the child. After
+33 expiration of this time, any petition or other application to prevent
+34 relocation of the child may be granted only on a showing of good cause.
+35 This subsection does not prohibit a parent who is seeking to relocate the
+36 child from petitioning the court for a hearing, on notice to the other
+37 parent, to determine the appropriateness of a relocation that may
+38 adversely affect the other parent's legal decision-making or parenting
+39 time rights.
+40 D. Subsection A of this section does not apply if provision for
+41 relocation of a child has been made by a court order or a written
+42 agreement of the parties that is dated within one year of the proposed
+43 relocation of the child.
+44 E. If a child is relocated pursuant to this section, unless
+45 otherwise ordered by the court, all parties must continue to comply with
+46 current court orders, regardless of distance moved or notice required.
+47 F. Pending the determination by the court of a petition or
+48 application to prevent relocation of the child:
+-6-
+
+Senate Amendments to S.B. 1720
+1 1. A parent with sole legal decision-making or a parent with joint
+2 legal decision-making and primary residence of a child who is required by
+3 circumstances of health, safety, employment or eviction of that parent or
+4 that parent's spouse to relocate in less than forty-five days after
+5 written notice has been given to the other parent may temporarily relocate
+6 with the child.
+7 2. A parent who shares joint legal decision-making and
+8 substantially equal parenting time and who is required by circumstances of
+9 health, safety, employment or eviction of that parent or that parent's
+10 spouse to relocate in less than forty-five days after written notice has
+11 been given to the other parent may temporarily relocate with the child
+12 only if both parents execute a written agreement to permit ALLOW
+13 relocation of the child.
+14 G. The court shall determine whether to allow the parent to
+15 relocate the child in accordance with the child's best interests. The
+16 burden of proving what is in the child's best interests is on the parent
+17 who is seeking to relocate the child. To the extent practicable the court
+18 shall also make appropriate arrangements to ensure the continuation of a
+19 meaningful relationship between the child and both parents.
+20 H. The court shall not deviate from a provision of any parenting
+21 plan or other written agreement by which the parents specifically have
+22 agreed to allow or prohibit relocation of the child unless the court finds
+23 that the provision is no longer in the child's best interests. There is a
+24 rebuttable presumption that a provision from any parenting plan or other
+25 written agreement is in the child's best interests.
+26 I. In determining the child's best interests, the court shall
+27 consider all relevant factors, including:
+28 1. The factors prescribed under section IN SECTIONS 25-403 AND
+29 25-403.11.
+30 2. Whether the relocation is being made or opposed in good faith
+31 and not to interfere with or to frustrate the relationship between the
+32 child and the other parent or the other parent's right of access to the
+33 child.
+34 3. The prospective advantage of the move for improving the general
+35 quality of life for the custodial parent or for the child.
+36 4. The likelihood that the parent with whom the child will reside
+37 after the relocation will comply with parenting time orders.
+38 5. Whether the relocation will allow a realistic opportunity for
+39 parenting time with each parent.
+40 6. The extent to which moving or not moving will affect the
+41 emotional, physical or developmental needs of the child.
+42 7. The motives of the parents and the validity of the reasons given
+43 for moving or opposing the move, including the extent to which either
+44 parent may intend to gain a financial advantage regarding continuing child
+45 support obligations.
+46 8. The potential effect of relocation on the child's stability.
+47 J. The court shall assess attorney fees and court costs against
+48 either parent if the court finds that the parent has unreasonably denied,
+49 restricted or interfered with court-ordered parenting time.
+-7-
+
+Senate Amendments to S.B. 1720
+1 K. Pursuant to section 25-403.06, each parent is entitled to have
+2 access to prescription medication, documents and other information about
+3 the child unless the court finds that access would endanger seriously
+4 ENDANGER the child's or a parent's physical, mental, moral or emotional
+5 health.
+6 Sec. 6. Legislative findings
+7 The legislature finds:
+8 1. That the public policy of this state is to promote the best
+9 interests of the child by encouraging frequent, meaningful and continuing
+10 contact with both parents following a legal separation or dissolution of
+11 marriage.
+12 2. That children benefit emotionally, academically and
+13 developmentally when both parents are significantly involved in the
+14 child's life.
+15 3. That equal parenting time reduces conflict, fosters stability
+16 and safeguards the fundamental rights of both the child and the child's
+17 parents.
+18 4. That a rebuttable presumption that equal parenting is in the
+19 best interests of the child reduces unnecessary litigation and protects
+20 children from adversarial custody disputes.
+21 Sec. 7. Short title
+22 This act may be cited as the "Arizona Equal Shared Parenting Act".
+23 Enroll and engross to conform
+24 Amend title to conform
+SHAWNNA BOLICK
+1720FloorBOLICK.docx
+02/23/2026
+10:16 AM
+C: MU
+130AZEZPN
+-8-

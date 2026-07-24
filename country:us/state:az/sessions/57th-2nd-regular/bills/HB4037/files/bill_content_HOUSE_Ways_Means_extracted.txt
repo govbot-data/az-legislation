@@ -1,0 +1,187 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Ways & Means
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON WAYS & MEANS
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 4037
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 43-222, Arizona Revised Statutes, is amended to
+3 read:
+4 43-222. Income tax credit review schedule
+5 The joint legislative income tax credit review committee shall
+6 review the following income tax credits:
+7 1. For years ending in 0 and 5, sections 43-1079.01, 43-1088,
+8 43-1089.04, 43-1167.01 and 43-1175.
+9 2. For years ending in 1 and 6, sections 43-1072.02, 43-1073.02,
+10 43-1074.02, 43-1075, 43-1076.01, 43-1077, 43-1078, 43-1083, 43-1083.02,
+11 43-1162, 43-1164.03 and 43-1183.
+12 3. For years ending in 2 and 7, sections 43-1073, 43-1082, 43-1085,
+13 43-1086, 43-1089, 43-1089.01, 43-1089.02, 43-1089.03, 43-1164,
+14 43-1165, and 43-1181.
+15 4. For years ending in 3 and 8, sections 43-1074.01, 43-1168,
+16 43-1170 and 43-1178.
+17 5. For years ending in 4 and 9, sections 43-1073.01, 43-1081.01,
+18 43-1083.03, 43-1084, 43-1164.04, 43-1164.05 and 43-1184.
+19 Sec. 2. Section 43-323, Arizona Revised Statutes, is amended to
+20 read:
+21 43-323. Place and form of filing returns
+22 A. All returns required by this title shall be in such a form as
+23 the department may from time to time prescribe and shall be filed with the
+24 department.
+25 B. The department shall prescribe a short form return for
+26 individual taxpayers who:
+27 1. Are eligible and elect to pay tax based on the optional tax
+28 tables pursuant to section 43-1012.
+
+House Amendments to H.B. 4037
+1 2. Elect to claim the optional standard deduction pursuant to
+2 section 43-1041, subsection A, but not the increased amount for charitable
+3 deductions under section 43-1041, subsection I.
+4 3. Elect not to file for credits against income tax liability other
+5 than those contained in sections 43-1072, 43-1072.01, 43-1072.02, 43-1073,
+6 and 43-1073.01 AND 43-1073.02.
+7 4. Are not required to add any income under section 43-1021 and do
+8 not elect any subtractions under section 43-1022, except for the
+9 exemptions allowed under section 43-1023.
+10 C. The department may provide a simplified return form for
+11 individual taxpayers who:
+12 1. Are eligible and elect to pay tax based on the optional tax
+13 tables pursuant to section 43-1012.
+14 2. Are residents for the full taxable year.
+15 3. File as single individuals or married couples filing joint
+16 returns under section 43-309.
+17 4. Are not sixty-five years of age or older or blind at the end of
+18 the taxable year.
+19 5. Claim no exemptions under section 43-1023 for the taxable year.
+20 6. Elect to claim the optional standard deduction under section
+21 43-1041, subsection A, but not the increased amount for charitable
+22 deductions under section 43-1041, subsection I.
+23 7. Are not required to add any income under section 43-1021 and do
+24 not elect to claim any subtractions under section 43-1022 or file for any
+25 credits under chapter 10, article 5 of this title, except the credits
+26 provided by sections 43-1072.01, 43-1072.02, and 43-1073, 43-1073.01 AND
+27 43-1073.02.
+28 8. Do not elect to contribute a portion of any tax refund as
+29 provided by any provision of chapter 6, article 1 of this title.
+30 Notwithstanding any provision of chapter 6, article 1 of this title, a
+31 simplified return form under this subsection shall not include any space
+32 for the taxpayer to so contribute a portion of a refund.
+33 D. The department shall prepare blank forms for the returns and
+34 furnish them on request. Failure to receive or secure the form does not
+35 relieve any taxpayer from making any return required.
+36 E. An individual income tax preparer who prepares more than ten
+37 original income tax returns that are timely filed during any taxable year
+38 that begins from and after December 31, 2017 shall file electronically all
+39 individual tax returns prepared by that tax preparer, for that taxable
+40 year and each subsequent taxable year. An individual income tax preparer
+41 may not charge a separate fee to the taxpayer for filing a return using
+42 the department's electronic filing program. This subsection does not
+43 apply if the taxpayer elects to have the return filed on paper or if the
+44 return cannot be filed electronically for reasons outside of the tax
+45 preparer's control.
+46 F. Fiduciary returns, partnership returns, withholding returns and
+47 corporate returns shall be filed electronically for taxable years
+-2-
+
+House Amendments to H.B. 4037
+1 beginning from and after December 31, 2019, or when the department
+2 establishes an electronic filing program, whichever is later. Any person
+3 who is required to file electronically pursuant to this subsection may
+4 apply to the director, on a form prescribed by the department, for an
+5 annual waiver from the electronic filing requirement. The director may
+6 grant the waiver, which may be renewed for one subsequent year, if any of
+7 the following applies:
+8 1. The taxpayer has no computer.
+9 2. The taxpayer has no internet access.
+10 3. Any other circumstance considered to be worthy by the director
+11 exists.
+12 G. A waiver is not required if the return cannot be electronically
+13 filed for reasons beyond the taxpayer's control, including situations in
+14 which the taxpayer was instructed by either the internal revenue service
+15 or the department of revenue to file by paper.
+16 Sec. 3. Title 43, chapter 10, article 5, Arizona Revised Statutes,
+17 is amended by adding section 43-1073.02, to read:
+18 43-1073.02. Education opportunity tax credit; rules;
+19 definition
+20 A. FOR TAXABLE YEARS BEGINNING FROM AND AFTER DECEMBER 31, 2025, A
+21 CREDIT IS ALLOWED AGAINST THE TAXES IMPOSED BY THIS CHAPTER FOR EACH
+22 QUALIFYING CHILD OF A TAXPAYER AS PROVIDED BY THIS SECTION.
+23 B. THE AMOUNT OF THE CREDIT IS:
+24 1. FOR A QUALIFYING CHILD WHO WAS NOT ENROLLED IN A PUBLIC
+25 SCHOOL[,] [AND] DID NOT PARTICIPATE IN AN ARIZONA EMPOWERMENT SCHOLARSHIP
+26 ACCOUNT PURSUANT TO SECTION 15-2402 [AND DID NOT RECEIVE AN EDUCATIONAL
+27 SCHOLARSHIP OR TUITION GRANT FROM A SCHOOL TUITION ORGANIZATION PURSUANT
+28 TO CHAPTER 15 OR 16 OF THIS TITLE] DURING THE TAXABLE YEAR, EQUAL TO
+29 EIGHTY PERCENT OF THE AMOUNT OF THE BASE SUPPORT LEVEL AS DETERMINED BY
+30 SECTION 15-943 FOR THE QUALIFYING CHILD OF THE TAXPAYER.
+31 2. FOR A QUALIFYING CHILD WHO WAS [EITHER] ENROLLED IN A PUBLIC
+32 SCHOOL[,] [OR] PARTICIPATED IN AN ARIZONA EMPOWERMENT SCHOLARSHIP ACCOUNT
+33 PURSUANT TO SECTION 15-2402 [OR RECEIVED AN EDUCATIONAL SCHOLARSHIP OR
+34 TUITION GRANT FROM A SCHOOL TUITION ORGANIZATION PURSUANT TO CHAPTER 15 OR
+35 16 OF THIS TITLE] FOR NOT MORE THAN FIFTY PERCENT OF THE INSTRUCTIONAL
+36 DAYS OF THE TAXABLE YEAR, EQUAL TO FORTY PERCENT OF THE AMOUNT OF THE BASE
+37 SUPPORT LEVEL AS DETERMINED BY SECTION 15-943 FOR THE QUALIFYING CHILD OF
+38 THE TAXPAYER.
+39 C. IF THE ALLOWABLE AMOUNT UNDER SUBSECTION B OF THIS SECTION
+40 EXCEEDS THE TAXES OTHERWISE DUE UNDER THIS TITLE FOR THE TAXABLE YEAR,
+41 AFTER APPLYING ALL OTHER CREDITS TO WHICH THE CLAIMANT MAY BE ENTITLED AND
+42 AFTER ANY SETOFF UNDER SECTION 42-1122, THE EXCESS AMOUNT SHALL BE PAID IN
+43 THE SAME MANNER AS A REFUND UNDER SECTION 42-1118.
+44 D. THE DEPARTMENT OF REVENUE SHALL ADOPT RULES AND PRESCRIBE FORMS
+45 TO ADMINISTER THIS SECTION AND MAY CONSULT WITH THE DEPARTMENT OF
+46 EDUCATION TO DETERMINE WHETHER A QUALIFYING CHILD OF A TAXPAYER WHO IS
+47 CLAIMING THE CREDIT UNDER THIS SECTION WAS ENROLLED IN A PUBLIC SCHOOL OR
+-3-
+
+House Amendments to H.B. 4037
+1 PARTICIPATED IN AN ARIZONA EMPOWERMENT SCHOLARSHIP ACCOUNT PURSUANT TO
+2 SECTION 15-2402.
+3 E. FOR THE PURPOSES OF THIS SECTION, "QUALIFYING CHILD" MEANS A
+4 CHILD WHO:
+5 1. IS A DEPENDENT OF THE TAXPAYER AS DEFINED IN SECTION 152 OF THE
+6 INTERNAL REVENUE CODE.
+7 2. IS ELIGIBLE TO ENROLL IN A PUBLIC SCHOOL IN THIS STATE BUT WAS
+8 NOT ENROLLED IN A PUBLIC SCHOOL IN THIS STATE FOR MORE THAN FIFTY PERCENT
+9 OF THE INSTRUCTIONAL DAYS DURING THE TAXABLE YEAR.
+10 3. DID NOT PARTICIPATE IN AN ARIZONA EMPOWERMENT SCHOLARSHIP
+11 ACCOUNT PURSUANT TO SECTION 15-2402 FOR MORE THAN FIFTY PERCENT OF THE
+12 INSTRUCTIONAL DAYS DURING THE TAXABLE YEAR.
+13 [4. DID NOT RECEIVE AN EDUCATIONAL SCHOLARSHIP OR TUITION GRANT
+14 FROM A SCHOOL TUITION ORGANIZATION PURSUANT TO CHAPTER 15 OR 16 OF THIS
+15 TITLE FOR MORE THAN FIFTY PERCENT OF THE INSTRUCTIONAL DAYS DURING THE
+16 TAXABLE YEAR.]
+17 Sec. 4. Purpose
+18 Pursuant to section 43-223, Arizona Revised Statutes, the
+19 legislature enacts section 43-1073.02, Arizona Revised Statutes, as added
+20 by this act, to open and improve the statewide educational landscape by
+21 providing additional stronger educational choices for families in this
+22 state.
+23 Enroll and engross to conform
+24 Amend title to conform
+And, as so amended, it do pass
+JUSTIN OLSON
+CHAIRMAN
+4037WAYS MEANS.docx
+02/18/2026
+12:40 PM
+C: ED
+130THJXHI
+-4-

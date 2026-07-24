@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Health and Human Services
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Health and Human Services
+Second Regular Session S.B. 1120
+COMMITTEE ON HEALTH AND HUMAN SERVICES
+SENATE AMENDMENTS TO S.B. 1120
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 36, chapter 4, article 2, Arizona Revised
+3 Statutes, is amended by adding section 36-434.03, to read:
+4 36-434.03. Radiation protection systems; installation
+5 requirement; definition
+6 A. ON OR BEFORE JULY 1, 2027, EACH HOSPITAL[, OUTPATIENT SURGICAL
+7 CENTER OR OTHER HEALTH CARE INSTITUTION] THAT PERFORMS PROCEDURES
+8 INVOLVING REAL-TIME X-RAY IMAGING, INCLUDING CARDIAC CATHETERIZATION AND
+9 OTHER INTERVENTIONAL PROCEDURES, SHALL ENSURE THAT AT LEAST FIFTY PERCENT
+10 OF THE PROCEDURE ROOMS IN WHICH THESE PROCEDURES OCCUR ARE EQUIPPED WITH A
+11 RADIATION PROTECTION SYSTEM.
+12 B. FOR THE PURPOSES OF THIS SECTION, "RADIATION PROTECTION SYSTEM"
+13 MEANS A SHIELDING SYSTEM THAT IS DESIGNED TO PROTECT AGAINST SCATTER OR
+14 DIRECT IONIZING RADIATION EXPOSURE, THAT PROVIDES PROTECTION EQUAL TO OR
+
+Senate Amendments to S.B. 1120
+1 GREATER THAN THE SHIELDING EFFECTIVENESS OF A .25 MILLIMETER
+2 LEAD-EQUIVALENT APRON AND THAT INCLUDES REAL-TIME DOSIMETRY TO MEASURE
+3 RADIATION EXPOSURE TO HEALTH PROFESSIONALS THROUGHOUT AN IONIZING
+4 RADIATION MEDICAL PROCEDURE.
+5 Enroll and engross to conform
+6 Amend title to conform
+1120HHS.docx
+01/20/2026
+03:44 PM
+S: MM,hk
+130GYJJJO
+-2-

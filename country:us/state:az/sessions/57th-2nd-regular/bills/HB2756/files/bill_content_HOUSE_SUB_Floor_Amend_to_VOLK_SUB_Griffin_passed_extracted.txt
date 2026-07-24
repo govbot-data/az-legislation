@@ -1,0 +1,181 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - SUB Floor Amend to VOLK SUB - Griffin - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2756: utilities; high load factor customers
+GRIFFIN FLOOR AMENDMENT
+1. Defines new extra high load factor customers. (Sec. 1, 2)
+2. Modifies the rules that can be adopted by the Arizona Corporation
+Commission (ACC) as it relates to governing the terms of service for extra
+high load factor customers. (Sec. 2)
+3. Removes the requirement that the ACC conduct a workshop to determine
+certain factor relating to extra high load factor customer's customer class or
+rates.
+4. Expands the legislative findings section. (Sec. 4)
+CORBIN W.
+2/18/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Griffin
+Second Regular Session H.B. 2756
+GRIFFIN SUBSTITUTE FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2756
+I move the following SUBSTITUTE amendment to the NATURAL RESOURCES, ENERGY & WATER
+Committee Amendment to
+HOUSE BILL 2756 (Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 30, Arizona Revised Statutes, is amended by adding
+3 chapter 2, to read:
+4 CHAPTER 2
+5 PUBLIC POWER ENTITIES
+6 ARTICLE 1. GENERAL PROVISIONS
+7 30-301. Public power entities; new extra high load factor
+8 customers; quarterly reports; load growth
+9 projections
+10 A. A PUBLIC POWER ENTITY THAT SERVES MORE THAN ONE MILLION
+11 CONNECTIONS IN THIS STATE SHALL FILE WITH THE GOVERNING BODY OF THE PUBLIC
+12 POWER ENTITY QUARTERLY REPORTS REGARDING NEW EXTRA HIGH LOAD FACTOR
+13 CUSTOMERS [, AS DEFINED BY THE PUBLIC POWER ENTITY,] THAT INCLUDE BOTH OF
+14 THE FOLLOWING [WITH RESPECT TO THE IMMEDIATELY PRECEDING QUARTER]:
+15 1. THE NUMBER OF REQUESTS FOR INTERCONNECTION.
+16 2. THE NUMBER OF COMPLETED INTERCONNECTIONS.
+17 B. BEGINNING TWO YEARS AFTER THE EFFECTIVE DATE OF THIS SECTION,
+18 THE GOVERNING BODY OF THE PUBLIC POWER ENTITY MAY SUSPEND THE QUARTERLY
+19 REPORT REQUIREMENT BY A MAJORITY VOTE OF THE GOVERNING BODY IF THE NUMBERS
+20 REPORTED BY THE PUBLIC POWER ENTITY PURSUANT TO SUBSECTION A OF THIS
+21 SECTION ARE ZERO FOR AT LEAST TWO CONSECUTIVE QUARTERS. THE GOVERNING
+22 BODY MAY VOTE TO REINSTATE THE QUARTERLY REPORT REQUIREMENT AT ANY TIME.
+23 C. A PUBLIC POWER ENTITY THAT CONDUCTS INTEGRATED SYSTEM PLANNING
+24 SHALL INCLUDE EXTRA HIGH LOAD FACTOR CUSTOMERS IN THE PUBLIC POWER
+25 ENTITY'S LOAD GROWTH PROJECTIONS FOR THE INTEGRATED SYSTEM PLAN.
+
+House Amendments to H.B. 2756
+1 Sec. 2. Title 40, chapter 2, article 1, Arizona Revised Statutes,
+2 is amended by adding section 40-207, to read:
+3 40-207. Electric service corporations; new extra high load
+4 factor customers; quarterly reports; load growth
+5 projections; rules; exemption
+6 A. AN ELECTRIC PUBLIC SERVICE CORPORATION OPERATING IN THIS STATE
+7 SHALL FILE WITH THE CORPORATION COMMISSION QUARTERLY REPORTS REGARDING NEW
+8 EXTRA HIGH LOAD FACTOR CUSTOMERS[, AS PRESCRIBED IN RULE,] THAT INCLUDE
+9 BOTH OF THE FOLLOWING [WITH RESPECT TO THE IMMEDIATELY PRECEDING QUARTER]:
+10 1. THE NUMBER OF REQUESTS FOR INTERCONNECTION.
+11 2. THE NUMBER OF COMPLETED INTERCONNECTIONS.
+12 B. BEGINNING TWO YEARS AFTER THE EFFECTIVE DATE OF THIS SECTION,
+13 THE CORPORATION COMMISSION MAY SUSPEND THE QUARTERLY REPORT REQUIREMENT BY
+14 A MAJORITY VOTE IF THE NUMBERS REPORTED BY THE ELECTRIC PUBLIC SERVICE
+15 CORPORATION PURSUANT TO SUBSECTION A OF THIS SECTION ARE ZERO FOR AT LEAST
+16 TWO CONSECUTIVE QUARTERS. THE CORPORATION COMMISSION MAY VOTE TO
+17 REINSTATE THE QUARTERLY REPORT REQUIREMENT AT ANY TIME.
+18 C. AN ELECTRIC PUBLIC SERVICE CORPORATION THAT CONDUCTS INTEGRATED
+19 RESOURCE PLANNING SHALL INCLUDE EXTRA HIGH LOAD FACTOR CUSTOMERS IN THE
+20 ELECTRIC PUBLIC SERVICE CORPORATION'S LOAD GROWTH PROJECTIONS FOR THE
+21 INTEGRATED RESOURCE PLAN.
+22 D. THE CORPORATION COMMISSION [SHALL] [MAY] ADOPT RULES PURSUANT TO
+23 ARTICLE XV, SECTION 3, CONSTITUTION OF ARIZONA, THAT DO ALL OF THE
+24 FOLLOWING:
+25 [1. GOVERN THE BUSINESS TRANSACTION WITH EXTRA HIGH LOAD FACTOR
+26 CUSTOMERS.
+27 2. ESTABLISH THE MINIMUM BILLING REQUIREMENTS.
+28 3. PRESCRIBE THE FORM OF CONTRACTS THAT MAY BE USED WITH EXTRA HIGH
+29 LOAD FACTOR CUSTOMERS, INCLUDING:
+30 (a) THE LENGTH OF THE CONTRACT.
+31 (b) THE PAYMENT TERMS FOR BOTH OF THE FOLLOWING:
+32 (i) GRID UPGRADES.
+33 (ii) INVESTMENTS TO ACCOMMODATE THE EXTRA HIGH LOAD FACTOR CUSTOMER
+34 EVEN IF THE EXTRA HIGH LOAD FACTOR CUSTOMER NO LONGER DOES BUSINESS IN OR
+35 LEAVES THIS STATE.
+36 4. ESTABLISH A PROCESS FOR THE CORPORATION COMMISSION TO REVIEW AND
+37 APPROVE ALL EXTRA HIGH LOAD FACTOR CUSTOMER CONTRACTS AT LEAST THIRTY DAYS
+38 BEFORE THE EXECUTION OF THE CONTRACT TO ENSURE THE CONTRACT IS BOTH:
+39 (a) CONSISTENT WITH THE RULES ADOPTED BY THE CORPORATION
+40 COMMISSION.
+41 (b) IN THE BEST INTEREST OF OTHER RATEPAYERS AND CUSTOMER CLASSES
+42 THAT DO NOT INCLUDE THE EXTRA HIGH LOAD FACTOR CUSTOMER, INCLUDING
+43 RESIDENTIAL AND SMALL BUSINESS CUSTOMERS.] [ESTABLISH REQUIRED
+44 CHARACTERISTICS THAT GOVERN THE TERMS FOR ELECTRIC SERVICE PROVIDED TO
+45 EXTRA HIGH LOAD FACTOR CUSTOMERS THAT ARE NOT OTHERWISE PROVIDED SERVICE
+46 UNDER A PRE-EXISTING ELECTRIC PUBLIC SERVICE CORPORATION TARIFF. THE
+47 REQUIRED CHARACTERISTICS MAY INCLUDE ALL OF THE FOLLOWING AND ENSURE
+-2-
+
+House Amendments to H.B. 2756
+1 FLEXIBILITY FOR AN ELECTRIC PUBLIC SERVICE CORPORATION TO DEFINE SPECIFIC
+2 TERMS FOR EACH TRANSACTION ON A CASE-BY-CASE BASIS:
+3 1. PROVISIONS FOR MINIMUM BILLING REQUIREMENTS.
+4 2. MINIMUM CONTRACT LENGTH.
+5 3. PROVISIONS THAT GOVERN EARLY EXIT OR TERMINATION OF SERVICE
+6 BEFORE THE TERM OF A CONTRACT CONCLUDES.
+7 4. REQUIREMENTS FOR CUSTOMER-PROVIDED SECURITY, GUARANTEES OR
+8 COLLATERAL TO SUPPORT SERVICE CONTRACT OBLIGATIONS.
+9 5. REQUIREMENTS FOR EXTRA HIGH LOAD FACTOR CUSTOMER PAYMENTS TO
+10 COVER THE COSTS OF ANY INFRASTRUCTURE IMPROVEMENTS, ADDITIONS OR EXPANSION
+11 THAT ARE NECESSARY TO FACILITATE SERVICE TO THE CUSTOMER, WHICH SHALL BE
+12 SUPPORTED BY SCHEDULES FILED BY THE ELECTRIC PUBLIC SERVICE CORPORATION
+13 THAT DEMONSTRATE THE PROTECTION OF NON-HIGH LOAD FACTOR CUSTOMERS FROM
+14 CROSS-SUBSIDIZATION.]
+15 E. THIS SECTION DOES NOT APPLY TO MEMBER-OWNED ELECTRIC
+16 COOPERATIVES.
+17 <<Sec. 3. Corporation commission; workshop
+18 Within ninety days after the effective date of this act, the
+19 corporation commission shall conduct at least one workshop to determine
+20 whether:
+21 1. The utility revenues and costs from extra high load factor
+22 customers are resulting in increased or decreased residential bills.
+23 2. Any rules or policies should be adopted to establish a new
+24 customer class for extra high load factor customers or a specific rate
+25 design or cost allocation for extra high load factor customers.>>
+26 Sec. 3. Cost-of-service studies; exemption
+27 Within one hundred eighty days after the effective date of this act:
+28 1. An electric public service corporation operating in this state
+29 shall file with the corporation commission a cost-of-service study that
+30 shows the cost allocation of serving new extra high load factor customers.
+31 This paragraph does not apply to member-owned electric cooperatives.
+32 2. A public power entity that services more than one million
+33 connections in this state shall file with the governing body of the public
+34 power entity a cost-of-service study that shows the cost allocation of
+35 serving new extra high load factor customers.
+36 Sec. 4. Legislative findings
+37 The legislature finds that this act:
+38 1. Is necessary pursuant to article XV, section 3, Constitution of
+39 Arizona, "for the convenience, comfort, and safety, and the preservation
+40 of the health, of patrons of such corporations".
+41 2. Does not attempt to set or establish any specific rates or
+42 charges to be made or collected by public service corporations or require
+43 the corporation commission to set or adopt any specific rates or charges
+44 to be made or collected by a public service corporation.
+45 [3. Supports the adoption of rules and policies that establish new
+46 customer classes, rate designs and cost allocation formulae for extra high
+-3-
+
+House Amendments to H.B. 2756
+1 load factor customers that are reasonable and necessary to prevent cost
+2 shifts to residential customers from extra high load factor customers.]
+3 Enroll and engross to conform
+4 Amend title to conform
+GAIL GRIFFIN
+2756FloorGRIFFIN.docx
+02/18/2026
+05:11 PM
+H: CW/ls
+130USHHTD
+-4-

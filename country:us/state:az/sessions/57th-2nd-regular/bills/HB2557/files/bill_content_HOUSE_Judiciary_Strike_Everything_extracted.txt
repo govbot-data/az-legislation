@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Judiciary - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON JUDICIARY
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2557
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 12-2293, Arizona Revised Statutes, is amended
+3 to read:
+4 12-2293. Release of medical records and payment records to
+5 patients and health care decision makers;
+6 definition
+7 A. Except as provided in subsections B and C of this section, on
+8 the written request of a patient or the patient's health care decision
+9 maker for access to or copies of the patient's medical records and payment
+10 records, the health care provider in possession of the MEDICAL RECORD OR
+11 PAYMENT record shall provide access to or copies of the MEDICAL RECORDS OR
+12 PAYMENT records to the patient or the patient's health care decision maker
+13 PROMPTLY AND WITHIN NOT MORE THAN SEVEN CALENDAR DAYS.
+14 B. A health care provider may deny a request for access to or
+15 copies of medical records or payment records if a health professional
+16 determines that either:
+17 1. Access by the patient is reasonably likely to endanger the life
+18 or physical safety of the patient or another person.
+19 2. The MEDICAL RECORDS OR PAYMENT records make reference to a
+20 person other than a health professional and access by the patient or the
+21 patient's health care decision maker is reasonably likely to cause
+22 substantial harm to that other person.
+23 3. Access by the patient's health care decision maker is reasonably
+24 likely to cause substantial harm to the patient or another person.
+25 4. Access by the patient or the patient's health care decision
+26 maker would reveal information obtained under a promise of confidentiality
+
+House Amendments to H.B. 2557
+1 with someone other than a health professional and access would be
+2 reasonably likely to reveal the source of the information.
+3 C. A health care provider may deny a request for access to or
+4 copies of medical records or payment records if the health care provider
+5 determines that either:
+6 1. The information was created or obtained in the course of
+7 clinical research and the patient or the patient's health care decision
+8 maker agreed to the denial of access when consenting to participate in the
+9 research and was informed that the right of access will be reinstated on
+10 completion of the research.
+11 2. A health care provider is a correctional institution or is
+12 acting under the direction of a correctional institution and access by a
+13 patient who is an inmate in the correctional institution would jeopardize
+14 the health, safety, security, custody or rehabilitation of the patient or
+15 other inmates or the safety of any officer, employee or other person at
+16 the correctional institution or of a person who is responsible for
+17 transporting the inmate.
+18 D. If the health care provider denies a request for access to or
+19 copies of the medical records or payment records, the health care provider
+20 must note this determination in the patient's records and provide to the
+21 patient or the patient's health care decision maker a written explanation
+22 of the reason for the denial of access. The health care provider must
+23 release the medical records or payment records information for which there
+24 is not a basis to deny access under subsection B of this section.
+25 E. For the purposes of this section, "health professional" has the
+26 same meaning prescribed in section 32-3201."
+27 Amend title to conform
+And, as so amended, it do pass
+QUANG H. NGUYEN
+CHAIRMAN
+2557JUDICIARY.docx
+02/18/2026
+11:04 AM
+H: NM/ls
+130LPLAWA
+-2-

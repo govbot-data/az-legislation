@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Judiciary and Elections
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Judiciary and Elections
+Second Regular Session H.B. 2557
+COMMITTEE ON JUDICIARY AND ELECTIONS
+SENATE AMENDMENTS TO H.B. 2557
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 12-2293, Arizona Revised Statutes, is amended to
+3 read:
+4 12-2293. Release of medical records and payment records to
+5 patients and health care decision makers;
+6 definitions
+7 A. Except as provided in subsections B and C of this section, on
+8 the written request of a patient or the patient's health care decision
+9 maker for access to or copies of the patient's medical records and payment
+10 records, the health care provider in possession of the MEDICAL RECORD OR
+11 PAYMENT record shall provide access to or copies of the MEDICAL RECORDS OR
+12 PAYMENT records to the patient or the patient's health care decision maker
+13 PROMPTLY AND WITHIN NOT MORE THAN SEVEN BUSINESS DAYS.
+14 B. A health care provider may deny a request for access to or
+15 copies of medical records or payment records if a health professional
+16 determines that either:
+17 1. Access by the patient is reasonably likely to endanger the life
+18 or physical safety of the patient or another person.
+19 2. The MEDICAL RECORDS OR PAYMENT records make reference to a
+20 person other than a health professional and access by the patient or the
+21 patient's health care decision maker is reasonably likely to cause
+22 substantial harm to that other person.
+23 3. Access by the patient's health care decision maker is reasonably
+24 likely to cause substantial harm to the patient or another person.
+25 4. Access by the patient or the patient's health care decision
+26 maker would reveal information obtained under a promise of confidentiality
+27 with someone other than a health professional and access would be
+28 reasonably likely to reveal the source of the information.
+
+Senate Amendments to H.B. 2557
+1 C. A health care provider may deny a request for access to or
+2 copies of medical records or payment records if the health care provider
+3 determines that either:
+4 1. The information was created or obtained in the course of
+5 clinical research and the patient or the patient's health care decision
+6 maker agreed to the denial of access when consenting to participate in the
+7 research and was informed that the right of access will be reinstated on
+8 completion of the research.
+9 2. A health care provider is a correctional institution or is
+10 acting under the direction of a correctional institution and access by a
+11 patient who is an inmate in the correctional institution would jeopardize
+12 the health, safety, security, custody or rehabilitation of the patient or
+13 other inmates or the safety of any officer, employee or other person at
+14 the correctional institution or of a person who is responsible for
+15 transporting the inmate.
+16 D. If the health care provider denies a request for access to or
+17 copies of the medical records or payment records, the health care provider
+18 must note this determination in the patient's [MEDICAL RECORDS OR PAYMENT]
+19 records and provide to the patient or the patient's health care decision
+20 maker a written explanation of the reason for the denial of access. The
+21 health care provider must release the medical records or payment records
+22 information for which there is not a basis to deny access under subsection
+23 B of this section.
+24 [E. NOTWITHSTANDING ANY OTHER PROVISION OF THIS SECTION, A HEALTH
+25 CARE PROVIDER SHALL RESPOND TO A REQUEST FOR MEDICAL RECORDS WITHIN THE
+26 FOLLOWING TIME FRAMES:
+27 1. IF THE REQUEST IS MADE BY A PATIENT OR THE PATIENT'S HEALTH CARE
+28 DECISION MAKER AND IS FOR THE PURPOSE OF UPCOMING MEDICAL TREATMENT:
+29 (a) WITHIN TEN BUSINESS DAY AFTER RECEIVING THE REQUEST IF THE
+30 MEDICAL RECORDS ARE LESS THAN TWELVE MONTHS OLD AND ARE MAINTAINED IN THE
+31 HEALTH CARE PROVIDER'S CURRENT ELECTRONIC HEALTH RECORD SYSTEM.
+32 (b) WITHIN FIFTEEN BUSINESS DAYS AFTER RECEIVING THE REQUEST IF THE
+33 MEDICAL RECORDS ARE TWELVE MONTHS OLD OR MORE AND ARE MAINTAINED IN THE
+34 HEALTH CARE PROVIDER'S CURRENT ELECTRONIC HEALTH RECORD SYSTEM.
+35 2. WITHIN THIRTY CALENDAR DAYS IF THE REQUEST IS FOR A PURPOSE
+36 OTHER THAN UPCOMING MEDICAL TREATMENT, INCLUDING:
+37 (a) LITIGATION.
+38 (b) A REQUEST THAT IS MADE BY A PATIENT FOR MEDICAL RECORDS THAT
+39 ARE NOT IDENTIFIED AS NECESSARY FOR UPCOMING MEDICAL TREATMENT, INCLUDING
+40 A REQUEST FOR PERSONAL COPIES OF THE PATIENT'S MEDICAL RECORDS WHEN THE
+41 MEDICAL RECORDS ARE OTHERWISE AVAILABLE THROUGH A PATIENT PORTAL.
+42 (c) REQUESTS FOR THE PURPOSES OF LIFE INSURANCE OR LIFE INSURANCE
+43 UNDERWRITING.
+44 (d) REQUESTS FROM PAYORS, UNLESS OTHERWISE SPECIFIED IN A CONTRACT
+45 BETWEEN THE PROVIDER AND THE PAYOR.
+46 (e) REQUESTS FROM SCHOOLS OR EDUCATIONAL INSTITUTIONS.
+47 (f) REQUESTS FOR RECORDS OF A DECEASED PATIENT.
+-2-
+
+Senate Amendments to H.B. 2557
+1 (g) ANY OTHER REQUEST THAT IS NOT RELATED TO CURRENT OR UPCOMING
+2 MEDICAL TREATMENT.
+3 F. SUBSECTION E OF THIS SECTION DOES NOT REQUIRE A HEALTH CARE
+4 PROVIDER TO CREATE OR COMPILE RECORDS THAT DO NOT OTHERWISE EXIST.]
+5 [E.] [G.] For the purposes of this section[, ][:
+6 1.] "Health professional" has the same meaning prescribed in section
+7 32-3201.
+8 [2. "UPCOMING MEDICAL TREATMENT" MEANS A SCHEDULED OR ANTICIPATED
+9 HEALTH CARE SERVICE OR MEDICAL CONSULTATION FOR WHICH THE REQUESTED
+10 MEDICAL RECORDS ARE REASONABLY NECESSARY TO FACILITATE DIAGNOSIS,
+11 TREATMENT OR COORDINATION OF CARE.]
+12 Enroll and engross to conform
+13 Amend title to conform
+2557JUDE.docx
+03/23/2026
+9:22 AM
+C: SK
+130ANSDGU
+-3-

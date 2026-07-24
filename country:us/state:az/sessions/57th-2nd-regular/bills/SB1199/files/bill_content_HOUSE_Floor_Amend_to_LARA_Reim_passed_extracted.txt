@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to LARA - Reim - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1199: veterinary medical examining board; continuation
+REIM FLOOR AMENDMENT
+1. Clarifies that prohibited actions taken against the Salt River horse herd
+must be intentional and also apply to horses that were previously part of the
+herd.
+2. Prescribes actions relating to the transfer and adoption of unidentified horses
+that are not part of the Salt River horse herd.
+3. Requires the Arizona Department of Agriculture (Department) to:
+a. maintain a genetically viable herd consistent with current standards
+and peer reviewed studies; and
+b. to make publicly available, via the Department's website, all genetic
+assessment data and their corresponding scientific studies.
+4. Outlines requirements of the Department and any contractor as it relates to
+genetic assessments and herd management.
+5. Repeals the section relating to outlined requirements on July 1, 2030.
+6. Adds a legislative findings clause.
+7. Adds an emergency clause.
+8. Makes conforming changes.
+CORBIN W.
+5/5/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Reim
+Second Regular Session S.B. 1199
+REIM FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1199
+(Reference to LAND, AGRICULTURE & RURAL AFFAIRS S/E Committee amendment)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 3-1491, Arizona Revised Statutes, is amended to
+3 read:
+4 3-1491. Salt River horse herd; necessary interaction; written
+5 authorization; violations; classification;
+6 definitions
+7 A. A person shall not [INTENTIONALLY] harass, shoot, injure, kill
+8 or slaughter a horse that is [OR WAS] part of the Salt River horse herd.
+9 B. A person shall not interfere with, take, chase, capture or
+10 euthanize a horse that is part of the Salt River horse herd without
+11 written authorization from either the department or the county
+12 sheriff. The department or the county sheriff may provide written
+13 authorization pursuant to this subsection only for humane purposes.
+14 C. If an incident occurs that requires interaction with the Salt
+15 River horse herd in order to protect the safety or health of a horse that
+16 is or horses that are part of the Salt River horse herd or the public, a
+17 private or public entity may address the incident after obtaining written
+18 authorization from either the department or the county sheriff.
+19 D. If a horse has any brand or other mark that indicates ownership,
+20 the department shall attempt to prove ownership of the horse or the county
+21 sheriff shall contact the department to attempt to establish ownership of
+22 the horse. If the department cannot prove ownership of the horse [AND THE
+23 HORSE IS NOT IDENTIFIED AS PART OF THE SALT RIVER HORSE HERD], the
+24 department or the county sheriff may provide written authorization
+25 pursuant to this section [TO REMOVE AND TRANSFER THE UNIDENTIFIED HORSE TO
+26 A PRIVATE ENTITY THAT HAS A VALID AGREEMENT WITH THIS STATE TO ADDRESS
+27 ISSUES RELATING TO THE SALT RIVER HORSE HERD AND THAT MAY ADOPT OUT THE
+28 UNIDENTIFIED HORSE THROUGH AN ADOPTION CONTRACT].
+
+House Amendments to S.B. 1199
+1 E. This state shall enter into an agreement pursuant to section
+2 11-952 with the United States forest service to implement this article or
+3 to address any issue relating to the Salt River horse herd. THE
+4 DEPARTMENT SHALL POST THE AGREEMENT ON ITS WEBSITE.
+5 F. This state may enter into an agreement with a private entity to
+6 address any issue relating to the Salt River horse herd. [THIS STATE
+7 SHALL GIVE PREFERENCE TO AN ENTITY THAT HAS A PROVEN RECORD AND EXPERIENCE
+8 ADDRESSING ISSUES RELATING TO THE SALT RIVER HORSE HERD. THE DEPARTMENT
+9 SHALL POST THE AGREEMENT ON THE DEPARTMENT'S WEBSITE.
+10 G. THE DEPARTMENT SHALL MAINTAIN A GENETICALLY VIABLE SALT RIVER
+11 HORSE HERD CONSISTENT WITH GENETIC VIABILITY STANDARDS AND PEER REVIEWED
+12 STUDIES AS THEY EVOLVE AND BECOME AVAILABLE. THE DEPARTMENT SHALL MAKE
+13 PUBLICLY AVAILABLE ON THE DEPARTMENT'S WEBSITE ALL GENETIC ASSESSMENT DATA
+14 AND ALL CORRESPONDING SCIENTIFIC STUDIES ON WHICH THE ASSESSMENT RELIES.]
+15 [G.] [H.] A horse that is part of the Salt River horse herd is not
+16 a stray animal as defined in section 3-1401 and is not subject to sections
+17 3-1371 and 3-1402.
+18 [H.] [I.] A person who violates subsection A of this section is
+19 guilty of a class 1 misdemeanor. [A PERSON WHO VIOLATES SUBSECTION B OF
+20 THIS SECTION IS GUILTY OF A PETTY OFFENSE.]
+21 [I.] [J.] For the purposes of this section[:] [,]
+22 [1. "INTERFERE WITH" INCLUDES:
+23 (a) APPROACHING A HORSE THAT IS PART OF THE SALT RIVER HORSE HERD
+24 AT A DISTANCE OF LESS THAN FIFTY FEET WHILE A HORSE THAT IS PART OF THE
+25 SALT RIVER HORSE HERD IS PRESENT.
+26 (b) APPROACHING AN AUTHORIZED SALT RIVER HORSE HERD FEEDING STATION
+27 AT A DISTANCE OF LESS THAN FIFTY FEET.
+28 2.] "Salt River horse herd" includes the horses that inhabit and
+29 that have historically lived in and around the lower Salt River and
+30 Saguaro Lake areas in the Tonto national forest and that do not have a
+31 brand or other mark that indicates ownership."
+32 <<Sec. 2. Salt River horse herd; management agreement;
+33 genetic study; moratorium on removal; delayed
+34 repeal; definition
+35 [A. The Arizona department of agriculture shall contract for an
+36 independent genetic assessment of the Salt River horse herd. The testing
+37 shall employ generally accepted genetic analysis methodologies that
+38 include measures of effective population size, allelic diversity and
+39 inbreeding coefficients.
+40 B. The Arizona department of agriculture shall award the contract
+41 for genetic testing consistent with the competitive bidding process
+42 prescribed in title 41, chapter 23, Arizona Revised Statutes, with
+43 preference given to providers with a demonstrated expertise in equine
+44 genetics.
+45 C. Notwithstanding section 3-1491, Arizona Revised Statutes, as
+46 amended by this act, a private entity that has entered into a contract
+47 with this state to address any issues relating to the Salt River horse
+48 herd may not do either of the following:
+-2-
+
+House Amendments to S.B. 1199
+1 1. Remove any horse that is part of the Salt River horse herd if
+2 the herd maintains a negative growth rate unless removal is necessary to
+3 prevent or alleviate the suffering of an individually assessed horse and
+4 not for population control.
+5 2. Employ fertility control and population control measures other
+6 than nonhormonal fertility control vaccines that preserve the mare's
+7 natural reproductive cycle and natural behavior.
+8 D. Notwithstanding section 3-1491, Arizona Revised Statutes, as
+9 amended by this act, the Arizona department of agriculture may not enter
+10 into any new agreement with a private entity to address any issue relating
+11 to the Salt River horse herd that includes an obligation to remove horses
+12 that are part of the Salt River horse herd from the herd.
+13 E. This section does not impair any obligations that this state
+14 incurred through an agreement between this state and the United States
+15 forest service before the effective date of this act.
+16 F. This section is repealed from and after June 30, 2029.
+17 G. For the purposes of this section, "Salt River horse herd" has
+18 the same meaning prescribed in section 3-1491, Arizona Revised Statutes,
+19 as amended by this act.]>>
+20 <<Sec. 3. Legislative findings
+21 [The legislature finds that the delayed repeal of section 2 of this
+22 act provides sufficient time to contract for a comprehensive, scientific
+23 genetic assessment of the Salt River horse herd.]
+24 <<Sec. 4. Emergency
+25 [This act is an emergency measure that is necessary to preserve the
+26 public peace, health or safety and is operative immediately as provided by
+27 law.]>>
+28 Enroll and engross to conform
+29 Amend title to conform
+CODY REIM
+1199FloorREIM.docx
+05/05/2026
+10:38 AM
+C: CT
+130LIEBKW
+-3-

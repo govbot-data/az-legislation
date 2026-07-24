@@ -1,0 +1,691 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Nguyen - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2417: excessive speed; speed inhibiting device
+NGUYEN FLOOR AMENDMENT
+1. Adds employer-owned vehicles operated during the course of employment by a
+person with a limited driving privilege to the list of vehicles that are exempt from
+the section.
+NM/NP
+2/23/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Nguyen
+Second Regular Session H.B. 2417
+NGUYEN FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2417
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 28, chapter 3, article 6, Arizona Revised
+3 Statutes, is amended by adding section 28-711, to read:
+4 28-711. Use of speed inhibiting device; proof of compliance;
+5 installation; violations; classification; rules;
+6 definitions
+7 A. IF A PERSON'S LICENSE OR NONRESIDENT OPERATING PRIVILEGE IS
+8 SUSPENDED OR REVOKED FOR A VIOLATION DESCRIBED IN THIS SUBSECTION, EXCEPT
+9 FOR A NOTICE OF VIOLATION THAT WAS OBTAINED BY USING A PHOTO ENFORCEMENT
+10 SYSTEM, IN LIEU OF THE SUSPENSION OR REVOCATION AND ON REQUEST OF THE
+11 PERSON, THE COURT MAY ORDER THAT THE DEPARTMENT REQUIRE THE INSTALLATION
+12 OF A SPEED INHIBITING DEVICE ON ANY MOTOR VEHICLE THE PERSON OPERATES IN
+13 ADDITION TO ANY OTHER PENALTY PRESCRIBED BY LAW, INCLUDING DEFENSIVE
+14 DRIVING SCHOOL PURSUANT TO CHAPTER 8, ARTICLE 7 OF THIS TITLE OR TRAFFIC
+15 SURVIVAL SCHOOL PURSUANT TO CHAPTER 8, ARTICLE 7.1 OF THIS TITLE. IF THE
+16 LICENSE OF A PERSON IS SUSPENDED OR REVOKED PURSUANT TO THIS SECTION WHILE
+17 THE PERSON WAS OPERATING A MOTORCYCLE OR OFF-HIGHWAY VEHICLE, THE PERSON
+18 IS ELIGIBLE FOR USE OF A SPEED INHIBITING DEVICE ONLY ON A MOTOR VEHICLE.
+19 ON RECEIPT OF AN ORDER FROM THE COURT, THE DEPARTMENT SHALL REQUIRE A
+20 SPEED INHIBITING DEVICE TO BE INSTALLED ON ANY MOTOR VEHICLE A PERSON
+21 OPERATES FOR A PERIOD THAT IS EQUIVALENT TO THE LENGTH OF THE SUSPENSION
+22 OR REVOCATION OF THE PERSON'S LICENSE OR NONRESIDENT OPERATING PRIVILEGE
+23 THAT WOULD HAVE OTHERWISE BEEN IMPOSED FOR THE FOLLOWING IF THE PERSON:
+24 1. IS CONVICTED OF A FIRST VIOLATION OF SECTION 28-693, 28-695 OR
+25 28-708 AND A SUSPENSION OR REVOCATION OF THE PERSON'S LICENSE OR
+26 NONRESIDENT OPERATING PRIVILEGE IS REQUIRED.
+27 2. HAS ASSESSED POINTS AGAINST THE PERSON'S DRIVING RECORD THAT
+28 WOULD REQUIRE A ONE-YEAR SUSPENSION OF THE PERSON'S LICENSE OR NONRESIDENT
+
+House Amendments to H.B. 2417
+1 OPERATING PRIVILEGE FOR ACCUMULATING EXCESSIVE POINTS PURSUANT TO RULES
+2 ADOPTED BY THE DEPARTMENT.
+3 3. IS CONVICTED OF A SECOND VIOLATION OF SECTION 28-693, 28-695 OR
+4 28-708 WITHIN A TWENTY-FOUR MONTH PERIOD. A PERSON WHO IS CONVICTED OF A
+5 VIOLATION DESCRIBED IN THIS PARAGRAPH AND WHO IS ORDERED BY THE COURT TO
+6 INSTALL A SPEED INHIBITING DEVICE PURSUANT TO THIS SECTION IS NOT SUBJECT
+7 TO ANY MINIMUM SUSPENSION OF A LICENSE OR NONRESIDENT OPERATING PRIVILEGE.
+8 4. IS A MINOR AND THE OFFENSE IS THE MINOR'S FIRST EXCESSIVE
+9 SPEEDING OFFENSE PURSUANT TO SECTION 28-701.02.
+10 B. IF A PERSON IS REQUIRED TO INSTALL A SPEED INHIBITING DEVICE
+11 PURSUANT TO THIS SECTION, THE PERSON SHALL PAY THE COST FOR INSTALLING AND
+12 MAINTAINING THE SPEED INHIBITING DEVICE. THE DEPARTMENT MAY CHARGE A FEE
+13 FOR INSTALLATION.
+14 C. THE MANUFACTURER OR PROVIDER OF A SPEED INHIBITING DEVICE SHALL
+15 ELECTRONICALLY PROVIDE TO THE DEPARTMENT PROOF OF INSTALLATION BY THE
+16 PERSON WHOSE DRIVING PRIVILEGE IS LIMITED PURSUANT TO THIS SECTION IN THE
+17 MANNER AND FORMAT PRESCRIBED BY THE DEPARTMENT BY RULE, AND THE DEPARTMENT
+18 SHALL REJECT ANY INFORMATION THAT DOES NOT MEET THESE REQUIREMENTS,
+19 INCLUDING PROOF OF:
+20 1. THE INSTALLATION OF A FUNCTIONING SPEED INHIBITING DEVICE IN
+21 EACH MOTOR VEHICLE THAT IS OPERATED BY THE PERSON.
+22 2. COMPLIANCE BY THE PERSON OF AT LEAST ONCE EVERY NINETY DAYS
+23 DURING THE PERIOD THE PERSON IS ORDERED TO USE A SPEED INHIBITING DEVICE.
+24 3. ANY TAMPERING OR CIRCUMVENTION OF THE SPEED INHIBITING DEVICE.
+25 4. THE REMOVAL OF THE SPEED INHIBITING DEVICE FROM ANY MOTOR
+26 VEHICLE THAT IS OPERATED BY THE PERSON.
+27 5. A COPY OF THE NOTIFICATION PROVIDED TO THE PERSON THAT THE
+28 PERSON HAS COMPLETED THE TERM REQUIRING THE INSTALLATION OF THE SPEED
+29 INHIBITING DEVICE.
+30 6. ANY OTHER COMMUNICATIONS DETERMINED NECESSARY BY THE DEPARTMENT.
+31 D. THE DEPARTMENT MAY NOT REINSTATE THE PERSON'S LICENSE OR
+32 NONRESIDENT OPERATING PRIVILEGE UNTIL THE PERSON HAS INSTALLED A
+33 FUNCTIONING SPEED INHIBITING DEVICE IN EACH MOTOR VEHICLE THAT IS OPERATED
+34 BY THE PERSON AND THE MANUFACTURER OR PROVIDER OF THE SPEED INHIBITING
+35 DEVICE HAS PROVIDED PROOF OF INSTALLATION TO THE DEPARTMENT.
+36 E. IF THE MANUFACTURER OR PROVIDER OF THE SPEED INHIBITING DEVICE
+37 DOES NOT SUBMIT PROOF OF COMPLIANCE BY THE PERSON WHOSE DRIVING PRIVILEGE
+38 IS LIMITED PURSUANT TO THIS SECTION, THE DEPARTMENT SHALL SUSPEND THE
+39 PERSON'S LICENSE OR NONRESIDENT OPERATING PRIVILEGE UNTIL PROOF OF
+40 COMPLIANCE IS SUBMITTED TO THE DEPARTMENT. ON NOTIFICATION OF
+41 NONCOMPLIANCE FROM THE COURT, THE DEPARTMENT SHALL IMMEDIATELY SUSPEND THE
+42 PERSON'S LICENSE OR NONRESIDENT OPERATING PRIVILEGE.
+43 F. A PERSON WHOSE DRIVER LICENSE IS SUSPENDED PURSUANT TO THIS
+44 SECTION MAY SUBMIT A WRITTEN REQUEST FOR A HEARING. THE WRITTEN REQUEST
+45 MUST BE RECEIVED BY THE DEPARTMENT WITHIN FIFTEEN DAYS AFTER THE DATE OF
+46 THE ORDER OF SUSPENSION. ON RECEIPT OF A REQUEST FOR A HEARING, A HEARING
+47 SHALL BE HELD WITHIN THIRTY DAYS. A TIMELY REQUEST FOR A HEARING STAYS
+-2-
+
+House Amendments to H.B. 2417
+1 THE SUSPENSION UNTIL A HEARING IS HELD, EXCEPT THAT THE DEPARTMENT MAY NOT
+2 RETURN ANY SURRENDERED DRIVER LICENSE OR PERMIT TO THE PERSON BUT MAY
+3 ISSUE A TEMPORARY DRIVER LICENSE OR PERMIT TO DRIVE THAT EXPIRES NOT LATER
+4 THAN WHEN THE DEPARTMENT HAS MADE ITS FINAL DECISION. HEARINGS REQUESTED
+5 PURSUANT TO THIS SUBSECTION SHALL BE CONDUCTED IN THE SAME MANNER AND
+6 UNDER THE SAME CONDITIONS AS PROVIDED IN SECTION 28-3306, AND THE SCOPE OF
+7 THE HEARING SHALL INCLUDE ONLY THE FOLLOWING ISSUES:
+8 1. WHETHER THE PERSON WAS ORDERED OR REQUIRED TO EQUIP A MOTOR
+9 VEHICLE THAT IS OPERATED BY THE PERSON WITH A SPEED INHIBITING DEVICE
+10 PURSUANT TO THIS SECTION.
+11 2. WHETHER THE MANUFACTURER OR PROVIDER OF THE SPEED INHIBITING
+12 DEVICE PROVIDED PROOF OF COMPLIANCE PURSUANT TO THIS SECTION.
+13 G. IF A PERSON IS REQUIRED TO INSTALL A SPEED INHIBITING DEVICE
+14 PURSUANT TO THIS SECTION AND THE PERSON IS FOUND TO BE OPERATING A MOTOR
+15 VEHICLE WITHOUT A SPEED INHIBITING DEVICE INSTALLED EXCEPT AS PROVIDED IN
+16 SUBSECTION I OF THIS SECTION, THE PERSON IS GUILTY OF A CLASS 1
+17 MISDEMEANOR. ON NOTIFICATION FROM THE COURT, THE DEPARTMENT SHALL
+18 IMMEDIATELY SUSPEND THE PERSON'S LICENSE OR NONRESIDENT OPERATING
+19 PRIVILEGE. THE DURATION OF THE SUSPENSION OF THE LICENSE OR NONRESIDENT
+20 OPERATING PRIVILEGE MUST BE THE LENGTH OF THE ORIGINAL SENTENCE, AND NO
+21 TIME MAY BE CREDITED TO THE ORIGINAL LENGTH OF SUSPENSION.
+22 H. AFTER CONSULTING WITH THE DIRECTOR OF THE DEPARTMENT OF PUBLIC
+23 SAFETY, THE ASSISTANT DIRECTOR FOR THE MOTOR VEHICLE DIVISION OF THE
+24 DEPARTMENT OF TRANSPORTATION SHALL:
+25 1. ADOPT RULES PRESCRIBING THE REQUIREMENTS FOR A SPEED INHIBITING
+26 DEVICE. THE RULES MUST INCLUDE:
+27 (a) THE PROCEDURE FOR CERTIFYING SPEED INHIBITING DEVICES.
+28 (b) PROVISIONS TO ENSURE THE RELIABILITY OF THE SPEED INHIBITING
+29 DEVICE OVER THE RANGE OF MOTOR VEHICLE ENVIRONMENTS.
+30 (c) PROVISIONS TO ENSURE THE SPEED INHIBITING DEVICE WORKS
+31 ACCURATELY IN AN UNSUPERVISED ENVIRONMENT.
+32 (d) THE PROCEDURE FOR DECERTIFYING A SPEED INHIBITING DEVICE FOR
+33 CAUSE.
+34 (e) THE PROCEDURE TO ENSURE A PERSON INSTALLS A SPEED INHIBITING
+35 DEVICE ON ANY MOTOR VEHICLE OPERATED BY THE PERSON WITHIN TWENTY DAYS IF
+36 THE ORIGINAL MOTOR VEHICLE WITH A SPEED INHIBITING DEVICE INSTALLED IS
+37 SOLD, LOST, STOLEN, WRECKED OR SCRAPPED.
+38 (f) THE PROCEDURES AND HEARING RIGHTS FOR THE DEPARTMENT TO APPROVE
+39 EARLY REMOVAL, REINSTALLATION OR OPT OUT BY THE PERSON FOR THE SPEED
+40 INHIBITING DEVICE IF THE PERSON NO LONGER POSSESSES A MOTOR VEHICLE OR IS
+41 NO LONGER ABLE TO FINISH THE REQUIRED TIME FRAME FOR THE INSTALLATION OF
+42 THE SPEED INHIBITING DEVICE.
+43 (g) THE PROCEDURES FOR COMPLIANCE REPORTING RELATING TO TAMPERING
+44 WITH AND CIRCUMVENTION OF SPEED INHIBITING DEVICES.
+45 2. CERTIFY SPEED INHIBITING DEVICES. ANY SPEED INHIBITING DEVICE
+46 MAY NOT BE CERTIFIED UNTIL:
+-3-
+
+House Amendments to H.B. 2417
+1 (a) THE SPEED INHIBITING DEVICE IS MADE BY A MANUFACTURER THAT IS
+2 COVERED BY PRODUCT LIABILITY INSURANCE IN THE AMOUNT OF $1,000,000 PER
+3 EVENT AND $3,000,000 IN AGGREGATE.
+4 (b) THE MANUFACTURER OF THE SPEED INHIBITING DEVICE INDEMNIFIES
+5 THIS STATE AGAINST ANY LIABILITY THAT MAY RESULT FROM THE USE OF THE SPEED
+6 INHIBITING DEVICE.
+7 (c) THE SPEED INHIBITING DEVICE IS REPAIRED OR MODIFIED ONLY BY THE
+8 MANUFACTURER OF THE SPEED INHIBITING DEVICE.
+9 (d) ALL OF THE SPEED INHIBITING DEVICE REPORTING REQUIRED BY THIS
+10 SECTION ORIGINATES FROM THE SPEED INHIBITING DEVICE MANUFACTURER.
+11 (e) THE SPEED INHIBITING DEVICE INCLUDES AN OVERRIDE FEATURE TO BE
+12 USED BY THE PERSON. THE OVERRIDE FEATURE MUST:
+13 (i) BE AVAILABLE NOT MORE THAN THREE TIMES DURING A THIRTY-DAY
+14 PERIOD.
+15 (ii) ALLOW THE MOTOR VEHICLE TO EXCEED THE POSTED SPEED LIMIT BY
+16 NOT MORE THAN TEN MILES FOR A PERIOD NOT TO EXCEED SIXTY SECONDS.
+17 3. PUBLISH A LIST OF SPEED INHIBITING DEVICES THAT INCLUDES
+18 INFORMATION ABOUT THE MANUFACTURERS OF THE SPEED INHIBITING DEVICES AND
+19 WHERE THE SPEED INHIBITING DEVICES MAY BE ORDERED.
+20 4. MAKE THE LIST AVAILABLE TO THE COURTS AND PROBATION DEPARTMENTS
+21 WITHOUT CHARGE.
+22 5. ESTABLISH STANDARDS AND QUALIFICATIONS FOR TECHNICIANS.
+23 6. ADOPT A WARNING LABEL DESIGN TO BE AFFIXED TO EACH SPEED
+24 INHIBITING DEVICE ON INSTALLATION. THE LABEL MUST CONTAIN A WARNING THAT
+25 A PERSON TAMPERING WITH, CIRCUMVENTING OR OTHERWISE MISUSING THE SPEED
+26 INHIBITING DEVICE IS GUILTY OF A CLASS 1 MISDEMEANOR.
+27 7. ADOPT RULES THAT ALLOW THE DIRECTOR TO IMPOSE A CIVIL PENALTY
+28 AGAINST A MANUFACTURER OF A SPEED INHIBITING DEVICE THAT FAILS TO PROPERLY
+29 REPORT DATA TO THE DIRECTOR IN THE MANNER PRESCRIBED BY THE DIRECTOR.
+30 I. EXCEPT IN CASES OF SUBSTANTIAL EMERGENCY, A PERSON MAY NOT
+31 KNOWINGLY RENT, LEASE OR LEND A MOTOR VEHICLE TO A PERSON WHOSE DRIVING
+32 PRIVILEGE IS LIMITED PURSUANT TO THIS SECTION UNLESS THE MOTOR VEHICLE IS
+33 EQUIPPED WITH A FUNCTIONING SPEED INHIBITING DEVICE.
+34 J. A PERSON WHOSE DRIVING PRIVILEGE IS LIMITED PURSUANT TO THIS
+35 SECTION AND WHO RENTS, LEASES OR BORROWS A MOTOR VEHICLE FROM ANOTHER
+36 PERSON SHALL NOTIFY THE PERSON WHO RENTS, LEASES OR LENDS THE MOTOR
+37 VEHICLE TO THE PERSON THAT THE PERSON HAS SPECIFIC REQUIREMENTS FOR THE
+38 OPERATION OF THE MOTOR VEHICLE AND THE NATURE OF THE REQUIREMENTS.
+39 K. A MOTOR VEHICLE MANUFACTURER, DISTRIBUTOR OR RETAILER IS NOT
+40 LIABLE FOR ANY LOSS, INJURY OR DAMAGE CAUSED BY THE DESIGN, MANUFACTURER,
+41 INSTALLATION, INCLUDING IMPROPER INSTALLATION OR USE OR MISUSE OF A SPEED
+42 INHIBITING DEVICE, UNLESS THE MOTOR VEHICLE MANUFACTURER, DISTRIBUTOR OR
+43 RETAILER KNOWINGLY ENGAGES IN A REPAIR OR UPDATE TO THE SPEED INHIBITING
+44 DEVICE AND THE REPAIR OR UPDATE IS THE PROXIMATE CAUSE OF ANY LOSS, INJURY
+45 OR DAMAGE.
+-4-
+
+House Amendments to H.B. 2417
+1 L. THE MANUFACTURER OF A SPEED INHIBITING DEVICE SHALL COLLECT ONLY
+2 NECESSARY DATA TO SUPPORT COMPLIANCE, EVALUATE PROGRAM PERFORMANCE AND
+3 IMPROVE SYSTEM ACCURACY AND EFFECTIVENESS. THE DATA COLLECTION MUST:
+4 1. MINIMIZE STORAGE OF LOCATION DATA.
+5 2. BE SHARED UNDER THE FOLLOWING CIRCUMSTANCES:
+6 (a) WHEN DIRECTED BY A VALID COURT ORDER.
+7 (b) AS DIRECTED BY LAW OR RULE.
+8 (c) WITH THE DEPARTMENT OR JUDGE RELATED TO ANY VIOLATION OF THIS
+9 SECTION.
+10 (d) WHEN DEPERSONALIZED OR AGGREGATED FOR RESEARCH OR EVALUATION
+11 PURPOSES.
+12 3. NEVER BE SOLD, LICENSED OR USED FOR ANY COMMERCIAL PURPOSES.
+13 M. THIS SECTION DOES NOT:
+14 1. APPLY TO FLEET VEHICLES OPERATED BY A PERSON WHOSE DRIVING
+15 PRIVILEGE IS LIMITED PURSUANT TO THIS SECTION.
+16 [2. APPLY TO VEHICLES THAT ARE OWNED BY A PERSON'S EMPLOYER AND
+17 THAT ARE OPERATED IN IN THE COURSE OF EMPLOYMENT BY A PERSON WHOSE DRIVING
+18 PRIVILEGE IS LIMITED PURSUANT TO THIS SECTION.]
+19 [2.] [3.] APPLY TO COMMERCIAL VEHICLES AS DEFINED IN SECTION
+20 28-2231.
+21 [3.] [4.] REQUIRE A MOTOR VEHICLE MANUFACTURER, DISTRIBUTOR OR
+22 RETAILER TO MANUFACTURE, DISTRIBUTE OR OFFER FOR SALE A MOTOR VEHICLE THAT
+23 INCLUDES OR IS COMPATIBLE WITH A SPEED INHIBITING DEVICE.
+24 [4.] [5.] PROHIBIT A LESSOR OR LIENHOLDER FROM REQUIRING
+25 NOTIFICATION BY THE PERSON THAT A SPEED INHIBITING DEVICE HAS BEEN
+26 INSTALLED ON A MOTOR VEHICLE SUBJECT TO A LEASE OR FINANCE AGREEMENT.
+27 [5.] [6.] PROHIBIT A LESSOR OR LIENHOLDER FROM CHARGING A
+28 REASONABLE FEE TO THE CUSTOMER FOR THE REMOVAL OF A SPEED INHIBITING
+29 DEVICE.
+30 [6.] [7.] APPLY TO A MOTORCYCLE OR OFF-HIGHWAY VEHICLE OPERATED BY
+31 A PERSON WHOSE DRIVING PRIVILEGE IS LIMITED PURSUANT TO THIS SECTION.
+32 N. FOR THE PURPOSES OF THIS SECTION:
+33 1. "SPEED INHIBITING DEVICE" MEANS AN INTEGRATED MOTOR VEHICLE
+34 SYSTEM THAT DETERMINES THE POSTED SPEED LIMIT OF THE ROADWAY THE MOTOR
+35 VEHICLE IS ON AND THAT PREVENTS THE MOTOR VEHICLE'S SPEED FROM EXCEEDING
+36 THE POSTED SPEED LIMIT.
+37 2. "SUBSTANTIAL EMERGENCY" MEANS AN EMERGENCY SITUATION DURING
+38 WHICH A PERSON OTHER THAN THE PERSON WHOSE DRIVING PRIVILEGE IS LIMITED
+39 PURSUANT TO THIS SECTION IS NOT REASONABLY AVAILABLE TO DRIVE IN RESPONSE
+40 TO THAT EMERGENCY SITUATION.
+41 Sec. 2. Section 28-3318, Arizona Revised Statutes, is amended to
+42 read:
+43 28-3318. Service of notice; definitions
+44 A. The department shall provide written, electronic or digital
+45 notice to a person possessing a driver license, to an unlicensed driver or
+46 to a nonresident driver of the following:
+-5-
+
+House Amendments to H.B. 2417
+1 1. A suspension, revocation, cancellation, OR disqualification OR
+2 A SPEED INHIBITING DEVICE or certified ignition interlock device
+3 limitation of the license or privilege to operate a motor vehicle.
+4 2. Required attendance at training and education sessions.
+5 B. The department may include additional information in the
+6 written, electronic or digital notice developed in consultation with the
+7 director of the department of public safety as prescribed in section
+8 28-1462 regarding certified ignition interlock devices.
+9 C. The department shall send the notice by mail or electronically
+10 or digitally to the address provided to the department on the licensee's
+11 application or provided to the department pursuant to section 28-448. If
+12 an address has not been provided to the department as provided in this
+13 subsection, the department shall send the notice to any address known to
+14 the department, including the address listed on a traffic citation
+15 received by the department.
+16 D. Service of the notice provided by this section is complete on
+17 mailing. The department shall provide further service of notice only if
+18 the department is notified of a change of address pursuant to section
+19 28-448.
+20 E. Compliance with the mailing provisions of this section
+21 constitutes notice of the suspension, revocation, cancellation,
+22 disqualification or certified ignition interlock device limitation for
+23 purposes of prosecution under section 28-1383, 28-1464 or 28-3473. The
+24 state is not required to prove actual receipt of the notice or actual
+25 knowledge of the suspension, revocation, cancellation, disqualification or
+26 certified ignition interlock device limitation.
+27 F. Compliance with the mailing provisions of this section
+28 constitutes notice of suspension or restriction for the purposes of
+29 suspension or restriction under section 28-3320. The state is not
+30 required to prove actual receipt of the notice or actual knowledge of the
+31 suspension or restriction.
+32 G. For the purposes of this section:
+33 1. "Certified ignition interlock device" has the same meaning
+34 prescribed in section 28-1301.
+35 2. "Mail" or "mailing" means delivery by first class or certified
+36 mail or through a department electronic or digital system.
+37 3. "SPEED INHIBITING DEVICE" HAS THE SAME MEANING PRESCRIBED IN
+38 SECTION 28-711.
+39 Sec. 3. Section 28-3511, Arizona Revised Statutes, is amended to
+40 read:
+41 28-3511. Removal and immobilization or impoundment of
+42 vehicle; Arizona crime information center database
+43 A. A peace officer shall cause the removal and either
+44 immobilization or impoundment of a vehicle if the peace officer determines
+45 that:
+46 1. A person is driving the vehicle while any of the following
+47 applies:
+-6-
+
+House Amendments to H.B. 2417
+1 (a) Except as otherwise provided in this subdivision, the person's
+2 driving privilege is revoked for any reason. A peace officer shall not
+3 cause the removal and either immobilization or impoundment of a vehicle
+4 pursuant to this subdivision if the person's privilege to drive is valid
+5 in this state.
+6 (b) The person has not ever NEVER been issued a valid driver
+7 license or permit by this state and the person does not produce evidence
+8 of ever having a valid driver license or permit issued by another
+9 jurisdiction. This subdivision does not apply to the operation of an
+10 implement of husbandry.
+11 (c) The person is subject to an ignition interlock device
+12 requirement pursuant to chapter 4 of this title OR A SPEED INHIBITING
+13 DEVICE PURSUANT TO SECTION 28-711 and the person is operating a vehicle
+14 without a functioning certified ignition interlock device OR A SPEED
+15 INHIBITING DEVICE. This subdivision does not apply to the operation of a
+16 vehicle due to a substantial emergency as defined in section 28-1464.
+17 (d) In furtherance of the illegal presence of an alien in the
+18 United States and in violation of a criminal offense, the person is
+19 transporting or moving or attempting to transport or move an alien in this
+20 state in a vehicle if the person knows or recklessly disregards the fact
+21 that the alien has come to, has entered or remains in the United States in
+22 violation of law.
+23 (e) The person is concealing, harboring or shielding or attempting
+24 to conceal, harbor or shield from detection an alien in this state in a
+25 vehicle if the person knows or recklessly disregards the fact that the
+26 alien has come to, entered or remains in the United States in violation of
+27 law.
+28 2. A person is driving a THE vehicle in violation of section
+29 28-693 and the peace officer reasonably believes that allowing the person
+30 to continue driving the vehicle would expose other persons to the risk of
+31 serious bodily injury or death.
+32 3. A person is driving a THE vehicle in violation of section
+33 28-708 and the peace officer reasonably believes that allowing the person
+34 to continue driving the vehicle would expose other persons to the risk of
+35 serious bodily injury or death.
+36 4. A person is obstructing a highway or other public thoroughfare
+37 in violation of section 13-2906 and the peace officer reasonably believes
+38 that allowing the person to continue driving the vehicle would expose
+39 other persons to the risk of serious bodily injury or death.
+40 5. The vehicle is displayed for sale or for transfer of ownership
+41 with a vehicle identification number that has been destroyed, removed,
+42 covered, altered or defaced.
+43 B. A peace officer shall cause the removal and impoundment of a
+44 vehicle if the peace officer determines that a person is driving the
+45 vehicle and if all of the following apply:
+46 1. The person's driving privilege is canceled or revoked for any
+47 reason or the person has not ever NEVER been issued a driver license or
+-7-
+
+House Amendments to H.B. 2417
+1 permit by this state and the person does not produce evidence of ever
+2 having a driver license or permit issued by another jurisdiction.
+3 2. The person is not in compliance with the financial
+4 responsibility requirements of chapter 9, article 4 of this title.
+5 3. The person is driving a vehicle that is involved in an accident
+6 that results in either property damage or injury to or death of another
+7 person.
+8 C. Except as provided in subsection D of this section, while a
+9 peace officer has control of the vehicle the peace officer shall cause the
+10 removal and either immobilization or impoundment of the vehicle if the
+11 peace officer has probable cause to arrest the driver of the vehicle for a
+12 violation of section 4-244, paragraph 34 or section 28-1382 or 28-1383.
+13 D. A peace officer shall not cause the removal and either the
+14 immobilization or impoundment of a vehicle pursuant to subsection C of
+15 this section if all of the following apply:
+16 1. The peace officer determines that the vehicle is currently
+17 registered and that the driver or the vehicle is in compliance with the
+18 financial responsibility requirements of chapter 9, article 4 of this
+19 title.
+20 2. Another person is with the driver at the time of the arrest.
+21 3. The peace officer has reasonable grounds to believe that the
+22 other person who is with the driver at the time of the arrest meets all of
+23 the following:
+24 (a) Has a valid driver license.
+25 (b) Is not impaired by intoxicating liquor, any drug, a vapor
+26 releasing substance containing a toxic substance or any combination of
+27 liquor, drugs or vapor releasing substances.
+28 (c) Does not have any spirituous liquor in the person's body if the
+29 person is under twenty-one years of age.
+30 4. The other person who is with the driver at the time of the
+31 arrest notifies the peace officer that the person will drive the vehicle
+32 from the place of arrest to the driver's home or other place of safety.
+33 5. The other person drives the vehicle as prescribed by paragraph 4
+34 of this subsection.
+35 E. Except as provided in subsection H of this section and as
+36 otherwise provided in this article, a vehicle that is removed and either
+37 immobilized or impounded pursuant to subsection A, B or C of this section
+38 shall be immobilized or impounded for twenty days. An insurance company
+39 does not have a duty to pay any benefits for charges or fees for
+40 immobilization or impoundment.
+41 F. The owner of a vehicle that is removed and either immobilized or
+42 impounded pursuant to subsection A, B or C of this section, the spouse of
+43 the owner and each person who has provided the department with indicia of
+44 ownership as prescribed in section 28-3514 or other interest in the
+45 vehicle that exists immediately before the immobilization or impoundment
+46 shall be provided with an opportunity for an immobilization or poststorage
+47 hearing pursuant to section 28-3514.
+-8-
+
+House Amendments to H.B. 2417
+1 G. A law enforcement agency that employs the peace officer who
+2 removes and either immobilizes or impounds a vehicle pursuant to this
+3 section shall enter information about the removal and either
+4 immobilization or impoundment of the vehicle in the Arizona crime
+5 information center database within three business days after the removal
+6 and either immobilization or impoundment.
+7 H. A vehicle that is removed and either immobilized or impounded
+8 pursuant to subsection A, paragraph 4 of this section shall be immobilized
+9 or impounded for seven days.
+10 Sec. 4. Section 28-3512, Arizona Revised Statutes, is amended to
+11 read:
+12 28-3512. Release of vehicle; civil penalties; definitions
+13 A. An immobilizing or impounding agency shall release a vehicle
+14 before the end of the immobilization or impoundment period as follows:
+15 1. To the registered owner, if the vehicle is a stolen vehicle.
+16 2. To the registered owner, if the vehicle is subject to bailment
+17 and is driven by an employee of a business establishment, including a
+18 parking service or repair garage, who is subject to section 28-3511,
+19 subsection A, B or C.
+20 3. To the registered owner, if the owner was operating the vehicle
+21 at the time of removal and either immobilization or impoundment and
+22 presents proof satisfactory to the immobilizing or impounding agency that
+23 the owner's driving privilege has been reinstated.
+24 4. To the registered owner, if all of the following apply:
+25 (a) The owner or the owner's agent was not the person driving the
+26 vehicle pursuant to section 28-3511, subsection A.
+27 (b) The owner or the owner's agent is in the business of renting
+28 motor vehicles without drivers.
+29 (c) The vehicle is registered pursuant to section 28-2166.
+30 (d) There was a rental agreement in effect at the time of the
+31 immobilization or impoundment.
+32 5. Except as provided in paragraph 7 of this subsection, to the
+33 spouse of the registered owner or any person who is identified as an owner
+34 of the vehicle on the records of the department at the time of removal and
+35 either immobilization or impoundment, if the spouse or person was not the
+36 driver of the vehicle at the time of removal and either immobilization or
+37 impoundment and the spouse or person enters into an agreement with the
+38 immobilizing or impounding agency that stipulates that if the spouse or
+39 person allows a driver who does not have a valid driving privilege or a
+40 driver who commits a violation that causes the spouse's or person's
+41 vehicle to be removed and either immobilized or impounded pursuant to this
+42 article within one year after any agreement is signed by an immobilizing
+43 or impounding agency, the spouse or person will not be eligible to obtain
+44 release of the spouse's or person's vehicle before the end of the
+45 immobilization or impoundment period.
+46 6. To the motor vehicle dealer, if the vehicle is owned by a motor
+47 vehicle dealer who has paid fees pursuant to section 28-4302 and is driven
+-9-
+
+House Amendments to H.B. 2417
+1 by a customer, potential customer or employee of the motor vehicle dealer
+2 and the motor vehicle dealer has provided to the immobilizing or
+3 impounding agency indicia of the motor vehicle dealer's ownership of the
+4 vehicle, including a certificate of title or a manufacturer-issued
+5 certificate or statement of origin.
+6 7. To any person who is identified as an owner of the vehicle on
+7 the records of the department at the time of removal and either
+8 immobilization or impoundment, if the vehicle is a commercial motor
+9 vehicle, a street sweeper or heavy equipment as defined in section 28-854
+10 and the person was not the driver of the vehicle at the time of removal
+11 and either immobilization or impoundment.
+12 B. A vehicle shall not be released pursuant to subsection A of this
+13 section except pursuant to an immobilization or a poststorage hearing
+14 under section 28-3514 or if all of the following are presented to the
+15 immobilizing or impounding agency:
+16 1. The owner's or owner's spouse's currently valid driver license
+17 issued by this state or the owner's or owner's spouse's state of domicile.
+18 2. Proof of current vehicle registration or a valid salvage or
+19 dismantle certificate of title.
+20 3. Proof that the vehicle is in compliance with the financial
+21 responsibility requirements of chapter 9, article 4 of this title.
+22 4. If the person is required by the department to install a
+23 certified ignition interlock device OR A SPEED INHIBITING DEVICE on the
+24 vehicle, proof of installation of a functioning certified ignition
+25 interlock device OR A SPEED INHIBITING DEVICE in the vehicle. The
+26 impounding agency, storage yard, facility, person or agency having
+27 physical possession of the vehicle shall allow access during normal
+28 business hours to the impounded vehicle for the purpose of installing a
+29 certified ignition interlock device OR A SPEED INHIBITING DEVICE. The
+30 impounding agency, storage yard, facility, person or agency having
+31 physical possession of the vehicle shall not charge any fee or require
+32 compensation for providing access to the vehicle or for the installation
+33 of the certified ignition interlock device OR THE SPEED INHIBITING DEVICE.
+34 C. The owner or the owner's spouse if the vehicle is released to
+35 the owner's spouse is responsible for paying all immobilization, towing
+36 and storage charges related to the immobilization or impoundment of the
+37 vehicle and any administrative charges established pursuant to section
+38 28-3513, unless the vehicle is stolen and the theft was reported to the
+39 appropriate law enforcement agency. If the vehicle is stolen and the
+40 theft was reported to the appropriate law enforcement agency, the operator
+41 of the vehicle at the time of immobilization or impoundment is responsible
+42 for all immobilization, towing, storage and administrative charges.
+43 D. Before the end of the immobilization or impoundment period, the
+44 immobilizing or impounding agency shall release a vehicle to a person,
+45 other than the owner, identified on the department's record as having an
+46 interest in the vehicle immediately before the immobilization or
+47 impoundment if all of the following conditions are met:
+-10-
+
+House Amendments to H.B. 2417
+1 1. The person is either of the following:
+2 (a) In the business of renting motor vehicles without drivers and
+3 the vehicle is registered pursuant to section 28-2166.
+4 (b) A motor vehicle dealer, bank, credit union or acceptance
+5 corporation or any other licensed financial institution legally operating
+6 in this state or is another person who is not the owner and who holds a
+7 security interest in the vehicle immediately before the immobilization or
+8 impoundment.
+9 2. The person pays all immobilization, towing and storage charges
+10 related to the immobilization or impoundment of the vehicle and any
+11 administrative charges established pursuant to section 28-3513 unless the
+12 vehicle is stolen and the theft was reported to the appropriate law
+13 enforcement agency. If the vehicle is stolen and the theft was reported
+14 to the appropriate law enforcement agency, the operator of the vehicle at
+15 the time of immobilization or impoundment is responsible for all
+16 immobilization, towing, storage and administrative charges.
+17 3. The person presents foreclosure documents or an affidavit of
+18 repossession of the vehicle.
+19 4. The person requesting release of the vehicle was not the person
+20 driving the vehicle at the time of removal and immobilization or
+21 impoundment.
+22 E. Before a person described in subsection D of this section
+23 releases the vehicle to the owner who was operating the vehicle at the
+24 time of removal and immobilization or impoundment, the person described in
+25 subsection D of this section shall require the owner to present and shall
+26 retain for a period of at least three years from the date of releasing the
+27 vehicle a copy of all of the following:
+28 1. A driver license issued by this state or the owner's or owner's
+29 agent's state of domicile.
+30 2. A current vehicle registration or a valid salvage or dismantle
+31 certificate of title.
+32 3. Evidence that the vehicle is in compliance with the financial
+33 responsibility requirements of chapter 9, article 4 of this title.
+34 F. The person described in subsection D of this section may require
+35 the owner to pay charges that the person incurred in connection with
+36 obtaining custody of the vehicle, including all immobilization, towing and
+37 storage charges that are related to the immobilization or impoundment of
+38 the vehicle and any administrative charges that are established pursuant
+39 to section 28-3513.
+40 G. A vehicle shall not be released after the end of the
+41 immobilization or impoundment period unless the owner or owner's agent
+42 presents all of the following to the impounding or immobilizing agency:
+43 1. A valid driver license issued by this state or by the owner's or
+44 owner's agent's state of domicile.
+45 2. A current vehicle registration or a valid salvage or dismantle
+46 certificate of title.
+-11-
+
+House Amendments to H.B. 2417
+1 3. Evidence that the vehicle is in compliance with the financial
+2 responsibility requirements of chapter 9, article 4 of this title.
+3 4. If the person is required by the department to install a
+4 certified ignition interlock device OR A SPEED INHIBITING DEVICE on the
+5 vehicle, proof of installation of a functioning certified ignition
+6 interlock device OR A SPEED INHIBITING DEVICE in the vehicle. The
+7 impounding agency, storage yard, facility, person or agency having
+8 physical possession of the vehicle shall allow access during normal
+9 business hours to the impounded vehicle for the purpose of installing a
+10 certified ignition interlock device OR A SPEED INHIBITING DEVICE. The
+11 impounding agency, storage yard, facility, person or agency having
+12 physical possession of the vehicle shall not charge any fee or require
+13 compensation for providing access to the vehicle or for the installation
+14 of the certified ignition interlock device OR THE SPEED INHIBITING DEVICE.
+15 H. The storage charges relating to the impoundment of a vehicle
+16 pursuant to this section shall be subject to a contractual agreement
+17 between the impounding agency and a towing firm for storage services
+18 pursuant to section 41-1830.51 and shall be $25 for each day of storage,
+19 including any time the vehicle remains in storage after the end of the
+20 impoundment period.
+21 I. The immobilizing or impounding agency shall have no lien or
+22 possessory interest in a stolen vehicle if the theft was reported to the
+23 appropriate law enforcement agency. The immobilizing or impounding agency
+24 shall release the vehicle to the owner or person other than the owner as
+25 identified in subsection D of this section even if the operator at the
+26 time of immobilization or impoundment has not paid all immobilization,
+27 towing, storage and administrative charges.
+28 J. A person who enters into an agreement pursuant to subsection A,
+29 paragraph 5 of this section and who allows another person to operate the
+30 vehicle in violation of the agreement is responsible for a civil traffic
+31 violation and shall pay a civil penalty of at least $250.
+32 K. A person described in subsection D, paragraph 1 of this section
+33 who violates subsection E of this section is responsible for a civil
+34 traffic violation and shall pay a civil penalty of at least $250.
+35 L. For the purposes of this section: ,
+36 1. "Certified ignition interlock device" has the same meaning
+37 prescribed in section 28-1301.
+38 2. "SPEED INHIBITING DEVICE" HAS THE SAME MEANING PRESCRIBED IN
+39 SECTION 28-711.
+-12-
+
+House Amendments to H.B. 2417
+1 Sec. 5. Section 28-4848, Arizona Revised Statutes, is amended to
+2 read:
+3 28-4848. Access to vehicle; ignition interlock service
+4 provider; speed inhibiting device manufacturer;
+5 lienholder; fee prohibited; violation;
+6 classification
+7 A. A towing company, storage yard, facility or person that has
+8 physical possession of a vehicle that was removed pursuant to section
+9 9-499.05, 11-251.04 or 28-872, that was impounded pursuant to chapter 8,
+10 article 9 of this title or that was abandoned shall provide access during
+11 normal business hours to a person who presents evidence that the person
+12 either:
+13 1. Is certified by the department as an ignition interlock device
+14 OR A SPEED INHIBITING DEVICE manufacturer or ignition interlock service
+15 provider and requires access to the vehicle for the purpose of removing
+16 the device from the vehicle.
+17 2. Is listed as a lienholder on the department’s records for the
+18 vehicle and requires access to the vehicle for the purpose of assessing
+19 the condition of the vehicle.
+20 B. After complying with subsection C of this section, an ignition
+21 interlock device OR A SPEED INHIBITING DEVICE manufacturer or ignition
+22 interlock service provider or a lienholder who is denied access to a
+23 vehicle by a towing company, storage yard, facility or person that has
+24 physical possession of the vehicle may report the denial to the impounding
+25 agency or a law enforcement agency that has jurisdiction in the city or
+26 county in which the vehicle is being stored and may submit a written
+27 request for assistance as prescribed by the impounding agency or law
+28 enforcement agency to obtain access to the vehicle for the purposes
+29 prescribed in this section. The impounding agency or the law enforcement
+30 agency shall provide assistance to the lienholder in obtaining access to
+31 the vehicle within five business days after the date the written request
+32 is received by the impounding agency or law enforcement agency.
+33 C. A towing company, storage yard, facility or person that has
+34 physical possession of a vehicle as prescribed in subsection A of this
+35 section shall provide access during normal business hours to an ignition
+36 interlock device OR A SPEED INHIBITING DEVICE manufacturer or ignition
+37 interlock service provider or lienholder who submits a request for access
+38 to a vehicle. The request for access shall be in writing, shall contain
+39 the name, address and telephone number of the person making the request
+40 for access to the vehicle and either:
+41 1. For a lienholder, shall include a copy of a signed contract,
+42 loan agreement or credit agreement indicating the vehicle owner’s name,
+43 the vehicle identification number, the vehicle make and model or other
+44 identifying indicia or a certified record issued by the department listing
+45 the person as a lienholder.
+46 2. For an ignition interlock device OR A SPEED INHIBITING DEVICE
+47 manufacturer or ignition interlock service provider, shall include a copy
+-13-
+
+House Amendments to H.B. 2417
+1 of a signed contract identifying the make and model or serial number of
+2 the ignition interlock device OR THE SPEED INHIBITING DEVICE, the make and
+3 model of the vehicle or the vehicle identification number of the vehicle
+4 in which the device is installed.
+5 D. If the vehicle owner does not inspect the vehicle before removal
+6 of the ignition interlock device OR THE SPEED INHIBITING DEVICE by the
+7 manufacturer or ignition interlock service provider, or has inspected the
+8 vehicle and has had the opportunity to remove personal property in the
+9 vehicle, a rebuttable presumption is created that damage to the vehicle
+10 and any loss of personal property in the vehicle occurred while the
+11 vehicle was not in the custody of the towing company, storage yard,
+12 facility or person that has physical possession of the vehicle. The
+13 presumption may be overcome by a preponderance of evidence to the
+14 contrary.
+15 E. This section does not create a cause of action or a right to
+16 bring an action against a towing company, storage yard, facility or person
+17 that has physical possession of the vehicle for allowing access to a
+18 vehicle to a person other than the owner if the written request as
+19 prescribed in this section is provided to the towing company, storage
+20 yard, facility or person that has physical possession of the vehicle.
+21 F. A towing company, storage yard, facility or person that has
+22 physical possession of a vehicle shall not charge a fee or require or
+23 request any compensation for providing access to a vehicle pursuant to
+24 this section.
+25 G. A person who violates this section is guilty of a class 2
+26 misdemeanor.
+27 Sec. 6. Effective date
+28 This act is effective from and after June 30, 2027.
+29 Enroll and engross to conform
+30 Amend title to conform
+QUANG H. NGUYEN
+2417FloorNGUYEN.docx
+02/12/2026
+08:49 PM
+H: NM/ls
+130YFJBTB
+-14-

@@ -1,0 +1,618 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Shope flr amend (ref House Engrossed Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2096
+Shope ADD COW Floor Amendment
+Reference to: House engrossed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Requires, a county to coordinate with the Arizona Department of Environmental Quality (ADEQ)
+to ensure that each project that has received financial assistance, including forgivable principal, is
+consistent with either the county's water quality management plan or ADEQ's nonpoint source
+management plan, rather than only the county's water quality management plan.
+2. Modifies the definition of nonpoint source project to include Arizona's nonpoint source
+management plan developed pursuant to the Clean Water Act and approved by the U.S.
+Environmental Protection Agency.
+3. Defines Clean Water Act as the Federal Water Pollution Control Act Amendments of 1972, as
+amended by the Water Quality Act of 1987.
+4. Makes conforming changes.
+Amendment explanation prepared by Nicholas Gustoff
+04/20/2026
+
+Fifty-seventh Legislature Shope
+Second Regular Session H.B. 2096
+ADDITIONAL COW
+SHOPE FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2096
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 11-671, Arizona Revised Statutes, is amended to
+3 read:
+4 11-671. Financing wastewater treatment facilities and
+5 nonpoint source projects; financial assistance loan
+6 repayment agreements; financial assistance;
+7 definitions
+8 A. Notwithstanding any other law, a county THAT IS authorized to
+9 operate a sewage system pursuant to section 11-264 OR THAT IDENTIFIES AND
+10 REMEDIATES A CESSPOOL PURSUANT TO SUBSECTION G OF THIS SECTION may
+11 construct or improve a wastewater treatment facility or nonpoint source
+12 project with monies borrowed from or financial assistance provided by the
+13 water infrastructure finance authority of Arizona.
+14 B. To repay financial assistance from the water infrastructure
+15 finance authority of Arizona, a county may enter into a financial
+16 assistance loan repayment agreement with the authority. A financial
+17 assistance loan repayment agreement is payable from any revenues otherwise
+18 authorized by law to be used to pay long-term obligations. If revenue
+19 from a property tax assessment is the designated source of repayment under
+20 the agreement, the property tax assessed and levied is a secondary
+21 property tax levy for THE purposes of article IX, Constitution of Arizona.
+22 C. The county board of supervisors shall submit the question of
+23 entering and performing a financial assistance loan repayment agreement to
+24 the qualified electors voting at a regular or special general election in
+25 the county, except that if revenue from a secondary property tax levy is
+26 the designated source of repayment or if the project is constructed with
+27 an improvement district, the question shall be submitted to the qualified
+28 electors at an election held on the first Tuesday following the first
+
+Senate Amendments to H.B. 2096
+1 Monday in November. Otherwise, an election is not required if voter
+2 approval has previously been obtained for substantially the same project
+3 with another funding source. If a majority of the qualified electors
+4 voting on the question:
+5 1. Approves, the board of supervisors may execute, deliver and
+6 perform the financial assistance loan repayment agreement.
+7 2. Disapproves, the board of supervisors shall not execute a
+8 financial assistance loan repayment agreement.
+9 D. Payments made pursuant to a financial assistance loan repayment
+10 agreement are not subject to section 42-17106.
+11 E. A financial assistance loan repayment agreement entered into
+12 pursuant to this section shall contain the covenants and conditions
+13 pertaining to the construction of a wastewater treatment facility or
+14 nonpoint source project and repayment of the loan as the water
+15 infrastructure finance authority of Arizona deems proper. Financial
+16 assistance loan repayment agreements may provide for the payment of
+17 interest on the unpaid principal balance of such agreement at the rates
+18 established in the agreement. The agreement may also provide for payment
+19 of the county's proportionate share of the expenses of administering the
+20 clean water revolving fund established by section 49-1221 and may provide
+21 that the county pay financing and loan administration fees approved by the
+22 water infrastructure finance authority OF ARIZONA. These costs may be
+23 included in the levy or assessment amounts pledged to repay the financial
+24 assistance. Counties are bound by and shall fully perform the FINANCIAL
+25 ASSISTANCE loan repayment agreements, and the agreements are incontestable
+26 after the loan is funded by the water infrastructure finance authority of
+27 Arizona. The county shall also agree to pay the authority's costs in
+28 issuing bonds or otherwise borrowing to fund a loan.
+29 F. A financial assistance loan repayment agreement under this
+30 section does not create a debt of the county, and the authority shall not
+31 require that payment of a financial assistance loan agreement be made from
+32 other than those sources permitted ALLOWED in subsection B of this
+33 section.
+34 G. A COUNTY MAY APPLY FOR AND RECEIVE FINANCIAL ASSISTANCE,
+35 INCLUDING FORGIVABLE PRINCIPAL, FROM THE WATER INFRASTRUCTURE FINANCE
+36 AUTHORITY OF ARIZONA FOR THE REMEDIATION, CLOSURE OR REPLACEMENT OF
+37 CESSPOOLS THAT PRESENT A DEMONSTRATED RISK TO SURFACE WATER, GROUNDWATER
+38 OR PUBLIC HEALTH. THE WATER INFRASTRUCTURE FINANCE AUTHORITY OF ARIZONA
+39 MAY AWARD FINANCIAL ASSISTANCE, INCLUDING FORGIVABLE PRINCIPAL, USING
+40 MONIES FROM THE CLEAN WATER REVOLVING FUND ESTABLISHED BY SECTION 49-1221
+41 OR THE DRINKING WATER REVOLVING FUND ESTABLISHED BY SECTION 49-1241.
+42 FINANCIAL ASSISTANCE, INCLUDING FORGIVABLE PRINCIPAL, RECEIVED PURSUANT TO
+43 THIS SUBSECTION MAY BE USED ONLY FOR PROJECTS THAT ELIMINATE EXISTING
+44 CESSPOOLS AND REPLACE THE EXISTING CESSPOOL WITH AN ON-SITE WASTEWATER
+45 SYSTEM THAT IS APPROVED BY THE DEPARTMENT OF ENVIRONMENTAL QUALITY OR THAT
+-2-
+
+Senate Amendments to H.B. 2096
+1 HAS A CONNECTION TO A WASTEWATER TREATMENT FACILITY. A COUNTY THAT
+2 RECEIVES FINANCIAL ASSISTANCE, INCLUDING FORGIVABLE PRINCIPAL, PURSUANT TO
+3 THIS SUBSECTION SHALL PRIORITIZE THE REMEDIATION, CLOSURE OR REPLACEMENT
+4 OF CESSPOOLS THAT ARE LOCATED WITHIN AREAS OF KNOWN GROUNDWATER
+5 VULNERABILITY, THAT ARE NEAR SURFACE WATERS OR THAT ARE IN COMMUNITIES
+6 WITH LOW-TO-MODERATE INCOME HOUSEHOLDS. A COUNTY MAY ESTABLISH
+7 INCOME-BASED ELIGIBILITY CRITERIA FOR OWNER-OCCUPIED PROPERTIES BUT MAY
+8 NOT APPLY MEANS TESTING TO THE REMEDIATION OF ABANDONED OR UNINHABITABLE
+9 PROPERTIES. A COUNTY SHALL COORDINATE WITH THE DEPARTMENT OF
+10 ENVIRONMENTAL QUALITY TO ENSURE THAT EACH PROJECT THAT HAS RECEIVED
+11 FINANCIAL ASSISTANCE, INCLUDING FORGIVABLE PRINCIPAL, PURSUANT TO THIS
+12 SUBSECTION IS CONSISTENT WITH THE COUNTY'S WATER QUALITY MANAGEMENT PLAN
+13 [OR THE DEPARTMENT OF ENVIRONMENT QUALITY'S NONPOINT SOURCE MANAGEMENT
+14 PLAN DEVELOPED PURSUANT TO SECTION 319 OF THE CLEAN WATER ACT]. A COUNTY
+15 THAT RECEIVES FINANCIAL ASSISTANCE, INCLUDING FORGIVABLE PRINCIPAL,
+16 PURSUANT TO THIS SUBSECTION IS NOT REQUIRED TO OBTAIN VOTER APPROVAL TO
+17 ACCEPT THE FINANCIAL ASSISTANCE, INCLUDING FORGIVABLE PRINCIPAL.
+18 G. H. A county may employ attorneys, accountants, financial
+19 consultants and such other experts in their field as deemed necessary to
+20 perform services with respect to the financial assistance loan repayment
+21 agreement.
+22 H. I. This section is supplemental and alternative to any other
+23 law under which a county may borrow money MONIES or issue bonds. This
+24 section shall IS not be construed as the exclusive authorization to enter
+25 into loan agreements with the authority.
+26 I. J. A county may borrow additional monies or enter into
+27 additional financial assistance loan repayment agreements with the water
+28 infrastructure finance authority OF ARIZONA in an amount up to the amount
+29 approved by the voters pursuant to subsection C of this section less the
+30 amount that the county is already obligated to repay to the water
+31 infrastructure finance authority OF ARIZONA pursuant to a financial
+32 assistance loan repayment agreement.
+33 J. K. For THE purposes of this section[:] [, ]
+34 [1. "CLEAN WATER ACT" HAS THE SAME MEANING PRESCRIBED IN SECTION
+35 49-1201.]
+36 [2.] "Nonpoint source project" has the same meaning as prescribed
+37 in section 49-1201.
+38 <<Sec. 2. Section 49-1201, Arizona Revised Statutes, is amended to
+39 read:
+40 49-1201. Definitions
+41 In this chapter, unless the context otherwise requires:
+42 1. "Authority" means the water infrastructure finance authority of
+43 Arizona.
+44 2. "Board" means the water infrastructure finance authority board
+45 established by section 49-1206.
+-3-
+
+Senate Amendments to H.B. 2096
+1 3. "Bonds of a political subdivision" means bonds issued by a
+2 political subdivision as authorized by law.
+3 4. "Clean water act" means the federal water pollution control act
+4 amendments of 1972 (P.L. 92-500; 86 Stat. 816), as amended by the water
+5 quality act of 1987 (P.L. 100-4; 101 Stat. 7).
+6 5. "Concession agreement" means any lease, ground lease, franchise,
+7 easement, permit or other binding agreement transferring rights for the
+8 use or control, in whole or in part, of water-related facilities by the
+9 authority to a private partner in accordance with this chapter.
+10 6. "Drinking water facility":
+11 (a) Means a community water system or a nonprofit noncommunity
+12 water system as defined in the safe drinking water act of 1974
+13 (P.L. 93-523; 88 Stat. 1660; P.L. 95-190; 91 Stat. 1393; P.L. 104-182; 110
+14 Stat. 1613) that is located in this state.
+15 (b) Does not include water systems owned by federal agencies.
+16 7. "Financial assistance loan repayment agreement" means an
+17 agreement to repay a loan provided to design, construct, acquire,
+18 rehabilitate or improve water or wastewater infrastructure, related
+19 property and appurtenances or a loan provided to finance a water supply
+20 development project.
+21 8. "Imported water" means any water that originates outside of this
+22 state and that is made available to water users within this state by
+23 conveyance or exchange or otherwise through projects that are funded or
+24 financed in whole or in part with monies from the long-term water
+25 augmentation fund.
+26 9. "Import water" means to make water originating outside of this
+27 state available to water users within this state by conveyance or exchange
+28 or otherwise through projects that are funded or financed in whole or in
+29 part with monies from the long-term water augmentation fund.
+30 10. "Indian tribe" means any Indian tribe, band, group or community
+31 that is recognized by the United States secretary of the interior and that
+32 exercises governmental authority within the limits of any Indian
+33 reservation under the jurisdiction of the United States government,
+34 notwithstanding the issuance of any patent and including rights-of-way
+35 running through the reservation.
+36 11. "Long-term water augmentation bonds" means bonds that are
+37 issued by the authority in accordance with article 4 of this chapter.
+38 12. "Long-term water augmentation fund" means the fund established
+39 by section 49-1302.
+40 13. "Nonpoint source project" means a project designed to implement
+41 a certified water quality management plan [OR THIS STATE'S NONPOINT SOURCE
+42 MANAGEMENT PLAN THAT IS DEVELOPED PURSUANT TO SECTION 319 OF THE CLEAN
+43 WATER ACT AND APPROVED BY THE UNITED STATES ENVIRONMENTAL PROTECTION
+44 AGENCY].
+-4-
+
+Senate Amendments to H.B. 2096
+1 14. "Political subdivision" means a county, city, town or special
+2 taxing district authorized by law to construct wastewater treatment
+3 facilities, drinking water facilities or nonpoint source projects.
+4 15. "Private partner" means a person, entity or organization that
+5 is not the federal government, this state or a political subdivision of
+6 this state.
+7 16. "Public-private partnership project" means any water supply
+8 development project that is the subject of a public-private partnership
+9 agreement in accordance with this chapter.
+10 17. "Safe drinking water act" means the federal safe drinking water
+11 act of 1974 (P.L. 93-523; 88 Stat. 1660; P.L. 95-190; 91 Stat. 1393;
+12 P.L. 104-182; 110 Stat. 1613), as amended in 1996.
+13 18. "Technical assistance loan repayment agreement" means either of
+14 the following:
+15 (a) An agreement to repay a loan provided to develop, plan and
+16 design water or wastewater infrastructure, related property and
+17 appurtenances. The agreement shall be for a term of not more than three
+18 years and the maximum amount that may be borrowed is limited to not more
+19 than $500,000.
+20 (b) An agreement to repay a loan provided to develop, plan or
+21 design a water supply development project.
+22 19. "Wastewater treatment facility" means a treatment works, as
+23 defined in section 212 of the clean water act, that is located in this
+24 state and that is designed to hold, cleanse or purify or to prevent the
+25 discharge of untreated or inadequately treated sewage or other polluted
+26 waters for purposes of complying with the clean water act.
+27 20. "Water provider" means any of the following:
+28 (a) A municipal water delivery system as defined in section
+29 42-5301.
+30 (b) A county water augmentation authority established under
+31 title 45, chapter 11.
+32 (c) A county water authority established under title 45,
+33 chapter 13.
+34 (d) An Indian tribe.
+35 (e) A community facilities district as established by title 48,
+36 chapter 4.
+37 (f) A public water system as prescribed in section 49-352.
+38 (g) A county with a population of less than three hundred thousand
+39 persons.
+40 (h) A natural resource conservation district.
+41 (i) For purposes of funding from the water supply development
+42 revolving fund pursuant to article 3 of this chapter only, a county that
+43 enters into an intergovernmental agreement or other formal written
+44 agreement with a city, town or other water provider regarding a water
+45 supply development project.
+-5-
+
+Senate Amendments to H.B. 2096
+1 21. "Water-related facilities" means any facility related to the
+2 production, delivery, conservation or storage of water, including any
+3 canals, pipelines, desalination plants, pumping stations, storage
+4 projects, recovery wells, delivery and retention projects, water and
+5 wastewater treatment plants, and other equipment and facilities installed
+6 for water conservation purposes, together with any land, buildings or
+7 other improvements and equipment or personal property related thereto.
+8 22. "Water supply development" means any of the following:
+9 (a) Acquiring water or rights to or contracts for water to augment
+10 the water supply of a water provider, including any environmental or other
+11 reviews, permits or plans reasonably necessary for that acquisition.
+12 (b) Planning, designing, building or developing water-related
+13 facilities, including any environmental or other reviews, permits or plans
+14 reasonably necessary for those facilities, for any of the following
+15 purposes:
+16 (i) Conveyance or delivery of water.
+17 (ii) Storage or recovery of water under title 45, chapter 3.1.
+18 (iii) Reclamation, remediation and reuse of water, including by a
+19 reclamation or remediation project that is approved by the United States
+20 environmental protection agency and that increases the availability of
+21 water.
+22 (iv) Replenishment of groundwater.
+23 (v) Active or passive stormwater recharge structures that increase
+24 water supplies.
+25 (c) Conservation through reducing existing water use or more
+26 efficient uses of existing water supplies.>>
+27 Sec. 3. Section 49-1203, Arizona Revised Statutes, is amended to
+28 read:
+29 49-1203. Powers and duties of authority; definition
+30 A. The authority is a corporate and politic body and shall have an
+31 official seal that shall be judicially noticed. The authority may sue and
+32 be sued, contract and acquire, hold, operate and dispose of property.
+33 Notwithstanding any other law and unless expressly waived by the
+34 authority, the authority is not subject to any statutory requirement to
+35 pay another party's attorney fees or costs in any administrative or
+36 judicial proceeding. The authority is not a public service corporation
+37 subject to regulation by the corporation commission.
+38 B. The authority, through its board, may:
+39 1. Issue negotiable water quality bonds pursuant to section 49-1261
+40 for the following purposes:
+41 (a) To generate the state match required by the clean water act for
+42 the clean water revolving fund and to generate the match required by the
+43 safe drinking water act for the drinking water revolving fund.
+44 (b) To provide financial assistance to political subdivisions,
+45 Indian tribes and eligible drinking water facilities for constructing,
+-6-
+
+Senate Amendments to H.B. 2096
+1 acquiring or improving wastewater treatment facilities, drinking water
+2 facilities, nonpoint source projects and other related water quality
+3 facilities and projects.
+4 2. Issue water supply development bonds for the purpose of
+5 providing financial assistance to eligible entities for water supply
+6 development purposes pursuant to sections 49-1274 and 49-1275.
+7 3. Provide financial assistance to political subdivisions and
+8 Indian tribes from monies in the clean water revolving fund to finance
+9 wastewater treatment projects.
+10 4. Provide financial assistance to drinking water facilities from
+11 monies in the drinking water revolving fund to finance these facilities.
+12 5. Provide financial assistance from monies in the water supply
+13 development revolving fund to finance water supply development as
+14 prescribed by this article.
+15 6. Guarantee debt obligations of, and provide linked deposit
+16 guarantees through third-party lenders to:
+17 (a) Political subdivisions that are issued to finance wastewater
+18 treatment projects.
+19 (b) Drinking water facilities that are issued to finance these
+20 facilities.
+21 7. Provide linked deposit guarantees through third-party lenders to
+22 political subdivisions and drinking water facilities.
+23 8. Apply for, accept and administer grants and other financial
+24 assistance from the United States government and from other public and
+25 private sources.
+26 9. Enter into capitalization grant agreements with the United
+27 States environmental protection agency.
+28 10. Adopt rules pursuant to title 41, chapter 6 governing the
+29 application for and awarding of wastewater treatment facility, drinking
+30 water facility and nonpoint source project financial assistance under this
+31 chapter, administering the clean water revolving fund and the drinking
+32 water revolving fund and issuing water quality bonds.
+33 11. Hire a director who serves at the pleasure of the board and who
+34 shall hire staff for the authority. The board may prescribe the terms and
+35 conditions of the director's and staff's employment as necessary to carry
+36 out the purposes of the authority. The board shall adopt written
+37 policies, procedures and guidelines, similar to those adopted by the
+38 department of administration, regarding officer and employee compensation,
+39 observed holidays, leave and reimbursement of travel expenses. The
+40 officers and employees of the authority may participate in the ARIZONA
+41 state retirement system prescribed ESTABLISHED by title 38, chapter 5,
+42 article 2, and the board, consistent with section 38-656, subsection A,
+43 may provide that the authority's officers and employees participate in the
+44 state employee health, disability and accident insurance prescribed by
+45 title 38, chapter 4, article 4. The officers and employees of the
+-7-
+
+Senate Amendments to H.B. 2096
+1 authority are exempt from any laws regulating state employment, including
+2 the following:
+3 (a) Title 41, chapter 4, article 4, relating to the state personnel
+4 system.
+5 (b) Title 41, chapter 4, articles 5 and 6, relating to state
+6 service.
+7 12. Contract for or employ the services of outside advisors,
+8 attorneys, engineers, financial and other consultants and aides reasonably
+9 necessary or desirable to allow the authority to adequately perform its
+10 duties.
+11 13. Contract and incur obligations as reasonably necessary or
+12 desirable within the general scope of authority activities and operations
+13 to allow the authority to adequately perform its duties.
+14 14. Assess financial assistance origination fees and annual fees to
+15 cover the reasonable costs of administering the authority and the monies
+16 administered by the authority. Any fees collected pursuant to this
+17 paragraph constitute governmental revenue and may be used for any purpose
+18 consistent with the mission and objectives of the authority.
+19 15. Perform any function of a fund manager under the CERCLA
+20 Brownfields cleanup revolving loan fund program as requested by the
+21 department. The board shall perform any action authorized under this
+22 article on behalf of the Brownfields cleanup revolving loan fund program
+23 established pursuant to chapter 2, article 1.1 of this title at the
+24 request of the department. In order to perform these functions, the board
+25 shall enter into a written agreement with the department.
+26 16. Provide grants, staff assistance or technical assistance in the
+27 form of loan repayment agreements and other professional assistance to
+28 political subdivisions, any county with a population of less than five
+29 hundred thousand persons, Indian tribes and community water systems in
+30 connection with developing or financing wastewater, drinking water, water
+31 reclamation or related water infrastructure. Assistance provided under a
+32 technical assistance loan repayment agreement shall be in a form and under
+33 terms determined by the authority and shall be repaid not more than three
+34 years after the date that the monies are advanced to the applicant.
+35 Technical assistance provided by the authority does not create any
+36 liability for the authority or this state regarding designing,
+37 constructing or operating any infrastructure project.
+38 17. Provide grants, staff assistance or technical assistance in the
+39 form of loan repayment agreements and other professional assistance in
+40 accordance with section 49-1273. Assistance provided under a technical
+41 assistance loan repayment agreement shall be repaid not more than three
+42 years after the date that the monies are advanced to the applicant.
+43 Technical assistance provided by the authority does not create any
+44 liability for the authority or this state regarding designing,
+45 constructing or operating any water supply development project.
+-8-
+
+Senate Amendments to H.B. 2096
+1 18. AWARD FINANCIAL ASSISTANCE, INCLUDING FORGIVABLE PRINCIPAL, FOR
+2 THE REMEDIATION, CLOSURE OR REPLACEMENT OF CESSPOOLS PURSUANT TO SECTION
+3 11-671, SUBSECTION G.
+4 C. The authority may adopt rules pursuant to title 41, chapter 6
+5 governing the application for and awarding of assistance under this
+6 chapter and the administration of the funds established by this chapter.
+7 D. The board shall deposit, pursuant to sections 35-146 and 35-147,
+8 any monies received pursuant to subsection B, paragraph 8 of this section
+9 in the appropriate fund as prescribed by the grant or other financial
+10 assistance agreement.
+11 E. The authority is not subject to title 41, chapter 23. In
+12 coordination with the department of administration, the authority shall
+13 establish procurement procedures by rule to administer the long-term water
+14 augmentation fund.
+15 F. For the purposes of the safe drinking water act and the clean
+16 water act, the department is the state agency with primary responsibility
+17 for administering this state's public water system supervision program and
+18 water pollution control program and, in consultation with other
+19 appropriate state agencies as appropriate, is the lead agency in
+20 establishing assistance priorities as prescribed by section 49-1224,
+21 subsection B, paragraph 3, section 49-1243, subsection A, paragraph 6 and
+22 section 49-1244, subsection B, paragraph 3.
+23 G. For the purposes of this section, "CERCLA" has the same meaning
+24 prescribed in section 49-201.
+25 Sec. 4. Section 49-1204, Arizona Revised Statutes, is amended to
+26 read:
+27 49-1204. Annual audit and report
+28 A. The board shall cause an audit to be made of the funds
+29 administered by the authority. The audit shall be conducted by a
+30 certified public accountant within one hundred twenty days after the end
+31 of the fiscal year. The board shall immediately file a certified copy of
+32 the audit with the auditor general.
+33 B. The auditor general may make any further audits and examinations
+34 as deemed necessary and may take appropriate action relating to the audit
+35 or examination pursuant to title 41, chapter 7, article 10.1. If the
+36 auditor general takes no official action within twenty days after the
+37 audit is filed, the audit is deemed sufficient.
+38 C. The board shall pay any fees and costs of the certified public
+39 accountant and auditor general under this section from the funds
+40 administered by the board.
+41 D. Not later than January 1 of each year the board shall make an
+42 annual report of its activities, including a copy of the annual audit, to
+43 the governor, the president of the senate and the speaker of the house of
+44 representatives.
+-9-
+
+Senate Amendments to H.B. 2096
+1 E. IN ADDITION TO THE REPORTING REQUIREMENTS OF SUBSECTION D OF
+2 THIS SECTION, NOT LATER THAN JANUARY 1 OF EACH YEAR, THE BOARD SHALL MAKE
+3 AN ANNUAL REPORT THAT SUMMARIZES FINANCIAL ASSISTANCE, INCLUDING
+4 FORGIVABLE PRINCIPAL, AWARDED BY THE BOARD PURSUANT TO SECTION 11-671,
+5 SUBSECTION G. THE REPORT SHALL INCLUDE ALL OF THE FOLLOWING:
+6 1. THE NUMBER AND LOCATION OF CESSPOOLS THAT HAVE BEEN REMEDIATED
+7 OR REPLACED USING FINANCIAL ASSISTANCE, INCLUDING FORGIVABLE PRINCIPAL.
+8 2. THE TOTAL AMOUNT OF FINANCIAL ASSISTANCE, INCLUDING FORGIVABLE
+9 PRINCIPAL, THAT WAS AWARDED AND FORGIVEN.
+10 3. RECOMMENDATIONS FOR IMPROVING THE ADMINISTRATION OF FINANCIAL
+11 ASSISTANCE, INCLUDING FORGIVABLE PRINCIPAL, THAT IS AWARDED FOR THE
+12 REMEDIATION, CLOSURE OR REPLACEMENT OF CESSPOOLS PURSUANT TO SECTION
+13 11-671, SUBSECTION G.
+14 Sec. 5. Section 49-1223, Arizona Revised Statutes, is amended to
+15 read:
+16 49-1223. Clean water revolving fund; purposes; capitalization
+17 grants
+18 A. Monies in the clean water revolving fund may be used for the
+19 following purposes:
+20 1. Making wastewater treatment facility and nonpoint source project
+21 loans to political subdivisions and Indian tribes under section 49-1225.
+22 2. Purchasing or refinancing debt obligations of political
+23 subdivisions or refinancing debt obligations of Indian tribes at or below
+24 market rates, provided that the debt obligation was issued after March 7,
+25 1985 for the purpose of constructing, acquiring or improving wastewater
+26 treatment facilities or nonpoint source projects.
+27 3. Providing financial assistance to political subdivisions to
+28 purchase insurance for local wastewater treatment facility or nonpoint
+29 source project bond obligations.
+30 4. Paying the costs to administer the fund, but no more than four
+31 per cent of the aggregate of federal capitalization grants may be used to
+32 pay these costs. Monies from other sources may be used without limit to
+33 pay these costs.
+34 5. Funding other programs that are authorized for federal monies
+35 deposited in the fund including programs relating to nonpoint source
+36 discharges.
+37 6. Providing linked deposit guarantees through third party lenders
+38 by depositing monies with the lender on the condition that the lender make
+39 a loan on terms approved by the board, at a rate of return on the deposit
+40 approved by the board and the state treasurer and by giving the lender
+41 recourse against the deposit of loan repayments that are not made when
+42 due.
+43 7. FUNDING OF FINANCIAL ASSISTANCE, INCLUDING FORGIVABLE PRINCIPAL,
+44 THAT IS AWARDED PURSUANT TO SECTION 11-671, SUBSECTION G.
+-10-
+
+Senate Amendments to H.B. 2096
+1 B. If the monies pledged to secure water quality bonds become
+2 insufficient to pay the principal and interest on the water quality bonds
+3 that are guaranteed by the clean water revolving fund, the board shall
+4 direct the state treasurer to liquidate securities in the fund as may be
+5 necessary and apply those proceeds to make current all payments then due
+6 on the bonds. The state treasurer shall immediately notify the attorney
+7 general and auditor general of the insufficiency. The auditor general
+8 shall audit the circumstances surrounding the depletion of the fund and
+9 report the findings to the attorney general. The attorney general shall
+10 conduct an investigation and report those findings to the governor and the
+11 legislature.
+12 C. All proceeds of capitalization grants received from the United
+13 States pursuant to the clean water act shall be deposited in the
+14 capitalization grant transfer account and shall be used solely to provide
+15 financial assistance to political subdivisions and Indian tribes to
+16 construct, acquire, restore or rebuild wastewater treatment facilities, to
+17 purchase bond insurance or for any other purpose permitted by the clean
+18 water act including nonpoint source projects. All principal received on
+19 loan repayments made by borrowers pursuant to this section shall be
+20 deposited in the clean water revolving fund and shall be invested and used
+21 to provide additional financial assistance or shall be used to support the
+22 administration of the fund subject to the limits prescribed by the clean
+23 water act.
+24 Sec. 6. Section 49-1243, Arizona Revised Statutes, is amended to
+25 read:
+26 49-1243. Drinking water revolving fund; purposes;
+27 capitalization grants
+28 A. Monies in the drinking water revolving fund may be used for the
+29 following purposes:
+30 1. Making drinking water facility loans, including forgivable
+31 principal, to political subdivisions of this state, Indian tribes under
+32 section 49-1245 and other eligible entities as determined by the board
+33 pursuant to the safe drinking water act.
+34 2. Making drinking water facility loans under section 49-1244.
+35 3. Purchasing or refinancing debt obligations of drinking water
+36 facilities at or below market rate if the debt obligation was issued after
+37 July 1, 1993 for the purpose of constructing, acquiring or improving
+38 drinking water facilities.
+39 4. Providing financial assistance to drinking water facilities to
+40 purchase insurance for local drinking water facility bond obligations.
+41 5. Paying the costs to administer the fund but not more than four
+42 per cent of the aggregate of federal capitalization grants may be used to
+43 pay these costs. Monies from other sources may be used without limit to
+44 pay these costs.
+-11-
+
+Senate Amendments to H.B. 2096
+1 6. Funding other programs that are authorized pursuant to the safe
+2 drinking water act.
+3 7. Providing linked deposit guarantees through third party lenders
+4 by depositing monies with the lender on the condition that the lender make
+5 a loan on terms approved by the board, at a rate of return on the deposit
+6 approved by the board and the state treasurer and by giving the lender
+7 recourse against the deposit of loan repayments that are not made when
+8 due.
+9 8. FUNDING OF FINANCIAL ASSISTANCE, INCLUDING FORGIVABLE PRINCIPAL,
+10 THAT IS AWARDED PURSUANT TO SECTION 11-671, SUBSECTION G.
+11 B. If the monies pledged to secure water quality bonds become
+12 insufficient to pay the principal and interest on the water quality bonds
+13 guaranteed by the drinking water revolving fund, the board shall direct
+14 the state treasurer to liquidate securities in the fund as may be
+15 necessary and shall apply those proceeds to make current all payments then
+16 due on the bonds. The state treasurer shall immediately notify the
+17 attorney general and auditor general of the insufficiency. The auditor
+18 general shall audit the circumstances surrounding the depletion of the
+19 fund and report the findings to the attorney general. The attorney
+20 general shall conduct an investigation and report those findings to the
+21 governor and the legislature.
+22 C. All proceeds of capitalization grants received from the United
+23 States pursuant to the safe drinking water act shall be deposited in the
+24 capitalization grant transfer account and shall be used solely to make
+25 loans to drinking water facilities to construct, acquire, restore or
+26 rebuild these facilities, to purchase bond insurance or for any other
+27 purpose permitted by the safe drinking water act. All principal received
+28 on loan repayments made by borrowers under this section shall be deposited
+29 in the drinking water revolving fund and shall be invested, used to
+30 provide financial assistance or used to support the administration of the
+31 fund subject to the limits defined in the safe drinking water act.
+32 Sec. 7. Legislative findings and intent
+33 A. The legislature finds and declares that:
+34 1. Cesspools have been prohibited for installation in Arizona since
+35 1976.
+36 2. Thousands of legacy cesspools remain in operation in certain
+37 counties and pose a direct and continuing threat to the public health and
+38 safety and groundwater quality.
+39 3. Remediation of cesspools represents a pressing public health
+40 need that is distinct from voluntary septic upgrades or private
+41 convenience improvements.
+42 4. Current Arizona law limits county eligibility for financial
+43 assistance to those counties that operate sewer systems.
+-12-
+
+Senate Amendments to H.B. 2096
+1 B. It is therefore the intent of the legislature to do both of the
+2 following:
+3 1. Authorize all counties to access financial assistance, including
+4 forgivable principal, that is administered by the water infrastructure
+5 finance authority of Arizona for the sole purpose of remediating or
+6 replacing cesspools that pose a verified public health or environmental
+7 risk.
+8 2. Ensure that this act shall have no financial impact on the state
+9 general fund. Financial assistance, including forgivable principal, shall
+10 be issued solely from the federally capitalized monies from the clean
+11 water revolving fund established by section 49-1221, Arizona Revised
+12 Statutes, and the drinking water revolving fund established by section
+13 49-1241, Arizona Revised Statutes, that are administered by the water
+14 infrastructure finance authority of Arizona.
+15 Enroll and engross to conform
+16 Amend title to conform
+THOMAS "T.J." SHOPE
+2096FloorSHOPE.docx
+04/17/2026
+11:06 AM
+C: CT
+130TGTQBF
+-13-

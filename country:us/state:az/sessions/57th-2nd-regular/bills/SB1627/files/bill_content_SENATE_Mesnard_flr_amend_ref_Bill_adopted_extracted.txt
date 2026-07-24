@@ -1,0 +1,148 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Mesnard flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Mesnard
+Second Regular Session S.B. 1627
+MESNARD FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1627
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-3729, Arizona Revised Statutes, is amended to
+3 read:
+4 13-3729. Unlawful operation of model or unmanned aircraft;
+5 classification; definitions
+6 A. It is unlawful for a person to operate a model aircraft or a
+7 civil unmanned aircraft if the operation:
+8 1. Is prohibited by a federal law or regulation that governs
+9 aeronautics, including federal aviation administration regulations.
+10 2. Interferes with a law enforcement, firefighter or emergency
+11 services operation.
+12 B. It is unlawful for a person to operate or use an unmanned
+13 aircraft or unmanned aircraft system to intentionally photograph or loiter
+14 over or near a critical facility in the furtherance of any criminal
+15 offense.
+16 [D.] [C.] IT IS UNLAWFUL FOR A PERSON TO OPERATE OR USE AN
+17 UNMANNED AIRCRAFT OR UNMANNED AIRCRAFT SYSTEM [IF THE OPERATION] [TO
+18 INTENTIONALLY PHOTOGRAPH OR LOITER OVER AN AREA THAT] IS WITHIN ONE
+19 HUNDRED FEET OF OR WITHIN ONE HUNDRED FEET ABOVE AN AREA THAT IS NOT ZONED
+20 FOR RESIDENTIAL USE AND THAT IS USED TO PROVIDE INSTRUCTION TO STUDENTS IN
+21 KINDERGARTEN PROGRAMS OR STUDENTS IN GRADES ONE THROUGH TWELVE UNLESS THE
+22 PERSON HAS LEGAL AUTHORITY [OR ADMINISTRATIVE OVERSIGHT] OVER THE AREA OR
+23 OBTAINS CONSENT FROM ANOTHER PERSON WITH LEGAL AUTHORITY [OR
+24 ADMINISTRATIVE OVERSIGHT] OVER THE AREA.
+25 [C.] [D.] Except as authorized by law, a city, town or county may
+26 not enact or adopt any ordinance, policy or rule that relates to the
+27 ownership or operation of an unmanned aircraft or unmanned aircraft system
+28 or otherwise engage in the regulation of the ownership or operation of an
+29 unmanned aircraft or an unmanned aircraft system. Any ordinance, policy
+
+Senate Amendments to S.B. 1627
+1 or rule that violates this subsection, whether enacted or adopted by the
+2 city, town or county before or after August 6, 2016, is void.
+3 D. E. This section does not:
+4 1. Apply to a person or entity that is authorized or allowed by the
+5 federal aviation administration to operate or use an unmanned aircraft
+6 system if the person's or entity's operation or use complies with the
+7 authorization granted to the person or entity or with federal aviation
+8 administration rules.
+9 2. Prohibit a city, town or county from enacting or adopting
+10 ordinances or rules on the operation or use of a public unmanned aircraft
+11 that is owned by the city, town or county.
+12 3. Prohibit a city, town or county from enacting or adopting
+13 ordinances or rules that regulate the takeoff or landing of a model
+14 aircraft in a park or preserve owned by the city, town or county if:
+15 (a) There are other parks or preserves that are within the city,
+16 town or county and that are available for model aircraft operation.
+17 (b) The city, town or county only has one park or preserve that is
+18 within the city, town or county.
+19 4. Apply to the operation of an unmanned aircraft, including a
+20 public unmanned aircraft, by a first responder as defined in section
+21 36-661 while acting in the first responder's official capacity or an
+22 emergency worker while engaged in or supporting authorized emergency
+23 management activities or performing emergency functions pursuant to title
+24 26, chapter 2.
+25 E. F. A violation of subsection B of this section is a class 6
+26 felony, except that a second or subsequent violation is a class 5 felony.
+27 A violation of subsection A OR [D] [C] of this section is a class 1
+28 misdemeanor.
+29 F. G. For the purposes of this section:
+30 1. "Civil unmanned aircraft" means an unmanned aircraft or unmanned
+31 aircraft system that is operated by a person for any purpose other than
+32 strictly for hobby or recreational purposes, including commercial
+33 purposes, or in furtherance of or incidental to any business or media
+34 service or agency.
+35 2. "Commercial purposes" means the use of an unmanned aircraft in
+36 return for financial compensation and includes aerial photography, aerial
+37 mapping or geospatial imaging.
+38 3. "Critical facility" means any of the following:
+39 (a) A petroleum or alumina refinery.
+40 (b) A petroleum, chemical or rubber production, transportation,
+41 storage or processing facility.
+42 (c) A chemical manufacturing facility.
+43 (d) A water or wastewater treatment facility and water development,
+44 distribution or conveyance system, including a dam.
+45 (e) An electric generation facility, as defined in section
+46 42-14156, and any associated substation or switchyard.
+47 (f) An electrical transmission or distribution substation.
+-2-
+
+Senate Amendments to S.B. 1627
+1 (g) An electrical transmission line of at least sixty-nine thousand
+2 volts.
+3 (h) An electronic communication station or tower.
+4 (i) An energy control center.
+5 (j) A distribution operating center.
+6 (k) A facility that transfers or distributes natural gas, including
+7 a compressor station, regulator station, city gate station or pressure
+8 limiting station or a liquefied natural gas facility or supplier tap
+9 facility.
+10 (l) Any railroad infrastructure or facility.
+11 (m) A federal, state, county or municipal court.
+12 (n) A public safety or emergency operation facility.
+13 (o) A federal, state, county or municipal jail or prison or other
+14 facility in which persons are incarcerated.
+15 (p) A federal or state military installation or facility.
+16 (q) A hospital that receives air ambulance services.
+17 4. "Model aircraft" has the same meaning prescribed in section 336
+18 of the FAA modernization and reform act of 2012 (P.L. 112-95), as amended
+19 MEANS AN UNMANNED AIRCRAFT THAT IS:
+20 (a) CAPABLE OF SUSTAINED FLIGHT IN THE ATMOSPHERE.
+21 (b) FLOWN WITHIN THE VISUAL LINE OF SIGHT OF THE PERSON OPERATING
+22 THE MODEL AIRCRAFT.
+23 (c) FLOWN FOR HOBBY OR RECREATIONAL PURPOSES.
+24 5. "Person" means a corporation, firm, partnership, association,
+25 individual or organization or any other group acting as a unit.
+26 6. "Public unmanned aircraft" means an unmanned aircraft or
+27 unmanned aircraft system that is operated by a public agency for a
+28 government-related purpose.
+29 7. "Unmanned aircraft" means an aircraft, including an aircraft
+30 commonly known as a drone, that is operated without the possibility of
+31 direct human intervention from within or on the aircraft.
+32 8. "Unmanned aircraft system" means an unmanned aircraft and
+33 associated elements, including any communication links and components that
+34 control the unmanned aircraft.
+35 Enroll and engross to conform
+36 Amend title to conform
+J.D. MESNARD
+1627FloorMESNARD.docx
+02/26/2026
+10:26 AM
+C: JV
+130XSYIVX
+-3-

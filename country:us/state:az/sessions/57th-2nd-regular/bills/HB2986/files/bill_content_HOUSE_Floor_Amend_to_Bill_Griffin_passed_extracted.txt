@@ -1,0 +1,402 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Griffin - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2986: department of environmental quality; programs
+GRIFFIN FLOOR AMENDMENT
+1. Makes technical changes.
+CORBIN W.
+2/24/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Griffin
+Second Regular Session H.B. 2986
+GRIFFIN FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2986
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 44-1322, Arizona Revised Statutes, is amended to
+3 read:
+4 44-1322. Disposal of lead acid batteries
+5 A. The disposal of lead acid batteries in landfills and the
+6 incineration of those batteries is prohibited.
+7 B. An owner or operator of a solid waste disposal facility shall
+8 not knowingly accept a lead acid battery for disposal.
+9 C. A lead acid battery shall be discarded or disposed of only as
+10 follows:
+11 1. A lead acid battery retailer or wholesaler may deliver a lead
+12 acid battery to any one of the following:
+13 (a) A permitted secondary lead smelter.
+14 (b) A battery manufacturer.
+15 (c) A collection or recycling facility authorized by the federal
+16 environmental protection agency or the department of environmental
+17 quality.
+18 (d) In the case of battery retailers only, an agent of a battery
+19 wholesaler.
+20 2. A person other than a lead acid battery retailer or wholesaler
+21 may deliver a lead acid battery to any one of the following:
+22 (a) A lead acid battery retailer or wholesaler.
+23 (b) A permitted secondary lead smelter.
+24 (c) A collection or recycling facility authorized by the federal
+25 environmental protection agency or the department of environmental
+26 quality.
+
+House Amendments to H.B. 2986
+1 D. The director of the department of environmental quality shall
+2 register [collection and] recycling facilities that accept lead acid
+3 batteries. The director shall require collection and recycling facilities
+4 that handle lead acid batteries to pay an initial registration fee and
+5 annual fee established by rule. The director shall deposit, pursuant to
+6 sections 35-146 and 35-147, registration fees in the solid waste fee fund
+7 established by section 49-881.
+8 Sec. 2. Section 49-501, Arizona Revised Statutes, is amended to
+9 read:
+10 49-501. Unlawful open burning; exceptions; civil penalty;
+11 definition
+12 A. Notwithstanding the provisions of any other section of this
+13 article:
+14 1. It is unlawful for any person to ignite, cause to be ignited,
+15 permit to be ignited, or suffer, allow, or maintain any open outdoor fire
+16 except as provided in this section.
+17 2. From May 1 through September 30 each year, it is unlawful for
+18 any person to ignite, cause to be ignited, permit to be ignited or suffer,
+19 allow or maintain any open outdoor fire in area A as defined in section
+20 49-541.
+21 B. The following fires are excepted from this section:
+22 1. Fires used only for cooking of food, or for providing warmth for
+23 human beings or the branding of animals or the use of USING orchard
+24 heaters for the purpose of frost protection in farming or nursery
+25 operations.
+26 2. Any fire set or permitted by any public officer in the
+27 performance of official duty, if such fire is set or permission given for
+28 the purpose of weed abatement, the prevention of a fire hazard, or
+29 instruction in the methods of fighting fires.
+30 3. Fires set by or permitted by the director of the department of
+31 agriculture or county agricultural agents of the county for the purpose of
+32 disease and pest prevention.
+33 4. Fires set by or permitted by the federal government or any of
+34 its departments, agencies or agents or the state or any of its agencies,
+35 departments or political subdivisions for the purpose of watershed
+36 rehabilitation or control through vegetative manipulation.
+37 5. Fires permitted by any rule or regulation issued pursuant to
+38 this article, by any conditional permit issued by a hearing board
+39 established under this article or by any rule or conditional permit issued
+40 pursuant to article 2 of this chapter when the department of environmental
+41 quality pursuant to section 49-402 has assumed jurisdiction of the county
+42 in which the fire is located.
+43 6. Fires set for the disposal of dangerous materials where there is
+44 no safe alternate method of disposal.
+45 C. Permission for the setting of any fire given by a public officer
+46 in the performance of official duty under subsection B, paragraph 2, 3 or
+47 4 of this section shall be given in writing and a copy of the written
+-2-
+
+House Amendments to H.B. 2986
+1 permission shall be transmitted immediately to the director of
+2 environmental quality and the control officer of the county, district or
+3 region in which such fire is allowed. The setting of any such fire shall
+4 be conducted in a manner and at such time as approved by the control
+5 officer or the director of environmental quality, unless doing so would
+6 defeat the purpose of the exemption.
+7 D. Notwithstanding section 49-107, IF THE DEPARTMENT ASSUMES
+8 JURISDICTION OVER [OPEN] BURNING IN A COUNTY PURSUANT TO SECTION 49-402,
+9 the director may delegate authority for the issuance of open burning
+10 permits to a county, city, town or fire district. A county, city, town or
+11 fire district that has been delegated authority for the issuance of open
+12 burning permits may assign the issuance of these permits to a private fire
+13 protection service provider that performs fire protection services within
+14 that county, city, town or fire district. Any private fire protection
+15 service provider that is authorized to issue open burning permits pursuant
+16 to this subsection shall maintain a copy of all currently effective
+17 permits issued, including a means of contacting the person authorized by
+18 the permit to set the fire in the event that an order to extinguish the
+19 open burning is issued. Permits issued pursuant to this subsection shall
+20 contain both of the following:
+21 1. Conditions that limit the manner and time of setting the fire
+22 and that are consistent with this section and rules adopted pursuant to
+23 this section.
+24 2. A provision that all burning be extinguished at the discretion
+25 of the director or the director's authorized representative during periods
+26 of inadequate atmospheric smoke dispersion, periods of excessive
+27 visibility impairment that could adversely affect public safety or periods
+28 when smoke is blown into populated areas so as to create a public
+29 nuisance.
+30 E. The director may issue a general permit to allow persons engaged
+31 in farming or ranching on forty acres or more in an unincorporated area to
+32 burn household waste, as defined in section 49-701, that is generated on
+33 site, if no household waste collection and disposal service is available.
+34 The general permit shall include the following:
+35 1. Conditions governing the method, manner and times for burning.
+36 2. Limitation on materials which THAT may be burned, including a
+37 prohibition on burning of materials which THAT generate noxious fumes.
+38 3. A requirement that any person seeking coverage under the general
+39 permit shall register with the director on a form prescribed by the
+40 director. Upon ON receipt of a registration form, the director shall
+41 notify the county in which the farm or ranch is located of such
+42 registration.
+43 4. A statement that the director, a local air pollution control
+44 officer, or any other public officer may order the extinguishment of
+45 burning or may prohibit burning during periods of inadequate smoke
+46 dispersion or excessive visibility impairment or at other times when
+47 public health or safety could be adversely affected.
+-3-
+
+House Amendments to H.B. 2986
+1 F. Nothing in This section is intended to DOES NOT permit any
+2 practice which THAT is a violation of any statute, ordinance, rule or
+3 regulation in a county with a population in excess of one million two
+4 hundred thousand persons. Notwithstanding any other law, such a county
+5 shall prohibit by ordinance the use of wood burning chimineas, outdoor
+6 fire pits and similar outdoor fires on those days for which the county has
+7 issued a no burn day restriction.
+8 G. A person who violates any provision of this section may be
+9 served a notice of violation and be subject to the enforcement provisions
+10 of this article to the same extent as a person violating any rule or
+11 regulation adopted pursuant to this article, except that:
+12 1. A violation that lasts no NOT more than twenty-four hours and
+13 that is the first violation committed by that person is subject to a civil
+14 penalty of no NOT more than five hundred dollars $500.
+15 2. A VIOLATION [PURSUANT TO SUBSECTION D OF THIS SECTION] [THAT IS
+16 SUBJECT TO THE DEPARTMENT'S JURISDICTION PURSUANT TO SECTION 49-402] IS
+17 SUBJECT TO ENFORCEMENT AS PROVIDED IN ARTICLE 2 OF THIS CHAPTER.
+18 H. For the purposes of this section, "open outdoor fire" means any
+19 combustion of combustible material of any type outdoors, in the open where
+20 the products of combustion are not directed through a flue. For the
+21 purposes of this subsection, "flue" means any duct or passage for air,
+22 gases or the like, such as a stack or chimney.
+23 Sec. 3. Section 49-802, Arizona Revised Statutes, is amended to
+24 read:
+25 49-802. Federal used oil program; incorporation by reference;
+26 rulemaking
+27 A. The department shall administer A USED OIL PROGRAM. THE PROGRAM
+28 SHALL BE NOT MORE STRINGENT THAN 42 United States Code section 6935, as
+29 amended on January 1, 1997, as the used oil program for this state. For
+30 that purpose, AND 40 Code of Federal Regulations part 279. , as amended on
+31 January 1, 1997, 40 CODE OF FEDERAL REGULATION PART 279 is adopted by
+32 reference. For purposes of this program, the United States, the
+33 environmental protection agency and the administrator shall be applied to
+34 mean this state, the department and the director, respectively.
+35 B. The department may adopt rules for the administration of the
+36 federal program. Rules adopted pursuant to this subsection shall not be
+37 more stringent than or conflict with 40 Code of Federal Regulations
+38 part 279. The department shall require an annual registration fee
+39 established by rule for handlers of used oil that are required to obtain a
+40 United States environmental protection agency identification number
+41 pursuant to 40 Code of Federal Regulations part 279. The department shall
+42 deposit, pursuant to sections 35-146 and 35-147, fees in the solid waste
+43 fee fund established by section 49-881.
+44 C. The following requirements apply in addition to 40 Code of
+45 Federal Regulations part 279:
+-4-
+
+House Amendments to H.B. 2986
+1 1. A used oil collection center, as defined in 40 Code of Federal
+2 Regulations part 279, shall register with the department by obtaining an
+3 identification number from the department. A request for an
+4 identification number shall include:
+5 (a) The company name.
+6 (b) The name of the owner of the company.
+7 (c) The mailing address and telephone number of the company.
+8 (d) The location of the collection center.
+9 (e) A description of the type of used oil activity at the company.
+10 2. A person who sends used oil fuel to a person who burns the used
+11 oil fuel for energy recovery shall certify to the burner that the used oil
+12 fuel has been analyzed or otherwise tested for compliance with the used
+13 oil specifications in 40 Code of Federal Regulations part 279.
+14 3. Each used oil fuel transporter, used oil fuel marketer and used
+15 oil processor and re-refiner, as defined in 40 Code of Federal Regulations
+16 part 279, shall submit to the department a written report annually. The
+17 report shall be submitted within thirty days after the end of the calendar
+18 year to which the report applies, and it shall contain a copy of the
+19 tracking information required to be kept pursuant to 40 Code of Federal
+20 Regulations part 279 or a summary of such tracking information on a
+21 reporting form supplied by the department.
+22 4. Each person who burns used oil fuel in devices identified in 40
+23 Code of Federal Regulations section 279.61(a)(1) through (3) shall submit
+24 to the department a written annual report. The report shall be submitted
+25 to the department by February 1 for the previous calendar year and shall
+26 contain the following information:
+27 (a) The name, address and telephone number of the person reporting.
+28 (b) The name, address and telephone number of the burner facility.
+29 (c) The United States environmental protection agency
+30 identification number of the burner facility.
+31 (d) The total volume of on-specification used oil burned.
+32 (e) The period being reported.
+33 (f) The total volume of self-generated used oil burned on site.
+34 (g) The total volume of used oil fuel burned.
+35 (h) A summary of the tracking information required to be kept
+36 pursuant to 40 Code of Federal Regulations part 279.
+37 5. Used oil fuel marketers and used oil fuel burners shall label
+38 all tanks that store on-specification used oil with the words
+39 "on-specification used oil". The department may sample and test used oil
+40 or used oil fuel to determine its properties or characteristics as
+41 prescribed in this article and rules adopted pursuant to this article.
+42 6. A household "do-it-yourselfer" used oil generator, as defined
+43 under 40 Code of Federal Regulations part 279, shall send its used oil to
+44 a "do-it-yourselfer" collection station, a household hazardous waste
+45 collection center, a used oil collection center, a used oil fuel marketer
+46 or a used oil processor or refiner.
+-5-
+
+House Amendments to H.B. 2986
+1 D. In administering this section or in adopting or administering
+2 rules pursuant to this section, the department shall maintain the level of
+3 discretion that is permitted pursuant to applicable federal rules.
+4 E. Any client names or related identifying data required to be
+5 submitted to the department pursuant to this section are confidential.
+6 Sec. 4. Section 49-836, Arizona Revised Statutes, is amended to
+7 read:
+8 49-836. Solid waste landfill disposal fees
+9 A. Each operator of a solid waste landfill or facility shall make
+10 the fee payments required by this section as determined by the
+11 department. Monies from fees shall be deposited in the recycling fund
+12 established by section 49-837 and the solid waste fee fund established by
+13 section 49-881. Fees shall be calculated and paid as follows until the
+14 effective dates of rules adopted pursuant to subsection G of this section:
+15 1. A disposal fee of $.25 for each six cubic yards of uncompacted
+16 solid waste, $.25 for each three cubic yards of compacted solid waste or
+17 $.25 per ton of solid waste received at landfills regulated by the
+18 department. From and after June 30, 2005, all $.25 collected in disposal
+19 fees shall be deposited in the recycling fund.
+20 2. A solid waste landfill that receives only waste generated on
+21 site shall compute the fee by using one of the following methods:
+22 (a) By actual volume or weight.
+23 (b) By estimate based on landfill capacity use, volume or number of
+24 waste loads or any other reasonable means for approximating the volume or
+25 weight of disposed waste.
+26 3. Facilities that generate waste from recycling solid waste,
+27 effluent from a secondary wastewater treatment plant or wastewaters shall
+28 pay one-half of the fee calculated pursuant to paragraph 1 of this
+29 subsection. The maximum annual amount paid by a facility for on-site
+30 disposal of waste generated from recycling shall not exceed $15,000. The
+31 fee for these facilities may be computed based on the dry or dewatered
+32 weight or volume of the waste generated from recycling.
+33 B. Each fee payment shall be accompanied by a form prepared and
+34 furnished by the department and completed by the operator. The form shall
+35 state the total volume or weight of solid waste disposed of at that
+36 landfill during the payment period and shall provide any other information
+37 deemed necessary by the department. The form shall be signed by the
+38 operator.
+39 C. A person who for a fee disposes of waste in a solid waste
+40 landfill that is not regulated by the department shall keep accurate
+41 records of the waste disposed of in those landfills and shall remit a fee
+42 to the department at the same rate and in the same manner as provided in
+43 subsection A of this section or rules adopted pursuant to subsection G of
+44 this section.
+45 D. For solid waste landfills that are operated pursuant to section
+46 49-741 and that do not have on-site operators or scales, the fee shall be
+47 based on a formula that multiplies the population of the political
+-6-
+
+House Amendments to H.B. 2986
+1 subdivisions served by the landfill by $.07. From and after June 30,
+2 2005, all fees shall be deposited in the recycling fund. The fee shall be
+3 paid in the same manner as provided in subsection A of this section or
+4 rules adopted pursuant to subsection G of this section.
+5 E. This section or any rules adopted pursuant to subsection G of
+6 this section do not apply to:
+7 1. Persons disposing of a load containing less than six cubic yards
+8 of uncompacted solid waste or three cubic yards of compacted solid waste.
+9 2. A site used solely for the reclamation of land through the
+10 introduction of landscaping rubble or inert material.
+11 3. Material produced in connection with a mining or metallurgical
+12 operation.
+13 F. Solid waste management service companies and agencies affected
+14 by the landfill disposal fees established by this section may adjust the
+15 fees charged to customers by passing through to the customers the
+16 additional costs.
+17 G. The department shall establish by rule the solid waste landfill
+18 disposal fees.
+19 Sec. 5. Section 49-881, Arizona Revised Statutes, is amended to
+20 read:
+21 49-881. Solid waste fee fund; uses; exemption
+22 A. The solid waste fee fund is established. The director shall
+23 administer the fund. The fund consists of legislative appropriations,
+24 donations, gifts, grants, registration fees collected pursuant to sections
+25 44-1303 and 44-1304.01, waste tire administrative monies distributed
+26 pursuant to section 44-1305, subsection B, paragraph 1, lead acid battery
+27 collection and recycling fees collected pursuant to section 44-1322,
+28 licensure fees collected pursuant to section 49-104, subsection B,
+29 paragraph 14, subdivision (b), solid waste general permit fees collected
+30 pursuant to section 49-706, solid waste landfill registration fees from
+31 section 49-747, licensure fees collected pursuant to section 49-761,
+32 subsection D, paragraphs 2 and 3 and subsections H, J and M, solid waste
+33 fees collected pursuant to section 49-762.03, subsection F, USED OIL
+34 HANDLER FEES COLLECTED PURSUANT TO section 49-802, subsection B, special
+35 waste management plan fees collected pursuant to section 49-857, special
+36 waste management fees collected pursuant to section 49-863, private
+37 consultants expedited plan review fees collected pursuant to section
+38 49-762.03, subsection G, self-certification filing fees collected pursuant
+39 to section 49-762.05, subsection H, solid waste landfill disposal fees
+40 collected pursuant to section 49-836, special waste fees collected
+41 pursuant to section 49-855, subsection C, paragraph 2 and coal combustion
+42 residuals permit processing fees and annual fees collected pursuant to
+43 section 49-891.
+44 B. Monies in the fund are subject to legislative appropriation for
+45 solid waste control programs established in the funding sources pursuant
+46 to subsection A of this section and as determined by the director.
+-7-
+
+House Amendments to H.B. 2986
+1 C. On notice from the director, the state treasurer shall invest
+2 and divest monies in the fund as provided in section 35-313, and monies
+3 earned from investment shall be credited to the fund. Monies deposited in
+4 the fund are exempt from the provisions of section 35-190 relating to
+5 lapsing of appropriations.
+6 Sec. 6. Laws 2021, chapter 27, section 9, as amended by Laws 2023,
+7 chapter 78, section 1, is amended to read:
+8 Sec. 9. Conditional enactment
+9 A. Section 49-542, Arizona Revised Statutes, as amended by Laws
+10 2021, chapter 27, section 3, and section 49-542.03, Arizona Revised
+11 Statutes, as amended by laws 2021, chapter 27, section 4, do not become
+12 effective unless on or before July 1, 2027 2029 the United States
+13 environmental protection agency approves the proposed modifications to the
+14 vehicle emissions testing program protocols as part of the state
+15 implementation plan for air quality.
+16 B. The director of the department of environmental quality shall
+17 notify in writing the director of the Arizona legislative council on or
+18 before September 1, 2027 2029 either:
+19 1. Of the date on which the condition was met.
+20 2. That the condition was not met.
+21 Sec. 7. Laws 2017, chapter 295, section 3, as amended by Laws 2022,
+22 chapter 177, section 12 and Laws 2024, chapter 70, section 1, is amended
+23 to read:
+24 Sec. 3. Conditional enactment; notice
+25 A. Section 3-3493, Arizona Revised Statutes, as amended by laws
+26 2017, chapter 295, section 2, does not become effective unless on or
+27 before July 1, 2027 2029 the United States environmental protection agency
+28 approves the proposed modifications to the gasoline fuel formulation
+29 requirements as part of the state implementation plan for air quality.
+30 B. The director of the department of environmental quality shall
+31 notify in writing the director of the Arizona legislative council on or
+32 before October 1, 2027 2029 either:
+33 1. Of the date on which the condition was met.
+34 2. That the condition was not met.
+35 Enroll and engross to conform
+36 Amend title to conform
+GAIL GRIFFIN
+2986FloorGRIFFIN.docx
+02/20/2026
+10:46 AM
+C: CT
+130SXJWXA
+-8-

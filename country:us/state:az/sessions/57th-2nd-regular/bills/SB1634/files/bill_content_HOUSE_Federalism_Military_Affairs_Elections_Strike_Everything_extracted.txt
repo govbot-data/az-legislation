@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Federalism, Military Affairs & Elections - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Federalism, Military Affairs & Elections
+Second Regular Session S.B. 1634
+PROPOSED
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1634
+(Reference to Senate engrossed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 16-112, Arizona Revised Statutes, is amended to
+3 read:
+4 16-112. Driver license voter registration
+5 A. Every person who is applying for a driver license or renewal and
+6 who is otherwise qualified to register to vote, at the same time and
+7 place, shall be allowed to register to vote by providing the information
+8 prescribed by section 16-152. The method used to register voters shall
+9 require only the minimum information necessary to prevent duplicate
+10 registrations, to enable elections officials to determine voter
+11 eligibility and to administer voter registration and election laws. A
+12 registration form shall be included for a person who is applying for a
+13 driver license renewal by mail. On completing a form that contains at
+14 least the information prescribed by section 16-121.01 and that may contain
+15 the information prescribed by section 16-152 and on receipt of that form
+16 by the county recorder from the department of transportation as prescribed
+17 by subsection D of this section, the applicant is presumed to be properly
+18 registered to vote. That presumption may be rebutted as provided in
+19 section 16-121.01.
+20 B. The director of the department of transportation and the
+21 secretary of state shall consult at least every two years regarding voter
+22 registration at driver license offices. The director of the department of
+23 transportation and the secretary of state, after consultation with all
+24 county recorders, shall adopt rules to implement a system allowing driver
+25 license applicants to register to vote at the same time and place as they
+26 apply for driver licenses. The rules shall:
+27 1. Bring the license application and voter registration application
+28 forms into substantial conformity.
+29 2. Allow the transfer of driver license applications, including
+30 renewal and change of address, and voter registration information from the
+31 department of transportation to the voter registration rolls.
+32 3. Respect all rules and statutes of this state concerning the
+33 confidentiality of driver license application information.
+34 4. Provide for the manual or electronic generation and transmittal
+35 of voter registrations and provide for electronic generation of changes in
+36 voter registration information, including address, in conformity with the
+37 confidentiality requirements of the national voter registration act of
+38 1993 (P.L. 103-31; 107 Stat. 77; 52 United States Code sections 20501
+39 through 20511).
+
+House Amendments to S.B. 1634
+1 C. The department of transportation shall provide to applicants a
+2 statement that provides each eligibility requirement for voting, including
+3 citizenship, an attestation that the applicant meets each requirement, for
+4 the signature of the applicant under penalty of perjury and, in print that
+5 is identical to that used in the attestation, the following:
+6 1. A description of the penalties provided by law for the
+7 submission of a false voter registration application.
+8 2. A statement that if an applicant declines to register to vote
+9 the fact that the applicant has declined to register will remain
+10 confidential and will be used only for voter registration purposes.
+11 3. A statement that if an applicant does register to vote the
+12 office at which the applicant submits a voter registration application
+13 will remain confidential and will be used only for voter registration
+14 purposes.
+15 D. The department of transportation shall return or mail completed
+16 SUBMIT VOTER registrations TO THE SECRETARY OF STATE, AND THE SECRETARY OF
+17 STATE SHALL FORWARD THE VOTER REGISTRATIONS AND A COPY OF THE APPLICANT'S
+18 SIGNATURE THAT WAS WRITTEN BY HAND ON A DOCUMENT to the county recorder of
+19 the county in which the applicant resides within five days after receipt
+20 of a completed registration."
+21 Amend title to conform
+JOHN GILLETTE
+1634GILLETTE SE.docx
+03/23/2026
+01:46 PM
+H: GG/ls
+130TKGGQG
+-2-

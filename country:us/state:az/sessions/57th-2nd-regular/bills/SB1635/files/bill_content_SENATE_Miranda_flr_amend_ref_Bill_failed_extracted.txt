@@ -1,0 +1,310 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Miranda flr amend (ref Bill) failed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1635
+Miranda Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Requires each law enforcement agency in Arizona to adopt a written policy that:
+a) requires all peace officers to visibly display the officer's name or badge number, or both,
+when performing law enforcement duties; and
+b) prohibits all peace officers from performing law enforcement duties while wearing a facial
+covering that conceals the officer's identity.
+2. Provides specific exemptions to the requirements of both of these written policies.
+3. Classifies performing law enforcement duties in violation of these written policies as assault,
+or unlawful imprisonment, as outlined.
+4. Stipulates that a peace officer who violates these written policies and who commits assault or
+unlawful imprisonment may not assert any privilege or immunity for the peace officer's
+conduct.
+5. Subjects a peace officer who violates these requirements to civil liability to the injured person
+in an amount of $10,000, or actual damages, whichever is greater.
+6. Expands the criminal classifications of impersonating a public servant and impersonating a
+peace officer by including the fraudulent display of government employee identification.
+7. Outlines what is considered to be a facial covering.
+Amendment explanation prepared by Zack Dean
+2/25/26
+
+Fifty-seventh Legislature Miranda
+Second Regular Session S.B. 1635
+MIRANDA FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1635
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 13-1203, Arizona Revised Statutes, is amended
+3 to read:
+4 13-1203. Assault; classification
+5 A. A person commits assault by:
+6 1. Intentionally, knowingly or recklessly causing any physical
+7 injury to another person; or
+8 2. Intentionally placing another person in reasonable apprehension
+9 of imminent physical injury; or
+10 3. Knowingly touching another person with the intent to injure,
+11 insult or provoke such person[; OR
+12 4. PERFORMING LAW ENFORCEMENT DUTIES AS A PEACE OFFICER IN
+13 VIOLATION OF THE WRITTEN POLICY REQUIRED BY SECTION 13-2411 OR 13-2415].
+14 B. Assault committed intentionally or knowingly pursuant to
+15 subsection A, paragraph 1 [OR 4] is a class 1 misdemeanor. Assault
+16 committed recklessly pursuant to subsection A, paragraph 1 [OR 4] is a
+17 class 2 misdemeanor. Assault committed pursuant to subsection A,
+18 paragraph 2 or 3 is a class 3 misdemeanor.>>
+19 <<Sec. 2. Section 13-1303, Arizona Revised Statutes, is amended to
+20 read:
+21 13-1303. Unlawful imprisonment; classification; definition
+22 A. A person commits unlawful imprisonment by knowingly restraining
+23 another person.
+24 B. In any prosecution for unlawful imprisonment, it is a defense
+25 that:
+26 1. The restraint was accomplished by a peace officer or detention
+27 officer acting in good faith in the lawful perform ance of [his] [THE
+28 OFFICER'S] duty [AND IN COMPLIANCE WITH THE WRITTEN POLICIES REQUIRED BY
+29 SECTIONS 13-2411 AND 13-2415]; or
+
+Senate Amendments to S.B. 1635
+1 2. The defendant is a relative of the person restrained and the
+2 defendant's sole intent is to assume lawful custody of that person and the
+3 restraint was accomplished without physical injury.
+4 C. Unlawful imprisonment is a class 6 felony unless the victim is
+5 released voluntarily by the defendant without physical injury in a safe
+6 place before arrest in which case it is a class 1 misdemeanor.
+7 D. For the purposes of this section, "detention officer" means a
+8 person other than an elected official who is employed by a county, city or
+9 town and who is responsible for the supervision, protection, care, custody
+10 or control of inmates in a county or municipal correctional institution.
+11 Detention officer does not include counselors or secretarial, clerical or
+12 professionally trained personnel.>>
+13 <<Sec. 3. Section 13-2406, Arizona Revised Statutes, is amended to
+14 read:
+15 13-2406. Impersonating a public servant; classification;
+16 definition
+17 A. A person commits impersonating a public servant if such person
+18 pretends to be a public servant and engages in any conduct[, INCLUDING THE
+19 FRAUDULENT DISPLAY OF GOVERNMENT EMPLOYEE IDENTIFICATION,] with the intent
+20 to induce another to submit to his pretended official authority or to rely
+21 on his pretended official acts.
+22 B. It is [no] [NOT A] defense to a prosecution under this section
+23 that the office the person pretended to hold did not in fact exist or that
+24 the pretended office did not in fact possess the authority claimed for it.
+25 C. Impersonating a public servant is a class 1 misdemeanor.
+26 D. For the purposes of this section, "public servant" includes a
+27 notary public.>>
+28 <<Sec. 4. Section 13-2411, Arizona Revised Statutes, is amended to
+29 read:
+30 13-2411. Peace officer identification required; written
+31 policy; exceptions; impersonating a peace officer;
+32 classification; definition
+33 [A. EACH AGENCY OF THIS STATE OR A POLITICAL SUBDIVISION OF THIS
+34 STATE THAT EMPLOYS ONE OR MORE PEACE OFFICERS SHALL ADOPT A WRITTEN POLICY
+35 REQUIRING THAT ALL PEACE OFFICERS WHO ARE EMPLOYED BY THE AGENCY VISIBLY
+36 DISPLAY IDENTIFICATION THAT INCLUDES THE AGENCY NAME AND THE PEACE
+37 OFFICER'S NAME OR BADGE NUMBER, OR BOTH NAME AND BADGE NUMBER, WHEN
+38 PERFORMING LAW ENFORCEMENT DUTIES. THE POLICY MAY ALLOW A PEACE OFFICER
+39 TO PERFORM LAW ENFORCEMENT DUTIES WITHOUT VISIBLY DISPLAYING THE
+40 IDENTIFICATION ONLY IN THE FOLLOWING CIRCUMSTANCES:
+41 1. THE PEACE OFFICER IS ENGAGED IN ACTIVE UNDERCOVER OPERATIONS OR
+42 INVESTIGATIVE ACTIVITIES.
+43 2. THE PEACE OFFICER IS ENGAGED IN A PLAINCLOTHES OPERATION.
+44 3. THE PEACE OFFICER IS WEARING PERSONAL PROTECTIVE OR TACTICAL
+45 TEAM EQUIPMENT THAT PREVENTS DISPLAY OF THE IDENTIFICATION.
+46 4. THE PEACE OFFICER IS ENGAGED IN PROTECTIVE OPERATIONS INVOLVING
+47 ELECTED OFFICIALS OR OTHER DIGNITARIES.
+-2-
+
+Senate Amendments to S.B. 1635
+1 5. EXIGENT CIRCUMSTANCES INVOLVING AN IMMINENT DANGER TO PERSONS OR
+2 PROPERTY, THE ESCAPE OF A PERPETRATOR OR THE DESTRUCTION OF EVIDENCE
+3 EXIST, INCLUDING SITUATIONS WHERE THE PEACE OFFICER IS RESPONDING TO THE
+4 EXIGENT CIRCUMSTANCES WHILE OFF DUTY.
+5 6. THERE IS A SPECIFIC, ARTICULABLE AND PARTICULARIZED REASON TO
+6 BELIEVE IDENTIFICATION WOULD POSE A SIGNIFICANT DANGER TO THE PHYSICAL
+7 SAFETY OF THE PEACE OFFICER.]
+8 [A.] [B.] A person commits impersonating a peace officer if the
+9 person, without lawful authority, pretends to be a peace officer and
+10 engages in any conduct[, INCLUDING THE FRAUDULENT DISPLAY OF GOVERNMENT
+11 EMPLOYEE IDENTIFICATION,] with the intent to induce another to submit to
+12 the person's pretended authority or to rely on the person's pretended
+13 acts.
+14 [B.] [C.] It is not a defense to a prosecution under this section
+15 that the law enforcement agency the person pretended to represent did not
+16 in fact exist or that the law enforcement agency the person pretended to
+17 represent did not in fact possess the authority claimed for it.
+18 [D. A PEACE OFFICER WHO VIOLATES A WRITTEN POLICY ADOPTED PURSUANT
+19 TO THIS SECTION AND WHO IS FOUND TO HAVE COMMITTED ASSAULT OR UNLAWFUL
+20 IMPRISONMENT MAY NOT ASSERT ANY PRIVILEGE OR IMMUNITY FOR THE PEACE
+21 OFFICER'S CONDUCT AGAINST A CLAIM OF CIVIL LIABILITY AND IS LIABLE TO THE
+22 PERSON INJURED BY THE PEACE OFFICER'S CONDUCT IN THE AMOUNT OF $10,000 OR
+23 ACTUAL DAMAGES, WHICHEVER IS GREATER.]
+24 [C.] [E.] Impersonating a peace officer is a class 6 felony,
+25 except that impersonating a peace officer during the commission of any of
+26 the following felonies is a class 4 felony:
+27 1. Negligent homicide.
+28 2. Manslaughter.
+29 3. First degree murder.
+30 4. Second degree murder.
+31 5. Assault.
+32 6. Aggravated assault.
+33 7. Sexual assault.
+34 8. Violent sexual assault.
+35 9. Sexual abuse.
+36 10. Unlawfully administering intoxicating liquors, narcotic drugs or
+37 dangerous drugs.
+38 11. Attack by a person's vicious animal as prescribed in section
+39 13-1208.
+40 12. Drive by shooting.
+41 13. Discharging a firearm at a structure.
+42 14. Aggravated criminal damage.
+43 15. Theft.
+44 16. Theft by extortion.
+45 17. Theft of a credit card or obtaining a credit card by fraudulent
+46 means.
+47 18. Misconduct involving weapons.
+-3-
+
+Senate Amendments to S.B. 1635
+1 19. Misconduct involving explosives.
+2 20. Depositing explosives.
+3 21. Procuring or placing persons in a house of prostitution.
+4 22. Dangerous crimes against children as prescribed in section
+5 13-705.
+6 23. Burglary.
+7 24. Arson.
+8 25. Kidnapping.
+9 26. Robbery.
+10 [D.] [F.] For the purposes of this section, "peace officer" has the
+11 same meaning prescribed in section 1-215 and includes any federal law
+12 enforcement officer or agent who has the power to make arrests pursuant to
+13 federal law.>>
+14 <<Sec. 5. Title 13, chapter 24, Arizona Revised Statutes, is
+15 amended by adding section 13-2415, to read:
+16 13-2415. Peace officers; masks; written policy; prohibition;
+17 definitions
+18 [A. EACH AGENCY OF THIS STATE OR A POLITICAL SUBDIVISION OF THIS
+19 STATE THAT EMPLOYS ONE OR MORE PEACE OFFICERS SHALL ADOPT A WRITTEN POLICY
+20 THAT PROHIBITS EACH PEACE OFFICER WHO IS EMPLOYED BY THE AGENCY FROM
+21 WEARING A FACIAL COVERING THAT CONCEALS OR OBSCURES THE PEACE OFFICER'S
+22 FACIAL IDENTITY WHEN PERFORMING LAW ENFORCEMENT DUTIES. THE POLICY MAY
+23 ALLOW A PEACE OFFICER TO PERFORM LAW ENFORCEMENT DUTIES WITH A FACIAL
+24 COVERING ONLY IN THE FOLLOWING CIRCUMSTANCES:
+25 1. THE PEACE OFFICER IS ENGAGED IN ACTIVE UNDERCOVER OPERATIONS.
+26 2. THE PEACE OFFICER IS ENGAGED IN A TACTICAL OPERATION WHERE
+27 PROTECTIVE GEAR IS REQUIRED FOR THE PHYSICAL SAFETY OF THE PEACE OFFICER.
+28 3. TO PROTECT THE PEACE OFFICER'S IDENTITY DURING A COURT
+29 PROCEEDING.
+30 4. THE PEACE OFFICER IS WEARING PERSONAL PROTECTIVE EQUIPMENT
+31 ALLOWED OR REQUIRED UNDER APPLICABLE OCCUPATIONAL HEALTH AND SAFETY OR
+32 REASONABLE ACCOMMODATION LAWS.
+33 B. A PEACE OFFICER WHO VIOLATES A WRITTEN POLICY ADOPTED PURSUANT
+34 TO THIS SECTION AND WHO IS FOUND TO HAVE COMMITTED ASSAULT OR UNLAWFUL
+35 IMPRISONMENT MAY NOT ASSERT ANY PRIVILEGE OR IMMUNITY FOR THE PEACE
+36 OFFICER'S CONDUCT AGAINST A CLAIM OF CIVIL LIABILITY AND IS LIABLE TO THE
+37 PERSON INJURED BY THE PEACE OFFICER'S CONDUCT IN THE AMOUNT OF $10,000 OR
+38 ACTUAL DAMAGES, WHICHEVER IS GREATER.
+39 C. FOR THE PURPOSES OF THIS SECTION:
+40 1. "FACIAL COVERING":
+41 (a) MEANS AN OPAQUE MASK, GARMENT, HELMET, HEADGEAR OR OTHER ITEM
+42 THAT CONCEALS OR OBSCURES THE FACIAL IDENTITY OF AN INDIVIDUAL, INCLUDING
+43 A BALACLAVA, TACTICAL MASK, GATOR OR SKI MASK.
+44 (b) DOES NOT INCLUDE ANY OF THE FOLLOWING:
+45 (i) A TRANSLUCENT FACE SHIELD OR CLEAR MASK THAT DOES NOT CONCEAL A
+46 PEACE OFFICER'S FACIAL IDENTITY AND THAT IS USED IN COMPLIANCE WITH THE
+47 AGENCY'S WRITTEN POLICY.
+-4-
+
+Senate Amendments to S.B. 1635
+1 (ii) A MEDICAL MASK OR SURGICAL MASK THAT IS USED TO PROTECT
+2 AGAINST TRANSMISSION OF DISEASE OR INFECTION.
+3 (iii) A MASK, HELMET OR DEVICE, INCLUDING AN AIR PURIFYING
+4 RESPIRATOR, FULL OR HALF MASK OR SELF-CONTAINED BREATHING APPARATUS, THAT
+5 IS NECESSARY TO PROTECT AGAINST EXPOSURE TO ANY TOXIN, GAS, SMOKE,
+6 INCLEMENT WEATHER OR OTHER HAZARDOUS OR HARMFUL ENVIRONMENTAL CONDITION.
+7 (iv) A MASK, HELMET OR DEVICE, INCLUDING A SELF-CONTAINED BREATHING
+8 APPARATUS, THAT IS NECESSARY FOR UNDERWATER USE.
+9 (v) A MOTORCYCLE HELMET WHEN WORN BY A PEACE OFFICER USING A
+10 MOTORCYCLE OR OTHER VEHICLE THAT REQUIRES A HELMET FOR SAFE OPERATIONS
+11 WHILE IN THE PERFORMANCE OF LAW ENFORCEMENT DUTIES.
+12 (vi) EYEWEAR THAT IS NECESSARY TO PROTECT FROM THE USE OF RETINAL
+13 WEAPONS, INCLUDING LASERS.
+14 2. "PEACE OFFICER" HAS THE SAME MEANING PRESCRIBED IN SECTION 1-215
+15 AND INCLUDES ANY FEDERAL LAW ENFORCEMENT OFFICER OR AGENT WHO HAS THE
+16 POWER TO MAKE ARRESTS PURSUANT TO FEDERAL LAW.]>>
+17 Sec. 6. Title 13, chapter 25, Arizona Revised Statutes, is amended
+18 by adding section 13-2515, to read:
+19 13-2515. Unlawful alerting of another person to avoid arrest;
+20 classification; definitions
+21 A. A PERSON COMMITS UNLAWFUL ALERTING OF ANOTHER PERSON TO AVOID
+22 ARREST IF THE PERSON, WITH THE INTENT TO HINDER, DELAY OR PREVENT THE
+23 LAWFUL ARREST OF THE OTHER PERSON, KNOWINGLY COMMUNICATES INFORMATION TO
+24 THE OTHER PERSON THAT ALERTS OR WARNS THE OTHER PERSON OF A REAL-TIME,
+25 IMMINENT OR ONGOING EFFORT TO ARREST THE OTHER PERSON BY A LOCAL, STATE OR
+26 FEDERAL LAW ENFORCEMENT OFFICER.
+27 B. THIS SECTION DOES NOT APPLY TO:
+28 1. AN ATTORNEY WHO PROVIDES LAWFUL LEGAL ADVICE TO THE ATTORNEY'S
+29 CLIENT.
+30 2. A PERSON WHO PROVIDES INFORMATION IN RESPONSE TO A LAWFUL
+31 REQUEST BY A LOCAL, STATE OR FEDERAL LAW ENFORCEMENT OFFICER.
+32 3. A PERSON'S COMMUNICATION THAT IS MADE WITHOUT KNOWLEDGE THAT THE
+33 PERSON WARNED IS THE SUBJECT OF AN ARREST.
+34 4. A PERSON'S COMMUNICATION THAT IS MADE WITHOUT THE INTENT TO
+35 HINDER, DELAY OR PREVENT THE LAWFUL ARREST OF ANOTHER PERSON.
+36 C. THE ATTORNEY GENERAL OR THE COUNTY ATTORNEY OF THE COUNTY IN
+37 WHICH THE OFFENSE OCCURS MAY PROSECUTE VIOLATIONS OF THIS SECTION.
+38 D. UNLAWFUL ALERTING OF ANOTHER PERSON TO AVOID ARREST IS A CLASS 1
+39 MISDEMEANOR.
+40 E. FOR THE PURPOSES OF THIS SECTION:
+41 1. "COMMUNICATES" INCLUDES:
+42 (a) AN ELECTRONIC COMMUNICATION.
+43 (b) A GESTURE.
+44 (c) VERBAL STATEMENTS.
+45 (d) SIGNALS OR THE USE OF AMPLIFIED SOUNDS BELLS, WHISTLES OR
+46 SIMILAR DEVICES WHEN USED AS INTENTIONAL SIGNALING.
+47 (e) A WRITTEN MESSAGE.
+-5-
+
+Senate Amendments to S.B. 1635
+1 (f) ANY OTHER METHOD OF CONVEYING INFORMATION THAT IS NOT LISTED IN
+2 SUBDIVISION (a), (b), (c), (d) OR (e) OF THIS PARAGRAPH.
+3 2. "IMMINENT OR ONGOING EFFORT TO ARREST":
+4 (a) MEANS A LAW ENFORCEMENT ACTIVITY THAT OCCURS CONTEMPORANEOUSLY
+5 WITH OR IMMEDIATELY PRECEDING AN ATTEMPT TO TAKE A PERSON INTO CUSTODY.
+6 (b) INCLUDES SURVEILLANCE, APPROACH, PURSUIT OR EXECUTION OF AN
+7 ARREST WARRANT BY A LAW ENFORCEMENT OFFICER.
+8 3. "INTENTIONAL SIGNALING" MEANS A PERSON'S DELIBERATE USE OF
+9 SOUND, LIGHT, MOVEMENT OR OTHER CONDUCT THAT IS MADE FOR THE PURPOSE OF
+10 CONVEYING A WARNING TO OR ALERTING ANOTHER PERSON.
+11 4. "LAW ENFORCEMENT OFFICER" MEANS AN INDIVIDUAL WHO IS AUTHORIZED
+12 BY LAW TO ENGAGE IN OR SUPERVISE THE PREVENTION, DETECTION, INVESTIGATION
+13 OR ENFORCEMENT OF LAWS AND WHO IS EMPLOYED BY OR ACTING ON BEHALF OF A
+14 LOCAL, STATE OR FEDERAL GOVERNMENTAL ENTITY.
+15 5. "LAWFUL ARREST" MEANS AN ARREST THAT IS SUPPORTED BY LEGAL
+16 AUTHORITY AND PROBABLE CAUSE EVEN IF A WARRANT HAS NOT BEEN ISSUED.
+17 Sec. 7. Severability
+18 If a provision of this act or its application to any person or
+19 circumstance is held invalid, the invalidity does not affect other
+20 provisions or applications of the act that can be given effect without the
+21 invalid provision or application, and to this end the provisions of this
+22 act are severable.
+23 Enroll and engross to conform
+24 Amend title to conform
+CATHERINE MIRANDA
+1635FloorMIRANDA.docx
+02/25/2026
+05:48 PM
+C: JV
+130VECCLY
+-6-

@@ -1,0 +1,220 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Finchem flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1754
+Finchem Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Removes the requirement for the Director of the Division of Special Education (Division) to
+designate an individual to provide assistance to the parents of children who file a complaint
+alleging that a public school has violated requirements of federal or state laws relating to the
+provision of special education.
+2. Allows the Division to provide assistance to an individual who files a complaint alleging that a
+public school has violated requirements of federal or state laws relating to the provision of special
+education.
+3. Removes, from the list of laws of which an organization or individual may file a complaint alleging
+a violation, as outlined, the restraint and seclusion techniques prescribed by statute.
+4. Specifies that the Division, rather than the designated individual, must contact the complainant of
+each complaint found to be incomplete or designated as does-not-qualify to request any necessary
+signatures in addition to other missing information.
+5. Removes the requirements for the Division to create and maintain a central repository of the reports
+and submit an annual report to outlined individuals that includes prescribed information on the
+number of complaints filed for the immediately preceding school year.
+6. Requires the Arizona Department of Education (ADE), within 60 days after completing a
+complaint investigation, to post all complaint investigative reports for the complaint on ADE's
+website, including any corrective action or dismissal letters as outlined.
+7. Directs ADE to redact all complaint investigative reports to remove personally identifiable
+information and as required by student privacy laws.
+8. Determines that complaint investigative reports that are posted as prescribed are not student level
+data for the purposes of the Student Accountability Information System.
+9. Requires ADE to adopt policies and procedures as outlined for complaints filed with the Division
+and post the policies and procedures on ADE's website.
+10. Specifies that a report is designated as does-not-qualify if ADE determines that:
+a) the student is not a child with a disability;
+b) none of the allegations in the complaint are in violation of the outlined federal and state laws;
+or
+c) the nature of the allegations are outside ADE's investigate authority.
+11. Makes technical changes.
+Amendment explanation prepared by Mason Holler
+3/3/2026
+
+Fifty-seventh Legislature Finchem
+Second Regular Session S.B. 1754
+FINCHEM FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1754
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 15-235, Arizona Revised Statutes, is amended to
+3 read:
+4 15-235. Division of special education; director; duties;
+5 qualifications; advisory committee; members
+6 A. A THE division of special education is established to carry out
+7 this section, section SECTIONS 15-235.01 AND 15-236 and chapter 7, article
+8 4 of this title subject to the superintendent of public instruction.
+9 B. There shall be at least one director of the division of special
+10 education.
+11 C. The director or directors shall carry out this section, section
+12 SECTIONS 15-235.01 AND 15-236 and chapter 7, article 4 of this title and
+13 the duties prescribed by the state board of education relating to the
+14 administration of this section, section SECTIONS 15-235.01 AND 15-236 and
+15 chapter 7, article 4 of this title.
+16 D. The division of special education may review special education
+17 programs, including placement of pupils, to determine that program,
+18 evaluation and placement procedures comply with sections 15-766 and 15-767
+19 and the rules approved by the state board of education.
+20 E. Only a person who is experienced in special education is
+21 eligible for appointment as a director of the division of special
+22 education.
+23 F. A special education advisory committee is established that shall
+24 advise and consult with the state board of education, the superintendent
+25 of public instruction and the director or directors of the division of
+26 special education and that shall engage in other activities as are
+27 provided in this section. The advisory committee shall be composed
+28 pursuant to the requirements of 20 United States Code section
+29 1412(A)(21)(b) and (c) 1412(a)(21)(B) AND (c). The state board of
+
+Senate Amendments to S.B. 1754
+1 education shall appoint the members of the advisory committee for
+2 staggered three year THREE-YEAR terms. Vacancies shall be filled for the
+3 unexpired term in the same manner as original appointments.
+4 G. The advisory committee shall have a minimum of two meetings a
+5 year.
+6 H. The advisory committee annually shall elect its own chairman and
+7 vice-chairman. The state board of education shall regularly submit, as
+8 part of its budget request, any item or items sufficient to cover expenses
+9 of the operation of the advisory committee, and of its members in
+10 connection with their attendance at meetings of the advisory committee and
+11 other advisory committee activities.
+12 Sec. 2. Title 15, chapter 2, article 2, Arizona Revised Statutes,
+13 is amended by adding section 15-235.01, to read:
+14 15-235.01. Division of special education; state complaints;
+15 posting requirements; limitation on redactions;
+16 student level data exemption; policies and
+17 procedures
+18 A. [A DIRECTOR OF] THE DIVISION OF SPECIAL EDUCATION ESTABLISHED BY
+19 SECTION 15-235 [SHALL DESIGNATE AT LEAST ONE INDIVIDUAL TO] [MAY] PROVIDE
+20 ASSISTANCE TO [THE PARENTS OF CHILDREN] [INDIVIDUALS] WHO FILE OR SEEK TO
+21 FILE A COMPLAINT ALLEGING THAT A SCHOOL DISTRICT OR CHARTER SCHOOL HAS
+22 VIOLATED THE PROCEDURAL OR SUBSTANTIVE REQUIREMENTS OF [ANY] [ONE OR MORE]
+23 OF THE FOLLOWING:
+24 1. 20 UNITED STATES CODE SECTIONS 1411 THROUGH 1419 OR THE
+25 REGULATIONS IMPLEMENTING THOSE SECTIONS.
+26 2. THE LAWS OF THIS STATE RELATING TO THE PROVISION OF SPECIAL
+27 EDUCATION.
+28 [3. SECTION 15-105.
+29 B. THE INDIVIDUAL DESIGNATED PURSUANT TO SUBSECTION A OF THIS
+30 SECTION SHALL DO THE FOLLOWING:
+31 1. PROVIDE SUPPORT TO ANY PERSON WHO FILES OR CONTACTS THE
+32 DEPARTMENT FOR THE PURPOSE OF FILING A COMPLAINT ALLEGING THAT A SCHOOL
+33 DISTRICT OR CHARTER SCHOOL HAS COMMITTED ONE OR MORE VIOLATIONS DESCRIBED
+34 IN SUBSECTION A OF THIS SECTION.]
+35 [2.] [B.] FOR ANY COMPLAINT ALLEGING A VIOLATION DESCRIBED IN
+36 SUBSECTION A OF THIS SECTION THAT IS FILED WITH THE DEPARTMENT AND THAT IS
+37 FOUND TO BE INCOMPLETE OR DESIGNATED AS "DOES-NOT-QUALIFY", [THE DIVISION
+38 SHALL] CONTACT THE [PERSON WHO FILED THE COMPLAINT] [COMPLAINANT] AND
+39 REQUEST [ADDITIONAL] [MISSING] INFORMATION [OR NECESSARY SIGNATURES].
+40 [C. THE DIVISION SHALL CREATE AND MAINTAIN A CENTRAL REPOSITORY OF
+41 ALL APPROPRIATELY REDACTED REPORTS.
+42 D. TO THE EXTENT ALLOWED UNDER FEDERAL LAW, ON OR BEFORE _____ OF
+43 EACH YEAR, THE DIVISION SHALL SUBMIT A REPORT TO THE GOVERNOR, THE SPEAKER
+44 OF THE HOUSE OF REPRESENTATIVES, THE PRESIDENT OF THE SENATE AND THE
+45 CHAIRPERSONS OF THE SENATE AND HOUSE OF REPRESENTATIVES COMMITTEES ON
+46 EDUCATION, OR THEIR SUCCESSOR COMMITTEES, AND SHALL SUBMIT A COPY OF THE
+47 REPORT TO THE SECRETARY OF STATE, THAT INCLUDES THE FOLLOWING INFORMATION
+-2-
+
+Senate Amendments to S.B. 1754
+1 FOR THE IMMEDIATELY PRECEDING SCHOOL YEAR, DISAGGREGATED BY SCHOOL
+2 DISTRICT OR CHARTER SCHOOL, COUNTY, RACE AND DISABILITY CATEGORY:
+3 1. THE NUMBER OF COMPLAINTS FILED WITH THE DEPARTMENT.
+4 2. THE NUMBER OF COMPLAINTS FOR EACH OF THE FOLLOWING:
+5 (a) EVALUATION DENIALS.
+6 (b) ELIGIBILITY DISPUTES.
+7 (c) ALLEGED TIMELINE VIOLATIONS.
+8 (d) FAILURE TO PROVIDE AGREED-ON SERVICES.
+9 (e) ANY OTHER SUBJECT IDENTIFIED BY THE DIVISION.
+10 3. A DESCRIPTION OF THE STAFFING LEVELS AND TENURE FOR COMPLAINT
+11 INVESTIGATORS WHO ARE EMPLOYED BY THIS STATE.
+12 4. THE NUMBER OF COMPLAINTS:
+13 (a) THAT WERE DISMISSED ON THE GROUNDS THAT THE COMPLAINT WAS
+14 DESIGNATED AS "DOES-NOT-QUALIFY".
+15 (b) THAT WERE OPENED FOR INVESTIGATION.
+16 (c) THAT WERE WITHDRAWN BY THE FILER, DISAGGREGATED BY THE REASON
+17 FOR WITHDRAWAL, IF KNOWN.
+18 (d) THAT RESULT IN A FINDING OF NONCOMPLIANCE OR AT LEAST ONE
+19 VIOLATION DESCRIBED IN SUBSECTION A OF THIS SECTION.
+20 (e) THAT RESULT IN A CORRECTIVE ACTION.
+21 (f) FOR WHICH A CORRECTIVE ACTION EXCEEDS ONE CALENDAR YEAR.
+22 (g) THAT RESULT IN THE APPOINTMENT OF A SPECIAL MONITOR.
+23 (h) FOR WHICH CORRECTIVE ACTION WAS NOT TAKEN AND THE DEPARTMENT
+24 ISSUES:
+25 (i) A LETTER OF INQUIRY.
+26 (ii) A LETTER OF CLARIFICATION.
+27 (iii) ISSUES A LETTER OF ENFORCEMENT.
+28 5. A DESCRIPTION OF:
+29 (a) THE BASIS FOR DESIGNATING EACH COMPLAINT DESCRIBED IN PARAGRAPH
+30 4, SUBDIVISION (a) OF THIS SUBSECTION AS "DOES-NOT-QUALIFY".
+31 (b) THE ENFORCEMENT ACTION THAT WAS IMPOSED FOR EACH COMPLAINT
+32 DESCRIBED IN PARAGRAPH 4, SUBDIVISION (h), ITEM (iii) OF THIS SECTION.]
+33 [C. NOT LATER THAN SIXTY DAYS AFTER COMPLETING A STATE COMPLAINT
+34 INVESTIGATION, THE DEPARTMENT SHALL POST ON THE DEPARTMENT'S WEBSITE ALL
+35 STATE COMPLAINT INVESTIGATIVE REPORTS FOR THE STATE COMPLAINT, INCLUDING
+36 ANY CORRECTIVE ACTION OR, IF THE COMPLAINT IS DESIGNATED AS
+37 "DOES-NOT-QUALIFY", DISMISSAL LETTERS. NOTWITHSTANDING ANY OTHER LAW, THE
+38 DEPARTMENT SHALL REDACT ALL STATE INVESTIGATIVE REPORTS THAT ARE POSTED
+39 PURSUANT TO THIS SUBSECTION TO REMOVE PERSONALLY IDENTIFIABLE INFORMATION
+40 AND AS REQUIRED BY ONLY STUDENT PRIVACY LAWS.
+41 D. STATE COMPLAINT INVESTIGATIVE REPORTS THAT ARE POSTED PURSUANT
+42 TO SUBSECTION C OF THIS SECTION ARE NOT STUDENT LEVEL DATA AS DEFINED BY
+43 SECTION 15-1042.
+44 E. THE DEPARTMENT SHALL ADOPT POLICIES AND PROCEDURES FOR STATE
+45 COMPLAINTS DESCRIBED IN THIS SECTION AND SHALL POST THE POLICIES AND
+46 PROCEDURES ON THE DEPARTMENT'S WEBSITE. THE POLICIES AND PROCEDURES
+-3-
+
+Senate Amendments to S.B. 1754
+1 ADOPTED PURSUANT TO THIS SUBSECTION ARE SUBJECT TO THE FOLLOWING
+2 REQUIREMENTS:
+3 1. THE POLICIES AND PROCEDURES MUST INCLUDE POLICIES AND PROCEDURES
+4 RELATING TO THE REDACTION OF STATE COMPLAINT INVESTIGATIVE REPORTS.
+5 2. BEGINNING DECEMBER 1, 2026, THE DEPARTMENT SHALL PROVIDE AN
+6 OPPORTUNITY FOR PUBLIC COMMENT FOR AT LEAST SIXTY DAYS BEFORE DRAFT
+7 POLICIES AND PROCEDURES MAY BECOME EFFECTIVE.
+8 3. THE DEPARTMENT SHALL DESIGN THE POLICIES AND PROCEDURES TO
+9 PROTECT THE PERSONALLY IDENTIFIABLE INFORMATION OF STUDENTS AND TO PROMOTE
+10 THE TRANSPARENCY OF THE STATE COMPLAINT PROCESS, INVESTIGATIVE REPORTS AND
+11 STUDENT OUTCOMES.
+12 F. FOR THE PURPOSES OF THIS SECTION, A REPORT IS DESIGNATED AS
+13 "DOES-NOT-QUALIFY" IF THE DEPARTMENT DETERMINES ANY OF THE FOLLOWING:
+14 1. THE STUDENT IS NOT A CHILD WITH A DISABILITY AS DEFINED IN
+15 SECTION 15-761.
+16 2. NONE OF THE ALLEGATIONS IN THE COMPLAINT ARE A VIOLATION THAT IS
+17 DESCRIBED IN SUBSECTION A, PARAGRAPH 1 OR 2 OF THIS SECTION.
+18 3. THE NATURE OF THE ALLEGATIONS IN THE COMPLAINT ARE OUTSIDE THE
+19 DEPARTMENT'S INVESTIGATIVE AUTHORITY.]
+20 Enroll and engross to conform
+21 Amend title to conform
+MARK FINCHEM
+1754FloorFINCHEM.docx
+03/03/2026
+11:59 AM
+C: VS
+130VTSUJA
+-4-

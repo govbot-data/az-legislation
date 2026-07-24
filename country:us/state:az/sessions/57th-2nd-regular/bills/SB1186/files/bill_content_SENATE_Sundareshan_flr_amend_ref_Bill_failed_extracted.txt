@@ -1,0 +1,249 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Sundareshan flr amend (ref Bill) failed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1186
+Sundareshan Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Requires the Director of the Arizona Department of Administration to:
+a) collect the name of every principal of a contractor that is awarded a new contract or that renews
+an existing contract; and
+b) include the names in the record of procurement actions.
+2. Requires a portion of the record made available to the public through an online portal to include
+search functionality that allows a public viewer to search for contracts executed after the effective
+date by inputting the name of the contractor that is a party to the contract or the name of the
+principal of the contractor.
+3. Prohibits a bidder or offerer, or a principle of a bidder or offerer, that has submitted a bid for
+proposal to an agency in Arizona from knowingly providing a contribution, gift or other item
+with a value of more than $50 or make an express or implied promise to make a contribution or
+gift, during the period between the submission of the bid or proposal and 90 days after the award
+of the contract, to:
+a) any candidate,
+b) any candidate committee for legislative or statewide office; or
+c) any political action committee.
+4. Allows a candidate, political action committee or candidate committee to accept contributions or
+gifts if it is determined that the individual providing the contribution or gift is not a principle or a
+contractor whose name is present in the online portal.
+5. Requires the candidate, political action committee or candidate committee, if a contribution or gift
+is accepted because the portal was not up to date, to return the contribution or gift within 45 days
+after notification that the contribution or gift was in violation of the contribution restrictions to
+avoid a civil penalty.
+6. Subjects any person who knowingly violates the contribution restrictions to a civil penalty of $500
+or up to two times the amount of the contribution or gift, whichever is greater.
+7. Requires the Attorney General to initiate civil proceedings to enforce the civil penalties.
+8. Requires any civil penalties collected to be payable to the State Treasurer for deposit in the state
+General Fund.
+Amendment explanation prepared by Jason Theodorou
+2/27/2026
+
+9. Requires the suspension or debarment of any person from consideration for award of contracts for
+a knowing violation the contribution restrictions regardless of whether the Attorney General has
+sought to enforce a civil penalty for the violation.
+10. Defines the following terms:
+a) candidate committee;
+b) political action committee;
+c) principal of a bidder or offerer; and
+d) principal of a contractor.
+11. Makes technical changes.
+- 2 -
+
+Fifty-seventh Legislature Sundareshan
+Second Regular Session S.B. 1186
+SUNDARESHAN FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1186
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 41, chapter 23, article 1, Arizona Revised
+3 Statutes, is amended by adding section 41-2505, to read:
+4 41-2505. Request for proposals; governor; donations;
+5 disclosure
+6 NOTWITHSTANDING ANY OTHER LAW, A COMPANY THAT RESPONDS TO A REQUEST
+7 FOR PROPOSALS SHALL DISCLOSE ANYTHING OF VALUE THAT THE COMPANY, ITS
+8 OFFICERS OR DIRECTORS OR ANY OF THEIR FAMILY MEMBERS HAVE PROVIDED,
+9 DIRECTLY OR INDIRECTLY, DURING THE PRECEDING FIVE YEARS TO ANY OF THE
+10 FOLLOWING:
+11 1. THE GOVERNOR.
+12 2. ANY ENTITY THAT IS ESTABLISHED, FINANCED, MAINTAINED OR
+13 CONTROLLED BY THE GOVERNOR OR AN AGENT OF THE GOVERNOR, INCLUDING A
+14 CAMPAIGN COMMITTEE, A JOINT FUNDRAISING COMMITTEE OR AN INAUGURAL FUND.
+15 3. AN ENTITY THAT ADVOCATES FOR THE ELECTION OF THE GOVERNOR OR FOR
+16 THE DEFEAT OF AN ELECTORAL OPPONENT OF THE GOVERNOR, INCLUDING A POLITICAL
+17 COMMITTEE OR OTHER NONPROFIT ORGANIZATION THAT MAKES ANY INDEPENDENT
+18 EXPENDITURES.
+19 Sec. 2. Section 41-2550, Arizona Revised Statutes, is amended to
+20 read:
+21 41-2550. Retention of procurement records; resolicitation of
+22 contracts
+23 A. All procurement records shall be retained and disposed of in
+24 accordance with records retention guidelines and schedules approved by the
+25 Arizona state library, archives and public records.
+26 B. A STATE AGENCY OR STATE EMPLOYEE MAY NOT DESTROY ANY NOTES TAKEN
+27 DURING THE EVALUATION OF A COMPANY THAT RESPONDS TO A REQUEST FOR
+28 PROPOSALS. IF A STATE AGENCY OR STATE EMPLOYEE DESTROYS ANY NOTES
+29 PURSUANT TO THIS SUBSECTION, ALL CONTRACTS THAT WERE RELATED TO THE
+30 DESTROYED NOTES AND THAT WERE AGREED TO FROM AND AFTER THE EFFECTIVE DATE
+31 OF THIS AMENDMENT TO THIS SECTION MAY BE RESOLICITED.
+
+Senate Amendments to S.B. 1186
+1 <<Sec. 3. Section 41-2551, Arizona Revised Statutes, is amended to
+2 read:
+3 41-2551. Record of procurement actions; online portal;
+4 definition
+5 A. The director shall maintain a record listing all contracts in
+6 excess of an amount to be determined by [regulation] [RULE] made under
+7 section 41-2536 or 41-2537 for a minimum of five years. The record shall
+8 contain:
+9 1. Each contractor's name.
+10 2. The amount and type of each contract.
+11 3. A listing of the materials, services or construction procured
+12 under each contract.
+13 B. The record shall be available for public inspection.
+14 [C. BEGINNING FROM AND AFTER THE EFFECTIVE DATE OF THIS AMENDMENT
+15 TO THIS SECTION, THE DIRECTOR SHALL COLLECT THE NAME OF EVERY PRINCIPAL OF
+16 A CONTRACTOR THAT IS AWARDED A NEW CONTRACT OR THAT RENEWS AN EXISTING
+17 CONTRACT AND SHALL INCLUDE IT IN THE RECORD PURSUANT TO THIS SECTION.
+18 D. ANY PORTION OF THE RECORD MADE AVAILABLE TO THE PUBLIC THROUGH
+19 AN ONLINE PORTAL SHALL INCLUDE SEARCH FUNCTIONALITY THAT ALLOWS A PUBLIC
+20 VIEWER TO SEARCH FOR CONTRACTS EXECUTED AFTER THE EFFECTIVE DATE OF THIS
+21 AMENDMENT TO THIS SECTION BY INPUTTING THE NAME OF THE CONTRACTOR THAT IS
+22 A PARTY TO THE CONTRACT OR THE NAME OF A PRINCIPAL OF THE CONTRACTOR.
+23 E. FOR THE PURPOSES OF THIS SECTION, "PRINCIPAL OF A CONTRACTOR"
+24 MEANS AN INDIVIDUAL WHO HAS AN OWNERSHIP INTEREST OF AT LEAST FIVE PERCENT
+25 IN A CONTRACTOR THAT IS A BUSINESS ENTITY.]>>
+26 <<Sec. 4. Title 41, chapter 23, article 3, Arizona Revised
+27 Statutes, is amended by adding section 41-2559.01, to read:
+28 41-2559.01. Contributions; gifts; prohibition; violation;
+29 civil penalty; definitions
+30 [A. A BIDDER OR OFFERER, OR AN INDIVIDUAL WHO IS A PRINCIPAL OF A
+31 BIDDER OR OFFEROR, THAT HAS SUBMITTED A BID OR PROPOSAL TO AN AGENCY IN
+32 THIS STATE MAY NOT KNOWINGLY PROVIDE A CONTRIBUTION, GIFT OR OTHER ITEM
+33 WITH A VALUE OF MORE THAN $50 OR MAKE AN EXPRESS OR IMPLIED PROMISE TO
+34 MAKE A CONTRIBUTION OR GIFT TO ANY CANDIDATE, ANY CANDIDATE COMMITTEE FOR
+35 LEGISLATIVE OR STATEWIDE OFFICE OR ANY POLITICAL ACTION COMMITTEE DURING
+36 THE PERIOD BETWEEN THE SUBMISSION OF THE BID OR PROPOSAL AND NINETY DAYS
+37 AFTER THE AWARD OF THE CONTRACT UNDER THIS CHAPTER. THIS SECTION APPLIES
+38 ONLY TO CONTRACTS IN WHICH THE STATED OR EXPECTED VALUE OF THE CONTRACT IS
+39 MORE THAN THE PRESCRIBED AMOUNT SPECIFIED IN SECTION 41-2535.
+40 B. A CANDIDATE, POLITICAL ACTION COMMITTEE OR CANDIDATE COMMITTEE
+41 MAY ACCEPT CONTRIBUTIONS OR GIFTS IF THE CANDIDATE, POLITICAL ACTION
+42 COMMITTEE OR CANDIDATE COMMITTEE DETERMINES THAT THE INDIVIDUAL WHO IS
+43 PROVIDING THE CONTRIBUTION OR GIFT IS NOT A PRINCIPAL OF A CONTRACTOR
+44 WHOSE NAME IS PRESENT IN THE ONLINE PORTAL PURSUANT TO SECTION 41-2551.
+45 IF A CONTRIBUTION OR GIFT IS ACCEPTED BECAUSE THE PORTAL WAS NOT UP TO
+46 DATE AND DID NOT HAVE THE NAME OF THE PRINCIPAL OF A CONTRACTOR PRESENT,
+47 THE CANDIDATE, POLITICAL ACTION COMMITTEE OR CANDIDATE COMMITTEE MUST
+-2-
+
+Senate Amendments to S.B. 1186
+1 RETURN THE CONTRIBUTION OR GIFT WITHIN FORTY-FIVE DAYS AFTER NOTIFICATION
+2 THAT THE CONTRIBUTION OR GIFT WAS IN VIOLATION OF THIS SECTION TO AVOID
+3 THE CIVIL PENALTY PURSUANT TO SUBSECTION C OF THIS SECTION.
+4 C. ANY PERSON WHO KNOWINGLY VIOLATES THIS SECTION SHALL BE SUBJECT
+5 TO A CIVIL PENALTY OF $500 OR UP TO TWO TIMES THE AMOUNT OF THE
+6 CONTRIBUTION OR GIFT, WHICHEVER IS GREATER. THE ATTORNEY GENERAL MAY
+7 INITIATE CIVIL PROCEEDINGS TO ENFORCE THE CIVIL PENALTIES. ANY CIVIL
+8 PENALTIES COLLECTED PURSUANT TO THIS SECTION SHALL BE PAYABLE TO THE STATE
+9 TREASURER FOR DEPOSIT TO THE STATE GENERAL FUND.
+10 D. FOR THE PURPOSES OF THIS SECTION:
+11 1. "CANDIDATE COMMITTEE" HAS THE SAME MEANING PRESCRIBED IN SECTION
+12 16-901.
+13 2. "POLITICAL ACTION COMMITTEE" MEANS AN ENTITY THAT IS BOTH OF THE
+14 FOLLOWING:
+15 (a) REQUIRED TO REGISTER AS A POLITICAL ACTION COMMITTEE PURSUANT
+16 TO SECTION 16-905.
+17 (b) ESTABLISHED, FINANCED, MAINTAINED OR CONTROLLED BY A CANDIDATE
+18 FOR STATEWIDE OR LEGISLATIVE OFFICE OR THE CANDIDATE'S AGENTS.
+19 3. "PRINCIPAL OF A BIDDER OR OFFERER" MEANS AN INDIVIDUAL WHO HAS
+20 AN OWNERSHIP INTEREST OF AT LEAST FIVE PERCENT IN A BIDDER OR OFFERER THAT
+21 IS A BUSINESS ENTITY.]>>
+22 <<Sec. 5. Section 41-2613, Arizona Revised Statutes, is amended to
+23 read:
+24 41-2613. Debarment and suspension of contractors
+25 A. The director shall adopt rules providing for the suspension and
+26 debarment of any person from consideration for award of contracts pursuant
+27 to this chapter. If there are reasonable grounds for debarment, the rules
+28 of the director may provide for the suspension of any person for not to
+29 exceed six months. A debarment shall not exceed three years.
+30 B. The causes for debarment or suspension include the following:
+31 1. Conviction of any person or any subsidiary or affiliate of any
+32 person for commission of a criminal offense arising out of obtaining or
+33 attempting to obtain a public or private contract or subcontract, or in
+34 the performance of such contract or subcontract.
+35 2. Conviction of any person or any subsidiary or affiliate of any
+36 person under any statute of the federal government, this state or any
+37 other state for embezzlement, theft, fraudulent schemes and artifices,
+38 fraudulent schemes and practices, bid rigging, perjury, forgery, bribery,
+39 falsification or destruction of records, receiving stolen property or any
+40 other offense indicating a lack of business integrity or business honesty,
+41 which affects responsibility as a state contractor.
+42 3. Conviction or civil judgment finding a violation by any person
+43 or any subsidiary or affiliate of any person under state or federal
+44 antitrust statutes.
+45 4. Violations of contract provisions of a character [which] [THAT]
+46 are deemed to be so serious as to justify debarment action, such as either
+47 of the following:
+-3-
+
+Senate Amendments to S.B. 1186
+1 (a) Knowingly fails without good cause to perform in accordance
+2 with the specification or within the time limit provided in the contract.
+3 (b) Failure to perform or unsatisfactory performance in accordance
+4 with the terms of one or more contracts, except that failure to perform or
+5 unsatisfactory performance caused by acts beyond the control of the
+6 contractor shall not be considered to be a basis for debarment.
+7 5. Any other cause deemed to affect responsibility as a state
+8 contractor, including suspension or debarment of such person or any
+9 subsidiary or affiliate of such person by another governmental entity for
+10 any cause listed in rules of the director.
+11 [6. A KNOWING VIOLATION OF SECTION 41-2559.01, REGARDLESS OF
+12 WHETHER THE ATTORNEY GENERAL HAS SOUGHT TO ENFORCE A CIVIL PENALTY FOR THE
+13 VIOLATION.]
+14 C. A written determination to debar or suspend shall be issued
+15 pursuant to the rules of the director, which shall:
+16 1. State the reasons for the action taken.
+17 2. Inform any debarred or suspended person involved of the right to
+18 administrative review as provided in this article.
+19 D. A copy of the decision under subsection C [OF THIS SECTION]
+20 shall be mailed or otherwise furnished to any debarred or suspended person
+21 and to any intervening party.>>
+22 Sec. 6. Title 41, chapter 24, article 1, Arizona Revised Statutes,
+23 is amended by adding section 41-2707, to read:
+24 41-2707. Grants; governor; donations; disclosure
+25 NOTWITHSTANDING ANY OTHER LAW, A COMPANY THAT APPLIES FOR A GRANT
+26 SHALL DISCLOSE ANYTHING OF VALUE THAT THE COMPANY, ITS OFFICERS OR
+27 DIRECTORS OR ANY OF THEIR FAMILY MEMBERS HAVE PROVIDED, DIRECTLY OR
+28 INDIRECTLY, DURING THE PRECEDING FIVE YEARS TO ANY OF THE FOLLOWING:
+29 1. THE GOVERNOR.
+30 2. ANY ENTITY THAT IS ESTABLISHED, FINANCED, MAINTAINED OR
+31 CONTROLLED BY THE GOVERNOR OR AN AGENT OF THE GOVERNOR, INCLUDING A
+32 CAMPAIGN COMMITTEE, A JOINT FUNDRAISING COMMITTEE OR AN INAUGURAL FUND.
+33 3. AN ENTITY THAT ADVOCATES FOR THE ELECTION OF THE GOVERNOR OR FOR
+34 THE DEFEAT OF AN ELECTORAL OPPONENT OF THE GOVERNOR, INCLUDING A POLITICAL
+35 COMMITTEE OR OTHER NONPROFIT ORGANIZATION THAT MAKES ANY INDEPENDENT
+36 EXPENDITURES.
+37 Enroll and engross to conform
+38 Amend title to conform
+PRIYA SUNDARESHAN
+1186FloorSUNDARESHAN.docx
+02/25/2026
+1:09 PM
+C: AH
+130AHPDLM
+-4-

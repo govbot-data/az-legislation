@@ -1,0 +1,642 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Education
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON EDUCATION
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 4034
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 15-393, Arizona Revised Statutes, is amended to
+3 read:
+4 15-393. Career technical education boards; report;
+5 definitions
+6 A. The management and control of a career technical education
+7 district are vested in the career technical education [district governing]
+8 board, including the content and quality of the courses offered by the
+9 district, the quality of teachers who provide instruction on behalf of the
+10 district, the salaries of teachers who provide instruction on behalf of
+11 the district, THE FUNDING FOR THE DISTRICT'S AVERAGE DAILY MEMBERSHIP and
+12 the reimbursement of other entities for the facilities used by the
+13 district. This section does not restrict a school district from offering
+14 any career and technical education course that does not qualify for
+15 funding as a career technical education course or career technical
+16 education district program. Unless the governing boards of the school
+17 districts participating in the formation of the career technical education
+18 district vote to implement an alternative election system as provided in
+19 subsection B of this section, the career technical education board
+20 consists of five members elected from five single member districts formed
+21 within the career technical education district. The single member
+22 district election system shall be submitted as part of the plan for the
+23 career technical education district pursuant to section 15-392 and shall
+24 be established in the plan as follows:
+25 1. The governing boards of the school districts participating in
+26 the formation of the career technical education district shall define the
+27 boundaries of the single member districts so that the single member
+28 districts are as nearly equal in population as is practicable, except that
+
+House Amendments to H.B. 4034
+1 if the career technical education district lies in part in each of two or
+2 more counties, at least one single member district may be entirely within
+3 each of the counties comprising the career technical education district if
+4 this district design is consistent with the obligation to equalize the
+5 population among single member districts.
+6 2. The boundaries of each single member district shall follow
+7 election precinct boundary lines, as far as practicable, in order to avoid
+8 further segmentation of the precincts.
+9 3. A person who is a registered voter of this state and who has
+10 been a resident of the single member district for at least one year
+11 immediately preceding the date of the election is eligible for election to
+12 the office of career technical education board member from the single
+13 member district. The terms of office of the members of the career
+14 technical education board shall be as prescribed in section 15-427,
+15 subsection B. An employee of a career technical education district or the
+16 spouse of an employee shall not hold membership on a governing board of a
+17 career technical education district by which the employee is employed. A
+18 member of one school district governing board or career technical
+19 education [district governing] board is ineligible to be a candidate for
+20 nomination or election to or serve simultaneously as a member of any other
+21 governing board, except that a member of a governing board may be a
+22 candidate for nomination or election for any other governing board if the
+23 member is serving in the last year of a term of office. A member of a
+24 governing board shall resign the member's seat on the governing board
+25 before becoming a candidate for nomination or election to the governing
+26 board of any other school district or career technical education district,
+27 unless the member of the governing board is serving in the last year of a
+28 term of office. Members of a career technical education [district
+29 governing] board are subject to the conflict of interest requirements
+30 prescribed in section 38-503.
+31 4. Nominating petitions shall be signed by the number of qualified
+32 electors of the single member district as provided in section 16-322.
+33 B. The governing boards of the school districts participating in
+34 the formation of the career technical education district may vote to
+35 implement any other alternative election system for the election of career
+36 technical education [district] board members. If an alternative election
+37 system is selected, it shall be submitted as part of the plan for the
+38 career technical education district pursuant to section 15-392, and the
+39 implementation of the system shall be as approved by the United States
+40 justice department.
+41 C. Career technical education districts are subject to the
+42 following provisions of this title:
+43 1. Chapter 1, articles 1, 2, 3, 4, 5 and 6.
+44 2. Sections 15-208, 15-210, 15-213 and 15-234.
+45 3. Articles 2, 3 and 5 of this chapter.
+46 4. Section 15-361.
+47 5. Chapter 4, articles 1, 2 and 5.
+-2-
+
+House Amendments to H.B. 4034
+1 6. Chapter 5, articles 1 and 3.
+2 7. Sections 15-701.01, 15-722, 15-723, 15-724, 15-727, 15-728,
+3 15-729 and 15-730.
+4 8. Chapter 7, article 5.
+5 9. Chapter 8, articles 1, 3 and 4.
+6 10. Sections 15-828 and 15-829.
+7 11. Chapter 9, article 1, article 6, except for section 15-995, and
+8 article 7.
+9 12. Sections 15-941, 15-943.01, 15-953 and 15-973.
+10 13. Sections 15-1101 and 15-1104.
+11 14. Chapter 10, articles 2, 3, 4 and 8.
+12 D. Notwithstanding subsection C of this section, the following
+13 apply to a career technical education district:
+14 1. A career technical education district may issue bonds for the
+15 purposes specified in section 15-1021 and in chapter 4, article 5 of this
+16 title to an amount in the aggregate, including the existing indebtedness,
+17 not exceeding one percent of the net assessed value of the full cash value
+18 of the property within the career technical education district. For the
+19 purposes of this paragraph, "full cash value" and "net assessed value"
+20 have the same meanings prescribed in section 42-11001.
+21 2. The number of governing board members for a career technical
+22 education district shall be as prescribed in subsection A of this section.
+23 3. The student count for the first year of operation of a career
+24 technical education district as provided in this article shall be
+25 determined as follows:
+26 (a) Determine the estimated student count for career technical
+27 education district classes that will operate in the first year of
+28 operation. This estimate shall be based on actual registration of pupils
+29 as of March 30 scheduled to attend classes that will be operated by the
+30 career technical education district. The student count for the school
+31 district of residence of the pupils registered at the career technical
+32 education district shall be adjusted. The adjustment shall cause the
+33 school district of residence to reduce the student count for the pupil to
+34 reflect the courses to be taken at the career technical education
+35 district. The school district of residence shall review and approve the
+36 adjustment of its own student count as provided in this subdivision before
+37 the pupils from the school district can be added to the student count of
+38 the career technical education district.
+39 (b) The student count for the new career technical education
+40 district shall be the student count as determined in subdivision (a) of
+41 this paragraph.
+42 (c) For the first year of operation, the career technical education
+43 district shall revise the student count to the actual average daily
+44 membership as prescribed in section 15-901, subsection A, paragraph 1 for
+45 students attending classes in the career technical education district. A
+46 career technical education district shall revise its student count, the
+47 base support level as provided in section 15-943.02, the revenue control
+-3-
+
+House Amendments to H.B. 4034
+1 limit as provided in section 15-944.01 and the district additional
+2 assistance as provided in section 15-962.01 before May 15. A career
+3 technical education district that overestimated its student count shall
+4 revise its budget before May 15. A career technical education district
+5 that underestimated its student count may revise its budget before May 15.
+6 (d) After March 15 of the first year of operation, the school
+7 district of residence shall adjust its student count by reducing it to
+8 reflect the courses actually taken at the career technical education
+9 district. The school district of residence shall revise its student
+10 count, the base support level as provided in section 15-943, the revenue
+11 control limit as provided in section 15-944 and the district additional
+12 assistance as provided in section 15-962.01 prior to May 15. A district
+13 that underestimated the student count for students attending the career
+14 technical education district shall revise its budget before May 15. A
+15 district that overestimated the student count for students attending the
+16 career technical education district may revise its budget before May 15.
+17 (e) The procedures for implementing this paragraph shall be as
+18 prescribed in the uniform system of financial records.
+19 For the purposes of this paragraph, "school district of residence" means
+20 the school district that included the pupil in its average daily
+21 membership for the year before the first year of operation of the career
+22 technical education district and that would have included the pupil in its
+23 student count for the purposes of computing its base support level for the
+24 fiscal year of the first year of operation of the career technical
+25 education district if the pupil had not enrolled in the career technical
+26 education district.
+27 4. A student includes any person enrolled in the career technical
+28 education district without regard to the person's age or high school
+29 graduation status, except that:
+30 (a) A student in a kindergarten program or in any of grades one
+31 through eight who enrolls in courses offered by the career technical
+32 education district shall not be included in the career technical education
+33 district's student count or average daily membership.
+34 (b) A student in a kindergarten program or in any of grades one
+35 through eight who is enrolled in career and technical education courses
+36 shall not be funded in whole or in part with monies provided by a career
+37 technical education district, except that a pupil in grade eight may be
+38 funded with monies generated by the $.05 qualifying tax rate authorized in
+39 subsection F of this section.
+40 (c) A student who has graduated from high school or received a
+41 general equivalency diploma or who is over twenty-one years of age shall
+42 not be included in the student count of the career technical education
+43 district for the purposes of chapter 9, articles 3, 4 and 5 of this title.
+44 5. A career technical education district may operate for more than
+45 one hundred eighty days per year, or less, with the equivalent number of
+46 hours of instruction.
+-4-
+
+House Amendments to H.B. 4034
+1 6. A career technical education district may use the carryforward
+2 provisions of section 15-943.01.
+3 7. A school district that is part of a career technical education
+4 district shall use any monies received pursuant to this article to
+5 supplement and not supplant base year career and technical education
+6 courses, and directly related equipment and facilities, except that a
+7 school district that is part of a career technical education district and
+8 that has used monies received pursuant to this article to supplant career
+9 and technical education courses that were offered before the first year
+10 that the school district participated in the career technical education
+11 district or the first year that the school district used monies received
+12 pursuant to this article or that used the monies for purposes other than
+13 for career and technical education courses shall use one hundred percent
+14 of the monies received pursuant to this article to supplement and not
+15 supplant base year career and technical education courses. Each
+16 applicable school district shall provide a report to the career technical
+17 education board and the department of education outlining the required
+18 maintenance of effort and how monies were used to supplement and not
+19 supplant base year career and technical education courses and directly
+20 related equipment and facilities. THE CAREER TECHNICAL EDUCATION BOARD
+21 MAY MONITOR, REVIEW AND AUDIT EACH PARTICIPATING SCHOOL DISTRICT'S AND
+22 EACH CHARTER SCHOOL'S USE OF MONIES THAT ARE DISTRIBUTED BY THE CAREER
+23 TECHNICAL EDUCATION DISTRICT PURSUANT TO THIS ARTICLE TO ENSURE THAT THE
+24 SCHOOL DISTRICT OR CHARTER SCHOOL USES THE MONIES TO SUPPLEMENT AND NOT
+25 SUPPLANT FEDERAL, STATE OR LOCAL FUNDING FOR CAREER AND TECHNICAL
+26 EDUCATION. EACH SCHOOL DISTRICT AND CHARTER SCHOOL THAT RECEIVES MONIES
+27 PURSUANT TO THIS ARTICLE SHALL SUBMIT TO THE CAREER TECHNICAL EDUCATION
+28 BOARD ANY FINANCIAL RECORDS, DOCUMENTATION OR INFORMATION REQUESTED BY THE
+29 [CAREER TECHNICAL EDUCATION] BOARD THAT IS REASONABLY NECESSARY FOR THE
+30 OVERSIGHT AUTHORIZED BY THIS PARAGRAPH. [THE CAREER TECHNICAL EDUCATION
+31 BOARD SHALL SUBMIT TO EACH SCHOOL DISTRICT THAT IS PART OF THE CAREER
+32 TECHNICAL EDUCATION DISTRICT A QUARTERLY REPORT THAT INCLUDES THE
+33 AGGREGATE CAREER TECHNICAL EDUCATION DISTRICT EXPENDITURES AND THE CAREER
+34 TECHNICAL EDUCATION DISTRICT EXPENDITURES FOR THE BENEFIT OF EACH
+35 PARTICIPATING SCHOOL DISTRICT.]
+36 8. A career technical education district shall use any monies
+37 received pursuant to this article to enhance and not supplant career and
+38 technical education courses and directly related equipment and facilities.
+39 9. A career technical education district or a school district that
+40 is part of a career technical education district or a charter school shall
+41 only include pupils in grades nine through twelve and pupils in the school
+42 year immediately following graduation in the calculation of student count
+43 or average daily membership if the pupils are enrolled in courses that are
+44 approved jointly by the governing board of the career technical education
+45 district and each participating school district or charter school for
+46 satellite courses taught within the participating school district or
+47 charter school, or approved solely by the career technical education
+-5-
+
+House Amendments to H.B. 4034
+1 district for centrally located courses. Funding may be provided for not
+2 more than four years for the same student. Student count and average
+3 daily membership from courses that are not part of an approved program for
+4 career and technical education shall not be included in student count and
+5 average daily membership of a career technical education district.
+6 10. A career technical education district may build, maintain and
+7 provide housing facilities and support services for students who are in
+8 foster care or who meet the definition of unaccompanied youth as defined
+9 in the McKinney-Vento homeless assistance act (P.L. 100-77; 101 Stat. 482;
+10 42 United States Code section 11434a).
+11 E. The career technical education board shall appoint a
+12 superintendent as the executive officer of the career technical education
+13 district.
+14 F. Taxes may be levied for the support of the career technical
+15 education district as prescribed in chapter 9, article 6 of this title,
+16 except that a career technical education district shall not levy a
+17 property tax pursuant to law that exceeds $.05 per $100 assessed valuation
+18 except for bond monies pursuant to subsection D, paragraph 1 of this
+19 section. Such taxes shall be obtained from a levy of taxes on the taxable
+20 property used for secondary tax purposes.
+21 G. The schools in the career technical education district are
+22 available to all persons who reside in the career technical education
+23 district and to pupils whose school district of residence within this
+24 state is paying tuition on behalf of the pupils to a district of
+25 attendance that is a member of the career technical education district,
+26 subject to the rules for admission prescribed by the career technical
+27 education board.
+28 H. The career technical education board may collect tuition for
+29 adult students and the attendance of pupils who are residents of school
+30 districts that are not participating in the career technical education
+31 district pursuant to arrangements made between the governing board of the
+32 school district and the career technical education board.
+33 I. The career technical education board may accept gifts, grants,
+34 federal monies, tuition and other allocations of monies to erect, repair
+35 and equip buildings and for the cost of operating the schools of the
+36 career technical education district.
+37 J. One member of the career technical education board shall be
+38 selected chairperson. The chairperson shall be selected annually on a
+39 rotation basis from among the participating school districts. The
+40 chairperson of the career technical education board shall be a voting
+41 member.
+42 K. A career technical education board may enter into agreements to
+43 provide for administrative, operational and educational services and
+44 facilities with either:
+45 1. A community college district.
+46 2. A university under the jurisdiction of the Arizona board of
+47 regents only if the community college district, if any, for each county in
+-6-
+
+House Amendments to H.B. 4034
+1 which the career technical education district is located is not able to
+2 offer the course or program in the next school year. For the purposes of
+3 this paragraph, a community college district is not able to offer a course
+4 or program if both of the following apply:
+5 (a) On or before November 1 of each year, the career technical
+6 education board notifies the president or chancellor of the community
+7 college district in writing that the career technical education district
+8 seeks to offer one or more courses or programs, or both, that are BOTH:
+9 (i) Not offered through an existing agreement between the career
+10 technical education board and the community college district.
+11 (ii) Are Available through a university under the jurisdiction of
+12 the Arizona board of regents.
+13 (b) The president or chancellor of the community college district
+14 either:
+15 (i) Not later than thirty days after the president or chancellor
+16 receives the notice pursuant to subdivision (a) of this paragraph,
+17 notifies the superintendent of the career technical education district in
+18 writing that no community college district is able to offer the course or
+19 program in the next school year.
+20 (ii) Fails to respond to the superintendent of the career technical
+21 education district within thirty days after the president or chancellor of
+22 the community college district receives the notice pursuant to subdivision
+23 (a) of this paragraph.
+24 L. Any agreement between the governing board of a career technical
+25 education district and another career technical education district, a
+26 school district, a charter school, a university or a community college
+27 district shall be in the form of an intergovernmental agreement or other
+28 written contract [THAT IS EXECUTED ON OR BEFORE JULY 1 OF THE FIRST YEAR
+29 IN WHICH THE AGREEMENT OR CONTRACT IS EFFECTIVE]. The auditor general
+30 shall modify the uniform system of financial records and budget forms in
+31 accordance with this subsection. The intergovernmental agreement or other
+32 written contract shall completely and accurately specify each of the
+33 following:
+34 1. The financial provisions of the intergovernmental agreement or
+35 other written contract and the format for the billing of all services.
+36 2. The accountability provisions of the intergovernmental agreement
+37 or other written contract.
+38 3. The responsibilities of each career technical education
+39 district, each school district, each charter school, each university and
+40 each community college district that is a party to the intergovernmental
+41 agreement or other written contract.
+42 4. The type of instruction that will be provided under the
+43 intergovernmental agreement or other written contract, including
+44 individualized education programs pursuant to section 15-763.
+45 5. The quality of [the instruction, AS DETERMINED BY THE CAREER
+46 TECHNICAL EDUCATION DISTRICT GOVERNING BOARD,] [EACH INSTRUCTOR, INCLUDING
+47 THE MINIMUM QUALIFICATIONS, RELEVANT INDUSTRY EXPERIENCE AND
+-7-
+
+House Amendments to H.B. 4034
+1 INDUSTRY-RELEVANT PROFESSIONAL DEVELOPMENT,] that will be provided under
+2 the intergovernmental agreement or other written contract. [THE SCHOOL
+3 DISTRICT, THE CHARTER SCHOOL, THE UNIVERSITY OR THE COMMUNITY COLLEGE
+4 DISTRICT SHALL OVERSEE THE EVALUATION OF THE INSTRUCTOR UNLESS THE
+5 INTERGOVERNMENTAL AGREEMENT OR WRITTEN CONTRACT PROVIDES OTHERWISE.]
+6 6. The transportation services that will be provided under the
+7 intergovernmental agreement or other written contract and the manner in
+8 which transportation costs will be paid.
+9 7. The amount that the career technical education district will
+10 contribute to a course and the amount of support required by the school
+11 district, the charter school, the university or the community college.
+12 8. That[,] [the services provided by] [IF THE AVERAGE DAILY
+13 MEMBERSHIP GENERATED BY A PROGRAM OR COURSE IS INSUFFICIENT TO PAY FOR THE
+14 COSTS OF DELIVERING THE PROGRAM OR COURSE,] the career technical education
+15 district, the school district, the charter school, the university or the
+16 community college district [be proportionally calculated in the cost of
+17 delivering the service] [SHALL PAY A PROPORTIONAL SHARE OF THE COST OF
+18 DELIVERY, AS CALCULATED BY THE CAREER TECHNICAL EDUCATION DISTRICT
+19 GOVERNING BOARD].
+20 9. That the payment for services shall not exceed the cost of the
+21 services provided. [IF THE AVERAGE DAILY MEMBERSHIP THAT IS GENERATED BY
+22 A PROGRAM OR COURSE IS INSUFFICIENT TO PAY FOR THE COSTS OF DELIVERING THE
+23 PROGRAM OR COURSE, THE PARTICIPATING SCHOOL DISTRICT MAY USE FUNDING THAT
+24 IS GENERATED BY OTHER PROGRAMS OR COURSES AND THAT EXCEEDS THE COSTS OF
+25 DELIVERING THE OTHER PROGRAMS OR COURSES TO PAY FOR THE SHORTFALL.]
+26 10. That the career technical education district will provide the
+27 following minimum services for all member districts:
+28 (a) Professional development of career and technical teachers in
+29 the career technical education district who are teaching programs or
+30 courses at a satellite campus.
+31 (b) Ongoing evaluation and support of satellite campus programs and
+32 courses to ensure quality and compliance.
+33 11. An itemized listing of other goods and services that are
+34 provided to the member district and that are paid for by the retention of
+35 satellite campus student funding.
+36 [12. THAT ANY PARTY TO THE INTERGOVERNMENTAL AGREEMENT OR WRITTEN
+37 CONTRACT MAY FILE A COMPLAINT WITH THE STATE BOARD OF VOCATIONAL EDUCATION
+38 UNDER RULES ADOPTED BY THE STATE BOARD OF EDUCATION ACTING AS THE STATE
+39 BOARD OF VOCATIONAL EDUCATION REGARDING A DISPUTE ARISING FROM THE
+40 INTERGOVERNMENTAL AGREEMENT OR WRITTEN CONTRACT. THE STATE BOARD OF
+41 EDUCATION SHALL RESOLVE ANY COMPLAINT THAT IS SUBMITTED PURSUANT TO THIS
+42 PARAGRAPH NOT LATER THAN THIRTY DAYS AFTER IT RECEIVES THE COMPLAINT AND
+43 ANY REQUIRED DOCUMENTATION.
+44 13. THAT IF A CAREER TECHNICAL EDUCATION DISTRICT AND A SCHOOL
+45 DISTRICT DO NOT AGREE TO A SPECIFIED APPORTIONMENT ON OR BEFORE JULY 1,
+46 THE STATE BOARD OF EDUCATION ACTING AS THE STATE BOARD OF VOCATIONAL
+-8-
+
+House Amendments to H.B. 4034
+1 EDUCATION SHALL MEDIATE THE DISPUTE AND DETERMINE THE APPORTIONMENT FOR
+2 THE SCHOOL YEAR NOT LATER THAN AUGUST 1.]
+3 M. A member school district or charter school may not submit
+4 requests to approve or add satellite campus career technical education
+5 district programs or courses directly to the career and technical
+6 education division of the department of education but shall submit all
+7 appropriate application documentation and materials for programs or
+8 courses to the career technical education district. On approval from the
+9 career technical education board, a career technical education district
+10 shall only submit requests to approve or add satellite campus career
+11 technical education district programs or courses directly to the career
+12 and technical education division of the department of education, which
+13 shall determine whether the criteria prescribed in section 15-391,
+14 paragraphs 2 and 4 have been met. If the career and technical education
+15 division of the department of education determines that a course does not
+16 meet the criteria for approval as a career technical education course, the
+17 governing board of the career technical education district may appeal this
+18 decision to the state board of education acting as the state board of
+19 vocational education. [THE CAREER TECHNICAL EDUCATION BOARD AND THE
+20 CAREER AND TECHNICAL EDUCATION DIVISION OF THE DEPARTMENT OF EDUCATION
+21 SHALL ACCEPT AND CONSIDER REQUESTS PURSUANT TO THIS SUBSECTION FROM JULY 1
+22 THROUGH JUNE 30 OF EACH YEAR.]
+23 N. Notwithstanding any other law, the average daily membership for
+24 a pupil who is enrolled in a career technical education course and who
+25 does not meet the criteria specified in subsection P, Q or R of this
+26 section shall be 0.25 for each course, except the sum of the average daily
+27 membership shall not exceed the limits prescribed by subsection D, P, Q or
+28 R of this section, as applicable.
+29 O. If a career and technical education course or program is
+30 provided on a satellite campus, the sum of the average daily membership,
+31 as provided in section 15-901, subsection A, paragraph 1, for that pupil
+32 in the school district or charter school and career technical education
+33 district shall not exceed 1.25. [The school district or charter school
+34 and the career technical education district shall determine the
+35 apportionment] Of the [1.25] average daily membership [, A MAXIMUM OF 1.0
+36 SHALL BE ATTRIBUTED TO THE SCHOOL DISTRICT OR CHARTER SCHOOL AND A MAXIMUM
+37 OF 0.25 SHALL BE ATTRIBUTED TO THE CAREER TECHNICAL EDUCATION DISTRICT,
+38 UNLESS OTHERWISE APPORTIONED PURSUANT TO AN INTERGOVERNMENTAL AGREEMENT.]
+39 [for that pupil between the school district or charter school and the
+40 career technical education district, EXCEPT THAT AT LEAST 0.25 OF THE
+41 AVERAGE DAILY MEMBERSHIP FOR THAT PUPIL MUST BE ALLOCATED TO THE CAREER
+42 TECHNICAL EDUCATION DISTRICT UNLESS AN INTERGOVERNMENTAL AGREEMENT OR
+43 WRITTEN CONTRACT BETWEEN] THE SCHOOL DISTRICT OR CHARTER SCHOOL AND THE
+44 CAREER TECHNICAL EDUCATION DISTRICT [SHALL DETERMINE THE] [PURSUANT TO
+45 SUBSECTION L OF THIS SECTION PRESCRIBES A DIFFERENT] APPORTIONMENT [OF THE
+46 0.25 AVERAGE DAILY MEMBERSHIP PURSUANT TO A FULLY EXECUTED
+47 INTERGOVERNMENTAL AGREEMENT. IN THE ABSENCE OF A FULLY EXECUTED
+-9-
+
+House Amendments to H.B. 4034
+1 INTERGOVERNMENTAL AGREEMENT, THE SCHOOL DISTRICT OR CHARTER SCHOOL SHALL
+2 NOT REPORT AN AVERAGE DAILY MEMBERSHIP FOR A SATELLITE CAMPUS COURSE OR
+3 PROGRAM, AND AVERAGE DAILY MEMBERSHIP SHALL NOT BE GENERATED FOR THAT
+4 COURSE OR PROGRAM]. A pupil who attends a course or program at a
+5 satellite campus and who is not enrolled in the school district or charter
+6 school where the satellite campus is located may generate the average
+7 daily membership of up to 0.25 for one hundred fifty instructional hours
+8 of enrollment for instruction received during any hour of the day, during
+9 any day of the week and at any time between July 1 and June 30 of each
+10 fiscal year pursuant to this subsection if the pupil is enrolled in a
+11 school district that is a member district in the same career technical
+12 education district.
+13 P. The sum of the average daily membership of a pupil who is
+14 enrolled in both the school district and career technical education course
+15 or career technical education program provided by a community college or
+16 university pursuant to subsection K of this section or at a centralized
+17 campus shall not exceed 1.75. The average daily membership for a pupil
+18 who is enrolled in a career technical education course or career technical
+19 education program provided by a community college or university shall be
+20 0.25 for the accumulation of every three community college or university
+21 credits for which a student is enrolled in career technical education
+22 courses. The member school district and the career technical education
+23 district shall determine the apportionment of the average daily membership
+24 and student enrollment for that pupil between the member school district
+25 and the career technical education district, except that the amount
+26 apportioned shall not exceed 1.0 for either entity. Notwithstanding any
+27 other law, the average daily membership for a pupil who is in grade nine,
+28 ten, eleven or twelve or in the school year immediately following
+29 graduation and who is enrolled in a course that meets for at least one
+30 hundred fifty minutes per class period at a centralized campus shall be
+31 0.75. To qualify for funding pursuant to this subsection, a centralized
+32 campus shall offer programs and courses to all eligible students in each
+33 member district of the career technical education district. Students in
+34 an approved career technical education program may generate an average
+35 daily membership of up to 1.75 for instruction received during any hour of
+36 the day, during any day of the week and at any time between July 1 and
+37 June 30 of each fiscal year. Average daily membership shall not be
+38 calculated on the one hundredth day of instruction for the purposes of
+39 this section. Average daily membership shall be calculated by dividing
+40 the instructional hours of enrollment by six hundred hours, except that:
+41 1. At least one hundred fifty hours and less than three hundred
+42 hours equals 0.25 average daily membership.
+43 2. At least three hundred hours and less than four hundred fifty
+44 hours equals 0.5 average daily membership.
+45 3. At least four hundred fifty hours and less than six hundred
+46 hours equals 0.75 average daily membership.
+47 4. At least six hundred hours equals 1.0 average daily membership.
+-10-
+
+House Amendments to H.B. 4034
+1 Q. The average daily membership for a pupil who is in grade nine,
+2 ten, eleven or twelve or in the school year immediately following
+3 graduation and who is enrolled in a course that meets for at least one
+4 hundred fifty minutes per class period at a leased centralized campus
+5 shall not exceed 0.75. Students in an approved career technical education
+6 program provided by a leased centralized campus may generate an average
+7 daily membership for instruction received during any hour of the day,
+8 during any day of the week and at any time between July 1 and June 30 of
+9 each fiscal year. Average daily membership shall be calculated by
+10 dividing the instructional hours of enrollment by six hundred hours,
+11 except that:
+12 1. At least one hundred fifty hours and less than three hundred
+13 hours equals 0.25 average daily membership.
+14 2. At least three hundred hours and less than four hundred fifty
+15 hours equals 0.5 average daily membership.
+16 3. At least four hundred fifty hours and less than six hundred
+17 hours equals 0.75 average daily membership.
+18 4. At least six hundred hours equals 1.0 average daily membership.
+19 R. The sum of the average daily membership, as provided in section
+20 15-901, subsection A, paragraph 1, of a pupil who is enrolled in both the
+21 school district and in career technical education courses provided at a
+22 leased centralized campus shall not exceed 1.75 if all of the following
+23 conditions are met:
+24 1. The course qualifies as a career technical education course.
+25 2. The course is offered to all eligible students in each member
+26 district of the career technical education district and enrolls students
+27 from multiple high schools.
+28 3. The career technical education district program in which the
+29 course is included addresses a specific industry need and has been
+30 developed in cooperation with that industry, or the leased facility is a
+31 state or federal asset that would otherwise be unused or underutilized.
+32 4. The lease is established at fair market value if the lease is
+33 executed for a facility located on the site of a member district and was
+34 approved by the joint committee on capital review, except that a lease
+35 that was executed or renewed before December 31, 2012 is not subject to
+36 approval by the joint committee on capital review.
+37 S. A student who is enrolled in an accommodation school may be
+38 treated as a student of the school district in which the student
+39 physically resides for the purposes of enrollment in a career technical
+40 education district and shall be included in the calculation of average
+41 daily membership for either the career technical education district or the
+42 accommodation school, or both.
+43 T. Notwithstanding any other law, the student count for a career
+44 technical education district shall be IS equivalent to the career
+45 technical education district's average daily membership. Students in an
+46 approved career technical education program provided by a satellite
+47 campus, centralized campus or leased centralized campus may generate an
+-11-
+
+House Amendments to H.B. 4034
+1 average daily membership subject to the limits prescribed by subsections
+2 D, N, O, P, Q and R of this section, as applicable, for instruction
+3 received during any hour of the day, during any day of the week and at any
+4 time between July 1 and June 30 of each fiscal year. Average daily
+5 membership shall not be calculated on the one hundredth day of instruction
+6 for the purposes of this section. The department may not restrict the
+7 instructional time by limiting the particular days of the week or time of
+8 the fiscal year for instruction to occur. THE CAREER TECHNICAL EDUCATION
+9 [DISTRICT] BOARD IS RESPONSIBLE FOR ANY FUNDING RELATED TO THE CAREER
+10 TECHNICAL EDUCATION DISTRICT'S AVERAGE DAILY MEMBERSHIP.
+11 U. A school district or charter school may not prohibit or
+12 discourage students who are enrolled in that school district or charter
+13 school from attending courses offered by a career technical education
+14 district, including requiring students to generate a full 1.0 average
+15 daily membership or to enroll in more courses than are needed to graduate
+16 before enrolling in and attending programs or courses offered by a career
+17 technical education district.
+18 V. The governing board of the career technical education district
+19 may contract with any charter school that is located within the boundaries
+20 of the career technical education district to allow that charter school to
+21 offer career and technical education courses or programs as a satellite
+22 campus.
+23 W. Beginning in 2020 and every five years thereafter, the career
+24 and technical education division of the department of education shall
+25 review career technical education district programs and career technical
+26 education courses to ensure compliance, quality and eligibility. Any
+27 program or course deemed to not meet the requirements set forth by law
+28 shall not be funded for the current school year and shall be removed from
+29 the approved program and course list for the purposes of funding. The
+30 career and technical education division may establish a staggered schedule
+31 for reviewing each career technical education district.
+32 X. Notwithstanding subsection D, paragraphs 4 and 9 and subsections
+33 P, Q and R of this section, for a student in grade nine, funding shall be
+34 provided pursuant to this section only if the student reaches the fortieth
+35 day of grade eleven enrolled in an approved career technical education
+36 program and meets the requirements prescribed in subsection Z of this
+37 section. At that time funding shall be provided for that student for
+38 grade nine and for any subsequent year in which the student is eligible
+39 for funding pursuant to this section.
+40 Y. On or before September 1 of each year, the office of economic
+41 opportunity in collaboration with the department of education shall
+42 compile an in-demand regional education list of the approved career
+43 technical education programs that lead to a career path in high demand
+44 with median-to-high-wage jobs in that region. The office of economic
+45 opportunity shall incorporate industry feedback as part of developing the
+46 in-demand regional educational list. The office of economic opportunity
+-12-
+
+House Amendments to H.B. 4034
+1 shall submit the in-demand regional education list to the Arizona career
+2 and technical education quality commission for review and approval.
+3 Z. Notwithstanding subsection D, paragraphs 4 and 9 and subsections
+4 P, Q and R of this section, for a student in grade nine or in the school
+5 year immediately following graduation, funding shall be provided pursuant
+6 to this section only if the student is enrolled in a program that was
+7 included on the in-demand regional education list compiled pursuant to
+8 subsection Y of this section for that student's region for the year in
+9 which the student began the program.
+10 AA. For the purposes of this section:
+11 1. "Base year" means the complete school year in which voters of a
+12 school district elected to join a career technical education district.
+13 2. "Centralized campus" means a facility that is owned and operated
+14 by a career technical education district to offer career technical
+15 education district programs or career technical education courses.
+16 3. "Lease" means a written agreement in which the right to occupy
+17 or use real property is conveyed from one person or entity to another
+18 person or entity for a specified period of time.
+19 4. "Leased centralized campus" means a facility that is leased and
+20 operated by a career technical education district to offer career
+21 technical education district programs or career technical education
+22 courses.
+23 5. "Satellite campus" means a facility that is owned or operated by
+24 a school district or charter school to offer career technical education
+25 district programs or career technical education courses.
+26 Enroll and engross to conform
+27 Amend title to conform
+And, as so amended, it do pass
+MATT GRESS
+CHAIRMAN
+4034EDUCATION.docx
+02/17/2026
+07:08 PM
+H: CH/ls/ra
+130SOXBJA
+4034GRESS.docx
+02/16/2026
+3:23 PM
+C: VS
+130ZPRMSN
+-13-

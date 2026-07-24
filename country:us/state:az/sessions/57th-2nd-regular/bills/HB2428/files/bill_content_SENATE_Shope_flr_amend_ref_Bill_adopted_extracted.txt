@@ -1,0 +1,566 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Shope flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2428
+Shope Floor Amendment
+Reference to: House engrossed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Specifies that an applicant's election to participate in any program that results in the certification
+of emission reduction credits (ERCs) by a county is voluntary.
+2. Prohibits a control officer, if after the general effective date, participation of an on-road vehicle
+fleet in the ERC program becomes mandatory pursuant to an act of the Arizona Legislature,
+administrative rule or State Implementation Plan commitment, from certifying any new surplus
+ERCs that are mobile sources within the county's jurisdiction.
+3. Specifies that only mobile source fleets with a base of operations in a nonattainment area are
+eligible for certification of ERCs by a county.
+4. Makes technical changes.
+Amendment explanation prepared by Sawyer Bessler
+04/06/2026
+
+Fifty-seventh Legislature Shope
+Second Regular Session H.B. 2428
+SHOPE FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2428
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 49-402, Arizona Revised Statutes, is amended to
+3 read:
+4 49-402. State and county control
+5 A. EXCEPT AS PROVIDED IN SUBSECTION G OF THIS SECTION, the
+6 department shall have original jurisdiction over such sources, permits and
+7 violations that pertain to:
+8 1. Major sources in any county that has not received approval from
+9 the administrator for new source review under the clean air act and
+10 prevention of significant deterioration under the clean air act.
+11 2. Smelting of metal ore.
+12 3. Petroleum refineries.
+13 4. Coal fired electrical generating stations.
+14 5. Portland cement plants.
+15 6. Air pollution by portable sources.
+16 7. Air pollution by mobile sources for the purpose of regulating
+17 those sources as prescribed by article 5 of this chapter and consistent
+18 with the clean air act.
+19 8. Sources that are subject to title V of the clean air act and
+20 that are located in a county for which the administrator has disapproved
+21 that county's title V permit program if the department has a title V
+22 program that has been approved by the administrator. On approval of that
+23 county's title V permit program by the administrator, the county shall
+24 resume jurisdiction over those sources.
+25 B. Except as specified in subsection A of this section, the review,
+26 issuance, administration and enforcement of permits issued pursuant to
+27 this chapter shall be by the county or multi-county air quality control
+28 region pursuant to the provisions of article 3 of this chapter. After the
+29 director has provided prior written notice to the control officer
+
+Senate Amendments to H.B. 2428
+1 describing the reason for asserting jurisdiction and has provided an
+2 opportunity to confer, the county or multi-county air quality control
+3 region shall relinquish jurisdiction, control and enforcement over such
+4 permits as the director designates and at such times as the director
+5 asserts jurisdiction at the state level. The order of the director which
+6 THAT asserts state jurisdiction shall specify the matters, geographical
+7 area, or sources over which the department shall exercise jurisdiction and
+8 control. Such state authority shall then be the sole and exclusive
+9 jurisdiction and control to the extent asserted, and the provisions of
+10 this chapter shall govern, except as provided in this chapter, until
+11 jurisdiction is surrendered by the department to such county or region.
+12 C. Portable sources under jurisdiction of the department under
+13 subsection A, paragraph 6 of this section may be required to file notice
+14 with the director and the control officer who has jurisdiction over the
+15 geographic area that includes the new location before beginning operations
+16 at that new location.
+17 D. Notwithstanding any other law, a permit issued to a state
+18 regulated STATE-REGULATED source shall include the emission standard or
+19 standard of performance adopted pursuant to section 49-479, if such
+20 standards are more stringent than those adopted by the director and if
+21 such standards are specifically identified as applicable to the permitted
+22 source or a component of the permitted source. Such standards shall be
+23 applied to sources identified in subsection A, paragraph 2, 3, 4 or 5 of
+24 this section only if the standard is formally proposed for adoption as
+25 part of the state implementation plan.
+26 E. The regional planning agency for each county which THAT contains
+27 a vehicle emissions control area shall develop plan revisions containing
+28 transportation related TRANSPORTATION-RELATED air quality control measures
+29 designed to attain and maintain primary and secondary ambient air quality
+30 standards as prescribed by and within the time frames specified in the
+31 clean air act. In developing the plan revisions, the regional planning
+32 agency shall consider all of the following:
+33 1. Mandatory employee parking fees.
+34 2. Park and ride programs.
+35 3. Removal of on-street parking.
+36 4. Ride share programs.
+37 5. Mass transit alternatives.
+38 6. Expansion of public transportation systems.
+39 7. Optimizing freeway ramp metering.
+40 8. Coordinating traffic signal systems.
+41 9. Reduction of traffic congestion at major intersections.
+42 10. Site specific SITE-SPECIFIC transportation control measures.
+43 11. Reversible lanes.
+44 12. Fixed lanes for buses and carpools.
+45 13. Encouragement of pedestrian travel.
+46 14. Encouragement of bicycle travel.
+47 15. Development of bicycle travel facilities.
+-2-
+
+Senate Amendments to H.B. 2428
+1 16. Employer incentives regarding ride share programs.
+2 17. Modification of work schedules.
+3 18. Strategies for controlling the generation of air pollution by
+4 nonresidents of nonattainment or maintenance areas.
+5 19. Use of alternative fuels.
+6 20. Use of emission control devices on public diesel powered
+7 vehicles.
+8 21. Paving of roads.
+9 22. Restricting off-road vehicle travel.
+10 23. Construction site air pollution control.
+11 24. Other air quality control measures.
+12 F. Each regional planning agency shall consult with the department
+13 of transportation to coordinate the plans developed pursuant to subsection
+14 E of this section with transportation plans developed by the department of
+15 transportation pursuant to any other law.
+16 G. AFTER RECEIVING A VOLUNTARY REQUEST FROM AN APPLICANT, A COUNTY
+17 MAY CLAIM CONCURRENT JURISDICTION OVER BOTH OF THE FOLLOWING FOR THE SOLE
+18 PURPOSE OF ISSUING, REVISING OR ENFORCING A PERMIT TO CERTIFY EMISSION
+19 REDUCTION CREDITS PURSUANT TO SECTION 49-410:
+20 1. COMPONENTS OF A PORTABLE SOURCE WITHIN THE COUNTY'S
+21 JURISDICTION.
+22 2. MOBILE SOURCES WITHIN THE COUNTY'S JURISDICTION.
+23 H. NOTWITHSTANDING ANY OTHER LAW, AN APPLICANT'S ELECTION TO
+24 PARTICIPATE IN ANY PROGRAM THAT RESULTS IN THE CERTIFICATION OF EMISSION
+25 REDUCTION CREDITS PURSUANT TO SUBSECTION G OF THIS SECTION IS VOLUNTARY.
+26 IF, AFTER THE EFFECTIVE DATE OF THIS AMENDMENT TO THIS SECTION,
+27 PARTICIPATION OF AN ON-ROAD VEHICLE FLEET IN THE EMISSION REDUCTION CREDIT
+28 PROGRAM BECOMES MANDATORY PURSUANT TO AN ACT OF THE LEGISLATURE,
+29 ADMINISTRATIVE RULE OR STATE IMPLEMENTATION PLAN COMMITMENTS, A CONTROL
+30 OFFICER MAY NOT CERTIFY ANY NEW SURPLUS EMISSION REDUCTION CREDITS AS
+31 PROVIDED IN SUBSECTION G, PARAGRAPH 2 OF THIS SECTION. ONLY MOBILE SOURCE
+32 FLEETS WITH A BASE OF OPERATIONS IN A NONATTAINMENT AREA ARE ELIGIBLE FOR
+33 CERTIFICATION PURSUANT TO SUBSECTION G, PARAGRAPH 2 OF THIS SECTION.]
+34 [H.] [I.] AFTER A COUNTY ISSUES A PERMIT OR PERMIT REVISION THAT
+35 CERTIFIES EMISSION REDUCTION CREDITS PURSUANT TO SUBSECTION G OF THIS
+36 SECTION, THE PERMIT OR PERMIT REVISION ARE BINDING ON THE APPLICANT.
+37 Sec. 2. Section 49-426, Arizona Revised Statutes, is amended to
+38 read:
+39 49-426. Permits; duties of director; exceptions;
+40 applications; objections; fees; definitions
+41 A. A permit shall:
+42 1. Be issued by the director in compliance with the terms of this
+43 section.
+44 2. Be required for any person seeking a compliance extension
+45 pursuant to section 49-426.03, subsection B, paragraph 3 and section
+46 112(a)(5) of the clean air act and for any person beginning actual
+-3-
+
+Senate Amendments to H.B. 2428
+1 construction of or operating any source, except as prescribed in
+2 subsection B of this section or section 49-426.01.
+3 B. The provisions of This section shall not apply to motor
+4 vehicles, to agricultural vehicles or agricultural equipment used in
+5 normal farm operations, or to fuel burning equipment which THAT, at a
+6 location or property other than a one or two family residence, is rated at
+7 less than one million British thermal units per hour. The director may
+8 establish by rule additional sources or classifications of sources for
+9 which a permit is not required and pollutant-emitting activities and
+10 emissions units at permitted sources that are not required to be included
+11 in the permit. The director shall not adopt such rules unless the
+12 director makes a written finding with supporting facts that the exempted
+13 source, class of sources, pollutant-emitting activities or emissions units
+14 will have an insignificant adverse impact on air quality. In adopting
+15 these rules, the director may consider any rule that is adopted by the
+16 administrator pursuant to section 502 of the clean air act and that
+17 exempts one or more source categories from the requirement to obtain a
+18 permit under title V of the clean air act. IF AN APPLICANT VOLUNTARILY
+19 SUBMITS A PERMIT APPLICATION, SECTION 49-104 AND THIS SUBSECTION DO NOT
+20 PRECLUDE THE DIRECTOR OR THE CONTROL OFFICER FROM ISSUING A PERMIT OR
+21 PERMIT REVISION THAT REQUIRES REDUCTIONS IN EMISSIONS FROM MOTOR VEHICLES,
+22 AGRICULTURAL VEHICLES OR EQUIPMENT, MOBILE SOURCES OR NONROAD ENGINES IN A
+23 PERMIT THAT THE APPLICANT AGREED TO AT THE TIME OF ISSUANCE.
+24 C. Every application for a permit shall be filed in the manner and
+25 form prescribed by the director, and shall contain all the information
+26 necessary to enable the director to make the determination to grant or
+27 deny such application. The director shall establish by rule requirements
+28 for permit applications, including the standard application form for
+29 title V sources. The director shall establish by rule requirements for
+30 applications for general permits. An application for a permit issued
+31 pursuant to title V of the clean air act shall include a compliance plan
+32 that describes how the applicant will comply with all of the applicable
+33 requirements of this chapter and the clean air act, including a schedule
+34 of compliance and a schedule under which progress reports will be
+35 submitted to the director at least every six months. The director may
+36 require that such application include all sources that are used or to be
+37 used by the applicant in a certain process or a single facility or
+38 location. Before acting on an application for a permit, the director may
+39 require the applicant to furnish further information or further plans or
+40 specifications. The director shall act, within a reasonable time, on such
+41 application and shall notify the applicant in writing of the proposed
+42 approval or denial of such application, except that the director may have
+43 a reasonable period of time in which to gather information, inspect
+44 premises, and issue such permits. The director shall adopt rules that
+45 establish procedures for determining when applications are complete, for
+46 processing applications and for reviewing permit actions. The director
+47 shall also establish by rule criteria for determining reasonable times for
+-4-
+
+Senate Amendments to H.B. 2428
+1 processing permit applications. Rules adopted pursuant to this subsection
+2 for permits issued pursuant to title V of the clean air act shall conform
+3 to the requirements of section 505(a) of the clean air act.
+4 D. The director shall give notice of a proposed permit for a source
+5 required to obtain a permit pursuant to title V of the clean air act once
+6 each week for two consecutive weeks in two newspapers of general
+7 circulation in the county in which the source is or will be located. The
+8 notice shall describe the proposed permit and air contaminants to be
+9 emitted and shall state that any person may submit comments on the
+10 proposed permit and may request a public hearing. The director shall
+11 require the applicant at the time of the first notice to post the site
+12 where the source is or may be located. If permitted by federal, state and
+13 local law, the posting shall be prominently placed at a site that is under
+14 the applicant's legal control and that is adjacent to the nearest public
+15 roadway. The posting shall be visible to the public using the public
+16 roadway and shall contain the information in the notice that is published
+17 by the director. If a public hearing is requested, the director shall
+18 require the applicant to place an additional posting that provides notice
+19 of the public hearing. A posting shall be maintained until the public
+20 comment period on the proposed permit is closed. The director shall make
+21 available to the public notices of proposed permits. Each public notice
+22 that is issued under this chapter shall be mailed to the permit applicant,
+23 to the affected federal, state and local agencies and to those persons who
+24 have requested in writing copies of proposed permit action notices.
+25 During the public comment period, any person may submit a request to the
+26 department to conduct a public hearing for the purpose of receiving oral
+27 or written comments on the proposed permit. A written comment shall state
+28 the name and mailing address of the person, shall be signed by the
+29 person, his OR THE PERSON'S agent or his attorney and shall clearly set
+30 forth reasons why the permit should or should not be issued. Grounds for
+31 comment are limited to whether the proposed permit meets the criteria for
+32 issuance prescribed in this section or in section 49-427. The department
+33 shall consider and prepare written responses to all comments received
+34 during the public comment period, including comments made at a public
+35 hearing conducted by the department. At the time a final permit decision
+36 is made, copies of the department's responses shall be made available to
+37 the applicant and any person who commented on the proposed permit.
+38 E. Permits or revisions issued pursuant to this section or section
+39 49-426.01 may be issued subject to such terms and conditions as are
+40 consistent with the requirements of this article, article 1 of this
+41 chapter and the clean air act and are found by the director to be
+42 necessary, following public notice and an opportunity for a public hearing
+43 as provided in subsection D or H of this section or in section 49-426.01,
+44 and subject to payment of a reasonable fee to be determined as follows:
+45 1. For a source that is required to obtain a permit pursuant to
+46 title V of the clean air act, the director shall establish by rule a
+47 system of fees that is consistent with and equivalent to that prescribed
+-5-
+
+Senate Amendments to H.B. 2428
+1 by section 502 of the clean air act. These rules shall prescribe
+2 procedures for increasing the fee each year by the percentage, if any, by
+3 which the consumer price index for the immediately preceding calendar year
+4 exceeds the consumer price index for calendar year 1989.
+5 2. For a facility that is required to obtain a permit pursuant to
+6 this chapter but that is not required to obtain a permit pursuant to title
+7 V of the clean air act, the director shall determine a fee based on the
+8 total actual cost of processing the permit application, but not exceeding
+9 twenty-five thousand dollars MORE THAN $25,000.
+10 The director shall establish an annual inspection fee, not to exceed the
+11 average cost of inspection. The director shall adopt, by rule, criteria
+12 for determining fees and for public hearings.
+13 F. EXCEPT AS PROVIDED IN SUBSECTION Q OF THIS SECTION, permits
+14 issued pursuant to this section shall be issued for a period of five
+15 years.
+16 G. Except as provided in subsection H of this section, any person
+17 burning used oil, used oil fuel, hazardous waste or hazardous waste fuel
+18 in any machine, incinerator or device shall first obtain a permit from the
+19 director. Any permit issued by the director under this subsection shall
+20 contain, at a minimum, conditions governing:
+21 1. Limitations on the types, amounts and feed rates of used oil,
+22 used oil fuel, hazardous waste or hazardous waste fuel which THAT may be
+23 burned.
+24 2. The frequency and types of fuel testing to be conducted by the
+25 person.
+26 3. The frequency and type of emissions testing or monitoring to be
+27 conducted by the person.
+28 4. Requirements for record keeping RECORDKEEPING and reporting.
+29 5. Numeric emission limitations expressed in pounds per hour and
+30 tons per year for air contaminants to be emitted from the facility burning
+31 off-specification used oil fuel, hazardous waste or hazardous waste fuel.
+32 H. The director may issue a general permit for a defined class of
+33 facilities if the class contains a large number of facilities that are
+34 substantially similar in nature and that have substantially similar
+35 emissions and if the following conditions are met:
+36 1. A general permit shall comply with all of the requirements for
+37 permits prescribed by this section except for the requirements of
+38 subsection D of this section and shall be consistent with the clean air
+39 act.
+40 2. The director shall give notice of the proposed general permit
+41 once each week for two consecutive weeks in a newspaper of general
+42 circulation in each county. The notice shall describe the proposed
+43 general permit, the general class of sources that would be subject to the
+44 proposed permit and the air contaminants to be emitted. The notice shall
+45 also state that any person may submit comments on the proposed general
+46 permit and may request a public hearing. A written comment shall state
+47 the name of the person and the person's agent or attorney and shall
+-6-
+
+Senate Amendments to H.B. 2428
+1 clearly set forth reasons why the general permit should or should not be
+2 issued. Grounds for comment are limited to whether the proposed general
+3 permit meets the criteria for issuance prescribed in this section or
+4 section 49-427.
+5 3. On issuance of a general permit, any person seeking to permit a
+6 source under this subsection shall submit an application pursuant to
+7 subsection C of this section.
+8 4. If the director approves an application to be permitted under a
+9 general permit, the director shall provide notice of the approval in a
+10 newspaper of general circulation in the county in which the source is or
+11 will be located.
+12 5. If a person violates a general permit, the director may require
+13 the source to obtain a permit pursuant to subsection A of this section.
+14 6. A general permit may be revoked or revised at any time by the
+15 director if necessary to comply with this chapter. If the director
+16 revokes or revises a general permit, the director shall notify all persons
+17 whose sources are affected by the revocation or revision and shall include
+18 notice of procedures to obtain a permit pursuant to subsection A of this
+19 section or notice of procedures for compliance with the revisions.
+20 7. The director by rule shall adopt procedures for the issuance of
+21 general permits.
+22 8. The director may adopt conditions in a general permit applicable
+23 to sources located in a specified geographic area either independently of
+24 or upon ON petition by a county air pollution control officer.
+25 I. Permits issued pursuant to this section for a source required to
+26 obtain a permit under title V of the clean air act shall contain all of
+27 the following:
+28 1. Conditions reflecting all applicable requirements of this
+29 article and rules adopted pursuant to this article.
+30 2. Enforceable emission limitations and standards.
+31 3. A schedule for compliance, if applicable.
+32 4. The requirement to submit at least every six months the results
+33 of any required monitoring.
+34 5. Any other conditions that are necessary to assure compliance
+35 with this article and the clean air act, including the applicable
+36 implementation plan.
+37 J. The director may refuse to issue any permit to any source
+38 subject to the requirements of title V of the clean air act if the
+39 administrator objects to its issuance in a timely manner as prescribed
+40 under title V of the act.
+41 K. If an applicant has submitted a timely and complete application
+42 for a permit required under this section, but final action has not been
+43 taken on that application, failure to obtain a permit shall not be a
+44 violation of this chapter unless the delay in final action is due to the
+45 failure of the applicant to submit information required or requested to
+46 process the application. This subsection does not apply to any person
+47 required to obtain a permit before commencing construction of a source as
+-7-
+
+Senate Amendments to H.B. 2428
+1 required under this section or any person seeking a permit revision as
+2 provided under section 49-426.01.
+3 L. The director may issue a single permit authorizing emissions
+4 from similar operations at multiple temporary locations, if the permit
+5 includes conditions that will assure compliance with all applicable
+6 requirements of this chapter and the clean air act at all locations. Any
+7 permit issued pursuant to this subsection shall require the applicant to
+8 notify the director in advance of each change in location. In issuing a
+9 single permit, the director may require a separate permit fee for
+10 operations at each location.
+11 M. In the case of a permit with a term of three or more years
+12 issued pursuant to the requirements of title V of the clean air act to a
+13 major source, the director shall require revisions to the permit to
+14 incorporate applicable standards and regulations adopted by the
+15 administrator pursuant to the clean air act after the issuance of the
+16 permit. The director shall require any revisions as expeditiously as
+17 practicable, but not later than eighteen months after the promulgation of
+18 such standards and regulations. No permit revision shall be required if
+19 the effective date of standards and regulations is after the expiration of
+20 the permit. Any permit revision required pursuant to this subsection
+21 shall be treated as a permit renewal.
+22 N. Any permit issued pursuant to the requirements of this article
+23 and title V of the clean air act to a unit subject to the provisions of
+24 title IV of the clean air act shall include conditions prohibiting all of
+25 the following:
+26 1. Annual emissions of sulfur dioxide in excess of the number of
+27 allowances to emit sulfur dioxide held by the owners or operators of the
+28 unit or by the designated representative of the owners or operators.
+29 2. Amounts in excess of applicable emission rates.
+30 3. The use of any allowance prior to the year for which it was
+31 allocated.
+32 4. Contravention of any other provision of the permit.
+33 O. The director shall adopt a rule specifying the notice, public
+34 participation requirements and other permit issuance procedures for
+35 permits that are not issued pursuant to title V of the clean air act.
+36 P. In determining whether a permitting threshold established
+37 pursuant to this section applies to an existing source, the director shall
+38 exclude particulate matter that is not subject to a national ambient air
+39 quality standard under the clean air act.
+40 Q. PERMITS AND PERMIT REVISIONS THAT AN APPLICANT HAS VOLUNTARILY
+41 APPLIED FOR AND THAT ARE ISSUED BY THE DIRECTOR OR CONTROL OFFICER FOR THE
+42 SOLE PURPOSES OF CERTIFYING EMISSION REDUCTION CREDITS PURSUANT TO SECTION
+43 49-410 SHALL:
+44 1. REMAIN SUBJECT TO ALL APPLICABLE RULES, CONDITIONS AND
+45 ENFORCEMENT PROVISIONS OF THE PERMIT PROGRAM PURSUANT TO WHICH THE
+46 PERMITTING AUTHORITY ISSUES THE PERMIT.
+-8-
+
+Senate Amendments to H.B. 2428
+1 [2. ALLOW THE PERMITTING AUTHORITY TO MAINTAIN THE DISCRETION TO
+2 ISSUE THE PERMIT.]
+3 [2. BE ISSUED AT THE DISCRETION OF THE PERMITTING AUTHORITY.]
+4 3. BE FOR A TERM OF NOT MORE THAN TWENTY YEARS.
+5 R. FOR THE PURPOSES OF THIS SECTION:
+6 1. "CONTROL OFFICER" HAS THE SAME MEANING PRESCRIBED IN SECTION
+7 49-471.
+8 2. "NONROAD ENGINES" HAS THE SAME MEANING PRESCRIBED IN SECTION 216
+9 OF THE CLEAN AIR ACT.
+10 Sec. 3. Section 49-480, Arizona Revised Statutes, is amended to
+11 read:
+12 49-480. Permits; fees
+13 A. The board of supervisors may adopt a program for the review,
+14 issuance, revision, administration and enforcement of permits and for
+15 public review of proposed permits for sources that are subject to section
+16 49-426, subsection A, that are not under the jurisdiction of the state
+17 pursuant to section 49-402 and that are not otherwise exempt pursuant to
+18 section 49-426, subsection B and subsection K of this section. This
+19 program shall include provisions for administration, inspection and
+20 enforcement of general permits issued pursuant to section 49-426,
+21 subsection H and subsection J of this section.
+22 B. Procedures for the review, issuance, revision and administration
+23 of permits issued pursuant to this section and required to be obtained
+24 pursuant to title V of the clean air act, including sources that emit
+25 hazardous air pollutants shall be substantially identical to procedures
+26 for the review, issuance, revision and administration of permits issued by
+27 the department under this chapter. Such procedures shall comply with the
+28 requirements of sections 165, 173 and 408 and titles III and V of the
+29 clean air act and implementing regulations for sources subject to titles
+30 III and V of the clean air act. Procedures for the review, issuance,
+31 revision and administration of permits issued pursuant to this section and
+32 not required to be obtained pursuant to title V of the clean air act shall
+33 impose no greater procedural burden on the permit applicant than
+34 procedures for the review, issuance, revision and administration of
+35 permits issued by the department under sections 49-426 and 49-426.01 and
+36 other applicable provisions of this chapter.
+37 C. Upon ON adoption of a permit program by the board of supervisors
+38 pursuant to this section, no person may begin actual construction, operate
+39 or make a modification to any source subject to the permit program without
+40 complying with the requirements of that program.
+41 D. Permits issued pursuant to a program adopted under this section
+42 are subject to payment of a reasonable fee to be determined as follows:
+43 1. For any source required to obtain a permit under title V of the
+44 clean air act, the board of supervisors shall establish by rule a system
+45 of fees consistent with and equivalent to that prescribed under section
+46 502 of the clean air act. Such system shall prescribe procedures for
+47 increasing the fee each year by the percentage, if any by which the
+-9-
+
+Senate Amendments to H.B. 2428
+1 consumer price index for the most recent calendar year ending before the
+2 beginning of such year exceeds the consumer price index for the calendar
+3 year 1989.
+4 2. For any facility subject to the permitting requirements of this
+5 chapter but not required to obtain a permit under title V of the clean air
+6 act, the board of supervisors shall determine a permit fee based on all
+7 reasonable direct and indirect costs required to administer the permit,
+8 but not exceeding twenty-five thousand dollars MORE THAN $25,000.
+9 The board of supervisors shall establish an annual inspection fee, not to
+10 exceed the average cost of services.
+11 E. Funds MONIES received for permits issued pursuant to this
+12 section shall be deposited in a special public health fund and shall be
+13 used by the control officer to defray the costs of implementing this
+14 article.
+15 F. Permits issued pursuant to this section for a source required to
+16 obtain a permit under title V of the clean air act shall, and for a source
+17 that is not required to obtain a title V permit may, contain all of the
+18 following:
+19 1. Conditions reflecting all applicable requirements of this
+20 article and rules adopted pursuant to this article.
+21 2. Enforceable emission limitations and standards.
+22 3. A schedule for compliance, if applicable.
+23 4. The requirement to submit at least every six months the results
+24 of any required monitoring.
+25 5. Any other conditions that are necessary to assure compliance
+26 with this article and the clean air act, including the applicable
+27 implementation plan.
+28 G. The control officer may refuse to issue any permit to any
+29 source, subject to the requirements of title V of the clean air act, if
+30 the administrator objects to its issuance in a timely manner as prescribed
+31 under title V of the act.
+32 H. In the case of a permit with a term of three or more years
+33 issued pursuant to the requirements of title V of the clean air act to a
+34 major source, the control officer shall require revisions to the permit to
+35 incorporate applicable standards and regulations adopted by the
+36 administrator pursuant to the clean air act after the issuance of the
+37 permit. The control officer shall require any revisions as expeditiously
+38 as practicable but not later than eighteen months after the promulgation
+39 of such standards and regulations. No permit revision shall be required
+40 if the effective date of the standards and regulations is after the
+41 expiration of the permit. Any permit revision required pursuant to this
+42 subsection shall be treated as a permit renewal.
+43 I. Except as provided in section 49-426, subsection B and
+44 subsection A of this section, any person burning used oil, used oil fuel,
+45 hazardous waste or hazardous waste fuel in any machine, incinerator or
+46 device shall first obtain a permit from the control officer. Any permit
+-10-
+
+Senate Amendments to H.B. 2428
+1 issued by the control officer under this subsection shall contain, at a
+2 minimum, conditions governing:
+3 1. Limitations on the types, amounts and feed rates of used oil,
+4 used oil fuel, hazardous waste or hazardous waste fuel which THAT may be
+5 burned.
+6 2. The frequency and types of fuel testing to be conducted by the
+7 person.
+8 3. The frequency and type of emissions testing or monitoring to be
+9 conducted by the person.
+10 4. Requirements for record keeping RECORDKEEPING and reporting.
+11 5. Numeric emission limitations expressed in pounds per hour and
+12 tons per year for air contaminants to be emitted from the facility burning
+13 used oil, used oil fuel, hazardous waste or hazardous waste fuel.
+14 J. The board of supervisors may authorize by rule the control
+15 officer to issue a general permit for a defined class of facilities if
+16 that class of facilities has not been issued a general permit by the
+17 director for sources in that county pursuant to section 49-426, subsection
+18 H. The criteria for issuance of a general permit are those applicable to
+19 the director pursuant to section 49-426, subsection G.
+20 K. The board of supervisors may identify by rule sources or
+21 classifications of sources for which a permit is not required and
+22 pollutant-emitting activities and emissions units at permitted sources
+23 that are not subject to inclusion in the permit. The criteria for
+24 exemptions granted pursuant to this subsection are those applicable to
+25 exemptions granted by the director pursuant to section 49-426,
+26 subsection B.
+27 L. In determining whether a permitting threshold established
+28 pursuant to this section applies to an existing source, the control
+29 officer shall exclude particulate matter that is not subject to a national
+30 ambient air quality standard under the clean air act.
+31 M. The board of supervisors may adopt a rule or ordinance that
+32 establishes less burdensome permit procedures and requirements for permits
+33 that are not required to be obtained pursuant to title V of the clean air
+34 act. Until the effective date of a rule or ordinance adopted by a board
+35 of supervisors pursuant to this section, the control officer, either on
+36 the control officer's own initiative or on the request of a permit
+37 applicant, may waive requirements that are not appropriate for non-title V
+38 sources.
+39 Enroll and engross to conform
+40 Amend title to conform
+THOMAS "T.J." SHOPE
+2428FloorSHOPE.docx
+03/30/2026
+10:36 AM
+C: CT
+130DXYJHX
+-11-

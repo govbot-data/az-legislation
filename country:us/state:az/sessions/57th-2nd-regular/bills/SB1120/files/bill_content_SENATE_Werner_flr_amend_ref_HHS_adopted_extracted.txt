@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Werner flr amend (ref HHS) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1120
+Werner Floor Amendment
+Reference to: HEALTH AND HUMAN SERVICES
+Committee Amendment
+Amendment drafted by: Michael Madden
+FLOOR AMENDMENT EXPLANATION
+1. Applies the radiation protection system requirement to hospitals that perform cardiac
+catheterization procedures using real-time x-ray imaging.
+2. Deems a hospital to have satisfied the radiation protection system installation requirement if the
+hospital:
+a) issues a purchase order for radiation protection systems for at least 50 percent of the applicable
+procedure rooms by July 1, 2027; and
+b) installs the systems by December 31, 2027.
+3. Defines purchase order.
+Amendment explanation prepared by Michael Madden
+2/11/2026
+
+Fifty-seventh Legislature Werner
+Second Regular Session S.B. 1120
+WERNER FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1120
+(Reference to HEALTH AND HUMAN SERVICES Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 36, chapter 4, article 2, Arizona Revised
+3 Statutes, is amended by adding section 36-434.03, to read:
+4 36-434.03. Radiation protection systems; installation
+5 requirement; definitions
+6 A. ON OR BEFORE JULY 1, 2027, EACH HOSPITAL[, OUTPATIENT SURGICAL
+7 CENTER OR OTHER HEALTH CARE INSTITUTION] THAT PERFORMS {{CARDIAC
+8 CATHETERIZATION}} PROCEDURES INVOLVING REAL-TIME X-RAY IMAGING{{,
+9 INCLUDING CARDIAC CATHETERIZATION AND OTHER INTERVENTIONAL PROCEDURES,}}
+10 SHALL ENSURE THAT AT LEAST FIFTY PERCENT OF THE PROCEDURE ROOMS IN WHICH
+11 THESE PROCEDURES OCCUR ARE EQUIPPED WITH A RADIATION PROTECTION SYSTEM.
+12 {{B. A HOSPITAL THAT ISSUES A PURCHASE ORDER FOR RADIATION
+13 PROTECTION SYSTEMS FOR AT LEAST FIFTY PERCENT OF THE APPLICABLE PROCEDURE
+14 ROOMS ON OR BEFORE JULY 1, 2027 AND THAT INSTALLS THOSE RADIATION
+15 PROTECTION SYSTEMS NOT LATER THAN DECEMBER 31, 2027 SATISFIES THE
+16 REQUIREMENT PRESCRIBED IN SUBSECTION A OF THIS SECTION.}}
+17 {{B.}} {{C.}} FOR THE PURPOSES OF THIS SECTION{{:}}{{,}}
+
+Senate Amendments to S.B. 1120
+1 {{1. "PURCHASE ORDER" MEANS A BINDING DOCUMENT THAT IS ISSUED BY A
+2 HOSPITAL REQUESTING A VENDOR TO DELIVER THE DESCRIBED EQUIPMENT AT A
+3 SPECIFIC PRICE AND THAT OBLIGATES THE HOSPITAL TO PAY THE VENDOR ON
+4 DELIVERY AND ACCEPTANCE OF THE EQUIPMENT OR IN ACCORDANCE WITH THE TERMS
+5 OF THE PURCHASE ORDER.
+6 2.}} "RADIATION PROTECTION SYSTEM" MEANS A SHIELDING SYSTEM THAT IS
+7 DESIGNED TO PROTECT AGAINST SCATTER OR DIRECT IONIZING RADIATION EXPOSURE,
+8 THAT PROVIDES PROTECTION EQUAL TO OR GREATER THAN THE SHIELDING
+9 EFFECTIVENESS OF A .25 MILLIMETER LEAD-EQUIVALENT APRON AND THAT INCLUDES
+10 REAL-TIME DOSIMETRY TO MEASURE RADIATION EXPOSURE TO HEALTH PROFESSIONALS
+11 THROUGHOUT AN IONIZING RADIATION MEDICAL PROCEDURE.
+12 Enroll and engross to conform
+13 Amend title to conform
+CARINE WERNER
+1120FloorWERNER.docx
+02/05/2026
+1:14 PM
+C: MH
+130IPHJXR
+-2-

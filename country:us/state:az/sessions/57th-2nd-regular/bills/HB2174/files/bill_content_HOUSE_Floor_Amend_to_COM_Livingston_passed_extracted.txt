@@ -1,0 +1,412 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to COM - Livingston - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2174: insurance; modeling organizations; predictive models
+LIVINGSTON FLOOR AMENDMENT
+1. Makes a conforming change to statute to be consistent with the NAIC Model
+Act relating to credit for reinsurance.
+PAUL BENNY
+2/12/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Livingston
+Second Regular Session H.B. 2174
+LIVINGSTON FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2174
+(Reference to COMMERCE S/E Committee amendment)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Strike everything after the enacting clause and insert:
+3 "Section 1. Section 20-235, Arizona Revised Statutes, is amended to
+4 read:
+5 20-235. Insurers; financial disclosure; requirements
+6 A. The director may adopt rules which require each insurer licensed
+7 to write property or casualty insurance in this state to report its loss
+8 and expense experience, investment income, administrative expenses and
+9 other data, as he may require, for classes of risks which he may
+10 designate. Such reports shall be in addition to the annual statement
+11 required by section 20-223.
+12 B. The department may designate one or more rate service
+13 organizations or advisory organizations MODELING AND DATA ORGANIZATIONS to
+14 gather and compile the experience and data.
+15 C. The director by order may require an insurer authorized to
+16 transact insurance in this state to submit statistical and other financial
+17 data including the information prescribed in subsection A of this section
+18 in a form and content consistent with rules adopted pursuant to subsection
+19 A, with any model guideline, regulation, rule or act adopted by the
+20 national association of insurance commissioners or with the classification
+21 basis used by the insurer. The director shall prescribe the time period
+22 and form in which the data shall be submitted.
+23 D. An insurer who fails to provide the information required under
+24 subsection C of this section is subject to payment of a late fee of not
+25 more than one hundred dollars for each day of delinquency. The director
+26 shall notify an insurer of late fees that it will incur as a result of
+27 noncompliance with this section at least ten days prior to the date any
+28 such late fees become due.
+29 Sec. 2. Section 20-341, Arizona Revised Statutes, is amended to
+30 read:
+31 20-341. Purpose of insurance rate regulation
+
+1 A. The purpose of this article is to promote the public welfare by
+2 regulating insurance rates to the end that they shall not be excessive,
+3 inadequate or unfairly discriminatory, and to authorize and regulate
+4 cooperative action among insurers in rate making and in other matters
+5 within the scope of this article. Nothing in this article is intended to
+6 prohibit or discourage reasonable competition, or to prohibit or
+7 encourage, except to the extent necessary to accomplish the purpose stated
+8 in this section, uniformity in insurance rates, rating systems, rating
+9 plans or practices. This article shall be liberally interpreted to carry
+10 into effect the provisions of this section.
+11 B. Where the rules and regulations of a rating bureau or advisory
+12 organization MODELING AND DATA ORGANIZATION conflict with the law, the
+13 rules and regulations do not apply.
+14 Sec. 3. Section 20-368, Arizona Revised Statutes, is amended to
+15 read:
+16 20-368. Modeling and data organizations
+17 A. Every group, association or other organization of insurers,
+18 whether located within or outside this state, which assists insurers which
+19 make their own filings or rating organizations in rate making, by the
+20 collection and furnishing of loss or expense statistics, or by the
+21 submission of recommendations, but which does not make filings under this
+22 article, shall be known as an advisory organization A MODELING AND DATA
+23 ORGANIZATION.
+24 B. Every advisory organization MODELING AND DATA ORGANIZATION shall
+25 file with the director:
+26 1. A copy of its constitution, its articles of agreement or
+27 association or its certificate of incorporation and a copy of its bylaws,
+28 rules and regulations governing its activities.
+29 2. A list of its INSURER members, IF APPLICABLE.
+30 3. The name and address of a resident of this state upon whom
+31 notices or orders of the director or process affecting the advisory
+32 organization MODELING AND DATA ORGANIZATION may be served.
+33 4. An agreement that the director may examine the advisory
+34 organization in accordance with the provisions of section 20-370.
+35 C. If, after a hearing, the director finds that the furnishing of
+36 such information or assistance involves any act or practice which is
+37 unfair or unreasonable or otherwise inconsistent with the provisions of
+38 this article, he may issue a written order specifying in what respects
+39 such act or practice is unfair or unreasonable or otherwise inconsistent,
+40 and requiring the discontinuance of such act or practice.
+41 D. No insurer which makes its own filings nor any rating
+42 organization shall support its filings by statistics or adopt rate making
+43 recommendations furnished to it by an advisory organization MODELING AND
+44 DATA ORGANIZATION which has not complied with this section or with an
+45 order of the director involving such statistics or recommendations issued
+46 under subsection C of this section. If the director finds the insurer or
+47 rating organization to be in violation of this subsection, he may issue an
+48 order requiring the discontinuance of the violation.
+49 E. THIS SECTION DOES NOT PRECLUDE A MODELING AND DATA ORGANIZATION
+50 FROM FILING A MODEL PURSUANT TO SECTION 20-390, SUBSECTION C.
+-2-
+
+1 Sec. 4. Section 20-370, Arizona Revised Statutes, is amended to
+2 read:
+3 20-370. Examinations of rating organizations
+4 A. The director, as often as he deems it expedient, may make or
+5 cause to be made an examination of each rating organization licensed in
+6 this state, each advisory organization referred to in section 20-368 and
+7 each group, association or other organization referred to in section
+8 20-369. The reasonable costs of such examination shall be paid by the
+9 rating organization, advisory organization or group, association or other
+10 organization examined upon presentation to it of a detailed account of the
+11 cost.
+12 B. The officers, managers, agents and employees of the rating
+13 organization, advisory organization or group, association or other
+14 organization may be examined at any time under oath, and shall exhibit all
+15 books, records, accounts, documents or agreements governing its method of
+16 operation.
+17 C. The director shall furnish two copies of the examination report
+18 to the organization, group or association examined and shall notify the
+19 organization, group or association that, within twenty days thereafter, it
+20 may request a hearing on the report or on any facts or recommendations in
+21 the report. Before filing the report for public inspection, the director
+22 shall grant a hearing to the organization, group or association examined.
+23 D. The report of the examination, when filed for public inspection,
+24 shall be admissible in evidence in any action or proceeding brought by the
+25 director against the organization, group or association examined, or its
+26 officers or agents, and shall be prima facie evidence of the facts stated
+27 in the report.
+28 E. The director may withhold the report of the examination from
+29 public inspection for such time as the director deems proper.
+30 F. In lieu of the examination, the director may accept the report
+31 of an examination made by the insurance supervisory official of another
+32 state, pursuant to the laws of such state.
+33 Sec. 5. Section 20-381, Arizona Revised Statutes, is amended to
+34 read:
+35 20-381. Definitions
+36 In this article, unless the context otherwise requires:
+37 1. "Advisory organization":
+38 (a) Means any person other than a single insurer who assists two or
+39 more insurers or rate service organizations in the making of rates by
+40 compiling and furnishing loss or expense statistics or other statistical
+41 information and data, or by the submission of recommendations as to rates,
+42 forms or supplementary rate information.
+43 (b) Does not include a joint underwriting association, any
+44 actuarial or legal consultant, any employee of an insurer or insurers
+45 under common control or management or their employees or manager.
+46 2. 1. "Loss cost adjustment":
+47 (a) Means that portion of a rate filed by an insurer with the
+48 director that includes the insurer’s general expenses, total product
+49 expenses, taxes, licenses and fee expenses and underwriting profit and
+50 contingencies.
+-3-
+
+1 (b) Does not include loss adjustment expenses or prospective loss
+2 costs.
+3 3. 2. "Loss cost modification factor" means that rating factor
+4 filed by an insurer with the director for the purpose of modifying the
+5 rate service organization’s prospective loss cost filing.
+6 3. "MODELING AND DATA ORGANIZATION":
+7 (a) MEANS ANY PERSON OTHER THAN A SINGLE INSURER WHO ASSISTS TWO OR
+8 MORE INSURERS OR RATE SERVICE ORGANIZATIONS IN THE MAKING OF RATES BY
+9 COMPILING AND FURNISHING LOSS OR EXPENSE STATISTICS OR OTHER STATISTICAL
+10 INFORMATION AND DATA, OR BY THE SUBMISSION OF RECOMMENDATIONS AS TO RATES,
+11 FORMS OR SUPPLEMENTARY RATE INFORMATION.
+12 (b) DOES NOT INCLUDE A JOINT UNDERWRITING ASSOCIATION, ANY
+13 ACTUARIAL OR LEGAL CONSULTANT, ANY EMPLOYEE OF AN INSURER OR INSURERS
+14 UNDER COMMON CONTROL OR MANAGEMENT OR THEIR EMPLOYEES OR MANAGER.
+15 4. "Prospective loss costs" means the historical aggregate losses
+16 and loss adjustment expenses filed by a rate service organization with the
+17 director on which a portion of a rate is based, adjusted through actuarial
+18 trending to a future point in time and developed to their ultimate values.
+19 5. "Rate":
+20 (a) Means that cost of insurance per exposure unit whether
+21 expressed as a single number or as a prospective loss cost with an
+22 adjustment to account for the treatment of expenses, profit and individual
+23 insurer variation in loss experience before any application of individual
+24 risk variations based on loss or expense considerations.
+25 (b) Does not include the minimum premium.
+26 6. "Rate service organization":
+27 (a) Means any person other than a single insurer who assists
+28 insurers by compiling and furnishing loss or expense statistics and
+29 recommending, making or filing rates, forms or supplementary rate
+30 information.
+31 (b) Does not include a joint underwriting association, any
+32 actuarial or legal consultant, any employee of an insurer or insurers
+33 under common control or management, or their employees or manager.
+34 7. "Supplementary rate information":
+35 (a) Means any manual or plan of rates, statistical plan,
+36 classification, rating schedule, minimum premium, schedule of fees,
+37 including membership fees charged by a reciprocal or mutual insurer,
+38 rating rule, rate related underwriting rule and other information used by
+39 an insurer in making rates.
+40 (b) Does not include the final rate pages that combine the
+41 prospective loss costs with the loss cost adjustments.
+42 Sec. 6. Section 20-387, Arizona Revised Statutes, is amended to
+43 read:
+44 20-387. Delegation of rate making and rate filing obligations
+45 A. An insurer may establish rates and supplementary rate
+46 information based on the factors in section 20-384 using, if desired, the
+47 recommendations of an advisory organization A MODELING AND DATA
+48 ORGANIZATION, or rates and supplementary rate information prepared by a
+49 rate service organization, with average expense factors determined by the
+50 rate service organization or with such modification for its own expense
+51 and loss experience as the credibility of that experience allows.
+-4-
+
+1 B. An insurer may discharge its obligations pursuant to section
+2 20-385 by giving notice to the director that it uses rates and
+3 supplementary rate information prepared by a designated rate service
+4 organization, with such information about modifications of the rates as is
+5 necessary to inform the director. The insurer's rates and supplementary
+6 rate information are those filed by the rate service organization,
+7 including any amendments to the rate as filed, subject to the
+8 modifications filed by the insurer.
+9 C. Licensed rate service organizations, advisory organizations
+10 MODELING AND DATA ORGANIZATIONS and admitted insurers are authorized to
+11 exchange information and experience data with rate service organizations,
+12 advisory organizations MODELING AND DATA ORGANIZATIONS and insurers in
+13 this and other states and may consult with them with respect to rate
+14 making.
+15 Sec. 7. Section 20-388, Arizona Revised Statutes, is amended to
+16 read:
+17 20-388. Disapproval of rates
+18 If the director finds that a rate is not in compliance with section
+19 20-383, the director shall issue an order specifying in what respects it
+20 so fails and stating that, within thirty days after the order is issued,
+21 the rate is no longer effective. The order does not affect any contract
+22 or policy made or issued prior to the effective date of the order. The
+23 order shall be served immediately pursuant to section 20-151. Any
+24 insurer, rate service organization or advisory organization MODELING AND
+25 DATA ORGANIZATION may request a hearing pursuant to title 41, chapter 6,
+26 article 10, and the request for a hearing stays the effectiveness of the
+27 order as provided in section 20-162.
+28 Sec. 8. Section 20-390, Arizona Revised Statutes, is amended to
+29 read:
+30 20-390. Modeling and data organizations; filing with director
+31 A. An advisory organization A MODELING AND DATA ORGANIZATION shall
+32 not conduct its operations in this state until it files with the director:
+33 1. A copy of its constitution, charter, articles of organization,
+34 agreement, association or incorporation and a copy of its bylaws and any
+35 other rules or regulations governing its activities.
+36 2. A list of its INSURER members and subscribers, IF APPLICABLE.
+37 3. The name and address of one or more residents of this state upon
+38 whom notices, process affecting it or orders of the director may be
+39 served.
+40 B. An advisory organization A MODELING AND DATA ORGANIZATION shall
+41 promptly file any amendments to a document required to be filed pursuant
+42 to this section.
+43 C. A MODELING AND DATA ORGANIZATION MAY FILE WITH THE DIRECTOR
+44 MODELS TO BE USED BY INSURERS IN THIS STATE FOR MAKING RATES. THE
+45 DIRECTOR MAY REQUIRE THE MODELING AND DATA ORGANIZATION TO FILE SUPPORTING
+46 DATA OR ANY ADDITIONAL INFORMATION RELATED TO THE CONTENT OF THE MODEL AND
+47 THE OUTPUTS OF THE MODEL NECESSARY TO VERIFY THAT THE MODEL COMPLIES WITH
+48 THE REQUIREMENTS OF THIS TITLE.
+49 D. MODELS, ANY SUPPORTING DATA OR ADDITIONAL INFORMATION REQUESTED
+50 BY THE DIRECTOR AND MODEL OUTPUTS FILED BY MODELING AND DATA ORGANIZATIONS
+-5-
+
+1 PURSUANT TO SUBSECTION C OF THIS SECTION ARE CONFIDENTIAL AND NOT SUBJECT
+2 TO SUBPOENA OR TITLE 39, CHAPTER 1.
+3 C. E. It is unlawful for an advisory organization A MODELING AND
+4 DATA ORGANIZATION to engage in any unfair or unreasonable practice.
+5 Sec. 9. Section 20-392, Arizona Revised Statutes, is amended to
+6 read:
+7 20-392. Rate agreements among insurers prohibited
+8 A. Except with respect to apportionment agreements among insurers
+9 approved by the director pursuant to section 20-395, an insurer shall not
+10 assume any obligation to any person, other than a policyholder or other
+11 insurers which, with it, are under common control or management or are
+12 members of a joint underwriting or joint reinsurance organization, to use
+13 or adhere to certain rates or rules. No person other than the director
+14 may impose any penalty or other adverse consequence for failure of an
+15 insurer to adhere to certain rates or rules.
+16 B. Members and subscribers of rate service organizations or
+17 advisory organizations MODELING AND DATA ORGANIZATIONS may use the work
+18 products and services of such organizations as their individual judgment
+19 may dictate. Such use by two or more authorized insurers shall not be
+20 sufficient to support a finding that an agreement to adhere exists and may
+21 be used only for the purpose of supplementing direct evidence of such an
+22 agreement.
+23 Sec. 10. Section 20-393, Arizona Revised Statutes, is amended to
+24 read:
+25 20-393. Recording and reporting of experience
+26 The director shall promulgate reasonable rules, including rules
+27 providing statistical plans, for use by all insurers in the recording and
+28 reporting of loss and expense experience, in order that the experience of
+29 such insurers may be made available to the director. No insurer may be
+30 required to record or report its experience on a classification basis
+31 inconsistent with its own rating system. An insurer may report its
+32 experience to any rate service organization or advisory organization
+33 MODELING AND DATA ORGANIZATION with which it affiliates.
+34 Sec. 11. Section 20-394, Arizona Revised Statutes, is amended to
+35 read:
+36 20-394. Examination of rate service organizations and joint
+37 underwriting and joint reinsurance organizations
+38 The director, as often as considered necessary, may examine each
+39 rate service organization, each advisory organization MODELING AND DATA
+40 ORGANIZATION and each group, association or other organization filing
+41 pursuant to section 20-391. The director shall examine only those
+42 activities conducted pursuant to this article. The director may examine
+43 the officers, manager, agents and employees of such organizations at any
+44 time under oath. The organization examined shall pay the reasonable costs
+45 of the examination upon presentation to it of a detailed account of the
+46 costs. The organization examined shall exhibit all books, records,
+47 accounts, documents or agreements governing its method of operation. In
+48 lieu of the examination the director may accept the report of an
+49 examination made by the insurance supervisory official of another state,
+50 pursuant to the laws of such state.
+-6-
+
+1 Sec. 12. Section 20-396, Arizona Revised Statutes, is amended to
+2 read:
+3 20-396. Hearing and judicial review
+4 Any insurer, rate service organization or advisory organization
+5 MODELING AND DATA ORGANIZATION to which the director has issued an order
+6 or decision may request a hearing pursuant to title 41, chapter 6, article
+7 10 and, except as provided in section 41-1092.08, subsection H, seek
+8 judicial review pursuant to title 12, chapter 7, article 6.
+9 Sec. 13. Section 20-409, Arizona Revised Statutes, is amended to
+10 read:
+11 20-409. Recognized surplus lines
+12 A. If after a hearing the director finds that a particular
+13 insurance coverage or type, class or kind of coverage is not readily
+14 procurable from authorized insurers, the director may by order declare
+15 such coverage or coverages to be recognized surplus lines until the
+16 director's further order.
+17 B. The order is subject to modification by the director. The
+18 director shall modify any coverage if the director determines that the
+19 coverage is no longer entitled to recognition as surplus lines after a
+20 hearing held on the director's initiative or on the request of any
+21 insurance producer, surplus lines broker, broker, insurer, rating or
+22 advisory organization MODELING AND DATA ORGANIZATION, or other person."
+23 <<Sec. 14. Section 20-3604, Arizona Revised Statutes, is amended to
+24 read:
+25 20-3604. Rules
+26 A. The director may adopt rules pursuant to title 41, chapter 6 to
+27 carry out this article.
+28 B. The rules may include regulation of reinsurance arrangements
+29 relating to any of the following:
+30 1. Life insurance policies with guaranteed nonlevel gross premiums
+31 or guaranteed nonlevel benefits.
+32 2. Universal life insurance policies with provisions resulting in
+33 the ability of a policyholder to keep a policy in force over a secondary
+34 guarantee period.
+35 3. Variable annuities with guaranteed death or living benefits.
+36 4. Long-term care insurance policies.
+37 5. Any other life and health insurance and annuity products for
+38 which the national association of insurance commissioners adopts model
+39 regulatory requirements with respect to credit for reinsurance.
+40 C. Any rule adopted pursuant to subsection B, paragraph 1 or 2 of
+41 this section may apply to any treaty that contains either or both:
+42 1. Policies issued on or after January 1, 2015.
+43 2. Policies issued before January 1, 2015, if risk pertaining to
+44 such pre-2015 policies is ceded in connection with the treaty, in whole or
+45 in part, on or after January 1, 2015.
+46 D. Any rule adopted pursuant to subsection B of this section:
+47 1. May require the ceding insurer, in calculating the amounts or
+48 forms of security required to be held pursuant to rules adopted by the
+49 department, to use the valuation manual adopted by the national
+50 association of insurance commissioners under section 11B(1) of the
+51 national association of insurance commissioners standard valuation law,
+-7-
+
+1 including all amendments adopted by the national association of insurance
+2 commissioners and in effect on the date as of which the calculation is
+3 made, to the extent applicable.
+4 2. Does not apply to cessions to an assuming insurer that [is
+5 licensed in at least twenty-six states or that is licensed in at least ten
+6 states and licensed or accredited in a total of at least thirty-five
+7 states and that] either:
+8 (a) Meets the conditions prescribed in section 20-3602, subsection
+9 H in this state.
+10 (b) Is certified in this state.
+11 (c) Maintains at least $250,000,000 in capital and surplus as
+12 determined in accordance with the accounting practices and procedures
+13 manual and amendments adopted by the national association of insurance
+14 commissioners, excluding the impact of any allowed or prescribed
+15 practices[, AND THAT IS EITHER:
+16 (i) LICENSED IN AT LEAST TWENTY-SIX STATES.
+17 (ii) LICENSED IN AT LEAST TEN STATES AND LICENSED OR ACCREDITED IN
+18 A TOTAL OF AT LEAST THIRTY-FIVE STATES].
+19 E. The authority to adopt rules pursuant to subsection B of this
+20 section does not limit the department's general authority to adopt rules
+21 pursuant to subsection A of this section.>>
+22 Enroll and engross to conform
+23 Amend title to conform
+DAVID LIVINGSTON
+2174FloorLIVINGSTON.docx
+02/12/2026
+10:38 AM
+H: PB/ls
+130MXNENB
+-8-

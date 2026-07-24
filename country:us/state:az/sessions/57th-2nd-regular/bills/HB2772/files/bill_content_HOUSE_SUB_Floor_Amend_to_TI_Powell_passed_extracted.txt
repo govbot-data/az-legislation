@@ -1,0 +1,336 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - SUB Floor Amend to TI - Powell - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2772: license; driver; nonoperating; medical indicia
+POWELL FLOOR AMENDMENT
+1. Requires the Arizona Department of Transportation (ADOT) to provide on
+each driver license or nonoperating identification license (license) a space
+where a licensee may indicate the licensee suffers from some type of adverse
+medical condition using a medical indicator, rather than a medical code.
+2. Removes the requirement for ADOT to prescribe by rule, a medical code to
+identify the medical conditions using a system of numerals or letters
+commonly accepted by the medical profession.
+3. Eliminates the ability for a person, to affirmatively request in writing, that
+they want the medical code as part of the computer record.
+4. Tasks a person, who indicates that they have some type of adverse medical
+condition using a medical indicator on their license, with affirming to ADOT
+at each license renewal, that the indicator remains in effect for the licensee.
+5. Mandates ADOT with providing space on a license to indicate an advanced
+health care directive including a health care power of attorney, a living will
+or a mental health care power of attorney.
+6. Repeals the rules and requirement for ADOT to prescribe an orange symbol
+to indicate a prehospital medical care directive on a license.
+7. Prevents ADOT from maintaining any document relating to the adverse
+medical condition in their computer records after issuing the license, except
+for the purpose of indicating the symbol on the license.
+8. Exempts ADOT from liability for damages from the use of indicator
+information provided on a license, rather than the medical code or
+prehospital medical care directive information.
+9. Adds any civilian bystanders who make a good faith effort to identify a
+patient and who rely on a medical indicator, rather than an orange symbol,
+from exemption of liability.
+10. Redefines medical or disability information.
+11. Contains a legislative intent clause and a delayed effective date of January 1,
+2027.
+12. Makes conforming changes.
+LUCA MALDOVAN
+3/2/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Powell
+Second Regular Session H.B. 2772
+POWELL SUBSTITUTE FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2772
+I move the following SUBSTITUTE amendment to the TRANSPORTATION & INFRASTRUCTURE Committee
+Amendment to
+HOUSE BILL 2772 (Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 28-440, Arizona Revised Statutes, is amended
+3 to read:
+4 28-440. Definitions
+5 In this article, unless the context otherwise requires:
+6 1. "Bulk records" means multiple records that are retrieved
+7 collectively from the department's database as a result of a single
+8 request. Bulk records does not include retrieving one record at a time
+9 from a single request.
+10 2. "Duplicate" means a counterpart produced by any of the
+11 following:
+12 (a) The same impression or from the same matrix as the original.
+13 (b) Means of photography, including enlargements and miniatures.
+14 (c) Mechanical or electronic rerecording.
+15 (d) Chemical reproduction.
+16 (e) Any other equivalent technique that accurately reproduces the
+17 original.
+18 3. "Electronic signature" means an electronic sound, symbol or
+19 process attached to or logically associated with a document and executed
+20 or adopted by a person with the intent to sign the document.
+21 4. "Express consent" means consent in writing, including consent
+22 that is conveyed electronically and that bears an electronic signature.
+23 5. "Highly restricted personal information" means an individual's
+24 photograph or image, social security number and medical or disability
+25 information.
+26 6. "Insurance support organization" has the same meaning prescribed
+27 in section 20-2102.
+
+House Amendments to H.B. 2772
+1 7. "Medical or disability information" means a restriction or
+2 medical [code] [INDICATOR] placed on a person's motor vehicle record
+3 pursuant to section 28-3159, subsection A, paragraph 1 or section 28-3167.
+4 8. "Motor vehicle record" means any record that pertains to a
+5 driver license or permit, vehicle registration, vehicle title or
+6 identification document issued by the department or its duly authorized
+7 third parties, agents or contractors that are authorized to issue any of
+8 those documents.
+9 9. "Opt in" means a customer of the department has provided express
+10 consent to the department to allow the release of the customer's personal
+11 information, including highly restricted personal information, in a form
+12 prescribed by the director.
+13 10. "Original":
+14 (a) Of a record means the record itself or any counterpart intended
+15 to have the same effect by the person executing or issuing it.
+16 (b) Of a photograph means the negative or a print from the
+17 negative.
+18 (c) Of data stored in a computer or similar device means a printout
+19 or other output that is readable by sight and that is shown to reflect the
+20 data accurately.
+21 11. "Personal information" means information that identifies an
+22 individual and that includes an individual's photograph, social security
+23 number, driver identification number, name, address, telephone number and
+24 medical or disability information. Personal information does not include
+25 an individual's five-digit zip code and information about vehicular
+26 accidents, driving violations and driver status.
+27 12. "Photographs" includes still photographs, x-ray films,
+28 videotapes, motion pictures and digitized electronic images.
+29 13. "Records" has the same meaning prescribed in section 41-151.
+30 14. "Vehicle history report" means a report that is developed to
+31 track the registration and total loss history of a particular vehicle and
+32 includes odometer readings and brand codes, title brand codes and any
+33 related vehicle data. Vehicle history report does not include names and
+34 addresses.>>
+35 Sec. 2. Section 28-3167, Arizona Revised Statutes, is amended to
+36 read:
+37 28-3167. Indicator information on license; health care
+38 directive; living wills; immunity
+39 A. The department shall provide on each driver license and on each
+40 nonoperating identification license a space where a licensee may indicate
+41 that the licensee suffers from some type of adverse medical condition
+42 using a medical [code prescribed by the department] [INDICATOR] if the
+43 licensee presents a signed statement from a physician who is licensed
+44 pursuant to title 32, chapter 13, 14 or 17 or a registered nurse
+45 practitioner who is licensed pursuant to title 32, chapter 15 stating that
+46 the person suffers from the condition.
+-2-
+
+House Amendments to H.B. 2772
+1 B. [The department shall prescribe by rule a medical code to
+2 identify the medical conditions using a system of numerals or letters
+3 commonly accepted by the medical profession.] Except for the purposes of
+4 entering the medical [code] [INDICATOR] on the driver license or
+5 nonoperating identification license[, and unless the person affirmatively
+6 requests in writing that the person wants the medical code as part of the
+7 computer record,] the department shall not maintain the medical [code]
+8 [INDICATOR] in the department computer after the department issues the
+9 driver license or nonoperating identification license. [THE PERSON SHALL
+10 AFFIRM TO THE DEPARTMENT AT EACH RENEWAL OF THE DRIVER LICENSE OR
+11 NONOPERATING IDENTIFICATION LICENSE THAT THE MEDICAL INDICATOR REMAINS IN
+12 EFFECT FOR THE LICENSEE.]
+13 C. THE DEPARTMENT SHALL PROVIDE ON EACH DRIVER LICENSE AND ON EACH
+14 NONOPERATING IDENTIFICATION LICENSE A SPACE WHERE A LICENSEE MAY INDICATE
+15 THAT THE LICENSEE HAS [AN ADVANCED HEALTH CARE DIRECTIVE, INCLUDING A
+16 HEALTH CARE POWER OF ATTORNEY AS PRESCRIBED BY TITLE 36, CHAPTER 32,
+17 ARTICLE 2,] A PREHOSPITAL MEDICAL CARE DIRECTIVE [BY USING AN ORANGE
+18 SYMBOL PRESCRIBED BY THE DEPARTMENT PURSUANT TO SUBSECTION D OF THIS
+19 SECTION IF THE LICENSEE PROVIDES PROOF TO THE DEPARTMENT OF A PREHOSPITAL
+20 MEDICAL CARE DIRECTIVE] THAT FULFILLS THE REQUIREMENTS OF TITLE 36,
+21 CHAPTER 32, ARTICLE 4[, A LIVING WILL AS PRESCRIBED BY TITLE 36, CHAPTER
+22 32, ARTICLE 5 OR A MENTAL HEALTH CARE POWER OF ATTORNEY AS PRESCRIBED BY
+23 TITLE 36, CHAPTER 32, ARTICLE 6]. [EXCEPT FOR THE PURPOSES OF ENTERING
+24 THE INDICATOR ON THE DRIVER LICENSE OR NONOPERATING IDENTIFICATION
+25 LICENSE, THE DEPARTMENT MAY NOT MAINTAIN ANY DOCUMENT PROVIDED PURSUANT TO
+26 THIS SUBSECTION IN THE DEPARTMENT'S COMPUTER RECORDS AFTER THE DEPARTMENT
+27 ISSUES THE DRIVER LICENSE OR NONOPERATING IDENTIFICATION LICENSE.] THE
+28 DEPARTMENT IS NOT REQUIRED TO ACCEPT OR INTERPRET MEDICAL CARE DIRECTIVES
+29 THAT DO NOT MEET THE REQUIREMENTS OF TITLE 36, CHAPTER 32[, ARTICLE 4].
+30 THE LICENSEE SHALL AFFIRM TO THE DEPARTMENT AT EACH RENEWAL OF THE DRIVER
+31 LICENSE OR NONOPERATING IDENTIFICATION LICENSE THAT [AN ADVANCED HEALTH
+32 CARE DIRECTIVE,] A PREHOSPITAL MEDICAL CARE DIRECTIVE[, A LIVING WILL OR A
+33 MENTAL HEALTH CARE POWER OF ATTORNEY] REMAINS IN EFFECT FOR THE LICENSEE.
+34 [D. THE DEPARTMENT SHALL PRESCRIBE BY RULE AN ORANGE SYMBOL TO
+35 IDENTIFY THE PREHOSPITAL MEDICAL CARE DIRECTIVE. THE DEPARTMENT SHALL
+36 MAINTAIN THE PREHOSPITAL MEDICAL CARE DIRECTIVE IN THE DEPARTMENT'S
+37 COMPUTER RECORDS AFTER THE DEPARTMENT ISSUES THE DRIVER LICENSE OR
+38 NONOPERATING IDENTIFICATION LICENSE. EXCEPT FOR THE PURPOSE OF INDICATING
+39 THE ORANGE SYMBOL ON THE DRIVER LICENSE OR NONOPERATING IDENTIFICATION
+40 LICENSE, AND UNLESS THE LICENSEE AFFIRMATIVELY REQUESTS IN WRITING THAT
+41 THE LICENSEE WANTS THE PREHOSPITAL MEDICAL CARE DIRECTIVE AS PART OF THE
+42 COMPUTER RECORDS, THE DEPARTMENT MAY NOT MAINTAIN THE PREHOSPITAL MEDICAL
+43 CARE DIRECTIVE IN THE DEPARTMENT'S COMPUTER RECORDS AFTER THE DEPARTMENT
+44 ISSUES THE DRIVER LICENSE OR NONOPERATING IDENTIFICATION LICENSE.]
+45 C. [E.] [D.] The department and this state are exempt from
+46 liability for damages from the use of [medical code OR PREHOSPITAL MEDICAL
+-3-
+
+House Amendments to H.B. 2772
+1 CARE DIRECTIVE] [INDICATOR] information provided on a license pursuant to
+2 this section.
+3 Sec. 3. Section 36-3251, Arizona Revised Statutes, is amended to
+4 read:
+5 36-3251. Prehospital medical care directives; form; effect;
+6 immunity; definitions
+7 A. Notwithstanding any law or a health care directive to the
+8 contrary, a person may execute a prehospital medical care directive that,
+9 in the event of cardiac or respiratory arrest, directs the withholding of
+10 cardiopulmonary resuscitation by emergency medical system personnel,
+11 hospital emergency department personnel and, as provided in subsection L
+12 of this section, direct care staff persons. For the purposes of this
+13 article, "cardiopulmonary resuscitation" includes cardiac compression,
+14 endotracheal intubation and other advanced airway management, artificial
+15 ventilation, defibrillation, administration of advanced cardiac life
+16 support drugs and related emergency medical procedures. Authorization for
+17 the withholding of cardiopulmonary resuscitation does not include the
+18 withholding of other medical interventions, such as intravenous fluids,
+19 oxygen or other therapies deemed necessary to provide comfort care or to
+20 alleviate pain.
+21 B. A prehospital medical care directive shall be printed on an
+22 orange background and may be used in either letter or wallet size. The
+23 directive shall be in the following form:
+24 Prehospital Medical Care Directive
+25 (side one)
+26 In the event of cardiac or respiratory arrest, I refuse
+27 any resuscitation measures, including cardiac compression,
+28 endotracheal intubation and other advanced airway management,
+29 artificial ventilation, defibrillation, administration of
+30 advanced cardiac life support drugs and related emergency
+31 medical procedures.
+32 Patient: ______________________ date: ________________
+33 (Signature or mark)
+34 Attach recent photograph here or provide all of the
+35 following information below:
+36 Date of birth ________ sex _____
+37 Eye color ________ hair color ______ race ______
+38 Hospice program (if any) _____________________________
+39 Name and telephone number of patient's physician
+40 ______________________________________________________
+41 (side two)
+42 I have explained this form and its consequences to the
+43 signer and obtained assurance that the signer understands that
+44 death may result from any refused care listed above.
+45 ________________________________ date __________
+46 (Licensed health care provider)
+-4-
+
+House Amendments to H.B. 2772
+1 I was present when this was signed (or marked). The
+2 patient then appeared to be of sound mind and free from
+3 duress.
+4 ________________________________ date ___________
+5 (Witness)
+6 C. A person who has a valid prehospital medical care directive
+7 pursuant to this section may wear an identifying bracelet on either the
+8 wrist or the ankle. The bracelet shall be substantially similar to
+9 identification bracelets worn in hospitals. The bracelet shall be on an
+10 orange background and state the following in bold type:
+11 Do Not Resuscitate
+12 Patient: _________________________________________
+13 Patient's physician: _____________________________
+14 D. If the person has designated an agent to make health care
+15 decisions under section 36-3221 or has been appointed a guardian for
+16 health care decisions pursuant to title 14, that agent or guardian shall
+17 sign if the person is no longer competent to do so.
+18 E. A prehospital medical care directive is effective until it is
+19 revoked or superseded by a new document.
+20 F. Emergency medical system personnel, hospital emergency
+21 department personnel[,] [and] direct care staff persons [AND ANY CIVILIAN
+22 BYSTANDERS] who make a good faith effort to identify the patient and who
+23 rely on an apparently genuine directive, [AN ORANGE SYMBOL INDICATED] [AN
+24 INDICATOR AS PRESCRIBED IN SECTION 28-3167] ON THE PATIENT'S DRIVER
+25 LICENSE OR NONOPERATING IDENTIFICATION LICENSE or a photocopy of a
+26 directive on orange paper are immune from liability to the same extent and
+27 under the same conditions as prescribed in section 36-3205. If a person
+28 has any doubt as to the validity of a directive or the medical situation,
+29 that person shall proceed with resuscitative efforts as otherwise required
+30 by law. Emergency medical system personnel and direct care staff persons
+31 are not required to accept or interpret medical care directives that do
+32 not meet the requirements of this section.
+33 G. In the absence of a physician, a person without vital signs who
+34 is not resuscitated pursuant to a prehospital medical care directive may
+35 be pronounced dead by any peace officer of this state, a professional
+36 nurse licensed pursuant to title 32, chapter 15 or an emergency medical
+37 technician certified pursuant to this title.
+38 H. This section does not apply to situations involving mass
+39 casualties or to medical emergencies involving children and adults with
+40 disabilities in public or private schools that are not licensed health
+41 care institutions as defined in section 36-401.
+42 I. After being notified of a death by emergency medical system
+43 personnel, the person's physician or the county medical examiner is then
+44 responsible for signing the death certificate.
+45 J. The office of emergency medical services in the department of
+46 health services shall print prehospital medical care directive forms and
+47 make them available to the public. The department may charge a fee that
+-5-
+
+House Amendments to H.B. 2772
+1 covers the department's costs to prepare the form. The department and its
+2 employees are immune from civil liability for issuing prehospital medical
+3 care directive forms that meet the requirements of this section. A person
+4 may use a form that is not prepared by the department of health services
+5 if that form meets the requirements of this section. If an organization
+6 distributes a prehospital medical care directive form that meets the
+7 requirements of this section, that organization and its employees are also
+8 immune from civil liability.
+9 K. Any prehospital medical care directive prepared before April 24,
+10 1994 is valid if it was valid at the time it was prepared.
+11 L. A direct care staff person may comply with a prehospital medical
+12 care directive pursuant to this section if the physician of the person who
+13 has the valid prehospital medical care directive has ordered a hospice
+14 plan of care.
+15 M. The department of economic security or the Arizona health care
+16 cost containment system administration may prescribe guidance for training
+17 and education of direct care staff persons regarding the requirements of
+18 this section.
+19 N. For the purposes of this section:
+20 1. "Direct care staff person" means a person who is employed or
+21 contracted to provide direct services pursuant to title 36, chapter 5.1.
+22 2. "Emergency medical system personnel" includes emergency medical
+23 technicians at all levels who are certified by the department of health
+24 services and medical personnel who are licensed by this state and who are
+25 operating outside of an acute care hospital under the direction of an
+26 emergency medical system agency recognized by the department of health
+27 services.
+28 <<Sec. 4. Legislative intent
+29 [The legislature intends that the department of transportation
+30 coordinate with the Arizona health care directives registry established
+31 pursuant to section 36-3291, Arizona Revised Statutes, to implement this
+32 act and to advance public awareness of advanced health care directives and
+33 the Arizona health care directives registry.]>>
+34 <<Sec. 5. Effective date
+35 [This act is effective from and after December 31, 2026.]>>
+36 Enroll and engross to conform
+37 Amend title to conform
+KHYL POWELL
+2772FloorPOWELL.docx
+03/09/2026
+9:26 AM
+C: JR
+130OWJCUA
+-6-

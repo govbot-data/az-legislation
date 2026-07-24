@@ -1,0 +1,825 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Appropriations, Transportation and Technology
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Appropriations, Transportation and Technology
+Second Regular Session H.B. 2957
+COMMITTEE ON APPROPRIATIONS, TRANSPORTATION AND TECHNOLOGY
+SENATE AMENDMENTS TO H.B. 2957
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 28-101, Arizona Revised Statutes, is amended to
+3 read:
+4 28-101. Definitions
+5 In this title, unless the context otherwise requires:
+6 1. "Alcohol" means any substance containing any form of alcohol,
+7 including ethanol, methanol, propynol and isopropynol.
+8 2. "Alcohol concentration" if expressed as a percentage means
+9 either:
+10 (a) The number of grams of alcohol per one hundred milliliters of
+11 blood.
+12 (b) The number of grams of alcohol per two hundred ten liters of
+13 breath.
+14 3. "All-terrain vehicle" means either of the following:
+15 (a) A motor vehicle that satisfies all of the following:
+16 (i) Is designed primarily for recreational nonhighway all-terrain
+17 travel.
+18 (ii) Is fifty or fewer inches in width.
+19 (iii) Has an unladen weight of one thousand two hundred pounds or
+20 less.
+21 (iv) Travels on three or more nonhighway tires.
+22 (v) Is operated on a public highway.
+23 (b) A recreational off-highway vehicle that satisfies all of the
+24 following:
+25 (i) Is designed primarily for recreational nonhighway all-terrain
+26 travel.
+27 (ii) Is eighty or fewer inches in width.
+28 (iii) Has an unladen weight of two thousand five hundred pounds or
+29 less.
+
+Senate Amendments to H.B. 2957
+1 (iv) Travels on four or more nonhighway tires.
+2 (v) Has a steering wheel for steering control.
+3 (vi) Has a rollover protective structure.
+4 (vii) Has an occupant retention system.
+5 4. "Authorized emergency vehicle" means any of the following:
+6 (a) A fire department vehicle.
+7 (b) A police vehicle.
+8 (c) An ambulance or emergency vehicle of a municipal department or
+9 public service corporation that is designated or authorized by the
+10 department or a local authority.
+11 (d) Any other ambulance, fire truck or rescue vehicle that is
+12 authorized by the department in its sole discretion and that meets
+13 liability insurance requirements prescribed by the department.
+14 5. "Autocycle" means a three-wheeled motorcycle on which the driver
+15 and passengers ride in a fully or partially enclosed seating area that is
+16 equipped with a roll cage, safety belts for each occupant and antilock
+17 brakes and that is designed to be controlled with a steering wheel and
+18 pedals.
+19 6. "Automated driving system" means the hardware and software that
+20 are collectively capable of performing the entire dynamic driving task on
+21 a sustained basis, regardless of whether it is limited to a specific
+22 operational design domain.
+23 7. "Automotive recycler" means a person that is engaged in the
+24 business of buying or acquiring a motor vehicle solely for the purpose of
+25 dismantling, selling or otherwise disposing of the parts or accessories
+26 and that removes parts for resale from six or more vehicles in a calendar
+27 year.
+28 8. "Autonomous vehicle" means a motor vehicle that is equipped with
+29 an automated driving system.
+30 9. "Aviation fuel" means all flammable liquids composed of a
+31 mixture of selected hydrocarbons expressly manufactured and blended for
+32 the purpose of effectively and efficiently operating an internal
+33 combustion engine for use in an aircraft but does not include fuel for jet
+34 or turbine powered aircraft.
+35 10. "Bicycle" means a device, including a racing wheelchair, that
+36 is propelled by human power and on which a person may ride and that has
+37 either:
+38 (a) Two tandem wheels, either of which is more than sixteen inches
+39 in diameter.
+40 (b) Three wheels in contact with the ground, any of which is more
+41 than sixteen inches in diameter.
+42 11. "Board" means the transportation board.
+43 12. "Bus" means a motor vehicle designed for carrying sixteen or
+44 more passengers, including the driver.
+45 13. "Business district" means the territory contiguous to and
+46 including a highway if there are buildings in use for business or
+47 industrial purposes within any six hundred feet along the highway,
+-2-
+
+Senate Amendments to H.B. 2957
+1 including hotels, banks or office buildings, railroad stations and public
+2 buildings that occupy at least three hundred feet of frontage on one side
+3 or three hundred feet collectively on both sides of the highway.
+4 14. "Certificate of ownership" means a paper or an electronic
+5 record that is issued in another state or a foreign jurisdiction and that
+6 indicates ownership of a vehicle.
+7 15. "Certificate of title" means a paper document or an electronic
+8 record that is issued by the department and that indicates ownership of a
+9 vehicle.
+10 16. "Combination of vehicles" means a truck or truck tractor and
+11 semitrailer and any trailer that it tows but does not include a forklift
+12 designed for the purpose of loading or unloading the truck, trailer or
+13 semitrailer.
+14 17. "Controlled substance" means a substance so classified under
+15 section 102(6) of the controlled substances act (21 United States Code
+16 section 802(6)) and includes all substances listed in schedules I through
+17 V of 21 Code of Federal Regulations part 1308.
+18 18. "Conviction" means:
+19 (a) An unvacated adjudication of guilt or a determination that a
+20 person violated or failed to comply with the law in a court of original
+21 jurisdiction or by an authorized administrative tribunal.
+22 (b) An unvacated forfeiture of bail or collateral deposited to
+23 secure the person's appearance in court.
+24 (c) A plea of guilty or no contest accepted by the court.
+25 (d) The payment of a fine or court costs.
+26 19. "County highway" means a public road that is constructed and
+27 maintained by a county.
+28 20. "Dealer" means a person who is engaged in the business of
+29 buying, selling or exchanging motor vehicles, trailers or semitrailers and
+30 who has an established place of business and has paid fees pursuant to
+31 section 28-4302.
+32 21. "Department" means the department of transportation acting
+33 directly or through its duly authorized officers and agents.
+34 22. "Digital network or software application" has the same meaning
+35 prescribed in section 28-9551.
+36 23. "Director" means the director of the department of
+37 transportation.
+38 24. "Drive" means to operate or be in actual physical control of a
+39 motor vehicle.
+40 25. "Driver" means a person who drives or is in actual physical
+41 control of a vehicle.
+42 26. "Driver license" means a license that is issued by a state to
+43 an individual and that authorizes the individual to drive a motor vehicle.
+44 27. "Dynamic driving task":
+45 (a) Means all of the real-time operational and tactical functions
+46 required to operate a vehicle in on-road traffic.
+47 (b) Includes:
+-3-
+
+Senate Amendments to H.B. 2957
+1 (i) Lateral vehicle motion control by steering.
+2 (ii) Longitudinal motion control by acceleration and deceleration.
+3 (iii) Monitoring the driving environment by object and event
+4 detection, recognition, classification and response preparation.
+5 (iv) Object and event response execution.
+6 (v) Maneuver planning.
+7 (vi) Enhancing conspicuity by lighting, signaling and gesturing.
+8 (c) Does not include strategic functions such as trip scheduling
+9 and selecting destinations and waypoints.
+10 28. "Electric bicycle" means a bicycle or tricycle that is equipped
+11 with fully operable pedals and an electric motor of less than seven
+12 hundred fifty watts and that meets the requirements of one of the
+13 following classes:
+14 (a) "Class 1 electric bicycle" means a bicycle or tricycle that is
+15 equipped with an electric motor that provides assistance only when the
+16 rider is pedaling and that ceases to provide assistance when the bicycle
+17 or tricycle reaches the speed of twenty miles per hour.
+18 (b) "Class 2 electric bicycle" means a bicycle or tricycle that is
+19 equipped with an electric motor that may be used exclusively to propel the
+20 bicycle or tricycle and that is not capable of providing assistance when
+21 the bicycle or tricycle reaches the speed of twenty miles per hour.
+22 (c) "Class 3 electric bicycle" means a bicycle or tricycle that is
+23 equipped with an electric motor that provides assistance only when the
+24 rider is pedaling and that ceases to provide assistance when the bicycle
+25 or tricycle reaches the speed of twenty-eight miles per hour.
+26 29. "Electric miniature scooter" means a device that:
+27 (a) Weighs less than thirty pounds.
+28 (b) Has two or three wheels.
+29 (c) Has handlebars.
+30 (d) Has a floorboard on which a person may stand while riding.
+31 (e) Is powered by an electric motor or human power, or both.
+32 (f) Has a maximum speed that does not exceed ten miles per hour,
+33 with or without human propulsion, on a paved level surface.
+34 30. "Electric personal assistive mobility device" means a
+35 self-balancing device with one wheel or two nontandem wheels and an
+36 electric propulsion system that limits the maximum speed of the device to
+37 fifteen miles per hour or less and that is designed to transport only one
+38 person.
+39 31. "Electric standup scooter":
+40 (a) Means a device that:
+41 (i) Weighs less than seventy-five pounds.
+42 (ii) Has two or three wheels.
+43 (iii) Has handlebars.
+44 (iv) Has a floorboard on which a person may stand while riding.
+45 (v) Is powered by an electric motor or human power, or both.
+46 (vi) Has a maximum speed that does not exceed twenty miles per
+47 hour, with or without human propulsion, on a paved level surface.
+-4-
+
+Senate Amendments to H.B. 2957
+1 (b) Does not include an electric miniature scooter.
+2 32. "Evidence" includes both of the following:
+3 (a) A display on a wireless communication device of a
+4 department-generated driver license, nonoperating identification license,
+5 vehicle registration card or other official record of the department that
+6 is presented to a law enforcement officer or in a court or an
+7 administrative proceeding.
+8 (b) An electronic or digital license plate authorized pursuant to
+9 section 28-364.
+10 33. "Farm" means any lands primarily used for agriculture
+11 production.
+12 34. "Farm tractor" means a motor vehicle designed and used
+13 primarily as a farm implement for drawing implements of husbandry.
+14 35. "Foreign vehicle" means a motor vehicle, trailer or semitrailer
+15 that is brought into this state other than in the ordinary course of
+16 business by or through a manufacturer or dealer and that has not been
+17 registered in this state.
+18 36. "Fully autonomous vehicle" means an autonomous vehicle that is
+19 equipped with an automated driving system designed to function as a level
+20 four or five system under SAE J3016 and that may be designed to function
+21 either:
+22 (a) Solely by use of the automated driving system.
+23 (b) By a human driver when the automated driving system is not
+24 engaged.
+25 37. "Golf cart" means a motor vehicle that has not less than three
+26 wheels in contact with the ground, that has an unladen weight of less than
+27 one thousand eight hundred pounds, that is designed to be and is operated
+28 at not more than twenty-five miles per hour and that is designed to carry
+29 not more than four persons including the driver.
+30 38. "Gross combined weight rating" means the sum of the gross
+31 vehicle weight rating of a motor vehicle and the trailer or semitrailer
+32 the motor vehicle tows.
+33 39. "Gross vehicle weight rating" means the weight that is assigned
+34 by the motor vehicle manufacturer to a motor vehicle and that represents
+35 the maximum recommended total weight, including the vehicle and the load
+36 for the vehicle.
+37 40. "Hazardous material" means a material, and its mixtures or
+38 solutions, that the United States department of transportation determines
+39 under 49 Code of Federal Regulations is, or any quantity of a material
+40 listed as a select agent or toxin under 42 Code of Federal Regulations
+41 part 73 that is, capable of posing an unreasonable risk to health, safety
+42 and property if transported in commerce and that is required to be
+43 placarded or marked as required by the department's safety rules
+44 prescribed pursuant to chapter 14 of this title.
+45 41. "Human driver" means a natural person in the vehicle who
+46 performs in real time all or part of the dynamic driving task or who
+47 achieves a minimal risk condition for the vehicle.
+-5-
+
+Senate Amendments to H.B. 2957
+1 42. "Implement of husbandry" means a vehicle that is designed
+2 primarily for agricultural purposes and that is used exclusively in the
+3 conduct of agricultural operations, including an implement or vehicle that
+4 uses an automated driving system or that is autonomous or that is
+5 self-propelled or otherwise, whether operated manually, equipped with an
+6 automated driving system that is not in use or equipped with an automated
+7 driving system that is in use, and that meets both of the following
+8 conditions:
+9 (a) Is used solely for agricultural purposes, including the
+10 preparation or harvesting of cotton, alfalfa, grains, specialty crops and
+11 other farm crops. For the purposes of this subdivision, "specialty crops"
+12 includes fruits, vegetables, tree nuts, dried fruits and horticulture and
+13 nursery crops, including floriculture.
+14 (b) Is only incidentally operated or moved on a highway whether as
+15 a trailer or an autonomous vehicle or a self-propelled unit. For the
+16 purposes of this subdivision, "incidentally operated or moved on a
+17 highway" means travel between a farm and another part of the same farm,
+18 from one farm to another farm or between a farm and a place of repair,
+19 supply or storage.
+20 43. "Limousine" means a motor vehicle providing prearranged ground
+21 transportation service for an individual passenger, or a group of
+22 passengers, that is arranged in advance or is operated on a regular route
+23 or between specified points and includes ground transportation under a
+24 contract or agreement for services that includes a fixed rate or time and
+25 is provided in a motor vehicle with a seating capacity not exceeding
+26 fifteen passengers including the driver.
+27 44. "Livery vehicle" means a motor vehicle that:
+28 (a) Has a seating capacity not exceeding fifteen passengers
+29 including the driver.
+30 (b) Provides passenger services for a fare determined by a flat
+31 rate or flat hourly rate between geographic zones or within a geographic
+32 area.
+33 (c) Is available for hire on an exclusive or shared ride basis.
+34 (d) May do any of the following:
+35 (i) Operate on a regular route or between specified places.
+36 (ii) Offer prearranged ground transportation service as defined in
+37 section 28-141.
+38 (iii) Offer on demand ground transportation service pursuant to a
+39 contract with a public airport, licensed business entity or organization.
+40 45. "Local authority" means any county, municipal or other local
+41 board or body exercising jurisdiction over highways under the constitution
+42 and laws of this state.
+43 46. "Manufacturer" means a person engaged in the business of
+44 manufacturing motor vehicles, trailers or semitrailers.
+45 47. "Minimal risk condition":
+-6-
+
+Senate Amendments to H.B. 2957
+1 (a) Means a condition to which a human driver or an automated
+2 driving system may bring a vehicle in order to reduce the risk of a crash
+3 when a given trip cannot or should not be completed.
+4 (b) Includes bringing the vehicle to a complete stop.
+5 48. "Moped" means a bicycle, not including an electric bicycle, an
+6 electric miniature scooter or an electric standup scooter, that is
+7 equipped with a helper motor if the vehicle has a maximum piston
+8 displacement of fifty cubic centimeters or less, a brake horsepower of one
+9 and one-half or less and a maximum speed of twenty-five miles per hour or
+10 less on a flat surface with less than a one percent grade.
+11 49. "Motorcycle" means a motor vehicle that has a seat or saddle
+12 for the use of the rider and that is designed to travel on not more than
+13 three wheels in contact with the ground but excludes a tractor, an
+14 electric bicycle, an electric miniature scooter, an electric standup
+15 scooter and a moped.
+16 50. "Motor driven cycle" means a motorcycle, including every motor
+17 scooter, with a motor that produces not more than five horsepower but does
+18 not include an electric bicycle, an electric miniature scooter or an
+19 electric standup scooter.
+20 51. "Motorized quadricycle" means a self-propelled motor vehicle to
+21 which all of the following apply:
+22 (a) The vehicle is self-propelled by an emission-free electric
+23 motor and may include pedals operated by the passengers.
+24 (b) The vehicle has at least four wheels in contact with the
+25 ground.
+26 (c) The vehicle seats at least eight passengers, including the
+27 driver.
+28 (d) The vehicle is operable on a flat surface using solely the
+29 electric motor without assistance from the pedals or passengers.
+30 (e) The vehicle is a commercial motor vehicle as defined in section
+31 28-5201.
+32 (f) The vehicle is a limousine operating under a vehicle for hire
+33 company permit issued pursuant to section 28-9503.
+34 (g) The vehicle is manufactured by a motor vehicle manufacturer
+35 that is licensed pursuant to chapter 10 of this title.
+36 (h) The vehicle complies with the definition and standards for
+37 low-speed vehicles set forth in 49 Code of Federal Regulations sections
+38 571.3(b) and 571.500, respectively.
+39 52. "Motor vehicle":
+40 (a) Means either:
+41 (i) A self-propelled vehicle.
+42 (ii) For the purposes of the laws relating to the imposition of a
+43 tax on motor vehicle fuel, a vehicle that is operated on the highways of
+44 this state and that is propelled by the use of motor vehicle fuel.
+45 (b) Does not include a scrap vehicle, a personal delivery device, a
+46 personal mobile cargo carrying device, a motorized wheelchair, an electric
+47 personal assistive mobility device, an electric bicycle, an electric
+-7-
+
+Senate Amendments to H.B. 2957
+1 miniature scooter, an electric standup scooter or a motorized skateboard.
+2 For the purposes of this subdivision:
+3 (i) "Motorized skateboard" means a self-propelled device that does
+4 not have handlebars and that has a motor, a deck on which a person may
+5 ride and at least two tandem wheels in contact with the ground.
+6 (ii) "Motorized wheelchair" means a self-propelled wheelchair that
+7 is used by a person for mobility.
+8 53. "Motor vehicle fuel" includes all products that are commonly or
+9 commercially known or sold as gasoline, including casinghead gasoline,
+10 natural gasoline and all flammable liquids, and that are composed of a
+11 mixture of selected hydrocarbons expressly manufactured and blended for
+12 the purpose of effectively and efficiently operating internal combustion
+13 engines. Motor vehicle fuel does not include inflammable liquids that are
+14 specifically manufactured for racing motor vehicles and that are
+15 distributed for and used by racing motor vehicles at a racetrack, use fuel
+16 as defined in section 28-5601, aviation fuel, fuel for jet or turbine
+17 powered aircraft or the mixture created at the interface of two different
+18 substances being transported through a pipeline, commonly known as
+19 transmix.
+20 54. "Neighborhood electric shuttle":
+21 (a) Means a self-propelled electrically powered motor vehicle to
+22 which all of the following apply:
+23 (i) The vehicle is emission free.
+24 (ii) The vehicle has at least four wheels in contact with the
+25 ground.
+26 (iii) The vehicle is capable of transporting at least eight
+27 passengers, including the driver.
+28 (iv) The vehicle is a commercial motor vehicle as defined in
+29 section 28-5201.
+30 (v) The vehicle is a vehicle for hire as defined in section 28-9501
+31 and operates under a vehicle for hire company permit issued pursuant to
+32 section 28-9503.
+33 (vi) The vehicle complies with the definition and standards for
+34 low-speed vehicles set forth in 49 Code of Federal Regulations sections
+35 571.3(b) and 571.500, respectively.
+36 (b) Includes a vehicle that meets the standards prescribed in
+37 subdivision (a) of this paragraph and that has been modified after market
+38 and not by the manufacturer to transport up to fifteen passengers,
+39 including the driver.
+40 55. "Neighborhood electric vehicle" means a self-propelled
+41 electrically powered motor vehicle to which all of the following apply:
+42 (a) The vehicle is emission free.
+43 (b) The vehicle has at least four wheels in contact with the
+44 ground.
+45 (c) The vehicle complies with the definition and standards for
+46 low-speed vehicles, unless excepted or exempted under federal law, set
+-8-
+
+Senate Amendments to H.B. 2957
+1 forth in 49 Code of Federal Regulations sections 571.3(b) and 571.500,
+2 respectively.
+3 56. "Neighborhood occupantless electric vehicle" means a
+4 neighborhood electric vehicle that is not designed, intended or marketed
+5 for human occupancy.
+6 57. "Nonresident" means a person who is not a resident of this
+7 state as defined in section 28-2001.
+8 58. "Off-road recreational motor vehicle" means a motor vehicle
+9 that is designed primarily for recreational nonhighway all-terrain travel
+10 and that is not operated on a public highway. Off-road recreational motor
+11 vehicle does not mean a motor vehicle used for construction, building
+12 trade, mining or agricultural purposes.
+13 59. "Operational design domain":
+14 (a) Means operating conditions under which a given automated
+15 driving system is specifically designed to function.
+16 (b) Includes roadway types, speed range, environmental conditions,
+17 such as weather or time of day, and other domain constraints.
+18 60. "Operator" means a person who drives a motor vehicle on a
+19 highway, who is in actual physical control of a motor vehicle on a highway
+20 or who is exercising control over or steering a vehicle being towed by a
+21 motor vehicle.
+22 61. "Owner" means:
+23 (a) A person who holds the legal title of a vehicle.
+24 (b) If a vehicle is the subject of an agreement for the conditional
+25 sale or lease with the right of purchase on performance of the conditions
+26 stated in the agreement and with an immediate right of possession vested
+27 in the conditional vendee or lessee, the conditional vendee or lessee.
+28 (c) If a mortgagor of a vehicle is entitled to possession of the
+29 vehicle, the mortgagor.
+30 62. "Pedestrian" means any person afoot. A person who uses an
+31 electric personal assistive mobility device or a manual or motorized
+32 wheelchair is considered a pedestrian unless the manual wheelchair
+33 qualifies as a bicycle. For the purposes of this paragraph, "motorized
+34 wheelchair" means a self-propelled wheelchair that is used by a person for
+35 mobility.
+36 63. "Personal delivery device":
+37 (a) Means a device that is both of the following:
+38 (i) Manufactured for transporting cargo and goods in an area
+39 described in section 28-1225.
+40 (ii) Equipped with automated driving technology, including software
+41 and hardware, that enables the operation of the device with the remote
+42 support and supervision of a human.
+43 (b) Does not include a personal mobile cargo carrying device.
+44 64. "Personal mobile cargo carrying device" means an electronically
+45 powered device that:
+46 (a) Is operated primarily on sidewalks and within crosswalks and
+47 that is designed to transport property.
+-9-
+
+Senate Amendments to H.B. 2957
+1 (b) Weighs less than eighty pounds, excluding cargo.
+2 (c) Operates at a maximum speed of twelve miles per hour.
+3 (d) Is equipped with technology to transport personal property with
+4 the active monitoring of a property owner and that is primarily designed
+5 to remain within twenty-five feet of the property owner.
+6 (e) Is equipped with a braking system that when active or engaged
+7 enables the personal mobile cargo carrying device to come to a controlled
+8 stop.
+9 65. "Power sweeper" means an implement, with or without motive
+10 power, that is only incidentally operated or moved on a street or highway
+11 and that is designed for the removal of debris, dirt, gravel, litter or
+12 sand whether by broom, vacuum or regenerative air system from asphaltic
+13 concrete or cement concrete surfaces, including parking lots, highways,
+14 streets and warehouses, and a vehicle on which the implement is
+15 permanently mounted.
+16 66. "Public transit" means the transportation of passengers on
+17 scheduled routes by means of a conveyance on an individual passenger
+18 fare-paying basis excluding transportation by a sightseeing bus, school
+19 bus or taxi or a vehicle not operated on a scheduled route basis.
+20 67. "Reconstructed vehicle" means a vehicle that has been assembled
+21 or constructed largely by means of essential parts, new or used, derived
+22 from vehicles or makes of vehicles of various names, models and types or
+23 that, if originally otherwise constructed, has been materially altered by
+24 the removal of essential parts or by the addition or substitution of
+25 essential parts, new or used, derived from other vehicles or makes of
+26 vehicles. For the purposes of this paragraph, "essential parts" means
+27 integral and body parts, the removal, alteration or substitution of which
+28 will tend to conceal the identity or substantially alter the appearance of
+29 the vehicle.
+30 68. "Residence district" means the territory contiguous to and
+31 including a highway not comprising a business district if the property on
+32 the highway for a distance of three hundred feet or more is in the main
+33 improved with residences or residences and buildings in use for business.
+34 69. "Right-of-way" when used within the context of the regulation
+35 of the movement of traffic on a highway means the privilege of the
+36 immediate use of the highway. Right-of-way when used within the context
+37 of the real property on which transportation facilities and appurtenances
+38 to the facilities are constructed or maintained means the lands or
+39 interest in lands within the right-of-way boundaries.
+40 70. "SAE J3016" means surface transportation recommended practice
+41 J3016 taxonomy and definitions for terms related to driving automation
+42 systems for on-road motor vehicles published by SAE international in June
+43 2018.
+44 71. "School bus" means a motor vehicle that is designed for
+45 carrying more than ten passengers and that is either:
+-10-
+
+Senate Amendments to H.B. 2957
+1 (a) Owned by any public or governmental agency or other institution
+2 and operated for the transportation of children to or from home or school
+3 on a regularly scheduled basis.
+4 (b) Privately owned and operated for compensation for the
+5 transportation of children to or from home or school on a regularly
+6 scheduled basis.
+7 72. "Scrap metal dealer" has the same meaning prescribed in section
+8 44-1641.
+9 73. "Scrap vehicle" has the same meaning prescribed in section
+10 44-1641.
+11 74. "Semitrailer" means a vehicle that is with or without motive
+12 power, other than a pole trailer or single-axle tow dolly, that is
+13 designed for carrying persons or property and for being drawn by a motor
+14 vehicle and that is constructed so that some part of its weight and that
+15 of its load rests on or is carried by another vehicle. For the purposes of
+16 this paragraph, "pole trailer" has the same meaning prescribed in section
+17 28-601.
+18 75. "Single-axle tow dolly" means a nonvehicle device that is drawn
+19 by a motor vehicle, that is designed and used exclusively to transport
+20 another motor vehicle and on which the front or rear wheels of the drawn
+21 motor vehicle are mounted on the tow dolly while the other wheels of the
+22 drawn motor vehicle remain in contact with the ground.
+23 76. "State" means a state of the United States and the District of
+24 Columbia.
+25 77. "State highway" means a state route or portion of a state route
+26 that is accepted and designated by the board as a state highway and that
+27 is maintained by the state.
+28 78. "State route" means a right-of-way whether actually used as a
+29 highway or not that is designated by the board as a location for the
+30 construction of a state highway.
+31 79. "Street" or "highway" means the entire width between the
+32 boundary lines of every way if a part of the way is open to the use of the
+33 public for purposes of vehicular travel.
+34 80. "Taxi" means a motor vehicle that has a seating capacity not
+35 exceeding fifteen passengers, including the driver, that provides
+36 passenger services and that:
+37 (a) Does not primarily operate on a regular route or between
+38 specified places.
+39 (b) Offers local transportation for a fare determined on the basis
+40 of the distance traveled or prearranged ground transportation service as
+41 defined in section 28-141 for a predetermined fare.
+42 81. "Title transfer form" means a paper or an electronic form that
+43 is prescribed by the department for the purpose of transferring a
+44 certificate of title from one owner to another owner.
+45 82. "Traffic survival school" means a school that is licensed
+46 pursuant to chapter 8, article 7.1 of this title and that offers
+-11-
+
+Senate Amendments to H.B. 2957
+1 educational sessions that are designed to improve the safety and habits of
+2 drivers and that are approved by the department.
+3 83. "Trailer" means a vehicle that is with or without motive power,
+4 other than a pole trailer or single-axle tow dolly, that is designed for
+5 carrying persons or property and for being drawn by a motor vehicle and
+6 that is constructed so that no part of its weight rests on the towing
+7 vehicle. A semitrailer equipped with an auxiliary front axle commonly
+8 known as a dolly is deemed to be a trailer. For the purposes of this
+9 paragraph, "pole trailer" has the same meaning prescribed in section
+10 28-601.
+11 84. "Transportation network company" has the same meaning
+12 prescribed in section 28-9551.
+13 85. "Transportation network company vehicle" has the same meaning
+14 prescribed in section 28-9551.
+15 86. "Transportation network service" has the same meaning
+16 prescribed in section 28-9551.
+17 87. "Truck" means a motor vehicle designed or used primarily for
+18 the carrying of property other than the effects of the driver or
+19 passengers and includes a motor vehicle to which has been added a box, a
+20 platform or other equipment for such carrying.
+21 88. "Truck tractor" means a motor vehicle that is designed and used
+22 primarily for drawing other vehicles and that is not constructed to carry
+23 a load other than a part of the weight of the vehicle and load drawn.
+24 89. "Vehicle":
+25 (a) Means a device in, on or by which a person or property is or
+26 may be transported or drawn on a public highway.
+27 (b) Does not include:
+28 (i) Electric bicycles, electric miniature scooters, electric
+29 standup scooters and devices moved by human power.
+30 (ii) Devices used exclusively on stationary rails or tracks.
+31 (iii) Personal delivery devices.
+32 (iv) Scrap vehicles.
+33 (v) Personal mobile cargo carrying devices.
+34 90. "Vehicle transporter" means either:
+35 (a) A truck tractor capable of carrying a load and drawing a
+36 semitrailer.
+37 (b) A truck tractor with a stinger-steered fifth wheel capable of
+38 carrying a load and drawing a semitrailer or a truck tractor with a dolly
+39 mounted fifth wheel that is securely fastened to the truck tractor at two
+40 or more points and that is capable of carrying a load and drawing a
+41 semitrailer.
+42 Sec. 2. Section 28-338, Arizona Revised Statutes, is amended to
+43 read:
+44 28-338. Enhanced driver license prohibition
+45 A. This state shall not participate in the implementation of OR
+46 REQUIRE A PERSON TO PARTICIPATE IN an enhanced driver license program to
+47 satisfy the requirements of the federal western hemisphere travel
+-12-
+
+Senate Amendments to H.B. 2957
+1 initiative or the REAL ID act of 2005 (P.L. 109-13, division B; 119 Stat.
+2 302). The department shall not implement OR REQUIRE A PERSON TO
+3 PARTICIPATE IN an enhanced driver license program and shall report to the
+4 governor and the legislature any attempt by agencies or agents of the
+5 United States department of homeland security to secure the implementation
+6 of an enhanced driver license program through the operations of the United
+7 States department of homeland security.
+8 B. THE DEPARTMENT SHALL CONTINUE TO MAKE AVAILABLE A DRIVER LICENSE
+9 AND NONOPERATING IDENTIFICATION LICENSE PURSUANT TO CHAPTER 8, ARTICLE 4
+10 OF THIS TITLE THAT ARE NOT COMPLIANT WITH THE REAL ID ACT OF 2005 AND ANY
+11 SUBSEQUENT AMENDMENTS. THE DEPARTMENT SHALL ISSUE A DRIVER LICENSE OR
+12 NONOPERATING IDENTIFICATION LICENSE THAT IS NOT COMPLIANT WITH THE REAL ID
+13 ACT OF 2005 ONLY TO A PERSON WHOSE STATE OF DOMICILE IS THIS STATE AND
+14 WHOSE PRESENCE IN THE UNITED STATES IS AUTHORIZED UNDER FEDERAL LAW. SUCH
+15 A DRIVER LICENSE AND NONOPERATING IDENTIFICATION LICENSE SHALL BE MARKED
+16 "NOT FOR REAL ID ACT PURPOSES".
+17 [C. THE DEPARTMENT SHALL NOT COLLECT, CAPTURE, STORE OR USE ANY
+18 BIOMETRIC IDENTIFIERS, INCLUDING BIOMETRIC FACIAL IMAGE DATA CONSISTENT
+19 WITH THE REAL ID ACT'S IMPLEMENTING REGULATION REQUIRING COMPLIANCE WITH,
+20 INTERNATIONAL STANDARDS FOR BIOMETRIC DATA INTERCHANGE FORMATS OR ANY
+21 SUCCESSOR STANDARD, IN CONNECTION WITH ISSUING A DRIVER LICENSE OR
+22 NONOPERATING IDENTIFICATION LICENSE PURSUANT TO SUBSECTION B OF THIS
+23 SECTION. FOR THE PURPOSES OF THIS SUBSECTION, "BIOMETRIC IDENTIFIERS"
+24 INCLUDES FACIAL RECOGNITION DATA, IRIS SCANS, FINGERPRINTS, VOICEPRINTS OR
+25 ANY MEASURABLE BIOLOGICAL OR BEHAVIORAL CHARACTERISTICS USED FOR AUTOMATED
+26 RECOGNITION OF AN INDIVIDUAL.]
+27 [D.] [C.] THE DEPARTMENT SHALL NOT RETAIN ANY COPIES OF ORIGINAL
+28 OR SECONDARY SOURCE DOCUMENTS USED TO VERIFY A PERSON'S IDENTITY WHEN
+29 ISSUING A DRIVER LICENSE OR NONOPERATING IDENTIFICATION LICENSE [PURSUANT
+30 TO SUBSECTION B OF THIS SECTION EXCEPT WHEN REQUIRED BY FEDERAL LAW FOR
+31 THE PURPOSES OF ISSUING A COMMERCIAL DRIVER LICENSE PURSUANT TO CHAPTER 8,
+32 ARTICLE 5 OF THIS TITLE].
+33 [E.] [D.] [EXCEPT FOR ANY VALID PURPOSE RELATING TO THE NATIONAL
+34 LAW ENFORCEMENT TELECOMMUNICATIONS SYSTEM,] ANY INFORMATION COLLECTED FROM
+35 A PERSON WHEN ISSUING A DRIVER LICENSE OR NONOPERATING IDENTIFICATION
+36 LICENSE PURSUANT TO SUBSECTION B OF THIS SECTION SHALL NOT BE ACCESSIBLE
+37 TO, SHARED WITH OR STORED IN ANY INTERSTATE, FEDERAL OR INTERNATIONAL
+38 DATABASE SYSTEM, INCLUDING THE STATE POINTER EXCHANGE SERVICES[, EXCEPT
+39 FOR ANY OF THE FOLLOWING PURPOSES:
+40 1. ANY VALID PURPOSE RELATING TO THE NATIONAL LAW ENFORCEMENT
+41 TELECOMMUNICATIONS SYSTEM.
+42 2. ANY CHECK OF THE PERSON'S DRIVING RECORD REQUIRED BY 49 CODE OF
+43 FEDERAL REGULATIONS SECTION 383.73 WHEN ISSUING A COMMERCIAL DRIVER
+44 LICENSE PURSUANT TO CHAPTER 8, ARTICLE 5 OF THIS TITLE].
+45 [F.] [E.] THE DEPARTMENT SHALL ENSURE THAT EACH PERSON WHO APPLIES
+46 FOR A DRIVER LICENSE OR NONOPERATING IDENTIFICATION LICENSE IS INFORMED
+47 BOTH VERBALLY AND IN WRITING THAT THE PERSON MAY CHOOSE TO BE ISSUED
+-13-
+
+Senate Amendments to H.B. 2957
+1 EITHER A DRIVER LICENSE OR NONOPERATING IDENTIFICATION LICENSE THAT IS
+2 REAL ID-COMPLIANT OR ISSUED PURSUANT TO SUBSECTION B OF THIS SECTION. ANY
+3 SIGN, DISPLAY, BROCHURE, ELECTRONIC INTERFACE OR PUBLIC COMMUNICATION IN
+4 THIS STATE THAT DESCRIBES OR PROMOTES THE REAL ID ACT OF 2005 SHALL
+5 CLEARLY STATE THAT USING A DRIVER LICENSE OR NONOPERATING IDENTIFICATION
+6 LICENSE THAT IS REAL ID-COMPLIANT IS VOLUNTARY AND THAT A DRIVER LICENSE
+7 OR NONOPERATING IDENTIFICATION LICENSE THAT IS NOT COMPLIANT WITH THE REAL
+8 ID ACT OF 2005 IS AVAILABLE AS AN ALTERNATIVE. A DRIVER LICENSE OR
+9 NONOPERATING IDENTIFICATION LICENSE APPLICANT SHALL BE GIVEN A LIST OF THE
+10 TRANSPORTATION SECURITY ADMINISTRATION'S CURRENTLY ACCEPTABLE FORMS OF
+11 IDENTIFICATION.
+12 Sec. 3. Title 28, chapter 2, article 2, Arizona Revised Statutes,
+13 is amended by adding section 28-340, to read:
+14 28-340. Digital or mobile driver license; prohibited
+15 acceptance
+16 A CITY, TOWN OR COUNTY OR THIS STATE SHALL NOT REQUIRE THE USE OF A
+17 DIGITAL OR MOBILE DRIVER LICENSE OR A DIGITAL OR MOBILE NONOPERATING
+18 IDENTIFICATION LICENSE FOR IDENTIFICATION PURPOSES FOR ANY GOVERNMENT
+19 SERVICE OR PURPOSE. A PHYSICAL DRIVER LICENSE OR NONOPERATING
+20 IDENTIFICATION LICENSE SHALL BE ACCEPTED FOR ALL IDENTIFICATION PURPOSES
+21 IN THIS STATE.
+22 Sec. 4. Section 28-364, Arizona Revised Statutes, is amended to
+23 read:
+24 28-364. Powers of the director
+25 A. The director may provide technical transportation planning
+26 expertise to local governments when requested, coordinate local government
+27 transportation planning with regional and state transportation planning
+28 and guide local transportation planning to ensure compliance with federal
+29 requirements. The planning authority granted by this subsection does not
+30 preempt planning responsibilities and decisions of local governments.
+31 B. If the governor declares a state of emergency, the director may
+32 contract and do all things necessary to provide emergency transportation
+33 services for the residents in the affected areas whether the emergency
+34 transportation is by street, rail or air.
+35 C. On a determination that it is in this state's best interest, the
+36 director may authorize payment for necessary relocation costs in advance
+37 of work being performed if an existing facility owned by the United States
+38 must be relocated or adjusted due to construction, modification or
+39 improvement of a state highway. The director shall base each advance
+40 payment on an estimate of cost of the proposed relocation or adjustment
+41 prepared by the federal government and acceptable to the director and
+42 shall base the final compensation on the actual agreed cost.
+43 D. The director of the department of transportation in consultation
+44 with the director of the department of public safety shall develop
+45 procedures to exchange information for any purpose related to sections
+46 28-1324, 28-1325, 28-1326, 28-1462 and 28-3318.
+-14-
+
+Senate Amendments to H.B. 2957
+1 E. The director may establish a system or process that does all of
+2 the following:
+3 1. Allows for mailing notices of service or other legal documents
+4 or records of the department electronically or digitally to a person who
+5 consents to receiving these notices, documents or records through a secure
+6 electronic or digital system.
+7 2. Enables a person to establish a financial account in the
+8 department's database. The account shall be accessible by the person or
+9 the person's authorized representative to review statements of all
+10 transactions associated with the person's account and to make prepayments
+11 or payments for authorized transactions with the department.
+12 Notwithstanding any other law, monies in financial accounts established
+13 pursuant to this section that remain unexpended for a period of five years
+14 or more revert to the Arizona highway user revenue fund and shall be
+15 distributed pursuant to section 28-6538.
+16 3. Allows a person to comply with the photograph update and proof
+17 of vision test requirements prescribed by section 28-3173 through
+18 electronic or digital means that meet the department's standards.
+19 4. Enables the department to accept certificate of title brands
+20 from other states or jurisdictions and to record these brands on the
+21 appropriate vehicle records.
+22 F. The director, in consultation with the Arizona medical board or
+23 the state board of optometry, may do all of the following:
+24 1. Establish medical and vision standards for driver license
+25 applicants and examinations.
+26 2. Establish courses of training, training facilities and
+27 qualifications and methods of training for driver license examining
+28 personnel.
+29 3. Establish procedures for the certification of driver license
+30 examining personnel and driver license instructors personnel.
+31 4. Direct research in the field of licensing drivers. The director
+32 may accept public or private grants for the research.
+33 5. Conduct research in the field of examination or reexamination of
+34 licensing individual drivers with medical or vision problems.
+35 6. Set minimum vision standards for the operation of a motor
+36 vehicle in this state.
+37 G. The director may implement electronic or digital versions of
+38 driver licenses, nonoperating identification licenses, vehicle
+39 registration cards, license plates or other official records of the
+40 department.
+41 <<Sec. 5. Section 28-3158, Arizona Revised Statutes, is amended to
+42 read:
+43 28-3158. Driver license or instruction permit application
+44 A. A person who applies for an instruction permit or for a driver
+45 license shall use a form furnished by the department.
+46 B. An applicant shall pay the fee prescribed by section 28-3002 for
+47 a driver license or for an instruction permit issued under section
+-15-
+
+Senate Amendments to H.B. 2957
+1 28-3154, 28-3155, 28-3156 or 28-3225. The department shall refund an
+2 application fee pursuant to section 28-373.
+3 C. An applicant for an instruction permit or a driver license shall
+4 give the department satisfactory proof of the applicant's full legal name,
+5 date of birth, sex and domicile residence address in this state, if the
+6 applicant has a residence address, and that the applicant's presence in
+7 the United States is authorized under federal law.
+8 D. The application for an instruction permit or a driver license
+9 shall state the following:
+10 1. A brief description of the applicant and any other identifying
+11 information required by the department.
+12 2. Whether the applicant has been licensed, and if so, the type of
+13 license issued, when the license was issued and what state or country
+14 issued the license.
+15 3. If the applicant was never licensed, the applicant's last
+16 previous state or country of residence.
+17 4. The social security number of the applicant.
+18 E. The department shall:
+19 1. Verify that a social security number provided by an applicant is
+20 a valid number assigned to that applicant.
+21 2. Retain the social security number in its records.
+22 F. The social security number provided to the department pursuant
+23 to subsection D of this section for an applicant's driver license or
+24 instruction permit shall not appear on an applicant's driver license or
+25 instruction permit unless the applicant requests that the social security
+26 number appear on the applicant's driver license or instruction permit as
+27 the driver license or instruction permit number. Except as provided in
+28 sections 28-455 and 41-1954, the department shall not release the social
+29 security number to any person unless the applicant requests that the
+30 social security number appear on the applicant's driver license or
+31 instruction permit as the driver license or instruction permit number.
+32 The provisions of this subsection shall be included in each application.
+33 G. The department may adopt and implement procedures to deny a
+34 driver license or instruction permit to a person who has been deported.
+35 The department may adopt and implement procedures to reinstate a person's
+36 privilege to apply for a driver license or permit if the person's legal
+37 presence status is restored.
+38 H. On request of an applicant, the department shall allow the
+39 applicant to provide on the license or permit a post office box address
+40 that is regularly used by the applicant.
+41 I. The department may request an applicant who appears in person
+42 for a license, a duplicate license or reinstatement of a driving privilege
+43 to complete satisfactorily the vision screening prescribed by the
+44 department.
+45 J. If a driver license applicant submits satisfactory proof to the
+46 department that the applicant is a veteran, on request of the applicant,
+-16-
+
+Senate Amendments to H.B. 2957
+1 the department shall allow a distinguishing mark to appear on the license
+2 that identifies the person as a veteran.
+3 [K. THIS SECTION DOES NOT ALLOW THE DEPARTMENT TO COLLECT, ANALYZE,
+4 STORE OR TRANSMIT ANY BIOMETRIC DATA, EXCEPT THAT THE DEPARTMENT MAY
+5 TRANSFER THE PHOTO IMAGE REQUIRED PURSUANT TO SECTION 28-3166.]>>
+6 Sec. 6. Conditional repeal; notice
+7 A. Section 28-3175, Arizona Revised Statutes, is repealed and the
+8 department shall immediately rescind all compliance measures with the REAL
+9 ID act of 2005 (P.L. 109-13, division B; 119 Stat. 302) and cease to issue
+10 REAL ID-compliant driver licenses or nonoperating identification licenses
+11 as of the date any of the following occur:
+12 1. Division B of the REAL ID act of 2025 is repealed.
+13 2. The definition of official purpose in the REAL ID driver's
+14 licenses and identification cards (6 Code of Federal Regulations part 37)
+15 is modified.
+16 3. Federal laws or rules are changed to prohibit state issuance of
+17 non-REAL ID-compliant driver licenses or nonoperating identification
+18 licenses.
+19 B. The department of transportation shall notify the director of
+20 the Arizona legislative council in writing of this date.
+21 Enroll and engross to conform
+22 Amend title to conform
+2957ATT.docx
+03/27/2026
+3:43 PM
+C: JR
+130HBCQVG
+-17-

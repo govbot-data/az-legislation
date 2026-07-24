@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Judiciary and Elections - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Judiciary and Elections
+Second Regular Session S.B. 1568
+COMMITTEE ON JUDICIARY AND ELECTIONS
+SENATE AMENDMENTS TO S.B. 1568
+(Reference to printed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 16-449, Arizona Revised Statutes, is amended to
+3 read:
+4 16-449. Required test of equipment and programs; notice;
+5 procedures manual
+6 A. Within the period of time before the election day prescribed by
+7 the secretary of state in the instructions and procedures manual adopted
+8 pursuant to section 16-452, the board of supervisors or other election
+9 officer in charge OF ELECTIONS, or for an election involving state or
+10 federal candidates, the secretary of state, shall have TEST the automatic
+11 tabulating equipment and programs tested to ascertain that the equipment
+12 and programs will correctly count the votes cast for all offices and on
+13 all measures AND THAT ANY INTERNAL CLOCKS AND TIMEKEEPING FUNCTIONS COMPLY
+14 WITH SECTION 16-449.01. Public notice of the time and place of the test
+15 shall be given at least forty-eight hours prior thereto BEFORE THE TEST by
+16 publication once in one or more daily or weekly newspapers published in
+17 the town, city or village using such equipment, if a newspaper is
+18 published therein IN THE TOWN, CITY OR VILLAGE, otherwise in a newspaper
+19 of general circulation therein IN THE AREA AFFECTED. The test shall be
+20 observed by at least two election inspectors, who shall not be of the same
+21 political party, and shall be open to representatives of the political
+22 parties, candidates, the press and the public. The test shall be
+23 conducted by processing a preaudited group of ballots so marked as to
+24 record a predetermined number of valid votes for each candidate and on
+25 each measure and shall include for each office one or more ballots that
+26 have votes in excess of the number allowed by law in order to test the
+27 ability of the automatic tabulating equipment and programs to reject such
+28 votes. THE TEST ALSO SHALL INCLUDE VERIFICATION THAT THE INTERNAL CLOCKS
+29 OF THE EQUIPMENT AND PROGRAMS ARE SET AND MAINTAINED AS PRESCRIBED BY
+30 SECTION 16-449.01 AND THAT ANY DEVIATION IS CORRECTED AND RETESTED. If
+31 any error is detected, the cause therefor FOR THE ERROR shall be
+32 ascertained and corrected and an errorless count shall be made before the
+33 automatic tabulating equipment and programs are approved. A copy of a
+34 revised program shall be filed with the secretary of state within
+35 forty-eight hours after the revision is made. If the error was created by
+36 automatic tabulating equipment malfunction, a report shall be filed with
+37 the secretary of state within forty-eight hours after the correction is
+38 made, stating the cause and the corrective action taken. The test shall
+39 be repeated immediately before the start of the official count of the
+
+Senate Amendments to S.B. 1568
+1 ballots in the same manner as set forth above IN THIS SUBSECTION. After
+2 the completion of the count, the programs used and the ballots shall be
+3 sealed, retained and disposed of as provided for paper ballots.
+4 B. Electronic ballot tabulating systems shall be tested for logic
+5 and accuracy within seven days before their use for early balloting
+6 pursuant to the instructions and procedures manual for electronic voting
+7 systems that is adopted by the secretary of state as prescribed by section
+8 16-452. The instructions and procedures manual shall include procedures
+9 for the handling of ballots, the electronic scanning of ballots and any
+10 other matters necessary to ensure the maximum degree of correctness,
+11 impartiality and uniformity in the administration of an electronic ballot
+12 tabulating system.
+13 C. Notwithstanding subsections A and B of this section, if a county
+14 uses accessible voting equipment to mark ballots and that accessible
+15 voting equipment does not independently tabulate or tally votes, the
+16 secretary of state in cooperation with the county officer in charge of
+17 elections may designate a single date to test the logic and accuracy of
+18 both the accessible voting equipment and electronic ballot tabulating
+19 systems.
+20 Sec. 2. Title 16, chapter 4, article 4, Arizona Revised Statutes,
+21 is amended by adding section 16-449.01, to read:
+22 16-449.01. Election systems and software; time accuracy
+23 requirements; violation; classification;
+24 definitions
+25 A. BEFORE THEIR USE DURING AN ELECTION PERIOD, ALL ELECTION SYSTEMS
+26 AND SOFTWARE SHALL HAVE THEIR CLOCKS AND INTERNAL TIMEKEEPING FUNCTIONS
+27 SET TO AND MAINTAINED AT THE ACCURATE CURRENT TIME, WITHIN SIXTY SECONDS
+28 OF THE OFFICIAL TIME AS PROVIDED BY THE NATIONAL INSTITUTE OF STANDARDS
+29 AND TECHNOLOGY AND AS ADJUSTED FOR THE APPROPRIATE TIME ZONES IN THIS
+30 STATE. THIS SECTION APPLIES THROUGHOUT THE ELECTION PERIOD AND INCLUDES
+31 ALL TIMESTAMPS THAT ARE GENERATED FOR LOGS, RECORDS, AFFIDAVITS, CURE
+32 PERIODS, BALLOT ISSUANCE AND BALLOT PROCESSING AND FOR TEST AND AUDIT
+33 PURPOSES.
+34 B. FOR ELECTION SYSTEMS AND SOFTWARE UNDER THEIR RESPECTIVE
+35 STATUTORY AUTHORITY AND DUTIES, THE BOARD OF SUPERVISORS, OR OTHER OFFICER
+36 IN CHARGE OF ELECTIONS, AND THE COUNTY RECORDER, SHALL:
+37 1. SET AND VERIFY COMPLIANCE WITH SUBSECTION A OF THIS SECTION
+38 DURING PREELECTION PREPARATION, PROGRAMMING, DATA ENTRY, SYSTEM SETUP AND
+39 VOTER REGISTRATION ACTIVITIES.
+40 2. VERIFY COMPLIANCE AS PART OF EACH REQUIRED TEST AND REVIEW OF
+41 EQUIPMENT AND ELECTION SYSTEMS AND SOFTWARE, INCLUDING ALL OF THE
+42 FOLLOWING:
+43 (a) LOGIC AND ACCURACY TESTING PRESCRIBED BY SECTION 16-449.
+44 (b) ANY COMPATIBILITY REVIEWS FOR VOTER REGISTRATION SYSTEMS UNDER
+45 SECTION 16-168.
+46 (c) ANY SECURITY REVIEWS FOR VOTER REGISTRATION SYSTEMS UNDER
+47 SECTION 16-168.
+48 3. MAINTAIN AND REVERIFY TIME ACCURACY DURING THE ELECTION PERIOD,
+49 INCLUDING ON ELECTION DAY AND DURING CENTRAL COUNTING, EARLY BALLOT
+-2-
+
+Senate Amendments to S.B. 1568
+1 PROCESSING, SIGNATURE VERIFICATION AND ALL OTHER PROCESSES PRESCRIBED BY
+2 THIS SECTION.
+3 4. PERFORM AND DOCUMENT A FINAL TIME ACCURACY VERIFICATION AS PART
+4 OF POSTELECTION PROCEDURES, INCLUDING FOR THE CANVASS AND ANY AUDITS,
+5 RECOUNTS AND CHAIN OF CUSTODY REVIEWS IN WHICH TIMESTAMPS ARE MATERIAL.
+6 C. THE SECRETARY OF STATE SHALL INCLUDE PROCEDURES FOR ALL
+7 VERIFICATIONS REQUIRED BY SUBSECTION B OF THIS SECTION IN THE INSTRUCTIONS
+8 AND PROCEDURES MANUAL ADOPTED PURSUANT TO SECTION 16-452, INCLUDING
+9 METHODS, FREQUENCY AND RESPONSIBLE PERSONNEL AND ANY CORRECTIVE ACTIONS
+10 FOR NONCOMPLIANCE.
+11 D. A PERSON WHO VIOLATES THIS SECTION IS GUILTY OF A CLASS 2
+12 MISDEMEANOR.
+13 E. FOR THE PURPOSES OF THIS SECTION:
+14 1. "ELECTION PERIOD" MEANS THE TIME FROM INITIAL PREPARATION,
+15 PROGRAMMING AND DATA ENTRY FOR AN ELECTION THROUGH THE FINAL CANVASS,
+16 CERTIFICATION OF RESULTS AND COMPLETION OF ANY REQUIRED POSTELECTION AUDIT
+17 OR RECOUNT.
+18 2. "ELECTION SYSTEM AND SOFTWARE":
+19 (a) MEANS ALL HARDWARE, SOFTWARE, DATABASES, ELECTRONIC POLLBOOKS,
+20 VOTER REGISTRATION SYSTEMS, SIGNATURE VERIFICATION SYSTEMS, EARLY BALLOT
+21 PROCESSING EQUIPMENT, ACCESSIBLE VOTING DEVICES, AUTOMATIC TABULATING
+22 EQUIPMENT, ELECTRONIC VOTING SYSTEMS, VOTE RECORDING DEVICES, BALLOT
+23 SCANNERS, BALLOT PRINTERS, ELECTION MANAGEMENT SYSTEMS AND STATEWIDE VOTER
+24 REGISTRATION DATABASE INTERFACES.
+25 (b) INCLUDES ANY OTHER TECHNOLOGY USED TO REGISTER VOTERS, PROCESS
+26 BALLOTS, RECORD VOTES, TABULATE RESULTS, VERIFY SIGNATURES, GENERATE LOGS,
+27 TRACK CHAIN OF CUSTODY, CONDUCT AUDITS AND CERTIFY ELECTION OUTCOMES IN AN
+28 ELECTION CONDUCTED PURSUANT TO THIS TITLE."
+29 Amend title to conform
+1568JUDE.docx
+02/16/2026
+01:31 PM
+C: MR
+130ACSCFJ
+-3-

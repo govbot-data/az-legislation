@@ -1,0 +1,198 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Finance
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Finance
+Second Regular Session S.B. 1215
+COMMITTEE ON FINANCE
+SENATE AMENDMENTS TO S.B. 1215
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 23-901.01, Arizona Revised Statutes, is amended
+3 to read:
+4 23-901.01. Occupational disease; proximate causation;
+5 presumption; definition
+6 A. The occupational diseases as defined by section 23-901,
+7 paragraph 13, subdivision (c) shall be IS deemed to arise out of the
+8 employment only if all of the following six requirements exist:
+9 1. There is a direct causal connection between the conditions under
+10 which the work is performed and the occupational disease.
+11 2. The disease can be seen to have followed as a natural incident
+12 of the work as a result of the exposure occasioned by the nature of the
+13 employment.
+14 3. The disease can be fairly traced to the employment as the
+15 proximate cause.
+16 4. The disease does not come from a hazard to which workers would
+17 have been equally exposed outside of the employment.
+18 5. The disease is incidental to the character of the business and
+19 not independent of the relation of employer and employee.
+20 6. The disease after its contraction appears to have had its origin
+21 in a risk connected with the employment, and to have flowed from that
+22 source as a natural consequence, although it need not have been foreseen
+23 or expected.
+24 B. Notwithstanding subsection A of this section and section
+25 23-1043.01, any disease, infirmity or impairment of a peace officer's
+26 health that is caused by brain, bladder, rectal or colon cancer, lymphoma,
+27 leukemia or adenocarcinoma or mesothelioma of the respiratory tract and
+28 that results in disability or death is presumed to be an occupational
+
+Senate Amendments to S.B. 1215
+1 disease as defined in section 23-901, paragraph 13, subdivision (c) and is
+2 deemed to arise out of employment IF THE DISEASE, INFIRMITY OR IMPAIRMENT
+3 IS CAUSED BY ANY OF THE FOLLOWING:
+4 1. ADENOCARCINOMA.
+5 2. BLADDER CANCER.
+6 3. BRAIN CANCER.
+7 [4. BREAST CANCER.]
+8 [5. BUCCAL CAVITY CANCER.]
+9 [6.][4.] COLON CANCER.
+10 [7. ESOPHAGEAL CANCER.]
+11 [8. KIDNEY CANCER.]
+12 [9. LARGE INTESTINE CANCER.]
+13 [10.][5.] LEUKEMIA.
+14 [11. LUNG CANCER.]
+15 [12.][6.] LYMPHOMA.
+16 [13. MALIGNANT MELANOMA.]
+17 [14.][7.] MESOTHELIOMA OF THE RESPIRATORY TRACT.
+18 [15. MULTIPLE MYELOMA.]
+19 [16. NON-HODGKIN'S LYMPHOMA.]
+20 [17. OVARIAN CANCER.]
+21 [18. PHARYNX CANCER.]
+22 [19. PROSTATE CANCER.]
+23 [20.][8.] RECTAL CANCER.
+24 [21. SKIN CANCER.]
+25 [22. STOMACH CANCER.]
+26 [23. TESTICULAR CANCER.]
+27 C. The presumption provided in subsection B of this section is
+28 granted if all of the following apply:
+29 1. The peace officer passed a physical examination before
+30 employment and the examination did not indicate evidence of cancer.
+31 2. The peace officer was assigned to hazardous duty for at least
+32 five years.
+33 D. Subsection B of this section applies to both of the following:
+34 1. Peace officers currently in service.
+35 2. Former peace officers who are sixty-five years of age or younger
+36 and who are diagnosed with a cancer that is listed in subsection B of this
+37 section not more than fifteen years after the peace officer's last date of
+38 employment as a peace officer.
+39 E. Subsection B of this section does not apply to cancers of the
+40 respiratory tract if there is evidence that the peace officer's exposure
+41 to cigarettes or tobacco products outside of the scope of the peace
+42 officer's official duties is a substantial contributing cause in the
+43 development of the cancer.
+44 F. The presumption provided in subsection B of this section may be
+45 rebutted by clear and convincing evidence that there is a specific cause
+46 of the cancer other than an occupational exposure to a carcinogen as
+47 defined by the international agency for research on cancer.
+-2-
+
+Senate Amendments to S.B. 1215
+1 G. For the purposes of this section, "peace officer" means a
+2 full-time peace officer who was regularly assigned to hazardous duty as a
+3 part of a special operations, special weapons and tactics, explosive
+4 ordinance disposal or hazardous materials response unit.
+5 Sec. 2. Section 23-901.09, Arizona Revised Statutes, is amended to
+6 read:
+7 23-901.09. Presumption; cancers; firefighters and fire
+8 investigators; applicability; definitions
+9 A. Notwithstanding section 23-901.01, subsection A and section
+10 23-1043.01, :
+11 1. any disease, infirmity or impairment of a firefighter's or fire
+12 investigator's health that is caused by brain, bladder, rectal or colon
+13 cancer, lymphoma, leukemia or adenocarcinoma or mesothelioma of the
+14 respiratory tract and that results in disability or death is presumed to
+15 be an occupational disease as defined in section 23-901, paragraph 13,
+16 subdivision (c) and is deemed to arise out of employment IF THE DISEASE,
+17 INFIRMITY OR IMPAIRMENT IS CAUSED BY ANY OF THE FOLLOWING:
+18 1. ADENOCARCINOMA.
+19 2. BLADDER CANCER.
+20 3. BRAIN CANCER.
+21 4. BREAST CANCER.
+22 5. BUCCAL CAVITY CANCER.
+23 6. COLON CANCER.
+24 7. ESOPHAGEAL CANCER.
+25 8. KIDNEY CANCER.
+26 9. LARGE INTESTINE CANCER.
+27 10. LEUKEMIA.
+28 11. LUNG CANCER.
+29 12. LYMPHOMA.
+30 13. MALIGNANT MELANOMA.
+31 14. MESOTHELIOMA OF THE RESPIRATORY TRACT.
+32 15. MULTIPLE MYELOMA.
+33 16. NON-HODGKIN'S LYMPHOMA.
+34 17. OVARIAN CANCER.
+35 18. PHARYNX CANCER.
+36 19. PROSTATE CANCER.
+37 20. RECTAL CANCER.
+38 21. SKIN CANCER.
+39 22. STOMACH CANCER.
+40 23. TESTICULAR CANCER.
+41 2. Any disease, infirmity or impairment of a firefighter's or fire
+42 investigator's health that is caused by buccal cavity, pharynx, esophagus,
+43 large intestine, lung, kidney, prostate, skin, stomach, ovarian, breast or
+44 testicular cancer or non-Hodgkin's lymphoma, multiple myeloma or malignant
+45 melanoma and that results in disability or death is presumed to be an
+46 occupational disease as defined in section 23-901, paragraph 13,
+47 subdivision (c) and is deemed to arise out of employment.
+-3-
+
+Senate Amendments to S.B. 1215
+1 B. The presumptions provided in subsection A of this section are
+2 granted if all of the following apply:
+3 1. The firefighter or fire investigator passed a physical
+4 examination before employment and the examination did not indicate
+5 evidence of cancer.
+6 2. The firefighter or fire investigator was assigned to hazardous
+7 duty for at least five years.
+8 3. For the presumption provided in subsection A, paragraph 2 4, 5,
+9 7, 8, 9, 11, 13, 15, 16, 17, 18, 19, 21, 22 OR 23 of this section and for
+10 firefighters only, the firefighter received a physical examination that is
+11 reasonably aligned with the national fire protection association standard
+12 on comprehensive occupational medical program for fire departments (NFPA
+13 1582).
+14 C. Subsection A of this section applies to both of the following:
+15 1. Firefighters or fire investigators currently in service.
+16 2. Former firefighters or fire investigators who are sixty-five
+17 years of age or younger and who are diagnosed with a cancer that is listed
+18 in subsection A of this section not more than fifteen years after the
+19 firefighter's or fire investigator's last date of employment as a
+20 firefighter or fire investigator.
+21 D. Subsection A of this section does not apply to cancers of the
+22 respiratory tract if there is evidence that the firefighter's or fire
+23 investigator's exposure to cigarettes or tobacco products outside of the
+24 scope of the firefighter's or fire investigator's official duties is a
+25 substantial contributing cause in the development of the cancer.
+26 E. The presumption provided in subsection A of this section may be
+27 rebutted by clear and convincing evidence that there is a specific cause
+28 of the cancer other than an occupational exposure to a carcinogen as
+29 defined by the international agency for research on cancer.
+30 F. For the purposes of this section:
+31 1. "Firefighter" means a full-time firefighter who was regularly
+32 assigned to hazardous duty.
+33 2. "Fire investigator" means a person who is employed full time by
+34 a municipality or fire district and who is trained in the process of and
+35 responsible for determining the origin, cause and development of a fire or
+36 explosion.
+37 Enroll and engross to conform
+38 Amend title to conform
+1215FIN.docx
+01/30/2026
+08:51 AM
+S: MG/hk
+130NOFHVD
+-4-

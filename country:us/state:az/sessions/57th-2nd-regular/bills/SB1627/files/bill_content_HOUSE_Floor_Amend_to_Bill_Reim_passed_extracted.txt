@@ -1,0 +1,210 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Reim - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1627: schools; prohibition; unmanned aircraft
+REIM FLOOR AMENDMENT
+1. Makes it unlawful to operate or use an unmanned aircraft or unmanned
+aircraft system 200 feet or less above a property, rather than within 100 feet of
+or above an area.
+2. Stipulates that it is unlawful to recreationally operate an unmanned aircraft
+or aircraft system above a property if the operator is knowledgeable of the
+facility's specified characteristics and reasonable notice to leave the property
+was given.
+3. Specifies the operation of an unmanned aircraft or aircraft system over a
+property providing instruction to students is prohibited when school is in
+session or when school activities are occurring on the property outside of
+normal school hours.
+4. Adds that it is unlawful to operate an unmanned aircraft or aircraft system
+above certain properties if:
+a. the property owner or a person who has lawful control over the
+property posts reasonable notice prohibiting entry on or over the
+property; and
+b. a peace officer, property owner or a person with lawful control over the
+property notifies the unmanned aircraft operator of the prohibition and
+gives a reasonable request to leave the property.
+5. Restates the prohibition on recreationally operating unmanned aircraft above
+certain properties does not apply to a person who has legal authority or
+administrative oversight over the property.
+6. Changes the violation of the prohibition on recreationally operating
+unmanned aircraft above certain properties from a class 1 to a class 3
+misdemeanor.
+7. Makes clarifying changes.
+AI
+6/4/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Reim
+Second Regular Session S.B. 1627
+REIM FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1627
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-3729, Arizona Revised Statutes, is amended to
+3 read:
+4 13-3729. Unlawful operation of model or unmanned aircraft;
+5 classification; definitions
+6 A. It is unlawful for a person to operate a model aircraft or a
+7 civil unmanned aircraft if the operation:
+8 1. Is prohibited by a federal law or regulation that governs
+9 aeronautics, including federal aviation administration regulations.
+10 2. Interferes with a law enforcement, firefighter or emergency
+11 services operation.
+12 B. It is unlawful for a person to operate or use an unmanned
+13 aircraft or unmanned aircraft system to intentionally photograph or loiter
+14 over or near a critical facility in the furtherance of any criminal
+15 offense.
+16 C. IT IS UNLAWFUL FOR A PERSON TO OPERATE OR USE AN UNMANNED
+17 AIRCRAFT OR UNMANNED AIRCRAFT SYSTEM TO INTENTIONALLY PHOTOGRAPH OR LOITER
+18 [OVER AN AREA THAT IS WITHIN ONE HUNDRED FEET OF OR WITHIN ONE HUNDRED
+19 FEET ABOVE AN AREA THAT] [TWO HUNDRED FEET OR LESS ABOVE A PROPERTY IF THE
+20 OPERATOR IS OPERATING THE UNMANNED AIRCRAFT OR UNMANNED AIRCRAFT SYSTEM
+21 FOR HOBBY OR RECREATIONAL PURPOSES AND KNOWS OR REASONABLY SHOULD KNOW
+22 THAT ALL OF THE FOLLOWING APPLY:
+23 1. THE PROPERTY] IS NOT ZONED FOR RESIDENTIAL USE[.] [AND THAT]
+24 [2. THE PROPERTY] IS USED TO PROVIDE INSTRUCTION TO STUDENTS IN
+25 KINDERGARTEN PROGRAMS OR [STUDENTS] IN [ANY OF] GRADES ONE THROUGH TWELVE
+26 [UNLESS THE PERSON HAS LEGAL AUTHORITY OR ADMINISTRATIVE OVERSIGHT OVER
+27 THE AREA OR OBTAINS CONSENT FROM ANOTHER PERSON WITH LEGAL AUTHORITY OR
+28 ADMINISTRATIVE OVERSIGHT OVER THE AREA] [WHEN SCHOOL IS IN SESSION OR WHEN
+
+House Amendments to S.B. 1627
+1 SCHOOL ACTIVITIES ARE OCCURRING ON THE PROPERTY OUTSIDE OF NORMAL SCHOOL
+2 HOURS].
+3 [3. THE PROPERTY OWNER OR A PERSON WHO HAS LAWFUL CONTROL OVER THE
+4 PROPERTY HAS POSTED REASONABLE NOTICE PROHIBITING ENTRY ON OR OVER THE
+5 PROPERTY.
+6 4. A PEACE OFFICER, THE OWNER OF THE PROPERTY OR A PERSON WHO HAS
+7 LAWFUL CONTROL OVER THE PROPERTY HAS NOTIFIED THE OPERATOR OF THE UNMANNED
+8 AIRCRAFT OR UNMANNED AIRCRAFT SYSTEM OF THE PROHIBITION AND GIVEN A
+9 REASONABLE REQUEST TO LEAVE THE PROPERTY.]
+10 C. D. Except as authorized by law, a city, town or county may not
+11 enact or adopt any ordinance, policy or rule that relates to the ownership
+12 or operation of an unmanned aircraft or unmanned aircraft system or
+13 otherwise engage in the regulation of the ownership or operation of an
+14 unmanned aircraft or an unmanned aircraft system. Any ordinance, policy
+15 or rule that violates this subsection, whether enacted or adopted by the
+16 city, town or county before or after August 6, 2016, is void.
+17 D. E. This section does not:
+18 1. Apply to a person or entity that is authorized or allowed by the
+19 federal aviation administration to operate or use an unmanned aircraft
+20 system if the person's or entity's operation or use complies with the
+21 authorization granted to the person or entity or with federal aviation
+22 administration rules.
+23 2. Prohibit a city, town or county from enacting or adopting
+24 ordinances or rules on the operation or use of a public unmanned aircraft
+25 that is owned by the city, town or county.
+26 3. Prohibit a city, town or county from enacting or adopting
+27 ordinances or rules that regulate the takeoff or landing of a model
+28 aircraft in a park or preserve owned by the city, town or county if:
+29 (a) There are other parks or preserves that are within the city,
+30 town or county and that are available for model aircraft operation.
+31 (b) The city, town or county only has one park or preserve that is
+32 within the city, town or county.
+33 4. Apply to the operation of an unmanned aircraft, including a
+34 public unmanned aircraft, by a first responder as defined in section
+35 36-661 while acting in the first responder's official capacity or an
+36 emergency worker while engaged in or supporting authorized emergency
+37 management activities or performing emergency functions pursuant to title
+38 26, chapter 2.
+39 [F. SUBSECTION C OF THIS SECTION DOES NOT APPLY TO A PERSON WHO HAS
+40 LEGAL AUTHORITY OR ADMINISTRATIVE OVERSIGHT OVER THE PROPERTY OR WHO
+41 OBTAINS CONSENT FROM ANOTHER PERSON WITH LEGAL AUTHORITY OR ADMINISTRATIVE
+42 OVERSIGHT OVER THE PROPERTY.]
+43 E. [F.] [G.] A violation of subsection B of this section is a
+44 class 6 felony, except that a second or subsequent violation is a class 5
+45 felony. A violation of subsection A [OR C] of this section is a class 1
+-2-
+
+House Amendments to S.B. 1627
+1 misdemeanor. [A VIOLATION OF SUBSECTION C OF THIS SECTION IS A CLASS 3
+2 MISDEMEANOR.]
+3 F. [G.] [H.] For the purposes of this section:
+4 1. "Civil unmanned aircraft" means an unmanned aircraft or unmanned
+5 aircraft system that is operated by a person for any purpose other than
+6 strictly for hobby or recreational purposes, including commercial
+7 purposes, or in furtherance of or incidental to any business or media
+8 service or agency.
+9 2. "Commercial purposes" means the use of an unmanned aircraft in
+10 return for financial compensation and includes aerial photography, aerial
+11 mapping or geospatial imaging.
+12 3. "Critical facility" means any of the following:
+13 (a) A petroleum or alumina refinery.
+14 (b) A petroleum, chemical or rubber production, transportation,
+15 storage or processing facility.
+16 (c) A chemical manufacturing facility.
+17 (d) A water or wastewater treatment facility and water development,
+18 distribution or conveyance system, including a dam.
+19 (e) An electric generation facility, as defined in section
+20 42-14156, and any associated substation or switchyard.
+21 (f) An electrical transmission or distribution substation.
+22 (g) An electrical transmission line of at least sixty-nine thousand
+23 volts.
+24 (h) An electronic communication station or tower.
+25 (i) An energy control center.
+26 (j) A distribution operating center.
+27 (k) A facility that transfers or distributes natural gas, including
+28 a compressor station, regulator station, city gate station or pressure
+29 limiting station or a liquefied natural gas facility or supplier tap
+30 facility.
+31 (l) Any railroad infrastructure or facility.
+32 (m) A federal, state, county or municipal court.
+33 (n) A public safety or emergency operation facility.
+34 (o) A federal, state, county or municipal jail or prison or other
+35 facility in which persons are incarcerated.
+36 (p) A federal or state military installation or facility.
+37 (q) A hospital that receives air ambulance services.
+38 4. "Model aircraft" has the same meaning prescribed in section 336
+39 of the FAA modernization and reform act of 2012 (P.L. 112-95), as amended
+40 MEANS AN UNMANNED AIRCRAFT THAT IS [ALL OF THE FOLLOWING]:
+41 (a) CAPABLE OF SUSTAINED FLIGHT IN THE ATMOSPHERE.
+42 (b) FLOWN WITHIN THE VISUAL LINE OF SIGHT OF THE PERSON OPERATING
+43 THE MODEL AIRCRAFT.
+44 (c) FLOWN FOR HOBBY OR RECREATIONAL PURPOSES.
+-3-
+
+House Amendments to S.B. 1627
+1 5. "Person" means a corporation, firm, partnership, association,
+2 individual or organization or any other group acting as a unit.
+3 6. "Public unmanned aircraft" means an unmanned aircraft or
+4 unmanned aircraft system that is operated by a public agency for a
+5 government-related purpose.
+6 7. "Unmanned aircraft" means an aircraft, including an aircraft
+7 commonly known as a drone, that is operated without the possibility of
+8 direct human intervention from within or on the aircraft.
+9 8. "Unmanned aircraft system" means an unmanned aircraft and
+10 associated elements, including any communication links and components that
+11 control the unmanned aircraft.
+12 Enroll and engross to conform
+13 Amend title to conform
+CODY REIM
+1627FloorBLANK
+04/22/2026
+2:35 PM
+C: JV
+130HJALXC
+1627FloorREIM3.docx
+06/04/2026
+09:09 AM
+H: AI/ls/ra
+130QIDWPD
+-4-

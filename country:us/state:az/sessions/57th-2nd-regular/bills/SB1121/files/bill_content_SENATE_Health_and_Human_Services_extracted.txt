@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Health and Human Services
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Health and Human Services
+Second Regular Session S.B. 1121
+COMMITTEE ON HEALTH AND HUMAN SERVICES
+SENATE AMENDMENTS TO S.B. 1121
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 36, chapter 4, article 1, Arizona Revised
+3 Statutes, is amended by adding section 36-420.06, to read:
+4 36-420.06. Procedures involving ionizing radiation; lead
+5 aprons; radiation protection systems; real-time
+6 dosimeters; definition
+7 A. A HOSPITAL, OUTPATIENT SURGICAL CENTER OR OTHER HEALTH CARE
+8 INSTITUTION THAT PERFORMS PROCEDURES USING IONIZING RADIATION MAY NOT
+9 REQUIRE THAT PHYSICIANS, PHYSICIAN ASSISTANTS, NURSES OR OTHER HEALTH
+10 PROFESSIONALS WEAR LEAD APRONS DURING THESE PROCEDURES IF THE PROCEDURE
+11 ROOM IS EQUIPPED WITH A RADIATION PROTECTION SYSTEM.
+12 [B. IF A HEALTH PROFESSIONAL WHO IS AN EMPLOYEE OF A HEALTH CARE
+13 INSTITUTION CHOOSES TO NOT WEAR A LEAD APRON BECAUSE THE PROCEDURE ROOM IS
+14 EQUIPPED WITH A RADIATION PROTECTION SYSTEM, THE HEALTH CARE INSTITUTION
+15 SHALL REQUIRE THE HEALTH PROFESSIONAL TO WEAR A REAL-TIME DOSIMETER TO
+16 MONITOR RADIATION EXPOSURE.]
+17 [B.] [C.] A HEALTH PROFESSIONAL MAY VOLUNTARILY CHOOSE TO WEAR A
+18 LEAD APRON DURING A PROCEDURE USING IONIZING RADIATION EVEN IF THE
+19 PROCEDURE ROOM IS EQUIPPED WITH A RADIATION PROTECTION SYSTEM.
+
+Senate Amendments to S.B. 1121
+1 [C.] [D.] FOR THE PURPOSES OF THIS SECTION, "RADIATION PROTECTION
+2 SYSTEM" MEANS A SHIELDING SYSTEM THAT IS DESIGNED TO PROTECT AGAINST
+3 SCATTER OR DIRECT IONIZING RADIATION EXPOSURE, THAT PROVIDES PROTECTION
+4 EQUAL TO OR GREATER THAN THE SHIELDING EFFECTIVENESS OF A .25 MILLIMETER
+5 LEAD-EQUIVALENT APRON AND THAT INCLUDES REAL-TIME DOSIMETRY TO MEASURE
+6 RADIATION EXPOSURE TO HEALTH PROFESSIONALS THROUGHOUT AN IONIZING
+7 RADIATION MEDICAL PROCEDURE.
+8 Enroll and engross to conform
+9 Amend title to conform
+1121HHS.docx
+01/16/2026
+09:35 AM
+C: MH
+130GEBBXV
+-2-

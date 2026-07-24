@@ -1,0 +1,989 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Bolick flr amend (ref RAGE) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2408
+Bolick Floor Amendment
+Reference to: REGULATORY AFFAIRS AND GOVERNMENT
+EFFICIENCY Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Removes the requirement for the Arizona State Board of Nursing to have the burden of proof by
+clear and convincing evidence for disciplinary matters brought in accordance with outlined
+complaint procedures.
+2. Clarifies that the Arizona State Board of Nursing must share, rather than share and transfer, any
+complaint it receives against a nursing program to the applicable higher education board within
+five business days.
+3. Makes conforming changes.
+Amendment explanation prepared by Jason Theodorou
+06/10/2026
+
+Fifty-seventh Legislature Bolick
+Second Regular Session H.B. 2408
+BOLICK FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2408
+(Reference to REGULATORY AFFAIRS AND GOVERNMENT EFFICIENCY Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 32-1601, Arizona Revised Statutes, is amended to
+3 read:
+4 32-1601. Definitions
+5 In this chapter, unless the context otherwise requires:
+6 1. "Absolute discharge from the sentence" means completion of any
+7 sentence, including imprisonment, probation, parole, community supervision
+8 or any form of court supervision.
+9 2. "Appropriate health care professional" means a licensed health
+10 care professional whose scope of practice, education, experience, training
+11 and accreditation are appropriate for the situation or condition of the
+12 patient who is the subject of a consultation or referral.
+13 3. "Approval" means that a regulated training or educational
+14 program to prepare persons for licensure, certification or registration
+15 has met standards established by the board.
+16 4. "Board" means the Arizona state board of nursing.
+17 5. "Certified nurse midwife" means a registered nurse who:
+
+Senate Amendments to H.B. 2408
+1 (a) Is certified by the board.
+2 (b) Has completed a nurse midwife education program THAT IS
+3 approved or recognized by the board and educational requirements THAT ARE
+4 prescribed by the board by rule.
+5 (c) Holds a national certification as a certified nurse midwife
+6 from a national certifying body THAT IS recognized by the board.
+7 (d) Has an expanded scope of practice in providing health care
+8 services for women from adolescence to beyond menopause, including
+9 antepartum, intrapartum, postpartum, reproductive, gynecologic and primary
+10 care, for normal newborns during the first twenty-eight days of life and
+11 for men for the treatment of sexually transmitted diseases. The expanded
+12 scope of practice under this subdivision includes:
+13 (i) Assessing patients, synthesizing and analyzing data and
+14 understanding and applying principles of health care at an advanced level.
+15 (ii) Managing the physical and psychosocial health care of
+16 patients.
+17 (iii) Analyzing multiple sources of data, identifying alternative
+18 possibilities as to the nature of a health care problem and selecting,
+19 implementing and evaluating appropriate treatment.
+20 (iv) Making independent decisions in solving complex patient care
+21 problems.
+22 (v) Diagnosing, performing diagnostic and therapeutic procedures
+23 and prescribing, administering and dispensing therapeutic measures,
+24 including legend drugs, medical devices and controlled substances, within
+25 the scope of the certified nurse midwife practice after meeting
+26 requirements established by the board.
+27 (vi) Recognizing the limits of the nurse's CERTIFIED NURSE
+28 MIDWIFE'S knowledge and experience by consulting with or referring
+29 patients to other appropriate health care professionals if a situation or
+30 condition occurs that is beyond the knowledge and experience of the
+31 CERTIFIED nurse MIDWIFE or if the referral will protect the health and
+32 welfare of the patient.
+33 (vii) Delegating to a medical assistant pursuant to section
+34 32-1456.
+35 (viii) Performing additional acts that require education and
+36 training as prescribed by the board and that are recognized by the nursing
+37 profession as proper to be performed by a certified nurse midwife.
+38 6. "Certified nursing assistant" means a person who is registered
+39 on the registry of nursing assistants pursuant to this chapter to provide
+40 or assist in delivering nursing or nursing-related services under the
+41 supervision and direction of a licensed nursing staff member. Certified
+42 nursing assistant does not include a person who:
+43 (a) Is a licensed health care professional.
+44 (b) Volunteers to provide nursing assistant services without
+45 monetary compensation.
+46 (c) Is a licensed nursing assistant.
+47 7. "Certified registered nurse" means a registered nurse who has
+48 been certified by a national nursing credentialing agency THAT IS
+49 recognized by the board.
+-2-
+
+Senate Amendments to H.B. 2408
+1 8. "Certified registered nurse anesthetist" means a registered
+2 nurse who meets the requirements of section 32-1634.03 and who practices
+3 pursuant to the requirements of section 32-1634.04.
+4 9. "Clinical nurse specialist" means a registered nurse who:
+5 (a) Is certified by the board as a clinical nurse specialist.
+6 (b) Holds a graduate degree with a major in nursing and completes
+7 educational requirements as prescribed by the board by rule.
+8 (c) Is nationally certified as a clinical nurse specialist or, if
+9 certification is not available, provides proof of competence to the board.
+10 (d) Has an expanded scope of practice based on advanced education
+11 in a clinical nursing specialty that includes:
+12 (i) Assessing clients, synthesizing and analyzing data and
+13 understanding and applying nursing principles at an advanced level.
+14 (ii) Managing directly and indirectly a client's physical and
+15 psychosocial health status.
+16 (iii) Analyzing multiple sources of data, identifying alternative
+17 possibilities as to the nature of a health care problem and selecting
+18 appropriate nursing interventions.
+19 (iv) Developing, planning and guiding programs of care for
+20 populations of patients.
+21 (v) Making independent nursing decisions to solve complex client
+22 care problems.
+23 (vi) Using research skills and acquiring and applying critical new
+24 knowledge and technologies to nursing practice.
+25 (vii) Prescribing and dispensing durable medical equipment.
+26 (viii) Consulting with or referring a client to other health care
+27 providers based on assessment of the client's health status and needs.
+28 (ix) Facilitating collaboration with other disciplines to attain
+29 the desired client outcome across the continuum of care.
+30 (x) Performing additional acts that require education and training
+31 as prescribed by the board and that are recognized by the nursing
+32 profession as proper to be performed by a clinical nurse specialist.
+33 (xi) Prescribing, ordering and dispensing pharmacological agents
+34 THAT ARE subject to the requirements and limits specified in section
+35 32-1651.
+36 10. "Conditional license" or "conditional approval" means a license
+37 or approval that specifies the conditions under which the regulated party
+38 is allowed to practice or to operate and that is prescribed by the board
+39 pursuant to section 32-1644 or 32-1663.
+40 11. "Delegation" means transferring to a competent individual the
+41 authority to perform a selected nursing task in a designated situation in
+42 which the nurse making the delegation retains accountability for the
+43 delegation.
+44 12. "Disciplinary action" means a regulatory sanction of a license,
+45 certificate or approval pursuant to this chapter in any combination of the
+46 following:
+47 (a) A civil penalty for each violation of this chapter, not to
+48 exceed $1,000 for each violation.
+49 (b) Restitution made to an aggrieved party.
+-3-
+
+Senate Amendments to H.B. 2408
+1 (c) A decree of censure.
+2 (d) A conditional license or a conditional approval that fixed
+3 FIXES a period and terms of probation.
+4 (e) Limited licensure.
+5 (f) Suspension of a license, a certificate or an approval.
+6 (g) Voluntary surrender of a license, a certificate or an approval.
+7 (h) Revocation of a license, a certificate or an approval.
+8 13. "Health care institution" has the same meaning prescribed in
+9 section 36-401.
+10 14. "Licensed health aide" means a person who:
+11 (a) Is licensed pursuant to this chapter to provide or to assist in
+12 providing nursing-related services authorized pursuant to section 36-2939.
+13 (b) Is the parent, guardian or family member by affinity or
+14 consanguinity of the Arizona long-term care system member receiving
+15 services who may provide licensed health aide services only to that member
+16 and only consistent with that member's plan of care.
+17 (c) Has a scope of practice that is the same as a licensed nursing
+18 assistant and may also provide medication administration, tracheostomy
+19 care, enteral care and routine ventilator care and therapy and any other
+20 tasks approved by the board in rule.
+21 (d) Has supervision requirements that are the same as a certified
+22 nursing assistant.
+23 15. "Licensed nursing assistant" means a person who is licensed
+24 pursuant to this chapter to provide or assist in delivering nursing or
+25 nursing-related services under the supervision and direction of a licensed
+26 nursing staff member. Licensed nursing assistant does not include a
+27 person who:
+28 (a) Is a licensed health care professional.
+29 (b) Volunteers to provide nursing assistant services without
+30 monetary compensation.
+31 (c) Is a certified nursing assistant.
+32 16. "Licensee" means a person who is licensed pursuant to this
+33 chapter or in a party state as defined in section 32-1668.
+34 17. "Limited license" means a license that restricts the scope or
+35 setting of a licensee's practice.
+36 18. "Medication order" means a written or verbal communication
+37 given by a certified registered nurse anesthetist to a health care
+38 professional to administer a drug or medication, including controlled
+39 substances.
+40 19. "Practical nurse" means a person who holds a practical nurse
+41 license issued pursuant to this chapter or pursuant to a multistate
+42 compact privilege and who practices practical nursing as defined in this
+43 section.
+44 20. "Practical nursing" includes the following activities that are
+45 performed under the supervision of a physician or a registered nurse:
+46 (a) Contributing to the assessment of the health status of
+47 individuals and groups.
+48 (b) Participating in the development and modification of the
+49 strategy of care.
+-4-
+
+Senate Amendments to H.B. 2408
+1 (c) Implementing aspects of the strategy of care within the nurse's
+2 scope of practice.
+3 (d) Maintaining safe and effective nursing care that is rendered
+4 directly or indirectly.
+5 (e) Participating in the evaluation of responses to interventions.
+6 (f) Delegating nursing activities within the scope of practice of a
+7 practical nurse.
+8 (g) Performing additional acts that require education and training
+9 as prescribed by the board and that are recognized by the nursing
+10 profession as proper to be performed by a practical nurse.
+11 21. "Presence" means within the same health care institution or
+12 office as specified in section 32-1634.04, subsection A, and available as
+13 necessary.
+14 22. "Registered nurse" or "professional nurse" means a person who
+15 practices registered nursing and who holds a registered nurse license
+16 issued pursuant to this chapter or pursuant to a multistate compact
+17 privilege.
+18 23. "Registered nurse practitioner" means a registered nurse who:
+19 (a) Is certified by the board.
+20 (b) Has completed a nurse practitioner education program THAT IS
+21 approved or recognized by the board and educational requirements THAT ARE
+22 prescribed by the board by rule.
+23 (c) If applying for certification after July 1, 2004, holds
+24 national certification as a nurse practitioner from a national certifying
+25 body THAT IS recognized by the board.
+26 (d) Has an expanded scope of practice within a specialty area that
+27 includes:
+28 (i) Assessing clients, synthesizing and analyzing data and
+29 understanding and applying principles of health care at an advanced level.
+30 (ii) Managing the physical and psychosocial health status of
+31 patients.
+32 (iii) Analyzing multiple sources of data, identifying alternative
+33 possibilities as to the nature of a health care problem and selecting,
+34 implementing and evaluating appropriate treatment.
+35 (iv) Making independent decisions in solving complex patient care
+36 problems.
+37 (v) Diagnosing, performing diagnostic and therapeutic procedures,
+38 and prescribing, administering and dispensing therapeutic measures,
+39 including legend drugs, medical devices and controlled substances within
+40 the scope of registered nurse practitioner practice on meeting the
+41 requirements established by the board.
+42 (vi) Recognizing the limits of the nurse's REGISTERED NURSE
+43 PRACTITIONER'S knowledge and experience by consulting with or referring
+44 patients to other appropriate health care professionals if a situation or
+45 condition occurs that is beyond the knowledge and experience of the
+46 REGISTERED nurse PRACTITIONER or if the referral will protect the health
+47 and welfare of the patient.
+48 (vii) Delegating to a medical assistant pursuant to section
+49 32-1456.
+-5-
+
+Senate Amendments to H.B. 2408
+1 (viii) Performing additional acts that require education and
+2 training as prescribed by the board and that are recognized by the nursing
+3 profession as proper to be performed by a REGISTERED nurse practitioner.
+4 24. "Registered nursing" includes the following:
+5 (a) Diagnosing and treating human responses to actual or potential
+6 health problems.
+7 (b) Assisting individuals and groups to maintain or attain optimal
+8 health by implementing a strategy of care to accomplish defined goals and
+9 evaluating responses to care and treatment.
+10 (c) Assessing the health status of individuals and groups.
+11 (d) Establishing a nursing diagnosis.
+12 (e) Establishing goals to meet identified health care needs.
+13 (f) Prescribing nursing interventions to implement a strategy of
+14 care.
+15 (g) Delegating nursing interventions to others who are qualified to
+16 do so.
+17 (h) Providing for the maintenance of safe and effective nursing
+18 care that is rendered directly or indirectly.
+19 (i) Evaluating responses to interventions.
+20 (j) Teaching nursing knowledge and skills.
+21 (k) Managing and supervising the practice of nursing.
+22 (l) Consulting and coordinating with other health care
+23 professionals in the management of health care.
+24 (m) Performing additional acts that require education and training
+25 as prescribed by the board and that are recognized by the nursing
+26 profession as proper to be performed by a registered nurse.
+27 25. "Registry of nursing assistants" means the nursing assistants
+28 registry maintained by the board pursuant to the omnibus budget
+29 reconciliation act of 1987 (P.L. 100-203; 101 Stat. 1330), as amended by
+30 the medicare catastrophic coverage act of 1988 (P.L. 100-360; 102 Stat.
+31 683).
+32 26. "Regulated party" means any person or entity that is licensed,
+33 certified, registered, recognized or approved pursuant to this chapter.
+34 27. "Unprofessional conduct" includes the following, whether
+35 occurring in this state or elsewhere:
+36 (a) Committing fraud or deceit in obtaining, attempting to obtain
+37 or renewing a license or a certificate issued pursuant to this chapter.
+38 (b) Committing a felony, whether or not involving moral turpitude,
+39 or a misdemeanor involving moral turpitude. In either case, conviction by
+40 a court of competent jurisdiction or a plea of no contest is conclusive
+41 evidence of the commission.
+42 (c) Aiding or abetting in a criminal abortion or attempting,
+43 agreeing or offering to procure or assist in a criminal abortion.
+-6-
+
+Senate Amendments to H.B. 2408
+1 (d) COMMITTING any conduct or practice that is or might be harmful
+2 or dangerous to the health of a patient or the public.
+3 (e) Being mentally incompetent or physically unsafe to a degree
+4 that is or might be harmful or dangerous to the health of a patient or the
+5 public.
+6 (f) Having a license, certificate, permit or registration to
+7 practice a health care profession denied, suspended, conditioned, limited
+8 or revoked in another jurisdiction and not reinstated by that
+9 jurisdiction.
+10 (g) Wilfully or repeatedly violating a provision of this chapter or
+11 a rule adopted pursuant to this chapter.
+12 (h) Committing an act that deceives, defrauds or harms the public.
+13 (i) Failing to comply with a stipulated agreement, consent
+14 agreement or board order.
+15 (j) Violating this chapter or a rule that is adopted by the board
+16 pursuant to this chapter.
+17 (k) Failing to report to the board any evidence that a registered
+18 or NURSE, practical nurse or a nursing assistant is or may be:
+19 (i) Incompetent to practice.
+20 (ii) Guilty of unprofessional conduct.
+21 (iii) Mentally or physically unable to safely practice nursing or
+22 to perform nursing-related duties. A nurse who is providing therapeutic
+23 counseling for a nurse who is in a drug rehabilitation program is required
+24 to report that nurse only if the nurse providing therapeutic counseling
+25 has personal knowledge that patient safety is being jeopardized.
+26 (l) Failing to self-report a conviction for a felony or
+27 undesignated offense within ten days after the conviction.
+28 (m) Cheating or assisting another to cheat on a licensure or
+29 certification examination.
+30 (n) ENGAGING IN SEXUAL CONDUCT WITH A CURRENT PATIENT OR WITH A
+31 FORMER PATIENT WITHIN SIX MONTHS AFTER THE LAST TREATMENT UNLESS THE
+32 PATIENT WAS THE LICENSEE'S SPOUSE AT THE TIME OF THE CONTACT OR,
+33 IMMEDIATELY PRECEDING THE NURSE-PATIENT RELATIONSHIP, WAS IN A DATING OR
+34 ENGAGEMENT RELATIONSHIP WITH THE LICENSEE. FOR THE PURPOSES OF THIS
+35 SUBDIVISION, "SEXUAL CONDUCT" INCLUDES:
+36 (i) ENGAGING IN OR SOLICITING A SEXUAL RELATIONSHIP, WHETHER
+37 CONSENSUAL OR NONCONSENSUAL.
+38 (ii) MAKING SEXUAL ADVANCES, REQUESTING SEXUAL FAVORS OR ENGAGING
+39 IN ANY OTHER VERBAL CONDUCT OR PHYSICAL CONTACT OF A SEXUAL NATURE.
+40 (iii) INTENTIONALLY VIEWING A COMPLETELY OR PARTIALLY DISROBED
+41 PATIENT IN THE COURSE OF TREATMENT IF THE VIEWING IS NOT RELATED TO
+42 PATIENT DIAGNOSIS OR TREATMENT UNDER CURRENT PRACTICE STANDARDS.
+-7-
+
+Senate Amendments to H.B. 2408
+1 Sec. 2. Section 32-1606, Arizona Revised Statutes, is amended to
+2 read:
+3 32-1606. Powers and duties of board
+4 A. The board may:
+5 1. Adopt and revise rules necessary to carry into effect this
+6 chapter.
+7 2. Publish advisory opinions regarding registered and practical
+8 nursing practice and nursing education.
+9 3. Issue limited licenses or certificates if it determines that an
+10 applicant or licensee cannot function safely in a specific setting or
+11 within the full scope of practice.
+12 4. Refer criminal violations of this chapter to the appropriate law
+13 enforcement agency.
+14 5. Establish a confidential program for monitoring licensees who
+15 are chemically dependent and who enroll in rehabilitation programs that
+16 meet the criteria established by the board. The board may take further
+17 action if the licensee refuses to enter into a stipulated agreement or
+18 fails to comply with its terms. In order to protect the public health and
+19 safety, the confidentiality requirements of this paragraph do not apply if
+20 the licensee does not comply with the stipulated agreement.
+21 6. On the applicant's or regulated party's request, establish a
+22 payment schedule with the applicant or regulated party.
+23 7. Provide education regarding board functions.
+24 8. Collect or assist in collecting workforce data.
+25 9. Adopt rules to conduct pilot programs consistent with public
+26 safety for innovative applications in nursing practice, education and
+27 regulation.
+28 10. Grant retirement status on request to retired nurses who are or
+29 were licensed under this chapter, who have no open complaint or
+30 investigation pending against them and who are not subject to discipline.
+31 11. Accept and spend federal monies and private grants, gifts,
+32 contributions and devises to assist in carrying out the purposes of this
+33 chapter. These monies do not revert to the state general fund at the end
+34 of the fiscal year.
+35 B. The board shall:
+36 1. Approve regulated training and educational programs that meet
+37 the requirements of this chapter and rules adopted by the board.
+38 2. By rule, establish approval and reapproval processes for nursing
+39 and nursing assistant training programs that meet the requirements of this
+40 chapter and board rules.
+41 3. Prepare and maintain a list of approved nursing programs to
+42 prepare registered nurses and practical nurses whose graduates are
+43 eligible for licensing under this chapter as registered nurses or as
+44 practical nurses if they satisfy the other requirements of this chapter
+45 and board rules.
+46 4. Examine qualified registered nurse and practical nurse
+47 applicants.
+-8-
+
+Senate Amendments to H.B. 2408
+1 5. License and renew the licenses of qualified registered nurse and
+2 practical nurse applicants and licensed nursing assistants who are not
+3 qualified to be licensed by the executive director.
+4 6. Adopt a seal, which the executive director shall keep.
+5 7. Keep a record of all proceedings.
+6 8. For proper cause, deny or rescind approval of a regulated
+7 training or educational program for failure to comply with this chapter or
+8 the rules of the board.
+9 9. Adopt rules to approve credential evaluation services that
+10 evaluate the qualifications of applicants who graduated from an
+11 international nursing program.
+12 10. Determine and administer appropriate disciplinary action
+13 against all regulated parties who are found guilty of violating this
+14 chapter or rules adopted by the board.
+15 11. Perform functions necessary to carry out the requirements of
+16 the nursing assistant and nurse aide training and competency evaluation
+17 program as set forth in the omnibus budget reconciliation act of 1987
+18 (P.L. 100-203; 101 Stat. 1330), as amended by the medicare catastrophic
+19 coverage act of 1988 (P.L. 100-360; 102 Stat. 683). These functions shall
+20 include:
+21 (a) Testing and registering certified nursing assistants.
+22 (b) Testing and licensing licensed nursing assistants.
+23 (c) Maintaining a list of board-approved training programs.
+24 (d) Maintaining a registry of nursing assistants for all certified
+25 nursing assistants and licensed nursing assistants.
+26 (e) Assessing fees.
+27 12. Adopt rules establishing acts that may be performed by a
+28 registered nurse practitioner or certified nurse midwife, except that the
+29 board does not have authority to decide scope of practice relating to
+30 abortion as defined in section 36-2151.
+31 13. Adopt rules that prohibit registered nurse practitioners,
+32 clinical nurse specialists or certified nurse midwives from dispensing a
+33 schedule II controlled substance that is an opioid, except for an
+34 implantable device or an opioid that is for medication-assisted treatment
+35 for substance use disorders or as provided in section 32-3248.03.
+36 14. Adopt rules establishing educational requirements to certify
+37 school nurses.
+38 15. Publish copies of board rules and distribute these copies on
+39 request.
+40 16. Require each applicant for initial licensure or certification
+41 to submit a full set of fingerprints to the board for the purpose of
+42 obtaining a state and federal criminal records check pursuant to section
+43 41-1750 and Public Law 92-544. The department of public safety may
+44 exchange this fingerprint data with the federal bureau of investigation.
+45 17. Except for a licensee who has been convicted of a felony that
+46 has been designated a misdemeanor pursuant to section 13-604, revoke a
+47 license of a person, revoke the multistate licensure privilege of a person
+48 pursuant to section 32-1669 or not issue a license or renewal to an
+49 applicant who has one or more felony convictions and who has not received
+-9-
+
+Senate Amendments to H.B. 2408
+1 an absolute discharge from the sentences for all felony convictions three
+2 or more years before the date of filing an application pursuant to this
+3 chapter.
+4 18. Establish standards to approve and reapprove registered nurse
+5 practitioner and clinical nurse specialist programs and provide for
+6 surveys of registered nurse practitioner and clinical nurse specialist
+7 programs as the board deems necessary.
+8 19. Provide the licensing authorities of health care institutions,
+9 facilities and homes with any information the board receives regarding
+10 practices that place a patient's health at risk.
+11 20. Limit the multistate licensure privilege of any person who
+12 holds or applies for a license in this state pursuant to section 32-1668.
+13 21. Adopt rules to establish competency standards for obtaining and
+14 maintaining a license.
+15 22. Adopt rules to qualify and certify clinical nurse specialists.
+16 23. Adopt rules to approve and reapprove refresher courses for
+17 nurses who are not currently practicing.
+18 24. Maintain a list of approved medication assistant training
+19 programs.
+20 25. Test and certify medication assistants.
+21 26. Maintain a registry and disciplinary record of medication
+22 assistants who are certified pursuant to this chapter.
+23 27. Adopt rules to establish the requirements for a clinical nurse
+24 specialist to prescribe and dispense drugs and devices consistent with
+25 section 32-1651 and within the clinical nurse specialist's population or
+26 disease focus.
+27 28. Issue registrations to administer general anesthesia and
+28 sedation in dental offices and dental clinics pursuant to section 32-1272
+29 to certified registered nurse anesthetists who have national board
+30 certification in anesthesiology.
+31 29. POST ALL [WRITTEN] SUBSTANTIVE [POLICIES] [POLICY STATEMENTS AS
+32 DEFINED IN SECTION 41-1001] IN A CLEARLY IDENTIFIABLE SECTION ON THE
+33 BOARD'S PUBLIC WEBSITE [AS REQUIRED BY SECTION 41-1091.01].
+34 C. The board may conduct an investigation on receipt of information
+35 that indicates that a person or regulated party may have violated this
+36 chapter or a rule adopted pursuant to this chapter. Following the
+37 investigation, the board may take disciplinary action pursuant to this
+38 chapter.
+39 D. The board may limit, revoke or suspend the privilege of a nurse
+40 to practice in this state granted pursuant to section 32-1668.
+41 E. Failure to comply with any final order of the board, including
+42 an order of censure or probation, is cause for suspension or revocation of
+43 a license or a certificate.
+44 F. The president or a member of the board designated by the
+45 president may administer oaths in transacting the business of the board.
+-10-
+
+Senate Amendments to H.B. 2408
+1 Sec. 3. Section 32-1644, Arizona Revised Statutes, is amended to
+2 read:
+3 32-1644. Approval of nursing schools and nursing programs;
+4 application; maintenance of standards
+5 A. The board shall approve all new prelicensure nursing, REGISTERED
+6 nurse practitioner and clinical nurse specialist programs pursuant to this
+7 section. A postsecondary educational institution or school in this state
+8 that is accredited by an accrediting agency recognized by the United
+9 States department of education desiring to conduct a registered nursing,
+10 practical nursing, REGISTERED nurse practitioner or clinical nurse
+11 specialist program shall apply to the board for approval and submit
+12 satisfactory proof that it THE INSTITUTION OR SCHOOL is prepared to meet
+13 and maintain the minimum standards prescribed by this chapter and board
+14 rules.
+15 B. The board or its authorized agent shall conduct a survey of the
+16 institution or program applying for approval and shall submit a written
+17 report of its findings to the board. If the board determines that the
+18 program meets the requirements prescribed in its rules, it THE BOARD shall
+19 approve the applicant as either a registered nursing program, practical
+20 nursing program, REGISTERED nurse practitioner program or clinical nurse
+21 specialist program in a specialty area.
+22 C. A nursing program approved by the board may also be accredited
+23 by a national nursing accrediting agency recognized by the board. If a
+24 prelicensure nursing program is accredited by a national nursing
+25 accrediting agency recognized by the board, the board does not have
+26 authority over it THE PROGRAM unless any of the following occurs:
+27 1. The board receives a complaint about the program relating to
+28 patient safety.
+29 [2. The program falls] [AND REMAINS] [below the standards
+30 prescribed by the board in its rules] [FOR ANNUAL NATIONAL COUNCIL
+31 LICENSURE EXAMINATION PASS RATES][.]
+32 [3.] [2.] The program loses its accreditation by a national
+33 nursing accrediting agency recognized by the board.
+34 [4.] [3.] The program allows its accreditation by a national
+35 nursing accrediting agency recognized by the board to lapse.
+36 D. From time to time the board, through its authorized employees or
+37 representatives, may resurvey all approved programs in the THIS state and
+38 shall file written reports of these resurveys with the board. If the
+39 board determines that an approved nursing program is not maintaining the
+40 required standards, it THE BOARD shall immediately give written notice to
+41 the program specifying the defects. If the defects are not corrected
+42 within a reasonable THE time as determined PRESCRIBED by the board BY
+43 RULE, the board may take either of the following actions:
+44 1. Approve the program but restrict the program's ability to admit
+45 new students until the program complies with board standards.
+46 2. Remove the program from the list of approved nursing programs
+47 until the program complies with board standards.
+-11-
+
+Senate Amendments to H.B. 2408
+1 E. All approved nursing programs shall maintain accurate and
+2 current records showing in full the theoretical and practical courses
+3 given to each student.
+4 F. The board does not have regulatory authority over the following
+5 approved REGISTERED nurse practitioner or clinical nurse specialist
+6 programs unless the conditions prescribed in subsection C OF THIS SECTION
+7 are met:
+8 1. A REGISTERED nurse practitioner or clinical nurse specialist
+9 program that is part of a graduate program in nursing accredited by an
+10 agency recognized by the board if the program was surveyed as part of the
+11 graduate program accreditation.
+12 2. A REGISTERED nurse practitioner or clinical nurse specialist
+13 program that is accredited by an agency recognized by the board.
+14 [G. THE ARIZONA STATE BOARD OF NURSING SHALL SHARE, WITHIN FIVE
+15 BUSINESS DAYS, ANY COMPLAINT IT RECEIVES AGAINST A NURSING PROGRAM OR
+16 NURSING SCHOOL WITH THE STATE BOARD FOR PRIVATE POSTSECONDARY EDUCATION,
+17 THE ARIZONA BOARD OF REGENTS OR THE COMMUNITY COLLEGE DISTRICT GOVERNING
+18 BOARD, AS APPLICABLE.]
+19 ≤≤Sec. 4. Section 32-1664, Arizona Revised Statutes, is amended to
+20 read:
+21 32-1664. Investigation; hearing; notice
+22 A. In connection with an investigation, the board or its duly
+23 authorized agents or employees may obtain any documents, reports, records,
+24 papers, books and materials, including hospital records, medical staff
+25 records and medical staff review committee records, or any other physical
+26 evidence that indicates that a person or regulated party may have violated
+27 this chapter or a rule adopted pursuant to this chapter:
+28 1. By entering the premises, at any reasonable time, and inspecting
+29 and copying materials in the possession of a regulated party that relate
+30 to nursing competence, unprofessional conduct or the mental or physical
+31 ability of a licensee to safely practice nursing.
+32 2. By issuing a subpoena under the board's seal to require the
+33 attendance and testimony of witnesses or to demand the production for
+34 examination or copying of documents or any other physical evidence. Within
+35 five days after a person is served with a subpoena, that person may
+36 petition the board to revoke, limit or modify the subpoena. The board
+37 shall do so if in its opinion the evidence required does not relate to
+38 unlawful practices covered by this chapter, is not relevant to the charge
+39 that is the subject matter of the hearing or investigation or does not
+40 describe with sufficient particularity the physical evidence whose
+41 production is required.
+42 3. By submitting a written request for the information.
+43 4. In the case of an applicant's or a regulated party's personal
+44 medical records, as defined in section 12-2291, by any means allowed by
+45 this section if the board either:
+46 (a) Obtains from the applicant or regulated party, or the health
+47 care decision maker of the applicant or regulated party, a written
+48 authorization that satisfies the requirements of title 12, chapter 13,
+49 article 7.1.
+-12-
+
+Senate Amendments to H.B. 2408
+1 (b) Reasonably believes that the records relate to information
+2 already in the board's possession regarding the competence, unprofessional
+3 conduct or mental or physical ability of the applicant or regulated party
+4 as it pertains to safe practice. If the board adopts a substantive policy
+5 statement pursuant to section 41-1091, it may authorize the executive
+6 director, or a designee in the absence of the executive director, to make
+7 the determination of reasonable belief.
+8 B. A regulated party and a health care institution as defined in
+9 section 36-401 shall, and any other person may, report to the board any
+10 information the licensee, certificate holder, health care institution or
+11 individual may have that appears to show that a regulated party or
+12 applicant is, was or may be a threat to the public health or safety.
+13 C. If a death or an incident requiring emergency medical response
+14 occurs in a dental office or dental clinic during the administration of or
+15 recovery from general anesthesia or sedation by a certified registered
+16 nurse anesthetist, the certified registered nurse anesthetist shall, and
+17 any other person may, report the death or incident to the board within
+18 seven business days after the occurrence.
+19 D. The board retains jurisdiction to proceed with an investigation
+20 or a disciplinary proceeding against a regulated party whose license or
+21 certificate expired not more than five years before the board initiates
+22 the investigation.
+23 E. Any regulated party, health care institution or other person
+24 that reports or provides information to the board in good faith is not
+25 subject to civil liability. If requested the board shall not disclose the
+26 name of the reporter unless the information is essential to proceedings
+27 conducted pursuant to this section.
+28 F. Any regulated party or person who is subject to an investigation
+29 may obtain representation by counsel.
+30 G. On determination of reasonable cause, the board, or if delegated
+31 by the board the executive director, may require a licensee, certificate
+32 holder or applicant to undergo at the expense of the licensee, certificate
+33 holder or applicant any combination of mental, physical or psychological
+34 examinations, assessments or skills evaluations necessary to determine the
+35 person's competence or ability to practice safely. These examinations may
+36 include bodily fluid testing and other examinations known to detect the
+37 presence of alcohol or drugs. If the executive director orders the
+38 licensee, applicant or certificate holder to undertake an examination,
+39 assessment or evaluation pursuant to this subsection, and the licensee,
+40 certificate holder or applicant fails to affirm to the board in writing
+41 within fifteen days after receipt of the notice of the order that the
+42 licensee, certificate holder or applicant intends to comply with the
+43 order, the executive director shall refer the matter to the board to allow
+44 the board to determine whether to issue an order pursuant to this
+45 subsection. At each regular meeting of the board the executive director
+46 shall report to the board data concerning orders issued by the executive
+47 director pursuant to this subsection since the last regular meeting of the
+48 board and any other data requested by the board.
+-13-
+
+Senate Amendments to H.B. 2408
+1 H. The board shall provide the investigative report if requested
+2 pursuant to section 32-3206.
+3 I. If after completing its investigation the board finds that the
+4 information provided pursuant to this section is not of sufficient
+5 seriousness to merit disciplinary action against the regulated party or
+6 applicant, it may take either of the following actions:
+7 1. Dismiss if in the opinion of the board the information is
+8 without merit.
+9 2. File a letter of concern if in the opinion of the board there is
+10 insufficient evidence to support disciplinary action against the regulated
+11 party or applicant but sufficient evidence for the board to notify the
+12 regulated party or applicant of its concern.
+13 J. Except as provided pursuant to section 32-1663, subsection F and
+14 subsection K of this section, if the investigation in the opinion of the
+15 board reveals reasonable grounds to support the charge, the regulated
+16 party is entitled to an administrative hearing pursuant to title 41,
+17 chapter 6, article 10. If notice of the hearing is served by certified
+18 mail, service is complete on the date the notice is placed in the mail.
+19 K. A regulated party shall respond in writing to the board within
+20 thirty days after notice of the hearing is served as prescribed in
+21 subsection J of this section. The board may consider a regulated party's
+22 failure to respond within this time as an admission by default to the
+23 allegations stated in the complaint. The board may then take disciplinary
+24 actions allowed by this chapter without conducting a hearing.
+25 L. An administrative law judge or a panel of board members may
+26 conduct hearings pursuant to this section.
+27 M. In any matters pending before it, the board may issue subpoenas
+28 under its seal to compel the attendance of witnesses.
+29 N. Patient records, including clinical records, medical reports,
+30 laboratory statements and reports, any file, film, other report or oral
+31 statement relating to diagnostic findings or treatment of patients, any
+32 information from which a patient or a patient's family might be identified
+33 or information received and records kept by the board as a result of the
+34 investigation procedure outlined in this chapter are not available to the
+35 public and are not subject to discovery in civil or criminal proceedings.
+36 O. Hospital records, medical staff records, medical staff review
+37 committee records, testimony concerning these records and proceedings
+38 related to the creation of these records shall not be available to the
+39 public. They shall be kept confidential by the board and shall be subject
+40 to the same provisions concerning discovery and use in legal actions as
+41 are the original records in the possession and control of hospitals, their
+42 medical staffs and their medical staff review committees. The board shall
+43 use these records and testimony during the course of investigations and
+44 proceedings pursuant to this chapter.
+-14-
+
+Senate Amendments to H.B. 2408
+1 P. If the regulated party is found to have committed an act of
+2 unprofessional conduct or to have violated this chapter or a rule adopted
+3 pursuant to this chapter, the board may take disciplinary action.
+4 Q. The board may subsequently issue a denied license or certificate
+5 and may reissue a revoked or voluntarily surrendered license or
+6 certificate.
+7 R. On application by the board to any superior court judge, a
+8 person who without just cause fails to comply with a subpoena issued
+9 pursuant to this section may be ordered by the judge to comply with the
+10 subpoena and punished by the court for failing to comply. Subpoenas shall
+11 be served by regular or certified mail or in the manner required by the
+12 Arizona rules of civil procedure.
+13 S. The board may share investigative information that is
+14 confidential under subsections N and O of this section with other state,
+15 federal and international health care agencies and with state, federal and
+16 international law enforcement authorities if the recipient is subject to
+17 confidentiality requirements similar to those established by this section.
+18 A disclosure made by the board pursuant to this subsection is not a waiver
+19 of the confidentiality requirements established by this section.
+20 T. THE ARIZONA STATE BOARD OF NURSING SHALL TRANSFER, WITHIN FIVE
+21 BUSINESS DAYS, ANY COMPLAINT IT RECEIVES AGAINST A NURSING PROGRAM OR
+22 NURSING SCHOOL TO THE STATE BOARD FOR PRIVATE POSTSECONDARY EDUCATION, THE
+23 ARIZONA BOARD OF REGENTS OR THE COMMUNITY COLLEGE DISTRICT GOVERNING
+24 BOARD, AS APPLICABLE.≥≥
+25 Sec. 4. Title 32, chapter 15, article 3, Arizona Revised Statutes,
+26 is amended by adding sections 32-1664.01, 32-1664.02{{, }} {{and}}
+27 32-1664.03, {{32-1664.04 and 32-1664.05,}} to read:
+28 32-1664.01. Investigation of complaints; confidentiality;
+29 limits; notice; evaluations; time frame;
+30 definition
+31 A. NOTWITHSTANDING ANY OTHER PROVISION OF THIS CHAPTER OR CHAPTER
+32 32 OF THIS TITLE TO THE CONTRARY:
+33 1. EXCEPT AS SET FORTH IN PARAGRAPH 3 OF THIS SUBSECTION, THE BOARD
+34 SHALL REQUIRE COMPLAINANTS TO IDENTIFY THEMSELVES IN THE COMPLAINT AND
+35 MAKE THEMSELVES AVAILABLE FOR AN EVIDENTIARY INTERVIEW. COMPLAINANTS MAY
+36 REQUEST THAT THEIR IDENTITY REMAIN CONFIDENTIAL DURING THE INVESTIGATORY
+37 PROCESS. IF THE INVESTIGATORY PROCESS RESULTS IN A DETERMINATION THAT A
+38 VIOLATION OF LAW MAY HAVE OCCURRED, THE RESPONDENT IS ENTITLED TO REVIEW
+39 THE COMPLETE INVESTIGATORY FILE, INCLUDING THE IDENTITY OF THE COMPLAINANT
+40 EXCEPT AS PROVIDED IN PARAGRAPH 2 OF THIS SUBSECTION.
+41 2. THE BOARD, [SOLELY AT THE BOARD'S DISCRETION,] ON FINDING CAUSE
+42 THAT A COMPLAINANT MAY REASONABLY FEAR RETALIATION OR BE ENDANGERED IF THE
+43 COMPLAINANT'S IDENTITY IS REVEALED OR IF THE COMPLAINT DIRECTLY IMPACTS
+44 PATIENT SAFETY, MAY CONTINUE TO MAINTAIN THE COMPLAINANT'S CONFIDENTIALITY
+45 FROM THE LICENSEE UNTIL THE CONCLUSION OF THE [INVESTIGATIVE AND]
+46 ADMINISTRATIVE PROCESS. THE BOARD MAY CONDUCT A CLOSED EVIDENTIARY
+47 HEARING IF THE COMPLAINANT REQUESTS THAT THE COMPLAINANT'S IDENTITY REMAIN
+48 PRIVATE AND THE BOARD HAS A REASONABLE BASIS TO CONDUCT THE HEARING. A
+49 COMPLAINANT'S ANONYMITY MAY CONTINUE UNTIL EVIDENCE BY THE COMPLAINANT IS
+-15-
+
+Senate Amendments to H.B. 2408
+1 REQUIRED AT AN ADMINISTRATIVE PROCEEDING PURSUANT TO TITLE 41 OR A LEGAL
+2 PROCEEDING.
+3 3. THE BOARD MAY TAKE ACTION ON A COMPLAINT IF THE COMPLAINANT
+4 REFUSES TO IDENTIFY HIMSELF OR HERSELF ONLY IF THE BOARD HAS SUFFICIENT
+5 INFORMATION THAT A VIOLATION MAY HAVE OCCURRED WITHIN ITS JURISDICTION
+6 THAT DIRECTLY IMPACTS THE SAFETY OF PATIENTS WITHOUT THE TESTIMONY OF THE
+7 ANONYMOUS COMPLAINANT. [THE BOARD MAY ATTEMPT TO SUBSTANTIATE AN
+8 ANONYMOUS COMPLAINT THROUGH FURTHER INVESTIGATION PURSUANT TO THE BOARD'S
+9 POLICIES AND MAY OPEN A COMPLAINT AGAINST A LICENSEE OR CERTIFICATE HOLDER
+10 IF THE ANONYMOUS COMPLAINT IS SUBSTANTIATED THROUGH CORROBORATION FROM
+11 RECORDS, OTHER WITNESSES, PATTERN EVIDENCE OR DATA SOURCES.]
+12 4. THE BOARD SHALL LIMIT AN INVESTIGATION OF A COMPLAINT TO THOSE
+13 INVESTIGATIVE SUBJECTS AND ACTIONS THAT ARE RELEVANT AND MATERIAL TO THE
+14 ISSUES RAISED IN THE COMPLAINT AND THAT WOULD REASONABLY BE TAKEN TO
+15 INVESTIGATE THE ISSUES IN THE COMPLAINT. THIS PARAGRAPH DOES NOT PROHIBIT
+16 THE BOARD FROM INVESTIGATING ANY ISSUE OR EVIDENCE OF UNPROFESSIONAL
+17 CONDUCT THAT IS DISCOVERED OR BROUGHT TO THE ATTENTION OF THE BOARD DURING
+18 THE INVESTIGATION OF THE ORIGINAL COMPLAINT.
+19 5. ON REASONABLE BELIEF THAT A CRIME HAS BEEN COMMITTED, THE BOARD
+20 SHALL REPORT THE ALLEGED CRIMINAL CONDUCT TO THE APPROPRIATE CRIMINAL
+21 JUSTICE AGENCY. IF THE BOARD HAS A REASONABLE BELIEF THAT CONDUCT BY A
+22 LICENSED, PERMITTED OR CERTIFICATED INDIVIDUAL OR OTHER ENTITY OVER WHICH
+23 THE BOARD DOES NOT HAVE JURISDICTION MAY VIOLATE THE LAW OR CODES OF
+24 CONDUCT, THE BOARD SHALL REPORT THE CONDUCT TO THE APPROPRIATE STATE
+25 REGULATORY BOARD OR STATE AGENCY THAT THE BOARD REASONABLY BELIEVES HAS
+26 JURISDICTION OVER THE LICENSEE, PERMITTEE OR CERTIFICATE HOLDER OR OTHER
+27 ENTITY.
+28 6. THE BOARD SHALL IMPLEMENT A POLICY PRIORITIZING COMPLAINTS BASED
+29 ON THE HARM TO A PATIENT OR POTENTIALLY TO THE PUBLIC. THE BOARD SHALL
+30 ASSIGN THE HIGHEST PRIORITY TO COMPLAINTS ALLEGING SEXUAL MISCONDUCT WITH
+31 A PATIENT, [ABUSE OR NEGLECT OF A PATIENT, PRACTICE BEYOND THE SCOPE OF
+32 PRACTICE THAT CREATED A SIGNIFICANT RISK OF HARM,] CRIMINAL ASSAULT OR
+33 THEFT OR PROVIDING SERVICES WHILE UNDER THE INFLUENCE OF ANY ILLEGAL OR
+34 LEGAL SUBSTANCE THAT IMPAIRS THE LICENSEE OR CERTIFICATE HOLDER.
+35 7. THE BOARD SHALL PROVIDE THE RESPONDENT WITH A WRITTEN NOTICE
+36 STATING THAT THERE IS AN OPEN INVESTIGATION, THE SUBSTANCE OF THE
+37 COMPLAINT, THAT THE RESPONDENT HAS THE RIGHT TO BE REPRESENTED BY LEGAL
+38 COUNSEL AND THAT THE RESPONDENT HAS AT LEAST FIFTEEN BUSINESS DAYS AFTER
+39 RECEIVING THE WRITTEN NOTICE BEFORE THE BOARD REQUIRES A RESPONSE[, EXCEPT
+40 THAT THE BOARD MAY REQUIRE AN IMMEDIATE RESPONSE OR PRODUCTION OF RECORDS
+41 WHEN NECESSARY TO PROTECT PUBLIC HEALTH AND SAFETY]. THE WRITTEN NOTICE
+42 SHALL ALSO INFORM THE RESPONDENT THAT THE BOARD MAY USE ANY STATEMENT THE
+43 RESPONDENT MAKES AGAINST THE RESPONDENT. THE RESPONDENT MAY WAIVE THE
+44 FIFTEEN-DAY TIME FRAME BY WRITTEN COMMUNICATION.
+-16-
+
+Senate Amendments to H.B. 2408
+1 8. IF THE BOARD DETERMINES THAT A PSYCHOLOGICAL, PSYCHIATRIC OR
+2 OTHER MEDICAL EVALUATION OF THE LICENSEE OR CERTIFICATE HOLDER IS
+3 ESSENTIAL FOR THE BOARD TO MAKE A DECISION REGARDING A COMPLAINT AND
+4 ORDERS THE LICENSEE OR CERTIFICATE HOLDER TO OBTAIN AN EVALUATION, AND THE
+5 LICENSEE OR CERTIFICATE HOLDER REQUESTS THAT THE EVALUATION BE MADE BY A
+6 PROFESSIONAL OTHER THAN THE PROFESSIONAL RECOMMENDED BY THE BOARD, THE
+7 BOARD OR ITS DESIGNEE [SHALL CONSIDER THE ALTERNATIVE EVALUATOR'S
+8 CREDENTIALS, INDEPENDENCE AND CONFLICT DISCLOSURE AND] MAY ACCEPT AND
+9 APPROVE AN EVALUATION FROM A PROFESSIONAL WHO HAS THE CREDENTIALS,
+10 TRAINING, EXPERTISE AND IMPARTIALITY REQUIRED TO ADDRESS THE ISSUES THE
+11 BOARD HAS REQUESTED IN ITS ORDER. [THE BOARD MAY NOT REQUIRE THE LICENSEE
+12 OR CERTIFICATE HOLDER TO BE EVALUATED ONLY BY A PROFESSIONAL WHOSE NAME IS
+13 PROVIDED IN A LIST BY THE BOARD TO THE LICENSEE OR CERTIFICATE HOLDER.]
+14 9. WITHIN ONE HUNDRED EIGHTY DAYS AFTER THE BOARD RECEIVES A
+15 COMPLAINT AGAINST A LICENSEE OR CERTIFICATE HOLDER, THE BOARD SHALL DO ONE
+16 OF THE FOLLOWING:
+17 (a) SUBMIT THE INVESTIGATION FOR REVIEW.
+18 (b) ADMINISTRATIVELY DISMISS THE COMPLAINT IF THE BOARD FINDS IT IS
+19 UNSUBSTANTIATED.
+20 (c) REPORT A DETERMINATION EITHER THAT THE COMPLAINT INVESTIGATION
+21 CANNOT BE REASONABLY COMPLETED WITHIN ONE HUNDRED EIGHTY DAYS DUE TO THE
+22 COMPLEXITY OF THE MATTER, THE RESPONDENT'S REQUEST FOR ADDITIONAL TIME TO
+23 RESPOND OR CAUSING DELAYS IN THE INVESTIGATION OR THE FAILURE OF A PERSON
+24 OR ENTITY TO TIMELY RESPOND TO A BOARD SUBPOENA. IF THIS DETERMINATION IS
+25 MADE, THE BOARD, WITHIN THE ONE HUNDRED EIGHTY-DAY PERIOD, SHALL TAKE ONE
+26 OF THE FOLLOWING ACTIONS:
+27 (i) CONTINUE THE INVESTIGATION FOR AN ADDITIONAL ONE HUNDRED DAYS
+28 TO COMPLETE THE INVESTIGATION AND PROCEED WITH THE ADMINISTRATIVE
+29 PROCEDURE TO SUBMIT THE COMPLAINT FOR FINAL BOARD REVIEW AND ACTION.
+30 (ii) ADMINISTRATIVELY DISMISS THE COMPLAINT WITHOUT PREJUDICE. IF
+31 THE BOARD ADMINISTRATIVELY DISMISSES THE COMPLAINT WITHOUT PREJUDICE, THE
+32 BOARD MAY REOPEN THE INVESTIGATION ONLY IF THE BOARD RECEIVES ADDITIONAL
+33 EVIDENCE, INFORMATION OR TESTIMONY SUFFICIENT TO CONCLUDE THE
+34 INVESTIGATION WITHIN TWO YEARS AFTER THE ADMINISTRATIVE DISMISSAL AS
+35 DESCRIBED IN THIS ITEM.
+36 10. IF ANOTHER HEALTH PROFESSION REGULATORY BOARD OR A CRIMINAL
+37 JUSTICE AGENCY IS INVESTIGATING THE CIRCUMSTANCES ALLEGED IN A COMPLAINT,
+38 THE TIME FRAMES PRESCRIBED IN PARAGRAPH 9 OF THIS SUBSECTION ARE SUSPENDED
+39 UNTIL THE INVESTIGATION IS COMPLETED.
+40 B. FOR THE PURPOSES OF THIS SECTION, "WITHOUT PREJUDICE" MEANS THAT
+41 THE BOARD MAY OPEN ANOTHER COMPLAINT BASED ON THE SAME SET OF FACTS OF A
+42 COMPLAINT THAT HAS BEEN DISMISSED IF ADDITIONAL EVIDENCE OR INFORMATION
+43 BECOMES AVAILABLE TO SUBSTANTIATE THE COMPLAINT[, INCLUDING NEW
+44 WITNESSES].
+-17-
+
+Senate Amendments to H.B. 2408
+1 32-1664.02. Investigative files; access; confidentiality;
+2 definition
+3 A. NOTWITHSTANDING ANY PROVISION OF THIS CHAPTER OR CHAPTER 32 OF
+4 THIS TITLE TO THE CONTRARY:
+5 1. THE BOARD SHALL PROVIDE NOTICE TO A RESPONDENT AT LEAST FIFTEEN
+6 BUSINESS DAYS BEFORE A MEETING OF THE BOARD TO REVIEW THE STATUS OF AN
+7 INVESTIGATION. THE BOARD SHALL PROVIDE THE RESPONDENT WITH ACCESS TO THE
+8 INVESTIGATIVE FILE BY EITHER OF THE FOLLOWING METHODS AT THE DISCRETION OF
+9 THE RESPONDENT:
+10 (a) ALLOW THE RESPONDENT TO REVIEW THE FILE AT THE BOARD OFFICE AND
+11 RECEIVE COPIES.
+12 (b) PROVIDE THE FILE TO THE RESPONDENT OR THE RESPONDENT'S ATTORNEY
+13 BY ELECTRONIC TRANSMISSION.
+14 2. A PERSON WHO OBTAINS INFORMATION FROM THE BOARD PURSUANT TO THIS
+15 SECTION MAY NOT RELEASE THE INFORMATION TO ANY OTHER PERSON OR ENTITY OR
+16 USE THE INFORMATION IN ANY PROCEEDING OR ACTION EXCEPT IN CONNECTION WITH
+17 THE BOARD'S REVIEW OF THE INVESTIGATION, THE DISCIPLINARY INTERVIEW AND
+18 ANY ADMINISTRATIVE PROCEEDING OR APPEAL RELATED TO THE DISCIPLINARY
+19 INTERVIEW OR HEARING. A PERSON WHO VIOLATES THIS PARAGRAPH COMMITS AN ACT
+20 OF UNPROFESSIONAL CONDUCT.
+21 3. THE BOARD MAY NOT MAKE AN ADMINISTRATIVE DISMISSAL OR
+22 NONDISCIPLINARY REMEDIAL ACTION PUBLICLY AVAILABLE OR REPORT THE ACTION TO
+23 THE NATIONAL PRACTITIONER DATA BANK, CONSISTENT WITH FEDERAL LAW.
+24 B. FOR THE PURPOSES OF THIS SECTION, "INVESTIGATIVE FILE" INCLUDES:
+25 1. ANY WITNESS OR COMPLAINANT STATEMENT AND ANY DOCUMENTARY
+26 EVIDENCE OBTAINED DURING THE INVESTIGATION.
+27 2. ANY REVIEW CONDUCTED BY AN EXPERT OR CONSULTANT PROVIDING AN
+28 EVALUATION OF OR OPINION ON THE ALLEGATIONS.
+29 3. ANY RECORDS ON THE PATIENT OBTAINED BY THE BOARD FROM OTHER
+30 HEALTH CARE PROVIDERS.
+31 4. THE RESULTS OF ANY EVALUATION OR TEST OF THE LICENSEE OR
+32 CERTIFICATE HOLDER CONDUCTED AT THE BOARD'S DIRECTION.
+33 5. ANY OTHER FACTUAL INFORMATION THAT THE BOARD WILL USE IN MAKING
+34 ITS DETERMINATION.
+35 6. ANY RECOMMENDATION TO THE BOARD FOR THE DISPOSITION OF THE
+36 INVESTIGATION.
+37 {{32-1664.03. Burden of proof
+38 EXCEPT FOR DISCIPLINARY MATTERS BROUGHT PURSUANT TO SECTION 32-1601,
+39 PARAGRAPH 27, SUBDIVISION (n), THE BOARD HAS THE BURDEN OF PROOF BY CLEAR
+40 AND CONVINCING EVIDENCE FOR DISCIPLINARY MATTERS BROUGHT PURSUANT TO THIS
+41 CHAPTER.
+42 32-1664.04.}}{{32-1664.03.}} Disciplinary actions; expungement;
+43 exceptions
+44 NOTWITHSTANDING ANY OTHER PROVISION OF THIS CHAPTER TO THE CONTRARY:
+45 1. THE BOARD[, SOLELY AT THE BOARD'S DISCRETION,] MAY GRANT A
+46 REQUEST FOR EXPUNGEMENT OF A DISCIPLINARY ACTION PREVIOUSLY IMPOSED
+47 AGAINST A LICENSEE OR CERTIFICATE HOLDER, WHETHER FORMAL OR INFORMAL, ONLY
+48 AS AUTHORIZED BY THIS SECTION. THE BOARD MAY GRANT AN EXPUNGEMENT OF A
+49 DISCIPLINARY ACTION ONLY ONCE FOR A LICENSEE OR CERTIFICATE HOLDER.
+-18-
+
+Senate Amendments to H.B. 2408
+1 2. ANY REQUEST FOR EXPUNGEMENT PURSUANT TO THIS SECTION SHALL BE
+2 MADE IN WRITING AND SHALL COMPLY WITH THIS SECTION.
+3 3. ANY DISCIPLINARY ACTION ARISING FROM THE FAILURE TO TIMELY RENEW
+4 A LICENSE OR CERTIFICATE, THE FAILURE TO COMPLETE CONTINUING EDUCATION OR
+5 A DOCUMENTATION ERROR SHALL BE EXPUNGED BY THE BOARD IF ALL OF THE
+6 FOLLOWING APPLY:
+7 (a) THE DISCIPLINARY ACTION IS AT LEAST TWO YEARS OLD.
+8 (b) THE TERMS OF THE DISCIPLINARY ACTION HAVE BEEN MET.
+9 (c) THERE HAVE BEEN NO SUBSEQUENT VIOLATIONS OF ANY OTHER
+10 PROVISIONS OF THIS CHAPTER OR THE RULES ADOPTED PURSUANT TO THIS CHAPTER.
+11 4. EXCEPT AS PROVIDED IN PARAGRAPH 5 OF THIS SECTION, FOR ANY OTHER
+12 DISCIPLINARY ACTION NOT IDENTIFIED IN PARAGRAPH 3 OF THIS SECTION, THE
+13 BOARD MAY EXPUNGE A DISCIPLINARY ACTION IF ALL OF THE FOLLOWING APPLY:
+14 (a) THE DISCIPLINARY ACTION AT ISSUE IS AT LEAST FIVE YEARS OLD.
+15 (b) THE TERMS OF THE DISCIPLINARY ACTION HAVE BEEN MET.
+16 (c) THERE HAVE BEEN NO SUBSEQUENT VIOLATIONS OF ANY OTHER
+17 PROVISIONS OF THIS CHAPTER OR THE RULES ADOPTED PURSUANT TO THIS CHAPTER.
+18 (d) THE LICENSEE OR CERTIFICATE HOLDER HAS HAD A TOTAL OF NOT MORE
+19 THAN TWO DISCIPLINARY ACTIONS IMPOSED, INCLUDING THE DISCIPLINARY ACTION
+20 FOR WHICH EXPUNGEMENT IS REQUESTED, BY THE BOARD OR ANY OTHER REGULATORY
+21 BOARD OR AUTHORITY FROM THIS STATE OR ANY OTHER STATE.
+22 5. THE BOARD MAY NOT GRANT A REQUEST FOR EXPUNGEMENT IF ANY OF THE
+23 FOLLOWING APPLIES TO THE DISCIPLINARY ACTION FOR WHICH EXPUNGEMENT IS
+24 REQUESTED:
+25 (a) THE DISCIPLINARY ACTION WAS BASED ON A CRIMINAL CONVICTION
+26 RESULTING FROM:
+27 (i) ASSAULT, ABUSE, FRAUD OR ANY OTHER FELONIOUS CONDUCT THAT
+28 RESULTED IN PHYSICAL OR FINANCIAL HARM TO OR THE DEATH OF AN INDIVIDUAL.
+29 (ii) ATTEMPTED MURDER, ASSAULT, ABUSE OR FRAUD.
+30 (b) THE LICENSEE OR CERTIFICATE HOLDER ASSAULTED OR ABUSED A
+31 PATIENT [OR THE CONDUCT RESULTED IN HARM TO A PATIENT].
+32 (c) THE LICENSEE'S OR CERTIFICATE HOLDER'S CONDUCT[, INCLUDING A
+33 MEDICATION OR CLINICAL PRACTICE ERROR,] CAUSED HARM OR DEATH TO A PATIENT.
+34 (d) THE LICENSEE OR CERTIFICATE HOLDER COMMITTED SEXUAL MISCONDUCT
+35 WITH A PATIENT.
+36 (e) THE LICENSEE OR CERTIFICATE HOLDER WAS PRACTICING WHILE
+37 IMPAIRED [OR DEMONSTRATED A PATTERN OF DIVERSION OF CONTROLLED
+38 SUBSTANCES].
+39 (f) THE LICENSEE OR CERTIFICATE HOLDER COMMITTED FRAUD OR FALSIFIED
+40 [OR MALICIOUSLY ALTERED] RECORDS IN A HEALTH CARE SETTING.
+41 6. THE BOARD SHALL REPORT AN EXPUNGEMENT UNDER THIS SECTION TO ANY
+42 NATIONAL DATABASE TO WHICH THE BOARD PREVIOUSLY REPORTED THE DISCIPLINARY
+43 ACTION.
+44 7. A LICENSEE OR CERTIFICATE HOLDER IS NOT REQUIRED TO REPORT AN
+45 EXPUNGED DISCIPLINARY ACTION ON ANY FUTURE APPLICATION FOR ISSUANCE OR
+46 RENEWAL OF A LICENSE, PERMIT OR CERTIFICATE TO ANY REGULATORY BOARD OR
+47 AGENCY IN THIS STATE.
+-19-
+
+Senate Amendments to H.B. 2408
+1 [32-1664.05. Board liability; damages
+2 NOTWITHSTANDING ANY OTHER LAW, IF THE BOARD DOES NOT COMPLY WITH
+3 THIS CHAPTER, A LICENSEE OR CERTIFICATE HOLDER OR THE SUBJECT OF A BOARD
+4 INVESTIGATION WHO WAS DAMAGED BY THE BOARD'S FAILURE TO COMPLY WITH THIS
+5 CHAPTER MAY SEEK DAMAGES, INCLUDING ATTORNEY FEES, IN A CIVIL LEGAL
+6 PROCEEDING. A BOARD MEMBER OR STAFF MEMBER MAY BE HELD PERSONALLY LIABLE
+7 ONLY IF THE PERSON'S CONDUCT WAS RECKLESS, MALICIOUS OR WILFUL.]
+8 Enroll and engross to conform
+9 Amend title to conform
+SHAWNNA BOLICK
+2408FloorBOLICK.docx
+04/20/2026
+1:28 PM
+C: MH
+130NENHRD
+-20-

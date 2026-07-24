@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Health and Human Services
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Health and Human Services
+Second Regular Session S.B. 1086
+COMMITTEE ON HEALTH AND HUMAN SERVICES
+SENATE AMENDMENTS TO S.B. 1086
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 36, chapter 29, article 1, Arizona Revised
+3 Statutes, is amended by adding section 36-2905.05, to read:
+4 36-2905.05. Contractors; reimbursement; noncontracting
+5 providers; prohibitions
+6 [A. NOTWITHSTANDING ANY OTHER LAW TO THE CONTRARY:]
+7 [A.] [1.] A CONTRACTOR SHALL REIMBURSE A NONCONTRACTING PROVIDER
+8 FOR LABORATORY SERVICES RENDERED TO A MEMBER WHO IS ENROLLED WITH THE
+9 CONTRACTOR IF THE MEMBER WAS REFERRED BY A CONTRACTED PROVIDER [OF THE
+10 CONTRACTOR AT A RATE THAT IS NOT MORE THAN THE RATE THAT WOULD BE
+11 REIMBURSED TO A CONTRACTING PROVIDER].
+12 [B.] [2.] A CONTRACTOR MAY NOT REQUIRE PRIOR AUTHORIZATION FOR
+13 DIAGNOSTIC SERVICES.
+14 [C.] [B.] A CONTRACTOR MAY NOT TAKE OR THREATEN TO TAKE
+15 RETALIATORY ACTION AGAINST A CONTRACTED PROVIDER FOR REFERRING A MEMBER TO
+16 A NONCONTRACTED PROVIDER.
+
+Senate Amendments to S.B. 1086
+1 Sec. 2. Legislative intent
+2 The legislature intends to promote cost controls through competition
+3 and to avoid monopolistic practices that interfere with the free market.
+4 Adequate oversight through rigorous audit practices is the alternative.
+5 Enroll and engross to conform
+6 Amend title to conform
+1086HHS.docx
+02/10/2026
+2:33 PM
+C: MH
+130YWLUVB
+-2-
