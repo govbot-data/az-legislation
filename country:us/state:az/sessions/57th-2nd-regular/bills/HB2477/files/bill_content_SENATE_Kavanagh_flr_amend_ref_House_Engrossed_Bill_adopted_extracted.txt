@@ -1,0 +1,754 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Kavanagh flr amend (ref House Engrossed Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2477
+Kavanagh ADD COW Floor Amendment
+Reference to: House engrossed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Requires the State Treasurer to only invest in safe investments that prioritize safety and principal
+preservation before high returns, liquidity and yield.
+2. Prohibits the State Treasurer from:
+a) using any insider information obtained while performing official duties to knowingly benefit
+another party or for any personal gain or for the personal gain of any family member of the
+State Treasurer; and
+b) investing in speculative investments.
+3. Specifies that the interests of the State Treasurer's office must take precedence over any personal
+interests of the State Treasurer.
+4. Requires the State Treasurer to establish and oversee an investment advisory team and prescribes
+investment advisory team membership.
+5. Requires the investment advisory team to meet as necessary to review and make appropriate
+recommendations to the State Board of Investment pertaining to investment performance and
+strategies and prioritizing safety and principal preservation before liquidity and yield.
+6. Adds, to the statutory restrictions on the State Treasurer's investment of public monies, a
+prohibition against investments in real estate using permanent land funds or any fund administered
+by the State Treasurer.
+7. Requires the State Treasurer to manage the Local Government Investment Pool by using only
+employees of the State Treasurer’s Office and allows the State Treasurer to confer with the State
+Board of Investment as necessary.
+8. Allows the State Treasurer to enter into a contract with a third party as a contingency if the State
+Treasurer is unable to conduct their fiduciary duty only for the time period that the State Treasurer's
+Office is unable to conduct such fiduciary duty.
+9. Defines terms.
+10. Makes technical changes.
+Amendment explanation prepared by Molly Graver
+6/10/2026
+
+Fifty-seventh Legislature Kavanagh
+Second Regular Session H.B. 2477
+ADDITIONAL COW
+KAVANAGH FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2477
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 15-1871, Arizona Revised Statutes, is amended to
+3 read:
+4 15-1871. Definitions
+5 In this article, unless the context otherwise requires:
+6 1. "Account" means an individual trust account in the fund that is
+7 established as prescribed in this article.
+8 2. "Account owner" means the person who enters into a tuition
+9 savings agreement pursuant to this article, who is an account owner within
+10 the meaning of section 529 of the internal revenue code and who is
+11 designated at the time an account is opened as having the right to
+12 withdraw monies from the account before the account is disbursed to or for
+13 the benefit of the designated beneficiary.
+14 3. "Board" means the state board of investment.
+15 4. "Designated beneficiary" means a person who qualifies as a
+16 designated beneficiary under section 529 of the internal revenue code and,
+17 except as provided in section 15-1875, subsections P and Q, with respect
+18 to an account, who is designated at the time the account is opened as the
+19 person whose qualified higher education expenses are expected to be paid
+20 from the account or, if this designated beneficiary is replaced in
+21 accordance with section 15-1875, subsections D, E and F, the replacement
+22 beneficiary.
+23 5. "Eligible educational institution" means an institution of
+24 higher education that qualifies under section 529 of the internal revenue
+25 code as an eligible educational institution.
+26 6. "Financial institution" means the state treasurer's office or
+27 any bank, commercial bank, national bank, savings bank, savings and loan
+
+Senate Amendments to H.B. 2477
+1 association, credit union, insurance company, brokerage firm or other
+2 similar entity that is authorized to do business in this state.
+3 7. "Fund" means AZ529, Arizona's education savings plan trust fund
+4 that constitutes a public instrumentality of this state and that is
+5 established by section 15-1873.
+6 8. "Member of the family" means any of the following:
+7 (a) A son or daughter of a person or a descendant of the son or
+8 daughter of the person.
+9 (b) A stepson or stepdaughter of a person.
+10 (c) A brother, sister, stepbrother or stepsister of a person. For
+11 the purposes of this subdivision, "brother" and "sister" includes a
+12 brother or sister by the half-blood.
+13 (d) The father or mother of a person or the ancestor of the father
+14 or mother of a person.
+15 (e) A stepfather or stepmother of a person.
+16 (f) A son or daughter of a person's brother or sister. For the
+17 purposes of this subdivision, "brother" and "sister" includes a brother or
+18 sister by the half-blood.
+19 (g) A brother or sister of the person's father or mother. For the
+20 purposes of this subdivision, "brother" and "sister" includes a brother or
+21 sister by the half-blood.
+22 (h) A son-in-law, daughter-in-law, father-in-law, mother-in-law,
+23 brother-in-law or sister-in-law of a person.
+24 (i) The spouse of a person or the spouse of any individual
+25 described in this paragraph.
+26 (j) A first cousin of a person.
+27 (k) Any individual who meets the criteria for family membership
+28 described in this paragraph as a result of legal adoption. HAS THE SAME
+29 MEANING PRESCRIBED IN SECTION 529 OF THE INTERNAL REVENUE CODE.
+30 9. "Nonqualified withdrawal" means a withdrawal from an account
+31 other than one of the following:
+32 (a) A qualified withdrawal.
+33 (b) A withdrawal made as the result of the death or disability of
+34 the designated beneficiary of an account.
+35 (c) A withdrawal that is made on the account of a scholarship, or
+36 the allowance or payment described in section 135(d)(1)(B) or (C) of the
+37 internal revenue code, and that is received by the designated beneficiary,
+38 but only to the extent of the amount of this scholarship, allowance or
+39 payment.
+40 (d) A rollover or change of designated beneficiary.
+41 10. "Person" means an individual, an individual's legal
+42 representative or any other legal entity authorized to establish a savings
+43 account under section 529 of the internal revenue code and the
+44 corresponding regulations.
+45 11. "Plan" means AZ529, Arizona's education savings plan that is
+46 established under this article and that constitutes a qualified tuition
+47 program as defined in section 529 of the internal revenue code.
+-2-
+
+Senate Amendments to H.B. 2477
+1 12. "Qualified higher education expenses" :
+2 (a) Means:
+3 (i) Tuition, fees, books, supplies, room and board and equipment
+4 required for a designated beneficiary to enroll at or attend an eligible
+5 educational institution.
+6 (ii) Expenses for special needs services in the case of a special
+7 needs beneficiary that are incurred in connection with enrolling or
+8 attending, if these expenses meet the definition of qualified higher
+9 education expenses in section 529 of the internal revenue code.
+10 (iii) Expenses to purchase a computer, peripheral equipment,
+11 computer software or internet access and related services if the computer
+12 equipment, software or services are to be used primarily by the
+13 beneficiary during the years the beneficiary is enrolled at an eligible
+14 educational institution and if these expenses meet the definition of
+15 qualified higher education expenses in section 529 of the internal revenue
+16 code.
+17 (iv) Expenses for fees, books, supplies and equipment required for
+18 a designated beneficiary to participate in an apprenticeship program that
+19 is registered and certified with the United States secretary of labor
+20 under section 1 of the national apprenticeship act (50 Stat. 664; 29
+21 United States Code section 50) if these expenses meet the definition of
+22 qualified higher education expenses in section 529 of the internal revenue
+23 code.
+24 (b) Includes tuition to enroll in or attend an elementary or
+25 secondary public, private or religious school pursuant to section 529 of
+26 the internal revenue code.
+27 (c) Includes amounts paid as principal or interest on any qualified
+28 education loan as defined in section 221(d) of the internal revenue code
+29 of the designated beneficiary or a brother, sister, stepbrother or
+30 stepsister of the designated beneficiary pursuant to section 529 of the
+31 internal revenue code. HAS THE SAME MEANING PRESCRIBED IN SECTION 529 OF
+32 THE INTERNAL REVENUE CODE, AS MODIFIED BY 26 UNITED STATES CODE SECTION
+33 529(c)(7) AND (9).
+34 13. "Qualified withdrawal" means a withdrawal from an account to
+35 pay any of the following:
+36 (a) the qualified higher education expenses of the designated
+37 beneficiary of the account, but only if the withdrawal is made in
+38 accordance with this article, SUBJECT TO THE FOLLOWING LIMITATIONS: .
+39 (b) (a) Tuition of less than $10,000 NOT MORE THAN $20,000 IN THE
+40 AGGREGATE FOR EXPENSES INCURRED FOR THE DESIGNATED BENEFICIARY to enroll
+41 in or attend an elementary or secondary public, private or religious
+42 school pursuant to section 529 of the internal revenue code of the
+43 designated beneficiary of the account, but only if the withdrawal is made
+44 in accordance with this article.
+45 (c) (b) NOT MORE THAN $10,000 FOR amounts paid as principal or
+46 interest on any qualified education loan as defined in section 221(d) of
+47 the internal revenue code of the designated beneficiary or a brother,
+-3-
+
+Senate Amendments to H.B. 2477
+1 sister, stepbrother or stepsister of the designated beneficiary, but only
+2 if the withdrawal is made in accordance with this article. The amount of
+3 qualified withdrawals under this article with respect to the loans of any
+4 designated beneficiary or a brother, sister, stepbrother or stepsister of
+5 the designated beneficiary may not exceed $10,000, reduced by the amount
+6 of withdrawals so treated for all prior taxable years.
+7 14. "Section 529 of the internal revenue code" means section 529 of
+8 the internal revenue code of 1986, as amended, and the final regulations
+9 issued pursuant to that section.
+10 15. "Treasurer" means the state treasurer.
+11 16. "Trust interest" means an account owner's interest in the fund
+12 created by a tuition savings agreement for the benefit of a designated
+13 beneficiary.
+14 17. "Tuition savings agreement" means an agreement between the
+15 board, as trustee of the fund, and an account owner that creates an
+16 interest in the fund and that provides for participation in the plan.
+17 Sec. 2. Section 15-1875, Arizona Revised Statutes, is amended to
+18 read:
+19 15-1875. Plan requirements
+20 A. The plan shall be operated through the use of accounts in the
+21 fund established by account owners. ACCOUNT OWNERS SHALL MAKE payments to
+22 the fund for participation TO PARTICIPATE in the plan shall be made by
+23 account owners pursuant to tuition savings agreements. An account may be
+24 opened by any person who desires to invest in the fund and to save to pay
+25 qualified higher education expenses by satisfying each of the following
+26 requirements:
+27 1. Completing an application in the form prescribed by the
+28 treasurer. The application shall include the following information:
+29 (a) The name, address and social security number or employer
+30 identification number of the contributor.
+31 (b) (a) The name, address and social security number of the
+32 account owner if the account owner is not the contributor.
+33 (c) (b) The name, address and social security number of the
+34 designated beneficiary.
+35 (d) (c) The certification relating to no excess contributions
+36 required by subsection L of this section.
+37 (e) (d) Any other information that the treasurer may require.
+38 2. Paying the onetime application fee established by the treasurer.
+39 3. Making the minimum contribution required by the treasurer or by
+40 opening an account.
+41 4. Designating the type of account to be opened if more than one
+42 type of account is offered.
+43 B. Any person may make contributions to an account after the
+44 account is opened.
+45 C. Contributions to accounts may be made only in cash.
+46 D. An account owner may change the designated beneficiary of an
+47 account to an individual who is a member of the family of the former
+-4-
+
+Senate Amendments to H.B. 2477
+1 designated beneficiary in accordance with procedures established by the
+2 treasurer.
+3 E. On the direction of an account owner, all or a portion of an
+4 account may be transferred to another account of which the designated
+5 beneficiary is a member of the family of the designated beneficiary of the
+6 transferee account.
+7 F. Changes in designated beneficiaries and rollovers under this
+8 section are not allowed if the changes or rollovers would violate either
+9 of the following:
+10 1. Subsection L of this section, relating to excess contributions.
+11 2. Subsection I of this section, relating to investment choice.
+12 G. Each account shall be maintained separately from each other
+13 account under the plan.
+14 H. Separate records and accounting shall be maintained for each
+15 account for each designated beneficiary.
+16 I. A contributor to, account owner of or designated beneficiary of
+17 any account may not direct the investment, within the meaning of section
+18 529 of the internal revenue code, of any contributions to an account or
+19 the earnings from the account.
+20 J. If the treasurer terminates the authority of a financial
+21 institution to hold accounts and accounts must be moved from that
+22 financial institution to another financial institution, the treasurer
+23 shall select the financial institution and type of investment to which the
+24 balance of the account is moved unless the internal revenue service
+25 provides guidance stating that allowing the account owner to select among
+26 several financial institutions that are then contractors would not cause a
+27 plan to cease to be a qualified tuition plan.
+28 K. Neither an account owner nor a designated beneficiary may use an
+29 interest in an account as security for a loan. Any pledge of an interest
+30 in an account is of no force and effect.
+31 L. On the recommendation of the treasurer, the board shall adopt
+32 rules to prevent contributions on behalf of a designated beneficiary in
+33 excess of those necessary to pay the qualified higher education expenses
+34 of the designated beneficiaries. The rules shall address the following:
+35 1. Procedures for aggregating the total balances of multiple
+36 accounts established for a designated beneficiary.
+37 2. The establishment of a maximum total balance for the purpose of
+38 prohibiting contributions to accounts established for a designated
+39 beneficiary if the contributions would cause the maximum total balance to
+40 be exceeded.
+41 3. The board shall review the quarterly reports received from
+42 participating financial institutions and certify that the balance in all
+43 qualified tuition programs, as defined in section 529 of the internal
+44 revenue code, of which that person is the designated beneficiary does not
+45 exceed the lesser of:
+46 (a) A maximum college savings amount established by the board from
+47 time to time.
+-5-
+
+Senate Amendments to H.B. 2477
+1 (b) The cost in current dollars of qualified higher education
+2 expenses that the contributor reasonably anticipates the designated
+3 beneficiary will incur.
+4 4. Requirements that any excess contributions with respect to a
+5 designated beneficiary be promptly withdrawn in a nonqualified withdrawal
+6 or rolled over to another account in accordance with this section.
+7 M. If there is any distribution from an account to any person or
+8 for the benefit of any person during a calendar year, the distribution
+9 shall be reported to the internal revenue service and the account owner or
+10 the designated beneficiary to the extent required by federal law.
+11 N. The financial institution shall provide statements to each
+12 account owner at least once each year within thirty-one days after the
+13 twelve-month period to which they THE STATEMENTS relate. The EACH
+14 statement shall identify the contributions made during a preceding twelve-
+15 month period, the total contributions made through the end of the period,
+16 the value of the account as of the end of this period, distributions made
+17 during this period and any other matters that the treasurer requires be
+18 reported to the account owner.
+19 O. Statements and information returns relating to accounts shall be
+20 prepared and filed to the extent required by federal or state tax law.
+21 P. A state or local government or organizations described in
+22 section 501(c)(3) of the internal revenue code may open and become the
+23 account owner of an account to fund scholarships for persons whose
+24 identity will be determined after an account is opened.
+25 Q. In the case of any account described in subsection P of this
+26 section, the requirement that a designated beneficiary be designated when
+27 an account is opened does not apply and each person who receives an
+28 interest in the account as a scholarship shall be treated as a designated
+29 beneficiary with respect to the interest.
+30 R. Any social security numbers, addresses or telephone numbers of
+31 individual account holders OWNERS and designated beneficiaries that come
+32 into the possession of the treasurer are confidential, are not public
+33 records and shall not be released by the treasurer.
+34 S. An account owner may transfer ownership rights to another
+35 eligible account owner.
+36 T. An account owner may designate successor account owners.
+37 U. Through December 31, 2025, On direction of an account owner, up
+38 to $15,000 ALL OR A PORTION of an account may roll over BE TRANSFERRED to
+39 an achieving a better life experience act account established pursuant to
+40 26 United States Code section 529A IF THE DESIGNATED BENEFICIARY OF THE
+41 ACCOUNT THAT IS ESTABLISHED PURSUANT TO THIS ARTICLE IS EITHER THE
+42 DESIGNATED BENEFICIARY OR A MEMBER OF THE FAMILY OF THE DESIGNATED
+43 BENEFICIARY OF THE TRANSFEREE ACCOUNT.
+44 V. ON DIRECTION OF AN ACCOUNT OWNER, ALL OR A PORTION OF AN ACCOUNT
+45 MAY BE TRANSFERRED TO A ROTH INDIVIDUAL RETIREMENT ACCOUNT THAT SATISFIES
+46 THE REQUIREMENTS OF SECTION 408A OF THE INTERNAL REVENUE CODE IF ALL OF
+47 THE FOLLOWING CONDITIONS ARE MET:
+-6-
+
+Senate Amendments to H.B. 2477
+1 1. THE ACCOUNT ESTABLISHED PURSUANT TO THIS ARTICLE IS MAINTAINED
+2 BY THE DESIGNATED BENEFICIARY FOR AT LEAST FIFTEEN YEARS BEFORE THE
+3 TRANSFER DATE.
+4 2. THE MONIES THAT ARE TRANSFERRED PURSUANT TO THIS SUBSECTION ARE
+5 DERIVED FROM CONTRIBUTIONS THAT WERE MADE TO THE ACCOUNT ESTABLISHED
+6 PURSUANT TO THIS SECTION AT LEAST FIVE YEARS BEFORE THE TRANSFER DATE AND
+7 FROM THE EARNINGS ATTRIBUTABLE TO THOSE CONTRIBUTIONS.
+8 3. THE DESIGNATED BENEFICIARY OF THE ACCOUNT THAT IS ESTABLISHED
+9 PURSUANT TO THIS ARTICLE IS THE DESIGNATED BENEFICIARY OF THE ROTH
+10 INDIVIDUAL RETIREMENT ACCOUNT TO WHICH THE TRANSFER IS MADE.
+11 4. THE TOTAL AMOUNT OF MONIES TRANSFERRED PURSUANT TO THIS
+12 SUBSECTION AND ALL OTHER CONTRIBUTIONS TO THE ROTH INDIVIDUAL RETIREMENT
+13 ACCOUNT FOR THE DESIGNATED BENEFICIARY IN ANY YEAR DO NOT EXCEED THE
+14 ANNUAL ROTH INDIVIDUAL RETIREMENT ACCOUNT CONTRIBUTION LIMIT FOR THE
+15 DESIGNATED BENEFICIARY.
+16 5. THE AGGREGATE AMOUNT OF MONIES TRANSFERRED FROM ANY ACCOUNT THAT
+17 IS ESTABLISHED PURSUANT TO THIS ARTICLE TO ALL ROTH INDIVIDUAL RETIREMENT
+18 ACCOUNTS FOR THE DESIGNATED BENEFICIARY DOES NOT EXCEED $35,000.
+19 <<Sec. 3. Section 35-323, Arizona Revised Statutes, is amended to
+20 read:
+21 35-323. Investment of public monies; bidding; security and
+22 other requirements
+23 A. The treasurer shall invest and reinvest public monies in
+24 securities and deposits with a maximum maturity of five years. All public
+25 monies shall be invested in eligible investments. Eligible investments
+26 are:
+27 1. Certificates of deposit in eligible depositories.
+28 2. Deposits in one or more federally insured banks or savings and
+29 loan associations placed in accordance with the procedures prescribed in
+30 section 35-323.01.
+31 3. [Interest bearing] [INTEREST-BEARING] savings accounts in banks
+32 and savings and loan institutions doing business in this state whose
+33 accounts are insured by federal deposit insurance for their industry, but
+34 only if deposits of more than the insured amount are secured by the
+35 eligible depository to the same extent and in the same manner as required
+36 under this article.
+37 4. Repurchase agreements with a maximum maturity of one hundred
+38 eighty days.
+39 5. The pooled investment funds established by the state treasurer
+40 pursuant to section 35-326.
+41 6. Obligations issued or guaranteed by the United States or any of
+42 the senior debt of its agencies, sponsored agencies, corporations,
+43 sponsored corporations or instrumentalities.
+44 7. Bonds, notes or other evidences of indebtedness of this state or
+45 any of its counties, incorporated cities or towns, school districts or
+46 special taxing districts, including registered warrants, substitute
+-7-
+
+Senate Amendments to H.B. 2477
+1 checks, and electronic funds transfer vouchers that bear interest pursuant
+2 to section 11-635.
+3 8. Bonds, notes or evidences of indebtedness of any county,
+4 municipal district, municipal utility or special taxing district of any
+5 state that are payable from revenues, earnings or a special tax
+6 specifically pledged for the payment of the principal of and interest on
+7 the obligations, and for the payment of which a lawful sinking fund or
+8 reserve fund has been established and is being maintained, but only if a
+9 default in payment on principal or interest on the obligations to be
+10 purchased has not occurred within five years after the date of investment,
+11 or, if such obligations were issued [less] [FEWER] than five years before
+12 the date of investment, a default in payment of principal or interest has
+13 not occurred on the obligations to be purchased or any other obligations
+14 of the issuer within five years after the investment.
+15 9. Bonds, notes or evidences of indebtedness issued by any county
+16 improvement district or municipal improvement district of any state to
+17 finance local improvements authorized by law, if the principal and
+18 interest of the obligations are payable from assessments on real property
+19 within the improvement district. An investment shall not be made if:
+20 (a) The face value of all such obligations, and similar obligations
+21 outstanding, exceeds fifty percent of the market value of the real
+22 property, and if improvements on which the bonds or the assessments for
+23 the payment of principal [OF] and interest on the bonds are liens inferior
+24 only to the liens for general ad valorem taxes.
+25 (b) A default in payment of principal [OF] or interest on the
+26 obligations to be purchased has occurred within five years after the date
+27 of investment, or, if the obligations were issued [less] [FEWER] than five
+28 years before the date of investment, a default in the payment of principal
+29 or interest has occurred on the obligations to be purchased or on any
+30 other obligation of the issuer within five years after the investment.
+31 10. Commercial paper of prime quality that is rated within the top
+32 two ratings by a nationally recognized rating agency. All commercial
+33 paper must be issued by corporations organized and doing business in the
+34 United States.
+35 11. Bonds, debentures, notes or other evidences of indebtedness
+36 that are denominated in United States dollars and that carry at a minimum
+37 an "A" or better rating, at the time of purchase, from at least two
+38 nationally recognized rating agencies.
+39 12. Negotiable or brokered certificates of deposit issued by a
+40 nationally or state-chartered bank or savings and loan association.
+41 13. Securities of or any other interests in any open-end or
+42 closed-end management type investment company or investment trust,
+43 including exchange traded funds whose underlying investments are invested
+44 in securities allowed by state law, registered under the investment
+45 company act of 1940 (54 Stat. 789; 15 United States Code sections 80a-1
+46 through 80a-64), as amended.
+-8-
+
+Senate Amendments to H.B. 2477
+1 B. Certificates of deposit shall be purchased from the eligible
+2 depository bidding the highest permissible rate of interest. Monies over
+3 $100,000 may not be awarded at any interest rate less than one hundred
+4 three percent of the equivalent bond yield of the offer side of United
+5 States treasury bills having a similar term. If the eligible depository
+6 offering to pay the highest rate of interest has bid only for a portion of
+7 the monies to be awarded, the remainder of the monies shall be awarded to
+8 eligible depositories bidding the next highest rates of interest.
+9 C. An eligible depository is not eligible to receive total
+10 aggregate deposits from this state and all its subdivisions in an amount
+11 exceeding twice its capital structure as outlined in the last call of
+12 condition of the deputy director of the financial institutions division of
+13 the department of insurance and financial institutions.
+14 D. If two or more eligible depositories submit bids of an identical
+15 rate of interest for all or any portion of the monies to be deposited, the
+16 award of the deposit of the monies shall be made to the eligible
+17 depository among those submitting identical bids having, at the time of
+18 the bid opening, the lowest ratio of total public deposits in relation to
+19 its capital structure.
+20 E. Each bid that is submitted and not withdrawn before the time
+21 specified constitutes an irrevocable offer to pay interest as specified in
+22 the bid on the deposit, or portion bid for, and the award of a deposit in
+23 accordance with this section obligates the depository to accept the
+24 deposit and pay interest as specified in the bid pursuant to which the
+25 deposit is awarded.
+26 F. The treasurer shall maintain a record of all bids received and
+27 shall make available to the board of deposit at its next regularly
+28 scheduled meeting a correct list showing the bidders, the bids received
+29 and the amount awarded. These records shall be available to the public
+30 and shall be kept in the possession of the treasurer for at least two
+31 years after the date of the report.
+32 G. Any eligible depository, before receiving a deposit of more than
+33 the insured amount under this article, shall deliver collateral for the
+34 purposes of this subsection equal to at least one hundred two percent of
+35 the deposit. The collateral shall be any of the following:
+36 1. A bond executed by a surety company that is approved by the
+37 treasury department of the United States and authorized to do business in
+38 this state. The bond shall be approved as to form by the legal advisor of
+39 the treasurer.
+40 2. Securities or instruments of the following character:
+41 (a) United States government or agency obligations.
+42 (b) State, county, school district and other district municipal
+43 bonds.
+44 3. The safekeeping receipt of a federal reserve bank or any bank
+45 located in a reserve city, or any bank authorized to do business in this
+46 state, whose combined capital, surplus and outstanding capital notes and
+47 debentures on the date of the safekeeping receipt are $10,000,000 or more,
+-9-
+
+Senate Amendments to H.B. 2477
+1 evidencing the deposit therein of any securities or instruments described
+2 in this section. A safekeeping receipt shall not qualify as security, if
+3 issued by a bank to secure its own public deposits, unless issued directly
+4 through its trust department. The safekeeping receipt shall show on its
+5 face that it is issued for the account of the treasurer and shall be
+6 delivered to the treasurer. The safekeeping receipt may provide for the
+7 substitution of securities or instruments that qualify under this section
+8 with the affirmative act of the treasurer.
+9 4. Letters of credit issued by a federal home loan bank if:
+10 (a) The letter of credit has been delivered pursuant to this
+11 section or chapter 10, article 1 of this title to the statewide collateral
+12 pool administrator.
+13 (b) The letter of credit meets the required conditions of:
+14 (i) Being irrevocable.
+15 (ii) Being issued, presentable and payable at a federal home loan
+16 bank in United States dollars. Presentation may be made by the
+17 beneficiary submitting the original letter of credit, including any
+18 amendments, and the demand in writing, by overnight delivery.
+19 (iii) If the letter of credit is for purposes of chapter 10,
+20 article 1 of this title, containing a statement that identifies the
+21 statewide collateral pool administrator as the beneficiary.
+22 (iv) Containing an issue date and a date of expiration.
+23 (c) For the purposes of chapter 10, article 1 of this title, the
+24 eligible depository, if notified by the statewide collateral pool
+25 administrator, is not allowed to use new letters of credit issued by a
+26 federal home loan bank if that federal home loan bank fails to pay a draw
+27 request as provided for in the letters of credit or fails to properly
+28 complete a confirmation of such letters of credit.
+29 H. The securities, instruments or safekeeping receipt for the
+30 securities and instruments shall be accepted at market value if not above
+31 par, and, if at any time their market value becomes less than the deposit
+32 liability to that treasurer, additional securities or instruments required
+33 to guarantee deposits shall be deposited immediately with the treasurer
+34 who made the deposit and deposited by the eligible depository in which the
+35 deposit was made.
+36 I. The condition of the surety bond, or the deposit of securities,
+37 instruments or a safekeeping receipt, must be such that the eligible
+38 depository will promptly pay to the parties entitled public monies in its
+39 custody, on lawful demand, and will, when required by law, pay the monies
+40 to the treasurer making the deposit.
+41 J. Notwithstanding the requirements of this section, any
+42 institution qualifying as an eligible depository may accept deposits of
+43 public monies to the total then authorized insurance of accounts, insured
+44 by federal deposit insurance, without depositing a surety bond or
+45 securities in lieu of the surety bond.
+-10-
+
+Senate Amendments to H.B. 2477
+1 K. An eligible depository shall report monthly to the treasurer the
+2 total deposits of that treasurer and the par value and the market value of
+3 any pledged collateral securing those deposits.
+4 L. When a security or instrument pledged as collateral matures or
+5 is called for redemption, the cash received for the security or instrument
+6 shall be held in place of the security until the depository has obtained a
+7 written release or provided substitute securities or instruments.
+8 M. The surety bond, securities, instruments or safekeeping receipt
+9 of an eligible depository shall be deposited with the treasurer making the
+10 deposit, and the treasurer is the custodian of the bond, securities,
+11 instruments or safekeeping receipt. The treasurer may then deposit with
+12 the depository public monies then in the treasurer's possession in
+13 accordance with this article, but not in an amount of more than the surety
+14 bond, securities, instruments or safekeeping receipt deposited, except for
+15 federal deposit insurance.
+16 N. The following restrictions on investments apply:
+17 1. Public operating fund monies shall not be invested for a
+18 maturity of longer than five years.
+19 2. The board of deposit may order the treasurer to sell any of the
+20 securities, and any order shall specifically describe the securities and
+21 fix the date on which they are to be sold. Securities so ordered to be
+22 sold shall be sold for cash by the treasurer on the date fixed in the
+23 order, at the then-current market price. The treasurer and the members of
+24 the board are not accountable for any loss occasioned by sales of
+25 securities at prices lower than their cost. Any loss or expense shall be
+26 charged against earnings received from investment of public monies.
+27 3. Investments shall not be made in companies identified pursuant
+28 to section 35-392, subsection A, paragraph 1.
+29 [4. INVESTMENTS IN REAL ESTATE MAY NOT BE MADE BY THE PERMANENT
+30 LAND FUNDS OR ANY FUND THAT IS ADMINISTERED BY THE STATE TREASURER. FOR
+31 THE PURPOSES OF THIS PARAGRAPH, "REAL ESTATE" HAS THE SAME MEANING
+32 PRESCRIBED IN SECTION 32-2101.]
+33 O. If the total amount of subdivision monies available for deposit
+34 at any time is less than the maximum coverage amount of the federal
+35 deposit insurance corporation, the subdivision board of deposit shall
+36 award the deposit of the monies to an eligible depository in accordance
+37 with an ordinance or resolution of the governing body of the subdivision.
+38 Deposits of less than the maximum coverage amount of the federal deposit
+39 insurance corporation are not subject to the requirements of this
+40 chapter.>>
+41 <<Sec. 4. Section 35-326, Arizona Revised Statutes, is amended to
+42 read:
+43 35-326. Local government investment pool: definition
+44 A. The state treasurer may maintain one or more pooled investment
+45 funds for the collective investment of monies in this state. Securities
+46 or other instruments in which the monies may be invested are those that
+47 are provided for in article 2 of this chapter.
+-11-
+
+Senate Amendments to H.B. 2477
+1 B. The state treasurer may deposit state monies in a pooled
+2 investment fund and may also receive into a fund monies that are deposited
+3 by any political subdivision or public entity in this state or public
+4 trust that is legally authorized or required to deposit monies with the
+5 state treasurer for investment. When a depositor provides monies to a
+6 pooled investment fund, the state treasurer may require the depositor to
+7 specify the date or dates on which it will require the monies. The assets
+8 of a pooled investment fund shall be invested by the state treasurer for
+9 such periods as will facilitate the return of the monies to the depositing
+10 entities in accordance with the instructions received at the time of
+11 deposit. Earnings shall be credited promptly after calculation.
+12 C. The state treasurer shall compute on a monthly basis the rate of
+13 earnings on the pooled investment fund for that month, and each depositor
+14 shall be credited with an amount determined by applying the calculated
+15 monthly rate to the principal amount of its deposit balance for the period
+16 of the deposit. Interest shall be credited monthly.
+17 D. The governing body of any political subdivision, public trust or
+18 public entity, by adopting a resolution of continuing effect, may
+19 authorize and request the state treasurer to invest monies for the
+20 governing body pursuant to this section.
+21 [E. IF THE STATE TREASURER ESTABLISHES A LOCAL GOVERNMENT
+22 INVESTMENT POOL PURSUANT TO THIS SECTION, THE STATE TREASURER SHALL MANAGE
+23 THE LOCAL GOVERNMENT INVESTMENT POOL BY USING ONLY EMPLOYEES OF THE OFFICE
+24 OF THE STATE TREASURER AND MAY CONFER WITH THE STATE BOARD OF INVESTMENT
+25 AS NECESSARY. THE STATE TREASURER MAY ENTER INTO A CONTRACT WITH A THIRD
+26 PARTY AS A CONTINGENCY IF THE STATE TREASURER IS UNABLE TO CONDUCT THE
+27 STATE TREASURER'S FIDUCIARY DUTY ONLY FOR THE PERIOD OF TIME THAT THE
+28 STATE TREASURER'S OFFICE IS UNABLE TO CONDUCT SUCH FIDUCIARY DUTY.]
+29 [E.] [F.] For the purposes of this section, "political subdivision"
+30 means any governmental entity operating under the authority of this state,
+31 including a city, town, county, school district or community college
+32 district or any other entity organized under state law.>>
+33 <<Sec. 5. Section 41-172, Arizona Revised Statutes, is amended to
+34 read:
+35 41-172. Powers and duties; administering oaths; appointment
+36 of deputy state treasurer; conflicts of interest;
+37 definitions
+38 A. The state treasurer shall:
+39 1. Authenticate writings and documents certified by the state
+40 treasurer with the seal of the state treasurer's office.
+41 2. Receive and keep in secure custody all monies that belong to
+42 this state and that are not required to be received and kept by some
+43 other person.
+44 3. File and keep the documentation delivered to the treasurer when
+45 monies are deposited into the treasury.
+-12-
+
+Senate Amendments to H.B. 2477
+1 4. Deliver to each person depositing money into the treasury a
+2 confirmation showing the date, amount and depositing agency and shall
+3 provide a unique identifying number for each confirmation.
+4 5. Pay warrants drawn by the department of administration in the
+5 order in which they are presented.
+6 6. Keep an account of all monies received and disbursed, and keep
+7 separate accounts of the different funds and appropriations of monies.
+8 7. Give information in writing as to the condition of the state
+9 treasury, or on any subject relating to the duties of the treasurer, at
+10 the request of a member of the legislature.
+11 8. Deliver to the governor and the department of administration,
+12 monthly, an accurate statement of receipts and expenditures of public
+13 monies for the preceding month, containing a complete exhibit of all the
+14 public monies received and paid from the state treasury, showing, under
+15 separate heads, on what accounts and from what sources received, and for
+16 what particular object or service the monies have been paid. The
+17 treasurer shall deliver to the governor a similar statement on or before
+18 November 1 each year for the preceding fiscal year. The statement shall
+19 also include an estimate of the invested balance, including the [STATE]
+20 general fund share of that balance as of June 30 of the preceding fiscal
+21 year. The statements are public records available for inspection at the
+22 office of the state treasurer.
+23 9. On or before February 1 of each year, in coordination with the
+24 director of the department of administration, submit to the joint
+25 legislative budget committee a report explaining any differences between
+26 the department of administration's estimate of the previous fiscal year's
+27 state general fund ending balance submitted pursuant to section 35-131 and
+28 the state treasurer's estimate of the invested balance, including the
+29 state general fund share of that balance as of June 30 of the previous
+30 fiscal year submitted pursuant to paragraph 8 of this subsection.
+31 10. Exercise those specific powers of the surveyor-general as a
+32 member of the selection board established under section 37-202.
+33 11. Administer AZ529, Arizona's education savings plan established
+34 by title 15, chapter 14, article 7.
+35 12. Promote and raise awareness of financial literacy to residents
+36 of this state.
+37 [13. OVERSEE THE INVESTMENT ADVISORY TEAM ESTABLISHED PURSUANT TO
+38 SECTION 41-181.]
+39 B. The state treasurer may administer all oaths prescribed by law
+40 in matters touching the duties of the office of the state treasurer,
+41 subject to chapter 4, article 4 of this title, may appoint a deputy state
+42 treasurer, may qualify and select investment managers or advisors pursuant
+43 to section 35-318 and shall perform other duties required by other laws of
+44 this state.
+45 C. Employees of the state treasurer's office are subject to chapter
+46 4, article 4 of this title. For prospective or current employees of the
+47 state treasurer's office, the state treasurer may:
+-13-
+
+Senate Amendments to H.B. 2477
+1 1. Require the submission of a full set of fingerprints for the
+2 purpose of obtaining a state and federal criminal records check pursuant
+3 to section 41-1750 and Public Law 92-544. The department of public safety
+4 may exchange this fingerprint data with the federal bureau of
+5 investigation.
+6 2. Conduct a periodic review of credit standing.
+7 [D. THE STATE TREASURER SHALL ONLY INVEST IN SAFE INVESTMENTS THAT
+8 PRIORITIZE SAFETY AND PRINCIPAL PRESERVATION BEFORE HIGH RETURNS,
+9 LIQUIDITY AND YIELD.
+10 E. THE STATE TREASURER MAY NOT DO ANY OF THE FOLLOWING:
+11 1. USE ANY INSIDER INFORMATION THAT IS OBTAINED WHILE PERFORMING
+12 OFFICIAL DUTIES TO KNOWINGLY BENEFIT ANOTHER PARTY OR FOR ANY PERSONAL
+13 GAIN OR FOR THE PERSONAL GAIN OF ANY FAMILY MEMBER OF THE STATE TREASURER.
+14 THE INTERESTS OF THE STATE TREASURER'S OFFICE SHALL TAKE PRECEDENCE OVER
+15 ANY PERSONAL INTERESTS OF THE STATE TREASURER.
+16 2. INVEST IN SPECULATIVE INVESTMENTS.
+17 F. FOR THE PURPOSES OF THIS SECTION:
+18 1. "INSIDER INFORMATION" INCLUDES ANY INVESTMENT DECISIONS, ANY
+19 INFORMATION REGARDING ANY INTERNAL AND EXTERNAL INVESTMENT PROGRAMS OR ANY
+20 ADVANTAGEOUS INVESTMENT OPPORTUNITIES THAT ARE NOT AVAILABLE TO THE
+21 PUBLIC, AND ANY OTHER NEGOTIATIONS, PROPOSED TRANSACTIONS OR BUSINESS
+22 INFORMATION.
+23 2. "KNOWINGLY BENEFIT ANOTHER PARTY" MEANS TO CONFER, OR ATTEMPT TO
+24 CONFER, A FINANCIAL OR OTHER TANGIBLE ADVANTAGE ON ANY PERSON OR ENTITY
+25 OTHER THAN THIS STATE OR A FUND, PROGRAM, ACCOUNT OR OTHER BENEFICIARY
+26 THAT THE STATE TREASURER IS EXPRESSLY AUTHORIZED OR REQUIRED BY LAW TO
+27 BENEFIT.
+28 3. "SPECULATIVE INVESTMENTS" MEANS ANY OF THE FOLLOWING:
+29 (a) ANY EQUITY SECURITY NOT TRADED ON A NATIONALLY RECOGNIZED
+30 EXCHANGE.
+31 (b) A BOND, DEBENTURE, NOTE OR OTHER EVIDENCE OF INDEBTEDNESS THAT
+32 IS NOT DENOMINATED IN UNITED STATES DOLLARS OR WHOSE ISSUER OR PARENT
+33 ISSUER DOES NOT CARRY AT LEAST A BBB- RATING, AT THE TIME OF PURCHASE,
+34 FROM A NATIONALLY RECOGNIZED RATING AGENCY.
+35 (c) HIGH-RISK FINANCIAL INVESTMENTS ON ASSETS WHOSE VALUE IS
+36 EXPECTED TO INCREASE SIGNIFICANTLY IN THE SHORT TERM AND THAT ARE OFTEN
+37 BASED ON FUTURE POTENTIAL RATHER THAN CURRENT INCOME-GENERATING
+38 ABILITY.]>>
+39 <<Sec. 6. Title 41, chapter 1, article 4, Arizona Revised Statutes,
+40 is amended by adding section 41-181, to read:
+41 41-181. Investment advisory team; membership; duties
+42 [A. THE STATE TREASURER SHALL ESTABLISH AN INVESTMENT ADVISORY
+43 TEAM. THE STATE TREASURER SHALL APPOINT ALL OF THE FOLLOWING MEMBERS TO
+44 THE INVESTMENT ADVISORY TEAM:
+45 1. THE DEPUTY TREASURER OR, IF ONE HAS NOT BEEN APPOINTED, A SENIOR
+46 DEPUTY IN THE STATE TREASURER'S OFFICE DESIGNATED IN WRITING BY THE STATE
+-14-
+
+Senate Amendments to H.B. 2477
+1 TREASURER TO FULFILL SUBSTANTIALLY SIMILAR RESPONSIBILITIES OF A DEPUTY
+2 TREASURER.
+3 2. THE STATE TREASURER'S CHIEF INVESTMENT OFFICER OR, IF ONE HAS
+4 NOT BEEN APPOINTED, THE MOST SENIOR INVESTMENT PROFESSIONAL WITH DAY‑TO‑DAY
+5 PORTFOLIO MANAGEMENT RESPONSIBILITIES DESIGNATED IN WRITING BY THE STATE
+6 TREASURER.
+7 3. THE STATE TREASURER'S DIRECTOR OF ENDOWMENTS OR, IF ONE HAS NOT
+8 BEEN APPOINTED, THE PERSON WHO IS PRIMARILY RESPONSIBLE FOR ENDOWMENT
+9 INVESTMENTS DESIGNATED IN WRITING BY THE STATE TREASURER.
+10 4. ANY ADDITIONAL MEMBERS AS DEEMED NECESSARY BY THE STATE
+11 TREASURER.
+12 B. THE INVESTMENT ADVISORY TEAM SHALL MEET AS NECESSARY TO REVIEW
+13 AND MAKE APPROPRIATE RECOMMENDATIONS TO THE STATE BOARD OF INVESTMENT
+14 PERTAINING TO INVESTMENT PERFORMANCE AND STRATEGIES AND TO PRIORITIZING
+15 SAFETY AND PRINCIPAL PRESERVATION BEFORE LIQUIDITY AND YIELD.]>>
+16 Enroll and engross to conform
+17 Amend title to conform
+JOHN KAVANAGH
+2477FloorKAVANAGH.docx
+06/09/2026
+04:06 PM
+C: AH
+130JILLAU
+-15-

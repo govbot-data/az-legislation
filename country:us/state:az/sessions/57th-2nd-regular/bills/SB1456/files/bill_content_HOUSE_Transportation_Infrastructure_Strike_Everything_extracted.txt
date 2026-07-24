@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Transportation & Infrastructure - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON TRANSPORTATION & INFRASTRUCTURE
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1456
+(Reference to Senate engrossed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 28-5101.01, Arizona Revised Statutes, is
+3 amended to read:
+4 28-5101.01. Authorized third party driver license providers;
+5 requirements
+6 A. Except as provided in section 28-5101.03, an authorized third
+7 party driver license provider must perform both of the following:
+8 1. Driver license skills and written testing.
+9 2. Driver license processing.
+10 B. A person who is a third party driver license provider authorized
+11 pursuant to this section may also be authorized pursuant to this article
+12 to perform certain title and registration functions.
+13 C. A person who applies for authorization pursuant to this section
+14 shall submit with the application all of the following:
+15 1. A bond in a form to be approved by the director and in an amount
+16 of at least $300,000 for an initial application for authorization pursuant
+17 to this section and an additional $100,000 for each additional location
+18 providing driver license functions prescribed in subsection A of this
+19 section, except that if the authorized third party is also authorized
+20 pursuant to this article to perform certain title and registration
+21 functions at the same location only a single $100,000 bond is required for
+22 that location. The total bond amount required by this paragraph shall not
+23 exceed $1,000,000. The bond requirements of this paragraph do not apply
+24 to government entities prescribed in section 28-5104, subsection E,
+25 paragraphs 1, 2, 3, 5, and 11 AND 12.
+26 2. Documentation that the applicant satisfies all of the following:
+27 (a) Has been an authorized third party pursuant to this chapter for
+28 at least the immediately preceding three years.
+29 (b) Has conducted an average of at least one thousand retention
+30 transactions per month for the previous calendar year.
+31 (c) Is in good standing with the department.
+32 (d) Has a facility plan for each location that shows adequate space
+33 and equipment necessary to perform the functions prescribed in subsection
+34 A of this section.
+35 3. Documentation that the applicant has during business hours at
+36 least one certified processor qualified to perform at a minimum all of the
+37 following at each location:
+38 (a) Fraudulent document recognition.
+39 (b) Ignition interlock requirements.
+
+House Amendments to S.B. 1456
+1 (c) Driver license reinstatements.
+2 D. A third party driver license provider authorized pursuant to
+3 this section must comply with all quality control requirements prescribed
+4 by the department.
+5 E. A third party driver license provider authorized pursuant to
+6 subsection A of this section may perform administrative functions or
+7 testing functions or both administrative functions and testing functions
+8 for the issuance and renewal of commercial driver licenses as authorized
+9 by the director and pursuant to federal law."
+10 Amend title to conform
+And, as so amended, it do pass
+LEO BIASIUCCI
+CHAIRMAN
+1456TRANSPORTATION INFRASTRUCTURE.docx
+03/25/2026
+04:46 PM
+C: JR
+130MTYSWB
+-2-

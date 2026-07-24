@@ -1,0 +1,278 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Health & Human Services
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON HEALTH & HUMAN SERVICES
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1628
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 20, chapter 15, article 1, Arizona Revised
+3 Statutes, is amended by adding section 20-2512, to read:
+4 20-2512. Health care services plans; claims denial practices;
+5 reporting requirements; definition
+6 A. ON OR BEFORE JULY 1, 2027 AND EACH JULY 1 THEREAFTER, A HEALTH
+7 CARE SERVICES PLAN SHALL REPORT TO THE DEPARTMENT ON A FORM PRESCRIBED BY
+8 THE DEPARTMENT THE FOLLOWING AGGREGATED DATA THAT RELATES TO THE HEALTH
+9 CARE SERVICES PLAN'S CLAIMS DENIAL PRACTICES FOR THE PRIOR YEAR:
+10 1. THE TOTAL NUMBER OF CLAIMS REQUESTS, INCLUDING THE TOTAL NUMBER
+11 OF CLAIMS REQUESTS THAT WERE NOT SUBMITTED ELECTRONICALLY.
+12 2. THE TOTAL NUMBER OF CLAIMS REQUESTS THAT WERE PARTIALLY DENIED
+13 AND THE TOTAL NUMBER OF CLAIMS REQUESTS THAT WERE COMPLETELY DENIED.
+14 3. THE TOTAL NUMBER OF APPEALS THAT WERE RECEIVED FOR ALL OF THE
+15 FOLLOWING LEVELS OF REVIEW:
+16 (a) INITIAL APPEAL.
+17 (b) VOLUNTARY INTERNAL APPEAL.
+18 (c) EXTERNAL INDEPENDENT REVIEW.
+19 (d) EXPEDITED MEDICAL REVIEW.
+20 (e) EXPEDITED APPEAL.
+21 (f) EXPEDITED EXTERNAL INDEPENDENT REVIEW.
+22 4. THE TOTAL NUMBER OF ADVERSE DETERMINATIONS THAT WERE PARTIALLY
+23 REVERSED ON APPEAL AND THE TOTAL NUMBER OF ADVERSE DETERMINATIONS THAT
+24 WERE [COMPLETELY] REVERSED ON APPEAL.
+25 [5. THE TOTAL NUMBER OF CLAIMS THAT WERE COMPLETELY DOWNCODED.]
+26 [6.] [5.] THE TOP TEN INPATIENT AND TOP TEN OUTPATIENT SERVICES
+27 CLAIMS THAT WERE DENIED IN EACH OF THE FOLLOWING CATEGORIES:
+28 (a) MEDICAL AND SURGICAL PROCEDURES.
+
+House Amendments to S.B. 1628
+1 (b) DIAGNOSTIC TESTS AND DIAGNOSTIC IMAGES.
+2 (c) BEHAVIORAL HEALTH SERVICES.
+3 (d) ORTHOPEDIC SERVICES.
+4 [7.] [6.] THE TOP FIVE REASONS WHY CLAIMS REQUESTS WERE DENIED.
+5 B. ON OR BEFORE OCTOBER 31, 2027 AND EACH OCTOBER 1 THEREAFTER, THE
+6 DEPARTMENT SHALL:
+7 1. [AGGREGATE] [COMPILE] THE DATA THAT IS COLLECTED UNDER
+8 SUBSECTION A OF THIS SECTION INTO A STANDARD REPORT. THE REPORT MUST
+9 SEPARATE EACH HEALTH CARE SERVICES PLAN THAT SUBMITTED DATA BY NAME AND
+10 MUST BE WRITTEN IN EASILY UNDERSTANDABLE LANGUAGE.
+11 2. POST THE REPORT ON THE DEPARTMENTS' PUBLICLY ACCESSIBLE WEBSITE.
+12 3. MAINTAIN AT LEAST THREE YEARS OF REPORTS ON THE DEPARTMENT'S
+13 PUBLICLY ACCESSIBLE WEBSITE.
+14 4. SEND A COPY OF THE REPORT TO THE SPEAKER OF THE HOUSE OF
+15 REPRESENTATIVES AND THE PRESIDENT OF THE SENATE.
+16 C. THE DIRECTOR MAY ADOPT RULES TO IMPLEMENT THIS SECTION.
+17 D. FOR THE PURPOSES OF THIS SECTION[,] [:
+18 1. "DOWNCODE" MEANS THE UNILATERAL ALTERATION BY A HEALTH CARE
+19 INSURER OF THE LEVEL OF EVALUATION AND MANAGEMENT SERVICE CODE OR OTHER
+20 SERVICE CODE THAT WAS SUBMITTED ON A CLAIM AND THAT RESULTED IN A LOWER
+21 PAYMENT.
+22 2.] "HEALTH CARE SERVICES PLAN" HAS THE SAME MEANING PRESCRIBED IN
+23 SECTION 20-3401.
+24 Sec. 2. Section 20-3102, Arizona Revised Statutes, is amended to
+25 read:
+26 20-3102. Timely payment of health care providers' claims;
+27 grievances
+28 A. A health care insurer shall adjudicate any clean claim from a
+29 contracted or noncontracted health care provider relating to health care
+30 insurance coverage within thirty days after the health care insurer
+31 receives the clean claim or within the time period specified by contract.
+32 Unless there is an express written contract between the health care
+33 insurer and the health care provider that specifies the period in which
+34 approved claims shall be paid, the health care insurer shall pay the
+35 approved portion of any clean claim within thirty days after the claim is
+36 adjudicated. If the claim is not paid within the thirty-day period or
+37 within the time period specified in the contract, the health care insurer
+38 shall pay interest on the claim at a rate that is equal to the legal rate.
+39 Interest shall be calculated beginning on the date that the payment to the
+40 health care provider is due.
+41 B. If the claim is not a clean claim and the health care insurer
+42 requires additional information to adjudicate the claim, the health care
+43 insurer shall send a written request for additional information to the
+44 contracted or noncontracted health care provider, enrollee or third party
+45 within thirty days after the health care insurer receives the claim. The
+46 health care insurer shall notify the contracted or noncontracted health
+47 care provider of all of the specific reasons for the delay in adjudicating
+-2-
+
+House Amendments to S.B. 1628
+1 the claim. The health care insurer shall record the date it receives the
+2 additional information and shall adjudicate the claim within thirty days
+3 after receiving all the additional information. The health care insurer
+4 shall also pay the approved portion of the adjudicated claim within the
+5 same thirty-day period allowed for adjudication or within the time period
+6 specified in the provider's contract. If the health care insurer fails to
+7 pay the claim as prescribed in this subsection, the health care insurer
+8 shall pay interest on the claim in the manner prescribed in subsection A
+9 of this section.
+10 C. A health care insurer shall not delay the payment of clean
+11 claims to a contracted or noncontracted provider or pay less than the
+12 amount agreed to by contract to a contracted health care provider without
+13 reasonable justification.
+14 D. A health care insurer shall not request information from a
+15 contracted or noncontracted health care provider that does not apply to
+16 the medical condition at issue for the purposes of adjudicating a clean
+17 claim.
+18 E. A health care insurer shall not request a contracted or
+19 noncontracted health care provider to resubmit claim information that the
+20 contracted or noncontracted health care provider can document it has
+21 already provided to the health care insurer unless the health care insurer
+22 provides a reasonable justification for the request and the purpose of the
+23 request is not to delay the payment of the claim.
+24 F. A health care insurer shall establish an internal system for
+25 resolving payment disputes and other contractual grievances with health
+26 care providers. The director may review the health care insurer's
+27 internal system for resolving payment disputes and other contractual
+28 grievances with health care providers. Each health care insurer shall
+29 maintain records of health care provider grievances. Semiannually each
+30 health care insurer shall provide the director with a summary of all
+31 records of health care provider grievances received during the prior six
+32 months. The records shall include at least the following information:
+33 1. The name and any identification number of the health care
+34 provider who filed a grievance.
+35 2. The type of grievance.
+36 3. The date the insurer received the grievance.
+37 4. The date the grievance was resolved.
+38 G. On review of the records, if the director finds a significant
+39 number of grievances that have not been resolved, the director may examine
+40 the health care insurer.
+41 H. This section does not require or authorize the director to
+42 adjudicate the individual contracts or claims between health care insurers
+43 and health care providers.
+44 I. On or before August OCTOBER 1 of each year, the director shall
+45 post a report on the department's publicly accessible website that
+46 includes the information prescribed in subsection F of this section for
+47 the prior fiscal year and that includes:
+-3-
+
+House Amendments to S.B. 1628
+1 1. The total number of grievances received.
+2 2. The average time to resolve a grievance.
+3 3. The percentage of grievances where a health care insurer's
+4 decision was overturned.
+5 J. Except in cases of fraud, a health care insurer or contracted or
+6 noncontracted health care provider shall not adjust or request adjustment
+7 of the payment or denial of a claim more than one year after the health
+8 care insurer has paid or denied that claim. If the health care insurer
+9 and health care provider agree through contract on a length of time to
+10 adjust or request adjustment of the payment of a claim, the health care
+11 insurer and health care provider must have the same length of time to
+12 adjust or request adjustment of the payment of the claim. If a claim is
+13 adjusted, neither the health care insurer nor the health care provider
+14 shall owe interest on the overpayment or underpayment resulting from the
+15 adjustment, as long as the adjusted payment is made or recoupment taken
+16 within thirty days of the date of the claim adjustment.
+17 K. This article does not apply to licensed health care providers
+18 who are salaried employees of a health care insurer.
+19 L. If a contracted or noncontracted health care provider files a
+20 claim or grievance with a health care insurer that has changed the
+21 location where providers were instructed to file claims or grievances, the
+22 health care insurer shall, for ninety days following the change:
+23 1. Consider a claim or grievance delivered to the original location
+24 properly received.
+25 2. Following receipt of a claim or grievance at the original
+26 location, promptly notify the health care provider of the change of
+27 address through mailed written notice or some other written communication.
+28 M. This section does not preclude a health care provider, with
+29 written informed consent of the patient, from collecting monies for a
+30 medical service that is either:
+31 1. Not covered under the insurance policy.
+32 2. Medically necessary and a payment on the claim was not made due
+33 to a denial on the basis of frequency or a disallowance on the basis of
+34 frequency. For the purposes of this paragraph, a provider is limited to
+35 the rates prescribed by that provider's fee schedule.
+36 N. Any claim that is subject to article 2 of this chapter is not
+37 subject to this article.
+38 Sec. 3. Title 20, chapter 26, article 1, Arizona Revised Statutes,
+39 is amended by adding section 20-3408, to read:
+40 20-3408. Health care services plans; prior authorization
+41 practices; reporting requirements; rules
+42 A. ON OR BEFORE JULY 1, 2027 AND EACH JULY 1 THEREAFTER, A HEALTH
+43 CARE SERVICES PLAN SHALL REPORT TO THE DEPARTMENT ON A FORM PRESCRIBED BY
+44 THE DEPARTMENT THE FOLLOWING AGGREGATED DATA THAT RELATES TO THE HEALTH
+45 CARE SERVICES PLAN'S PRIOR AUTHORIZATION PRACTICES FOR THE PRIOR YEAR:
+-4-
+
+House Amendments to S.B. 1628
+1 1. THE TOTAL NUMBER OF PRIOR AUTHORIZATION REQUESTS, INCLUDING THE
+2 TOTAL NUMBER OF PRIOR AUTHORIZATION REQUESTS THAT WERE NOT SUBMITTED
+3 ELECTRONICALLY.
+4 2. THE TOTAL NUMBER OF PRIOR AUTHORIZATION REQUESTS THAT WERE
+5 PARTIALLY DENIED AND THE TOTAL NUMBER OF PRIOR AUTHORIZATION REQUESTS THAT
+6 WERE COMPLETELY DENIED.
+7 3. THE TOTAL NUMBER OF APPEALS THAT WERE RECEIVED FOR ALL OF THE
+8 FOLLOWING LEVELS OF REVIEW:
+9 (a) INITIAL APPEAL.
+10 (b) VOLUNTARY INTERNAL APPEAL.
+11 (c) EXTERNAL INDEPENDENT REVIEW.
+12 (d) EXPEDITED MEDICAL REVIEW.
+13 (e) EXPEDITED APPEAL.
+14 (f) EXPEDITED EXTERNAL INDEPENDENT REVIEW.
+15 4. THE TOTAL NUMBER OF ADVERSE DETERMINATIONS THAT WERE PARTIALLY
+16 REVERSED ON APPEAL AND THE TOTAL NUMBER OF ADVERSE DETERMINATIONS THAT
+17 WERE COMPLETELY REVERSED ON APPEAL.
+18 5. THE TOP TEN INPATIENT AND TOP TEN OUTPATIENT SERVICES PRIOR
+19 AUTHORIZATION REQUESTS THAT WERE DENIED IN EACH OF THE FOLLOWING
+20 CATEGORIES:
+21 (a) MEDICAL AND SURGICAL PROCEDURES.
+22 (b) DIAGNOSTIC TESTS AND DIAGNOSTIC IMAGES.
+23 (c) BEHAVIORAL HEALTH.
+24 (d) ORTHOPEDIC SERVICES.
+25 6. THE TOP FIVE REASONS WHY PRIOR AUTHORIZATION REQUESTS WERE
+26 DENIED.
+27 7. THE AVERAGE AND MEDIAN TIME THAT ELAPSED BETWEEN THE SUBMISSION
+28 OF A REQUEST AND A DETERMINATION BY THE ISSUER FOR STANDARD PRIOR
+29 AUTHORIZATIONS.
+30 8. THE AVERAGE AND MEDIAN TIME THAT ELAPSED BETWEEN THE SUBMISSION
+31 OF A REQUEST AND A DETERMINATION BY THE ISSUER FOR EXPEDITED PRIOR
+32 AUTHORIZATIONS.
+33 B. ON OR BEFORE OCTOBER 31, 2027 AND EACH OCTOBER 1 THEREAFTER, THE
+34 DEPARTMENT SHALL:
+35 1. [AGGREGATE] [COMPILE] THE DATA THAT IS COLLECTED UNDER
+36 SUBSECTION A OF THIS SECTION INTO A STANDARD REPORT. THE REPORT MUST
+37 SEPARATE EACH HEALTH CARE SERVICES PLAN THAT SUBMITTED DATA BY NAME AND
+38 MUST BE WRITTEN IN EASILY UNDERSTANDABLE LANGUAGE.
+39 2. POST THE REPORT ON THE DEPARTMENTS' PUBLICLY ACCESSIBLE WEBSITE.
+40 3. MAINTAIN AT LEAST THREE YEARS OF REPORTS ON THE DEPARTMENT'S
+41 PUBLICLY ACCESSIBLE WEBSITE.
+42 4. SEND A COPY OF THE REPORT TO THE SPEAKER OF THE HOUSE OF
+43 REPRESENTATIVES AND THE PRESIDENT OF THE SENATE.
+44 C. THE DIRECTOR MAY ADOPT RULES TO IMPLEMENT THIS SECTION.
+-5-
+
+House Amendments to S.B. 1628
+1 Sec. 4. Stakeholders meeting; report
+2 A. On or before July 1, 2032, the department of insurance and
+3 financial institutions shall convene a stakeholders meeting that includes
+4 health care insurers, health care services plans, health care institutions
+5 that are regulated by the department of health services, health care
+6 providers who are licensed under title 32, Arizona Revised Statutes,
+7 businesses and consumers to determine the quality, relevance and
+8 usefulness of the data that was reported pursuant to sections 20-2512 and
+9 20-3408, Arizona Revised Statutes, as added by this act.
+10 B. On or before October 31, 2032, the department of insurance and
+11 financial institutions shall submit a report to the governor, the
+12 president of the senate and the speaker of the house of representatives
+13 with recommendations to amend or repeal[,] or to make no changes to,
+14 sections 20-2512 and 20-3408, Arizona Revised Statutes, as added by this
+15 act.
+16 Sec. 5. Retroactivity
+17 Section 20-3102, Arizona Revised Statutes, as amended by this act,
+18 applies retroactively to from and after June 30, 2026.
+19 Enroll and engross to conform
+20 Amend title to conform
+And, as so amended, it do pass
+SELINA BLISS
+CHAIRMAN
+1628HEALTH HUMAN SERVICES.docx
+03/23/2026
+06:54 PM
+C: SK; H: AG/ls
+130FHOSPX
+-6-

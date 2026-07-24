@@ -1,0 +1,904 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to ED - Gress - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2621: public schools; special education; access
+GRESS FLOOR AMENDMENT
+Pupils Residing in an Unorganized Territory
+1. Specifies the parent of a pupil who resides in an unorganized territory may
+request a Child Find screening, a special education evaluation or enrollment
+in the adjoining school district that is geographically closest to the pupil's
+residence.
+2. Modifies requirements for a program that provides early intervention services
+relating to the process for transitioning a pupil from Part C to Part B of the
+Individuals with Disabilities Education Act (IDEA).
+3. Details authorizations and requirements relating to enrollment procedures for
+a parent and an adjoining school district that is geographically closest to the
+residence of the pupil.
+4. Specifies the school district that is responsible for all Child Find activities and
+for conducting a special education evaluation of a pupil who is parentally
+placed in a private school or attends a homeschool.
+5. Removes the requirement for the Arizona Department of Education (ADE) to
+investigate any substantiated claims or complaints that allege a person is
+violating requirements relating to the pupils residing in unorganized territory.
+6. Defines special education evaluation.
+Certificates of Educational Convenience (CECs)
+7. Details CEC application submission requirements for a school district.
+8. Prohibits a school district that receives a request for enrollment or a CEC
+application from delaying Child Find activities, parental consent for a special
+education evaluation or timelines under federal regulations because a CEC
+application is processing.
+9. Requires each county school superintendent, before FY 2028, to make publicly
+available a CEC application form and instructions for submitting the
+application form.
+10. Narrows the CEC application form and supporting documentation
+requirements to school districts that adjoin an unorganized territory.
+CH
+3/9/2026
+(602) 926-3848
+
+11. Requires ADE to ensure that the CEC dispute resolution process does not limit
+or delay a pupil's or parent's access to the state complaint process or due
+process procedures under the IDEA.
+12. Asserts specified individuals are not precluded from submitting a CEC
+application for the pupil to the county school superintendent.
+Child of a Parent on Active Military Duty
+13. Defines parent.
+Amendment explanation prepared by Chase Houser
+Page 2
+_________________________________________
+
+Fifty-seventh Legislature Gress
+Second Regular Session H.B. 2621
+GRESS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2621
+(Reference to EDUCATION S/E Committee amendment)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Strike everything after the enacting clause and insert:
+3 "Section 1. Title 15, chapter 7, article 4, Arizona Revised
+4 Statutes, is amended by adding section 15-768, to read:
+5 15-768. Pupils residing in unorganized territory; definitions
+6 A. THE PARENT OF A PUPIL WHO RESIDES IN AN UNORGANIZED TERRITORY
+7 MAY [CONTACT AN ADJOINING SCHOOL DISTRICT TO] REQUEST A CHILD FIND
+8 SCREENING, A SPECIAL EDUCATION EVALUATION OR ENROLLMENT OF THE PUPIL IN
+9 THE [ADJOINING] SCHOOL DISTRICT [THAT IS GEOGRAPHICALLY CLOSEST TO THE
+10 PUPIL'S RESIDENCE]. A SCHOOL DISTRICT THAT [IS CONTACTED] [RECEIVES A
+11 REQUEST] PURSUANT TO THIS SUBSECTION IS RESPONSIBLE FOR ALL CHILD FIND
+12 ACTIVITIES FOR THAT PUPIL. IF A PARENT OF A PUPIL WHO IS A CHILD WITH A
+13 DISABILITY AS DEFINED IN SECTION 15-761 [CONTACTS A SCHOOL DISTRICT
+14 PURSUANT TO THIS SUBSECTION TO REQUEST] [REQUESTS] ENROLLMENT OF THE PUPIL
+15 IN [THE] [A] SCHOOL DISTRICT [PURSUANT TO THIS SUBSECTION], THE SCHOOL
+16 DISTRICT IS RESPONSIBLE FOR PROVIDING A FREE APPROPRIATE PUBLIC EDUCATION
+17 TO THE PUPIL.
+18 B. EACH PROGRAM THAT PROVIDES EARLY INTERVENTION SERVICES PURSUANT
+19 TO PART C OF THE INDIVIDUALS WITH DISABILITIES EDUCATION ACT (20 UNITED
+20 STATES CODE SECTIONS 1401 THROUGH 1485) TO PUPILS WHO RESIDE IN
+21 UNORGANIZED TERRITORIES SHALL INITIATE THE PROCESS FOR TRANSITIONING THE
+22 PUPILS FROM PART C TO PART B OF THE INDIVIDUALS WITH DISABILITIES
+23 EDUCATION ACT BY [CONTACTING THE COUNTY SCHOOL SUPERINTENDENT OF THE
+24 COUNTY IN WHICH THE PUPIL RESIDES WHEN THE PUPIL IS AT LEAST THIRTY MONTHS
+25 BUT FEWER THAN THIRTY-THREE MONTHS OLD. NOT LATER THAN FIVE BUSINESS DAYS
+26 AFTER A PROGRAM CONTACTS A COUNTY SCHOOL SUPERINTENDENT PURSUANT TO THIS
+27 SUBSECTION, THE COUNTY SCHOOL SUPERINTENDENT SHALL ASSIGN AN ADJOINING
+28 SCHOOL DISTRICT TO BE RESPONSIBLE FOR CONDUCTING A FULL AND INDIVIDUAL
+29 INITIAL EVALUATION OF THE PUPIL ON OR] [NOTIFYING THE DEPARTMENT OF
+30 EDUCATION AND REFERRING THE PUPIL TO THE ADJOINING SCHOOL DISTRICT THAT IS
+31 GEOGRAPHICALLY CLOSEST TO THE PUPIL'S RESIDENCE FOR A PART B EVALUATION
+32 AND TRANSITION AT LEAST NINETY DAYS] BEFORE THE PUPIL'S THIRD BIRTHDAY
+
+House Amendments to H.B. 2621
+1 [AND SHALL NOTIFY THE SCHOOL DISTRICT, THE PROGRAM AND THE PUPIL'S PARENT
+2 OF THE ASSIGNMENT. THE COUNTY SCHOOL SUPERINTENDENT SHALL ASSIGN THE
+3 ADJOINING SCHOOL DISTRICT THAT IS GEOGRAPHICALLY CLOSEST TO THE PUPIL'S
+4 RESIDENCE]. [IF A PROGRAM DETERMINES THAT A PUPIL WHO RESIDES IN AN
+5 UNORGANIZED TERRITORY IS ELIGIBLE FOR EARLY INTERVENTION SERVICES PURSUANT
+6 TO PART C OF THE INDIVIDUALS WITH DISABILITIES EDUCATION ACT MORE THAN
+7 FORTY-FIVE DAYS BUT FEWER THAN NINETY DAYS BEFORE THE PUPIL'S THIRD
+8 BIRTHDAY, THE PROGRAM SHALL INITIATE THE PROCESS FOR TRANSITIONING THE
+9 PUPIL FROM PART C TO PART B OF THE INDIVIDUALS WITH DISABILITIES ACT
+10 PURSUANT TO THIS SUBSECTION AS SOON AS POSSIBLE, CONSISTENT WITH FEDERAL
+11 LAW.]
+12 C. IF THE [ADJOINING] SCHOOL DISTRICT THAT IS [ASSIGNED PURSUANT
+13 TO] [GEOGRAPHICALLY CLOSEST TO THE RESIDENCE OF A PUPIL DESCRIBED IN]
+14 SUBSECTION B OF THIS SECTION CONDUCTS [AN] [A SPECIAL EDUCATI0N]
+15 EVALUATION OF THE PUPIL AND DETERMINES THAT[:
+16 1.] THE PUPIL IS ELIGIBLE FOR SPECIAL EDUCATION AND RELATED
+17 SERVICES UNDER PART B OF THE INDIVIDUALS WITH DISABILITIES EDUCATION ACT,
+18 THE PUPIL'S PARENTS MAY REQUEST ENROLLMENT OF THE PUPIL IN THE SCHOOL
+19 DISTRICT [THAT IS ASSIGNED PURSUANT TO SUBSECTION B OF THIS SECTION OR IN
+20 A DIFFERENT ADJOINING SCHOOL DISTRICT] [AT ANY TIME AND THE SCHOOL
+21 DISTRICT SHALL INFORM THE PUPIL'S PARENT THAT THE PUPIL'S PARENT MAY
+22 REQUEST ENROLLMENT OF THE PUPIL]. ON RECEIPT OF A REQUEST FOR ENROLLMENT
+23 PURSUANT TO THIS SUBSECTION, A SCHOOL DISTRICT SHALL PREPARE A CERTIFICATE
+24 OF EDUCATIONAL CONVENIENCE APPLICATION FOR THE PUPIL AS PRESCRIBED BY
+25 SECTION 15-825 AND OFFER A FREE APPROPRIATE PUBLIC EDUCATION TO THE PUPIL.
+26 [2. THE PUPIL IS NOT ELIGIBLE FOR SPECIAL EDUCATION AND RELATED
+27 SERVICES UNDER PART B OF THE INDIVIDUALS WITH DISABILITIES EDUCATION ACT
+28 AND THE PUPIL IS SCHOOL-AGED, THE PUPILS PARENTS MAY REQUEST ENROLLMENT OF
+29 THE PUPIL IN ANY ADJOINING SCHOOL DISTRICT PURSUANT TO SECTION 15-825.]
+30 D. [IF] A PUPIL [WHO] RESIDES IN AN UNORGANIZED TERRITORY AND [WHO]
+31 EITHER IS PARENTALLY PLACED IN A PRIVATE SCHOOL OR ATTENDS A HOMESCHOOL[,
+32 THE FOLLOWING APPLY]:
+33 1. [THE PUPIL] RETAINS THE [FOLLOWING RIGHTS:
+34 (a) THE] RIGHTS ESTABLISHED BY 20 UNITED STATES CODE SECTION 1412,
+35 INCLUDING THE RIGHTS TO BE IDENTIFIED, LOCATED AND EVALUATED FOR
+36 ELIGIBILITY UNDER THE PART B OF THE INDIVIDUALS WITH DISABILITIES
+37 EDUCATION ACT.
+38 [2. RETAINS] [(b)] THE RIGHT TO EQUITABLE SERVICES UNDER
+39 PROPORTIONATE SHARE FUNDING PURSUANT TO 34 CODE OF FEDERAL REGULATIONS
+40 SECTIONS 300.130 THROUGH 300.144.
+41 [2. THE SCHOOL DISTRICT THAT IS RESPONSIBLE FOR ALL CHILD FIND
+42 ACTIVITIES AND FOR CONDUCTING A SPECIAL EDUCATION EVALUATION FOR THE PUPIL
+43 IS:
+44 (a) IF THE PUPIL IS PARENTALLY PLACED IN A NONPROFIT PRIVATE SCHOOL
+45 THAT IS LOCATED WITHIN THE BOUNDARIES OF A SCHOOL DISTRICT, THE SCHOOL
+46 DISTRICT IN WHICH THE PRIVATE SCHOOL IS LOCATED.
+-2-
+
+House Amendments to H.B. 2621
+1 (b) IF THE PUPIL IS PARENTALLY PLACED IN A NONPROFIT PRIVATE SCHOOL
+2 THAT IS LOCATED IN AN UNORGANIZED TERRITORY, THE ADJOINING SCHOOL DISTRICT
+3 THAT IS GEOGRAPHICALLY CLOSEST TO THE PRIVATE SCHOOL.
+4 (c) IF THE PUPIL ATTENDS A HOMESCHOOL OR IS PARENTALLY PLACED IN A
+5 PRIVATE SCHOOL THAT IS NOT A NONPROFIT, THE ADJOINING SCHOOL DISTRICT THAT
+6 IS GEOGRAPHICALLY CLOSEST TO THE PUPIL'S RESIDENCE.]
+7 [E.] [3.] [THE PARENTS OF A PUPIL WHO RESIDES IN AN UNORGANIZED
+8 TERRITORY,] [IF THE PUPIL] HAS BEEN FOUND TO BE ELIGIBLE FOR SPECIAL
+9 EDUCATION OR RELATED SERVICES UNDER PART B OF THE INDIVIDUALS WITH
+10 DISABILITIES EDUCATION ACT [AND EITHER IS PARENTALLY PLACED IN A PRIVATE
+11 SCHOOL OR ATTENDS A HOMESCHOOL MAY CONTACT ANY ONE ADJOINING SCHOOL
+12 DISTRICT TO] [, THE PUPIL'S PARENTS MAY] REQUEST [FROM THE SCHOOL DISTRICT
+13 THAT IS RESPONSIBLE FOR THE PUPIL PURSUANT TO PARAGRAPH 2 OF THIS
+14 SUBSECTION EITHER OR BOTH OF THE FOLLOWING]:
+15 [1.] [(a)] AN EVALUATION PURSUANT TO 20 UNITED STATES CODE SECTION
+16 1412(a)(3)(A).
+17 [2.] [(b)] A MEETING TO DISCUSS EQUITABLE SERVICES AND THE
+18 DEVELOPMENT OF A SERVICE PLAN PURSUANT TO 34 CODE OF FEDERAL REGULATIONS
+19 SECTIONS 300.130 THROUGH 300.144.
+20 [F. THE DEPARTMENT SHALL:
+21 1. INVESTIGATE ANY SUBSTANTIATED CLAIMS OR COMPLAINTS THAT THE
+22 DEPARTMENT RECEIVES THAT ALLEGE THAT A PERSON IS VIOLATING THIS SECTION.
+23 2. ANNUALLY COMPILE A REPORT REGARDING INVESTIGATIONS AND ANY
+24 CORRECTIVE ACTIONS TAKEN IN THE IMMEDIATELY PRECEDING YEAR AND POST THE
+25 REPORT ON THE DEPARTMENT'S WEBSITE.]
+26 [G.] [E.] FOR THE PURPOSES OF THIS SECTION:
+27 1. "CHILD FIND ACTIVITIES" MEANS STATE OBLIGATIONS PURSUANT TO 20
+28 UNITED STATES CODE SECTION 1412(a)(3), THE FEDERAL REGULATIONS ISSUED
+29 PURSUANT TO THE INDIVIDUALS WITH DISABILITIES EDUCATION ACT AND THE RULES
+30 ADOPTED BY THE STATE BOARD OF EDUCATION RELATING TO THE IDENTIFICATION AND
+31 REFERRAL OF CHILDREN WITH DISABILITIES BY PUBLIC SCHOOLS.
+32 2. "FREE APPROPRIATE PUBLIC EDUCATION" HAS THE SAME MEANING
+33 PRESCRIBED IN 20 UNITED STATES CODE SECTION 1401.
+34 [4.] [3.] "HOMESCHOOL" HAS THE SAME MEANING PRESCRIBED IN SECTION
+35 15-802.
+36 [5.] [4.] "UNORGANIZED TERRITORY" HAS THE SAME MEANING PRESCRIBED
+37 IN SECTION 15-825.
+38 [6.] [5.] "RELATED SERVICES" HAS THE SAME MEANING PRESCRIBED IN 20
+39 UNITED STATES CODE SECTION 1401.
+40 [7.] [6.] "SPECIAL EDUCATION" HAS THE SAME MEANING PRESCRIBED IN
+41 20 UNITED STATES CODE SECTION 1401.
+42 [3.] [7.] "[FULL AND INDIVIDUAL INITIAL] [SPECIAL EDUCATION]
+43 EVALUATION" MEANS AN EVALUATION CONDUCTED PURSUANT TO SECTION 15-766 [AND
+44 RULES ADOPTED BY THE STATE BOARD OF EDUCATION].
+-3-
+
+House Amendments to H.B. 2621
+1 Sec. 2. Section 15-816, Arizona Revised Statutes, is amended to
+2 read:
+3 15-816. Definitions
+4 In this article, unless the context otherwise requires:
+5 1. "Nonresident pupil" means a pupil who resides in this state and
+6 who is enrolled in or is seeking enrollment in a school district other
+7 than the school district in which the pupil resides.
+8 2. "Open enrollment" means a policy that is adopted and implemented
+9 by a school district governing board to allow resident transfer pupils to
+10 enroll in any school within the school district, to allow resident pupils
+11 to enroll in any school located within other school districts in this
+12 state and to allow nonresident pupils to enroll in any school within the
+13 district pursuant to section 15-816.01.
+14 3. "Resident pupil" means a pupil WHO MEETS ANY OF THE FOLLOWING:
+15 (a) Whose residence is within the attendance area of a school.
+16 (b) WHO RESIDES IN AN UNORGANIZED TERRITORY AS DEFINED IN SECTION
+17 15-825 AND WHOSE RESIDENCE ADJOINS A BOUNDARY OF THE SCHOOL DISTRICT.
+18 (c) WHO RESIDES IN AN UNORGANIZED TERRITORY AS DEFINED IN SECTION
+19 15-825 AND WHOSE RESIDENCE IS LOCATED ON TRIBAL LAND.
+20 (d) WHO IS PLACED AS DESCRIBED IN SECTION 15-825, SUBSECTION B.
+21 4. "Resident school" means a school that is within the designated
+22 attendance area in which a pupil resides.
+23 5. "Resident transfer pupil" means a resident pupil who is enrolled
+24 in or seeking enrollment in a school that is within the school district
+25 but outside the attendance area of the pupil's residence.
+26 Sec. 3. Section 15-823.01, Arizona Revised Statutes, is amended to
+27 read:
+28 15-823.01. Admission of nonresident children; services or
+29 accommodations for children with disabilities;
+30 active military duty; posting requirement;
+31 definitions
+32 A. Notwithstanding any other law, a pupil CHILD complies with the
+33 residency requirements for school attendance in a local education agency
+34 OR FOR SERVICES OR ACCOMMODATIONS if the parent of the pupil CHILD is
+35 transferred to or is pending transfer to a military installation within
+36 this state while on active military duty pursuant to an official military
+37 order.
+38 B. A local education agency shall accept an application for
+39 enrollment and course registration by electronic ANY means, INCLUDING BY
+40 ELECTRONIC MEANS OR A REMOTE APPLICATION, for a pupil who meets the
+41 requirements prescribed in subsection A of this section, including
+42 enrollment in a specific school or program within the local education
+43 agency.
+44 C. The parent of a pupil CHILD who meets the requirement prescribed
+45 in subsection A of this section shall provide proof of residence RESIDENCY
+46 to the local education agency within ten days after the arrival date
+47 provided on official documentation. The parent may use the address of any
+-4-
+
+House Amendments to H.B. 2621
+1 of the following as proof of residence RESIDENCY for the purposes of this
+2 subsection:
+3 1. A temporary on-base billeting facility.
+4 2. TEMPORARY OFF-BASE LODGING.
+5 2. 3. A purchased or leased home or apartment.
+6 3. 4. Any federal government housing or off-base military housing,
+7 including off-base military housing that may be provided through a
+8 public-private venture.
+9 5. ANY OTHER TEMPORARY HOUSING.
+10 D. IF A SCHOOL DISTRICT IS NOTIFIED THAT A CHILD WHO MEETS THE
+11 REQUIREMENT PRESCRIBED IN SUBSECTION A OF THIS SECTION IS RECEIVING OR
+12 MIGHT BE ELIGIBLE TO RECEIVE SERVICES OR ACCOMMODATIONS, THE SCHOOL
+13 DISTRICT SHALL:
+14 1. PROMPTLY COORDINATE WITH THE CHILD'S PARENTS AND THE CHILD'S
+15 PREVIOUS SCHOOL, IF ANY, PURSUANT TO SECTION 15-1911 TO ENSURE THE TIMELY
+16 EXCHANGE OF RECORDS AND TO REDUCE ANY DELAYS IN THE CHILD RECEIVING
+17 COMPARABLE SERVICES OR ACCOMMODATIONS THROUGH THE SCHOOL DISTRICT OR
+18 DELAYS IN THE IMPLEMENTATION OF AN INDIVIDUALIZED FAMILY SERVICE PLAN,
+19 INDIVIDUALIZED EDUCATION PROGRAM OR SECTION 504 PLAN AS DEFINED IN SECTION
+20 15-731.
+21 2. ACCEPT UNOFFICIAL RECORDS THAT ARE PROVIDED BY THE CHILD'S
+22 PARENT, PENDING VALIDATION BY THE OFFICIAL RECORDS, PURSUANT TO SECTION
+23 15-1911, ARTICLE IV, SUBSECTION A.
+24 3. ON ENROLLMENT OF THE CHILD PURSUANT TO SUBSECTION B OF THIS
+25 SECTION:
+26 (a) PROVIDE THE CHILD WITH SERVICES OR ACCOMMODATIONS THAT ARE
+27 COMPARABLE TO THE SERVICES OR ACCOMMODATIONS THAT ARE DESCRIBED IN THE
+28 CHILD'S PREVIOUSLY APPROVED INDIVIDUALIZED EDUCATION PROGRAM OR SECTION
+29 504 PLAN AS DEFINED IN SECTION 15-731, IN CONSULTATION WITH THE CHILD'S
+30 PARENTS, UNTIL THE SCHOOL DISTRICT CONDUCTS AN ASSESSMENT OR DEVELOPS A
+31 NEW INDIVIDUALIZED EDUCATION PROGRAM, IF APPROPRIATE.
+32 (b) EITHER ADOPT AND IMPLEMENT THE CHILD'S PREVIOUSLY APPROVED
+33 INDIVIDUALIZED EDUCATION PROGRAM OR DEVELOP, ADOPT AND IMPLEMENT A NEW
+34 INDIVIDUALIZED EDUCATION PROGRAM FOR THE CHILD NOT LATER THAN THIRTY
+35 CALENDAR DAYS AFTER THE CHILD ENROLLS IN THE SCHOOL DISTRICT.
+36 E. THE DEPARTMENT OF EDUCATION SHALL POST INFORMATION ON THE
+37 REQUIREMENTS OF THIS SECTION, INCLUDING REQUIREMENTS RELATING TO
+38 ELIGIBILITY AND REQUIRED DOCUMENTATION, ON THE DEPARTMENT'S WEBSITE.
+39 D. F. For the purposes of this section:
+40 1. "Active military duty" means full-time military duty status in
+41 the active uniformed service of the United States, including members of
+42 the national guard and the state military reserve on active duty orders.
+43 2. "Military installation" means a base, camp, post, station, yard,
+44 center, homeport facility for any ship or other installation under the
+45 jurisdiction of the United States department of defense or the United
+46 States coast guard.
+-5-
+
+House Amendments to H.B. 2621
+1 [3. "PARENT" HAS THE SAME MEANING PRESCRIBED IN SECTION 15-761.]
+2 [3.] [4.] "SERVICES OR ACCOMMODATIONS" MEANS ANY SERVICES OR
+3 ACCOMMODATIONS THAT ARE PROVIDED THROUGH A LOCAL EDUCATION AGENCY PURSUANT
+4 TO THE INDIVIDUALS WITH DISABILITIES EDUCATION ACT (P.L. 91-260; 84 STAT.
+5 175; 20 UNITED STATES CODE SECTIONS 1400 THROUGH 1482), SECTION 504 OF THE
+6 REHABILITATION ACT OF 1973 (P.L. 93-112; 87 STAT. 355; 29 UNITED STATES
+7 CODE SECTION 794) OR TITLE II OF THE AMERICANS WITH DISABILITIES ACT OF
+8 1990 (P.L. 101-336; 104 STAT. 327; 42 UNITED STATES CODE SECTIONS 12131
+9 THROUGH 12165).
+10 Sec. 4. Section 15-824, Arizona Revised Statutes, is amended to
+11 read:
+12 15-824. Admission of pupils of other school districts;
+13 homeless children; tuition charges; definitions
+14 A. The governing board of a school district shall admit pupils from
+15 another school district or area as follows:
+16 1. On the presentation of a certificate of educational convenience
+17 issued by the county school superintendent pursuant to section 15-825.
+18 2. For three hundred fifty or fewer pupils, to a high school
+19 without the presentation of a certificate of educational convenience, if
+20 the pupil is a resident of a common school district within this state that
+21 is not within a high school district and that does not offer instruction
+22 in the pupil's grade. The three hundred fifty or fewer pupil limitation
+23 prescribed in this paragraph does not apply to a small isolated school
+24 district as defined in section 15-901. The school membership of such
+25 pupils is deemed, for the purposes of determining student count and
+26 providing a free and appropriate public education pursuant to the
+27 individuals with disabilities education act (20 United States Code
+28 chapter 33) and for apportionment of state aid, to be enrollment in the
+29 school district of the pupil's attendance.
+30 3. To a high school without the presentation of a certificate of
+31 educational convenience if the pupil is a resident of a transporting
+32 school district that does not offer instruction in the pupil's grade.
+33 Tuition shall be charged as prescribed in subsection E of this section for
+34 each pupil who is admitted pursuant to this paragraph. For the purposes
+35 of determining student count and for apportionment of state aid, the
+36 school membership of these pupils is deemed to be enrollment in the school
+37 district of the pupil's residence.
+38 B. The residence of the person having legal custody of the pupil is
+39 considered the residence of the pupil, except as provided in subsection C
+40 of this section and in section 15-825, subsection SUBSECTIONS B AND C.
+41 C. The current residence of a homeless pupil who does not reside
+42 with the person having legal custody of the pupil is considered to be the
+43 residence of the homeless pupil if the person having legal custody of the
+44 pupil is a resident of the United States. For the purposes of this
+45 subsection, "homeless pupil" means a pupil who has a primary residence
+46 that is:
+-6-
+
+House Amendments to H.B. 2621
+1 1. A supervised publicly or privately operated shelter designed to
+2 provide temporary living accommodations.
+3 2. An institution that provides a temporary residence for
+4 individuals intended to be institutionalized.
+5 3. A public or private place not designed for, or ordinarily used
+6 as, a regular sleeping accommodation for human beings.
+7 D. The school enrollment of a pupil who is a resident of this state
+8 or who is admitted to a school district under section 15-823, subsection
+9 B, C, E, F or H is deemed, for the purpose of determining student count
+10 and for apportionment of state aid, to be enrollment in the school
+11 district of actual attendance, except as provided in section 15-825,
+12 subsection A, paragraph 1 and subsection A, paragraph 3 of this section
+13 and except for pupils for whom the superintendent of public instruction is
+14 charged tuition pursuant to section 15-825, subsections B, C and D G and
+15 section 15-976 or for whom another school district is charged tuition as
+16 provided in subsections E and G of this section.
+17 E. If tuition is required to be charged for pupils attending school
+18 in a school district other than that of their residence, the tuition shall
+19 be determined and paid in the following manner:
+20 1. The number of high school pupils for which tuition may be
+21 charged to a transporting school district is equal to the average daily
+22 membership in the district of attendance from the transporting school
+23 district for the prior fiscal year. This number may be adjusted if the
+24 transporting school district increases its revenue control limit and
+25 district support level.
+26 2. The tuition for pupils attending school in a school district
+27 other than that of their residence, except pupils provided for by section
+28 15-825, subsections B, C and D G and any pupils included in the
+29 definition of child with a disability in section 15-761, shall not exceed
+30 the cost per student count of the school district attended, as determined
+31 for the current school year. Tuition for pupils included in the
+32 definition of child with a disability in section 15-761 shall not exceed
+33 the actual cost of the school attended for each pupil as determined for
+34 the current year. The school district of attendance shall not include in
+35 the cost per student count a charge for transportation if no
+36 transportation is provided, and the charge for transportation shall not
+37 exceed the actual costs of providing transportation for the pupils served,
+38 as prescribed in the uniform system of financial records. The school
+39 district of attendance shall provide the school district of residence with
+40 the final tuition charge for the current year and with an estimate of the
+41 budget year's tuition charge by May 1 of the current year. The school
+42 district of residence shall pay at least one-fourth of the total amount of
+43 the estimated tuition by September 30, December 31 and March 31, and it
+44 shall pay the remaining amount it owes after adjustments are made by
+45 June 30.
+-7-
+
+House Amendments to H.B. 2621
+1 3. Notwithstanding paragraph 2 of this subsection and subsection G
+2 of this section, if two school districts enter into a voluntary agreement
+3 for the payment of tuition, the agreement shall specify the method for
+4 computing the tuition amount and the timing of the payments. The
+5 agreement shall not be longer than five consecutive years. If two school
+6 districts enter into an agreement and choose to renew the agreement, each
+7 renewal shall not be longer than five consecutive years. The agreement
+8 shall specify that a parent or legal guardian of a pupil affected by a
+9 tuition agreement entered pursuant to this section or section 15-816.01
+10 may choose not to send the pupil or pupils to a school district or school
+11 that is a party to the agreement.
+12 4. Tuition of pupils as provided in section 15-825, subsection D G
+13 shall not exceed the excess costs for group B children with disabilities
+14 minus the amount generated by the equalization base as determined in
+15 section 15-971, subsection A for these pupils. A school district may
+16 submit to the superintendent of public instruction a record of actual
+17 excess costs to educate a group B child with a disability if the costs are
+18 higher than the calculated excess costs or if a pupil has been placed in a
+19 private school for special education services. The superintendent shall
+20 determine if the additional costs will be paid, and if the costs are paid,
+21 whether the additional costs will be paid by the state or the resident
+22 district.
+23 5. The amount received representing contributions to capital outlay
+24 as provided in subsection G, paragraph 1, subdivision (b) of this section
+25 shall be applied to the capital outlay fund or the debt service fund of
+26 the school district.
+27 6. The amount received representing contributions to debt service
+28 as provided in subsection G, paragraph 1, subdivision (c) of this section
+29 shall be applied to the debt service fund of the school district if there
+30 is one. Otherwise the amount shall be credited to the capital outlay fund
+31 of the school district.
+32 F. A school district may submit to the superintendent of public
+33 instruction a record of actual costs paid by the school district to
+34 educate a pupil who qualifies for a certificate of educational convenience
+35 under section 15-825, subsection B OR C. If the actual costs for that
+36 pupil exceed the costs per student count computed pursuant to subsection G
+37 of this section, the superintendent of public instruction shall reimburse
+38 the school district for these additional costs subject to legislative
+39 appropriation.
+40 G. For the purposes of this section:
+41 1. "Costs per student count" means the sum of the following for the
+42 common or high school portion of the school district attended, whichever
+43 is applicable to the pupil involved, as prescribed in the uniform system
+44 of financial records:
+-8-
+
+House Amendments to H.B. 2621
+1 (a) The actual school district expenditures for the regular
+2 education program subsection of the maintenance and operation section of
+3 the budget divided by the school district's student count for the common
+4 or high school portion of the school district, whichever is applicable.
+5 (b) The actual school district expenditures for the capital outlay
+6 section of the budget as provided in sections 15-903 and 15-905 excluding
+7 expenditures for transportation equipment and buildings if no
+8 transportation is provided and expenditures for the acquisition of
+9 building sites, divided by the school district's student count for the
+10 common or high school portion of the school district, whichever is
+11 applicable.
+12 (c) The actual school district expenditures for debt service
+13 divided by the school district's student count for the common or high
+14 school portion of the school district, whichever is applicable.
+15 2. "Legal custody" means:
+16 (a) Custody exercised by the natural or adoptive parents with whom
+17 a pupil resides.
+18 (b) Custody granted by order of a court of competent jurisdiction
+19 to a person or persons with whom a pupil resides unless the primary
+20 purpose for which custody was requested was to circumvent the payment of
+21 tuition as provided in this section.
+22 Sec. 5. Section 15-825, Arizona Revised Statutes, is amended to
+23 read:
+24 15-825. Certificates of educational convenience; issuance;
+25 effect on enrollment records; reporting
+26 requirements; posting requirements; definitions
+27 A. A pupil who is precluded by distance, lack of adequate
+28 transportation facilities or a parent's or guardian's employment from
+29 attending a school in the school district or county of the pupil's
+30 residence or who resides in unorganized territory may apply to the pupil's
+31 school district of residence or, for a pupil who resides in unorganized
+32 territory, the school district of attendance for a certificate of
+33 educational convenience. If a pupil who resides in unorganized territory
+34 does not have a school district of attendance and seeks to apply for a
+35 certificate of educational convenience ENROLL IN A PUBLIC SCHOOL IN THIS
+36 STATE, the pupil's parent shall enroll the pupil in a school pursuant to
+37 article 1.1 of this chapter and apply to the school district that operates
+38 that school for a certificate of educational convenience [CONTACT ANY
+39 SCHOOL DISTRICT ADJOINING THE UNORGANIZED TERRITORY TO REQUEST ENROLLMENT
+40 OF THE PUPIL. THE PARENT MAY] REQUEST ENROLLMENT OF THE PUPIL IN [AN
+41 ADJOINING] [THE ADJOINING] SCHOOL DISTRICT [THAT IS GEOGRAPHICALLY CLOSEST
+42 TO THE PUPIL'S RESIDENCE] BY SUBMITTING ONLINE ENROLLMENT PAPERWORK TO THE
+43 SCHOOL DISTRICT, BY ATTEMPTING TO ENROLL THE PUPIL IN PERSON AT A SCHOOL
+44 DISTRICT OFFICE OR AT A SCHOOL THAT IS OPERATED BY THE SCHOOL DISTRICT, OR
+45 BY REQUESTING ENROLLMENT ASSISTANCE IN A TELEPHONIC, ELECTRONIC OR
+46 IN-PERSON COMMUNICATION WITH THE SCHOOL DISTRICT OR A SCHOOL THAT IS
+47 OPERATED BY THE SCHOOL DISTRICT. A school district that receives an
+-9-
+
+House Amendments to H.B. 2621
+1 application A REQUEST FOR ENROLLMENT pursuant to this subsection shall
+2 submit the A completed CERTIFICATE OF EDUCATIONAL CONVENIENCE application
+3 FOR THE PUPIL to the county school superintendent electronically, in
+4 person or by regular mail NOT LATER THAN FIVE BUSINESS DAYS AFTER
+5 RECEIVING THE REQUEST [AND ANY REQUIRED DOCUMENTATION, EXCEPT THAT A
+6 SCHOOL DISTRICT MAY SUBMIT THE APPLICATION BY REGULAR MAIL ONLY IF THE
+7 SCHOOL DISTRICT CANNOT ELECTRONICALLY SUBMIT THE APPLICATION]. If it
+8 appears to the county school superintendent that it is not feasible for
+9 the pupil to attend a school in the school district or county of residence
+10 [OR THAT THE PUPIL RESIDES IN UNORGANIZED TERRITORY], the county school
+11 superintendent shall issue a certificate of educational convenience
+12 authorizing the pupil to attend a school in an adjoining school district
+13 or county, whether within or without this state. [A SCHOOL DISTRICT THAT
+14 RECEIVES A REQUEST FOR ENROLLMENT OR AN APPLICATION FOR A CERTIFICATE OF
+15 EDUCATIONAL CONVENIENCE PURSUANT TO THIS SUBSECTION MAY NOT DELAY CHILD
+16 FIND ACTIVITIES, PARENTAL CONSENT FOR A SPECIAL EDUCATION EVALUATION OR
+17 TIMELINES UNDER 34 CODE OF FEDERAL REGULATIONS SECTION 300.301 OR 300.323
+18 BECAUSE A CERTIFICATE OF EDUCATIONAL CONVENIENCE APPLICATION IS
+19 PROCESSING.] If a certificate of educational convenience is issued as
+20 provided in this subsection, the school enrollment of a pupil is as
+21 follows:
+22 1. The school enrollment of a pupil who is precluded from attending
+23 a school in this state and who must attend school in another state, when
+24 certified to the county school superintendent by the official in charge of
+25 the school attended, is deemed for the purpose of determining student
+26 count to be enrollment in the school of the county or school district of
+27 the student's residence.
+28 2. The school enrollment of a pupil from unorganized territory or
+29 from another school district is deemed for the purpose of determining
+30 student count to be enrollment in the school district of actual
+31 attendance.
+32 B. The county school superintendent of any county in which a pupil
+33 is placed as described in this subsection shall issue a certificate of
+34 educational convenience for the pupil to attend school in the school
+35 district or adjoining school district to that in which the pupil is placed
+36 by an A STATE PLACING agency of this state or a state or federal court of
+37 competent jurisdiction IF THE PUPIL IS PLACED in one of the following:
+38 1. A state rehabilitation or corrective institution.
+39 2. A foster home or child care agency or institution that is
+40 licensed and supervised by the department of child safety or the
+41 department of health services.
+42 3. A residential facility that is operated or supported by the
+43 department of economic security or the department of health services.
+44 4. Under the supervision of the department of juvenile corrections,
+45 a residence pursuant to the interstate compact on juveniles.
+46 Notwithstanding section 41-1959, the STATE placing agency, department or
+47 institution shall provide the school district of attendance with the
+-10-
+
+House Amendments to H.B. 2621
+1 necessary information to enable the district to obtain a certificate of
+2 educational convenience pursuant to this subsection.
+3 C. IF A PUPIL DESCRIBED IN SUBSECTION B OF THIS SECTION SEEKS TO
+4 ENROLL IN THE SCHOOL DISTRICT OR ADJOINING SCHOOL DISTRICT TO THAT IN
+5 WHICH THE PUPIL IS PLACED, THE PUPIL'S PARENT SHALL [CONTACT THE SCHOOL
+6 DISTRICT TO] REQUEST ENROLLMENT OF THE PUPIL[. THE PUPIL'S PARENT MAY
+7 REQUEST ENROLLMENT OF THE PUPIL IN AN ADJOINING SCHOOL DISTRICT] BY
+8 SUBMITTING ONLINE ENROLLMENT PAPERWORK TO THE SCHOOL DISTRICT, BY
+9 ATTEMPTING TO ENROLL THE PUPIL IN PERSON AT A SCHOOL DISTRICT OFFICE OR AT
+10 A SCHOOL THAT IS OPERATED BY THE SCHOOL DISTRICT, OR BY REQUESTING
+11 ENROLLMENT ASSISTANCE IN A TELEPHONIC, ELECTRONIC OR IN-PERSON
+12 COMMUNICATION WITH THE SCHOOL DISTRICT OR A SCHOOL THAT IS OPERATED BY THE
+13 SCHOOL DISTRICT. A SCHOOL DISTRICT THAT RECEIVES A REQUEST FOR ENROLLMENT
+14 PURSUANT TO THIS SUBSECTION:
+15 1. SHALL SUBMIT A COMPLETED CERTIFICATE OF EDUCATIONAL CONVENIENCE
+16 APPLICATION FOR THE PUPIL TO THE COUNTY SCHOOL SUPERINTENDENT
+17 ELECTRONICALLY, IN PERSON OR BY REGULAR MAIL NOT LATER THAN FIVE BUSINESS
+18 DAYS AFTER RECEIVING THE REQUEST AND ANY REQUIRED DOCUMENTATION[, EXCEPT
+19 THAT A SCHOOL DISTRICT MAY SUBMIT THE APPLICATION BY REGULAR MAIL ONLY IF
+20 THE SCHOOL DISTRICT CANNOT ELECTRONICALLY SUBMIT THE APPLICATION].
+21 2. IS RESPONSIBLE FOR ALL CHILD FIND ACTIVITIES FOR THE PUPIL.
+22 3. IS RESPONSIBLE FOR PROVIDING A FREE APPROPRIATE PUBLIC EDUCATION
+23 TO THE PUPIL IF THE PUPIL IS A CHILD WITH A DISABILITY AS DEFINED IN
+24 SECTION 15-761.
+25 [4. MAY NOT DELAY CHILD FIND ACTIVITIES, PARENTAL CONSENT FOR A
+26 SPECIAL EDUCATION EVALUATION OR TIMELINES UNDER 34 CODE OF FEDERAL
+27 REGULATIONS SECTION 300.301 OR 300.323 BECAUSE A CERTIFICATE OF
+28 EDUCATIONAL CONVENIENCE APPLICATION IS PROCESSING.]
+29 D. BEFORE FISCAL YEAR 2027-2028, EACH STATE PLACING AGENCY SHALL
+30 DEVELOP A FORM TO ATTEST THAT A PUPIL IS PLACED IN ONE OF THE PLACEMENTS
+31 DESCRIBED IN SUBSECTION B OF THIS SECTION. ON REQUEST, A STATE PLACING
+32 AGENCY SHALL COMPLETE THE FORM FOR THE PUPIL AND PROVIDE THE COMPLETED
+33 FORM TO THE REQUESTING PARTY. THE REQUESTING PARTY MAY SUBMIT THE
+34 COMPLETED FORM WITH A CERTIFICATE OF EDUCATIONAL CONVENIENCE APPLICATION
+35 TO THE COUNTY SCHOOL SUPERINTENDENT AS EVIDENCE OF THE PUPIL'S ELIGIBILITY
+36 FOR A CERTIFICATE OF EDUCATIONAL CONVENIENCE PURSUANT TO SUBSECTION B OR C
+37 OF THIS SECTION.
+38 E. IF A PUPIL DESCRIBED IN SUBSECTION B OF THIS SECTION IS
+39 PARENTALLY PLACED IN A PRIVATE SCHOOL OR ATTENDS A HOMESCHOOL, THE PUPIL
+40 RETAINS THE RIGHTS ESTABLISHED BY 20 UNITED STATES CODE SECTION 1412,
+41 INCLUDING THE RIGHTS TO BE IDENTIFIED, LOCATED AND EVALUATED FOR
+42 ELIGIBILITY UNDER PART B OF THE INDIVIDUALS WITH DISABILITIES EDUCATION
+43 ACT, AND THE RIGHT TO EQUITABLE SERVICES UNDER PROPORTIONATE SHARE FUNDING
+44 PURSUANT TO 34 CODE OF FEDERAL REGULATIONS SECTIONS 300.130 THROUGH
+45 300.144. THE SCHOOL DISTRICT [OR ADJOINING SCHOOL DISTRICT TO THAT] IN
+46 WHICH THE PUPIL IS PLACED IS RESPONSIBLE FOR IDENTIFYING, LOCATING AND
+-11-
+
+House Amendments to H.B. 2621
+1 EVALUATING THE PUPIL AND FOR PROVIDING EQUITABLE SERVICES UNDER
+2 PROPORTIONATE SHARE FUNDING TO THE PUPIL.
+3 C. F. A pupil attending school under a certificate of educational
+4 convenience issued pursuant to subsection B OR C of this section is deemed
+5 for the purpose of determining student count to be enrolled in the school
+6 district of attendance. The county school superintendent of any county
+7 shall not issue a certificate of educational convenience as provided in
+8 subsection B OR C of this section if the pupil is placed in the same
+9 district of the pupil's parents' or legal guardians' residence or if the
+10 pupil is placed without a court order and the pupil's parents or legal
+11 guardians are not residents of this state.
+12 D. G. If a certificate of educational convenience is issued as
+13 provided in subsection B OR C of this section, or for a pupil whose parent
+14 or guardian is employed and domiciled by a state institution as prescribed
+15 by section 15-976, tuition may be charged as follows:
+16 1. For group B children with disabilities:
+17 (a) Who are from unorganized territory, whose parent or guardian is
+18 employed by a state institution as prescribed by section 15-976 or who
+19 have been issued a certificate of educational convenience pursuant to
+20 subsection B OR C of this section, the superintendent of public
+21 instruction shall reimburse the district of attendance for the excess
+22 costs as provided in section 15-824, subsection E, paragraph 4.
+23 (b) Who are from another school district, the school district of
+24 residence shall reimburse the district of attendance for the excess costs
+25 as provided in section 15-824, subsection E, paragraph 4.
+26 2. For pupils who are precluded from attending a school in this
+27 state and who must attend a school in another state:
+28 (a) If the pupil resides in a school district in this state, the
+29 district of residence shall pay the amount charged by the district of
+30 attendance.
+31 (b) If the pupil resides in unorganized territory, the
+32 superintendent of public instruction shall pay the amount charged by the
+33 district of attendance.
+34 E. H. The county school superintendent who issues a certificate of
+35 educational convenience shall notify the superintendent of public
+36 instruction of the issuance of the certificate. The superintendent of
+37 public instruction shall draw a warrant in favor of the school district of
+38 actual attendance for the amount charged, whether for common or high
+39 school attendance, as provided in section 15-824.
+40 F. I. The total amount of state monies that may be spent in any
+41 fiscal year by the superintendent of public instruction for certificates
+42 of educational convenience shall not exceed the amount appropriated or
+43 authorized by section 35-173 for that purpose. This section does not
+44 impose a duty on an officer, agent or employee of this state to discharge
+45 a responsibility or create any right in a person or group if the discharge
+46 or right would require an expenditure of state monies in excess of the
+-12-
+
+House Amendments to H.B. 2621
+1 expenditure authorized by legislative appropriation for that specific
+2 purpose.
+3 J. EACH COUNTY SCHOOL SUPERINTENDENT SHALL:
+4 1. NOT LATER THAN FIVE BUSINESS DAYS AFTER RECEIVING A CERTIFICATE
+5 OF EDUCATIONAL CONVENIENCE APPLICATION PURSUANT TO THIS SECTION, EITHER:
+6 (a) ISSUE A CERTIFICATE OF EDUCATIONAL CONVENIENCE AUTHORIZING THE
+7 PUPIL TO ATTEND THE SCHOOL DISTRICT THAT IS IDENTIFIED IN THE APPLICATION
+8 AND NOTIFY THE SCHOOL DISTRICT AND THE PUPIL'S PARENT THAT THE CERTIFICATE
+9 HAS BEEN ISSUED.
+10 (b) NOTIFY IN WRITING THE SCHOOL DISTRICT THAT IS IDENTIFIED IN THE
+11 APPLICATION AND THE PUPIL'S PARENT THAT THE COUNTY SCHOOL SUPERINTENDENT
+12 IS NOT ISSUING A CERTIFICATE OF EDUCATIONAL CONVENIENCE FOR THE PUPIL.
+13 THE NOTIFICATION REQUIRED BY THIS SUBDIVISION MUST EXPLAIN THE REASON THE
+14 COUNTY SCHOOL SUPERINTENDENT IS DECLINING TO ISSUE A CERTIFICATE OF
+15 EDUCATIONAL CONVENIENCE AND INSTRUCTIONS FOR CURING DEFICIENCIES IN THE
+16 APPLICATION.
+17 G. 2. On or before January 1 of each year, each county school
+18 superintendent shall report to the department of education the total
+19 number of certificates of educational convenience that the county school
+20 superintendent issued pursuant to subsection A of this section during the
+21 previous calendar year and the total number of certificates of educational
+22 convenience that the county school superintendent issued pursuant to
+23 subsection B OR C of this section during the previous calendar year.
+24 [3. BEFORE FISCAL YEAR 2027-2028, DEVELOP AND MAKE PUBLICLY
+25 AVAILABLE A CERTIFICATE OF EDUCATIONAL CONVENIENCE APPLICATION FORM AND
+26 INSTRUCTIONS FOR SUBMITTING THE APPLICATION FORM. A COUNTY SCHOOL
+27 SUPERINTENDENT MAY DEVELOP AN ONLINE APPLICATION PORTAL FOR THE PURPOSES
+28 OF THIS PARAGRAPH IF THE PORTAL ALLOWS ANY PERSON WHO MAY SUBMIT AN
+29 APPLICATION PURSUANT TO THIS SECTION, INCLUDING A SCHOOL DISTRICT, A
+30 PUPIL, A PUPIL'S PARENT, A STATE PLACING AGENCY OR A PUPIL'S LEGAL
+31 REPRESENTATIVE, TO SUBMIT AN APPLICATION THROUGH THE PORTAL.]
+32 H. K. The department of education shall maintain the reports
+33 received under subsection G J, PARAGRAPH 2 of this section AND SHALL POST
+34 THE REPORTS ON THE DEPARTMENT'S WEBSITE.
+35 L. EACH SCHOOL DISTRICT IN THIS STATE [THAT ADJOINS AN UNORGANIZED
+36 TERRITORY] SHALL:
+37 1. INCLUDE A CERTIFICATE OF EDUCATIONAL CONVENIENCE APPLICATION
+38 FORM AND INSTRUCTIONS REGARDING SUPPORTING DOCUMENTATION WITH PROOF OF
+39 RESIDENCY DOCUMENTATION REQUIREMENTS IN ENROLLMENT PACKETS.
+40 2. POST ON THE SCHOOL DISTRICT'S WEBSITE BOTH OF THE FOLLOWING:
+41 (a) THE FORM AND INSTRUCTIONS DESCRIBED IN PARAGRAPH 1 OF THIS
+42 SUBSECTION.
+43 (b) INSTRUCTIONS FOR PARENTS WHO ELECT TO SUBMIT THE APPLICATIONS
+44 TO THE COUNTY SCHOOL SUPERINTENDENT.
+45 M. ENROLLMENT IS GUARANTEED FOR ANY PUPIL FOR WHOM A CERTIFICATE OF
+46 EDUCATIONAL CONVENIENCE IS ISSUED PURSUANT TO THIS SECTION AND IS NOT
+47 SUBJECT TO PROGRAMMATIC CAPACITY LIMITATIONS.
+-13-
+
+House Amendments to H.B. 2621
+1 N. THE DEPARTMENT OF EDUCATION SHALL:
+2 1. DEVELOP AND ADOPT A CLEAR, WRITTEN POLICY THAT IDENTIFIES A
+3 [SUPPLEMENTAL] PROCESS FOR PROMPT RESOLUTION OF DISPUTES BETWEEN COUNTY
+4 SCHOOL SUPERINTENDENTS, PARENTS OF PUPILS AND LOCAL EDUCATION AGENCIES,
+5 RELATING TO ANY OF THE FOLLOWING:
+6 (a) APPLICATIONS FOR ENROLLMENT OF PUPILS PURSUANT TO THIS SECTION.
+7 (b) THE PROVISION OF SERVICES REQUIRED PURSUANT TO THIS CHAPTER AND
+8 CHAPTER 7, ARTICLE 4 OF THIS TITLE.
+9 (c) FUNDING FOR A PUPIL'S EDUCATION PURSUANT TO THIS SECTION.
+10 (d) DENIALS OR DELAYS OF ANY OF ITEMS LISTED IN SUBDIVISION (a),
+11 (b) OR (c) OF THIS PARAGRAPH.
+12 2. ENSURE [THAT BOTH] [ALL OF THE FOLLOWING]:
+13 (a) [THAT] ANY DISPUTE ARISING UNDER THIS SECTION IS DECIDED NOT
+14 LATER THAN TEN BUSINESS DAYS AFTER THE DISPUTE RESOLUTION PROCESS IS
+15 INITIATED.
+16 (b) [THAT] A PUPIL IS ENROLLED IN A [LOCAL EDUCATION AGENCY]
+17 [SCHOOL DISTRICT] AND RECEIVES SERVICES PURSUANT TO THIS CHAPTER AND
+18 CHAPTER 7, ARTICLE 4 OF THIS TITLE WHILE THE DISPUTE IS PENDING.
+19 [(c) THAT THE DISPUTE RESOLUTION PROCESS DOES NOT LIMIT OR DELAY A
+20 PUPIL'S OR PARENT'S ACCESS TO THE STATE COMPLAINT PROCESS OR DUE PROCESS
+21 PROCEDURES UNDER THE INDIVIDUALS WITH DISABILITIES EDUCATION ACT (20
+22 UNITED STATES CODE SECTIONS 1401 THROUGH 1485).]
+23 3. INVESTIGATE ANY [SUBSTANTIATED CLAIMS OR] COMPLAINTS [THAT] THE
+24 DEPARTMENT RECEIVES THAT ALLEGE THAT A [PERSON] [POLITICAL SUBDIVISION OR
+25 AGENCY] IS VIOLATING THIS SECTION OR SECTION 15-768.
+26 4. ANNUALLY COMPILE A REPORT REGARDING INVESTIGATIONS PURSUANT TO
+27 PARAGRAPH 3 OF THIS SUBSECTION AND ANY CORRECTIVE ACTIONS TAKEN IN THE
+28 IMMEDIATELY PRECEDING YEAR AND POST THE REPORT ON THE DEPARTMENT'S
+29 WEBSITE.
+30 [O. SUBSECTIONS A AND C OF THIS SECTION DO NOT PRECLUDE A PUPIL, A
+31 PUPIL'S PARENT, A STATE PLACING AGENCY, A PUPIL'S LEGAL REPRESENTATIVE OR
+32 ANY OTHER INTERESTED PARTY FROM SUBMITTING AN APPLICATION FOR A
+33 CERTIFICATE OF EDUCATIONAL CONVENIENCE FOR THE PUPIL TO THE COUNTY SCHOOL
+34 SUPERINTENDENT.]
+35 [O.] [P.] FOR THE PURPOSES OF THIS SECTION:
+36 1. "CHILD FIND" HAS THE SAME MEANING PRESCRIBED IN SECTION 15-768.
+37 2. "FREE APPROPRIATE PUBLIC EDUCATION" HAS THE SAME MEANING
+38 PRESCRIBED IN SECTION 15-768.
+39 3. "PARENT" HAS THE SAME MEANING PRESCRIBED IN SECTION 15-761.
+40 4. "STATE PLACING AGENCY" HAS THE SAME MEANING PRESCRIBED IN
+41 SECTION 15-1181.
+42 5. "UNORGANIZED TERRITORY" MEANS A GEOGRAPHIC AREA THAT IS NOT
+43 LOCATED WITHIN THE BOUNDARIES OF ANY SCHOOL DISTRICT.
+-14-
+
+House Amendments to H.B. 2621
+1 Sec. 6. Section 15-944, Arizona Revised Statutes, is amended to
+2 read:
+3 15-944. Base revenue control limit
+4 A. The base revenue control limit for each school district for
+5 fiscal year 1980-1981 is computed as follows:
+6 1. Add the amounts in the fiscal year 1979-1980 budget effective
+7 May 15, 1980 for general operating and special education.
+8 2. Subtract the following budgeted revenues from the sum obtained
+9 in paragraph 1 of this subsection:
+10 (a) Tuition paid for attendance of nonresident pupils.
+11 (b) State assistance as provided in section 15-976.
+12 (c) Special education revenues as provided in section 15-825,
+13 subsection D G and section 15-1204.
+14 (d) Proceeds from the sale or lease of school property as provided
+15 in section 15-1102.
+16 3. Add the increase in the base support level from fiscal year
+17 1979-1980 to fiscal year 1980-1981 to the difference obtained in paragraph
+18 2 of this subsection.
+19 B. The equalization factor for each school district is computed as
+20 follows:
+21 1. Divide the sum obtained in subsection A, paragraph 3 of this
+22 section by the base support level for fiscal year 1980-1981.
+23 2. Subtract 1.0 from the quotient obtained in paragraph 1 of this
+24 subsection to obtain the equalization factor.
+25 C. The revenue variation factor for each fiscal year is as follows:
+26 1. For fiscal year 1981-1982, 0.80.
+27 2. For fiscal year 1982-1983, 0.60.
+28 3. For fiscal year 1983-1984, 0.40.
+29 4. For fiscal year 1984-1985, 0.20.
+30 D. The base revenue control limit for each school district during
+31 the five years in which the equalization plan is in operation is computed
+32 as follows:
+33 1. Multiply the equalization factor by the revenue variation factor
+34 for the applicable year. Beginning with fiscal year 1983-1984 if the
+35 resulting product is less than negative 0.08, use negative 0.08 for
+36 computation purposes as provided in paragraph 2 of this subsection.
+37 2. Multiply the product obtained in paragraph 1 of this subsection
+38 by the base support level for the applicable year.
+39 3. Add the base support level for the applicable year to the
+40 product obtained in paragraph 2 of this subsection.
+41 E. For fiscal year 1985-1986 and each fiscal year thereafter, the
+42 base revenue control limit equals the base support level for the same
+43 fiscal year.
+-15-
+
+House Amendments to H.B. 2621
+1 Sec. 7. Section 15-947, Arizona Revised Statutes, is amended to
+2 read:
+3 15-947. Revenue control limit; district support level;
+4 general budget limit; unrestricted total capital
+5 budget limit; district additional assistance limit
+6 A. The revenue control limit for a school district is equal to the
+7 sum of the base revenue control limit determined in section 15-944 and the
+8 transportation revenue control limit determined in section 15-946.
+9 B. The district support level for a school district is equal to the
+10 sum of the base support level determined in section 15-943 and the
+11 transportation support level determined in section 15-945.
+12 C. The general budget limit for each school district, for each
+13 fiscal year, is the sum of the following:
+14 1. The maintenance and operations portion of the revenue control
+15 limit for the budget year.
+16 2. The maintenance and operation portion of the following amounts:
+17 (a) Amounts that are fully funded by revenues other than a levy of
+18 taxes on the taxable property within the school district, as listed below:
+19 (i) Amounts budgeted as the budget balance carryforward as provided
+20 in section 15-943.01.
+21 (ii) Tuition revenues for attendance of nonresident pupils.
+22 (iii) State assistance as provided in section 15-976.
+23 (iv) Special education revenues as provided in section 15-825,
+24 subsection D G and section 15-1204.
+25 (v) Title VIII of the elementary and secondary education act of
+26 1965 assistance determined for children with disabilities, children with
+27 specific learning disabilities, children residing on Indian lands and
+28 children residing within the boundaries of an accommodation school that is
+29 located on a military reservation and that is classified as a heavily
+30 impacted local educational agency pursuant to 20 United States Code
+31 section 7703 as provided in section 15-905, subsections K and O.
+32 (vi) Title VIII of the elementary and secondary education act of
+33 1965 administrative costs as provided in section 15-905, subsection P.
+34 (vii) State assistance for excess tuition as provided in section
+35 15-825.01.
+36 (viii) Transportation revenues for attendance of nonresident
+37 pupils.
+38 (b) Amounts approved pursuant to an override election as provided
+39 in section 15-481 for the applicable fiscal year.
+40 (c) Amounts authorized by the county school superintendent pursuant
+41 to section 15-974, subsection B.
+42 (d) Expenditures for complying with a court order of desegregation
+43 as provided in section 15-910.
+44 (e) Interest on registered warrants or tax anticipation notes as
+45 provided in section 15-910.
+-16-
+
+House Amendments to H.B. 2621
+1 (f) Amounts budgeted for a jointly owned and operated career and
+2 technical education and vocational education center as provided in section
+3 15-910.01.
+4 3. The maintenance and operations portion of district additional
+5 assistance for the budget year.
+6 4. Any other budget item that is budgeted in the maintenance and
+7 operation section of the budget and that is specifically exempt from the
+8 revenue control limit or district additional assistance.
+9 D. The unrestricted capital budget limit, for each school district
+10 for each fiscal year, is the sum of the following:
+11 1. The federal impact adjustment as determined in section 15-964
+12 for the budget year.
+13 2. Any other budget item that is budgeted in the capital outlay
+14 section of the budget and that is specifically exempt from district
+15 additional assistance.
+16 3. The unrestricted capital portion of the amounts contained in
+17 subsection C of this section.
+18 4. The unexpended budget balance in the unrestricted capital outlay
+19 fund from the previous fiscal year.
+20 5. The net interest earned in the unrestricted capital outlay fund
+21 from the previous fiscal year.
+22 Sec. 8. Section 15-976, Arizona Revised Statutes, is amended to
+23 read:
+24 15-976. Assistance for school districts for children whose
+25 parents are employed by certain state institutions;
+26 expenditure limitation
+27 A. The superintendent of public instruction shall assist school
+28 districts in educating children whose parents or legal guardians are
+29 employed by and domiciled at the following state institutions and
+30 stations: the state hospital, the Arizona state schools for the deaf and
+31 the blind, intellectual disability centers, port of entry inspection
+32 stations and institutions and facilities maintained by the state
+33 department of corrections. The school enrollment is deemed for the
+34 purpose of determining student count to be enrollment in the school
+35 district of actual attendance. The assistance shall be by payment of
+36 tuition as follows:
+37 1. For group B children with disabilities, as provided in section
+38 15-825, subsection D G.
+39 2. For children other than group B children with disabilities, the
+40 costs per student count as prescribed in section 15-824, subsection G
+41 minus the amount generated by the equalization base as determined in
+42 section 15-971, subsection A for those pupils, except that the tuition for
+43 any pupil shall not exceed an amount equal to seven thousand dollars
+44 $7,000 minus the amount generated by the equalization base as determined
+45 in section 15-971, subsection A.
+-17-
+
+House Amendments to H.B. 2621
+1 B. Claims for such payments shall be made by the school districts
+2 through the county school superintendent to the superintendent of public
+3 instruction.
+4 C. The total amount of state monies that may be spent in any fiscal
+5 year by the superintendent of public instruction pursuant to subsection A
+6 of this section shall not exceed the amount appropriated or authorized by
+7 section 35-173 for that purpose. This section shall DOES not be construed
+8 to impose a duty on an officer, agent or employee of this state to
+9 discharge a responsibility or to create any right in a person or group if
+10 the discharge or right would require an expenditure of state monies in
+11 excess of the expenditure authorized by legislative appropriation for that
+12 specific purpose."
+13 Enroll and engross to conform
+14 Amend title to conform
+MATT GRESS
+2621FloorGRESS.docx
+03/06/2026
+1:13 PM
+C: VS
+130BNZPGX
+-18-

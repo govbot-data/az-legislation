@@ -1,0 +1,364 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Judiciary - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Judiciary
+Second Regular Session H.B. 2766
+PROPOSED
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2766
+(Reference to printed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 13-4296, Arizona Revised Statutes, is amended
+3 to read:
+4 13-4296. Erroneous convictions; compensation; pilot program;
+5 definitions
+6 A. Notwithstanding any other law, a claimant may bring an action in
+7 superior court seeking compensation from this state if the claimant
+8 establishes, by a preponderance of the evidence, that all of the following
+9 apply:
+10 1. The claimant was convicted of a felony and subsequently
+11 incarcerated.
+12 2. The claimant did not commit the crime or crimes for which the
+13 claimant was convicted.
+14 3. The claimant did not commit perjury, fabricate evidence or by
+15 the claimant's own conduct cause or bring about the conviction. A
+16 confession or admission later found to be false or a guilty plea does not
+17 constitute committing perjury, fabricating evidence or causing or bringing
+18 about the conviction.
+19 4. One of the following applies:
+20 (a) The claimant was pardoned based on innocence.
+21 (b) The claimant's judgment of conviction was reversed or vacated
+22 and the charges were dismissed or the claimant was found not guilty on
+23 retrial.
+24 (c) The claimant's judgment of conviction was reversed or vacated
+25 and the claimant entered an Alford plea or a plea of no contest, while
+26 maintaining a claim of innocence, RESULTING IN THE CLAIMANT'S RELEASE FROM
+27 INCARCERATION after the conviction was overturned, reversed or vacated on
+28 direct appeal or postconviction review when the claimant would otherwise
+29 have been entitled to a new trial.
+30 B. All pleadings shall be entitled "in the matter of the erroneous
+31 conviction of _____". The claimant shall serve A COPY OF THE CLAIM ON the
+32 attorney general with a copy of the claim. The SUPERIOR court shall
+33 decide the claim. The Arizona rules of civil procedure apply. The action
+34 shall be brought in the county of conviction or in Maricopa county.
+35 C. The claimant shall bring the claim within two years after one of
+36 the following occurs:
+37 1. The claimant's conviction is overturned or vacated and the
+38 charges against the claimant are dismissed, the claimant is found not
+
+House Amendments to H.B. 2766
+1 guilty on retrial or the claimant enters a plea of PLED no contest,
+2 RESULTING IN THE CLAIMANT'S RELEASE FROM INCARCERATION, whichever occurs
+3 later.
+4 2. The claimant is pardoned based on innocence.
+5 3. January 1, 2026 if the claimant was convicted, incarcerated and
+6 released from custody before January 1, 2026.
+7 D. The attorney general shall respond within thirty SIXTY days to
+8 the claim. The attorney general may request a single thirty-day extension
+9 to respond on a showing of good cause. The parties may stipulate to an
+10 additional extension of time TAKING INTO CONSIDERATION THE AGE OF THE CASE
+11 AND THE COMPLEXITY OF THE FACTS AND LEGAL ISSUES RAISED. The attorney
+12 general may include in the response a request that the court make findings
+13 of fact that a city or county employee committed harmful error or
+14 misconduct. If the attorney general requests findings of fact regarding
+15 whether a city or county employee committed harmful error or misconduct,
+16 the attorney general has the burden of proof by a preponderance of the
+17 evidence.
+18 E. If the attorney general does not object in the response OR
+19 OTHERWISE SEEK DISMISSAL OF THE CLAIM, the court shall enter an order
+20 granting the erroneous conviction claim. ON ITS OWN MOTION OR ON THE
+21 MOTION OF THE ATTORNEY GENERAL, THE COURT MAY DISMISS THE COMPLAINT IF THE
+22 COURT DETERMINES THAT THE CLAIMANT DOES NOT STATE A CLAIM FOR WHICH RELIEF
+23 MAY BE GRANTED. If the attorney general objects, the court shall order
+24 and hold an evidentiary hearing. A court order that grants or denies the
+25 claim shall include findings of fact and conclusions of law. If requested
+26 by the attorney general, the court shall make findings of fact regarding
+27 whether a city or county employee committed harmful error or misconduct
+28 that was the proximate cause of the pardoning, reversal or vacating of a
+29 conviction. If not requested by the attorney general, the court, on its
+30 own motion, may find by a preponderance of the evidence that a city or
+31 county employee committed harmful error or misconduct that was the
+32 proximate cause of the pardoning, reversal or vacating of a
+33 conviction. The court may consider any findings of fact developed on the
+34 record of the underlying criminal offense related to the conviction. or
+35 actions by city or county employees. The court shall notify the
+36 appropriate city or county prosecuting agency if the attorney general
+37 requests or the court makes a finding that a city or county employee
+38 committed harmful error or misconduct that was the proximate cause of the
+39 pardoning, reversal or vacating of the conviction and allow the city or
+40 county to respond within fourteen days. The city or county may not
+41 request to intervene in the claimant's action seeking compensation and may
+42 only respond as to whether the employee committed harmful error or
+43 misconduct that was the proximate cause of the pardoning, reversal or
+44 vacating of the conviction by a preponderance of the evidence.
+-2-
+
+House Amendments to H.B. 2766
+1 F. If the court enters an order granting the claim, the court shall
+2 award compensation ONLY FOR THE AMOUNTS ACTUALLY DUE TO THE CLAIMANT FROM
+3 THIS STATE AND MAY AWARD INTEREST as follows:
+4 1. For each year the claimant was incarcerated, two hundred percent
+5 of the median household income in this state as it existed on the date the
+6 claimant was incarcerated and as determined by the United States
+7 department of housing and urban development and adjusted for inflation
+8 using the consumer price index for urban consumers THIS STATE'S MEDIAN
+9 HOUSEHOLD INCOME AS PUBLISHED IN THE AMERICAN COMMUNITY SURVEY OF THE
+10 UNITED STATES BUREAU FOR THE YEAR THE ORDER OF ELIGIBILITY IS ISSUED. The
+11 amount for any partial year shall be prorated in order to compensate the
+12 claimant only for the portion of the year in which the claimant was
+13 incarcerated. The claimant may not receive compensation for any period of
+14 time for which the claimant was concurrently serving another sentence for
+15 a conviction of another offense for which the claimant was lawfully
+16 incarcerated. THE COURT MAY AWARD INTEREST ON THE AMOUNT AWARDED PURSUANT
+17 TO THIS PARAGRAPH FROM THE TIME OF ENTRY UNTIL THE JUDGMENT IS PAID.
+18 2. The claimant may request more than the amount of compensation
+19 awarded pursuant to paragraph 1 of this subsection. Any additional amount
+20 of compensation awarded to the claimant shall be paid from the erroneous
+21 convictions fund pursuant to subsection M of this section. If the
+22 claimant requests additional compensation, the court must hold an
+23 evidentiary hearing. The court shall consider the pro per SE status of
+24 the claimant in determining whether additional compensation is warranted.
+25 The claimant may present evidence of other damages the claimant suffered
+26 arising from or related to the claimant's arrest, prosecution, conviction
+27 and incarceration. The court may award up to $500,000 in additional
+28 compensation. THE COURT MAY AWARD INTEREST ON THE AMOUNT AWARDED PURSUANT
+29 TO THIS PARAGRAPH FROM THE TIME OF ENTRY UNTIL THE JUDGMENT IS PAID.
+30 3. $25,000 per year for each year the claimant was incarcerated on
+31 death row or each year the clamant was required to register pursuant to
+32 section 13-3821. THE COURT MAY AWARD INTEREST ON THE AMOUNT AWARDED
+33 PURSUANT TO THIS PARAGRAPH FROM THE TIME OF ENTRY UNTIL THE JUDGMENT IS
+34 PAID.
+35 4. Reimbursement of not more than $100,000 for reintegrative
+36 services and mental and physical health care costs that the claimant
+37 incurred for the time period between the claimant's release from custody
+38 and the entry of judgment.
+39 5. Reimbursement for unreimbursed costs, fines, fees or surcharges
+40 that were imposed on the claimant as a result of the erroneous conviction
+41 and that were paid by or on behalf of the claimant.
+42 6. Reimbursement for unreimbursed restitution that was paid by or
+43 on behalf of the claimant as a result of the erroneous conviction.
+44 7. Reasonable attorney fees and costs of not more than $25,000
+45 unless the court authorizes a greater reasonable total on a finding of
+46 good cause shown.
+47 G. Compensation awarded to the claimant pursuant to this section
+48 does not constitute gross income for the purposes of title 42 or 43.
+-3-
+
+House Amendments to H.B. 2766
+1 H. The court shall order that the award be paid in one lump sum to
+2 the claimant AND SHALL ENTER JUDGMENT AS REQUIRED BY THE ARIZONA RULES OF
+3 CIVIL PROCEDURE.
+4 I. In addition to the compensation awarded pursuant to subsection F
+5 of this section, the claimant is entitled to the following services from
+6 licensed or accredited state institutions, agencies or providers within
+7 this state:
+8 1. Reimbursement for mental health treatment for up to fifty-two
+9 clinical hours at a maximum of $250 per hour within twelve months after
+10 the court's order awarding compensation.
+11 2. Reimbursement for up to one hundred twenty credit hours at any
+12 postsecondary educational institution, vocational school or trade school.
+13 3. Reimbursement for up to four financial planning or literacy
+14 classes or consultations within twelve months after the court's order
+15 awarding compensation.
+16 J. If, at the time the court enters a judgment pursuant to
+17 subsection F of this section, the claimant has won a monetary judgment
+18 against this state or any political subdivision of this state in a civil
+19 action related to the erroneous conviction or has entered into a
+20 settlement agreement with this state or any political subdivision of this
+21 state related to the erroneous conviction, the court shall deduct the
+22 amount awarded in the action or the amount received in the settlement
+23 agreement, less any sums paid to an attorney or for costs in litigating
+24 the other civil action or obtaining the settlement agreement, from the
+25 monies that the claimant is entitled to receive under this section. The
+26 court shall include in the judgment an award to this state of any amount
+27 that is deducted pursuant to this subsection.
+28 K. If subsection J of this section does not apply, any future
+29 damages that are awarded to the claimant resulting from an action by the
+30 claimant against any unit of government in this state by reason of the
+31 erroneous conviction shall be offset by the compensation award received
+32 under this section.
+33 L. The compensation award may not be offset by any expenses
+34 incurred by this state or any political subdivision of this state,
+35 including the following:
+36 1. Any expenses that this state or a political subdivision of this
+37 state incurred to secure the claimant's custody or to feed, clothe or
+38 provide medical services for the claimant.
+39 2. The value of any services or reduction in fees for service, or
+40 the value thereof to be provided to the claimant that may be awarded to
+41 the claimant pursuant to this section.
+42 M. If the court finds that the claimant is entitled to
+43 compensation, the court shall issue a finding that the claimant was
+44 erroneously convicted and, as a result, served a specific amount of time
+45 erroneously incarcerated. The clerk of the court shall send a certified
+46 copy of the order to the department of administration for payment from the
+47 erroneous convictions fund established pursuant to BY section 41-710.03.
+48 If sufficient monies are available, the department of administration shall
+-4-
+
+House Amendments to H.B. 2766
+1 remit from the erroneous convictions fund the payment to the claimant
+2 within forty-five days. Any claims for reimbursement under subsection I
+3 of this section shall be submitted to the DEPARTMENT OF administration for
+4 approval and, if sufficient monies are available, paid from the erroneous
+5 convictions fund within fourteen FORTY-FIVE days after receipt. If the
+6 court made findings of fact that a city employee committed harmful error
+7 or misconduct that was the proximate cause of the pardoning, reversal or
+8 vacating of the conviction, the city shall reimburse all payments made to
+9 the claimant from the erroneous convictions fund. If the court made
+10 findings of fact that a county employee committed harmful error or
+11 misconduct that was the proximate cause of the pardoning, reversal or
+12 vacating of the conviction, the county of conviction shall reimburse all
+13 payments made to the claimant from the erroneous convictions fund. For
+14 claims paid pursuant to subsection F of this section, the city or county
+15 shall make the reimbursement required by this subsection to the erroneous
+16 convictions fund within forty-five days after the payment from the
+17 erroneous convictions fund to the claimant. For claims paid pursuant to
+18 subsection I of this section, the city or county shall make the
+19 reimbursement required by this subsection to the erroneous convictions
+20 fund within fourteen days after the payment from the erroneous convictions
+21 fund to the claimant.
+22 N. Notwithstanding any other law, on entry of an erroneous
+23 conviction ruling, the court shall:
+24 1. Order the claimant's associated convictions and arrests expunged
+25 from all applicable state and federal systems and the records sealed. The
+26 court shall enter the expungement order for the offense or offenses for
+27 which the ruling applies regardless of whether the claimant has a
+28 historical prior felony conviction. The expungement order shall state all
+29 of the following:
+30 (a) The claimant's current full name.
+31 (b) The claimant's full name at the time of arrest and conviction,
+32 if different than the claimant's current name.
+33 (c) The claimant's sex, race and date of birth.
+34 (d) The offense for which the claimant was arrested and convicted.
+35 (e) The dates of the claimant's arrest and conviction.
+36 (f) The identity of the arresting law enforcement agency and
+37 convicting court.
+38 (g) That the order expunges any record of the claimant's arrest,
+39 charge, conviction or adjudication and sentence.
+40 (h) That the claimant's civil rights, including the right to
+41 possess firearms, are restored, unless the claimant is otherwise not
+42 eligible for the restoration of civil rights on grounds other than the
+43 conviction at issue.
+44 (i) That the clerk of the court shall notify the department of
+45 public safety, the prosecuting agency and the arresting law enforcement
+46 agency, if applicable, of the expungement order.
+47 (j) That the clerk of the court shall seal the claimant's records
+48 relating to the expunged arrest, charge, conviction or adjudication and
+-5-
+
+House Amendments to H.B. 2766
+1 sentence and allow the claimant's records to be accessed only by the
+2 claimant or the claimant's attorney.
+3 2. Direct the department of public safety to expunge and destroy
+4 any biological samples, including DNA and fingerprint samples, received by
+5 the department pursuant to section 13-610. The clerk of the court shall
+6 send a certified copy of the order to the department of public safety,
+7 which shall implement the order and provide confirmation of the action to
+8 the court. This paragraph does not require the department of public
+9 safety to expunge and destroy samples or a profile record that is
+10 associated with the claimant and that relates to an unrelated offense.
+11 O. The department of public safety shall seal and separate the
+12 expunged record from the department's records and shall inform all
+13 appropriate state and federal law enforcement agencies of the expungement
+14 at no cost to the claimant. The state department of corrections shall
+15 seal and separate the expunged record from the department's records and
+16 may not make information related to the expunged conviction publicly
+17 available through any department database.
+18 P. The arresting and prosecuting agencies shall clearly identify in
+19 each agency's files and electronic records that the claimant was
+20 erroneously convicted and that the arrest, charge, conviction or
+21 adjudication and sentence are expunged and may not make any records of the
+22 expunged arrest, charge, conviction or adjudication and sentence available
+23 as a public record to any person except to the claimant or the claimant's
+24 attorney.
+25 Q. Pursuant to the expungement order, the claimant shall be treated
+26 as not having been arrested for, adjudicated delinquent for or convicted
+27 of the expunged offense. The expunged arrest, charge, adjudication,
+28 conviction or sentence may not be used in a subsequent prosecution by a
+29 prosecuting agency or court for any purpose. The claimant may state that
+30 the claimant has never been arrested for, charged with, adjudicated
+31 delinquent for, convicted of or sentenced for the offense that is the
+32 subject of the expungement.
+33 R. The claimant may request that this action and erroneous
+34 conviction ruling be sealed.
+35 S. The court's decision to grant or deny an erroneous conviction
+36 claim is not res judicata on any other proceedings.
+37 T. If the court denies an erroneous conviction claim, the claimant
+38 may file a direct appeal pursuant to section 13-4033, subsection A,
+39 paragraph 3.
+40 T. EACH PARTY HAS A RIGHT TO APPEAL THE FINAL JUDGMENT ON AN
+41 ERRONEOUS CONVICTION CLAIM.
+42 U. If the victim has made a request for postconviction notice, the
+43 attorney general shall provide the victim with notice of the claimant's
+44 claim and of the rights provided to the victim in this section. The
+45 rights and duties prescribed in chapter 40 of this title continue to be
+46 enforceable throughout the proceedings held pursuant to this section.
+-6-
+
+House Amendments to H.B. 2766
+1 V. If the court finds that the claimant is entitled to a judgment,
+2 a victim as defined in section 13-4401 is entitled to reimbursement for
+3 mental health treatment for up to fifty-two clinical hours within twelve
+4 months after the court's order awarding compensation at a maximum of $250
+5 per hour pursuant to the victim compensation and assistance fund
+6 established by section 41-2407. The victim does not need to establish any
+7 other eligibility requirements to receive reimbursement for mental health
+8 services.
+9 W. THIS STATE HAS THE RIGHT OF SUBROGATION TO THE EXTENT OF ANY
+10 AMOUNT AWARDED PURSUANT TO THIS SECTION, AGAINST ANY PERSON WHO COMMITTED
+11 HARMFUL ERROR OR WHO ENGAGED IN MISCONDUCT THAT DIRECTLY RESULTED IN OR
+12 CONTRIBUTED TO THE WRONGFUL CONVICTION AND IMPRISONMENT OF THE CLAIMANT.
+13 X. FOR THE PURPOSES OF THIS SECTION:
+14 1. "HARMFUL ERROR":
+15 (a) MEANS AN ERROR THAT AFFECTED THE CLAIMANT'S SUBSTANTIVE RIGHTS.
+16 (b) DOES NOT INCLUDE INNOCENT, INADVERTENT OR NEGLIGENT CONDUCT
+17 THAT AFFECTED THE CLAIMANT'S SUBSTANTIVE RIGHTS.
+18 2. "MISCONDUCT" MEANS AN INTENTIONAL, RECKLESS OR GROSSLY NEGLIGENT
+19 ACTION OR ACTIONS THAT DEMONSTRATE EITHER:
+20 (a) A DESIRE TO ACHIEVE AN IMPROPER RESULT.
+21 (b) A PATTERN OF DISREGARD FOR LEGAL OR ETHICAL OBLIGATIONS.
+22 Sec. 2. Section 41-710.03, Arizona Revised Statutes, is amended to
+23 read:
+24 41-710.03. Erroneous convictions fund; appropriations;
+25 payment prioritization
+26 A. The erroneous convictions fund is established consisting of
+27 monies appropriated to the fund by the legislature. The department of
+28 administration shall administer the fund. Monies in the fund are
+29 continuously appropriated and are exempt from the provisions of section
+30 35-190 relating to lapsing of appropriations.
+31 B. BEGINNING IN FISCAL YEAR 2027-2028 AND EACH FISCAL YEAR
+32 THEREAFTER, IF THE BALANCE OF THE ERRONEOUS CONVICTIONS FUND IS LESS THAN
+33 $3,000,000 ON JANUARY 1, AN AMOUNT EQUAL TO $3,000,000 MINUS THE REMAINING
+34 BALANCE OF THE ERRONEOUS CONVICTIONS FUND ON JANUARY 1 OF EACH YEAR IS
+35 APPROPRIATED FROM THE STATE GENERAL FUND TO THE ERRONEOUS CONVICTIONS
+36 FUND.
+37 B. C. The department of administration shall use the monies
+38 deposited in the erroneous convictions fund to fund claims brought PAY
+39 COMPENSATION AWARDED pursuant to title 13, chapter 38, article 36. AN
+40 AGENCY, BOARD, COMMISSION OR DEPARTMENT OF THIS STATE MAY NOT USE MONIES
+41 FROM ANY FUND OR SOURCE OTHER THAN THE ERRONEOUS CONVICTIONS FUND TO PAY
+42 ANY CLAIM AWARDED PURSUANT TO TITLE 13, CHAPTER 38, ARTICLE 36. THIS
+43 STATE IS NOT LIABLE FOR ANY AMOUNT TO PAY ANY CLAIM AWARDED PURSUANT TO
+44 TITLE 13, CHAPTER 38, ARTICLE 36 IN EXCESS OF THE MONIES AVAILABLE IN THE
+45 ERRONEOUS CONVICTIONS FUND.
+-7-
+
+House Amendments to H.B. 2766
+1 D. THE DEPARTMENT OF ADMINISTRATION SHALL PRIORITIZE THE PAYMENT OF
+2 CLAIMS AWARDED PURSUANT TO TITLE 13, CHAPTER 38, ARTICLE 36 IN THE ORDER
+3 IN WHICH THE CLAIMANT AWARDS ARE RECEIVED BY THE DEPARTMENT. THE
+4 DEPARTMENT SHALL MAKE FULL OR PARTIAL PAYMENTS ON OUTSTANDING UNPAID
+5 AWARDS IN ORDER OF PRIORITY AS ADDITIONAL MONIES BECOME AVAILABLE IN THE
+6 ERRONEOUS CONVICTIONS FUND."
+7 Amend title to conform
+KHYL POWELL
+2766POWELL SE.docx
+02/09/2026
+2:21 PM
+C: JV
+130RUYQKQ
+-8-

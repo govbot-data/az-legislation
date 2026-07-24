@@ -1,0 +1,773 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Appropriations
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON APPROPRIATIONS
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1519
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 28-101, Arizona Revised Statutes, is amended to
+3 read:
+4 28-101. Definitions
+5 In this title, unless the context otherwise requires:
+6 1. "Alcohol" means any substance containing any form of alcohol,
+7 including ethanol, methanol, propynol and isopropynol.
+8 2. "Alcohol concentration" if expressed as a percentage means
+9 either:
+10 (a) The number of grams of alcohol per one hundred milliliters of
+11 blood.
+12 (b) The number of grams of alcohol per two hundred ten liters of
+13 breath.
+14 3. "All-terrain vehicle" means either of the following:
+15 (a) A motor vehicle that satisfies all of the following:
+16 (i) Is designed primarily for recreational nonhighway all-terrain
+17 travel.
+18 (ii) Is fifty or fewer inches in width.
+19 (iii) Has an unladen weight of one thousand two hundred pounds or
+20 less.
+21 (iv) Travels on three or more nonhighway tires.
+22 (v) Is operated on a public highway.
+23 (b) A recreational off-highway vehicle that satisfies all of the
+24 following:
+25 (i) Is designed primarily for recreational nonhighway all-terrain
+26 travel.
+27 (ii) Is eighty or fewer inches in width.
+
+House Amendments to S.B. 1519
+1 (iii) Has an unladen weight of two THREE thousand five hundred
+2 pounds or less.
+3 (iv) Travels on four or more nonhighway tires.
+4 (v) Has a steering wheel for steering control.
+5 (vi) Has a rollover protective structure.
+6 (vii) Has an occupant retention system.
+7 4. "Authorized emergency vehicle" means any of the following:
+8 (a) A fire department vehicle.
+9 (b) A police vehicle.
+10 (c) An ambulance or emergency vehicle of a municipal department or
+11 public service corporation that is designated or authorized by the
+12 department or a local authority.
+13 (d) Any other ambulance, fire truck or rescue vehicle that is
+14 authorized by the department in its sole discretion and that meets
+15 liability insurance requirements prescribed by the department.
+16 5. "Autocycle" means a three-wheeled motorcycle on which the driver
+17 and passengers ride in a fully or partially enclosed seating area that is
+18 equipped with a roll cage, safety belts for each occupant and antilock
+19 brakes and that is designed to be controlled with a steering wheel and
+20 pedals.
+21 6. "Automated driving system" means the hardware and software that
+22 are collectively capable of performing the entire dynamic driving task on
+23 a sustained basis, regardless of whether it is limited to a specific
+24 operational design domain.
+25 7. "Automotive recycler" means a person that is engaged in the
+26 business of buying or acquiring a motor vehicle solely for the purpose of
+27 dismantling, selling or otherwise disposing of the parts or accessories
+28 and that removes parts for resale from six or more vehicles in a calendar
+29 year.
+30 8. "Autonomous vehicle" means a motor vehicle that is equipped with
+31 an automated driving system.
+32 9. "Aviation fuel" means all flammable liquids composed of a
+33 mixture of selected hydrocarbons expressly manufactured and blended for
+34 the purpose of effectively and efficiently operating an internal
+35 combustion engine for use in an aircraft but does not include fuel for jet
+36 or turbine powered aircraft.
+37 10. "Bicycle" means a device, including a racing wheelchair, that
+38 is propelled by human power and on which a person may ride and that has
+39 either:
+40 (a) Two tandem wheels, either of which is more than sixteen inches
+41 in diameter.
+42 (b) Three wheels in contact with the ground, any of which is more
+43 than sixteen inches in diameter.
+44 11. "Board" means the transportation board.
+45 12. "Bus" means a motor vehicle designed for carrying sixteen or
+46 more passengers, including the driver.
+-2-
+
+House Amendments to S.B. 1519
+1 13. "Business district" means the territory contiguous to and
+2 including a highway if there are buildings in use for business or
+3 industrial purposes within any six hundred feet along the highway,
+4 including hotels, banks or office buildings, railroad stations and public
+5 buildings that occupy at least three hundred feet of frontage on one side
+6 or three hundred feet collectively on both sides of the highway.
+7 14. "Certificate of ownership" means a paper or an electronic
+8 record that is issued in another state or a foreign jurisdiction and that
+9 indicates ownership of a vehicle.
+10 15. "Certificate of title" means a paper document or an electronic
+11 record that is issued by the department and that indicates ownership of a
+12 vehicle.
+13 16. "Combination of vehicles" means a truck or truck tractor and
+14 semitrailer and any trailer that it tows but does not include a forklift
+15 designed for the purpose of loading or unloading the truck, trailer or
+16 semitrailer.
+17 17. "Controlled substance" means a substance so classified under
+18 section 102(6) of the controlled substances act (21 United States Code
+19 section 802(6)) and includes all substances listed in schedules I through
+20 V of 21 Code of Federal Regulations part 1308.
+21 18. "Conviction" means:
+22 (a) An unvacated adjudication of guilt or a determination that a
+23 person violated or failed to comply with the law in a court of original
+24 jurisdiction or by an authorized administrative tribunal.
+25 (b) An unvacated forfeiture of bail or collateral deposited to
+26 secure the person's appearance in court.
+27 (c) A plea of guilty or no contest accepted by the court.
+28 (d) The payment of a fine or court costs.
+29 19. "County highway" means a public road that is constructed and
+30 maintained by a county.
+31 20. "Dealer" means a person who is engaged in the business of
+32 buying, selling or exchanging motor vehicles, trailers or semitrailers and
+33 who has an established place of business and has paid fees pursuant to
+34 section 28-4302.
+35 21. "Department" means the department of transportation acting
+36 directly or through its duly authorized officers and agents.
+37 22. "Digital network or software application" has the same meaning
+38 prescribed in section 28-9551.
+39 23. "Director" means the director of the department of
+40 transportation.
+41 24. "Drive" means to operate or be in actual physical control of a
+42 motor vehicle.
+43 25. "Driver" means a person who drives or is in actual physical
+44 control of a vehicle.
+45 26. "Driver license" means a license that is issued by a state to
+46 an individual and that authorizes the individual to drive a motor vehicle.
+-3-
+
+House Amendments to S.B. 1519
+1 27. "Dynamic driving task":
+2 (a) Means all of the real-time operational and tactical functions
+3 required to operate a vehicle in on-road traffic.
+4 (b) Includes:
+5 (i) Lateral vehicle motion control by steering.
+6 (ii) Longitudinal motion control by acceleration and deceleration.
+7 (iii) Monitoring the driving environment by object and event
+8 detection, recognition, classification and response preparation.
+9 (iv) Object and event response execution.
+10 (v) Maneuver planning.
+11 (vi) Enhancing conspicuity by lighting, signaling and gesturing.
+12 (c) Does not include strategic functions such as trip scheduling
+13 and selecting destinations and waypoints.
+14 28. "Electric bicycle" means a bicycle or tricycle that is equipped
+15 with fully operable pedals and an electric motor of less than seven
+16 hundred fifty watts and that meets the requirements of one of the
+17 following classes:
+18 (a) "Class 1 electric bicycle" means a bicycle or tricycle that is
+19 equipped with an electric motor that provides assistance only when the
+20 rider is pedaling and that ceases to provide assistance when the bicycle
+21 or tricycle reaches the speed of twenty miles per hour.
+22 (b) "Class 2 electric bicycle" means a bicycle or tricycle that is
+23 equipped with an electric motor that may be used exclusively to propel the
+24 bicycle or tricycle and that is not capable of providing assistance when
+25 the bicycle or tricycle reaches the speed of twenty miles per hour.
+26 (c) "Class 3 electric bicycle" means a bicycle or tricycle that is
+27 equipped with an electric motor that provides assistance only when the
+28 rider is pedaling and that ceases to provide assistance when the bicycle
+29 or tricycle reaches the speed of twenty-eight miles per hour.
+30 29. "Electric miniature scooter" means a device that:
+31 (a) Weighs less than thirty pounds.
+32 (b) Has two or three wheels.
+33 (c) Has handlebars.
+34 (d) Has a floorboard on which a person may stand while riding.
+35 (e) Is powered by an electric motor or human power, or both.
+36 (f) Has a maximum speed that does not exceed ten miles per hour,
+37 with or without human propulsion, on a paved level surface.
+38 30. "Electric personal assistive mobility device" means a
+39 self-balancing device with one wheel or two nontandem wheels and an
+40 electric propulsion system that limits the maximum speed of the device to
+41 fifteen miles per hour or less and that is designed to transport only one
+42 person.
+43 31. "Electric standup scooter":
+44 (a) Means a device that:
+45 (i) Weighs less than seventy-five pounds.
+46 (ii) Has two or three wheels.
+47 (iii) Has handlebars.
+-4-
+
+House Amendments to S.B. 1519
+1 (iv) Has a floorboard on which a person may stand while riding.
+2 (v) Is powered by an electric motor or human power, or both.
+3 (vi) Has a maximum speed that does not exceed twenty miles per
+4 hour, with or without human propulsion, on a paved level surface.
+5 (b) Does not include an electric miniature scooter.
+6 32. "Evidence" includes both of the following:
+7 (a) A display on a wireless communication device of a
+8 department-generated driver license, nonoperating identification license,
+9 vehicle registration card or other official record of the department that
+10 is presented to a law enforcement officer or in a court or an
+11 administrative proceeding.
+12 (b) An electronic or digital license plate authorized pursuant to
+13 section 28-364.
+14 33. "Farm" means any lands primarily used for agriculture
+15 production.
+16 34. "Farm tractor" means a motor vehicle designed and used
+17 primarily as a farm implement for drawing implements of husbandry.
+18 35. "Foreign vehicle" means a motor vehicle, trailer or semitrailer
+19 that is brought into this state other than in the ordinary course of
+20 business by or through a manufacturer or dealer and that has not been
+21 registered in this state.
+22 36. "Fully autonomous vehicle" means an autonomous vehicle that is
+23 equipped with an automated driving system designed to function as a level
+24 four or five system under SAE J3016 and that may be designed to function
+25 either:
+26 (a) Solely by use of the automated driving system.
+27 (b) By a human driver when the automated driving system is not
+28 engaged.
+29 37. "Golf cart" means a motor vehicle that has not less than three
+30 wheels in contact with the ground, that has an unladen weight of less than
+31 one thousand eight hundred pounds, that is designed to be and is operated
+32 at not more than twenty-five miles per hour and that is designed to carry
+33 not more than four persons including the driver.
+34 38. "Gross combined weight rating" means the sum of the gross
+35 vehicle weight rating of a motor vehicle and the trailer or semitrailer
+36 the motor vehicle tows.
+37 39. "Gross vehicle weight rating" means the weight that is assigned
+38 by the motor vehicle manufacturer to a motor vehicle and that represents
+39 the maximum recommended total weight, including the vehicle and the load
+40 for the vehicle.
+41 40. "Hazardous material" means a material, and its mixtures or
+42 solutions, that the United States department of transportation determines
+43 under 49 Code of Federal Regulations is, or any quantity of a material
+44 listed as a select agent or toxin under 42 Code of Federal Regulations
+45 part 73 that is, capable of posing an unreasonable risk to health, safety
+46 and property if transported in commerce and that is required to be
+-5-
+
+House Amendments to S.B. 1519
+1 placarded or marked as required by the department's safety rules
+2 prescribed pursuant to chapter 14 of this title.
+3 41. "Human driver" means a natural person in the vehicle who
+4 performs in real time all or part of the dynamic driving task or who
+5 achieves a minimal risk condition for the vehicle.
+6 42. "Implement of husbandry" means a vehicle that is designed
+7 primarily for agricultural purposes and that is used exclusively in the
+8 conduct of agricultural operations, including an implement or vehicle that
+9 uses an automated driving system or that is autonomous or that is
+10 self-propelled or otherwise, whether operated manually, equipped with an
+11 automated driving system that is not in use or equipped with an automated
+12 driving system that is in use, and that meets both of the following
+13 conditions:
+14 (a) Is used solely for agricultural purposes, including the
+15 preparation or harvesting of cotton, alfalfa, grains, specialty crops and
+16 other farm crops. For the purposes of this subdivision, "specialty crops"
+17 includes fruits, vegetables, tree nuts, dried fruits and horticulture and
+18 nursery crops, including floriculture.
+19 (b) Is only incidentally operated or moved on a highway whether as
+20 a trailer or an autonomous vehicle or a self-propelled unit. For the
+21 purposes of this subdivision, "incidentally operated or moved on a
+22 highway" means travel between a farm and another part of the same farm,
+23 from one farm to another farm or between a farm and a place of repair,
+24 supply or storage.
+25 43. "Limousine" means a motor vehicle providing prearranged ground
+26 transportation service for an individual passenger, or a group of
+27 passengers, that is arranged in advance or is operated on a regular route
+28 or between specified points and includes ground transportation under a
+29 contract or agreement for services that includes a fixed rate or time and
+30 is provided in a motor vehicle with a seating capacity not exceeding
+31 fifteen passengers including the driver.
+32 44. "Livery vehicle" means a motor vehicle that:
+33 (a) Has a seating capacity not exceeding fifteen passengers
+34 including the driver.
+35 (b) Provides passenger services for a fare determined by a flat
+36 rate or flat hourly rate between geographic zones or within a geographic
+37 area.
+38 (c) Is available for hire on an exclusive or shared ride basis.
+39 (d) May do any of the following:
+40 (i) Operate on a regular route or between specified places.
+41 (ii) Offer prearranged ground transportation service as defined in
+42 section 28-141.
+43 (iii) Offer on demand ground transportation service pursuant to a
+44 contract with a public airport, licensed business entity or organization.
+45 45. "Local authority" means any county, municipal or other local
+46 board or body exercising jurisdiction over highways under the constitution
+47 and laws of this state.
+-6-
+
+House Amendments to S.B. 1519
+1 46. "Manufacturer" means a person engaged in the business of
+2 manufacturing motor vehicles, trailers or semitrailers.
+3 47. "Minimal risk condition":
+4 (a) Means a condition to which a human driver or an automated
+5 driving system may bring a vehicle in order to reduce the risk of a crash
+6 when a given trip cannot or should not be completed.
+7 (b) Includes bringing the vehicle to a complete stop.
+8 48. "Moped" means a bicycle, not including an electric bicycle, an
+9 electric miniature scooter or an electric standup scooter, that is
+10 equipped with a helper motor if the vehicle has a maximum piston
+11 displacement of fifty cubic centimeters or less, a brake horsepower of one
+12 and one-half or less and a maximum speed of twenty-five miles per hour or
+13 less on a flat surface with less than a one percent grade.
+14 49. "Motorcycle" means a motor vehicle that has a seat or saddle
+15 for the use of the rider and that is designed to travel on not more than
+16 three wheels in contact with the ground but excludes a tractor, an
+17 electric bicycle, an electric miniature scooter, an electric standup
+18 scooter and a moped.
+19 50. "Motor driven cycle" means a motorcycle, including every motor
+20 scooter, with a motor that produces not more than five horsepower but does
+21 not include an electric bicycle, an electric miniature scooter or an
+22 electric standup scooter.
+23 51. "Motorized quadricycle" means a self-propelled motor vehicle to
+24 which all of the following apply:
+25 (a) The vehicle is self-propelled by an emission-free electric
+26 motor and may include pedals operated by the passengers.
+27 (b) The vehicle has at least four wheels in contact with the
+28 ground.
+29 (c) The vehicle seats at least eight passengers, including the
+30 driver.
+31 (d) The vehicle is operable on a flat surface using solely the
+32 electric motor without assistance from the pedals or passengers.
+33 (e) The vehicle is a commercial motor vehicle as defined in section
+34 28-5201.
+35 (f) The vehicle is a limousine operating under a vehicle for hire
+36 company permit issued pursuant to section 28-9503.
+37 (g) The vehicle is manufactured by a motor vehicle manufacturer
+38 that is licensed pursuant to chapter 10 of this title.
+39 (h) The vehicle complies with the definition and standards for
+40 low-speed vehicles set forth in 49 Code of Federal Regulations sections
+41 571.3(b) and 571.500, respectively.
+42 52. "Motor vehicle":
+43 (a) Means either:
+44 (i) A self-propelled vehicle.
+45 (ii) For the purposes of the laws relating to the imposition of a
+46 tax on motor vehicle fuel, a vehicle that is operated on the highways of
+47 this state and that is propelled by the use of motor vehicle fuel.
+-7-
+
+House Amendments to S.B. 1519
+1 (b) Does not include a scrap vehicle, a personal delivery device, a
+2 personal mobile cargo carrying device, a motorized wheelchair, an electric
+3 personal assistive mobility device, an electric bicycle, an electric
+4 miniature scooter, an electric standup scooter or a motorized skateboard.
+5 For the purposes of this subdivision:
+6 (i) "Motorized skateboard" means a self-propelled device that does
+7 not have handlebars and that has a motor, a deck on which a person may
+8 ride and at least two tandem wheels in contact with the ground.
+9 (ii) "Motorized wheelchair" means a self-propelled wheelchair that
+10 is used by a person for mobility.
+11 53. "Motor vehicle fuel" includes all products that are commonly or
+12 commercially known or sold as gasoline, including casinghead gasoline,
+13 natural gasoline and all flammable liquids, and that are composed of a
+14 mixture of selected hydrocarbons expressly manufactured and blended for
+15 the purpose of effectively and efficiently operating internal combustion
+16 engines. Motor vehicle fuel does not include inflammable liquids that are
+17 specifically manufactured for racing motor vehicles and that are
+18 distributed for and used by racing motor vehicles at a racetrack, use fuel
+19 as defined in section 28-5601, aviation fuel, fuel for jet or turbine
+20 powered aircraft or the mixture created at the interface of two different
+21 substances being transported through a pipeline, commonly known as
+22 transmix.
+23 54. "Neighborhood electric shuttle":
+24 (a) Means a self-propelled electrically powered motor vehicle to
+25 which all of the following apply:
+26 (i) The vehicle is emission free.
+27 (ii) The vehicle has at least four wheels in contact with the
+28 ground.
+29 (iii) The vehicle is capable of transporting at least eight
+30 passengers, including the driver.
+31 (iv) The vehicle is a commercial motor vehicle as defined in
+32 section 28-5201.
+33 (v) The vehicle is a vehicle for hire as defined in section 28-9501
+34 and operates under a vehicle for hire company permit issued pursuant to
+35 section 28-9503.
+36 (vi) The vehicle complies with the definition and standards for
+37 low-speed vehicles set forth in 49 Code of Federal Regulations sections
+38 571.3(b) and 571.500, respectively.
+39 (b) Includes a vehicle that meets the standards prescribed in
+40 subdivision (a) of this paragraph and that has been modified after market
+41 and not by the manufacturer to transport up to fifteen passengers,
+42 including the driver.
+43 55. "Neighborhood electric vehicle" means a self-propelled
+44 electrically powered motor vehicle to which all of the following apply:
+45 (a) The vehicle is emission free.
+46 (b) The vehicle has at least four wheels in contact with the
+47 ground.
+-8-
+
+House Amendments to S.B. 1519
+1 (c) The vehicle complies with the definition and standards for
+2 low-speed vehicles, unless excepted or exempted under federal law, set
+3 forth in 49 Code of Federal Regulations sections 571.3(b) and 571.500,
+4 respectively.
+5 56. "Neighborhood occupantless electric vehicle" means a
+6 neighborhood electric vehicle that is not designed, intended or marketed
+7 for human occupancy.
+8 57. "Nonresident" means a person who is not a resident of this
+9 state as defined in section 28-2001.
+10 58. "Off-road recreational motor vehicle" means a motor vehicle
+11 that is designed primarily for recreational nonhighway all-terrain travel
+12 and that is not operated on a public highway. Off-road recreational motor
+13 vehicle does not mean a motor vehicle used for construction, building
+14 trade, mining or agricultural purposes.
+15 59. "Operational design domain":
+16 (a) Means operating conditions under which a given automated
+17 driving system is specifically designed to function.
+18 (b) Includes roadway types, speed range, environmental conditions,
+19 such as weather or time of day, and other domain constraints.
+20 60. "Operator" means a person who drives a motor vehicle on a
+21 highway, who is in actual physical control of a motor vehicle on a highway
+22 or who is exercising control over or steering a vehicle being towed by a
+23 motor vehicle.
+24 61. "Owner" means:
+25 (a) A person who holds the legal title of a vehicle.
+26 (b) If a vehicle is the subject of an agreement for the conditional
+27 sale or lease with the right of purchase on performance of the conditions
+28 stated in the agreement and with an immediate right of possession vested
+29 in the conditional vendee or lessee, the conditional vendee or lessee.
+30 (c) If a mortgagor of a vehicle is entitled to possession of the
+31 vehicle, the mortgagor.
+32 62. "Pedestrian" means any person afoot. A person who uses an
+33 electric personal assistive mobility device or a manual or motorized
+34 wheelchair is considered a pedestrian unless the manual wheelchair
+35 qualifies as a bicycle. For the purposes of this paragraph, "motorized
+36 wheelchair" means a self-propelled wheelchair that is used by a person for
+37 mobility.
+38 63. "Personal delivery device":
+39 (a) Means a device that is both of the following:
+40 (i) Manufactured for transporting cargo and goods in an area
+41 described in section 28-1225.
+42 (ii) Equipped with automated driving technology, including software
+43 and hardware, that enables the operation of the device with the remote
+44 support and supervision of a human.
+45 (b) Does not include a personal mobile cargo carrying device.
+-9-
+
+House Amendments to S.B. 1519
+1 64. "Personal mobile cargo carrying device" means an electronically
+2 powered device that:
+3 (a) Is operated primarily on sidewalks and within crosswalks and
+4 that is designed to transport property.
+5 (b) Weighs less than eighty pounds, excluding cargo.
+6 (c) Operates at a maximum speed of twelve miles per hour.
+7 (d) Is equipped with technology to transport personal property with
+8 the active monitoring of a property owner and that is primarily designed
+9 to remain within twenty-five feet of the property owner.
+10 (e) Is equipped with a braking system that when active or engaged
+11 enables the personal mobile cargo carrying device to come to a controlled
+12 stop.
+13 65. "Power sweeper" means an implement, with or without motive
+14 power, that is only incidentally operated or moved on a street or highway
+15 and that is designed for the removal of debris, dirt, gravel, litter or
+16 sand whether by broom, vacuum or regenerative air system from asphaltic
+17 concrete or cement concrete surfaces, including parking lots, highways,
+18 streets and warehouses, and a vehicle on which the implement is
+19 permanently mounted.
+20 66. "Public transit" means the transportation of passengers on
+21 scheduled routes by means of a conveyance on an individual passenger
+22 fare-paying basis excluding transportation by a sightseeing bus, school
+23 bus or taxi or a vehicle not operated on a scheduled route basis.
+24 67. "Reconstructed vehicle" means a vehicle that has been assembled
+25 or constructed largely by means of essential parts, new or used, derived
+26 from vehicles or makes of vehicles of various names, models and types or
+27 that, if originally otherwise constructed, has been materially altered by
+28 the removal of essential parts or by the addition or substitution of
+29 essential parts, new or used, derived from other vehicles or makes of
+30 vehicles. For the purposes of this paragraph, "essential parts" means
+31 integral and body parts, the removal, alteration or substitution of which
+32 will tend to conceal the identity or substantially alter the appearance of
+33 the vehicle.
+34 68. "Residence district" means the territory contiguous to and
+35 including a highway not comprising a business district if the property on
+36 the highway for a distance of three hundred feet or more is in the main
+37 improved with residences or residences and buildings in use for business.
+38 69. "Right-of-way" when used within the context of the regulation
+39 of the movement of traffic on a highway means the privilege of the
+40 immediate use of the highway. Right-of-way when used within the context
+41 of the real property on which transportation facilities and appurtenances
+42 to the facilities are constructed or maintained means the lands or
+43 interest in lands within the right-of-way boundaries.
+44 70. "SAE J3016" means surface transportation recommended practice
+45 J3016 taxonomy and definitions for terms related to driving automation
+46 systems for on-road motor vehicles published by SAE international in June
+47 2018.
+-10-
+
+House Amendments to S.B. 1519
+1 71. "School bus" means a motor vehicle that is designed for
+2 carrying more than ten passengers and that is either:
+3 (a) Owned by any public or governmental agency or other institution
+4 and operated for the transportation of children to or from home or school
+5 on a regularly scheduled basis.
+6 (b) Privately owned and operated for compensation for the
+7 transportation of children to or from home or school on a regularly
+8 scheduled basis.
+9 72. "Scrap metal dealer" has the same meaning prescribed in section
+10 44-1641.
+11 73. "Scrap vehicle" has the same meaning prescribed in section
+12 44-1641.
+13 74. "Semitrailer" means a vehicle that is with or without motive
+14 power, other than a pole trailer or single-axle tow dolly, that is
+15 designed for carrying persons or property and for being drawn by a motor
+16 vehicle and that is constructed so that some part of its weight and that
+17 of its load rests on or is carried by another vehicle. For the purposes of
+18 this paragraph, "pole trailer" has the same meaning prescribed in section
+19 28-601.
+20 75. "Single-axle tow dolly" means a nonvehicle device that is drawn
+21 by a motor vehicle, that is designed and used exclusively to transport
+22 another motor vehicle and on which the front or rear wheels of the drawn
+23 motor vehicle are mounted on the tow dolly while the other wheels of the
+24 drawn motor vehicle remain in contact with the ground.
+25 76. "State" means a state of the United States and the District of
+26 Columbia.
+27 77. "State highway" means a state route or portion of a state route
+28 that is accepted and designated by the board as a state highway and that
+29 is maintained by the state.
+30 78. "State route" means a right-of-way whether actually used as a
+31 highway or not that is designated by the board as a location for the
+32 construction of a state highway.
+33 79. "Street" or "highway" means the entire width between the
+34 boundary lines of every way if a part of the way is open to the use of the
+35 public for purposes of vehicular travel.
+36 80. "Taxi" means a motor vehicle that has a seating capacity not
+37 exceeding fifteen passengers, including the driver, that provides
+38 passenger services and that:
+39 (a) Does not primarily operate on a regular route or between
+40 specified places.
+41 (b) Offers local transportation for a fare determined on the basis
+42 of the distance traveled or prearranged ground transportation service as
+43 defined in section 28-141 for a predetermined fare.
+44 81. "Title transfer form" means a paper or an electronic form that
+45 is prescribed by the department for the purpose of transferring a
+46 certificate of title from one owner to another owner.
+-11-
+
+House Amendments to S.B. 1519
+1 82. "Traffic survival school" means a school that is licensed
+2 pursuant to chapter 8, article 7.1 of this title and that offers
+3 educational sessions that are designed to improve the safety and habits of
+4 drivers and that are approved by the department.
+5 83. "Trailer" means a vehicle that is with or without motive power,
+6 other than a pole trailer or single-axle tow dolly, that is designed for
+7 carrying persons or property and for being drawn by a motor vehicle and
+8 that is constructed so that no part of its weight rests on the towing
+9 vehicle. A semitrailer equipped with an auxiliary front axle commonly
+10 known as a dolly is deemed to be a trailer. For the purposes of this
+11 paragraph, "pole trailer" has the same meaning prescribed in section
+12 28-601.
+13 84. "Transportation network company" has the same meaning
+14 prescribed in section 28-9551.
+15 85. "Transportation network company vehicle" has the same meaning
+16 prescribed in section 28-9551.
+17 86. "Transportation network service" has the same meaning
+18 prescribed in section 28-9551.
+19 87. "Truck" means a motor vehicle designed or used primarily for
+20 the carrying of property other than the effects of the driver or
+21 passengers and includes a motor vehicle to which has been added a box, a
+22 platform or other equipment for such carrying.
+23 88. "Truck tractor" means a motor vehicle that is designed and used
+24 primarily for drawing other vehicles and that is not constructed to carry
+25 a load other than a part of the weight of the vehicle and load drawn.
+26 89. "Vehicle":
+27 (a) Means a device in, on or by which a person or property is or
+28 may be transported or drawn on a public highway.
+29 (b) Does not include:
+30 (i) Electric bicycles, electric miniature scooters, electric
+31 standup scooters and devices moved by human power.
+32 (ii) Devices used exclusively on stationary rails or tracks.
+33 (iii) Personal delivery devices.
+34 (iv) Scrap vehicles.
+35 (v) Personal mobile cargo carrying devices.
+36 90. "Vehicle transporter" means either:
+37 (a) A truck tractor capable of carrying a load and drawing a
+38 semitrailer.
+39 (b) A truck tractor with a stinger-steered fifth wheel capable of
+40 carrying a load and drawing a semitrailer or a truck tractor with a dolly
+41 mounted fifth wheel that is securely fastened to the truck tractor at two
+42 or more points and that is capable of carrying a load and drawing a
+43 semitrailer.
+-12-
+
+House Amendments to S.B. 1519
+1 Sec. 2. Section 28-1177, Arizona Revised Statutes, is amended to
+2 read:
+3 28-1177. Off-highway vehicle user fee; indicia; registration;
+4 state trust land recreational permit; exception
+5 A. A person shall not operate or allow the operation of an
+6 all-terrain vehicle or an off-highway vehicle in this state without either
+7 a resident or nonresident off-highway vehicle user indicia issued by the
+8 department if the all-terrain vehicle or off-highway vehicle meets both of
+9 the following criteria:
+10 1. Is designed by the manufacturer primarily for travel over
+11 unimproved terrain.
+12 2. Has an unladen weight of two THREE thousand five hundred pounds
+13 or less.
+14 B. A person shall apply to the department of transportation for a
+15 resident or nonresident off-highway vehicle user indicia by submitting an
+16 application prescribed by the department of transportation and a user fee
+17 for the indicia in an amount to be determined by the director of the
+18 department of transportation in cooperation with the director of the
+19 Arizona game and fish department and the Arizona state parks board. The
+20 resident or nonresident off-highway vehicle user indicia is valid for one
+21 year from AFTER the date of issuance and may be renewed. The department OF
+22 TRANSPORTATION shall prescribe by rule the design and placement of the
+23 indicia.
+24 C. When a person pays for a resident off-highway vehicle user
+25 indicia pursuant to this section, the person may request a motor vehicle
+26 registration if the vehicle meets all equipment requirements to be
+27 operated on a highway pursuant to article 16 of this chapter. If a person
+28 submits a signed affidavit to the department affirming that the vehicle
+29 meets all of the equipment requirements for highway use and that the
+30 vehicle will be operated primarily off of highways, the department shall
+31 register the vehicle for highway use and the vehicle owner is not required
+32 to pay the registration fee prescribed in section 28-2003. This
+33 subsection does not apply to vehicles that as produced by the manufacturer
+34 meet the equipment requirements to be operated on a highway pursuant to
+35 article 16 of this chapter.
+36 D. The director shall deposit, pursuant to sections 35-146 and
+37 35-147, seventy percent of the user fees collected pursuant to this
+38 section in the off-highway vehicle recreation fund established by section
+39 28-1176 and thirty percent of the user fees collected pursuant to this
+40 section in the Arizona highway user revenue fund.
+41 E. The Arizona game and fish department may provide for the
+42 purchase of nonresident off-highway vehicle user indicia and may impose an
+43 additional service fee in an amount to be determined by the Arizona game
+44 and fish commission by rule. The Arizona game and fish department shall
+45 deposit, pursuant to sections 35-146 and 35-147, the service fees
+46 collected pursuant to this subsection in the game and fish fund
+47 established by section 17-261.
+-13-
+
+House Amendments to S.B. 1519
+1 F. An occupant of an off-highway vehicle with a resident or
+2 nonresident off-highway vehicle user indicia issued pursuant to this
+3 section who crosses MAY RECREATE FOR THE DAY ON state trust lands AND must
+4 comply with all of the rules and requirements under a state trust land
+5 recreational permit. All occupants of an off-highway vehicle with a
+6 resident or nonresident off-highway vehicle user indicia shall obtain a
+7 state trust land recreational permit from the state land department for
+8 all other authorized recreational activities on state trust land,
+9 INCLUDING FOR OVERNIGHT CAMPING.
+10 G. This section does not apply to off-highway vehicles, all-terrain
+11 vehicles or off-road recreational motor vehicles that are used off-highway
+12 exclusively for agricultural, ranching, construction, mining, mining
+13 exploration or building trade purposes.
+14 H. In consultation with the department of transportation, the
+15 Arizona game and fish department may adopt rules necessary to implement
+16 this section.
+17 <<Sec. 3. Title 28, chapter 3, article 20, Arizona Revised
+18 Statutes, is amended by adding section 28-1182, to read:
+19 28-1182. Off-highway vehicle laws enforcement fund
+20 THE OFF-HIGHWAY VEHICLE LAWS ENFORCEMENT FUND IS ESTABLISHED
+21 CONSISTING OF MONIES DEPOSITED PURSUANT TO SECTION 28-5801 TO BE USED FOR
+22 THE SOLE PURPOSE OF ENFORCING OFF-HIGHWAY VEHICLE LAWS IN THIS STATE. THE
+23 ARIZONA STATE PARKS BOARD SHALL ADMINISTER THE FUND. MONIES IN THE FUND
+24 ARE CONTINUOUSLY APPROPRIATED AND ARE EXEMPT FROM THE PROVISIONS OF
+25 SECTION 35-190 RELATING TO LAPSING OF APPROPRIATIONS. ON NOTICE FROM THE
+26 BOARD, THE STATE TREASURER SHALL INVEST AND DIVEST MONIES IN THE FUND AS
+27 PROVIDED BY SECTION 35-313, AND MONIES EARNED FROM INVESTMENT SHALL BE
+28 CREDITED TO THE FUND.
+29 Sec. 4. Section 28-5801, Arizona Revised Statutes, is amended to
+30 read:
+31 28-5801. Vehicle license tax rate; definitions
+32 A. At the time of application for and before registration each year
+33 of a vehicle, the registering officer shall collect the vehicle license
+34 tax imposed by article IX, section 11, Constitution of Arizona. On the
+35 taxpayer's vehicle license tax bill, the registering officer shall provide
+36 the taxpayer with information showing the amount of the vehicle license
+37 tax that each category of recipient will receive and the amount that is
+38 owed by the taxpayer.
+39 B. Except as provided in subsections C, D, and E AND F of this
+40 section:
+41 1. During the first twelve months of the life of a vehicle as
+42 determined by its initial registration, the vehicle license tax is based
+43 on each $100 in value, the value of the vehicle is sixty percent of the
+44 manufacturer's base retail price of the vehicle and the vehicle license
+45 tax rate for each of the recipients is as follows:
+46 (a) The rate for the Arizona highway user revenue fund is $1.26.
+47 (b) The rate for the county general fund is $.69.
+-14-
+
+House Amendments to S.B. 1519
+1 (c) The rate for counties for any purposes related to
+2 transportation, as determined by the board of supervisors, is $.16.
+3 (d) The rate for incorporated cities and towns is $.69.
+4 2. During each succeeding twelve-month period, the vehicle license
+5 tax is based on each $100 in value, the value of the vehicle is 16.25
+6 percent less than the value for the preceding twelve-month period and the
+7 vehicle license tax rate for each of the recipients is as follows:
+8 (a) The rate for the Arizona highway user revenue fund is $1.30.
+9 (b) The rate for the county general fund is $.71.
+10 (c) The rate for counties for the same use as highway user revenue
+11 fund monies is $.17.
+12 (d) The rate for incorporated cities and towns is $.71.
+13 3. The minimum amount of the vehicle license tax computed under
+14 this section is $10 per year for each vehicle that is subject to the tax.
+15 If the product of all of the rates prescribed in paragraph 1 or 2 of this
+16 subsection is less than $10, the vehicle license tax is $10. The vehicle
+17 license tax collected pursuant to this paragraph shall be distributed to
+18 the recipients prescribed in this subsection based on the percentage of
+19 each recipient's rate to the sum of all of the rates.
+20 C. The vehicle license tax is as follows for noncommercial trailers
+21 that are not travel trailers and that are ten thousand pounds or less
+22 declared gross weight:
+23 1. On initial registration, a onetime vehicle license tax of $105.
+24 2. On renewal of registration, a onetime vehicle license tax of
+25 $70.
+26 D. The vehicle license tax is as follows for a trailer or
+27 semitrailer that is not a travel trailer and that exceeds ten thousand
+28 pounds declared gross weight:
+29 1. On initial registration, a onetime vehicle license tax of $555.
+30 2. On renewal of registration or if previously registered in
+31 another state, a onetime vehicle license tax of:
+32 (a) If the trailer's or semitrailer's model year is less than six
+33 years old, $355.
+34 (b) If the trailer's or semitrailer's model year is at least six
+35 years old, $100.
+36 E. The vehicle license tax for an all-terrain vehicle or
+37 off-highway vehicle as defined in section 28-1171 is $3 if the all-terrain
+38 vehicle or off-highway vehicle meets both of the following criteria:
+39 1. Is designed by the manufacturer primarily for travel over
+40 unimproved terrain.
+41 2. Has an unladen weight of two thousand five hundred pounds or
+42 less.
+43 F. THE VEHICLE LICENSE TAX FOR AN ALL-TERRAIN VEHICLE OR
+44 OFF-HIGHWAY VEHICLE AS DEFINED IN SECTION 28-1171 THAT HAS AN UNLADEN
+45 WEIGHT OF MORE THAN TWO THOUSAND FIVE HUNDRED POUNDS BUT LESS THAN THREE
+46 THOUSAND FIVE HUNDRED ONE POUNDS IS FIFTY PERCENT OF THE VEHICLE LICENSE
+47 TAX DETERMINED PURSUANT TO SUBSECTION B OF THIS SECTION. NOTWITHSTANDING
+-15-
+
+House Amendments to S.B. 1519
+1 SECTION 28-5808, THE DIRECTOR SHALL DEPOSIT, PURSUANT TO SECTIONS 35-146
+2 AND 35-147, ANY VEHICLE LICENSE TAX COLLECTED PURSUANT TO THIS SUBSECTION
+3 IN THE OFF-HIGHWAY VEHICLE LAWS ENFORCEMENT FUND ESTABLISHED BY SECTION
+4 28-1182.
+5 F. G. The vehicle license tax collected pursuant to subsection C,
+6 D or E of this section shall be distributed to the recipients prescribed
+7 in subsection B of this section based on the percentage of each
+8 recipient's rate to the sum of all of the rates.
+9 G. H. For the purposes of this section:
+10 1. "Declared gross weight" has the same meaning prescribed in
+11 section 28-5431.
+12 2. "Travel trailer" has the same meaning prescribed in section
+13 28-2003.>>
+14 Sec. 3. Rulemaking
+15 The director of the department of transportation shall adopt rules
+16 not later than twelve months after the effective date of this act for an
+17 off-highway vehicle usage classification for all-terrain vehicles or
+18 off-highway vehicles that have an unladen weight of more than two thousand
+19 five hundred pounds but less than three thousand five hundred one pounds.
+20 Enroll and engross to conform
+21 Amend title to conform
+And, as so amended, it do pass
+DAVID LIVINGSTON
+CHAIRMAN
+1519APPROPRIATIONS.docx
+03/31/2026
+11:32 AM
+H: DS/ls
+130GCXHDZ
+-16-

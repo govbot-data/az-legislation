@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Kavanagh flr amend (ref ATT) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1672
+Kavanagh Floor Amendment
+Reference to: APPROPRIATIONS,
+TRANSPORTATION AND TECHNOLOGY
+Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+• Specifies that the antipsychotic drug coverage requirements do not prohibit the Arizona Health
+Care Cost Containment system from:
+a) collecting federal statutory rebates from participating drug manufacturers as part of the
+Medicaid Drug Rebate Program; or
+b) entering into a supplemental rebate contract agreement with a drug manufacturer for preferred
+placement on the preferred drug list.
+Amendment explanation prepared by Samuel Rosenberg
+03/04/2026
+
+Fifty-seventh Legislature Kavanagh
+Second Regular Session S.B. 1672
+KAVANAGH FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1672
+(Reference to APPROPRIATIONS, TRANSPORTATION AND TECHNOLOGY Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 36, chapter 29, article 1, Arizona Revised
+3 Statutes, is amended by adding section 36-2907.17, to read:
+4 36-2907.17. Prescription antipsychotic drugs; coverage;
+5 definitions
+6 A. BEFORE PROVIDING COVERAGE OF A PRESCRIPTION ANTIPSYCHOTIC DRUG
+7 THAT IS PRESCRIBED TO A MEMBER WHO IS AT LEAST EIGHTEEN YEARS OF AGE AND
+8 WHO HAS A SERIOUS MENTAL ILLNESS DETERMINATION FOR WHICH THE PRESCRIPTION
+9 ANTIPSYCHOTIC DRUG IS APPROVED BY THE UNITED STATES FOOD AND DRUG
+10 ADMINISTRATION AS DESCRIBED ON THE PRESCRIPTION ANTIPSYCHOTIC DRUG'S
+11 APPROVED LABELING, THE ADMINISTRATION AND ITS CONTRACTORS:
+12 1. EXCEPT FOR THE PROCESS DESCRIBED IN PARAGRAPH 2 OF THIS
+13 SUBSECTION, MAY NOT IMPOSE A PRIOR AUTHORIZATION REQUIREMENT OR OTHER
+14 PROCESS THAT CONDITIONS, DELAYS OR DENIES THE DELIVERY OF THE PRESCRIPTION
+15 ANTIPSYCHOTIC DRUG TO THE MEMBER BY APPLYING PREDETERMINED CRITERIA BY THE
+16 ADMINISTRATION OR ITS CONTRACTOR FOR COVERED PRESCRIPTION DRUGS.
+
+Senate Amendments to S.B. 1672
+1 2. MAY IMPOSE A PROCESS, INCLUDING A STEP THERAPY PROTOCOL,
+2 REQUIRING THAT THE MEMBER SHOW A FAILURE TO SUCCESSFULLY RESPOND TO NOT
+3 MORE THAN TWO DISTINCT PRESCRIPTION ANTIPSYCHOTIC DRUGS.
+4 B. THE ADMINISTRATION AND ITS CONTRACTORS SHALL GRANT A MEMBER OR
+5 THE MEMBER'S HEALTH CARE PROVIDER THE ABILITY TO BYPASS A STEP THERAPY
+6 PROTOCOL BY PROVIDING A HISTORY OF THE MEMBER'S FAILURE TO SUCCESSFULLY
+7 RESPOND TO TWO DISTINCT PRESCRIPTION ANTIPSYCHOTIC DRUGS ON THE MEMBER'S
+8 CURRENT OR PREVIOUS HEALTH BENEFIT PLAN.
+9 C. ANY STEP THERAPY PROTOCOL OR OTHER PROCESS ADMINISTERED IN
+10 ACCORDANCE WITH SUBSECTION A, PARAGRAPH 2 OF THIS SECTION MUST BOTH:
+11 1. BE ADJUDICATED ELECTRONICALLY AND IN REAL TIME.
+12 2. CONSIDER A MEMBER TO HAVE TRIED TWO PRESCRIPTION ANTIPSYCHOTIC
+13 DRUGS IF THE MEMBER HAS TWO PAID CLAIMS FOR TWO DISTINCT PREFERRED
+14 ANTIPSYCHOTIC DRUGS [THAT WERE PRESCRIBED IN A NONEMERGENCY OR OUTPATIENT
+15 TREATMENT WITHIN THE PREVIOUS FIVE YEARS].
+16 D. THIS SECTION APPLIES ONLY TO A PRESCRIPTION ANTIPSYCHOTIC DRUG
+17 WHOSE USE IS SUPPORTED BY PEER-REVIEWED, EVIDENCE-BASED LITERATURE.
+18 E. THIS SECTION APPLIES TO PRESCRIPTION DRUG COVERAGE THAT IS PAID
+19 EITHER ON A FEE-FOR-SERVICE BASIS OR THROUGH A PREPAID CAPITATED HEALTH
+20 SERVICES CONTRACT UNDER THE SYSTEM.
+21 F. THIS SECTION DOES NOT:
+22 1. PROHIBIT THE ADMINISTRATION FROM CONTRACTING WITH A MANAGED CARE
+23 ORGANIZATION FOR PHARMACEUTICAL SERVICES OFFERED UNDER THE SYSTEM PURSUANT
+24 TO SECTION 36-2904 IF THE CONTRACT COMPLIES WITH THIS SECTION.
+25 2. PROHIBIT OR DISCOURAGE THE USE OF A GENERIC DRUG.
+26 3. PREVENT THE ADMINISTRATION FROM PERFORMING A DRUG UTILIZATION
+27 REVIEW THAT IS NECESSARY FOR PATIENT SAFETY OR TO ENSURE THAT THE
+28 PRESCRIBED USE IS FOR A MEDICALLY ACCEPTED INDICATION, AS REQUIRED BY
+29 SECTION 1927 OF THE SOCIAL SECURITY ACT.
+30 {{4. PROHIBIT THE ADMINISTRATION FROM COLLECTING FEDERAL STATUTORY
+31 REBATES FROM PARTICIPATING DRUG MANUFACTURERS AS PART OF THE MEDICAID DRUG
+32 REBATE PROGRAM AUTHORIZED BY SECTION 1927 OF THE SOCIAL SECURITY ACT.
+33 5. PROHIBIT THE ADMINISTRATION FROM ENTERING INTO A SUPPLEMENTAL
+34 REBATE CONTRACT AGREEMENT WITH A DRUG MANUFACTURER FOR PREFERRED PLACEMENT
+35 ON THE PREFERRED DRUG LIST.}}
+36 G. FOR THE PURPOSES OF THIS SECTION:
+37 1. "FAILURE TO SUCCESSFULLY RESPOND" MEANS A DETERMINATION, BASED
+38 ON CLINICALLY APPROPRIATE GUIDELINES, THAT A PATIENT HAS FAILED ON A
+39 MEDICATION, INCLUDING A LACK OF EFFICACY DURING A SIX-WEEK MEDICATION
+40 TRIAL, AN ALLERGIC REACTION, INTOLERABLE SIDE EFFECTS, SIGNIFICANT
+41 DRUG-TO-DRUG INTERACTIONS OR A KNOWN INTERACTING GENETIC POLYMORPHISM THAT
+42 PREVENTS SAFE PREFERRED MEDICATION DOSING AS ATTESTED TO BY THE PATIENT'S
+43 HEALTH CARE PROVIDER.
+44 2. "HEALTH BENEFIT PLAN" MEANS A POLICY, CONTRACT, CERTIFICATE OR
+45 AGREEMENT ENTERED INTO, OFFERED BY OR ISSUED BY AN INSURER OR BY THE
+46 ADMINISTRATION TO PROVIDE, DELIVER, ARRANGE FOR, PAY FOR OR REIMBURSE ANY
+47 COSTS OF HEALTH CARE SERVICES.
+-2-
+
+Senate Amendments to S.B. 1672
+1 3. "HEALTH CARE PROVIDER" MEANS A HEALTH CARE PROVIDER WHO IS
+2 LICENSED PURSUANT TO TITLE 32 AND WHO HAS PRESCRIPTION AUTHORITY PURSUANT
+3 TO TITLE 32.
+4 4. "INSURER" MEANS ANY PERSON THAT IS ENGAGED IN MAKING ANY
+5 HOSPITAL, HEALTH OR MEDICAL EXPENSE INSURANCE POLICY, HOSPITAL OR MEDICAL
+6 SERVICE CONTRACT, EMPLOYEE WELFARE BENEFIT PLAN, CONTRACT OR AGREEMENT
+7 WITH A HEALTH MAINTENANCE ORGANIZATION OR A PREFERRED PROVIDER
+8 ORGANIZATION OR HEALTH AND ACCIDENT INSURANCE POLICY OR ANY OTHER
+9 INSURANCE CONTRACT OF THIS TYPE, INCLUDING A GROUP INSURANCE PLAN.
+10 5. "PRESCRIPTION DRUG" MEANS ANY PRESCRIPTION MEDICATION AS DEFINED
+11 IN SECTION 32-1901.
+12 Sec. 2. Effective date
+13 This act is effective from and after December 31, 2026.
+14 Enroll and engross to conform
+15 Amend title to conform
+JOHN KAVANAGH
+1672FloorKAVANAGH.docx
+03/03/2026
+02:12 PM
+C: MH
+130VXNXYG
+-3-

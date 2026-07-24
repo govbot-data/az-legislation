@@ -1,0 +1,589 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Sears flr amend (ref Bill) failed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Sears
+Second Regular Session S.B. 1178
+SEARS FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1178
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 32-1501, Arizona Revised Statutes, is amended to
+3 read:
+4 32-1501. Definitions
+5 In this chapter, unless the context otherwise requires:
+6 1. "Accepted therapeutic purpose" means treatment of a disease,
+7 injury, ailment or infirmity that is competent and generally recognized as
+8 safe and effective.
+9 2. "Active license" means a current valid license to practice
+10 naturopathic medicine.
+11 3. "Adequate medical records" means legible medical records
+12 containing, at a minimum, sufficient information to identify the patient,
+13 support the diagnosis, describe the treatment, accurately document the
+14 results, indicate advice and cautionary warning provided to the patient
+15 and provide sufficient information for a similarly qualified practitioner
+16 to assume continuity of the patient's care at any point in the course of
+17 treatment.
+18 4. "Approved clinical training program" or "clinical training
+19 program" means a program for naturopathic medical students in which the
+20 training occurred or is being conducted by or in conjunction with an
+21 approved school of naturopathic medicine.
+22 5. "Approved internship program" or "internship" means that the
+23 program in which the training occurred or is being conducted has been
+24 approved for internship training for physicians or for graduates of a
+25 school of naturopathic medicine by the board or was approved or accredited
+26 by an educational or professional association recognized by the board or
+27 by another state's or country's licensing agency recognized by the board.
+28 6. "Approved postdoctoral training" or "postdoctoral training"
+29 means that the program in which the training occurred or is being
+
+Senate Amendments to S.B. 1178
+1 conducted has been approved for specialty training or for graduate medical
+2 education in naturopathic medicine by the board or approved or accredited
+3 by an educational or professional association recognized by the board or
+4 by another state's or country's licensing agency recognized by the board.
+5 7. "Approved preceptorship program" or "preceptorship" means that
+6 the program in which the training occurred or is being conducted has been
+7 approved for preceptorship training for physicians or for graduates of a
+8 school of naturopathic medicine by the board or was approved or accredited
+9 by an educational or professional association recognized by the board or
+10 by another state's or country's licensing agency recognized by the board.
+11 8. "Approved school of naturopathic medicine" or "school of
+12 naturopathic medicine" means a school, college or university determined by
+13 the board to have an educational program that meets standards prescribed
+14 by the council on naturopathic medical education, or its successor agency,
+15 and that offers a course of study that, on successful completion, results
+16 in the awarding of the degree of doctor of naturopathic medicine and whose
+17 course of study is either of the following:
+18 (a) Accredited or a candidate for accreditation by an accrediting
+19 agency recognized by the United States secretary of education as a
+20 specialized accrediting agency for schools of naturopathic medicine or its
+21 successor.
+22 (b) Accredited or a candidate for accreditation by an accrediting
+23 agency recognized by the council for higher education accreditation or its
+24 successor.
+25 9. "Board" means the naturopathic physicians medical board.
+26 10. "Chelation therapy" means an experimental medical therapy to
+27 restore cellular homeostasis through the use of intravenous, metal-binding
+28 and bioinorganic agents such as ethylene diamine tetraacetic acid.
+29 Chelation therapy does not include experimental therapy used to treat
+30 heavy metal poisoning.
+31 11. "Completed application" means that the applicant paid the
+32 required fees and supplied all documents and information as requested by
+33 the board and in a manner acceptable to the board.
+34 12. "Controlled substance" means a drug, substance or immediate
+35 precursor in schedules I through V of title 36, chapter 27, article 2 or
+36 the rules adopted pursuant to title 36, chapter 27, article 2.
+37 13. "Direct supervision" means that a physician who is licensed
+38 pursuant to this chapter or chapter 13, 17 or 29 of this title:
+39 (a) Is physically present and within sight or sound of the person
+40 supervised and is available for consultation regarding procedures that the
+41 physician has authorized and for which the physician remains responsible.
+42 (b) Has designated a person licensed pursuant to this chapter or
+43 chapter 13, 17 or 29 of this title to provide direct supervision in the
+44 physician's absence.
+45 14. "Doctor of naturopathic medicine" or "doctor" means a natural
+46 person who is licensed to practice naturopathic medicine under this
+47 chapter.
+-2-
+
+Senate Amendments to S.B. 1178
+1 15. "Drug" has the same meaning prescribed in section 32-1901[AND
+2 INCLUDES ESSENTIAL OFF-PATENT OR GENERIC DRUGS AS DEFINED IN SECTION 36-
+3 4301] but does not include:
+4 (a) Intravenous administration of legend drugs, except for:
+5 (i) Vitamins, chelation therapy, ANTIBIOTICS, ANTIVIRALS,
+6 ANTIFUNGALS and drugs used in emergency resuscitation and stabilization.
+7 (ii) Minerals.
+8 (iii) Nutrients. For the purposes of this item, "nutrient" means a
+9 substance that provides nourishment for growth or metabolism and that is
+10 manufactured and supplied for intravenous use by a manufacturer registered
+11 with the United States food and drug administration or compounded by a
+12 pharmacy licensed by the Arizona state board of pharmacy.
+13 (b) Controlled substances listed as schedule I or II controlled
+14 substances as defined in the federal controlled substances act of 1970
+15 (21 United States Code section 802), except morphine, any drug that is
+16 reclassified from schedule III to schedule II after January 1, 2014 and
+17 any homeopathic preparations that are also controlled substances.
+18 (c) Cancer chemotherapeutics classified as legend drugs.
+19 (d) Antipsychotics.
+20 16. "General supervision" means that the physician is available for
+21 consultation regarding procedures that the physician has authorized and
+22 for which the physician remains responsible.
+23 17. "Legend drug" means any drug that is defined by section 503(b)
+24 of the federal food, drug, and cosmetic act and under which definition its
+25 label is required to bear the statement "Rx only".
+26 18. "Letter of concern" means a nondisciplinary advisory letter
+27 that is issued by the board to a person who is regulated under this
+28 chapter and that states that while there is insufficient evidence to
+29 support disciplinary action the board believes that the person should
+30 modify or eliminate certain practices and that continuation of the
+31 activities that led to the information being submitted to the board may
+32 result in action against the person's license, certificate or
+33 registration.
+34 19. "Letter of reprimand" means a disciplinary letter that is
+35 issued by the board and that informs a person who is regulated under this
+36 chapter that the person's conduct violates state or federal law but does
+37 not require the board to restrict the person's license, certificate or
+38 registration because the person's conduct did not result in harm to a
+39 patient or to the public.
+40 20. "Limit" means taking a nondisciplinary action that alters the
+41 physician's practice or professional activities if the board determines
+42 that there is evidence that the physician is or may be mentally or
+43 physically unable to safely engage in the practice of medicine.
+44 21. "Medical assistant" or "naturopathic medical assistant" means a
+45 person who is certified by the board as a medical assistant, who assists a
+46 doctor of naturopathic medicine and who may perform delegated procedures
+47 that are commensurate with the assistant's education and training under
+-3-
+
+Senate Amendments to S.B. 1178
+1 the direct supervision of a doctor of naturopathic medicine and that do
+2 not include diagnosing, designing or modifying established treatment
+3 programs or those procedures prohibited by the board or by this chapter.
+4 22. "Medically incompetent" means a person who is licensed,
+5 certified or registered pursuant to this chapter and who lacks sufficient
+6 naturopathic medical knowledge or skills, or both, to a degree that is
+7 likely to endanger the health of patients.
+8 23. "Natural substance" means a homeopathic, botanical, nutritional
+9 or other supplement that does not require a prescription pursuant to
+10 federal law before it is prescribed, dispensed or otherwise furnished to a
+11 patient and that is prescribed by a physician who is licensed pursuant to
+12 this chapter to enhance health, prevent disease or treat a medical
+13 condition diagnosed by the physician.
+14 24. "Naturopathic medical student" means a person who is enrolled
+15 in a course of study at an approved school of naturopathic medicine.
+16 25. "Naturopathic medicine" means medicine as taught in approved
+17 schools of naturopathic medicine and in clinical, internship,
+18 preceptorship and postdoctoral training programs approved by the board and
+19 practiced by a recipient of a degree of doctor of naturopathic medicine
+20 WHO IS licensed pursuant to this chapter.
+21 26. "Nurse" means a person who is licensed pursuant to chapter 15
+22 of this title.
+23 27. "Physician" means a doctor of naturopathic medicine who is
+24 licensed pursuant to this chapter.
+25 28. "Practice of naturopathic medicine" means a medical system of
+26 diagnosing and treating diseases, injuries, ailments, infirmities and
+27 other conditions of the human mind and body, including by natural means,
+28 drugless methods, drugs,[INCLUDING ESSENTIAL OFF-PATENT OR GENERIC DRUGS
+29 AS DEFINED IN SECTION 36-4301,] nonsurgical methods, devices, physical,
+30 electrical, hygienic and sanitary measures and all forms of physical
+31 agents and modalities.
+32 29. "Restrict" means taking a disciplinary action that alters the
+33 physician's practice or professional activities if the board determines
+34 that there is evidence that the physician is or may be medically
+35 incompetent or guilty of unprofessional conduct.
+36 30. "Specialist" means a physician who has successfully completed
+37 approved postdoctoral training, who is certified by a specialty board of
+38 examiners recognized by the board and who is certified by the board to
+39 practice the specialty pursuant to this chapter.
+40 31. "Unprofessional conduct" includes the following, whether
+41 occurring in this state or elsewhere:
+42 (a) Intentionally disclosing a professional secret or intentionally
+43 disclosing a privileged communication except as either of these may
+44 otherwise be required by law.
+45 (b) Engaging in any dishonorable conduct reflecting unfavorably on
+46 the profession.
+-4-
+
+Senate Amendments to S.B. 1178
+1 (c) Committing a felony, whether or not involving moral turpitude,
+2 or a misdemeanor involving moral turpitude. In either case conviction by
+3 any court of competent jurisdiction or a plea of no contest is conclusive
+4 evidence of the commission of the felony or misdemeanor.
+5 (d) Habitual intemperance in the use of alcohol or any substance
+6 abuse.
+7 (e) Engaging in the illegal use of any narcotic or hypnotic drugs,
+8 or illegal substances.
+9 (f) Engaging in conduct that the board determines is gross
+10 malpractice, repeated malpractice or any malpractice resulting in the
+11 death of a patient.
+12 (g) Impersonating another doctor of naturopathic medicine or any
+13 other practitioner of the healing arts.
+14 (h) Falsely acting or assuming to act as a member, an employee or
+15 an authorized agent of the board.
+16 (i) Procuring or attempting to procure a license or a certificate
+17 pursuant to this chapter by fraud, by misrepresentation or by knowingly
+18 taking advantage of the mistake of another person or agency.
+19 (j) Having professional connection with or lending one's name to
+20 enhance or continue the activities of an illegal physician or an illegal
+21 practitioner of any healing art.
+22 (k) Representing that a manifestly incurable disease, injury,
+23 ailment or infirmity can be permanently cured, or falsely or fraudulently
+24 representing that a curable disease, injury, ailment or infirmity can be
+25 cured within a stated time.
+26 (l) Offering, undertaking or agreeing to cure or treat a disease,
+27 injury, ailment or infirmity by a secret means, method, treatment,
+28 medicine, substance, device or instrumentality.
+29 (m) Refusing to divulge to the board on demand the means, method,
+30 treatment, medicine, substance, device or instrumentality used in the
+31 treatment of a disease, injury, ailment or infirmity.
+32 (n) Giving or receiving, or aiding or abetting the giving or
+33 receiving of, rebates, either directly or indirectly.
+34 (o) Knowingly making any false or fraudulent statement, written or
+35 oral, in connection with the practice of naturopathic medicine or any
+36 naturopathic treatment method.
+37 (p) Engaging in immorality or misconduct that tends to discredit
+38 the naturopathic profession.
+39 (q) Having a license refused, revoked or suspended by any other
+40 state, district or territory of the United States or any other country,
+41 unless it can be shown that this action was not due to reasons that relate
+42 to the ability to safely and skillfully practice as a doctor of
+43 naturopathic medicine or to any act of unprofessional conduct in this
+44 paragraph.
+45 (r) Engaging in any conduct or practice that is contrary to
+46 recognized standards of ethics of the naturopathic profession, any conduct
+47 or practice that does or might constitute a danger to the health, welfare
+-5-
+
+Senate Amendments to S.B. 1178
+1 or safety of the patient or the public, or any conduct, practice or
+2 condition that does or might impair the ability to safely and skillfully
+3 practice as a doctor of naturopathic medicine.
+4 (s) Failing to observe any federal, state, county or municipal law
+5 relating to public health as a physician in this state.
+6 (t) Violating or attempting to violate, directly or indirectly, or
+7 assisting in or abetting the violation of, or conspiring to violate this
+8 chapter or board rules.
+9 (u) Committing false, fraudulent, deceptive or misleading
+10 advertising or advertising the quality of a medical or health care service
+11 by a physician or by the physician's staff, employer or representative.
+12 (v) Failing or refusing to maintain adequate medical records on a
+13 patient or failing or refusing to make medical records in the physician's
+14 possession promptly available to another physician or health care provider
+15 who is licensed pursuant to chapter 7, 8, 13, 15, 17 or 29 of this title
+16 on request and receipt of proper authorization to do so from the patient,
+17 a minor patient's parent, the patient's legal guardian or the patient's
+18 authorized representative or failing to comply with title 12, chapter 13,
+19 article 7.1.
+20 (w) Referring a patient to a diagnostic or treatment facility or
+21 prescribing goods and services without disclosing in writing to the
+22 patient that the physician has a pecuniary interest in the facility, goods
+23 or services to which the patient is referred or prescribed. This
+24 subdivision does not apply to a referral by one physician or practitioner
+25 to another physician or practitioner within a group of physicians or
+26 practitioners practicing together.
+27 (x) Engaging in sexual intimacies with a patient in the course of
+28 direct treatment.
+29 (y) Failing to dispense drugs and devices in compliance with
+30 article 4 of this chapter.
+31 (z) Administering, dispensing or prescribing any drug or a device
+32 for other than an accepted therapeutic purpose.
+33 (aa) Falsely representing or holding oneself out as being a
+34 specialist or representation by a doctor of naturopathic medicine or the
+35 doctor's staff, employer or representative that the doctor is boarded or
+36 board certified if this is not true or that standing is not current.
+37 (bb) Delegating professional duties and responsibilities to a
+38 person if the person has not been approved or qualified by licensure or by
+39 certification to perform these duties or responsibilities.
+40 (cc) Failing to appropriately supervise a naturopathic medical
+41 student, a nurse, a medical assistant, a health care provider or a
+42 technician who is employed by or assigned to the physician during the
+43 performance of delegated professional duties and responsibilities.
+44 (dd) Using experimental forms of diagnosis or treatment without
+45 adequate informed consent of the patient or the patient's legal guardian
+46 and without conforming to experimental criteria, including protocols,
+47 detailed records, periodic analysis of results and periodic review by a
+-6-
+
+Senate Amendments to S.B. 1178
+1 medical peer review committee as approved by the United States food and
+2 drug administration or its successor agency.
+3 (ee) Failing to furnish information in a timely manner to the board
+4 or investigators or representatives of the board if this information is
+5 legally requested by the board and failing to allow properly authorized
+6 board personnel on demand to examine and have access to documents, reports
+7 and records maintained by the physician that relate to the physician's
+8 medical practice or medically related activities.
+9 (ff) Failing to report in writing to the board evidence that a
+10 person who is licensed, certified or registered pursuant to this chapter
+11 is or may be medically incompetent, guilty of unprofessional conduct or
+12 mentally or physically unable to safely practice or assist in the practice
+13 of naturopathic medicine.
+14 (gg) Conducting or engaging in an internship or preceptorship in
+15 naturopathic medicine without being approved and registered by the board
+16 for that internship or preceptorship.
+17 (hh) Signing a blank, undated or predated prescription form.
+18 (ii) Engaging in conduct that the board determines is gross
+19 negligence, repeated negligence or negligence resulting in harm or death
+20 to a patient.
+21 (jj) Knowingly making a false or misleading statement in oral
+22 testimony to the board on a form required by the board or in written
+23 correspondence to the board, including attachments to that correspondence.
+24 (kk) The failure of a physician who is the chief medical officer,
+25 the executive officer or the chief of staff of an internship, a
+26 preceptorship or a clinical training program to report in writing to the
+27 board that the privileges of a doctor of naturopathic medicine, a
+28 naturopathic medical student or a medical assistant have been denied,
+29 limited, revoked or suspended because that doctor's, student's or
+30 assistant's actions appear to indicate that the person is or may be
+31 medically incompetent, is or may be guilty of unprofessional conduct or is
+32 or may be unable to safely engage or assist in the practice of
+33 naturopathic medicine.
+34 (ll) Having action taken against a doctor of naturopathic medicine
+35 by a licensing or regulatory board in another jurisdiction due to that
+36 doctor's mental or physical inability to engage safely in the practice of
+37 naturopathic medicine or the doctor's medical incompetence or for
+38 unprofessional conduct as defined by that licensing or regulatory board
+39 and that corresponds directly or indirectly to an act of unprofessional
+40 conduct prescribed by this paragraph. The action taken may include
+41 refusing, denying, revoking or suspending a license, otherwise limiting,
+42 restricting or monitoring a licensee or placing a licensee on probation by
+43 that licensing or regulatory board.
+44 (mm) Having sanctions imposed by an agency of the federal
+45 government, including restricting, suspending, limiting or removing a
+46 person from the practice of naturopathic medicine or restricting that
+47 person's ability to obtain financial remuneration.
+-7-
+
+Senate Amendments to S.B. 1178
+1 (nn) Violating any formal order, probation, consent agreement or
+2 stipulation issued or entered into by the board pursuant to this chapter.
+3 (oo) Refusing to submit to a body fluid examination pursuant to a
+4 board investigation of alleged substance abuse by a doctor of naturopathic
+5 medicine.
+6 (pp) Charging a fee for services not rendered or dividing a
+7 professional fee for patient referrals among health care providers or
+8 health care institutions or between these providers and institutions or a
+9 contractual arrangement that has this effect.
+10 (qq) Obtaining a fee by fraud, deceit or misrepresentation.
+11 (rr) Charging or collecting a clearly excessive fee. In
+12 determining whether a fee is clearly excessive, the board shall consider
+13 the fee or range of fees customarily charged in this state for similar
+14 services, in light of modifying factors such as the time required, the
+15 complexity of the service and the skill required to perform the service
+16 properly. This subdivision does not apply if there is a clear written
+17 contract for a fixed fee between the physician and the patient that was
+18 entered into before the service was provided.
+19 (ss) With the exception of heavy metal poisoning, using chelation
+20 therapy in the treatment of arteriosclerosis or as any other form of
+21 therapy without adequate informed patient consent and without conforming
+22 to generally accepted experimental criteria, including protocols, detailed
+23 records, periodic analysis of results and periodic review by a medical
+24 peer review committee.
+25 (tt) Using a controlled substance unless it is prescribed by
+26 another physician for use during a prescribed course of treatment.
+27 (uu) Prescribing, dispensing or administering anabolic androgenic
+28 steroids for other than therapeutic purposes.
+29 (vv) Except in an emergency or urgent care situation, prescribing
+30 or dispensing a controlled substance to a member of the naturopathic
+31 physician's immediate family.
+32 (ww) Prescribing, dispensing or furnishing a prescription
+33 medication or a prescription-only device as defined in section 32-1901 to
+34 a person unless the licensee first conducts a physical examination of that
+35 person or has previously established a doctor-patient relationship. The
+36 physical examination may be conducted through telehealth as defined in
+37 section 36-3601 unless the examination is for the purpose of obtaining a
+38 written certification from the physician for the purposes of title 36,
+39 chapter 28.1. This subdivision does not apply to:
+40 (i) A licensee who provides temporary patient supervision on behalf
+41 of the patient's regular treating licensed health care professional.
+42 (ii) An emergency medical situation as defined in section 41-1831.
+43 (iii) Prescriptions written to prepare a patient for a medical
+44 examination.
+45 (iv) Prescriptions written or prescription medications issued for
+46 use by a county or tribal public health department for immunization
+47 programs or emergency treatment or in response to an infectious disease
+-8-
+
+Senate Amendments to S.B. 1178
+1 investigation, a public health emergency, an infectious disease outbreak
+2 or an act of bioterrorism. For the purposes of this item, "bioterrorism"
+3 has the same meaning prescribed in section 36-781.
+4 (v) Prescriptions written or antimicrobials dispensed to a contact
+5 as defined in section 36-661 who is believed to have had significant
+6 exposure risk as defined in section 36-661 with another person who has
+7 been diagnosed with a communicable disease as defined in section 36-661 by
+8 the prescribing or dispensing physician.
+9 (vi) Prescriptions written by a licensee through a telehealth
+10 program that is covered by the policies and procedures adopted by the
+11 administrator of a hospital or outpatient treatment center.
+12 (xx) If medical treatment is considered experimental or
+13 investigational, failing to include in a patient's record a consent to
+14 treatment document that is signed by the patient or the patient's parent
+15 or legal guardian and that indicates that the patient or the patient's
+16 parent or legal guardian has been informed of the risk of any treatment to
+17 be provided and the expected cost of that treatment.
+18 (yy) When issuing a written certification as defined in section
+19 36-2801, failing or refusing to include in the adequate medical records of
+20 a patient a copy of all of the following:
+21 (i) The medical records relied on by the physician to support the
+22 diagnosis or confirmed diagnosis of the patient's debilitating medical
+23 condition.
+24 (ii) The written certification.
+25 (iii) The patient's profile on the Arizona board of pharmacy
+26 controlled substances prescription monitoring program database.
+27 (zz) Dispensing a schedule II controlled substance that is an
+28 opioid.
+29 <<Sec. 2. Title 36, Arizona Revised Statutes, is amended by adding
+30 chapter 42, to read:
+31 CHAPTER 43
+32 PRESCRIPTION DRUGS
+33 ARTICLE 1. PRICING
+34
+35 36-4301. Definitions
+36 [IN THIS ARTICLE, UNLESS THE CONTEXT OTHERWISE REQUIRES:
+37 1. "ESSENTIAL OFF-PATENT OR GENERIC DRUG":
+38 (A) MEANS ANY PRESCRIPTION DRUG THAT MEETS ALL OF THE FOLLOWING:
+39 (I) ALL EXCLUSIVE MARKETING RIGHTS, IF ANY, GRANTED UNDER THE
+40 FEDERAL FOOD, DRUG, AND COSMETIC ACT, SECTION 351 OF THE FEDERAL PUBLIC
+41 HEALTH SERVICE ACT, AND FEDERAL PATENT LAW HAVE EXPIRED.
+42 (II) EITHER APPEARS ON THE MODEL LIST OF ESSENTIAL MEDICINES MOST
+43 RECENTLY ADOPTED BY THE WORLD HEALTH ORGANIZATION OR HAS BEEN DESIGNATED
+44 BY THE SECRETARY OF THE UNITED STATES DEPARTMENT OF HEALTH AND HUMAN
+45 SERVICES AS AN ESSENTIAL MEDICINE DUE TO ITS EFFICACY IN TREATING A
+46 LIFE-THREATENING HEALTH CONDITION OR A CHRONIC HEALTH CONDITION THAT
+-9-
+
+Senate Amendments to S.B. 1178
+1 SUBSTANTIALLY IMPAIRS AN INDIVIDUAL'S ABILITY TO ENGAGE IN ACTIVITIES OF
+2 DAILY LIVING.
+3 (III) IS ACTIVELY MANUFACTURED AND MARKETED FOR SALE IN THE UNITED
+4 STATES BY THREE OR FEWER MANUFACTURERS.
+5 (IV) IS MADE AVAILABLE FOR SALE IN THIS STATE.
+6 (B) INCLUDES ANY DRUG-DEVICE COMBINATION PRODUCT USED TO DELIVER A
+7 DRUG FOR WHICH ALL EXCLUSIVE MARKETING RIGHTS, IF ANY, GRANTED UNDER THE
+8 FEDERAL FOOD, DRUG, AND COSMETIC ACT, SECTION 351 OF THE FEDERAL PUBLIC
+9 HEALTH SERVICE ACT, AND FEDERAL PATENT LAW HAVE EXPIRED.
+10 2. "PRICE GOUGING" MEANS AN UNCONSCIONABLE INCREASE IN THE PRICE OF
+11 A PRESCRIPTION DRUG.
+12 3. "STATE MEDICAL ASSISTANCE PROGRAM" MEANS THE ARIZONA HEALTH CARE
+13 COST CONTAINMENT SYSTEM ESTABLISHED BY CHAPTER 29 OF THIS TITLE.
+14 4. "UNCONSCIONABLE INCREASE" MEANS AN INCREASE IN THE PRICE OF A
+15 PRESCRIPTION DRUG THAT BOTH:
+16 (A) IS EXCESSIVE AND NOT JUSTIFIED BY THE COST OF PRODUCING THE
+17 PRESCRIPTION DRUG OR THE COST OF APPROPRIATE EXPANSION OF ACCESS TO THE
+18 PRESCRIPTION DRUG TO PROMOTE PUBLIC HEALTH.
+19 (B) RESULTS IN CONSUMERS FOR WHOM THE PRESCRIPTION DRUG HAS BEEN
+20 PRESCRIBED HAVING NO MEANINGFUL CHOICE ABOUT WHETHER TO PURCHASE THE
+21 PRESCRIPTION DRUG AT AN EXCESSIVE PRICE BECAUSE OF THE IMPORTANCE OF THE
+22 PRESCRIPTION DRUG TO THE CONSUMER'S HEALTH AND INSUFFICIENT COMPETITION IN
+23 THE MARKET FOR THE PRESCRIPTION DRUG.
+24 5. "WHOLESALE ACQUISITION COST" HAS THE SAME MEANING PRESCRIBED IN
+25 42 UNITED STATES CODE SECTION 1395W–3A.]
+26 36-4302. Manufacturers; wholesale distributors; price gouging
+27 prohibited
+28 [A. A MANUFACTURER OR WHOLESALE DISTRIBUTOR MAY NOT ENGAGE IN PRICE
+29 GOUGING IN THE SALE OF AN ESSENTIAL OFF-PATENT OR GENERIC DRUG.
+30 B. IT IS NOT A VIOLATION OF SUBSECTION A OF THIS SECTION FOR A
+31 WHOLESALE DISTRIBUTOR TO INCREASE THE PRICE OF AN ESSENTIAL OFF-PATENT OR
+32 GENERIC DRUG IF THE PRICE INCREASE IS DIRECTLY ATTRIBUTABLE TO ADDITIONAL
+33 COSTS FOR THE ESSENTIAL OFF-PATENT OR GENERIC DRUG IMPOSED ON THE
+34 WHOLESALE DISTRIBUTOR BY THE MANUFACTURER OF THE ESSENTIAL OFF-PATENT OR
+35 GENERIC DRUG.]
+36 36-4303. Attorney general; information required; enforcement
+37 actions; civil penalty; confidentiality
+38 [A. THE STATE MEDICAL ASSISTANCE PROGRAM MAY NOTIFY THE ATTORNEY
+39 GENERAL OF ANY INCREASE IN THE PRICE OF AN ESSENTIAL OFF-PATENT OR GENERIC
+40 DRUG IF BOTH OF THE FOLLOWING APPLY:
+41 1. THE PRICE INCREASE, BY ITSELF OR IN COMBINATION WITH OTHER PRICE
+42 INCREASES, WOULD RESULT IN AN INCREASE OF AT LEAST FIFTY PERCENT IN
+43 EITHER:
+44 (A) THE WHOLESALE ACQUISITION COST OF THE ESSENTIAL OFF-PATENT OR
+45 GENERIC DRUG WITHIN THE PRECEDING ONE-YEAR PERIOD.
+46 (B) THE PRICE PAID BY THE STATE MEDICAL ASSISTANCE PROGRAM FOR THE
+47 ESSENTIAL OFF-PATENT OR GENERIC DRUG WITHIN THE PRECEDING ONE-YEAR PERIOD.
+-10-
+
+Senate Amendments to S.B. 1178
+1 2. ONE OF THE FOLLOWING APPLIES:
+2 (A) A THIRTY-DAY SUPPLY OF THE MAXIMUM RECOMMENDED DOSAGE OF THE
+3 ESSENTIAL OFF-PATENT OR GENERIC DRUG FOR ANY INDICATION, ACCORDING TO THE
+4 LABEL FOR THE ESSENTIAL OFF-PATENT OR GENERIC DRUG APPROVED UNDER THE
+5 FEDERAL FOOD, DRUG, AND COSMETIC ACT, WOULD COST MORE THAN $80 AT THE
+6 ESSENTIAL OFF-PATENT OR GENERIC DRUG'S WHOLESALE ACQUISITION COST.
+7 (B) A FULL COURSE OF TREATMENT WITH THE ESSENTIAL OFF-PATENT OR
+8 GENERIC DRUG, ACCORDING TO THE LABEL FOR THE ESSENTIAL OFF-PATENT OR
+9 GENERIC DRUG APPROVED UNDER THE FEDERAL FOOD, DRUG, AND COSMETIC ACT,
+10 WOULD COST MORE THAN $80 AT THE ESSENTIAL OFF-PATENT OR GENERIC DRUG'S
+11 WHOLESALE ACQUISITION COST.
+12 (C) THE ESSENTIAL OFF-PATENT OR GENERIC DRUG IS MADE AVAILABLE TO
+13 CONSUMERS ONLY IN QUANTITIES THAT DO NOT CORRESPOND TO A THIRTY-DAY
+14 SUPPLY, A FULL COURSE OF TREATMENT OR A SINGLE DOSE AND WOULD COST MORE
+15 THAN $80 AT THE ESSENTIAL OFF-PATENT OR GENERIC DRUG'S WHOLESALE
+16 ACQUISITION COST TO OBTAIN A THIRTY–DAY SUPPLY OR A FULL COURSE OF
+17 TREATMENT.
+18 B. ON REQUEST OF THE ATTORNEY GENERAL, THE MANUFACTURER OF AN
+19 ESSENTIAL OFF-PATENT OR GENERIC DRUG IDENTIFIED IN A NOTICE UNDER
+20 SUBSECTION A OF THIS SECTION, WITHIN FORTY-FIVE DAYS AFTER THE REQUEST,
+21 SHALL SUBMIT A STATEMENT TO THE ATTORNEY GENERAL THAT DOES ALL OF THE
+22 FOLLOWING:
+23 1. ITEMIZES THE COMPONENTS OF THE COST OF PRODUCING THE ESSENTIAL
+24 OFF-PATENT OR GENERIC DRUG AND IDENTIFIES THE CIRCUMSTANCES AND TIMING OF
+25 ANY INCREASE IN MATERIALS OR MANUFACTURING COSTS THAT CAUSED ANY INCREASE
+26 IN THE PRICE OF THE ESSENTIAL OFF-PATENT OR GENERIC DRUG WITHIN THE
+27 ONE-YEAR PERIOD PRECEDING THE DATE OF THE PRICE INCREASE.
+28 2. IDENTIFIES THE CIRCUMSTANCES AND TIMING OF ANY EXPENDITURES MADE
+29 BY THE MANUFACTURER TO EXPAND ACCESS TO THE ESSENTIAL OFF-PATENT OR
+30 GENERIC DRUG AND EXPLAINS ANY IMPROVEMENT IN PUBLIC HEALTH ASSOCIATED WITH
+31 THOSE EXPENDITURES.
+32 3. PROVIDES ANY OTHER INFORMATION THAT THE MANUFACTURER BELIEVES TO
+33 BE RELEVANT TO DETERMINING WHETHER A VIOLATION OF THIS ARTICLE HAS
+34 OCCURRED.
+35 C. THE ATTORNEY GENERAL MAY REQUIRE A MANUFACTURER OR A WHOLESALE
+36 DISTRIBUTOR OF AN ESSENTIAL OFF-PATENT OR GENERIC DRUG TO PRODUCE ANY
+37 RECORDS OR OTHER DOCUMENTS THAT MAY BE RELEVANT TO A DETERMINATION OF
+38 WHETHER A VIOLATION OF THIS ARTICLE HAS OCCURRED.
+39 D. ON PETITION OF THE ATTORNEY GENERAL AND SUBJECT TO SUBSECTION E
+40 OF THIS SECTION, A SUPERIOR COURT MAY ISSUE AN ORDER:
+41 1. COMPELLING A MANUFACTURER OR A WHOLESALE DISTRIBUTOR OF AN
+42 ESSENTIAL OFF-PATENT OR GENERIC DRUG TO PROVIDE THE STATEMENT REQUIRED
+43 UNDER SUBSECTION B OF THIS SECTION AND TO PRODUCE SPECIFIC RECORDS OR
+44 OTHER DOCUMENTS REQUESTED BY THE ATTORNEY GENERAL UNDER SUBSECTION C OF
+45 THIS SECTION THAT MAY BE RELEVANT TO DETERMINING WHETHER A VIOLATION OF
+46 THIS ARTICLE HAS OCCURRED.
+47 2. RESTRAINING OR ENJOINING A VIOLATION OF THIS ARTICLE.
+-11-
+
+Senate Amendments to S.B. 1178
+1 3. RESTORING TO ANY CONSUMER, INCLUDING A THIRD-PARTY PAYOR, ANY
+2 MONIES ACQUIRED AS A RESULT OF A PRICE INCREASE THAT VIOLATES THIS
+3 ARTICLE.
+4 4. REQUIRING A MANUFACTURER THAT HAS ENGAGED IN PRICE GOUGING IN
+5 THE SALE OF AN ESSENTIAL OFF-PATENT OR GENERIC DRUG TO MAKE THE ESSENTIAL
+6 OFF-PATENT OR GENERIC DRUG AVAILABLE TO PARTICIPANTS IN THE STATE MEDICAL
+7 ASSISTANCE PROGRAM FOR A PERIOD OF UP TO ONE YEAR AT THE PRICE AT WHICH
+8 THE ESSENTIAL OFF-PATENT OR GENERIC DRUG WAS MADE AVAILABLE TO
+9 PARTICIPANTS IMMEDIATELY BEFORE THE MANUFACTURER'S VIOLATION OF THIS
+10 ARTICLE.
+11 5. IMPOSING A CIVIL PENALTY OF UP TO $10,000 FOR EACH VIOLATION OF
+12 THIS ARTICLE.
+13 E. THE ATTORNEY GENERAL MAY NOT BRING AN ACTION FOR A REMEDY UNDER
+14 SUBSECTION D, PARAGRAPH 2, 3, 4 OR 5 OF THIS SECTION UNLESS THE ATTORNEY
+15 GENERAL HAS PROVIDED THE MANUFACTURER OR WHOLESALE DISTRIBUTOR OF AN
+16 ESSENTIAL OFF-PATENT OR GENERIC DRUG WITH AN OPPORTUNITY TO MEET WITH THE
+17 ATTORNEY GENERAL TO OFFER A JUSTIFICATION FOR THE INCREASE IN THE PRICE OF
+18 THE ESSENTIAL OFF-PATENT OR GENERIC DRUG.
+19 F. ANY INFORMATION PROVIDED BY A MANUFACTURER OR A WHOLESALE
+20 DISTRIBUTOR OF AN ESSENTIAL OFF-PATENT OR GENERIC DRUG TO THE ATTORNEY
+21 GENERAL UNDER SUBSECTIONS B AND C OF THIS SECTION IS CONSIDERED
+22 CONFIDENTIAL COMMERCIAL INFORMATION UNLESS THE CONFIDENTIALITY OF THE
+23 INFORMATION IS WAIVED BY THE MANUFACTURER OR WHOLESALE DISTRIBUTOR.
+24 G. IN ANY ACTION BROUGHT BY THE ATTORNEY GENERAL UNDER SUBSECTION D OF
+25 THIS SECTION, A PERSON WHO IS ALLEGED TO HAVE VIOLATED A REQUIREMENT OF
+26 THIS ARTICLE MAY NOT ASSERT AS A DEFENSE THAT THE PERSON DID NOT DEAL
+27 DIRECTLY WITH A CONSUMER RESIDING IN THIS STATE.]>>
+28 Enroll and engross to conform
+29 Amend title to conform
+KIANA SEARS
+1178SEARS0220.docx
+02/27/2026
+02:21 PM
+S: MG
+130BLDNRR
+-12-

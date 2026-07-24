@@ -1,0 +1,558 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Engrossed Bill - Bliss - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1178: naturopathic physicians; drug administration
+BLISS FLOOR AMENDMENT
+1. Requires a naturopathic doctor wishing to administer intravenous antibiotics,
+antivirals and antifungals to complete:
+a. board-approved coursework for certification that provides a
+comprehensive understanding of the fundamentals and clinical
+applications of intravenous therapy; and
+b. a two-hour continuing medical education program to receive
+certification to administer intravenous antibiotics, antivirals and
+antifungals.
+2. Stipulates that a naturopathic doctor who has completed equivalent board-
+approved coursework is not required to take the additional coursework as
+specified.
+A GRAHAM
+6/8/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Bliss
+Second Regular Session S.B. 1178
+ADDITIONAL COW
+BLISS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1178
+(Reference to House engrossed Senate bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 32-1501, Arizona Revised Statutes, is amended to
+3 read:
+4 32-1501. Definitions
+5 In this chapter, unless the context otherwise requires:
+6 1. "Accepted therapeutic purpose" means treatment of a disease,
+7 injury, ailment or infirmity that is competent and generally recognized as
+8 safe and effective.
+9 2. "Active license" means a current valid license to practice
+10 naturopathic medicine.
+11 3. "Adequate medical records" means legible medical records
+12 containing, at a minimum, sufficient information to identify the patient,
+13 support the diagnosis, describe the treatment, accurately document the
+14 results, indicate advice and cautionary warning provided to the patient
+15 and provide sufficient information for a similarly qualified practitioner
+16 to assume continuity of the patient's care at any point in the course of
+17 treatment.
+18 4. "Approved clinical training program" or "clinical training
+19 program" means a program for naturopathic medical students in which the
+20 training occurred or is being conducted by or in conjunction with an
+21 approved school of naturopathic medicine.
+22 5. "Approved internship program" or "internship" means that the
+23 program in which the training occurred or is being conducted has been
+24 approved for internship training for physicians or for graduates of a
+25 school of naturopathic medicine by the board or was approved or accredited
+26 by an educational or professional association recognized by the board or
+27 by another state's or country's licensing agency recognized by the board.
+
+House Amendments to S.B. 1178
+1 6. "Approved postdoctoral training" or "postdoctoral training"
+2 means that the program in which the training occurred or is being
+3 conducted has been approved for specialty training or for graduate medical
+4 education in naturopathic medicine by the board or approved or accredited
+5 by an educational or professional association recognized by the board or
+6 by another state's or country's licensing agency recognized by the board.
+7 7. "Approved preceptorship program" or "preceptorship" means that
+8 the program in which the training occurred or is being conducted has been
+9 approved for preceptorship training for physicians or for graduates of a
+10 school of naturopathic medicine by the board or was approved or accredited
+11 by an educational or professional association recognized by the board or
+12 by another state's or country's licensing agency recognized by the board.
+13 8. "Approved school of naturopathic medicine" or "school of
+14 naturopathic medicine" means a school, college or university determined by
+15 the board to have an A DEGREE-GRANTING, DOCTORAL-LEVEL NATUROPATHIC
+16 MEDICAL educational program that meets standards prescribed by the council
+17 on naturopathic medical education, or its successor agency, and that
+18 offers a course of study REQUIRES DIDACTIC AND SUPERVISED CLINICAL
+19 TRAINING AND that, on successful completion, results in the awarding of
+20 the degree of doctor of naturopathic medicine and whose course of study is
+21 either ANY of the following:
+22 (a) Accredited or a candidate for accreditation by an accrediting
+23 agency recognized by the United States secretary of education as a
+24 specialized accrediting agency for schools of naturopathic medicine THE
+25 COUNCIL ON NATUROPATHIC MEDICAL EDUCATION or its A successor OR COMPARABLE
+26 ACCREDITING AGENCY.
+27 (b) Accredited or a candidate for accreditation by an accrediting
+28 agency recognized by the council for higher education accreditation or its
+29 successor.
+30 (b) PROVIDED BY AN INSTITUTION OF HIGHER EDUCATION THAT IS
+31 ACCREDITED OR A CANDIDATE FOR ACCREDITATION BY AN INSTITUTIONAL
+32 ACCREDITING AGENCY RECOGNIZED BY THE UNITED STATES SECRETARY OF EDUCATION
+33 OR THE COUNCIL FOR HIGHER EDUCATION ACCREDITATION, OR ITS SUCCESSOR, OR
+34 ANY COMPARABLE FEDERALLY RECOGNIZED NATIONAL QUALITY-ASSURANCE BODY.
+35 (c) FROM A DIPLOMA-GRANTING, DEGREE-EQUIVALENT INSTITUTION OF
+36 HIGHER EDUCATION IN CANADA THAT OFFERS A FULL-TIME, STRUCTURED CURRICULUM
+37 IN BASIC SCIENCES AND SUPERVISED PATIENT CARE COMPRISING [OF] A DOCTORAL
+38 NATUROPATHIC MEDICAL EDUCATION THAT REQUIRES AT LEAST ONE HUNDRED
+39 THIRTY-TWO WEEKS OF COURSEWORK TO BE COMPLETED WITHIN A PERIOD OF THIRTY
+40 MONTHS, THAT IS IN GOOD STANDING WITH THE BOARD AND THAT HAS PROGRAMMATIC
+41 ACCREDITATION BY THE COUNCIL ON NATUROPATHIC MEDICAL EDUCATION OR A
+42 SUCCESSOR OR COMPARABLE ACCREDITING AGENCY.
+43 9. "Board" means the naturopathic physicians medical board.
+44 10. "Chelation therapy" means an experimental medical therapy to
+45 restore cellular homeostasis through the use of intravenous, metal-binding
+46 and bioinorganic agents such as ethylene diamine tetraacetic acid.
+-2-
+
+House Amendments to S.B. 1178
+1 Chelation therapy does not include experimental therapy used to treat
+2 heavy metal poisoning.
+3 11. "Completed application" means that the applicant paid the
+4 required fees and supplied all documents and information as requested by
+5 the board and in a manner acceptable to the board.
+6 12. "Controlled substance" means a drug, substance or immediate
+7 precursor in schedules I through V of title 36, chapter 27, article 2 or
+8 the rules adopted pursuant to title 36, chapter 27, article 2.
+9 13. "Direct supervision" means that a physician who is licensed
+10 pursuant to this chapter or chapter 13, 17 or 29 of this title:
+11 (a) Is physically present and within sight or sound of the person
+12 supervised and is available for consultation regarding procedures that the
+13 physician has authorized and for which the physician remains responsible.
+14 (b) Has designated a person licensed pursuant to this chapter or
+15 chapter 13, 17 or 29 of this title to provide direct supervision in the
+16 physician's absence.
+17 14. "Doctor of naturopathic medicine" or "doctor" means a natural
+18 person who is licensed to practice naturopathic medicine under this
+19 chapter.
+20 15. "Drug" has the same meaning prescribed in section 32-1901 but
+21 does not include:
+22 (a) Intravenous administration of legend drugs, except for:
+23 (i) Vitamins, chelation therapy, ANTIBIOTICS, ANTIVIRALS,
+24 ANTIFUNGALS and drugs used in emergency resuscitation and stabilization.
+25 (ii) Minerals.
+26 (iii) Nutrients. For the purposes of this item, "nutrient" means a
+27 substance that provides nourishment for growth or metabolism and that is
+28 manufactured and supplied for intravenous use by a manufacturer registered
+29 with the United States food and drug administration or compounded by a
+30 pharmacy licensed by the Arizona state board of pharmacy.
+31 (b) Controlled substances listed as schedule I or II controlled
+32 substances as defined in the federal controlled substances act of 1970
+33 (21 United States Code section 802), except morphine, any drug that is
+34 reclassified from schedule III to schedule II after January 1, 2014 and
+35 any homeopathic preparations that are also controlled substances.
+36 (c) Cancer chemotherapeutics classified as legend drugs.
+37 (d) Antipsychotics.
+38 16. "General supervision" means that the physician is available for
+39 consultation regarding procedures that the physician has authorized and
+40 for which the physician remains responsible.
+41 17. "Legend drug" means any drug that is defined by section 503(b)
+42 of the federal food, drug, and cosmetic act and under which definition its
+43 label is required to bear the statement "Rx only".
+44 18. "Letter of concern" means a nondisciplinary advisory letter
+45 that is issued by the board to a person who is regulated under this
+46 chapter and that states that while there is insufficient evidence to
+47 support disciplinary action the board believes that the person should
+-3-
+
+House Amendments to S.B. 1178
+1 modify or eliminate certain practices and that continuation of the
+2 activities that led to the information being submitted to the board may
+3 result in action against the person's license, certificate or
+4 registration.
+5 19. "Letter of reprimand" means a disciplinary letter that is
+6 issued by the board and that informs a person who is regulated under this
+7 chapter that the person's conduct violates state or federal law but does
+8 not require the board to restrict the person's license, certificate or
+9 registration because the person's conduct did not result in harm to a
+10 patient or to the public.
+11 20. "Limit" means taking a nondisciplinary action that alters the
+12 physician's practice or professional activities if the board determines
+13 that there is evidence that the physician is or may be mentally or
+14 physically unable to safely engage in the practice of medicine.
+15 21. "Medical assistant" or "naturopathic medical assistant" means a
+16 person who is certified by the board as a medical assistant, who assists a
+17 doctor of naturopathic medicine and who may perform delegated procedures
+18 that are commensurate with the assistant's education and training under
+19 the direct supervision of a doctor of naturopathic medicine and that do
+20 not include diagnosing, designing or modifying established treatment
+21 programs or those procedures prohibited by the board or by this chapter.
+22 22. "Medically incompetent" means a person who is licensed,
+23 certified or registered pursuant to this chapter and who lacks sufficient
+24 naturopathic medical knowledge or skills, or both, to a degree that is
+25 likely to endanger the health of patients.
+26 23. "Natural substance" means a homeopathic, botanical, nutritional
+27 or other supplement that does not require a prescription pursuant to
+28 federal law before it is prescribed, dispensed or otherwise furnished to a
+29 patient and that is prescribed by a physician who is licensed pursuant to
+30 this chapter to enhance health, prevent disease or treat a medical
+31 condition diagnosed by the physician.
+32 24. "Naturopathic medical student" means a person who is enrolled
+33 in a course of study at an approved school of naturopathic medicine.
+34 25. "Naturopathic medicine" means medicine as taught in approved
+35 schools of naturopathic medicine and in clinical, internship,
+36 preceptorship and postdoctoral training programs approved by the board and
+37 practiced by a recipient of a degree of doctor of naturopathic medicine
+38 WHO IS licensed pursuant to this chapter.
+39 26. "Nurse" means a person who is licensed pursuant to chapter 15
+40 of this title.
+41 27. "Physician" means a doctor of naturopathic medicine who is
+42 licensed pursuant to this chapter.
+43 28. "Practice of naturopathic medicine" means a medical system of
+44 diagnosing and treating diseases, injuries, ailments, infirmities and
+45 other conditions of the human mind and body, including by natural means,
+46 drugless methods, drugs, nonsurgical methods, devices, physical,
+-4-
+
+House Amendments to S.B. 1178
+1 electrical, hygienic and sanitary measures and all forms of physical
+2 agents and modalities.
+3 29. "Restrict" means taking a disciplinary action that alters the
+4 physician's practice or professional activities if the board determines
+5 that there is evidence that the physician is or may be medically
+6 incompetent or guilty of unprofessional conduct.
+7 30. "Specialist" means a physician who has successfully completed
+8 approved postdoctoral training, who is certified by a specialty board of
+9 examiners recognized by the board and who is certified by the board to
+10 practice the specialty pursuant to this chapter.
+11 31. "Unprofessional conduct" includes the following, whether
+12 occurring in this state or elsewhere:
+13 (a) Intentionally disclosing a professional secret or intentionally
+14 disclosing a privileged communication except as either of these may
+15 otherwise be required by law.
+16 (b) Engaging in any dishonorable conduct reflecting unfavorably on
+17 the profession.
+18 (c) Committing a felony, whether or not involving moral turpitude,
+19 or a misdemeanor involving moral turpitude. In either case conviction by
+20 any court of competent jurisdiction or a plea of no contest is conclusive
+21 evidence of the commission of the felony or misdemeanor.
+22 (d) Habitual intemperance in the use of alcohol or any substance
+23 abuse.
+24 (e) Engaging in the illegal use of any narcotic or hypnotic drugs,
+25 or illegal substances.
+26 (f) Engaging in conduct that the board determines is gross
+27 malpractice, repeated malpractice or any malpractice resulting in the
+28 death of a patient.
+29 (g) Impersonating another doctor of naturopathic medicine or any
+30 other practitioner of the healing arts.
+31 (h) Falsely acting or assuming to act as a member, an employee or
+32 an authorized agent of the board.
+33 (i) Procuring or attempting to procure a license or a certificate
+34 pursuant to this chapter by fraud, by misrepresentation or by knowingly
+35 taking advantage of the mistake of another person or agency.
+36 (j) Having professional connection with or lending one's name to
+37 enhance or continue the activities of an illegal physician or an illegal
+38 practitioner of any healing art.
+39 (k) Representing that a manifestly incurable disease, injury,
+40 ailment or infirmity can be permanently cured, or falsely or fraudulently
+41 representing that a curable disease, injury, ailment or infirmity can be
+42 cured within a stated time.
+43 (l) Offering, undertaking or agreeing to cure or treat a disease,
+44 injury, ailment or infirmity by a secret means, method, treatment,
+45 medicine, substance, device or instrumentality.
+-5-
+
+House Amendments to S.B. 1178
+1 (m) Refusing to divulge to the board on demand the means, method,
+2 treatment, medicine, substance, device or instrumentality used in the
+3 treatment of a disease, injury, ailment or infirmity.
+4 (n) Giving or receiving, or aiding or abetting the giving or
+5 receiving of, rebates, either directly or indirectly.
+6 (o) Knowingly making any false or fraudulent statement, written or
+7 oral, in connection with the practice of naturopathic medicine or any
+8 naturopathic treatment method.
+9 (p) Engaging in immorality or misconduct that tends to discredit
+10 the naturopathic profession.
+11 (q) Having a license refused, revoked or suspended by any other
+12 state, district or territory of the United States or any other country,
+13 unless it can be shown that this action was not due to reasons that relate
+14 to the ability to safely and skillfully practice as a doctor of
+15 naturopathic medicine or to any act of unprofessional conduct in this
+16 paragraph.
+17 (r) Engaging in any conduct or practice that is contrary to
+18 recognized standards of ethics of the naturopathic profession, any conduct
+19 or practice that does or might constitute a danger to the health, welfare
+20 or safety of the patient or the public, or any conduct, practice or
+21 condition that does or might impair the ability to safely and skillfully
+22 practice as a doctor of naturopathic medicine.
+23 (s) Failing to observe any federal, state, county or municipal law
+24 relating to public health as a physician in this state.
+25 (t) Violating or attempting to violate, directly or indirectly, or
+26 assisting in or abetting the violation of, or conspiring to violate this
+27 chapter or board rules.
+28 (u) Committing false, fraudulent, deceptive or misleading
+29 advertising or advertising the quality of a medical or health care service
+30 by a physician or by the physician's staff, employer or representative.
+31 (v) Failing or refusing to maintain adequate medical records on a
+32 patient or failing or refusing to make medical records in the physician's
+33 possession promptly available to another physician or health care provider
+34 who is licensed pursuant to chapter 7, 8, 13, 15, 17 or 29 of this title
+35 on request and receipt of proper authorization to do so from the patient,
+36 a minor patient's parent, the patient's legal guardian or the patient's
+37 authorized representative or failing to comply with title 12, chapter 13,
+38 article 7.1.
+39 (w) Referring a patient to a diagnostic or treatment facility or
+40 prescribing goods and services without disclosing in writing to the
+41 patient that the physician has a pecuniary interest in the facility, goods
+42 or services to which the patient is referred or prescribed. This
+43 subdivision does not apply to a referral by one physician or practitioner
+44 to another physician or practitioner within a group of physicians or
+45 practitioners practicing together.
+46 (x) Engaging in sexual intimacies with a patient in the course of
+47 direct treatment.
+-6-
+
+House Amendments to S.B. 1178
+1 (y) Failing to dispense drugs and devices in compliance with
+2 article 4 of this chapter.
+3 (z) Administering, dispensing or prescribing any drug or a device
+4 for other than an accepted therapeutic purpose.
+5 (aa) Falsely representing or holding oneself out as being a
+6 specialist or representation by a doctor of naturopathic medicine or the
+7 doctor's staff, employer or representative that the doctor is boarded or
+8 board certified if this is not true or that standing is not current.
+9 (bb) Delegating professional duties and responsibilities to a
+10 person if the person has not been approved or qualified by licensure or by
+11 certification to perform these duties or responsibilities.
+12 (cc) Failing to appropriately supervise a naturopathic medical
+13 student, a nurse, a medical assistant, a health care provider or a
+14 technician who is employed by or assigned to the physician during the
+15 performance of delegated professional duties and responsibilities.
+16 (dd) Using experimental forms of diagnosis or treatment without
+17 adequate informed consent of the patient or the patient's legal guardian
+18 and without conforming to experimental criteria, including protocols,
+19 detailed records, periodic analysis of results and periodic review by a
+20 medical peer review committee as approved by the United States food and
+21 drug administration or its successor agency.
+22 (ee) Failing to furnish information in a timely manner to the board
+23 or investigators or representatives of the board if this information is
+24 legally requested by the board and failing to allow properly authorized
+25 board personnel on demand to examine and have access to documents, reports
+26 and records maintained by the physician that relate to the physician's
+27 medical practice or medically related activities.
+28 (ff) Failing to report in writing to the board evidence that a
+29 person who is licensed, certified or registered pursuant to this chapter
+30 is or may be medically incompetent, guilty of unprofessional conduct or
+31 mentally or physically unable to safely practice or assist in the practice
+32 of naturopathic medicine.
+33 (gg) Conducting or engaging in an internship or preceptorship in
+34 naturopathic medicine without being approved and registered by the board
+35 for that internship or preceptorship.
+36 (hh) Signing a blank, undated or predated prescription form.
+37 (ii) Engaging in conduct that the board determines is gross
+38 negligence, repeated negligence or negligence resulting in harm or death
+39 to a patient.
+40 (jj) Knowingly making a false or misleading statement in oral
+41 testimony to the board on a form required by the board or in written
+42 correspondence to the board, including attachments to that correspondence.
+43 (kk) The failure of a physician who is the chief medical officer,
+44 the executive officer or the chief of staff of an internship, a
+45 preceptorship or a clinical training program to report in writing to the
+46 board that the privileges of a doctor of naturopathic medicine, a
+47 naturopathic medical student or a medical assistant have been denied,
+-7-
+
+House Amendments to S.B. 1178
+1 limited, revoked or suspended because that doctor's, student's or
+2 assistant's actions appear to indicate that the person is or may be
+3 medically incompetent, is or may be guilty of unprofessional conduct or is
+4 or may be unable to safely engage or assist in the practice of
+5 naturopathic medicine.
+6 (ll) Having action taken against a doctor of naturopathic medicine
+7 by a licensing or regulatory board in another jurisdiction due to that
+8 doctor's mental or physical inability to engage safely in the practice of
+9 naturopathic medicine or the doctor's medical incompetence or for
+10 unprofessional conduct as defined by that licensing or regulatory board
+11 and that corresponds directly or indirectly to an act of unprofessional
+12 conduct prescribed by this paragraph. The action taken may include
+13 refusing, denying, revoking or suspending a license, otherwise limiting,
+14 restricting or monitoring a licensee or placing a licensee on probation by
+15 that licensing or regulatory board.
+16 (mm) Having sanctions imposed by an agency of the federal
+17 government, including restricting, suspending, limiting or removing a
+18 person from the practice of naturopathic medicine or restricting that
+19 person's ability to obtain financial remuneration.
+20 (nn) Violating any formal order, probation, consent agreement or
+21 stipulation issued or entered into by the board pursuant to this chapter.
+22 (oo) Refusing to submit to a body fluid examination pursuant to a
+23 board investigation of alleged substance abuse by a doctor of naturopathic
+24 medicine.
+25 (pp) Charging a fee for services not rendered or dividing a
+26 professional fee for patient referrals among health care providers or
+27 health care institutions or between these providers and institutions or a
+28 contractual arrangement that has this effect.
+29 (qq) Obtaining a fee by fraud, deceit or misrepresentation.
+30 (rr) Charging or collecting a clearly excessive fee. In
+31 determining whether a fee is clearly excessive, the board shall consider
+32 the fee or range of fees customarily charged in this state for similar
+33 services, in light of modifying factors such as the time required, the
+34 complexity of the service and the skill required to perform the service
+35 properly. This subdivision does not apply if there is a clear written
+36 contract for a fixed fee between the physician and the patient that was
+37 entered into before the service was provided.
+38 (ss) With the exception of heavy metal poisoning, using chelation
+39 therapy in the treatment of arteriosclerosis or as any other form of
+40 therapy without adequate informed patient consent and without conforming
+41 to generally accepted experimental criteria, including protocols, detailed
+42 records, periodic analysis of results and periodic review by a medical
+43 peer review committee.
+44 (tt) Using a controlled substance unless it is prescribed by
+45 another physician for use during a prescribed course of treatment.
+46 (uu) Prescribing, dispensing or administering anabolic androgenic
+47 steroids for other than therapeutic purposes.
+-8-
+
+House Amendments to S.B. 1178
+1 (vv) Except in an emergency or urgent care situation, prescribing
+2 or dispensing a controlled substance to a member of the naturopathic
+3 physician's immediate family.
+4 (ww) Prescribing, dispensing or furnishing a prescription
+5 medication or a prescription-only device as defined in section 32-1901 to
+6 a person unless the licensee first conducts a physical examination of that
+7 person or has previously established a doctor-patient relationship. The
+8 physical examination may be conducted through telehealth as defined in
+9 section 36-3601 unless the examination is for the purpose of obtaining a
+10 written certification from the physician for the purposes of title 36,
+11 chapter 28.1. This subdivision does not apply to:
+12 (i) A licensee who provides temporary patient supervision on behalf
+13 of the patient's regular treating licensed health care professional.
+14 (ii) An emergency medical situation as defined in section 41-1831.
+15 (iii) Prescriptions written to prepare a patient for a medical
+16 examination.
+17 (iv) Prescriptions written or prescription medications issued for
+18 use by a county or tribal public health department for immunization
+19 programs or emergency treatment or in response to an infectious disease
+20 investigation, a public health emergency, an infectious disease outbreak
+21 or an act of bioterrorism. For the purposes of this item, "bioterrorism"
+22 has the same meaning prescribed in section 36-781.
+23 (v) Prescriptions written or antimicrobials dispensed to a contact
+24 as defined in section 36-661 who is believed to have had significant
+25 exposure risk as defined in section 36-661 with another person who has
+26 been diagnosed with a communicable disease as defined in section 36-661 by
+27 the prescribing or dispensing physician.
+28 (vi) Prescriptions written by a licensee through a telehealth
+29 program that is covered by the policies and procedures adopted by the
+30 administrator of a hospital or outpatient treatment center.
+31 (xx) If medical treatment is considered experimental or
+32 investigational, failing to include in a patient's record a consent to
+33 treatment document that is signed by the patient or the patient's parent
+34 or legal guardian and that indicates that the patient or the patient's
+35 parent or legal guardian has been informed of the risk of any treatment to
+36 be provided and the expected cost of that treatment.
+37 (yy) When issuing a written certification as defined in section
+38 36-2801, failing or refusing to include in the adequate medical records of
+39 a patient a copy of all of the following:
+40 (i) The medical records relied on by the physician to support the
+41 diagnosis or confirmed diagnosis of the patient's debilitating medical
+42 condition.
+43 (ii) The written certification.
+44 (iii) The patient's profile on the Arizona board of pharmacy
+45 controlled substances prescription monitoring program database.
+46 (zz) Dispensing a schedule II controlled substance that is an
+47 opioid.
+-9-
+
+House Amendments to S.B. 1178
+1 <<Sec. 2. Section 32-1504, Arizona Revised Statutes, is amended to
+2 read:
+3 32-1504. Powers and duties
+4 A. The board shall:
+5 1. Adopt rules that are necessary or proper for the administration
+6 of this chapter.
+7 2. Administer and enforce all provisions of this chapter and all
+8 rules adopted by the board under the authority granted by this chapter.
+9 3. Adopt rules regarding the qualifications of medical assistants
+10 who assist doctors of naturopathic medicine and shall determine the
+11 qualifications of medical assistants who are not otherwise regulated.
+12 4. Adopt rules for the approval of schools of naturopathic
+13 medicine. The board may incorporate by reference the accrediting
+14 standards for naturopathic medical schools published by accrediting
+15 agencies recognized by the United States department of education or
+16 recognized by the council for higher education accreditation.
+17 5. Adopt rules relating to clinical, internship, preceptorship and
+18 postdoctoral training programs, naturopathic graduate medical education
+19 and naturopathic continuing medical education programs. The rules for
+20 naturopathic continuing medical education programs shall require at least
+21 ten hours each year [TO BE] directly related to pharmacotherapeutics. [IN
+22 ADDITION TO THE TEN HOURS OF CONTINUING MEDICAL EDUCATION THAT IS DIRECTLY
+23 RELATED TO PHARMACOTHERAPEUTICS, A DOCTOR WHO WISHES TO ADMINISTER
+24 INTRAVENOUS ANTIBIOTICS, ANTIVIRALS AND ANTIFUNGALS SHALL COMPLETE BOTH OF
+25 THE FOLLOWING:
+26 (a) AS A PREREQUISITE TO CERTIFICATION, BOARD-APPROVED COURSEWORK
+27 FOR CERTIFICATION THAT PROVIDES A COMPREHENSIVE UNDERSTANDING OF THE
+28 FUNDAMENTALS AND CLINICAL APPLICATIONS OF INTRAVENOUS THERAPY THAT
+29 INCLUDES THE BASICS OF INTRAVENOUS THERAPY, INDICATIONS AND
+30 CONTRAINDICATIONS, INTRAVENOUS THERAPY TECHNIQUES, COMPLICATIONS AND
+31 MANAGEMENT, SPECIALIZED APPLICATIONS AND EVIDENCE-BASED PRACTICE. A
+32 DOCTOR WHO HAS COMPLETED EQUIVALENT BOARD-APPROVED COURSEWORK IS NOT
+33 REQUIRED TO TAKE THE ADDITIONAL COURSEWORK SPECIFIED IN THIS SUBDIVISION.
+34 (b) A TWO-HOUR CONTINUING MEDICAL EDUCATION PROGRAM TO RECEIVE
+35 CERTIFICATION TO ADMINISTER INTRAVENOUS ANTIBIOTICS, ANTIVIRALS AND
+36 ANTIFUNGALS.]
+37 6. Periodically inspect and evaluate clinical, internship,
+38 preceptorship and postdoctoral training programs and naturopathic graduate
+39 medical education programs and randomly evaluate naturopathic continuing
+40 medical education programs.
+41 7. Adopt rules relating to the dispensing of natural substances,
+42 drugs and devices.
+43 8. Adopt rules necessary for the safe administration of intravenous
+44 nutrients [AND DRUGS]. These rules shall identify and exclude substances
+45 that do not meet the criteria of nutrients suitable for intravenous
+46 administration.
+47 9. Adopt and use a seal.
+-10-
+
+House Amendments to S.B. 1178
+1 10. Have the full and free exchange of information with the
+2 licensing and disciplinary boards of other states and countries and with
+3 the American association of naturopathic physicians, the Arizona
+4 naturopathic medical association, the association of naturopathic medical
+5 colleges, the federation of naturopathic medical licensing boards and the
+6 naturopathic medical societies of other states, districts and territories
+7 of the United States or other countries.
+8 B. The board may:
+9 1. Adopt rules that prescribe annual continuing medical education
+10 for the renewal of licenses issued under this chapter.
+11 2. Employ permanent or temporary personnel it deems necessary to
+12 carry out the purposes of this chapter and designate their duties.
+13 3. Adopt rules relating to naturopathic medical specialties and
+14 determine the qualifications of doctors of naturopathic medicine who may
+15 represent or hold themselves out as being specialists.
+16 4. If reasonable cause exists to believe that the competency of an
+17 applicant or a person who is regulated by the board is in question,
+18 require that person to undergo any combination of physical, mental,
+19 biological fluid and laboratory tests.
+20 5. Be a dues paying member of national organizations that support
+21 licensing agencies in their licensing and regulatory duties and pay the
+22 travel expenses involved for a designated board member or the executive
+23 director to represent the board at the annual meeting of these
+24 organizations.
+25 6. Adopt rules for conducting licensing examinations required by
+26 this chapter.
+27 7. Delegate to the executive director the board's authority
+28 pursuant to sections 32-1509 and 32-1551.>>
+29 Enroll and engross to conform
+30 Amend title to conform
+SELINA BLISS
+1178FloorBLISS Add COW.docx
+06/05/2026
+12:21 PM
+C: MH
+130TDQJED
+-11-

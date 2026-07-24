@@ -1,0 +1,196 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Federalism, Military Affairs & Elections
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON FEDERALISM, MILITARY AFFAIRS & ELECTIONS
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1037
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 16-442, Arizona Revised Statutes, is amended to
+3 read:
+4 16-442. Committee approval; adoption of vote tabulating
+5 equipment; experimental use; emergency
+6 A. The secretary of state shall appoint a committee of three
+7 persons, to consist of a member of the engineering college at one of the
+8 universities, a member of the state bar of Arizona and one person familiar
+9 with voting processes in the THIS state, no NOT more than two of whom
+10 shall be of the same political party, and at least one of whom shall have
+11 at least five years of experience with and shall be able to render an
+12 opinion based on knowledge of, training in or education in electronic
+13 voting systems, procedures and security. The committee shall investigate
+14 and test the various types of vote recording or tabulating machines or
+15 devices that may be used under this article. The committee shall submit
+16 its recommendations to the secretary of state who shall make final
+17 adoption of the type or types, make or makes, model or models to be
+18 certified for use in this state. The committee shall serve without
+19 compensation.
+20 B. Machines or devices used at any election for federal, state or
+21 county offices may only be certified for use in this state and may only be
+22 used in this state if they comply with the help America vote act of 2002
+23 (P.L. 107-252; 116 STAT. 1666; 52 UNITED STATES CODE SECTIONS 20901
+24 THROUGH 21145) and if those machines or devices have been tested and
+25 approved by a laboratory that is accredited pursuant to the help America
+26 vote act of 2002.
+27 C. After consultation with the committee prescribed by subsection A
+28 of this section, the secretary of state shall adopt standards that specify
+
+House Amendments to S.B. 1037
+1 the criteria for loss of certification for equipment that was used at any
+2 election for federal, state or county offices and that was previously
+3 certified for use in this state. On loss of certification, machines or
+4 devices used at any election may not be used for any election for federal,
+5 state or county offices in this state unless recertified for use in this
+6 state.
+7 D. The secretary of state may revoke the certification of any
+8 voting system or device for use in a federal, state or county election in
+9 this state or may prohibit for up to five years the purchase, lease or use
+10 of any voting system or device leased, installed or used by a person or
+11 firm in connection with a federal, state or county election in this state,
+12 or both, if either of the following occurs:
+13 1. The person or firm installs, uses or permits ALLOWS the use of a
+14 voting system or device that is not certified for use or approved for
+15 experimental use in this state pursuant to this section.
+16 2. The person or firm uses or includes hardware, firmware or
+17 software in a version that is not certified for use or approved for
+18 experimental use pursuant to this section in a certified voting system or
+19 device.
+20 E. The governing body of a city or town or the board of directors
+21 of an agricultural improvement district may adopt for use in elections any
+22 kind of electronic voting system or vote tabulating device approved by the
+23 secretary of state, and thereupon the voting or marking device and vote
+24 tabulating equipment may be used at any or all elections for voting,
+25 recording and counting votes cast at an election.
+26 F. The secretary of state or the governing body may provide for the
+27 experimental use of a voting system or device without a final adoption of
+28 the voting system or device, and its use at the election is as valid as if
+29 the machines had been permanently adopted.
+30 G. THE SECRETARY OF STATE SHALL ENSURE THAT [ELECTRONIC VOTING
+31 SYSTEMS INCLUDING, WITHOUT LIMITATION,] VOTE RECORDING AND VOTE TABULATING
+32 MACHINES AND [DEVICES] [ELECTION MANAGEMENT SYSTEMS] THAT ARE APPROVED FOR
+33 USE PURSUANT TO THIS SECTION:
+34 [1. HAVE ALL OPERATING SYSTEMS AND SOFTWARE CONFIGURED TO THE
+35 APPROPRIATE LEVEL OF SECURITY CONSISTENT WITH BEST PRACTICES IN STANDARDS
+36 ISSUED BY THE UNITED STATES DEPARTMENT OF HOMELAND SECURITY CYBERSECURITY
+37 AND INFRASTRUCTURE SECURITY AGENCY.]
+38 [2.] [1.] DO NOT HAVE HARDWARE INSTALLED THAT SUPPORTS [DIRECT OR
+39 INDIRECT] INTERNET CONNECTIVITY OR ANY OTHER FORM OF REMOTE ACCESS OR
+40 SOFTWARE THAT ALLOWS ANY CHANGE TO RESULTS IN FILES OR A DATABASE.
+41 [3.] [2.] [SUPPORT] [SUPPORTS] THE USAGE AND TRACKING OF USERS
+42 BASED ON UNIQUE CREDENTIALS THAT ARE CHANGED AT LEAST ONCE PER ELECTION
+43 CYCLE FOR EACH USER.
+44 [4.] [3.] LOG ANY DELETIONS OF BALLOT IMAGES, WINDOWS EVENT LOGS
+45 AND RESULTS FILES. THE SYSTEM ALSO SHALL MAINTAIN ELECTION SOFTWARE LOGS.
+46 [5.] [4.] MAINTAIN FOR TWENTY-TWO MONTHS AS ELECTION DATA THE DATA
+47 PRESCRIBED IN PARAGRAPHS 3 AND 4 OF THIS SUBSECTION.
+-2-
+
+House Amendments to S.B. 1037
+1 G. H. After consultation with the committee prescribed by
+2 subsection A of this section, the secretary of state may approve for
+3 emergency use an upgrade or modification to a voting system or device that
+4 is certified for use in this state if the governing body establishes in an
+5 open meeting that the election cannot be conducted without the emergency
+6 certification. Any emergency certification shall be limited to no NOT
+7 more than six months. At the conclusion of the certification period the
+8 voting system or device shall be decertified and unavailable for future
+9 use unless certified in accordance with this section.
+10 [I. FOR THE PURPOSES OF THIS SECTION, INDIRECT INTERNET CONNECTIVITY
+11 INCLUDES THE USE OF AN ELECTION MANAGEMENT SYSTEM GATEWAY SYSTEM.]
+12 Sec. 2. Title 16, chapter 4, article 9, Arizona Revised Statutes,
+13 is amended by adding section 16-567, to read:
+14 16-567. Polling place and voting center equipment; custody;
+15 violation; classification
+16 A. NOTWITHSTANDING ANY OTHER LAW, ANY VOTING EQUIPMENT THAT IS USED
+17 IN A POLLING PLACE OR VOTING CENTER MAY NOT HAVE INTERNET ACCESS AND MUST
+18 PROHIBIT ACCESS BY ANY MEANS TO ANY [AGGREGATED] DATA OR RESULTS. IF THE
+19 EQUIPMENT HAS AN ACCESSIBLE PORT, THE PORT MUST BE LOCKED WITH A TAMPER-
+20 PROOF SEAL AND MUST BE LOGGED IN THE CHAIN OF CUSTODY DOCUMENT WHEN BROKEN
+21 OR ACCESSED. THE DELIVERY, USE AND RETURN OF THE EQUIPMENT SHALL BE
+22 LOGGED ON A CHAIN OF CUSTODY DOCUMENT SO THAT THE NAME AND SIGNATURE OF
+23 EVERY PERSON WHO DELIVERS, RECEIVES, USES AND RETURNS THAT EQUIPMENT IS
+24 RECORDED AND RETAINED AS AN OFFICIAL ELECTION RECORD.
+25 B. A PERSON WHO VIOLATES THIS SECTION IS GUILTY OF A CLASS 1
+26 MISDEMEANOR.
+27 Sec. 3. Title 16, chapter 4, article 10, Arizona Revised Statutes,
+28 is amended by adding section 16-605, to read:
+29 16-605. Counting center equipment; election results; data;
+30 custody; violation; classification
+31 A. NOTWITHSTANDING ANY OTHER LAW, ANY [ELECTION MANAGEMENT SYSTEM
+32 OR] TABULATION EQUIPMENT THAT IS USED IN A CENTRAL COUNTING CENTER OR
+33 OTHER TABULATION CENTER MAY NOT HAVE INTERNET ACCESS [, MUST NOT BE
+34 CAPABLE OF INDIRECT INTERNET CONNECTIVITY,] AND MUST PROHIBIT ACCESS BY
+35 ANY MEANS TO ANY DATA OR RESULTS UNTIL USED BY AUTHORIZED ELECTION
+36 PERSONNEL ONLY. [IF THE EQUIPMENT HAS AN ACCESSIBLE] [SUCH EQUIPMENT
+37 SHALL NOT HAVE A] PORT[, THE PORT MUST BE LOCKED WITH A TAMPER-PROOF SEAL
+38 AND MUST BE LOGGED IN THE CHAIN OF CUSTODY DOCUMENT WHEN BROKEN OR
+39 ACCESSED. ONLY AUTHORIZED PERSONNEL, INCLUDING POLITICAL PARTY OBSERVERS,
+40 MAY BE PRESENT AT THE TABULATION OF VOTES]. THE USE AND RETURN OF THE
+41 EQUIPMENT THAT CONTAINS ELECTION RESULTS AND DATA[, INCLUDING ANY
+42 REMOVABLE DATA STORAGE DEVICE,] SHALL BE LOGGED ON A CHAIN OF CUSTODY
+43 DOCUMENT SO THAT THE NAME AND SIGNATURE OF EVERY PERSON WHO DELIVERS,
+44 RECEIVES, USES AND RETURNS THE STORAGE DEVICE OR OTHER EQUIPMENT THAT
+45 CONTAINS ELECTION DATA AND ELECTION RESULTS IS RECORDED AND RETAINED AS AN
+46 OFFICIAL ELECTION RECORD. [FOR ANY REMOVABLE STORAGE DEVICE, TWO
+47 OBSERVERS WHO ARE NOT MEMBERS OF THE SAME POLITICAL PARTY SHALL BE PRESENT
+-3-
+
+House Amendments to S.B. 1037
+1 AT ALL TIMES, INCLUDING THE INSERTION AND REMOVAL OF THE DEVICE AND DURING
+2 ANY TRANSPORTATION OF THE DEVICE. THE REMOVABLE STORAGE DEVICE MAY NOT BE
+3 UNDER THE SOLE CUSTODY AND CONTROL OF ONLY ONE PERSON.]
+4 B. NOTWITHSTANDING ANY OTHER LAW, ALL ACTIVITIES AT THE COUNTING
+5 CENTER SHALL BE INCLUDED IN A NONSTOP VIDEO THAT IS POSTED TO THE COUNTY'S
+6 WEBSITE.
+7 C. A PERSON WHO [NEGLIGENTLY] VIOLATES THIS SECTION IS GUILTY OF A
+8 CLASS 1 MISDEMEANOR.
+9 [D. FOR THE PURPOSES OF THIS SECTION, INDIRECT INTERNET
+10 CONNECTIVITY INCLUDES THE USE OF AN ELECTION MANAGEMENT SYSTEM GATEWAY
+11 SYSTEM.]
+12 <<Sec. 4. Legislative findings
+13 [The legislature finds that:
+14 1. It has refused on multiple occasions to authorize the use of an
+15 EMS gateway system which allows for election management systems to be
+16 connected indirectly to the internet.
+17 2. Notwithstanding this refusal, the Arizona Secretary of State
+18 continues to violate the law and allow EMS systems to be connected
+19 indirectly to the internet.
+20 3. The current Secretary of State has consistently taken the
+21 position that he has authority to do whatever is not expressly prohibited,
+22 contrary to clear judicial precedent.
+23 4. As a result of this hubris, the current Secretary of State has
+24 his systems hacked by what he claims to be agents of the Iranian
+25 Revolutionary Guard, jeopardizing the security of our state’s voter rolls
+26 and placing Arizonans at risk of identity theft and fraud.
+27 5. Nothing connected to the internet can be fully secured from
+28 hacking.
+29 6. The only way to have secure elections is to ensure that no
+30 component of any elections management system is capable of connecting to
+31 the internet, directly or indirectly.]>>
+32 Enroll and engross to conform
+33 Amend title to conform
+And, as so amended, it do pass
+JOHN GILLETTE
+CHAIRMAN
+1037FEDERALISM MILITARY AFFAIRS ELECTIONS.docx
+03/18/2026
+04:51 PM
+H: GG/ls
+130OXKMYQ
+-4-

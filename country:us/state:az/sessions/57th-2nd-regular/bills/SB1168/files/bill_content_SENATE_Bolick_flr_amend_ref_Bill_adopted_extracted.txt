@@ -1,0 +1,368 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Bolick flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1168
+Bolick Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Adds duplicated ballots, test ballots, ballots used for logic and accuracy testing and replacement
+early ballots to the list of categories that election officials must maintain specified counts for.
+2. Requires the prescribed ballot counts to be posted online not later than 48 hours after a county
+board of supervisors transmits the county canvass to the Secretary of State.
+3. Requires only an officer in charge of elections, rather than a county recorder, to maintain
+prescribed ballot counts and post such counts on the appropriate websites.
+Amendment explanation prepared by Zack Dean
+2/20/2026
+
+Fifty-seventh Legislature Bolick
+Second Regular Session S.B. 1168
+BOLICK FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1168
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 16-602, Arizona Revised Statutes, is amended to
+3 read:
+4 16-602. Tabulation; designated margin; hand counts; vote
+5 count verification committee
+6 A. For any primary, special or general election in which the votes
+7 are cast:
+8 1. On an electronic voting machine or tabulator, the election judge
+9 shall compare the number of votes cast as indicated on the machine or
+10 tabulator with the number of votes cast as indicated on the poll list and
+11 the number of provisional ballots cast and that information shall be noted
+12 in a written report prepared and submitted to the officer in charge of
+13 elections along with other tally reports.
+14 2. WITHOUT REGARD TO THE SYSTEM OR METHOD THAT IS USED TO PRODUCE
+15 OR TABULATE BALLOTS, THE [COUNTY RECORDER OR OTHER] OFFICER IN CHARGE OF
+16 ELECTIONS SHALL MAINTAIN A COUNT OF THE NUMBER OF PHYSICAL BALLOTS THAT
+17 ARE PRINTED AND THE NUMBER OF BALLOTS THAT ARE OTHERWISE GENERATED IN THE
+18 FOLLOWING CATEGORIES, INCLUDING THE AMOUNT OF ANY OVERLAP IN THOSE
+19 CATEGORIES:
+20 (a) EARLY BALLOTS.
+21 (b) REGULAR BALLOTS.
+22 (c) PROVISIONAL BALLOTS.
+23 (d) FEDERAL-ONLY BALLOTS.
+24 [(e) DUPLICATED BALLOTS.
+25 (f) TEST BALLOTS.
+26 (g) BALLOTS USED AS PRESCRIBED BY SECTION 16-449.
+27 (h) REPLACEMENT EARLY BALLOTS AS REPORTED TO THE OFFICER IN CHARGE
+28 OF ELECTIONS BY THE COUNTY RECORDER.]
+
+Senate Amendments to S.B. 1168
+1 [(e)] [(i)] BALLOTS [THAT ARE] GENERATED IN AN ELECTRONIC FORM
+2 [AND] THAT [IS][ARE] ITEMIZED BY THE CATEGORIES PRESCRIBED IN THIS
+3 PARAGRAPH.
+4 3. [NOT LATER THAN FORTY-EIGHT HOURS AFTER THE COUNTY BOARD OF
+5 SUPERVISORS TRANSMITS THE COUNTY CANVASS TO THE SECRETARY OF STATE,] THE
+6 [COUNTY RECORDER OR OTHER] OFFICER IN CHARGE OF ELECTIONS SHALL POST THE
+7 INFORMATION PRESCRIBED BY PARAGRAPH 2 OF THIS SUBSECTION ON THE WEBSITE OF
+8 THE [COUNTY RECORDER OR OTHER] OFFICER IN CHARGE OF ELECTIONS AND SHALL
+9 PROVIDE THAT INFORMATION TO THE SECRETARY OF STATE. THE SECRETARY OF
+10 STATE SHALL POST EACH COUNTY'S INFORMATION ON THE SECRETARY OF STATE'S
+11 WEBSITE.
+12 B. For each countywide primary, special, general and presidential
+13 preference election, the county officer in charge of the election shall
+14 conduct a hand count at one or more secure facilities. The hand count
+15 shall be conducted as prescribed by this section and in accordance with
+16 hand count procedures established by the secretary of state in the
+17 official instructions and procedures manual adopted pursuant to section
+18 16-452. The hand count is not subject to the live video requirements of
+19 section 16-621, subsection D, but the party representatives who are
+20 observing the hand count may bring their own video cameras in order to
+21 record the hand count. The recording shall not interfere with the conduct
+22 of the hand count and the officer in charge of the election may prohibit
+23 from recording or remove from the facility persons who are taking actions
+24 to disrupt the count. The sole act of recording the hand count does not
+25 constitute sufficient grounds for the officer in charge of the election to
+26 prohibit observers from recording or to remove them from the facility.
+27 The hand count shall be conducted in the following order:
+28 1. At least two percent of the precincts in that county, or two
+29 precincts, whichever is greater, shall be selected at random from a pool
+30 consisting of every precinct in that county. The county political party
+31 chairperson for each political party that is entitled to continued
+32 representation on the state ballot or the chairperson's designee shall
+33 conduct the selection of the precincts to be hand counted. The precincts
+34 shall be selected by lot without the use of a computer, and the order of
+35 selection by the county political party chairpersons shall also be by
+36 lot. The selection of the precincts shall not begin until all ballots
+37 voted in the precinct polling places have been delivered to the central
+38 counting center. The unofficial vote totals from all precincts shall be
+39 made public before selecting the precincts to be hand counted. Only the
+40 ballots cast in the polling places and ballots from direct recording
+41 electronic machines shall be included in the hand counts conducted
+42 pursuant to this section. Provisional ballots, conditional provisional
+43 ballots and write-in votes shall not be included in the hand counts and
+44 the early ballots shall be grouped separately by the officer in charge of
+45 elections for purposes of a separate manual audit pursuant to subsection F
+46 of this section.
+-2-
+
+Senate Amendments to S.B. 1168
+1 2. The races to be counted on the ballots from the precincts that
+2 were selected pursuant to paragraph 1 of this subsection for each primary,
+3 special and general election shall include up to five contested races.
+4 After the county recorder or other officer in charge of elections
+5 separates the primary ballots by political party, the races to be counted
+6 shall be determined by selecting by lot without the use of a computer from
+7 those ballots as follows:
+8 (a) For a general election, one statewide ballot measure, unless
+9 there are no measures on the ballot.
+10 (b) One contested statewide race for statewide office.
+11 (c) One contested race for federal office, either United States
+12 senate or United States house of representatives. If the United States
+13 house of representatives race is selected, the names of the candidates may
+14 vary among the sampled precincts.
+15 (d) One contested race for state legislative office, either state
+16 house of representatives or state senate. In either case, the names of
+17 the candidates may vary among the sampled precincts.
+18 (e) If there are not a sufficient number of contested federal,
+19 statewide or legislative races or ballot measures, one contested county
+20 race.
+21 (f) If there are fewer than four contested races resulting from the
+22 selections made pursuant to subdivisions (a) through (e) of this paragraph
+23 and if there are additional contested federal, statewide, legislative or
+24 county races or ballot measures, additional contested races shall be
+25 selected by lot not using a computer until four races have been selected
+26 or until no additional contested federal, statewide, legislative or county
+27 races or ballot measures are available for selection.
+28 (g) If there are not a sufficient number of contested races
+29 resulting from the selections made pursuant to subdivisions (a) through
+30 (f) of this paragraph, additional uncontested races shall be selected by
+31 lot not using a computer until up to five races have been selected.
+32 (h) If there are no contested races as prescribed by this
+33 paragraph, a hand count shall not be conducted for that precinct for that
+34 election.
+35 3. For the presidential preference election, select by lot two
+36 percent of the polling places designated and used pursuant to section
+37 16-248 and perform the hand count of those ballots.
+38 4. For the purposes of this section, a write-in candidacy in a race
+39 does not constitute a contested race.
+40 5. In elections in which there are candidates for president, the
+41 presidential race shall be added to the four categories of hand counted
+42 races.
+-3-
+
+Senate Amendments to S.B. 1168
+1 6. Each county chairperson of a political party that is entitled to
+2 continued representation on the state ballot or the chairperson's designee
+3 shall select by lot the individual races to be hand counted pursuant to
+4 this section.
+5 7. Political party designees who are selected pursuant to this
+6 paragraph shall perform the hand count under the supervision of the county
+7 officer in charge of elections. The county officer in charge of elections
+8 shall provide compensation for those selected to perform the hand count,
+9 not to include travel, meal or lodging expenses. The hand count shall not
+10 proceed unless the political parties provide the officer in charge of
+11 elections in writing a sufficient number of persons pursuant to this
+12 paragraph by 5:00 p.m. on the Thursday preceding the election and a
+13 sufficient number of persons prescribed by this paragraph arrive to
+14 perform the hand count. If a political party designee fails to appear for
+15 the hand count audit, the county chairperson or the state party
+16 chairperson of each political party may select persons from any political
+17 party if the selection of persons who perform the hand count complies with
+18 subdivision (e) of this paragraph and does not delay the hand count.
+19 Political party designees shall be selected to perform the hand count as
+20 follows:
+21 (a) The county chairperson of each political party shall designate
+22 and provide to both the county officer in charge of elections and the
+23 state party chairperson the number of hand count board members as
+24 designated by the county officer in charge of elections. If the county
+25 party chairperson fails to designate a sufficient number of hand count
+26 board workers, the state party chairperson shall designate qualified
+27 electors to be hand count board workers. If the county party chairpersons
+28 and the state party chairpersons fail to designate a sufficient number of
+29 hand count board workers, the highest-ranking official holding a statewide
+30 office of each political party shall designate qualified electors to be
+31 hand count board workers. For the purposes of this subdivision, the
+32 ranking of officials holding statewide office shall be governor, secretary
+33 of state, attorney general, state treasurer, superintendent of public
+34 instruction, corporation commissioners in order of seniority, mine
+35 inspector, senate majority and minority leaders and house of
+36 representatives majority and minority leaders.
+37 (b) The political parties shall provide to the county officer in
+38 charge of elections in writing the names of those persons intending to
+39 participate in the hand count at the audited precincts not later than
+40 5:00 p.m. on the second Tuesday preceding the election.
+41 (c) If the total number of hand count board workers provided by all
+42 parties is less than the number designated by the county officer in charge
+43 of elections, the county officer in charge of elections shall notify the
+44 parties of the shortage not later than 9:00 a.m. on the second Wednesday
+45 preceding the election and the political parties have until 9:00 a.m. on
+46 the second Thursday preceding the election to provide the county officer
+-4-
+
+Senate Amendments to S.B. 1168
+1 in charge of elections with an additional list of qualified electors and
+2 alternates who are willing to participate in the hand count.
+3 (d) The county officer in charge of elections shall distribute the
+4 list provided pursuant to subdivision (c) of this paragraph to the county
+5 chairperson and state chairperson of each recognized political party in
+6 the county and state not later than 5:00 p.m. on the second Friday
+7 preceding the election.
+8 (e) The selection of persons to perform the hand count shall ensure
+9 that not more than seventy-five percent of the persons conducting the hand
+10 count are members of the same political party.
+11 (f) The county recorder or county officer in charge of elections
+12 may prohibit persons from participating in the hand count if the persons
+13 are taking actions to disrupt the count or are unable to perform the
+14 duties as assigned.
+15 8. If a political party is not represented by a designated
+16 chairperson within a county, the state chairperson for that political
+17 party, or a person designated by the state chairperson, may perform the
+18 actions required by the county chairperson as specified in this section.
+19 C. If the randomly selected races result in a difference in any
+20 race that is less than the designated margin when compared to the
+21 electronic tabulation of those same ballots, the results of the electronic
+22 tabulation constitute the official count for that race. If the randomly
+23 selected races result in a difference in any race that is equal to or
+24 greater than the designated margin when compared to the electronic
+25 tabulation of those same ballots, a second hand count of those same
+26 ballots and races shall be performed. If the second hand count results in
+27 a difference in any race that is less than the designated margin when
+28 compared to the electronic tabulation for those same ballots, the
+29 electronic tabulation constitutes the official count for that race. If
+30 the second hand count results in a difference in any race that is equal to
+31 or greater than the designated margin when compared to the electronic
+32 tabulation for those same ballots, the hand count shall be expanded to
+33 include a total of twice the original number of randomly selected
+34 precincts. Those additional precincts shall be selected by lot without
+35 the use of a computer.
+36 D. In any expanded count of randomly selected precincts, if the
+37 randomly selected precinct hand counts result in a difference in any race
+38 that is equal to or greater than the designated margin when compared to
+39 the electronic tabulation of those same ballots, the final hand count
+40 shall be extended to include the entire jurisdiction for that race. If
+41 the jurisdictional boundary for that race would include any portion of
+42 more than one county, the final hand count shall not be extended into the
+43 precincts of that race that are outside of the county that is conducting
+44 the expanded hand count. If the expanded hand count results in a
+45 difference in that race that is less than the designated margin when
+46 compared to the electronic tabulation of those same ballots, the
+47 electronic tabulation constitutes the official count for that race.
+-5-
+
+Senate Amendments to S.B. 1168
+1 E. If a final hand count is performed for an entire jurisdiction
+2 for a race, the final hand count shall be repeated for that race until a
+3 hand count for that race for the entire jurisdiction results in a count
+4 that is identical to one other hand count for that race for the entire
+5 jurisdiction and that hand count constitutes the official count for that
+6 race.
+7 F. After the electronic tabulation of early ballots and at one or
+8 more times selected by the chairperson of the political parties entitled
+9 to continued representation on the ballot or the chairperson's designee,
+10 the chairpersons or the chairpersons' designees shall randomly select one
+11 or more batches of early ballots that have been tabulated to include at
+12 least one batch from each machine used for tabulating early ballots and
+13 those ballots shall be securely sequestered by the county recorder or
+14 officer in charge of elections along with their unofficial tally reports
+15 for a postelection manual audit. The chairpersons or the chairpersons'
+16 designees shall randomly select from those sequestered early ballots a
+17 number equal to one percent of the total number of early ballots cast or
+18 five thousand early ballots, whichever is less. From those randomly
+19 selected early ballots, the county officer in charge of elections shall
+20 conduct a manual audit of the same races that are being hand counted
+21 pursuant to subsection B of this section. If the manual audit of the
+22 early ballots results in a difference in any race that is equal to or
+23 greater than the designated margin when compared to the electronically
+24 tabulated results for those same early ballots, the manual audit shall be
+25 repeated for those same early ballots. If the second manual audit results
+26 in a difference in that race that is equal to or greater than the
+27 designated margin when compared to the electronically tabulated results
+28 for those same early ballots, the manual audit shall be expanded only for
+29 that race to a number of additional early ballots equal to one percent of
+30 the total early ballots cast or an additional five thousand ballots,
+31 whichever is less, to be randomly selected from the batch or batches of
+32 sequestered early ballots. If the expanded early ballot manual audit
+33 results in a difference for that race that is equal to or greater than the
+34 designated margin when compared to any of the earlier manual counts for
+35 that race, the manual counts shall be repeated for that race until a
+36 manual count results in a difference in that race that is less than the
+37 designated margin. If at any point in the manual audit of early ballots
+38 the difference between any manual count of early ballots is less than the
+39 designated margin when compared to the electronic tabulation of those
+40 ballots, the electronic tabulation shall be included in the canvass and no
+41 further manual audit of the early ballots shall be conducted.
+42 G. During any hand count of early ballots, the county officer in
+43 charge of elections and election board workers shall attempt to determine
+44 the intent of the voter in casting the ballot.
+-6-
+
+Senate Amendments to S.B. 1168
+1 H. Notwithstanding any other law, the county officer in charge of
+2 elections shall retain custody of the ballots for purposes of performing
+3 any required hand counts and the officer shall provide for security for
+4 those ballots.
+5 I. The hand counts prescribed by this section shall begin within
+6 twenty-four hours after the closing of the polls and shall be completed
+7 before the canvassing of the election for that county. The county shall
+8 make available on the county's website the results of those hand counts
+9 and shall provide the results to the secretary of state, who shall make
+10 those results publicly available on the secretary of state's website.
+11 J. For any county in which a hand count has been expanded to all
+12 precincts in the jurisdiction, the secretary of state shall make available
+13 the escrowed source code for that county to the superior court. The
+14 superior court shall appoint a special master to review the computer
+15 software. The special master shall have expertise in software
+16 engineering, shall not be affiliated with an election software vendor nor
+17 with a candidate, shall sign and be bound by a nondisclosure agreement
+18 regarding the source code itself and shall issue a public report to the
+19 court and to the secretary of state regarding the special master's
+20 findings on the reasons for the discrepancies. The secretary of state
+21 shall consider the reports for purposes of reviewing the certification of
+22 that equipment and software for use in this state.
+23 K. The vote count verification committee is established in the
+24 office of the secretary of state and all of the following apply:
+25 1. At least thirty days before the 2006 primary election, The
+26 secretary of state shall appoint seven persons to the committee, not more
+27 than three of whom are members of the same political party.
+28 2. Members of the committee shall have expertise in any two or more
+29 of the areas of advanced mathematics, statistics, random selection
+30 methods, systems operations or voting systems.
+31 3. A person is not eligible to be a committee member if that person
+32 has been affiliated with or received any income in the preceding five
+33 years from any person or entity that provides election equipment or
+34 services in this state.
+35 4. The vote count verification committee shall meet and establish
+36 one or more designated margins to be used in reviewing the hand counting
+37 of votes as required pursuant to this section. The committee shall review
+38 and consider revising the designated margins every two years for use in
+39 the applicable elections. The committee shall provide the designated
+40 margins to the secretary of state at least ten days before the primary
+41 election and at least ten days before the general election, and the
+42 secretary of state shall make that information publicly available on the
+43 secretary of state's website.
+-7-
+
+Senate Amendments to S.B. 1168
+1 5. Members of the vote count verification committee are not
+2 eligible to receive compensation but are eligible for reimbursement of
+3 expenses pursuant to title 38, chapter 4, article 2. The committee is a
+4 public body and its meetings are subject to title 38, chapter 3, article
+5 3.1 and its reports and records are subject to title 39, chapter 1.
+6 Enroll and engross to conform
+7 Amend title to conform
+SHAWNNA BOLICK
+1168FloorBOLICK.docx
+02/02/2026
+04:09 PM
+C: MR
+130CFSHMU
+-8-

@@ -1,0 +1,865 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Bliss - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1630: home; community-based services; mental illness
+BLISS FLOOR AMENDMENT
+1. Renames the HCBS Program for SMI adults the SMI Enhanced Residential
+Treatment Program which is a three-year pilot program.
+2. Contains enrollment, waitlist management and stakeholder workgroup
+provisions.
+3. Outlines a grievance and appeal process and provider requirements.
+4. Defines terms.
+5. Makes technical and conforming changes.
+A. GRAHAM
+6/11/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Bliss
+Second Regular Session S.B. 1630
+BLISS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1630
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 36-401, Arizona Revised Statutes, is amended
+3 to read:
+4 36-401. Definitions; adult foster care
+5 A. In this chapter, unless the context otherwise requires:
+6 1. "Accredited health care institution" means a health care
+7 institution, other than a hospital, that is currently accredited by a
+8 nationally recognized accreditation organization.
+9 2. "Accredited hospital" means a hospital that is currently
+10 accredited by a nationally recognized organization on hospital
+11 accreditation.
+12 3. "Adult behavioral health therapeutic home" means a residence for
+13 individuals who are at least eighteen years of age, have behavioral health
+14 issues and need behavioral health services that does all of the following
+15 for those individuals:
+16 (a) Provides room and board.
+17 (b) Assists in acquiring daily living skills.
+18 (c) Coordinates transportation to scheduled appointments.
+19 (d) Monitors behaviors.
+20 (e) Assists in the self-administration of medication.
+21 (f) Provides feedback to case managers related to behavior.
+22 4. "Adult day health care facility" means a facility that provides
+23 adult day health services during a portion of a continuous
+24 twenty-four-hour period for compensation on a regular basis for five or
+25 more adults who are not related to the proprietor.
+26 5. "Adult day health services" means a program that provides
+27 planned care supervision and activities, personal care, personal living
+28 skills training, meals and health monitoring in a group setting during a
+
+House Amendments to S.B. 1630
+1 portion of a continuous twenty-four-hour period. Adult day health
+2 services may also include preventive, therapeutic and restorative
+3 health-related services that do not include behavioral health services.
+4 6. "Adult foster care home" means a residential setting that
+5 provides room and board and adult foster care services for at least one
+6 and not more than four adults who are participants in the Arizona
+7 long-term care system pursuant to chapter 29, article 2 of this title or
+8 contracts for services with the United States department of veterans
+9 affairs and in which the sponsor or the manager resides with the residents
+10 and integrates the residents who are receiving adult foster care into that
+11 person's family.
+12 7. "Adult foster care services" means supervision, assistance with
+13 eating, bathing, toileting, dressing, self-medication and other routines
+14 of daily living or services authorized by rules adopted pursuant to
+15 section 36-405 and section 36-2939, subsection C.
+16 8. "Assisted living center" means an assisted living facility that
+17 provides resident rooms or residential units to eleven or more residents.
+18 9. "Assisted living facility" means a residential care institution,
+19 including an adult foster care home, that provides or contracts to provide
+20 supervisory care services, personal care services or directed care
+21 services on a continuous basis.
+22 10. "Assisted living home" means an assisted living facility that
+23 provides resident rooms to ten or fewer residents.
+24 11. "Behavioral health services" means services that pertain to
+25 mental health and substance use disorders and that are either:
+26 (a) Performed by or under the supervision of a professional who is
+27 licensed pursuant to title 32 and whose scope of practice allows the
+28 professional to provide these services.
+29 (b) Performed on behalf of patients by behavioral health staff as
+30 prescribed by rule.
+31 12. "Construction" means building, erecting, fabricating or
+32 installing a health care institution.
+33 13. "Continuous" means available at all times without cessation,
+34 break or interruption.
+35 14. "Controlling person" means a person who:
+36 (a) Through ownership, has the power to vote at least ten percent
+37 of the outstanding voting securities.
+38 (b) If the applicant or licensee is a partnership, is the general
+39 partner or a limited partner who holds at least ten percent of the voting
+40 rights of the partnership.
+41 (c) If the applicant or licensee is a corporation, an association
+42 or a limited liability company, is the president, the chief executive
+43 officer, the incorporator or any person who owns or controls at least ten
+44 percent of the voting securities. For the purposes of this subdivision,
+45 corporation does not include nonprofit corporations.
+-2-
+
+House Amendments to S.B. 1630
+1 (d) Holds a beneficial interest in ten percent or more of the
+2 liabilities of the applicant or the licensee.
+3 15. "Department" means the department of health services.
+4 16. "Directed care services" means programs and services, including
+5 supervisory and personal care services, that are provided to persons who
+6 are incapable of recognizing danger, summoning assistance, expressing need
+7 or making basic care decisions.
+8 17. "Direction" means authoritative policy or procedural guidance
+9 to accomplish a function or activity.
+10 18. "Director" means the director of the department.
+11 19. "Direct owner" means a person that has an ownership or control
+12 interest in a health care institution totaling fifty-one percent or more.
+13 [20. "ENHANCED RESIDENTIAL TREATMENT FACILITY" MEANS A RESIDENTIAL
+14 CARE INSTITUTION THAT IS LICENSED TO PROVIDE PROGRAMS AND SERVICES,
+15 INCLUDING BEHAVIORAL HEALTH SERVICES, STRUCTURED SUPPORT SERVICES AND
+16 HEALTH-RELATED SERVICES, TO RESIDENTS WHO ARE SERIOUSLY MENTALLY ILL AS
+17 DEFINED IN SECTION 36-550.]
+18 [20.] [21.] "Facilities" means buildings that are used by a health
+19 care institution for providing any of the types of services as defined in
+20 this chapter.
+21 [21.] [22.] "Freestanding urgent care center":
+22 (a) Means an outpatient treatment center that, regardless of its
+23 posted or advertised name, meets any of the following requirements:
+24 (i) Is open twenty-four hours a day, excluding at its option
+25 weekends or certain holidays, but is not licensed as a hospital.
+26 (ii) Claims to provide unscheduled medical services that are not
+27 otherwise routinely available in primary care physician offices.
+28 (iii) By its posted or advertised name, gives the impression to the
+29 public that it provides medical care for urgent, immediate or emergency
+30 conditions.
+31 (iv) Routinely provides ongoing unscheduled medical services for
+32 more than eight consecutive hours for an individual patient.
+33 (b) Does not include the following:
+34 (i) A medical facility that is licensed under a hospital's license
+35 and that uses the hospital's medical provider number.
+36 (ii) A qualifying community health center pursuant to section
+37 36-2907.06.
+38 (iii) Any other health care institution licensed pursuant to this
+39 chapter.
+40 (iv) A physician's office that offers extended hours or same-day
+41 appointments to existing and new patients and that does not meet the
+42 requirements of subdivision (a), item (i), (iii) or (iv) of this
+43 paragraph.
+44 [22.] [23.] "Governing authority" means the individual, agency,
+45 partners, group or corporation, whether appointed, elected or otherwise
+-3-
+
+House Amendments to S.B. 1630
+1 designated, in which the ultimate responsibility and authority for the
+2 conduct of the health care institution are vested.
+3 [23.] [24.] "Health care institution" means every place,
+4 institution, building or agency, whether organized for profit or not, that
+5 provides facilities with medical services, nursing services, behavioral
+6 health services, health screening services, other health-related services,
+7 supervisory care services, personal care services or directed care
+8 services and includes home health agencies as defined in section 36-151,
+9 outdoor behavioral health care programs and hospice service agencies.
+10 [24.] [25.] "Health-related services" means services, other than
+11 medical, that pertain to general supervision, protective, preventive and
+12 personal care services, supervisory care services or directed care
+13 services.
+14 [25.] [26.] "Health screening services" means the acquisition,
+15 analysis and delivery of health-related data of individuals to aid in
+16 determining the need for medical services.
+17 [26.] [27.] "Hospice" means a hospice service agency or the
+18 provision of hospice services in an inpatient facility.
+19 [27.] [28.] "Hospice service" means a program of palliative and
+20 supportive care for terminally ill persons and their families or
+21 caregivers.
+22 [28.] [29.] "Hospice service agency" means an agency or
+23 organization, or a subdivision of that agency or organization, that
+24 provides hospice services at the place of residence of its clients.
+25 [29.] [30.] "Indirect owner":
+26 (a) Means a person that has an ownership or control interest in a
+27 direct owner totaling fifty-one percent or more.
+28 (b) Includes an ownership or control interest in an indirect owner
+29 totaling fifty-one percent or more and a combination of direct ownership
+30 and indirect ownership or control interests totaling fifty-one percent or
+31 more in the health care institution.
+32 [30.] [31.] "Inpatient beds" or "resident beds" means
+33 accommodations with supporting services, such as food, laundry and
+34 housekeeping, for patients or residents who generally stay in excess of
+35 twenty-four hours.
+36 [31.] [32.] "Intermediate care facility for individuals with
+37 intellectual disabilities" has the same meaning prescribed in section
+38 36-551.
+39 [32.] [33.] "Licensed capacity" means the total number of persons
+40 for whom the health care institution is authorized by the department to
+41 provide services as required pursuant to this chapter if the person is
+42 expected to stay in the health care institution for more than twenty-four
+43 hours. For a hospital, licensed capacity means only those beds specified
+44 on the hospital license.
+45 [33.] [34.] "Medical services" means the services that pertain to
+46 medical care and that are performed at the direction of a physician on
+-4-
+
+House Amendments to S.B. 1630
+1 behalf of patients by physicians, dentists, nurses and other professional
+2 and technical personnel.
+3 [34.] [35.] "Modification" means the substantial improvement,
+4 enlargement, reduction or alteration of or other change in a health care
+5 institution.
+6 [35.] [36.] "Nonproprietary institution" means any health care
+7 institution that is organized and operated exclusively for charitable
+8 purposes, no part of the net earnings of which inures to the benefit of
+9 any private shareholder or individual, or that is operated by the state or
+10 any political subdivision of the state.
+11 [36.] [37.] "Nursing care institution" means a health care
+12 institution that provides inpatient beds or resident beds and nursing
+13 services to persons who need continuous nursing services but who do not
+14 require hospital care or direct daily care from a physician.
+15 [37.] [38.] "Nursing services" means those services that pertain
+16 to the curative, restorative and preventive aspects of nursing care and
+17 that are performed at the direction of a physician by or under the
+18 supervision of a registered nurse licensed in this state.
+19 [38.] [39.] "Nursing-supported group home" means a health care
+20 institution that is a community residential setting as defined in section
+21 36-551 for not more than six persons with developmental disabilities, that
+22 is operated by a service provider under contract with the department of
+23 economic security and that provides room and board, daily habilitation and
+24 continuous nursing support and intervention.
+25 [39.] [40.] "Organized medical staff" means a formal organization
+26 of physicians, and dentists if appropriate, with the delegated authority
+27 and responsibility to maintain proper standards of medical care and to
+28 plan for continued betterment of that care.
+29 [40.] [41.] "Outdoor behavioral health care program" means an
+30 agency that provides behavioral health services in an outdoor environment
+31 as an alternative to behavioral health services that are provided in a
+32 health care institution with facilities. Outdoor behavioral health care
+33 programs do not include:
+34 (a) Programs, facilities or activities that are operated by a
+35 government entity or that are licensed by the department as a child care
+36 program pursuant to chapter 7.1 of this title.
+37 (b) Outdoor activities for youth that are designated to be
+38 primarily recreational and that are organized by church groups, scouting
+39 organizations or similar groups.
+40 (c) Outdoor youth programs that are licensed by the department of
+41 economic security.
+42 [41.] [42.] "Personal care services" means assistance with
+43 activities of daily living that can be performed by persons without
+44 professional skills or professional training and includes the coordination
+45 or provision of intermittent nursing services and the administration of
+-5-
+
+House Amendments to S.B. 1630
+1 medications and treatments by a nurse who is licensed pursuant to title
+2 32, chapter 15 or as otherwise provided by law.
+3 [42.] [43.] "Physician" means any person who is licensed pursuant
+4 to title 32, chapter 13 or 17.
+5 [43.] [44.] "Recidivism reduction services" means services that
+6 are delivered by an adult residential care institution to its residents to
+7 encourage lawful behavior and to discourage or prevent residents who are
+8 suspected of, charged with or convicted of one or more criminal offenses,
+9 or whose mental health and substance use can be reasonably expected to
+10 place them at risk for the future threat of prosecution, diversion or
+11 incarceration, from engaging in future unlawful behavior.
+12 [44.] [45.] "Recidivism reduction staff" means a person who
+13 provides recidivism reduction services.
+14 [45.] [46.] "Residential care institution" means a health care
+15 institution other than a hospital or a nursing care institution that
+16 provides resident beds or residential units, supervisory care services,
+17 personal care services, behavioral health services, directed care services
+18 or health-related services for persons who do not need continuous nursing
+19 services.
+20 [46.] [47.] "Residential unit" means a private apartment, unless
+21 otherwise requested by a resident, that includes a living and sleeping
+22 space, kitchen area, private bathroom and storage area.
+23 [47.] [48.] "Respite care services" means services that are
+24 provided by a licensed health care institution to persons who are
+25 otherwise cared for in foster homes and in private homes to provide an
+26 interval of rest or relief of not more than thirty days to operators of
+27 foster homes or to family members.
+28 [49. "STRUCTURED SUPPORT SERVICES" INCLUDES SERVICES THAT ARE
+29 AVAILABLE FOR UP TO TWENTY-FOUR-HOURS PER DAY AND CASE MANAGEMENT, CRISIS
+30 INTERVENTION, SOCIAL SKILLS TRAINING AND BUDGETING ASSISTANCE.]
+31 [48.] [50.] "Substantial compliance" means that the nature or
+32 number of violations revealed by any type of inspection or investigation
+33 of a health care institution does not pose a direct risk to the life,
+34 health or safety of patients or residents.
+35 [49.] [51.] "Supervision" means directly overseeing and inspecting
+36 the act of accomplishing a function or activity.
+37 [50.] [52.] "Supervisory care services" means general supervision,
+38 including daily awareness of resident functioning and continuing needs,
+39 the ability to intervene in a crisis and assistance in self-administering
+40 prescribed medications.
+41 [51.] [53.] "Temporary license" means a license that is issued by
+42 the department to operate a class or subclass of a health care institution
+43 at a specific location and that is valid until an initial licensing
+44 inspection.
+45 [52.] [54.] "Unscheduled medical services" means medically
+46 necessary periodic health care services that are unanticipated or cannot
+-6-
+
+House Amendments to S.B. 1630
+1 reasonably be anticipated and that require medical evaluation or treatment
+2 before the next business day.
+3 B. If there are fewer than four Arizona long-term care system
+4 participants receiving adult foster care in an adult foster care home,
+5 nonparticipating adults may receive other types of services that are
+6 authorized by law to be provided in the adult foster care home as long as
+7 the number of adults served, including the Arizona long-term care system
+8 participants, does not exceed four.
+9 C. Nursing care services may be provided by the adult foster care
+10 licensee if the licensee is a nurse who is licensed pursuant to title 32,
+11 chapter 15 and the services are limited to those allowed pursuant to law.
+12 The licensee shall keep a record of nursing services rendered. >>
+13 <<Sec. 2. Title 36, chapter 4, article 2, Arizona Revised Statutes,
+14 is amended by adding section 36-425.10, to read:
+15 36-425.10. Enhanced residential treatment facilities;
+16 licensure; rules
+17 [THE DEPARTMENT SHALL LICENSE ENHANCED RESIDENTIAL TREATMENT
+18 FACILITIES CONSISTENT WITH THIS CHAPTER. THE DEPARTMENT SHALL ADOPT RULES
+19 FOR ENHANCED RESIDENTIAL TREATMENT FACILITIES, INCLUDING LICENSURE
+20 STANDARDS, STAFFING REQUIREMENTS AND PHYSICAL PLANT STANDARDS. AN
+21 ENHANCED RESIDENTIAL TREATMENT FACILITY MAY PROVIDE PROGRAMS AND SERVICES,
+22 THROUGH A COMBINATION OF FACILITY-BASED OR COORDINATED COMMUNITY-BASED
+23 SERVICES, TO RESIDENTS WHO ARE SERIOUSLY MENTALLY ILL AS DEFINED IN
+24 SECTION 36-550.]>>
+25 <<Sec. 3. Section 36-2935, Arizona Revised Statutes, is amended to
+26 read:
+27 36-2935. Estate recovery program; liens
+28 A. The director shall adopt rules in accordance with state and
+29 federal law to allow the administration to file a claim against a member's
+30 estate to recover paid assistance. The administration is also entitled to
+31 a lien on a member's property to recover paid assistance the member
+32 receives.
+33 B. A member's personal representative must notify the
+34 administration of the member's estate or property within three months
+35 after the member's death if the member was at least fifty-five years of
+36 age and the administration has not already filed a statement of claim in
+37 the estate proceedings.
+38 C. As nearly as is possible, the administration shall recover
+39 charges pursuant to the procedures prescribed in sections 36-2915 and
+40 36-2916. If both the administration and a county have valid liens for
+41 paid assistance provided to the same member, or if both the administration
+42 and a special health care district have valid claims for paid assistance
+43 provided to the same member, the value of the property shall be divided
+44 between the administration, the special health care district and the
+45 county pro rata according to the amounts of their respective liens.
+-7-
+
+House Amendments to S.B. 1630
+1 D. The administration shall impose liens in a manner consistent
+2 with federal law.
+3 E. This section also applies to[:
+4 1.] Persons who are eligible pursuant to section 36-2901, paragraph
+5 6, subdivision (a) and who receive medical assistance under article 1 of
+6 this chapter.
+7 [2. PERSONS WHO ARE ELIGIBLE FOR THE SERIOUSLY MENTALLY ILL
+8 ENHANCED RESIDENTIAL TREATMENT PILOT PROGRAM PURSUANT TO ARTICLE 3.1 OF
+9 THIS CHAPTER.]>>
+10 Sec. 4. Title 36, chapter 29, Arizona Revised Statutes, is amended
+11 by adding article 3.1, to read:
+12 ARTICLE 3.1. [HOME AND COMMUNITY-BASED SERVICES
+13 FOR PERSONS WITH SERIOUS MENTAL ILLNESS] [SERIOUSLY MENTALLY ILL
+14 ENHANCED RESIDENTIAL TREATMENT PILOT PROGRAM]
+15 36-2979. Definitions
+16 IN THIS ARTICLE, UNLESS THE CONTEXT OTHERWISE REQUIRES:
+17 1. "ADMINISTRATION" MEANS THE ARIZONA HEALTH CARE COST CONTAINMENT
+18 SYSTEM ADMINISTRATION.
+19 [2. "BEHAVIORAL HEALTH RESIDENTIAL FACILITY" MEANS A HEALTH CARE
+20 INSTITUTION THAT IS LICENSED PURSUANT TO THIS TITLE TO PROVIDE LEVEL I OR
+21 II BEHAVIORAL HEALTH RESIDENTIAL SERVICES.
+22 3. "HIGH-ACUITY SERIOUSLY MENTALLY ILL INDIVIDUAL" MEANS A PERSON
+23 WHO MEETS A SERIOUS MENTAL ILLNESS LONG-TERM LEVEL OF CARE AND ONE OR MORE
+24 PRIORITY CRITERIA LISTED IN SECTION 36-2979.04, SUBSECTION B.
+25 4. "HOME AND COMMUNITY-BASED SERVICES":
+26 (a) MEANS SERVICES AUTHORIZED UNDER ONE OR MORE MEDICAID STATE PLAN
+27 AUTHORITIES, WAIVERS OR DEMONSTRATION AUTHORITIES, INCLUDING THOSE
+28 AUTHORIZED UNDER 42 UNITED STATES CODE SECTION 1315 OR 1396n, THAT SUPPORT
+29 INDIVIDUALS IN THE COMMUNITY AS AN ALTERNATIVE TO INSTITUTIONALIZATION.
+30 (b) INCLUDES SERVICES THAT PROVIDE ASSISTANCE WITH ACTIVITIES OF
+31 DAILY LIVING, MEDICATION ADMINISTRATION, SUPERVISION AND STRUCTURED
+32 SUPPORTS COMPARABLE TO ASSISTED LIVING MODELS.]
+33 [2. "APPLICANT" MEANS A PERSON WHO APPLIES FOR ENROLLMENT IN THE
+34 PILOT PROGRAM.
+35 3. "BEHAVIORAL HEALTH SERVICES" HAS THE SAME MEANING PRESCRIBED IN
+36 SECTION 36-401.
+37 4. "CONTRACTOR" MEANS AN ENTITY THAT HAS ENTERED INTO AN AGREEMENT
+38 WITH THE ADMINISTRATION TO PROVIDE ACUTE CARE AND BEHAVIORAL HEALTH
+39 SERVICES TO SERIOUSLY MENTALLY ILL INDIVIDUALS PURSUANT TO ARTICLE 1 OF
+40 THIS CHAPTER AND CHAPTER 34, ARTICLE 1 OF THIS TITLE.
+41 5. "ELIGIBLE INDIVIDUAL" MEANS A PERSON WHO MEETS THE ELIGIBILITY
+42 CRITERIA PRESCRIBED IN SECTION 36-2979.02.
+43 6. "ENHANCED RESIDENTIAL TREATMENT FACILITY" HAS THE SAME MEANING
+44 PRESCRIBED IN SECTION 36-401.
+45 7. "ENHANCED RESIDENTIAL TREATMENT SERVICES" MEANS SERVICES
+46 AUTHORIZED UNDER FEDERAL MEDICAID AUTHORITY PURSUANT TO SECTION 36-2979.09
+-8-
+
+House Amendments to S.B. 1630
+1 THAT SUPPORT INDIVIDUALS IN AN ENHANCED RESIDENTIAL TREATMENT FACILITY AND
+2 THAT INCLUDE CONTINUOUS SUPERVISION, STRUCTURED SUPPORT SERVICES,
+3 MEDICATION ADMINISTRATION AND MONITORING, TREATMENT PLANNING AND
+4 COORDINATION AND PERSONAL CARE SERVICES NECESSARY FOR HEALTH AND SAFETY.]
+5 [5.] [8.] "MEMBER" MEANS [A PERSON] [AN ELIGIBLE INDIVIDUAL] WHO
+6 IS ENROLLED IN THE [PILOT] PROGRAM.
+7 [6.] [9.] "[PILOT] PROGRAM" MEANS THE [HOME AND COMMUNITY-BASED
+8 SERVICE PROGRAM FOR ADULTS WHO ARE] SERIOUSLY MENTALLY ILL [ENHANCED
+9 RESIDENTIAL TREATMENT PILOT PROGRAM ESTABLISHED BY SECTION 36-2979.01].
+10 [7. "QUALIFIED INCOME TRUST" MEANS A TRUST AS DESCRIBED IN 42
+11 UNITED STATES CODE SECTION 1396p(d)(4)(B).]
+12 [8.] [10.] "SERIOUSLY MENTALLY ILL" [OR "SMI"] HAS THE [SAME]
+13 MEANING PRESCRIBED IN SECTION 36-550.
+14 [9. "SERIOUS MENTAL ILLNESS LONG-TERM LEVEL OF CARE" MEANS THE
+15 BEHAVIORAL HEALTH INSTITUTIONAL LEVEL OF CARE ADOPTED BY THE
+16 ADMINISTRATION PURSUANT TO SECTION 36-2979.02.]
+17 [11. "SMI ENHANCED LEVEL OF CARE" MEANS THE FUNCTIONAL AND
+18 BEHAVIORAL LEVEL OF CARE CRITERIA ADOPTED BY THE ADMINISTRATION PURSUANT
+19 TO SECTION 36-2979.02.
+20 12. "STRUCTURED SUPPORT SERVICES" HAS THE SAME MEANING PRESCRIBED
+21 IN SECTION 36-401.]
+22 36-2979.01. Seriously mentally ill enhanced residential
+23 treatment pilot program; stakeholder work
+24 group; semiannual implementation updates;
+25 enrollment cap; federal approval
+26 [A. THE HOME AND COMMUNITY-BASED SERVICE PROGRAM FOR ADULTS WHO ARE
+27 SERIOUSLY MENTALLY ILL IS ESTABLISHED. THE ADMINISTRATION SHALL DEVELOP
+28 AND REQUEST AUTHORITY FROM THE CENTERS FOR MEDICARE AND MEDICAID SERVICES
+29 TO IMPLEMENT A DEDICATED HOME AND COMMUNITY-BASED SERVICES BENEFIT FOR
+30 ADULTS WHO ARE DETERMINED TO BE SERIOUSLY MENTALLY ILL.]
+31 [A. SUBJECT TO THE APPROVAL OF THE CENTERS FOR MEDICARE AND
+32 MEDICAID SERVICES, AVAILABLE APPROPRIATIONS AND THE ENROLLMENT CAP
+33 PRESCRIBED IN SUBSECTION F OF THIS SECTION, THE SERIOUSLY MENTALLY ILL
+34 ENHANCED RESIDENTIAL TREATMENT PILOT PROGRAM IS ESTABLISHED FOR THREE
+35 YEARS FROM THE DATE THAT THE CENTERS FOR MEDICARE AND MEDICAID SERVICES
+36 APPROVE THE PILOT PROGRAM CONSISTENT WITH THIS ARTICLE. THE PILOT PROGRAM
+37 OPERATES THROUGH AND IS ADMINISTERED BY CONTRACTORS PURSUANT TO THEIR
+38 AGREEMENTS WITH THE ADMINISTRATION UNDER CHAPTER 34, ARTICLE 1 OF THIS
+39 TITLE. THE ADMINISTRATION SHALL SEEK ANY NECESSARY FEDERAL AUTHORITY TO
+40 IMPLEMENT THE PILOT PROGRAM, INCLUDING AUTHORITY UNDER 42 UNITED STATES
+41 CODE SECTION 1315 OR OTHER APPLICABLE FEDERAL AUTHORITY, AND SHALL REQUEST
+42 APPROVAL NOT LATER THAN JULY 1, 2027. THE ADMINISTRATION SHALL BEGIN
+43 ENROLLING ELIGIBLE INDIVIDUALS NOT LATER THAN ONE YEAR AFTER RECEIVING
+44 FEDERAL APPROVAL, SUBJECT TO THE AVAILABLE APPROPRIATIONS.
+45 B. THE ADMINISTRATION SHALL INCORPORATE THE REQUIREMENTS OF THIS
+46 ARTICLE INTO CONTRACTOR AGREEMENTS EXECUTED PURSUANT TO SECTIONS 36-3410
+-9-
+
+House Amendments to S.B. 1630
+1 AND 36-3412 AND SHALL REQUIRE CONTRACTORS TO FULFILL THE OBLIGATIONS OF
+2 THIS ARTICLE AS PART OF THEIR CONTRACTUAL DUTIES.]
+3 [B.] [C.] THROUGH THE SUBMISSION OF THE FIRST ANNUAL REPORT
+4 [REQUIRED BY SECTION 36-2979.08], THE ADMINISTRATION SHALL CONVENE A
+5 STAKEHOLDER [WORKGROUP] [WORK GROUP] THAT INCLUDES [REPRESENTATIVES FROM]
+6 [INDIVIDUALS WHO ARE SERIOUSLY MENTALLY ILL AND] BEHAVIORAL HEALTH
+7 PROVIDERS, FAMILY MEMBERS, CAREGIVERS AND GUARDIANS OF INDIVIDUALS WHO ARE
+8 SERIOUSLY MENTALLY ILL, COUNTIES, TRIBAL NATIONS AND COMMUNITY
+9 ORGANIZATIONS TO ADVISE ON [PILOT] PROGRAM DESIGN AND
+10 IMPLEMENTATION. STAKEHOLDER INPUT SHALL SPECIFICALLY ADDRESS THE NEEDS OF
+11 INDIVIDUALS WHO REQUIRE COMPLEX MEDICATION MANAGEMENT, ENHANCED MONITORING
+12 AND STRUCTURED [COMMUNITY-BASED SUPPORTS, INCLUDING ASSISTED LIVING-TYPE
+13 MODELS,] [SUPPORT SERVICES] TO PROMOTE MEDICATION CONTINUITY AND SAFETY.
+14 [C. THE ADMINISTRATION SHALL REQUEST APPROVAL FROM THE CENTERS FOR
+15 MEDICARE AND MEDICAID SERVICES FOR THE PROGRAM NOT LATER THAN JULY 1, 2027
+16 AND SHALL BEGIN IMPLEMENTING THE PROGRAM NOT LATER THAN ONE YEAR AFTER THE
+17 APPROVAL BY THE CENTERS FOR MEDICARE AND MEDICAID SERVICES.]
+18 D. UNTIL THE [PILOT] PROGRAM IS IMPLEMENTED, THE ADMINISTRATION
+19 SHALL PROVIDE SEMIANNUAL IMPLEMENTATION UPDATES TO THE PRESIDENT OF THE
+20 SENATE, THE SPEAKER OF THE HOUSE OF REPRESENTATIVES AND THE CHAIRPERSONS
+21 OF THE SENATE AND HOUSE OF REPRESENTATIVES HEALTH AND HUMAN SERVICES
+22 COMMITTEES, OR THEIR SUCCESSOR COMMITTEES.
+23 [E. THE ADMINISTRATION MAY IMPLEMENT THIS ARTICLE THROUGH POLICY,
+24 CONTRACT REQUIREMENTS AND OTHER ADMINISTRATIVE MECHANISMS AUTHORIZED UNDER
+25 SECTIONS 36-2903, 36-2904 AND 36-3412.
+26 F. SUBJECT TO THE APPROVAL OF THE CENTERS FOR MEDICARE AND MEDICAID
+27 SERVICES AND TO AVAILABLE APPROPRIATIONS, THE ADMINISTRATION SHALL
+28 IMPLEMENT THE PILOT PROGRAM FOR UP TO SIXTY MEMBERS STATEWIDE. THE
+29 ADMINISTRATION MAY INCREASE THE ENROLLMENT CAP ABOVE SIXTY MEMBERS DURING
+30 THE PILOT PROGRAM IF THE ADMINISTRATION DEMONSTRATES, THROUGH DATA
+31 REPORTED PURSUANT TO SECTION 36-2979.08, REDUCED UTILIZATION OF HIGH-COST
+32 SERVICES OR COST AVOIDANCE IN STATE-FUNDED SYSTEMS THAT DEMONSTRATES THAT
+33 THE PILOT PROGRAM APPROPRIATION COULD SUSTAIN MEMBERS BEYOND THE
+34 ENROLLMENT CAP, SUBJECT TO AVAILABLE APPROPRIATIONS AND REVIEW BY THE
+35 JOINT LEGISLATIVE BUDGET COMMITTEE.
+36 G. A COURT MAY RECOMMEND PARTICIPATION IN THE PILOT PROGRAM BUT MAY
+37 NOT COMPEL THE ADMINISTRATION TO EXCEED THE ENROLLMENT CAP SPECIFIED IN
+38 SUBSECTION F OF THIS SECTION.]
+39 36-2979.02. Eligibility; financial eligibility; SMI enhanced
+40 level of care; criteria
+41 A. [SUBJECT TO THE APPROVAL OF THE CENTERS FOR MEDICARE AND
+42 MEDICAID SERVICES, AVAILABLE MONIES AND THE ENROLLMENT CAP PRESCRIBED IN
+43 SECTION 36-2979.01, SUBSECTION F,] TO BE ELIGIBLE FOR THE [PILOT] PROGRAM,
+44 AN INDIVIDUAL MUST MEET ALL OF THE FOLLOWING [CRITERIA]:
+45 [1. BE EIGHTEEN YEARS OF AGE OR OLDER.
+46 2. BE A RESIDENT OF THIS STATE.]
+-10-
+
+House Amendments to S.B. 1630
+1 [1.] [3.] HAVE BEEN DETERMINED TO BE SERIOUSLY MENTALLY ILL.
+2 [2.] [4.] MEET THE [SERIOUS MENTAL ILLNESS LONG-TERM] [SMI
+3 ENHANCED] LEVEL OF CARE ADOPTED BY THE ADMINISTRATION PURSUANT TO
+4 SUBSECTION [C] [E] OF THIS SECTION[, AS DETERMINED PURSUANT TO SECTION
+5 36-2979.03].
+6 [3. REQUIRE HOME AND COMMUNITY-BASED SERVICES IN ORDER TO AVOID
+7 PLACEMENT IN A BEHAVIORAL HEALTH RESIDENTIAL FACILITY OR PSYCHIATRIC
+8 INSTITUTION.
+9 4.] [5.] MEET THE FINANCIAL ELIGIBILITY REQUIREMENTS PURSUANT TO
+10 SUBSECTION B OF THIS SECTION[, AS DETERMINED BY THE ADMINISTRATION].
+11 B. [THE ADMINISTRATION SHALL DETERMINE FINANCIAL ELIGIBILITY FOR
+12 THE PILOT PROGRAM AND MAY NOT DELEGATE THAT FUNCTION TO A CONTRACTOR.] AN
+13 INDIVIDUAL [WHO MEETS THE SERIOUS MENTAL ILLNESS LONG-TERM LEVEL OF CARE
+14 ADOPTED BY THE ADMINISTRATION PURSUANT TO SUBSECTION C OF THIS SECTION] IS
+15 FINANCIALLY ELIGIBLE FOR THE [PILOT] PROGRAM IF THE INDIVIDUAL'S INCOME
+16 DOES NOT EXCEED THREE HUNDRED PERCENT OF THE FEDERAL SUPPLEMENTAL SECURITY
+17 INCOME BENEFIT RATE [ AND THE INDIVIDUAL MEETS THE RESOURCE REQUIREMENT
+18 FOR LONG-TERM CARE PROGRAMS, AS PRESCRIBED BY 42 UNITED STATES CODE
+19 SECTION 1396p].
+20 [C.] AN INDIVIDUAL WHOSE INCOME EXCEEDS THIS STANDARD MAY ESTABLISH
+21 A QUALIFIED TRUST TO ACHIEVE [FINANCIAL] ELIGIBILITY[, PURSUANT TO SECTION
+22 36-2934.01 AND SECTION 1917(d)(4)(A), (B) AND (C) OF THE SOCIAL SECURITY
+23 ACT]. [RESOURCE AND SPOUSAL IMPOVERISHMENT STANDARDS SHALL BE THE SAME AS
+24 REQUIRED PURSUANT TO ARTICLE 2 OF THIS CHAPTER FOR ENROLLEES IN THE
+25 ARIZONA LONG-TERM CARE SYSTEM HOME AND COMMUNITY-BASED SERVICES.] [FOR
+26 THE PURPOSES OF THIS ARTICLE, THE FOLLOWING SECTIONS OF ARTICLE 2 OF THIS
+27 CHAPTER APPLY TO APPLICANTS AND MEMBERS IN THE SAME MANNER THAT THE
+28 SECTIONS APPLY TO APPLICANTS AND MEMBERS IN THE ARIZONA LONG-TERM CARE
+29 SYSTEM:
+30 1. SECTION 36-2934.02 RELATING TO FINANCIAL INSTRUMENTS.
+31 2. SECTION 36-2935 RELATING TO ESTATE RECOVERY AND LIENS.
+32 D. TO THE EXTENT THAT ANY PROVISION OF ARTICLE 2 OF THIS CHAPTER AS
+33 INCORPORATED BY REFERENCE IN SUBSECTION C OF THIS SECTION REFERENCES THE
+34 ARIZONA LONG-TERM CARE SYSTEM, THAT REFERENCE SHALL BE CONSTRUED TO APPLY
+35 TO THE PILOT PROGRAM ESTABLISHED BY THIS ARTICLE.]
+36 [C.] [E.] THE ADMINISTRATION SHALL ADOPT [A SERIOUS MENTAL ILLNESS
+37 LONG-TERM] [SMI ENHANCED] LEVEL OF CARE SPECIFIC TO INDIVIDUALS WHO ARE
+38 SERIOUSLY MENTALLY ILL[.] [THAT IS] [THE CRITERIA SHALL BE] BASED ON
+39 BEHAVIORAL, FUNCTIONAL AND SAFETY CRITERIA[,WHICH] [AND MAY NOT REQUIRE
+40 PHYSICAL DISABILITY OR PHYSICAL IMPAIRMENT CRITERIA. THE CRITERIA] MAY
+41 INCLUDE ANY OF THE FOLLOWING:
+42 1. CURRENT OR RECENT COURT-ORDERED TREATMENT.
+43 2. LEGAL GUARDIANSHIP DUE TO PSYCHIATRIC INCAPACITY.
+44 3. RECENT DISCHARGE FROM A JAIL OR PRISON, THE STATE HOSPITAL OR A
+45 BEHAVIORAL HEALTH RESIDENTIAL FACILITY.
+46 4. REPEATED PSYCHIATRIC HOSPITALIZATIONS OR CRISIS EPISODES.
+-11-
+
+House Amendments to S.B. 1630
+1 5. IMPAIRED JUDGMENT, DISORGANIZATION OR INABILITY TO PERFORM
+2 ACTIVITIES OF DAILY LIVING DUE TO PSYCHIATRIC SYMPTOMS.
+3 6. DOCUMENTED SAFETY RISKS, INCLUDING ELOPEMENT, [FIRE OR WATER
+4 MISUSE,] AGGRESSION, DELUSIONAL BEHAVIOR[, FIRE OR WATER MISUSE] OR
+5 EXPLOITATION RISK.
+6 7. HOMELESSNESS OR IMMINENT RISK OF HOMELESSNESS.
+7 8. HIGH-INTENSITY OR COMPLEX PSYCHOTROPIC MEDICATION REGIMENS
+8 REQUIRING ENHANCED MONITORING TO ENSURE ADHERENCE AND TO IDENTIFY
+9 POTENTIAL ADVERSE EFFECTS.
+10 9. CLINICAL NEEDS THAT NECESSITATE STRUCTURED [COMMUNITY-BASED
+11 SUPPORTS, INCLUDING ASSISTED LIVING-TYPE SUPPORTS,] [SUPPORT SERVICES] TO
+12 MAINTAIN CONTINUITY OF MEDICATION THERAPY, SUCH AS THOSE AT ELEVATED RISK
+13 OF RELAPSE, DECOMPENSATION OR HOSPITALIZATION RELATED TO MEDICATION
+14 NONADHERENCE.
+15 [D. THE SERIOUS MENTAL ILLNESS LONG-TERM LEVEL OF CARE ADOPTED
+16 PURSUANT TO SUBSECTION C OF THIS SECTION MAY NOT REQUIRE A NURSING
+17 FACILITY LEVEL OF CARE OR PHYSICAL DISABILITY OR PHYSICAL IMPAIRMENT
+18 CRITERIA AND MAY NOT USE A PREADMISSION SCREENING TOOL.
+19 E.] [F.] THE ADMINISTRATION MAY [REFINE THE ASSESSMENT CRITERIA
+20 AND] [MODIFY THE ELIGIBILITY] PROCESSES THROUGH [RULE OR] POLICY,
+21 CONSISTENT WITH [LEGISLATIVE INTENT, INCLUDING ADJUSTMENT TO ASSESSMENT
+22 TOOLS, THRESHOLDS OR PROCESSES] [THIS ARTICLE, SUBJECT TO ANY NECESSARY
+23 APPROVAL BY THE CENTERS FOR MEDICARE AND MEDICAID SERVICES AND AVAILABLE
+24 APPROPRIATIONS].
+25 [36-2979.03. Covered services; modification
+26 A. SUBJECT TO THE APPROVAL OF THE CENTERS FOR MEDICARE AND MEDICAID
+27 SERVICES, THE ADMINISTRATION SHALL PROVIDE HOME AND COMMUNITY-BASED
+28 SERVICES THAT ARE COMPARABLE TO THOSE AUTHORIZED UNDER ARTICLE 2 OF THIS
+29 CHAPTER, WITH MODIFICATIONS APPROPRIATE FOR BEHAVIORAL HEALTH NEEDS. THE
+30 HOME AND COMMUNITY-BASED SERVICES SHALL INCLUDE:
+31 1. ATTENDANT CARE AND PERSONAL CARE.
+32 2. HABILITATION WITH BEHAVIOR MANAGEMENT.
+33 3. ADULT DAY HEALTH CARE WITH A BEHAVIORAL HEALTH FOCUS.
+34 4. SUPERVISED COMMUNITY LIVING SERVICES, INCLUDING ASSISTED
+35 LIVING-TYPE SUPPORTS.
+36 5. RESPITE CARE.
+37 6. HOME-DELIVERED MEALS.
+38 7. NURSING, HOME HEALTH AND MEDICATION ADMINISTRATION SERVICES.
+39 8. NONEMERGENCY TRANSPORTATION.
+40 B. THE ADMINISTRATION SHALL ESTABLISH SERVICE DESCRIPTIONS AND
+41 SCOPE AND STAFFING STANDARDS THROUGH RULE OR POLICY.
+42 C. HOME AND COMMUNITY-BASED SERVICES MAY BE DELIVERED IN ANY
+43 RESIDENTIAL SETTING AUTHORIZED UNDER STATE LAW WHEN AN INDIVIDUAL IS
+44 SUBJECT TO A VALID COURT ORDER, GUARDIANSHIP OR INVOLUNTARY TREATMENT
+45 AUTHORITY PURSUANT TO THIS TITLE, IF:
+-12-
+
+House Amendments to S.B. 1630
+1 1. MEDICAID REIMBURSEMENT UNDER THIS ARTICLE IS LIMITED TO COVERED
+2 HOME AND COMMUNITY-BASED SERVICES AND DOES NOT INCLUDE ROOM, BOARD,
+3 SUPERVISION FOR CUSTODY OR ENFORCEMENT OF COURT ORDERS.
+4 2. THE INDIVIDUAL IS AFFORDED PERIODIC REVIEW AND PLANNING FOR
+5 TRANSITION TO A LESS RESTRICTIVE SETTING WHEN CLINICALLY APPROPRIATE.
+6 D. THE ADMINISTRATION MAY ADD, MODIFY OR COMBINE SERVICES
+7 CONSISTENT WITH FEDERAL APPROVAL AND LEGISLATIVE INTENT.
+8 36-2979.04. Program capacity; enrollment factors; emergency
+9 placements
+10 A. SUBJECT TO THE APPROVAL OF THE CENTERS FOR MEDICARE AND MEDICAID
+11 SERVICES, THE ADMINISTRATION SHALL IMPLEMENT THE PROGRAM FOR UP TO TWO
+12 HUNDRED FIFTY MEMBERS STATEWIDE, INCLUDING TEMPORARY EMERGENCY PLACEMENTS.
+13 THE ADMINISTRATION MAY INCREASE ENROLLMENT ABOVE TWO HUNDRED FIFTY MEMBERS
+14 IF THE ADMINISTRATION DEMONSTRATES, THROUGH DATA REPORTED PURSUANT TO
+15 SECTION 36-2979.06, REDUCED UTILIZATION OF HIGH-COST SERVICES OR COST
+16 AVOIDANCE IN STATE-FUNDED SYSTEMS, SUBJECT TO REVIEW BY THE JOINT
+17 LEGISLATIVE BUDGET COMMITTEE. ENROLLMENT MAY NOT EXCEED ONE THOUSAND
+18 MEMBERS UNLESS AUTHORIZED BY THE LEGISLATURE.
+19 B. WHEN CAPACITY IS LIMITED, THE ADMINISTRATION SHALL ASSIGN
+20 AVAILABLE SLOTS BASED ON THE FOLLOWING:
+21 1. INDIVIDUALS UNDER COURT-ORDERED TREATMENT.
+22 2. INDIVIDUALS WITH LEGAL GUARDIANSHIP DUE TO PSYCHIATRIC
+23 INCAPACITY.
+24 3. INDIVIDUALS DISCHARGED FROM A JAIL OR PRISON, THE STATE HOSPITAL
+25 OR A BEHAVIORAL HEALTH RESIDENTIAL FACILITY.
+26 4. INDIVIDUALS WHO ARE HOMELESS OR AT IMMINENT RISK OF
+27 HOMELESSNESS.
+28 5. INDIVIDUALS WITH REPEATED CRISIS EPISODES, PSYCHIATRIC
+29 HOSPITALIZATIONS OR PUBLIC SAFETY INVOLVEMENT.
+30 6. INDIVIDUALS PRESENTING SIGNIFICANT SAFETY RISKS DUE TO
+31 PSYCHIATRIC SYMPTOMS.
+32 7. INDIVIDUALS WITH HIGH-INTENSITY OR COMPLEX PSYCHOTROPIC
+33 MEDICATION REGIMENS REQUIRING ENHANCED MONITORING TO ENSURE ADHERENCE AND
+34 TO IDENTIFY POTENTIAL ADVERSE EFFECTS.
+35 C. A COURT MAY RECOMMEND PARTICIPATION IN THE PROGRAM BUT MAY NOT
+36 COMPEL THE ADMINISTRATION TO EXCEED THE ENROLLMENT CAP.
+37 D. THE ADMINISTRATION MAY RESERVE A PORTION OF AVAILABLE CAPACITY
+38 FOR EMERGENCY OR PRIORITY PLACEMENTS.
+39 36-2979.05. Provider requirements; enhanced reimbursement
+40 rates
+41 A. PROVIDERS SHALL DOCUMENT BEHAVIORAL INTERVENTIONS, CRISIS
+42 SUPPORTS AND STAFFING ADJUSTMENTS BEFORE INITIATING DISCHARGE.
+43 B. A PROVIDER THAT RECEIVES REIMBURSEMENT UNDER THE PROGRAM SHALL
+44 IMPLEMENT EVICTION-PREVENTION PROTOCOLS AND OBTAIN REGIONAL BEHAVIORAL
+45 HEALTH AUTHORITY APPROVAL BEFORE ISSUING NONEMERGENCY NOTICES TO VACATE.
+-13-
+
+House Amendments to S.B. 1630
+1 C. THE ADMINISTRATION MAY ADOPT ENHANCED REIMBURSEMENT RATES FOR
+2 HIGH-ACUITY SERIOUSLY MENTALLY ILL INDIVIDUALS WHO ARE RECEIVING HOME AND
+3 COMMUNITY-BASED SERVICES.
+4 D. THIS SECTION DOES NOT LIMIT THE ADMINISTRATION'S AUTHORITY TO
+5 ENSURE THE HEALTH AND SAFETY OF PARTICIPANTS.
+6 E. THIS SECTION DOES NOT REQUIRE A PROVIDER TO CONTINUE SERVICES
+7 WHEN IMMEDIATE AND DOCUMENTED RISKS TO HEALTH OR SAFETY CANNOT BE
+8 MITIGATED THROUGH REASONABLE CLINICAL INTERVENTIONS.]
+9 36-2979.03. Enrollment in pilot program; application;
+10 delegation of clinical eligibility; waitlist
+11 management
+12 [A. AN INDIVIDUAL WHO SEEKS TO ENROLL IN THE PILOT PROGRAM SHALL
+13 APPLY THROUGH THE INDIVIDUAL'S CONTRACTOR. AFTER DETERMINING THE
+14 INDIVIDUAL MEETS THE SMI ENHANCED LEVEL OF CARE CRITERIA, THE CONTRACTOR
+15 SHALL FORWARD THE APPLICATION TO THE ADMINISTRATION FOR FINANCIAL
+16 ELIGIBILITY DETERMINATION PURSUANT TO SECTION 36-2979.02, SUBSECTION B. IF
+17 THE INDIVIDUAL IS NOT YET ENROLLED WITH A CONTRACTOR, THE INDIVIDUAL MAY
+18 APPLY THROUGH THE ADMINISTRATION.
+19 B. SUBJECT TO THE APPROVAL OF THE CENTERS FOR MEDICARE AND MEDICAID
+20 SERVICES, AVAILABLE APPROPRIATIONS AND THE ENROLLMENT CAP PRESCRIBED IN
+21 SECTION 36-2979.01, SUBSECTION F, THE ADMINISTRATION MAY DELEGATE TO
+22 CONTRACTORS THE AUTHORITY TO DETERMINE WHETHER AN APPLICANT MEETS THE SMI
+23 ENHANCED LEVEL OF CARE CRITERIA ADOPTED BY THE ADMINISTRATION PURSUANT TO
+24 SECTION 36-2979.02, SUBSECTION E AND TO MANAGE PILOT PROGRAM WAITLISTS,
+25 ENROLLMENT DECISIONS AND CAPACITY PRIORITIZATION FOR INDIVIDUALS WHO HAVE
+26 BEEN DETERMINED FINANCIALLY ELIGIBLE BY THE ADMINISTRATION.
+27 C. THE ADMINISTRATION OR A CONTRACTOR EXERCISING DELEGATED
+28 AUTHORITY UNDER THIS SECTION SHALL:
+29 1. APPLY THE ELIGIBILITY CRITERIA ADOPTED BY THE ADMINISTRATION
+30 PURSUANT TO SECTION 36-2979.02.
+31 2. IMPLEMENT AND MAINTAIN ONE OR MORE WAITLISTS, THE TOTAL OF WHICH
+32 MAY NOT EXCEED ONE HUNDRED APPLICANTS, FOR APPLICANTS FOR WHOM ELIGIBILITY
+33 HAS BEEN DETERMINED.
+34 3. IF THE WAITLIST REACHES ONE HUNDRED APPLICANTS, IMPLEMENT AN
+35 INTEREST LIST FOR ADDITIONAL APPLICANTS AND EMPLOY PHASED ENROLLMENT OR
+36 OTHER UTILIZATION CONTROLS AS NECESSARY TO ENSURE THAT THE ENROLLMENT CAP
+37 PRESCRIBED IN SECTION 36-2979.01, SUBSECTION F IS NOT EXCEEDED.
+38 4. ASSIGN AVAILABLE PILOT PROGRAM CAPACITY BY APPLYING THE PRIORITY
+39 FACTORS PRESCRIBED IN SUBSECTION D OF THIS SECTION.
+40 5. REPORT ENROLLMENT DATA TO THE ADMINISTRATION IN THE FORM AND
+41 FREQUENCY REQUIRED BY THE ADMINISTRATION BY POLICY.
+42 D. IF THE NUMBER OF FINANCIALLY AND CLINICALLY ELIGIBLE INDIVIDUALS
+43 EXCEEDS AVAILABLE PILOT PROGRAM CAPACITY, THE CONTRACTOR SHALL ASSIGN
+44 AVAILABLE SLOTS BASED ON THE HIGHEST CLINICAL ACUITY AND FUNCTIONAL
+45 IMPAIRMENT DEFINED BY A METHODOLOGY THAT TAKES INTO ACCOUNT THE FOLLOWING
+46 PRIORITY FACTORS:
+-14-
+
+House Amendments to S.B. 1630
+1 1. INDIVIDUALS UNDER COURT-ORDERED TREATMENT.
+2 2. INDIVIDUALS WITH LEGAL GUARDIANSHIP DUE TO PSYCHIATRIC
+3 INCAPACITY.
+4 3. INDIVIDUALS RECENTLY DISCHARGED FROM JAIL OR PRISON, THE STATE
+5 HOSPITAL OR A BEHAVIORAL HEALTH RESIDENTIAL FACILITY.
+6 4. INDIVIDUALS WHO ARE HOMELESS OR AT IMMINENT RISK OF
+7 HOMELESSNESS.
+8 5. INDIVIDUALS WITH REPEATED CRISIS EPISODES, PSYCHIATRIC
+9 HOSPITALIZATIONS OR PUBLIC SAFETY INVOLVEMENT.
+10 6. INDIVIDUALS PRESENTING SIGNIFICANT SAFETY RISKS DUE TO
+11 PSYCHIATRIC SYMPTOMS.
+12 7. INDIVIDUALS WITH HIGH-INTENSITY OR COMPLEX PSYCHOTROPIC
+13 MEDICATION REGIMENS REQUIRING ENHANCED MONITORING TO ENSURE ADHERENCE AND
+14 TO IDENTIFY POTENTIAL ADVERSE EFFECTS.
+15 E. THE ADMINISTRATION SHALL RETAIN AUTHORITY TO REVIEW AND REVERSE
+16 CONTRACTOR CLINICAL ELIGIBILITY AND ENROLLMENT DETERMINATIONS AND TO AUDIT
+17 CONTRACTOR COMPLIANCE WITH ELIGIBILITY AND ENROLLMENT REQUIREMENTS.
+18 F. THE ADMINISTRATION MAY RESERVE A PORTION OF AVAILABLE ENROLLMENT
+19 CAPACITY FOR EMERGENCY OR PRIORITY PLACEMENTS.]
+20 36-2979.04. Covered services
+21 [A. SUBJECT TO THE APPROVAL OF THE CENTERS FOR MEDICARE AND
+22 MEDICAID SERVICES, AVAILABLE APPROPRIATIONS AND THE ENROLLMENT CAP
+23 PRESCRIBED IN SECTION 36-2979.01, SUBSECTION F, EACH CONTRACTOR SHALL
+24 PROVIDE ENROLLED MEMBERS WITH THE FOLLOWING SERVICES:
+25 1. ALL SERVICES THAT THE CONTRACTOR IS REQUIRED TO PROVIDE TO
+26 SERIOUSLY MENTALLY ILL INDIVIDUALS UNDER THE CONTRACTOR'S AGREEMENT WITH
+27 THE ADMINISTRATION PURSUANT TO SECTIONS 36-3407 AND 36-3410, INCLUDING
+28 BEHAVIORAL HEALTH SERVICES, PHYSICAL HEALTH SERVICES, CRISIS SERVICES,
+29 CASE MANAGEMENT AND PEER SUPPORT SERVICES.
+30 2. ENHANCED RESIDENTIAL TREATMENT SERVICES.
+31 B. THE CONTRACTOR SHALL CONDUCT, AT MINIMUM, AN ANNUAL REVIEW OF
+32 THE ONGOING MEDICAL NECESSITY OF SERVICES FOR EACH MEMBER AND SHALL ENGAGE
+33 WITH THE MEMBER TO PLAN FOR TRANSITION TO A LESS RESTRICTIVE SETTING WHEN
+34 CLINICALLY APPROPRIATE.
+35 C. THE ADMINISTRATION MAY ADD, MODIFY OR COMBINE SERVICES
+36 CONSISTENT WITH FEDERAL APPROVAL AND LEGISLATIVE INTENT, SUBJECT TO THE
+37 APPROVAL OF MONIES.]
+38 36-2979.05. Service plan; assessment
+39 [A. THE CONTRACTOR SHALL DEVELOP AND MAINTAIN A WRITTEN SERVICE
+40 PLAN FOR EACH MEMBER. THE SERVICE PLAN MUST:
+41 1. BE BASED ON A COMPREHENSIVE ASSESSMENT OF THE MEMBER'S
+42 BEHAVIORAL HEALTH, FUNCTIONAL AND SAFETY NEEDS.
+43 2. IDENTIFY THE SPECIFIC SERVICES AND SUPPORT TO BE PROVIDED AND
+44 THE SETTINGS IN WHICH THE SERVICES AND SUPPORT WILL BE PROVIDED.
+45 3. INCLUDE GOALS FOR RECOVERY, STABILITY AND, IF APPROPRIATE,
+46 TRANSITION TO LESS RESTRICTIVE SETTINGS.
+-15-
+
+House Amendments to S.B. 1630
+1 4. BE UPDATED AT LEAST ANNUALLY OR MORE FREQUENTLY IF THE MEMBER'S
+2 NEEDS CHANGE.
+3 B. THE MEMBER AND, IF APPLICABLE, THE MEMBER'S GUARDIAN OR
+4 AUTHORIZED REPRESENTATIVE SHALL PARTICIPATE IN THE DEVELOPMENT AND
+5 REVISION OF THE SERVICE PLAN.]
+6 36-2979.06. Enhanced residential treatment services; provider
+7 requirements; transition and discharge planning
+8 protocols; reimbursement
+9 [A. PROVIDERS OF ENHANCED RESIDENTIAL TREATMENT SERVICES SHALL
+10 DOCUMENT BEHAVIORAL INTERVENTIONS, CRISIS SUPPORT AND STAFFING ADJUSTMENTS
+11 BEFORE INITIATING THE DISCHARGE OF ANY MEMBER.
+12 B. A PROVIDER OF ENHANCED RESIDENTIAL TREATMENT SERVICES SHALL
+13 IMPLEMENT TRANSITION AND DISCHARGE PLANNING PROTOCOLS AND SHALL OBTAIN
+14 APPROVAL FROM THE CONTRACTOR BEFORE ISSUING TO A MEMBER A NONEMERGENCY
+15 NOTICE TO VACATE.
+16 C. THE ADMINISTRATION MAY ADOPT ENHANCED REIMBURSEMENT RATES FOR
+17 ENHANCED RESIDENTIAL TREATMENT SERVICES PROVIDED TO MEMBERS UNDER THIS
+18 ARTICLE. THE ADMINISTRATION SHALL INCORPORATE REIMBURSEMENT RATES AND
+19 METHODOLOGIES INTO CONTRACTOR AGREEMENTS PURSUANT TO SECTION 36-3412.
+20 D. THIS SECTION DOES NOT:
+21 1. LIMIT THE ADMINISTRATION'S AUTHORITY TO ENSURE THE HEALTH AND
+22 SAFETY OF MEMBERS.
+23 2. REQUIRE A PROVIDER TO CONTINUE SERVICES WHEN IMMEDIATE AND
+24 DOCUMENTED RISKS TO HEALTH OR SAFETY CANNOT BE MITIGATED THROUGH
+25 REASONABLE CLINICAL INTERVENTIONS.
+26 3. REQUIRE A CONTRACTOR TO CONTINUE PAYING FOR SERVICES THAT ARE
+27 NOT MEDICALLY NECESSARY.]
+28 36-2979.07. Grievance and appeal process
+29 [A. A MEMBER OR APPLICANT AGGRIEVED BY AN ACTION OF THE
+30 ADMINISTRATION OR A CONTRACTOR RELATING TO ELIGIBILITY, ENROLLMENT OR
+31 SERVICES UNDER THIS ARTICLE HAS THE RIGHT TO FILE A GRIEVANCE OR APPEAL
+32 PURSUANT TO SECTION 36-3413 AND, IF APPLICABLE, TO A HEARING PURSUANT TO
+33 RULES ADOPTED PURSUANT TO SECTION 36-2903.01, SUBSECTION B.
+34 B. THE CONTRACTOR'S GRIEVANCE AND APPEAL PROCESS REQUIRED UNDER
+35 SECTION 36-3413 APPLIES TO MATTERS ARISING UNDER THIS ARTICLE, INCLUDING
+36 DENIALS, REDUCTIONS OR TERMINATIONS OF ENHANCED RESIDENTIAL TREATMENT
+37 SERVICES AND CONTRACTOR CLINICAL ELIGIBILITY DETERMINATIONS.
+38 C. APPEALS OF FINANCIAL ELIGIBILITY DETERMINATIONS MADE BY THE
+39 ADMINISTRATION PURSUANT TO SECTION 36-2979.02, SUBSECTION B SHALL BE HEARD
+40 PURSUANT TO RULES ADOPTED PURSUANT TO SECTION 36-2903.01, SUBSECTION B.]
+41 [36-2979.06.] [36-2979.08.] Annual report
+42 BEGINNING ONE YEAR AFTER [PILOT] PROGRAM IMPLEMENTATION AND EACH
+43 YEAR THEREAFTER [FOR THE DURATION OF THE PILOT PROGRAM], THE
+44 ADMINISTRATION SHALL SUBMIT A REPORT TO THE GOVERNOR, THE PRESIDENT OF THE
+45 SENATE AND THE SPEAKER OF THE HOUSE OF REPRESENTATIVES THAT INCLUDES:
+-16-
+
+House Amendments to S.B. 1630
+1 1. THE NUMBER OF [ENROLLED] MEMBERS AND THE NUMBER OF INDIVIDUALS
+2 WHO ARE ON THE WAITLIST [AND THE NUMBER OF INDIVIDUALS WHO ARE ON THE
+3 INTEREST LIST FOR SERVICES AND WHO HAVE NOT YET BEEN ENROLLED, IF
+4 APPLICABLE].
+5 2. THE PERCENTAGE OF MEMBERS WHO ARE UNDER COURT-ORDERED TREATMENT,
+6 GUARDIANSHIP OR CRIMINAL JUSTICE SUPERVISION.
+7 3. HOUSING STABILITY OUTCOMES FOR MEMBERS.
+8 4. HOSPITALIZATION, CRISIS SERVICE, JAIL, EMERGENCY DEPARTMENT,
+9 EVALUATION AGENCY AND SCREENING AGENCY UTILIZATION OF MEMBERS.
+10 5. PROVIDER DENIALS AND DISCHARGES AND THE REASONS FOR THE DENIALS
+11 AND DISCHARGES OF MEMBERS.
+12 6. THE FISCAL IMPACT OF AND ESTIMATED COST AVOIDANCE RELATED TO THE
+13 [PILOT] PROGRAM.
+14 [7. THE NUMBER OF MEMBERS WHO ARE SERVED IN ENHANCED RESIDENTIAL
+15 TREATMENT FACILITIES.]
+16 [36-2979.07.] [36-2979.09.] Authority to seek and maintain
+17 federal approval
+18 A. THE ADMINISTRATION SHALL SEEK AND MAINTAIN ANY NECESSARY FEDERAL
+19 APPROVALS AND MAY OPERATE THE [PILOT] PROGRAM PURSUANT TO ONE OR MORE
+20 APPROVED MEDICAID STATE PLAN AUTHORITIES, WAIVERS OR DEMONSTRATION
+21 AUTHORITIES, INCLUDING THOSE AUTHORIZED UNDER 42 UNITED STATES CODE
+22 SECTION 1315 OR [1396n] [OTHER APPLICABLE FEDERAL AUTHORITY].
+23 B. IF THE CENTERS FOR MEDICARE AND MEDICAID SERVICES DENIES OR DOES
+24 NOT APPROVE A REQUEST NECESSARY TO IMPLEMENT THIS ARTICLE, THE
+25 ADMINISTRATION, TO THE EXTENT ALLOWED BY FEDERAL LAW, SHALL CONTINUE TO
+26 PURSUE APPROVAL THROUGH MODIFICATIONS, RESUBMISSIONS OR ALTERNATIVE
+27 FEDERAL AUTHORITY AND SHALL REPORT THE STATUS OF THESE EFFORTS IN THE
+28 SEMIANNUAL IMPLEMENTATION UPDATES REQUIRED PURSUANT TO SECTION 36-2979.01.
+29 [THE ADMINISTRATION SHALL OBTAIN LEGISLATIVE APPROVAL FOR MODIFICATIONS OR
+30 RESUBMISSIONS THAT ARE INCONSISTENT WITH THIS ARTICLE.]
+31 [C. THE ADMINISTRATION MAY ADOPT RULES TO IMPLEMENT THIS ARTICLE.]
+32 [C. ON FEDERAL APPROVAL AND SUBJECT TO AVAILABLE APPROPRIATIONS,
+33 THE ADMINISTRATION MAY IMPLEMENT THIS ARTICLE THROUGH POLICY AND CONTRACT
+34 REQUIREMENTS PURSUANT TO SECTIONS 36-2903, 36-2904 AND 36-3412.]
+35 D. THIS ARTICLE DOES NOT EXPAND OR MODIFY STANDARDS FOR INVOLUNTARY
+36 TREATMENT UNDER THIS TITLE.
+37 36-2979.10. Service plan; assessment
+38 [A. SERVICES PROVIDED UNDER THIS ARTICLE SHALL SUPPLEMENT BUT NOT
+39 REPLACE ANY OTHER BENEFITS OR SERVICES FOR WHICH A MEMBER IS OTHERWISE
+40 ELIGIBLE.
+41 B. THE ADMINISTRATION SHALL COORDINATE BENEFITS WITH OTHER PAYORS,
+42 INCLUDING MEDICARE AND PRIVATE INSURANCE, TO THE EXTENT REQUIRED BY
+43 FEDERAL LAW.
+44 C. A MEMBER IN THE PILOT PROGRAM MAY NOT ALSO BE ENROLLED IN THE
+45 ARIZONA LONG-TERM CARE SYSTEM PURSUANT TO ARTICLE 2 OF THIS CHAPTER.]
+-17-
+
+House Amendments to S.B. 1630
+1 <<Sec. 5. Delayed repeal; condition; notice
+2 [A. The seriously mentally ill enhanced residential treatment pilot
+3 program established by title 36, chapter 29, article 3.1, Arizona Revised
+4 Statutes, as added by this act, is repealed three years after the date
+5 that the centers for medicare and medicaid services approve the pilot
+6 program.
+7 B. The Arizona health care cost containment system administration
+8 shall notify the director of the Arizona legislative council in writing of
+9 this date.]>>
+10 Enroll and engross to conform
+11 Amend title to conform
+SELINA BLISS
+1630FloorBLISS.docx
+06/11/2026
+11:38 AM
+C: MH
+130NQFQIM
+-18-

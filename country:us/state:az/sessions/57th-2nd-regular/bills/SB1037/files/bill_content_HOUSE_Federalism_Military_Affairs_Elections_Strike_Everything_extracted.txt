@@ -1,0 +1,1259 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Federalism, Military Affairs & Elections - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Federalism, Military Affairs & Elections
+Second Regular Session S.B. 1037
+PROPOSED
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1037
+(Reference to Senate engrossed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 16-166, Arizona Revised Statutes, is amended to
+3 read:
+4 16-166. Verification of registration
+5 A. Except for the mailing of sample ballots, a county recorder who
+6 mails an item to any elector shall send the mailing by nonforwardable
+7 first class mail marked with the statement required by the postmaster to
+8 receive an address correction notification. If the item is returned
+9 undelivered, the county recorder shall send a follow-up notice to that
+10 elector within three weeks of receipt of the returned notice. The county
+11 recorder shall send the follow-up notice to the address that appears in
+12 the general county register or to the forwarding address provided by the
+13 United States postal service. The follow-up notice shall include an
+14 appropriate internet address for revising voter registration information
+15 or a registration form and the information prescribed by section 16-131,
+16 subsection C and shall state that if the elector does not complete and
+17 return a new registration form with current information to the county
+18 recorder or make changes to the elector's voter registration information
+19 that is maintained online within thirty-five days, the elector's
+20 registration status shall be changed from active to inactive.
+21 B. If the elector provides the county recorder with a new
+22 registration form or otherwise revises the elector's information, the
+23 county recorder shall change the general register to reflect the changes
+24 indicated on the new registration. If the elector indicates a new
+25 residence address outside that county, the county recorder shall forward
+26 the voter registration form or revised information to the county recorder
+27 of the county in which the elector's address is located. If the elector
+28 provides a new residence address that is located outside this state, the
+29 county recorder shall cancel the elector's registration.
+30 C. The county recorder shall maintain on the inactive voter list
+31 the names of electors who have been removed from the general register
+32 pursuant to subsection A or E of this section for a period of four years
+33 or through the date of the second general election for federal office
+34 following the date of the notice from the county recorder that is sent
+35 pursuant to subsection E of this section.
+36 D. On notice that a government agency has changed the name of any
+37 street, route number, post office box number or other address designation,
+38 the county recorder shall revise the registration records and shall send a
+
+House Amendments to S.B. 1037
+1 new verification of registration notice to the electors whose records were
+2 changed.
+3 E. The county recorder on or before May 1 of each year preceding a
+4 state primary and general election or more frequently as the recorder
+5 deems necessary may use the change of address information supplied by the
+6 postal service through its licensees and the information provided by an
+7 electronic voter registration information center to identify registrants
+8 whose addresses may have changed. If it appears from information provided
+9 by the postal service or an electronic voter registration information
+10 center that a registrant has moved to a different residence address, the
+11 county recorder shall send the registrant a notice of the change by
+12 forwardable mail and a postage prepaid preaddressed return form or an
+13 appropriate internet address for revising voter registration information
+14 by which the registrant may verify or correct the registration
+15 information. If the registrant fails to revise the information or return
+16 the form postmarked not later than thirty-five days after the mailing of
+17 the notice, the elector's registration status shall be changed from active
+18 to inactive. If the notice sent by the recorder is not returned, the
+19 registrant may be required to provide affirmation or confirmation of the
+20 registrant's address in order to vote. If the registrant does not vote in
+21 an election during the period after the date of the notice from the
+22 recorder through the date of the second general election for federal
+23 office following the date of that notice, the registrant's name shall be
+24 removed from the list of inactive voters. If the registrant has changed
+25 residence to a new county, the county recorder shall provide information
+26 on how the registrant can continue to be eligible to vote.
+27 F. The county recorder shall reject any application for
+28 registration that is not accompanied by satisfactory evidence of United
+29 States citizenship. Satisfactory evidence of citizenship shall include
+30 any of the following:
+31 1. The number of the applicant's driver license or nonoperating
+32 identification license issued after October 1, 1996 by the department of
+33 transportation or the equivalent governmental agency of another state
+34 within the United States if the agency indicates on the applicant's driver
+35 license or nonoperating identification license that the person has
+36 provided satisfactory proof of United States citizenship.
+37 2. A legible photocopy of the applicant's birth certificate that
+38 verifies citizenship to the satisfaction of the county recorder.
+39 3. A legible photocopy of pertinent pages of the applicant's United
+40 States passport identifying the applicant and the applicant's passport
+41 number or presentation to the county recorder of the applicant's United
+42 States passport.
+43 4. A presentation to the county recorder of the applicant's United
+44 States naturalization documents or the number of the certificate of
+45 naturalization. If only the number of the certificate of naturalization
+46 is provided, the applicant shall not be included in the registration rolls
+47 until the number of the certificate of naturalization is verified with the
+48 United States immigration and naturalization service by the county
+49 recorder.
+-2-
+
+House Amendments to S.B. 1037
+1 5. Other documents or methods of proof that are established
+2 pursuant to the immigration reform and control act of 1986.
+3 6. The applicant's bureau of Indian affairs card number, tribal
+4 treaty card number or tribal enrollment number.
+5 G. Notwithstanding subsection F of this section, any person who is
+6 registered in this state on the effective date of this amendment to this
+7 section is deemed to have provided satisfactory evidence of citizenship
+8 and shall not be required to resubmit evidence of citizenship unless the
+9 person is changing voter registration from one county to another.
+10 H. For the purposes of this section, proof of voter registration
+11 from another state or county is not satisfactory evidence of citizenship.
+12 I. A person who modifies voter registration records with a new
+13 residence ballot shall not be required to submit evidence of citizenship.
+14 After citizenship has been demonstrated to the county recorder, the person
+15 is not required to resubmit satisfactory evidence of citizenship in that
+16 county.
+17 J. After a person has submitted satisfactory evidence of
+18 citizenship, the county recorder shall indicate this information in the
+19 person's permanent voter file. After two years the county recorder may
+20 destroy all documents that were submitted as evidence of citizenship.
+21 K. THE SECRETARY OF STATE SHALL JOIN AND MAINTAIN THIS STATE'S
+22 PARTICIPATION IN A MULTISTATE ELECTRONIC VOTER REGISTRATION INFORMATION
+23 CENTER IN ORDER TO ENSURE ACCURATE AND TIMELY VOTER REGISTRATION
+24 INFORMATION. THE COUNTY RECORDER SHALL PARTICIPATE IN LIST MAINTENANCE
+25 EFFORTS IN COORDINATION WITH THE SECRETARY OF STATE THAT ARE DERIVED FROM
+26 THIS MEMBERSHIP.
+27 Sec. 2. Section 16-245, Arizona Revised Statutes, is amended to
+28 read:
+29 16-245. Form and content of ballot
+30 A. Ballots and ballot labels for the presidential preference
+31 election shall be printed on different colored paper or white paper with a
+32 different colored stripe for each party represented on the presidential
+33 preference election ballot. Only one party may be represented on each
+34 ballot. At the top shall be printed "official ballot of the
+35 ______________ party, presidential preference election (date), county of
+36 _______, state of Arizona".
+37 B. The order of the names of certified candidates on the ballot
+38 shall be determined by lots drawn at a public meeting called by the
+39 secretary of state for that purpose. Rotation of candidate names is
+40 prohibited. The certified candidates shall be listed under the title
+41 "_______________ party candidates for President of the United
+42 States". Immediately below shall be printed "vote for not more than
+43 one". The ballot may also contain printed instructions to voters as
+44 prescribed for other elections.
+-3-
+
+House Amendments to S.B. 1037
+1 C. The officer in charge of elections shall provide a sample ballot
+2 proof to the state committee chairman of each qualified candidate's state
+3 committee no NOT later than five days after receipt of RECEIVING the
+4 certification from the secretary of state.
+5 D. The officer in charge of elections shall mail one sample ballot
+6 of each party represented on the presidential preference election ballot
+7 to each household that contains a registered voter of that political party
+8 unless that registered voter is on the active PERMANENT early voting list
+9 established pursuant to section 16-544. The return address on the sample
+10 ballot mailer shall not contain the name of any elected or appointed
+11 official, and the name of an appointed or elected official shall not be
+12 used to indicate who produced the sample ballot.
+13 E. The mailing face of each sample ballot shall be imprinted with
+14 the great seal of the state of Arizona with the words "official voting
+15 materials — presidential preference election". The polling place VOTING
+16 LOCATION for that household may also be designated on the mailing face of
+17 the sample ballot.
+18 Sec. 3. Section 16-246, Arizona Revised Statutes, is amended to
+19 read:
+20 16-246. Early balloting; satellite locations; additional
+21 procedures
+22 A. Within ninety-three days before the presidential preference
+23 election and not later than 5:00 p.m. on the eleventh day preceding the
+24 election, any elector who is eligible to vote in the presidential
+25 preference election may make a verbal or signed, written request for an
+26 official early ballot to the county recorder or other officer in charge of
+27 elections for the county in which the elector is registered to vote. If
+28 the request is verbal, the requesting elector shall provide the date of
+29 birth and birthplace or other information that if compared to the voter
+30 registration records for that elector would confirm the identity of the
+31 elector.
+32 B. Absent uniformed services voters or overseas voters who are
+33 otherwise eligible to vote in the election may vote as prescribed by
+34 sections 16-543 and 16-543.02.
+35 C. The county recorder or other officer in charge of elections may
+36 establish on-site early voting locations at the office of the county
+37 recorder or at other locations in the county deemed necessary or
+38 appropriate by the recorder. Early voting shall begin within the time
+39 limits prescribed in section 16-542 unless otherwise prescribed by this
+40 section.
+41 D. The county recorder or other officer in charge of elections
+42 shall send by nonforwardable mail that is marked with the statement
+43 required by the postmaster to receive an address correction notification
+44 any early ballots that are requested pursuant to subsections A and B of
+45 this section and shall include a preaddressed envelope for the elector to
+46 return the completed ballot.
+47 E. The county recorder or other officer in charge of elections
+48 shall provide to each election board an appropriate alphabetized list of
+49 voters who have requested and have been sent an early ballot. Any person
+-4-
+
+House Amendments to S.B. 1037
+1 who is on that list of voters and who was sent an early ballot shall not
+2 vote at the polling place VOTING LOCATION for that election precinct
+3 except as prescribed by section 16-579, subsection B.
+4 F. The county recorder or other officer in charge of elections may
+5 provide for any of the following SPECIAL ELECTION BOARDS in the same
+6 manner prescribed by law for other elections. :
+7 1. Special election boards.
+8 2. Emergency balloting for persons who experience an emergency
+9 after 5:00 p.m. on the Friday preceding the presidential preference
+10 election and before 5:00 p.m. on the Monday immediately preceding the
+11 presidential preference election. Before receiving a ballot pursuant to
+12 this paragraph, a person who experiences an emergency shall provide
+13 identification as prescribed in section 16-579 and shall sign a statement
+14 under penalty of perjury that states that the person is experiencing or
+15 experienced an emergency after 5:00 p.m. on the Friday immediately
+16 preceding the election and before 5:00 p.m. on the Monday immediately
+17 preceding the election that would prevent the person from voting at the
+18 polls. Signed statements received pursuant to this subsection are not
+19 subject to inspection pursuant to title 39, chapter 1, article 2.
+20 G. Notwithstanding section 16-579, subsection A, paragraph 2, for
+21 emergency balloting pursuant to subsection F, paragraph 2 of this section,
+22 the county recorder or other officer in charge of elections may allow a
+23 qualified elector to update the elector's voter registration information
+24 as provided for in the secretary of state's instructions and procedures
+25 manual adopted pursuant to section 16-452.
+26 H. G. Sections 16-550, 16-551 and 16-552 govern the use of early
+27 balloting for the presidential preference election.
+28 Sec. 4. Repeal
+29 Section 16-407.01, Arizona Revised Statutes, is repealed.
+30 Sec. 5. Title 16, chapter 4, article 1, Arizona Revised Statutes,
+31 is amended by adding section 16-407.04, to read:
+32 16-407.04. Election administration; private monies
+33 NOTWITHSTANDING ANY OTHER LAW, THE SECRETARY OF STATE, COUNTY
+34 RECORDERS AND COUNTY ELECTION DIRECTORS MAY RECEIVE AND SPEND PRIVATE
+35 MONIES FOR IMPROVEMENTS TO PROCESSES USED IN PREPARING FOR, ADMINISTERING
+36 OR CONDUCTING ELECTIONS, INCLUDING REGISTERING VOTERS, CONDUCTING VOTER
+37 EDUCATION AND DEVELOPING INNOVATIVE ELECTION PROGRAMS.
+38 Sec. 6. Section 16-411, Arizona Revised Statutes, is amended to
+39 read:
+40 16-411. Designation of election precincts; voting centers;
+41 electioneering; wait times
+42 A. The board of supervisors of each county, on or before October 1
+43 of each year preceding the year of a general election, by an order, shall
+44 establish a convenient number of election precincts in the county and
+45 define the boundaries of the precincts as follows:
+46 1. The election precinct boundaries shall be established so as to
+47 be included within election districts prescribed by law for elected
+48 officers of the state and its political subdivisions, including community
+-5-
+
+House Amendments to S.B. 1037
+1 college district precincts, except those elected officers provided for in
+2 titles 30 and 48.
+3 2. If after October 1 of the year preceding the year of a general
+4 election the board of supervisors must further adjust precinct boundaries
+5 due to the redistricting of election districts as prescribed by law and to
+6 comply with this subsection, the board of supervisors shall adjust these
+7 precinct boundaries as soon as is practicable.
+8 B. At least twenty days before a general or primary election, and
+9 at least ten days before a special election, the board shall designate one
+10 polling place within each precinct where the election shall be held,
+11 except that:
+12 1. On a specific finding of the board, included in the order or
+13 resolution designating polling places pursuant to this subsection, that no
+14 suitable polling place is available within a precinct, a polling place for
+15 that precinct may be designated within an adjacent precinct.
+16 2. Adjacent precincts may be combined if boundaries so established
+17 are included in election districts prescribed by law for state elected
+18 officials and political subdivisions including community college districts
+19 but not including elected officials prescribed by titles 30 and 48. The
+20 officer in charge of elections may also split a precinct for
+21 administrative purposes. The polling places shall be listed in separate
+22 sections of the order or resolution.
+23 3. On a specific finding of the board that the number of persons
+24 who are listed as early voters pursuant to section 16-544 and who are not
+25 expected to have their ballots tabulated at the polling place as
+26 prescribed in section 16-579.02 is likely to substantially reduce the
+27 number of voters appearing at one or more specific polling places at that
+28 election, adjacent precincts may be consolidated by combining polling
+29 places and precinct boards for that election. The board of supervisors
+30 shall ensure that a reasonable and adequate number of polling places will
+31 be designated for that election. Any consolidated polling places shall be
+32 listed in separate sections of the order or resolution of the board.
+33 4. on a specific resolution of the board, the board may authorize
+34 SHALL PROVIDE FOR the use of voting centers in place of or in addition to
+35 specifically designated polling places VOTING LOCATIONS. A voting center
+36 shall allow any voter in that county to receive the appropriate ballot for
+37 that voter on election day after presenting identification as prescribed
+38 in section 16-579 and to lawfully cast the ballot. Voting centers may
+39 SHALL be established in coordination and consultation with the county
+40 recorder, at other county offices or at other locations in the county
+41 deemed appropriate.
+42 5. On a specific resolution of the board of supervisors that is
+43 limited to a specific election date and that is voted on by a recorded
+44 vote, the board may authorize the county recorder or other officer in
+45 charge of elections to use emergency voting centers as follows:
+46 (a) The board shall specify in the resolution the location and the
+47 hours of operation of the emergency voting centers.
+48 (b) A qualified elector voting at an emergency voting center shall
+49 provide identification as prescribed in section 16-579, except that
+-6-
+
+House Amendments to S.B. 1037
+1 notwithstanding section 16-579, subsection A, paragraph 2, for any voting
+2 at an emergency voting center, the county recorder or other officer in
+3 charge of elections may allow a qualified elector to update the elector's
+4 voter registration information as provided for in the secretary of state's
+5 instructions and procedures manual adopted pursuant to section 16-452.
+6 (c) If an emergency voting center established pursuant to this
+7 section becomes unavailable and there is not sufficient time for the board
+8 of supervisors to convene to approve an alternate location for that
+9 emergency voting center, the county recorder or other officer in charge of
+10 elections may make changes to the approved emergency voting center
+11 location and shall notify the public and the board of supervisors
+12 regarding that change as soon as practicable. The alternate emergency
+13 voting center shall be as close in proximity to the approved emergency
+14 voting center location as possible.
+15 C. If the board fails to designate the place for holding the
+16 election, or if it cannot be held at or about the place designated, the
+17 justice of the peace in the precinct, two days before the election, by an
+18 order, copies of which the justice of the peace shall immediately post in
+19 three public places in the precinct, shall designate the place within the
+20 precinct for holding the election. If there is no justice of the peace in
+21 the precinct, or if the justice of the peace fails to do so, the election
+22 board of the precinct shall designate and give notice of the place within
+23 the precinct of holding the election. For any election in which there are
+24 no candidates for elected office appearing on the ballot, the board may
+25 consolidate polling places and precinct boards and may consolidate the
+26 tabulation of results for that election if all of the following apply:
+27 1. All affected voters are notified by mail of the change at least
+28 thirty-three days before the election.
+29 2. Notice of the change in polling places includes notice of the
+30 new voting location, notice of the hours for voting on election day and
+31 notice of the telephone number to call for voter assistance.
+32 3. All affected voters receive information on early voting that
+33 includes the application used to request an early voting ballot.
+34 D. C. The board is not required to designate a polling place
+35 VOTING CENTER for special district mail ballot elections held pursuant to
+36 article 8.1 of this chapter, but the board may designate one or more sites
+37 for voters to deposit marked ballots until 7:00 p.m. on the day of the
+38 election.
+39 E. D. Except as provided in subsection F E of this section, a
+40 public school shall provide sufficient space for use as a polling place
+41 VOTING LOCATION for any city, county or state election when requested by
+42 the officer in charge of elections.
+43 F. E. The principal of the school may deny a request to provide
+44 space for use as a polling place VOTING LOCATION for any city, county or
+45 state election if, within two weeks after a request has been made, the
+46 principal provides a written statement indicating a reason the election
+47 cannot be held in the school, including any of the following:
+48 1. Space is not available at the school.
+49 2. The safety or welfare of the children would be jeopardized.
+-7-
+
+House Amendments to S.B. 1037
+1 G. F. Beginning in 2026, the department of administration shall
+2 coordinate with state agencies and counties to provide available and
+3 appropriate state-owned facilities for use as a voting location for any
+4 city, county or state election when requested by the officer in charge of
+5 elections.
+6 H. G. The board shall make available to the public as a public
+7 record a list of the polling places VOTING LOCATIONS for all precincts in
+8 which the election is to be held.
+9 I. H. Except in the case of an emergency, any facility that is
+10 used as a polling place VOTING LOCATION on election day or that is used as
+11 an early voting site during the period of early voting shall allow persons
+12 to electioneer and engage in other political activity outside of the
+13 seventy-five foot limit prescribed by section 16-515 in public areas and
+14 parking lots used by voters. This subsection does not allow the temporary
+15 or permanent construction of structures in public areas and parking lots
+16 or the blocking or other impairment of access to parking spaces for
+17 voters. The county recorder or other officer in charge of elections shall
+18 post on its website at least two weeks before election day a list of those
+19 polling places VOTING LOCATIONS in which emergency conditions prevent
+20 electioneering and shall specify the reason the emergency designation was
+21 granted and the number of attempts that were made to find a polling place
+22 VOTING LOCATION before granting an emergency designation. If the polling
+23 place VOTING LOCATION is not on the website list of polling places VOTING
+24 LOCATIONS with emergency designations, electioneering and other political
+25 activity shall be allowed outside of the seventy-five foot limit. If an
+26 emergency arises after the county recorder or other officer in charge of
+27 elections' initial website posting, the county recorder or other officer
+28 in charge of elections shall update the website as soon as is practicable
+29 to include any new polling places VOTING LOCATION, shall highlight the
+30 polling place VOTING location on the website and shall specify the reason
+31 the emergency designation was granted and the number of attempts that were
+32 made to find a polling place VOTING LOCATION before granting an emergency
+33 designation.
+34 J. I. For the purposes of this section, a county recorder or other
+35 officer in charge of elections shall designate a polling place VOTING
+36 LOCATION as an emergency polling place VOTING LOCATION and thus prohibit
+37 persons from electioneering and engaging in other political activity
+38 outside of the seventy-five foot limit prescribed by section 16-515 but
+39 inside the property of the facility that is hosting the polling place
+40 VOTING LOCATION if any of the following occurs:
+41 1. An act of God renders a previously set polling place VOTING
+42 LOCATION as unusable.
+43 2. A county recorder or other officer in charge of elections has
+44 exhausted all options and there are no suitable facilities in a precinct
+45 AN AREA that are willing to be a polling place VOTING LOCATION unless a
+46 facility can be given an emergency designation.
+47 K. J. The secretary of state shall provide through the
+48 instructions and procedures manual adopted pursuant to section 16-452 the
+49 maximum allowable wait time for any election that is subject to section
+-8-
+
+House Amendments to S.B. 1037
+1 16-204 and provide for a method to reduce voter wait time at the polls in
+2 the primary and general elections. The method shall consider at least all
+3 of the following for primary and general elections in each precinct:
+4 1. The number of ballots voted in the prior primary and general
+5 elections.
+6 2. The number of registered voters who voted early in the prior
+7 primary and general elections.
+8 3. The number of registered voters and the number of registered
+9 voters who cast an early ballot for the current primary or general
+10 election.
+11 4. The number of registered voters whose early ballots were
+12 tabulated on-site as prescribed in section 16-579.02 in the prior primary
+13 and general elections.
+14 5. The number of election board members and clerks and the number
+15 of rosters that will reduce voter wait time at the polls.
+16 Sec. 7. Section 16-461, Arizona Revised Statutes, is amended to
+17 read:
+18 16-461. Sample primary election ballots; submission to party
+19 chairmen for examination; preparation, printing and
+20 distribution of ballot
+21 A. At least forty-five days before a primary election, the officer
+22 in charge of that election shall:
+23 1. Prepare a proof of a sample ballot.
+24 2. Submit the sample ballot proof of each party to the county
+25 chairman or in city or town primaries to the city or town chairman.
+26 3. Mail a sample ballot proof to each candidate for whom a
+27 nomination paper and petitions have been filed.
+28 B. Within two calendar days after receipt of the sample ballot, the
+29 county chairman of each political party and any candidate in that election
+30 who has submitted and confirmed an email address shall suggest to the
+31 election officer any change the chairman or candidate considers should be
+32 made in the chairman's or candidate's party ballot, and if on examination
+33 the election officer finds an error or omission on the ballot, the officer
+34 shall correct it. The election officer shall print and distribute the
+35 sample ballots as required by law, shall maintain a copy of each sample
+36 ballot and shall post a notice indicating that sample ballots are
+37 available on request. The official sample ballot shall be printed on
+38 colored paper or white paper with a different colored stripe for each
+39 party that is represented on that ballot. For voters who are not
+40 registered with a party that is entitled to continued representation on
+41 the ballot pursuant to section 16-804, the election officer may print and
+42 distribute the required sample ballots in an alternative format, including
+43 a reduced size format.
+44 C. Not later than forty days before a primary election, the county
+45 chairman of a political party may request one sample primary election
+46 ballot of the chairman's party for each election precinct.
+47 D. The board of supervisors shall have printed mailer-type sample
+48 ballots for a primary election and shall mail at least eleven days before
+49 the election one sample ballot of a political party to each household
+-9-
+
+House Amendments to S.B. 1037
+1 containing a registered voter of that political party unless that
+2 registered voter is on the active PERMANENT early voting list established
+3 pursuant to section 16-544. Each sample ballot shall contain the
+4 following statement: "This is a sample ballot and cannot be used as an
+5 official ballot under any circumstances". A certified claim shall be
+6 presented to the secretary of state by the board of supervisors for the
+7 actual cost of printing, labeling and postage of each sample ballot
+8 actually mailed, and the secretary of state shall direct payment of the
+9 authenticated claim from funds of the secretary of state's office.
+10 E. For city and town elections, the governing body of a city or
+11 town may have printed mailer-type sample ballots for a primary election.
+12 If the city or town has printed such sample ballots, the city or town
+13 shall provide for the distribution of such ballots and shall bear the
+14 expense of printing and distributing such sample ballots.
+15 F. The return address on the mailer-type sample ballots shall not
+16 contain the name of an appointed or elected public officer nor may the
+17 name of an appointed or elected public officer be used to indicate who
+18 produced the sample ballot.
+19 G. The great seal of the state of Arizona shall be imprinted along
+20 with the words "official voting materials" on the mailing face of each
+21 sample ballot. In county, city or town elections the seal of such
+22 jurisdiction shall be substituted for the state seal.
+23 Sec. 8. Section 16-510, Arizona Revised Statutes, is amended to
+24 read:
+25 16-510. Sample ballots; preparation and distribution
+26 A. Before printing the sample ballots for the general election the
+27 board of supervisors shall send to each candidate whose name did not
+28 appear on the preceding primary election ballot and to the county
+29 chairperson of each political party a ballot proof of the sample ballot
+30 for the candidate's and chairperson's review. Within two calendar days
+31 after receipt of the sample ballot, those candidates and the county
+32 chairperson of each political party shall suggest to the election officer
+33 any change the candidate or chairperson considers should be made to the
+34 ballot, and if on examination the election officer finds an error or
+35 omission on the ballot, the officer shall correct the error or omission.
+36 B. The board of supervisors shall print and distribute, for the
+37 information of voters at each polling place VOTING LOCATION, a number of
+38 sample ballots as it deems necessary.
+39 C. The board of supervisors shall have printed mailer-type sample
+40 ballots for a general election and shall mail at least eleven days before
+41 the election one such sample ballot to each household in the county
+42 containing a registered voter unless that registered voter is on the
+43 active PERMANENT early voting list established pursuant to section 16-544.
+44 Each sample ballot shall contain the following statement: "This is a
+45 sample ballot and cannot be used as an official ballot under any
+46 circumstances". A certified claim shall be presented to the secretary of
+47 state by the board of supervisors for the actual cost of printing,
+48 labeling and postage of each sample ballot actually mailed, and the
+-10-
+
+House Amendments to S.B. 1037
+1 secretary of state shall direct payment of the authenticated claim from
+2 funds of the secretary of state's office.
+3 D. For city and town elections, the governing body of a city or
+4 town may have printed mailer-type sample ballots for a general
+5 election. If the city or town has printed such sample ballots, the city
+6 or town shall provide for the distribution of such ballots and shall bear
+7 the expense of printing and distributing such sample ballots.
+8 E. For special district elections, the governing body of a special
+9 district may have printed mailer-type sample ballots. If the special
+10 district has printed such sample ballots, the special district shall
+11 provide for the distribution of such ballots and shall bear the expense of
+12 printing and distributing such sample ballots.
+13 Sec. 9. Section 16-515, Arizona Revised Statutes, is amended to
+14 read:
+15 16-515. "Seventy-five foot limit" notices; posting;
+16 violation; classification
+17 A. Except as prescribed in this section and section 16-580, a
+18 person shall not be allowed to remain inside the seventy-five foot limit
+19 FOR EACH VOTING LOCATION while the polls are open AND FOR EACH DESIGNATED
+20 BALLOT RECEPTACLE WHILE ACCESSIBLE TO THE PUBLIC, except for the purpose
+21 of voting, and except the election officials, one representative at any
+22 one time of each political party represented on the ballot who has been
+23 appointed by the county chairman of that political party and the
+24 challengers allowed by law, and no electioneering may NOT occur within the
+25 seventy-five foot limit. Voters having cast their ballots shall promptly
+26 move outside the seventy-five foot limit.
+27 B. The board of supervisors shall furnish FOR EACH DESIGNATED
+28 BALLOT RECEPTACLE, AND with the ballots for each polling place VOTING
+29 LOCATION, three notices, printed in letters not less than two inches high,
+30 with the heading: "Seventy-five foot limit" and underneath that heading
+31 the following:
+32 No person shall be allowed to remain inside these limits while
+33 the polls are open, except for the purpose of voting, and
+34 except the election officials, one representative at any one
+35 time of each political party represented on the ballot who has
+36 been appointed by the county chairman of such political party,
+37 and the challengers allowed by law. Voters having cast their
+38 ballots shall at once retire without the seventy-five foot
+39 limit. A person violating any provision of this notice is
+40 guilty of a class 2 misdemeanor.
+41 C. A minor voting in a simulated election at a polling place VOTING
+42 LOCATION is subject to the same seventy-five foot limit restrictions
+43 prescribed for a voter. Persons supervising or working in a simulated
+44 election in which minors vote may remain within the seventy-five foot
+45 limit of the polling place VOTING LOCATION. The inspector for the polling
+46 place VOTING LOCATION shall exercise authority over all election and
+47 simulated election related activities at the polling place VOTING
+48 LOCATION.
+-11-
+
+House Amendments to S.B. 1037
+1 D. For an election that is held by an Indian tribe and that is held
+2 at a polling place VOTING LOCATION at the same time and on the same date
+3 as any other election, the following apply:
+4 1. A person who is voting is subject to the same seventy-five foot
+5 limit restrictions prescribed for other voters.
+6 2. An election official for the tribal election may remain within
+7 the seventy-five foot limit for the polling place VOTING LOCATION.
+8 E. With the permission of the voter, a minor may enter and remain
+9 within the seventy-five foot limit in order to accompany a voter into a
+10 polling place VOTING LOCATION, an on-site early voting facility and a
+11 voting booth while the voter is voting.
+12 F. Notwithstanding any other law, an election official, a
+13 representative of a political party who has been appointed by the county
+14 chairman of that political party or a challenger who is authorized by law
+15 to be within the seventy-five foot limit as prescribed by this section
+16 shall not wear, carry or display materials that identify or express
+17 support for or opposition to a candidate, a political party or
+18 organization, a ballot question or any other political issue and shall not
+19 electioneer within the seventy-five foot limit of a polling place VOTING
+20 LOCATION OR DESIGNATED BALLOT RECEPTACLE.
+21 G. Notwithstanding section 16-1018, a person may not take
+22 photographs or videos while within the seventy-five foot limit.
+23 H. Any A person violating WHO VIOLATES this section is guilty of a
+24 class 2 misdemeanor.
+25 I. For the purposes of this section, electioneering occurs when an
+26 individual knowingly, intentionally, by verbal expression and in order to
+27 induce or compel another person to vote in a particular manner or to
+28 refrain from voting expresses support for or opposition to a candidate who
+29 appears on the ballot in that election, a ballot question that appears on
+30 the ballot in that election or a political party with one or more
+31 candidates who appear on the ballot in that election.
+32 Sec. 10. Section 16-542, Arizona Revised Statutes, is amended to
+33 read:
+34 16-542. Request for ballot; civil penalties; violation;
+35 classification
+36 A. Within ninety-three days before any election called pursuant to
+37 the laws of this state, an elector may make a verbal or signed request to
+38 the county recorder, or other officer in charge of elections for the
+39 applicable political subdivision of this state in whose jurisdiction the
+40 elector is registered to vote, for an official early ballot. In addition
+41 to name and address, the requesting elector shall provide the date of
+42 birth and state or country of birth or other information that if compared
+43 to the voter registration information on file would confirm the identity
+44 of the elector. If the request indicates that the elector needs a primary
+45 election ballot and a general election ballot, the county recorder or
+46 other officer in charge of elections shall honor the request. For any
+47 partisan primary election, if the elector is not registered as a member of
+48 a political party that is entitled to continued representation on the
+49 ballot pursuant to section 16-804, the elector shall designate the ballot
+-12-
+
+House Amendments to S.B. 1037
+1 of only one of the political parties that is entitled to continued
+2 representation on the ballot and the elector may receive and vote the
+3 ballot of only that one political party, which also shall include any
+4 nonpartisan offices and ballot questions, or the elector shall designate
+5 the ballot for nonpartisan offices and ballot questions only and the
+6 elector may receive and vote the ballot that contains only nonpartisan
+7 offices and ballot questions. The county recorder or other officer in
+8 charge of elections shall process any request for an early ballot for a
+9 municipal election pursuant to this subsection. The county recorder may
+10 SHALL establish on-site early voting locations at the COUNTY recorder's
+11 office, which shall be open and available for use beginning the same day
+12 that a county begins to send out the early ballots. The county recorder
+13 may also establish any other early voting locations in the county the
+14 COUNTY recorder deems necessary. THE EARLY VOTING LOCATIONS, INCLUDING
+15 THE LOCATIONS AT THE COUNTY RECORDER'S OFFICES, SHALL BE OPEN ON THE
+16 SATURDAY, SUNDAY AND MONDAY BEFORE ELECTION DAY FROM AT LEAST 8:00 A.M.
+17 UNTIL AT LEAST 5:00 P.M. Any on-site early voting location or other early
+18 voting location shall require each elector to present identification as
+19 prescribed in section 16-579 before receiving a ballot. Notwithstanding
+20 section 16-579, subsection A, paragraph 2, at any on-site early voting
+21 location or other early voting location the county recorder or other
+22 officer in charge of elections may provide for a qualified elector to
+23 update the elector's voter registration information as provided for in the
+24 secretary of state's instructions and procedures manual adopted pursuant
+25 to section 16-452.
+26 B. Notwithstanding subsection A of this section, a request for an
+27 official early ballot from an absent uniformed services voter or overseas
+28 voter as defined in the uniformed and overseas citizens absentee voting
+29 act (P.L. 99-410; 52 United States Code section 20310) or a voter whose
+30 information is protected pursuant to section 16-153 that is received by
+31 the county recorder or other officer in charge of elections more than
+32 ninety-three days before the election is valid. If requested by the
+33 absent uniformed services or overseas voter, or a voter whose information
+34 is protected pursuant to section 16-153, the county recorder or other
+35 officer in charge of elections shall provide to the requesting voter early
+36 ballot materials through the next regularly scheduled general election for
+37 federal office immediately following receipt of the request unless a
+38 different period of time, which does not exceed the next two regularly
+39 scheduled general elections for federal office, is designated by the
+40 voter.
+41 C. The county recorder or other officer in charge of elections
+42 shall mail the early ballot and the envelope for its return postage
+43 prepaid to the address provided by the requesting elector within five days
+44 after receipt of the official early ballots from the officer charged by
+45 law with the duty of preparing ballots pursuant to section 16-545, except
+46 that early ballot distribution shall not begin more than twenty-seven days
+47 before the election. If an early ballot request is received on or before
+48 the thirty-first day before the election, the early ballot shall be
+-13-
+
+House Amendments to S.B. 1037
+1 distributed not earlier than the twenty-seventh day before the election
+2 and not later than the twenty-fourth day before the election.
+3 D. Only the elector may be in possession of that elector's unvoted
+4 early ballot. If a complete and correct request is made by the elector
+5 within twenty-seven days before the election, the mailing must be made
+6 within forty-eight hours after receipt of the request. Saturdays, Sundays
+7 and other legal holidays are excluded from the computation of the
+8 forty-eight-hour period prescribed by this subsection. If a complete and
+9 correct request is made by an absent uniformed services voter or an
+10 overseas voter before the election, the regular early ballot shall be
+11 transmitted by mail, by fax or by other electronic format approved by the
+12 secretary of state within twenty-four hours after the early ballots are
+13 delivered pursuant to section 16-545, subsection B, excluding Sundays.
+14 E. In order to be complete and correct and to receive an early
+15 ballot by mail, an elector's request that an early ballot be mailed to the
+16 elector's residence or temporary address must include all of the
+17 information prescribed by subsection A of this section and must be
+18 received by the county recorder or other officer in charge of elections
+19 not later than 5:00 p.m. on the eleventh day preceding the election. An
+20 elector who appears personally not later than 7:00 p.m. on the Friday
+21 preceding the election at an on-site early voting location that is
+22 established by the county recorder or other officer in charge of elections
+23 shall be given a ballot after presenting identification as prescribed in
+24 section 16-579 and shall be allowed to vote at the on-site location.
+25 Notwithstanding section 16-579, subsection A, paragraph 2, at any on-site
+26 early voting location the county recorder or other officer in charge of
+27 elections may provide for a qualified elector to update the elector's
+28 voter registration information as provided for in the secretary of state's
+29 instructions and procedures manual adopted pursuant to section 16-452. If
+30 an elector's request to receive an early ballot is not complete and
+31 correct but complies with all other requirements of this section, the
+32 county recorder or other officer in charge of elections shall attempt to
+33 notify the elector of the deficiency of the request.
+34 F. Unless an elector specifies that the address to which an early
+35 ballot is to be sent is a temporary address, the recorder may use the
+36 information from an early ballot request form to update voter registration
+37 records.
+38 G. The county recorder or other officer in charge of early
+39 balloting shall provide an alphabetized list of all voters in the precinct
+40 who have requested and have been sent an early ballot to the election
+41 board of the precinct in which the voter is registered not later than the
+42 day before the election.
+43 H. As a result of experiencing an emergency between 7:00 p.m. on
+44 the Friday preceding the election and 5:00 p.m. on the Monday preceding
+45 the election, qualified electors may request to vote in the manner
+46 prescribed by the board of supervisors of their respective county. Before
+47 voting pursuant to this subsection, an elector who experiences an
+48 emergency shall provide identification as prescribed in section 16-579 and
+49 shall sign a statement under penalty of perjury that states that the
+-14-
+
+House Amendments to S.B. 1037
+1 person is experiencing or experienced an emergency after 7:00 p.m. on the
+2 Friday immediately preceding the election and before 5:00 p.m. on the
+3 Monday immediately preceding the election that would prevent the person
+4 from voting at the polls. Signed statements received pursuant to this
+5 subsection are not subject to inspection pursuant to title 39, chapter 1,
+6 article 2. For the purposes of this subsection, "emergency" means any
+7 unforeseen circumstances that would prevent the elector from voting at the
+8 polls.
+9 I. Notwithstanding section 16-579, subsection A, paragraph 2, for
+10 any voting pursuant to subsection H of this section, the county recorder
+11 or other officer in charge of elections may allow a qualified elector to
+12 update the elector's voter registration information as provided for in the
+13 secretary of state's instructions and procedures manual adopted pursuant
+14 to section 16-452.
+15 J. H. A candidate, political committee or other organization may
+16 distribute early ballot request forms to voters. If the early ballot
+17 request forms include a printed address for return, the addressee shall be
+18 the political subdivision that will conduct the election. Failure to use
+19 the political subdivision as the return addressee is punishable by a civil
+20 penalty of up to three times the cost of the production and distribution
+21 of the request.
+22 K. I. All original and completed early ballot request forms that
+23 are received by a candidate, political committee or other organization
+24 shall be submitted within six business days after receipt by a candidate,
+25 political committee or other organization or eleven days before the
+26 election day, whichever is earlier, to the political subdivision that will
+27 conduct the election. Any person, political committee or other
+28 organization that fails to submit a completed early ballot request form
+29 within the prescribed time is subject to a civil penalty of up to $25 per
+30 day for each completed form withheld from submittal. Any person who
+31 knowingly fails to submit a completed early ballot request form before the
+32 submission deadline for the election immediately following the completion
+33 of the form is guilty of a class 6 felony.
+34 L. J. Except for a voter who is on the active PERMANENT early
+35 voting list prescribed by section 16-544, a voter who requests a onetime
+36 early ballot pursuant to this section or for an election conducted
+37 pursuant to section 16-409 or article 8.1 of this chapter, a county
+38 recorder, city or town clerk or other election officer may not deliver or
+39 mail an early ballot to a person who has not requested an early ballot for
+40 that election. An election officer who knowingly violates this subsection
+41 is guilty of a class 5 felony.
+42 Sec. 11. Section 16-544, Arizona Revised Statutes, is amended to
+43 read:
+44 16-544. Permanent early voting list; civil penalty;
+45 violation; classification; definition
+46 A. Any voter may request to be included on a list of voters to
+47 receive an early ballot by mail for any election for which the county
+48 voter registration roll is used to prepare the election register. The
+-15-
+
+House Amendments to S.B. 1037
+1 county recorder of each county shall maintain the active PERMANENT early
+2 voting list as part of the voter registration roll.
+3 B. In order to be included on the active PERMANENT early voting
+4 list, the voter shall make a written request specifically requesting that
+5 the voter's name be added to the active PERMANENT early voting list for
+6 all elections in which the applicant is eligible to vote. An A PERMANENT
+7 early voter request form shall conform to requirements prescribed in the
+8 instructions and procedures manual issued pursuant to section 16-452. The
+9 application shall allow for the voter to provide the voter's name,
+10 residence address, mailing address in the voter's county of residence,
+11 date of birth and signature and shall state that the voter is attesting
+12 that the voter is a registered voter who is eligible to vote in the county
+13 of residence. The voter shall not list a mailing address that is outside
+14 of this state for the purpose of the active PERMANENT early voting list
+15 unless the voter is an absent uniformed services voter or overseas voter
+16 as defined in the uniformed and overseas citizens absentee voting act
+17 (P.L. 99-410; 52 United States Code section 20310). In lieu of the
+18 application, the applicant may submit a written request that contains the
+19 required information.
+20 C. On receipt of a request to be included on the active PERMANENT
+21 early voting list, the county recorder or other officer in charge of
+22 elections shall compare the signature on the request form with the voter's
+23 signature on the voter's registration form and, if the request is from the
+24 voter, shall mark the voter's registration file as an active A PERMANENT
+25 early ballot request.
+26 D. Not less than ninety days before any polling place VOTING
+27 LOCATION election scheduled in March or August, the county recorder or
+28 other officer in charge of elections shall mail to all voters who are
+29 eligible for the election, who are not listed as inactive and who are
+30 included on the active PERMANENT early voting list an election notice by
+31 nonforwardable mail that is marked with the statement required by the
+32 postmaster to receive an address correction notification. If an election
+33 is not formally called by a jurisdiction by the one hundred eightieth day
+34 before the election, the recorder or other officer in charge of elections
+35 is not required to send the election notice. The notice shall include the
+36 dates of the elections that are the subject of the notice, the dates that
+37 the voter's ballot is expected to be mailed and the address where the
+38 ballot will be mailed. If the upcoming election is a partisan open
+39 primary election and the voter is not registered as a member of one of the
+40 political parties that is recognized for purposes of that primary, the
+41 notice shall include information on the procedure for the voter to
+42 designate a political party ballot. The notice shall be delivered with
+43 return postage prepaid and shall also include a means for the voter to do
+44 any of the following:
+45 1. Change the mailing address for the voter's ballot to another
+46 location in the voter's county of residence.
+47 2. Update the voter's residence address in the voter's county of
+48 residence.
+-16-
+
+House Amendments to S.B. 1037
+1 3. Request that the voter not be sent a ballot for the upcoming
+2 election or elections indicated on the notice.
+3 E. If the notice that is mailed to the voter is returned
+4 undeliverable by the postal service, the county recorder or other officer
+5 in charge of elections shall take the necessary steps to contact the voter
+6 at the voter's new residence address in order to update that voter's
+7 address or to move the voter to inactive status as prescribed in section
+8 16-166, subsection A. If a voter is moved to inactive status, the voter
+9 shall be removed from the active PERMANENT early voting list and may not
+10 receive an early ballot unless the voter updates or otherwise confirms the
+11 voter's registration information. If the voter is removed from the active
+12 PERMANENT early voting list, the voter shall only be added to the active
+13 PERMANENT early voting list again if the voter submits a new request
+14 pursuant to this section.
+15 F. Not later than the first day of early voting, the county
+16 recorder or other officer in charge of elections shall mail an early
+17 ballot to all eligible voters who are not listed as inactive and who are
+18 included on the active PERMANENT early voting list in the same manner
+19 prescribed in section 16-542, subsection C. If the voter has not returned
+20 the notice or otherwise notified the election officer within forty-five
+21 days before the election that the voter does not wish to receive an early
+22 ballot by mail for the election or elections indicated, the ballot shall
+23 automatically be scheduled for mailing.
+24 G. If a voter who is on the active PERMANENT early voting list is
+25 not registered as a member of a recognized political party and fails to
+26 notify the county recorder of the voter's choice for political party
+27 ballot within forty-five days before a partisan open primary election, the
+28 following apply:
+29 1. The voter shall not automatically be sent a ballot for that
+30 partisan open primary election only and the voter's name shall remain on
+31 the active PERMANENT early voting list for future elections.
+32 2. To receive an early ballot for the primary election, the voter
+33 shall submit the voter's choice for political party ballot to the county
+34 recorder.
+35 H. After a voter has requested to be included on the active
+36 PERMANENT early voting list, the voter shall be sent an early ballot by
+37 mail automatically for any election at which a voter at that residence
+38 address is eligible to vote until any of the following occurs:
+39 1. The voter requests in writing to be removed from the active
+40 PERMANENT early voting list.
+41 2. The voter's registration or eligibility for registration is
+42 moved to inactive status or canceled as otherwise provided by law.
+43 3. The notice sent by the county recorder or other officer in
+44 charge of elections is returned undeliverable and the county recorder or
+45 officer in charge of elections is unable to contact the voter to determine
+46 the voter's continued desire to remain on the list.
+47 4. The voter fails to vote an early ballot in all elections for two
+48 consecutive election cycles. For the purposes of this paragraph,
+49 "election" means any regular primary or regular general election for which
+-17-
+
+House Amendments to S.B. 1037
+1 there was a federal race on the ballot or for which a city or town
+2 candidate primary or first election or city or town candidate second,
+3 general or runoff election was on the ballot. This paragraph does not
+4 apply to:
+5 (a) A special taxing district that is authorized pursuant to
+6 section 16-191 to conduct its own elections.
+7 (b) A special district mail ballot election that is conducted
+8 pursuant to article 8.1 of this chapter.
+9 I. A voter may make a written request at any time to be removed
+10 from the active PERMANENT early voting list. The request shall include
+11 the voter's name, residence address, date of birth and signature. On
+12 receipt of a completed request to remove a voter from the active PERMANENT
+13 early voting list, the county recorder or other officer in charge of
+14 elections shall remove the voter's name from the list as soon as
+15 practicable.
+16 J. An absent uniformed services voter or overseas voter as defined
+17 in the uniformed and overseas citizens absentee voting act (P.L. 99-410;
+18 52 United States Code section 20310) is eligible to be placed on the
+19 active PERMANENT early voting list pursuant to this section.
+20 K. A voter's failure to vote an early ballot once received does not
+21 constitute grounds to remove the voter from the active PERMANENT early
+22 voting list, except that a county recorder shall remove a voter from the
+23 active early voting list if both of the following apply:
+24 1. The county recorder or other officer in charge of elections
+25 complies with subsection M of this section.
+26 2. The voter fails to vote using an early ballot in all of the
+27 following elections for two consecutive election cycles:
+28 (a) A regular primary and regular general election for which there
+29 was a federal race on the ballot.
+30 (b) A city or town candidate primary or first election and a city
+31 or town candidate second, general or runoff election.
+32 L. On or before January 15 of each odd-numbered year, the county
+33 recorder or other officer in charge of elections shall send a notice to
+34 each voter who is on the active early voting list and who did not vote an
+35 early ballot in all elections for two consecutive election cycles as
+36 prescribed by subsection K of this section. If the voter has provided the
+37 voter's telephone or mobile phone number or email address to the county
+38 recorder, the county recorder may additionally provide the notice to the
+39 voter by telephone call, text message or email. The notice shall inform
+40 the voter that if the voter wishes to remain on the active early voting
+41 list, the voter shall do both of the following with the notice received:
+42 1. Confirm in writing the voter's desire to remain on the active
+43 early voting list.
+44 2. Return the completed notice to the county recorder or other
+45 officer in charge of elections within ninety days after the notice is sent
+46 to the voter. The notice shall be signed by the voter and shall contain
+47 the voter's address and date of birth.
+48 M. If a voter receives a notice as prescribed by subsection L of
+49 this section and the voter fails to respond within the ninety-day period,
+-18-
+
+House Amendments to S.B. 1037
+1 the county recorder or other officer in charge of elections shall remove
+2 the voter's name from the active early voting list.
+3 N. L. A candidate, political committee or other organization may
+4 distribute active PERMANENT early voting list request forms to voters. If
+5 the active PERMANENT early voting list request forms include a printed
+6 address for return, that address shall be the political subdivision that
+7 will conduct the election. Failure to use the political subdivision as
+8 the return addressee is punishable by a civil penalty of up to three times
+9 the cost of the production and distribution of the active PERMANENT early
+10 voting list request.
+11 O. M. All original and completed active PERMANENT early voting
+12 list request forms that are received by a candidate, political committee
+13 or other organization shall be submitted within six business days after
+14 receipt by a candidate or political committee or eleven days before the
+15 election day, whichever is earlier, to the political subdivision that will
+16 conduct the election. Any person, political committee or other
+17 organization that fails to submit a completed active PERMANENT early
+18 voting list request form within the prescribed time is subject to a civil
+19 penalty of up to $25 per day for each completed form withheld from
+20 submittal. Any person who knowingly fails to submit a completed active
+21 PERMANENT early voting list request form before the submission deadline
+22 for the election immediately following the completion of the form is
+23 guilty of a class 6 felony.
+24 P. N. A person who receives an early ballot at an address at which
+25 another person formerly resided, without voting the ballot or signing the
+26 envelope, shall write "not at this address" on the envelope and place the
+27 mail piece in a United States postal service collection box or other mail
+28 receptacle. On receipt the county recorder or other officer in charge of
+29 elections shall proceed in the manner prescribed in subsection E of this
+30 section.
+31 Q. O. When the county recorder receives confirmation from another
+32 county that a person registered has registered to vote in that other
+33 county, the county recorder shall remove that person from the active
+34 PERMANENT early voting list.
+35 R. P. If the county recorder receives credible information that a
+36 person has registered to vote in a different county, the county recorder
+37 shall confirm the person's voter registration with that other county and,
+38 on confirmation, shall remove that person from the county's active
+39 PERMANENT early voting list pursuant to subsection Q O of this section.
+40 S. For the purposes of this section, "election cycle" means the
+41 two-year period beginning on January 1 in the year after a statewide
+42 general election or, for cities and towns, the two-year period beginning
+43 on the first day of the calendar quarter after the calendar quarter in
+44 which the city's or town's second, runoff or general election is scheduled
+45 and ending on the last day of the calendar quarter in which the city's or
+46 town's immediately following second, runoff or general election is
+47 scheduled, however that election is designated by the city or town.
+48 Sec. 12. Section 16-550, Arizona Revised Statutes, is amended to
+49 read:
+-19-
+
+House Amendments to S.B. 1037
+1 16-550. Receipt of voter's ballot; cure period; notice to
+2 cure system; tracking system
+3 A. Except for early ballots tabulated as prescribed in section
+4 16-579.02 or, beginning in 2026, received at a voting location after a
+5 voter's identification is confirmed as prescribed by section 16-579,
+6 subsection A, paragraph 4, on receipt of the envelope containing the early
+7 ballot and the mail affidavit, the county recorder or other officer in
+8 charge of elections shall compare the signature on the envelope with the
+9 signature of the elector on the elector's registration record as
+10 prescribed by section 16-550.01. If the signature is inconsistent with
+11 the elector's signature on the elector's registration record, the county
+12 recorder or other officer in charge of elections shall make reasonable
+13 efforts to contact the voter, advise the voter of the inconsistent
+14 signature and allow the voter to correct or the county to confirm the
+15 inconsistent signature. The county recorder or other officer in charge of
+16 elections shall allow signatures to be corrected not later than the fifth
+17 business day after a primary, general or special election that includes a
+18 federal office or the third business day after any other election. If the
+19 election is a primary, general or special election that includes a federal
+20 office and there are outstanding ballots that require identification or
+21 ballot signatures to be corrected or confirmed, in addition to the
+22 office's regular business hours, the county recorder's and any city or
+23 town clerks' offices that have an agreement with a county to be used as
+24 locations at which a voter may submit proof of identification shall be
+25 open during regular business hours to allow for curing signatures during
+26 the Friday and weekend before and the Friday and weekend after the
+27 election. Regular business hours include at a minimum 8:00 a.m. until
+28 5:00 p.m. If there are no ballots remaining that require identification
+29 or signatures to be cured, the county recorder and city and town clerks
+30 are not required to be open during the weekend. If the signature is
+31 missing, the county recorder or other officer in charge of elections shall
+32 make reasonable efforts to contact the elector, advise the elector of the
+33 missing signature and allow the elector to add the elector's signature not
+34 later than 7:00 p.m. on election day. If satisfied that the signatures
+35 correspond, the recorder or other officer in charge of elections shall
+36 hold the envelope containing the early ballot and the completed mail
+37 affidavit unopened in accordance with the rules of the secretary of state.
+38 Signatures that cannot be verified pursuant to section 16-550.01 or cured
+39 pursuant to this section shall be rejected. If the ballot is a
+40 conditional provisional ballot, THE COUNTY RECORDER OR OTHER OFFICER IN
+41 CHARGE OF ELECTIONS SHALL MAKE REASONABLE EFFORTS TO CONTACT THE VOTER AND
+42 ADVISE THE VOTER THAT the voter shall MUST provide proof of identification
+43 to the county recorder or other officer in charge of elections not later
+44 than the fifth business day after a primary, general or special election
+45 that includes a federal office or the third business day after any other
+46 election. Beginning with the first missing or mismatched signature that
+47 is identified after the period of early voting begins through the Monday
+48 immediately preceding the election, the county recorder or other officer
+49 in charge of elections shall submit daily to the political parties that
+-20-
+
+House Amendments to S.B. 1037
+1 are qualified for continued representation on the state ballot an updated
+2 list of all voters whose signatures are missing or inconsistent with the
+3 voter's signature on the voter's registration record. Beginning on the
+4 Wednesday immediately following the election through the end of the
+5 signature cure period after a primary, general or special election that
+6 includes a federal office, or the third business day after the election
+7 for any other election, the county recorder or other officer in charge of
+8 elections shall submit daily to the political parties that are qualified
+9 for continued representation on the state ballot an updated list of all
+10 voters whose signatures are inconsistent with the voter's signature on the
+11 voter's registration record and all voters who voted with a conditional
+12 provisional ballot. This list of voters whose signatures require curing
+13 shall include for those voters all voter information that is provided to
+14 the political parties that are qualified for continued representation on
+15 the state ballot as prescribed by section 16-168.
+16 B. A COUNTY RECORDER OR OTHER OFFICER IN CHARGE OF ELECTIONS WHO IS
+17 REQUIRED BY SUBSECTION A OF THIS SECTION TO MAKE EFFORTS TO NOTIFY A VOTER
+18 THAT THE VOTER'S SIGNATURE APPEARS INCONSISTENT OR IS MISSING OR THAT THE
+19 VOTER OF A CONDITIONAL PROVISIONAL BALLOT IS REQUIRED TO PROVIDE PROOF OF
+20 IDENTIFICATION SHALL ESTABLISH A NOTICE TO CURE SYSTEM THAT INDICATES BY
+21 TEXT MESSAGE TO A VOTER WHETHER THE VOTER'S SIGNATURE NEEDS TO BE ADDED,
+22 CONFIRMED OR CURED AND WHETHER THE VOTER IS REQUIRED TO PROVIDE
+23 IDENTIFICATION OR OTHER INFORMATION IN ORDER TO VALIDATE THE VOTER'S
+24 BALLOT AND WHETHER THE BALLOT HAS BEEN VERIFIED AND SENT TO BE TABULATED
+25 OR REJECTED. THE COUNTY RECORDER OR OTHER OFFICER IN CHARGE OF ELECTIONS
+26 SHALL PROVIDE VOTERS WITH ACCESS TO THE NOTICE TO CURE SYSTEM ON THE
+27 COUNTY'S WEBSITE AND SHALL REQUIRE THE VOTER'S CONSENT TO RECEIVE TEXT
+28 MESSAGES.
+29 B. C. The recorder or other officer in charge of elections shall
+30 thereafter safely keep the mail affidavits and early ballots in the
+31 recorder's or other officer's office and may deliver them for tallying
+32 pursuant to section 16-551.
+33 C. D. Processing and tabulation of individual ballots may begin
+34 immediately after the envelope and completed mail affidavit are processed
+35 pursuant to this section and delivered to the early election board and
+36 shall continue without delay until completed. Until election day, the
+37 early election board and the county recorder or other officer in charge of
+38 elections shall:
+39 1. Not access an aggregated complete results file of early voting
+40 and vote by mail ballots that were processed and tabulated by the end of
+41 the early voting period.
+42 2. Not produce for internal or external use an aggregated results
+43 report or associated files of complete results.
+44 3. Only produce a partial results report or associated files if it
+45 is part of the internal preparation for the hand count pursuant to section
+46 16-602 or for the logic and accuracy testing required pursuant to section
+47 16-449.
+-21-
+
+House Amendments to S.B. 1037
+1 4. Not publicly release complete or partial results, whether for
+2 internal or external use, until all precincts have reported or one hour
+3 after the closing of the polls on election day, whichever is earlier.
+4 D. E. The county recorder or other officer in charge of elections
+5 shall post on its website within forty-eight hours after all ballot
+6 tabulation is complete all system log files and other similar files from
+7 the election management system that verify compliance with subsection C D
+8 of this section.
+9 E. F. The county recorder shall send a list of all voters who were
+10 issued early ballots to the election board of the precinct in which the
+11 voter is registered.
+12 F. G. For a county that uses early ballots, the county recorder or
+13 other officer in charge of elections shall provide an early ballot
+14 tracking system that indicates BY TEXT MESSAGE TO AN EARLY VOTER whether
+15 the voter's early ballot has been received and whether the early ballot
+16 has been verified and sent to be tabulated or rejected. The county
+17 recorder or other officer in charge of elections shall provide voters with
+18 access to the early ballot tracking system on the county's website AND
+19 SHALL REQUIRE THE EARLY VOTER'S CONSENT TO RECEIVE TEXT MESSAGES.
+20 H. IF A COUNTY RECORDER OR OTHER OFFICER IN CHARGE OF ELECTIONS
+21 RECEIVES A VOTED EARLY BALLOT THAT APPEARS TO BE AN OTHERWISE LAWFUL
+22 BALLOT THAT HAS BEEN ISSUED BY A COUNTY OR JURISDICTION OTHER THAN THE
+23 COUNTY THAT RECEIVED THE BALLOT, THE FOLLOWING APPLY:
+24 1. IF THE COUNTY RECORDER OR OTHER OFFICER IN CHARGE OF ELECTIONS
+25 THAT INITIALLY RECEIVED THE EARLY BALLOT RECEIVED IT ON OR BEFORE 7:00
+26 P.M. ON ELECTION DAY, THAT COUNTY RECORDER OR OTHER OFFICER IN CHARGE OF
+27 ELECTIONS SHALL PROVIDE THE BALLOT AND THE MAIL AFFIDAVIT BY PERSONAL
+28 DELIVERY, EXPEDITED MAIL OR OTHER PACKAGE TRANSFER METHOD TO THE COUNTY
+29 RECORDER OR OTHER OFFICER IN CHARGE OF ELECTIONS FROM THE COUNTY THAT
+30 ISSUED THE BALLOT.
+31 2. THE COUNTY RECORDER OR OTHER OFFICER IN CHARGE OF ELECTIONS THAT
+32 INITIALLY RECEIVED THE EARLY BALLOT SHALL MAKE THE DELIVERY OR TRANSFER
+33 PRESCRIBED BY PARAGRAPH 1 OF THIS SUBSECTION SO THAT THE SECOND COUNTY
+34 RECORDER OR OTHER OFFICER IN CHARGE OF ELECTIONS RECEIVES THE EARLY BALLOT
+35 AND MAIL AFFIDAVIT WITHIN THREE DAYS AFTER ELECTION DAY.
+36 3. ON RECEIPT AS PRESCRIBED BY PARAGRAPH 2 OF THIS SUBSECTION, THE
+37 COUNTY OR OTHER JURISDICTION THAT ISSUED AND RECEIVED THE BALLOT AND MAIL
+38 AFFIDAVIT SHALL PROCESS THE EARLY BALLOT AS PRESCRIBED BY SUBSECTIONS A
+39 THROUGH F OF THIS SECTION AND SECTION 16-550.01, AND THAT BALLOT IS
+40 ELIGIBLE TO BE CONSIDERED FOR TABULATION.
+41 G. I. This section does not apply to:
+42 1. A special taxing district that is authorized pursuant to section
+43 16-191 to conduct its own elections.
+44 2. A special district mail ballot election that is conducted
+45 pursuant to article 8.1 of this chapter.
+-22-
+
+House Amendments to S.B. 1037
+1 Sec. 13. Section 16-572, Arizona Revised Statutes, is amended to
+2 read:
+3 16-572. Delivery and custody of ballots at voting center
+4 A. On opening the polls, the inspector shall produce the sealed
+5 package of official ballots and publicly open it and deliver one book or
+6 block of ballots therein contained to the judges. The other blocks or
+7 books of ballots, if any, shall be retained by the inspector until called
+8 for by the judges and required for voting.
+9 B. One of the judges of election shall keep the ballots within the
+10 polling place VOTING CENTER in plain view of the public and deliver them
+11 only to qualified voters.
+12 C. A person shall not take or remove a ballot from the polling
+13 place A VOTING LOCATION OR A DESIGNATED BALLOT RECEPTACLE before the polls
+14 are closed, EXCEPT THAT EARLY BALLOTS THAT ARE RETURNED AT VOTING
+15 LOCATIONS OR AT A DESIGNATED BALLOT RECEPTACLE MAY BE REMOVED BY TWO
+16 AUTHORIZED ELECTION WORKERS WHO MUST EACH BE A MEMBER OF A DIFFERENT ONE
+17 OF THE TWO LARGEST POLITICAL PARTIES, WHO HAVE COMPLETED A CHAIN OF
+18 CUSTODY LOG MAINTAINED AT THE VOTING LOCATION OR DESIGNATED BALLOT
+19 RECEPTACLE THAT INCLUDES THE TOTAL COUNT OF THE EARLY BALLOTS BEING
+20 TRANSPORTED AND WHO DELIVER THE BALLOTS TO A DESIGNATED RECEIVING SITE
+21 THAT IS AN OFFICIAL ELECTIONS FACILITY AND NOT A THIRD-PARTY VENDOR. THE
+22 CHAIN OF CUSTODY LOG FOR EARLY BALLOTS RETURNED AT VOTING LOCATIONS AND
+23 DESIGNATED BALLOT RECEPTACLES SHALL BE AVAILABLE FOR INSPECTION BY THE
+24 PUBLIC, THE POLITICAL PARTIES, THE COMMITTEES REPRESENTING ANY BALLOT
+25 MEASURES ON THE BALLOT AND THE CANDIDATES ON THE BALLOT WITHIN FORTY-EIGHT
+26 HOURS AFTER ELECTION DAY.
+27 Sec. 14. Section 16-1017, Arizona Revised Statutes, is amended to
+28 read:
+29 16-1017. Unlawful acts by voters with respect to voting;
+30 classification
+31 A voter who knowingly commits any of the following acts is guilty of
+32 a class 2 misdemeanor:
+33 1. Makes a false statement as to the voter's inability to mark a
+34 ballot.
+35 2. Interferes with a voter within the seventy-five foot limit of
+36 the polling place A VOTING CENTER as posted by the election marshal,
+37 WITHIN THE SEVENTY-FIVE FOOT LIMIT OF A DESIGNATED BALLOT RECEPTACLE or
+38 within seventy-five feet of the main outside entrance to an on-site early
+39 voting location established by a county recorder pursuant to section
+40 16-542, subsection A.
+41 3. Endeavors while within the seventy-five foot limit for a polling
+42 place VOTING CENTER, DESIGNATED BALLOT RECEPTACLE or on-site early voting
+43 location to induce a voter to vote for or against a particular candidate
+44 or issue.
+45 4. Prior to BEFORE the close of an election defaces or destroys a
+46 sample ballot posted by election officers, or defaces, tears down,
+47 removes or destroys a card of instructions posted for the instruction of
+48 voters.
+-23-
+
+House Amendments to S.B. 1037
+1 5. Removes or destroys supplies or conveniences furnished to enable
+2 a voter to prepare the voter's ballot.
+3 6. Hinders the voting of others.
+4 7. Votes in a county in which the voter no longer resides, except
+5 as provided in section 16-125.
+6 Sec. 15. Section 16-1018, Arizona Revised Statutes, is amended to
+7 read:
+8 16-1018. Additional unlawful acts by persons with respect to
+9 voting; classification
+10 A person who commits any of the following acts is guilty of a class
+11 2 misdemeanor:
+12 1. Knowingly electioneers on election day within a polling place
+13 VOTING LOCATION OR WITHIN THE SEVENTY-FIVE FOOT LIMIT FOR A DESIGNATED
+14 BALLOT RECEPTACLE or in a public manner within seventy-five feet of the
+15 main outside entrance of a polling place VOTING CENTER or on-site early
+16 voting location established by a county recorder pursuant to section
+17 16-542, subsection A.
+18 2. Intentionally disables or removes from the polling place VOTING
+19 CENTER, on-site early voting location or custody of an election official a
+20 voting machine or a voting record.
+21 3. Knowingly removes an official ballot from a polling place VOTING
+22 LOCATION, ON-SITE EARLY VOTING LOCATION OR DESIGNATED BALLOT RECEPTACLE
+23 before closing the polls.
+24 4. Shows another voter's ballot to any person after it is prepared
+25 for voting in such a manner as to reveal the contents, except to an
+26 authorized person lawfully assisting the voter. A voter who makes
+27 available an image of the voter's own ballot by posting on the internet or
+28 in some other electronic medium is deemed to have consented to
+29 retransmittal of that image and that retransmittal does not constitute a
+30 violation of this section.
+31 5. Knowingly solicits a voter to show the voter's ballot, or
+32 receives from a voter a ballot prepared for voting, unless the person is
+33 an election official or unless otherwise authorized by law.
+34 6. Knowingly receives an official ballot from a person other than
+35 an election official having charge of the ballots.
+36 7. Knowingly delivers an official ballot to a voter, unless the
+37 voter is an election official.
+38 8. Except for a completed ballot transmitted by an elector by fax
+39 or other electronic format pursuant to section 16-543, knowingly places a
+40 mark on the voter's ballot by which it can be identified as the one voted
+41 by the voter.
+42 9. After having received a ballot as a voter, knowingly fails to
+43 return the ballot to the election official before leaving the polling
+44 place VOTING LOCATION or on-site early voting location.
+45 10. KNOWINGLY INTERFERES WITH A VOTER OR KNOWINGLY ENGAGES IN
+46 CONDUCT THAT IS DIRECTED AT ONE OR MORE PERSONS WHO ARE DELIVERING OR
+47 ATTEMPTING TO DELIVER A VOTED BALLOT TO A LAWFUL RECIPIENT, A VOTING
+48 LOCATION OR A DESIGNATED BALLOT RECEPTACLE AND THAT CONSTITUTES HARASSMENT
+49 AS PRESCRIBED IN SECTION 13-2921.
+-24-
+
+House Amendments to S.B. 1037
+1 Sec. 16. Appropriations; secretary of state; elections;
+2 exemption
+3 A. The sum of $1,000,000 is appropriated from the state general
+4 fund in fiscal year 2026-2027 to the secretary of state for:
+5 1. Grants to assist counties to purchase equipment needed to
+6 convert to the use of voting centers. At least $500,000 shall be used for
+7 this purpose.
+8 2. Participation in a MULTISTATE ELECTRONIC VOTER REGISTRATION
+9 INFORMATION CENTER.
+10 3. Assistance for counties in establishing text-based early voting
+11 tracking systems and a text-based notice to cure system.
+12 B. The sum of $1,000,000 is appropriated from the state general
+13 fund in fiscal year 2026-2027 to the secretary of state for information
+14 technology and cybersecurity programs that support state and county
+15 elections.
+16 C. The appropriations made in subsections A and B of this section
+17 are exempt from the provisions of section 35-190, Arizona Revised
+18 Statutes, relating to lapsing of appropriations.
+19 Sec. 17. Short title
+20 This act may be cited as the "Voters First Act"."
+21 Amend title to conform
+AARON MÁRQUEZ
+1037MÁRQUEZ SE.docx
+03/09/2026
+09:05 AM
+H: RB/ra
+130ALOVLK
+-25-

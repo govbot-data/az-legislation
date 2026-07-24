@@ -1,0 +1,506 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Way - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2136: civil terrorism; disorderly conduct; subversion
+WAY FLOOR AMENDMENT
+1. Defines intent to coerce or intimidate a civilian population and intent to
+subvert the government.
+2. Outlines what acts and evidence may be used to establish when subversion is
+occurring.
+3. Asserts that advocacy, protest, dissent or political opposition without intent
+to use unlawful force does not constitute subversion.
+NM
+2/16/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Way
+Second Regular Session H.B. 2136
+WAY FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2136
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-2301, Arizona Revised Statutes, is amended to
+3 read:
+4 13-2301. Definitions
+5 A. For the purposes of sections 13-2302, 13-2303 and 13-2304:
+6 1. "Collect an extension of credit" means to induce in any way any
+7 person to make repayment of that extension.
+8 2. "Creditor" means any person making an extension of credit or any
+9 person claiming by, under or through any person making an extension of
+10 credit.
+11 3. "Debtor" means any person to whom an extension of credit is made
+12 or any person who guarantees the repayment of an extension of credit, or
+13 in any manner undertakes to indemnify the creditor against loss resulting
+14 from the failure of any person to whom an extension is made to repay the
+15 extension.
+16 4. "Extend credit" means to make or renew any loan or to enter into
+17 any agreement, tacit or express, whereby the repayment or satisfaction of
+18 any debt or claim, whether acknowledged or disputed, valid or invalid, and
+19 however arising, may or shall be deferred.
+20 5. "Extortionate extension of credit" means any extension of credit
+21 with respect to which it is the understanding of the creditor and the
+22 debtor when the extension is made that delay in making repayment or
+23 failure to make repayment could result in the use of violence or other
+24 criminal means to cause harm to the person or the reputation or property
+25 of any person.
+26 6. "Extortionate means" means the use, or an express or implicit
+27 threat of use, of violence or other criminal means to cause harm to the
+28 person or the reputation or property of any person.
+
+House Amendments to H.B. 2136
+1 7. "Repayment of any extension of credit" means the repayment,
+2 satisfaction or discharge in whole or in part of any debt or claim,
+3 acknowledged or disputed, valid or invalid, resulting from or in
+4 connection with that extension of credit.
+5 B. For the purposes of section 13-2305, 13-2306 or 13-2307:
+6 1. "Dealer in property" means a person who buys and sells property
+7 as a business.
+8 2. "Stolen property" means property of another as defined in
+9 section 13-1801 that has been the subject of any unlawful taking.
+10 3. "Traffic" means to sell, transfer, distribute, dispense or
+11 otherwise dispose of stolen property to another person, or to buy,
+12 receive, possess or obtain control of stolen property, with the intent to
+13 sell, transfer, distribute, dispense or otherwise dispose of the property
+14 to another person.
+15 C. For the purposes of this chapter:
+16 1. "Animal activity" means a commercial enterprise that uses
+17 animals for food, clothing or fiber production, agriculture or
+18 biotechnology.
+19 2. "Animal facility" means a building or premises where a
+20 commercial activity in which the use of animals is essential takes place,
+21 including a zoo, rodeo, circus, amusement park, hunting preserve and horse
+22 and dog event.
+23 3. "Animal or ecological terrorism" means any felony in violation
+24 of section 13-2312, subsection B that involves at least three persons
+25 acting in concert, that involves the intentional or knowing infliction of
+26 property damage in an amount of more than $10,000 to the property that is
+27 used by a person for the operation of a lawfully conducted animal activity
+28 or to a commercial enterprise that is engaged in a lawfully operated
+29 animal facility or research facility and that involves either:
+30 (a) The use of a deadly weapon or dangerous instrument.
+31 (b) The intentional or knowing infliction of serious physical
+32 injury on a person engaged in a lawfully conducted animal activity or
+33 participating in a lawfully conducted animal facility or research
+34 facility.
+35 4. "Biological agent" means any microorganism, virus, infectious
+36 substance or biological product that may be engineered through
+37 biotechnology or any naturally occurring or bioengineered component of any
+38 microorganism, virus, infectious substance or biological product and that
+39 is capable of causing any of the following:
+40 (a) Death, disease or physical injury in a human, animal, plant or
+41 other living organism.
+42 (b) The deterioration or contamination of air, food, water,
+43 equipment, supplies or material of any kind.
+44 5. "Combination" means persons who collaborate in carrying on or
+45 furthering the activities or purposes of a criminal syndicate even though
+46 such persons may not know each other's identity, membership in the
+47 combination changes from time to time or one or more members may stand in
+-2-
+
+House Amendments to H.B. 2136
+1 a wholesaler-retailer or other arm's length relationship with others as to
+2 activities or dealings between or among themselves in an illicit
+3 operation.
+4 6. "Communication service provider" has the same meaning prescribed
+5 in section 13-3001.
+6 7. "Criminal syndicate" means any combination of persons or
+7 enterprises engaging, or having the purpose of engaging, on a continuing
+8 basis in conduct that violates any one or more provisions of any felony
+9 statute of this state.
+10 8. "Explosive agent" means an explosive as defined in section
+11 13-3101 and flammable fuels or fire accelerants in amounts over fifty
+12 gallons but excludes:
+13 (a) Fireworks as defined in section 36-1601.
+14 (b) Firearms.
+15 (c) A propellant actuated device or propellant actuated industrial
+16 tool.
+17 (d) A device that is commercially manufactured primarily for the
+18 purpose of illumination.
+19 (e) A rocket having a propellant charge of less than four ounces.
+20 9. "Material support or resources" includes money or other
+21 financial securities, financial services, lodging, sustenance, training,
+22 safehouses, false documentation or identification, communications
+23 equipment, facilities, weapons, lethal substances, explosives, personnel,
+24 transportation, disguises and other physical assets but does not include
+25 medical assistance, legal assistance or religious materials.
+26 10. "Public establishment" means a structure, vehicle or craft that
+27 is owned, leased or operated by any of the following:
+28 (a) This state or a political subdivision as defined in section
+29 38-502.
+30 (b) A public agency as defined in section 38-502.
+31 (c) The federal government.
+32 (d) A health care institution as defined in section 36-401.
+33 (e) A private educational institution.
+34 11. "Research facility" means a laboratory, institution, medical
+35 care facility, government facility, public or private educational
+36 institution or nature preserve at which a scientific test, experiment or
+37 investigation involving the use of animals is lawfully carried out,
+38 conducted or attempted.
+39 12. "Terrorism":
+40 (a) Means any felony, including any completed or preparatory
+41 offense, that involves the use of a deadly weapon or a weapon of mass
+42 destruction or the intentional or knowing infliction of serious physical
+43 injury with the intent to do any of the following:
+44 (a) (i) Influence the policy or affect the conduct of this state
+45 or any of the political subdivisions, agencies or instrumentalities of
+46 this state.
+-3-
+
+House Amendments to H.B. 2136
+1 (b) (ii) Cause substantial damage to or substantial interruption
+2 of public communications, communication service providers, public
+3 transportation, common carriers, public utilities, public establishments
+4 or other public services.
+5 (c) (iii) Intimidate or coerce a civilian population.
+6 (d) (vi) Further the goals, desires, aims, public pronouncements,
+7 manifestos or political objectives of any terrorist organization.
+8 (b) DOES NOT INCLUDE CIVIL TERRORISM.
+9 13. "Terrorist organization" means any organization that is
+10 designated by the United States department of state as a foreign terrorist
+11 organization under section 219 of the immigration and nationality act
+12 (8 United States Code section 1189).
+13 14. "Toxin" means the toxic material of plants, animals,
+14 microorganisms, viruses, fungi or infectious substances or a recombinant
+15 molecule, whatever its origin or method of reproduction, including:
+16 (a) Any poisonous substance or biological product that may be
+17 engineered through biotechnology and that is produced by a living
+18 organism.
+19 (b) Any poisonous isomer or biological product, homolog or
+20 derivative of such a substance.
+21 15. "Vector" means a living organism or molecule, including a
+22 recombinant molecule or biological product that may be engineered through
+23 biotechnology, that is capable of carrying a biological agent or toxin to
+24 a host.
+25 16. "Weapon of mass destruction" means:
+26 (a) Any device or object that is designed or that the person
+27 intends to use to cause multiple deaths or serious physical injuries
+28 through the use of an explosive agent or the release, dissemination or
+29 impact of a toxin, biological agent or poisonous chemical, or its
+30 precursor, or any vector.
+31 (b) Except as authorized and used in accordance with a license,
+32 registration or exemption by the department of health services pursuant to
+33 section 30-672, any device or object that is designed or that the person
+34 intends to use to release radiation or radioactivity at a level that is
+35 dangerous to human life.
+36 D. For the purposes of sections 13-2312, 13-2313, 13-2314 and
+37 13-2315, unless the context otherwise requires:
+38 1. "Control", in relation to an enterprise, means the possession of
+39 sufficient means to allow substantial direction over the affairs of an
+40 enterprise and, in relation to property, means to acquire or possess.
+41 2. "Enterprise" means any corporation, partnership, association,
+42 labor union or other legal entity or any group of persons associated in
+43 fact although not a legal entity.
+44 3. "Financial institution" means a banking or securities regulatory
+45 agency of the United States, a business coming within the definition of a
+46 bank, financial agency or financial institution as prescribed by 31 United
+47 States Code section 5312 or 31 Code of Federal Regulations section
+-4-
+
+House Amendments to H.B. 2136
+1 1010.100 or a business under the jurisdiction of the securities division
+2 of the corporation commission, the state real estate department or the
+3 department of insurance and financial institutions.
+4 4. "Racketeering" means any act, including any preparatory or
+5 completed offense, that is chargeable or indictable under the laws of the
+6 state or country in which the act occurred and, if the act occurred in a
+7 state or country other than this state, that would be chargeable or
+8 indictable under the laws of this state if the act had occurred in this
+9 state, and that would be punishable by imprisonment for more than one year
+10 under the laws of this state and, if the act occurred in a state or
+11 country other than this state, under the laws of the state or country in
+12 which the act occurred, regardless of whether the act is charged or
+13 indicted, and the act involves either:
+14 (a) Terrorism, animal terrorism or ecological terrorism that
+15 results or is intended to result in a risk of serious physical injury or
+16 death.
+17 (b) Any of the following acts if committed for financial gain:
+18 (i) Homicide.
+19 (ii) Robbery.
+20 (iii) Kidnapping.
+21 (iv) Forgery.
+22 (v) Theft.
+23 (vi) Bribery.
+24 (vii) Gambling.
+25 (viii) Usury.
+26 (ix) Extortion.
+27 (x) Extortionate extensions of credit.
+28 (xi) Prohibited drugs, marijuana or other prohibited chemicals or
+29 substances.
+30 (xii) Trafficking in explosives, weapons or stolen property.
+31 (xiii) Participating in a criminal syndicate.
+32 (xiv) Obstructing or hindering criminal investigations or
+33 prosecutions.
+34 (xv) Asserting false claims, including false claims asserted
+35 through fraud or arson.
+36 (xvi) Intentional or reckless false statements or publications
+37 concerning land for sale or lease or sale of subdivided lands or sale and
+38 mortgaging of unsubdivided lands.
+39 (xvii) Resale of realty with intent to defraud.
+40 (xviii) Intentional or reckless fraud in the purchase or sale of
+41 securities.
+42 (xix) Intentional or reckless sale of unregistered securities or
+43 real property securities.
+44 (xx) A scheme or artifice to defraud.
+45 (xxi) Obscenity.
+46 (xxii) Sexual exploitation of a minor.
+47 (xxiii) Prostitution.
+-5-
+
+House Amendments to H.B. 2136
+1 (xxiv) Restraint of trade or commerce in violation of section
+2 34-252.
+3 (xxv) Terrorism.
+4 (xxvi) Money laundering.
+5 (xxvii) Obscene or indecent telephone communications to minors for
+6 commercial purposes.
+7 (xxviii) Counterfeiting marks as proscribed in section 44-1453.
+8 (xxix) Animal terrorism or ecological terrorism.
+9 (xxx) Smuggling of human beings.
+10 (xxxi) Child sex trafficking.
+11 (xxxii) Sex trafficking.
+12 (xxxiii) Trafficking of persons for forced labor or services.
+13 (xxxiv) Manufacturing, selling or distributing misbranded drugs in
+14 violation of section 13-3406, subsection A, paragraph 9.
+15 (xxxv) Holding an unauthorized racing meeting as proscribed in
+16 section 5-107.01.
+17 (c) FELONY DISORDERLY CONDUCT, RIOT, CIVIL TERRORISM OR SUBVERSION.
+18 5. "Records" means any book, paper, writing, computer program,
+19 data, image or information that is collected, recorded, preserved or
+20 maintained in any form of storage medium.
+21 6. "Remedy racketeering" means to enter a civil judgment pursuant
+22 to this chapter or chapter 39 of this title against property or a person
+23 who is subject to liability, including liability for injury to the state
+24 that is caused by racketeering or by actions in concert with racketeering.
+25 E. For the purposes of sections 13-2316, 13-2316.01 and 13-2316.02:
+26 1. "Access" means to instruct, communicate with, store data in,
+27 retrieve data from or otherwise make use of any resources of a computer,
+28 computer system or network.
+29 2. "Access device" means any card, token, code, account number,
+30 electronic serial number, mobile or personal identification number,
+31 password, encryption key, biometric identifier or other means of account
+32 access, including a canceled or revoked access device, that can be used
+33 alone or in conjunction with another access device to obtain money, goods,
+34 services, computer or network access or any other thing of value or that
+35 can be used to initiate a transfer of any thing of value.
+36 3. "Computer" means an electronic device that performs logic,
+37 arithmetic or memory functions by the manipulations of electronic or
+38 magnetic impulses and includes all input, output, processing, storage,
+39 software or communication facilities that are connected or related to such
+40 a device in a system or network.
+41 4. "Computer contaminant" means any set of computer instructions
+42 that is designed to modify, damage, destroy, record or transmit
+43 information within a computer, computer system or network without the
+44 intent or permission of the owner of the information, computer system or
+45 network. Computer contaminant includes a group of computer instructions,
+46 such as viruses or worms, that is self-replicating or self-propagating and
+47 that is designed to contaminate other computer programs or computer data,
+-6-
+
+House Amendments to H.B. 2136
+1 to consume computer resources, to modify, destroy, record or transmit data
+2 or in some other fashion to usurp the normal operation of the computer,
+3 computer system or network.
+4 5. "Computer program" means a series of instructions or statements,
+5 in a form acceptable to a computer, that allow the functioning of a
+6 computer system in a manner designed to provide appropriate products from
+7 the computer system.
+8 6. "Computer software" means a set of computer programs, procedures
+9 and associated documentation concerned with the operation of a computer
+10 system.
+11 7. "Computer system" means a set of related, connected or
+12 unconnected computer equipment, devices and software, including storage,
+13 media and peripheral devices.
+14 8. "Critical infrastructure resource" means any computer or
+15 communications system or network that is involved in providing services
+16 necessary to ensure or protect the public health, safety or welfare,
+17 including services that are provided by any of the following:
+18 (a) Medical personnel and institutions.
+19 (b) Emergency services agencies.
+20 (c) Public and private utilities, including water, power,
+21 communications and transportation services.
+22 (d) Fire departments, districts or volunteer organizations.
+23 (e) Law enforcement agencies.
+24 (f) Financial institutions.
+25 (g) Public educational institutions.
+26 (h) Government agencies.
+27 9. "False or fraudulent pretense" means the unauthorized use of an
+28 access device or the use of an access device to exceed authorized access.
+29 10. "Financial instrument" means any check, draft, money order,
+30 certificate of deposit, letter of credit, bill of exchange, credit card or
+31 marketable security or any other written instrument as defined in section
+32 13-2001 that is transferable for value.
+33 11. "Network" includes a complex of interconnected computer or
+34 communication systems of any type.
+35 12. "Property" means financial instruments, information, including
+36 electronically produced data, computer software and programs in either
+37 machine or human readable form, and anything of value, tangible or
+38 intangible.
+39 13. "Proprietary or confidential computer security information"
+40 means information about a particular computer, computer system or network
+41 that relates to its access devices, security practices, methods and
+42 systems, architecture, communications facilities, encryption methods and
+43 system vulnerabilities and that is not made available to the public by its
+44 owner or operator.
+45 14. "Services" includes computer time, data processing, storage
+46 functions and all types of communication functions.
+-7-
+
+House Amendments to H.B. 2136
+1 Sec. 2. Title 13, chapter 23, Arizona Revised Statutes, is amended
+2 by adding sections 13-2308.04 and 13-2308.05, to read:
+3 13-2308.04. Civil terrorism; classification
+4 A. A PERSON COMMITS CIVIL TERRORISM IF THE PERSON COMMITS
+5 VANDALISM, DESTRUCTION OF PROPERTY, DISORDERLY CONDUCT, DEPRIVATION OF
+6 CIVIL RIGHTS OR ANY OTHER UNLAWFUL ACT WITH THE INTENT TO COERCE OR
+7 INTIMIDATE A CIVILIAN POPULATION. [FOR THE PURPOSES OF THIS SUBSECTION,
+8 "INTENT TO COERCE OR INTIMIDATE A CIVILIAN POPULATION" MEANS THE PERSON
+9 ACTED WITH THE CONSCIOUS OBJECTIVE TO COMPEL A BROAD CLASS OF PERSONS TO
+10 ACT OR REFRAIN FROM ACTING THROUGH THE USE OR THREAT OF UNLAWFUL ACTIVITY
+11 OR PHYSICAL DAMAGE TO PROPERTY.
+12 B. A VIOLATION OF SUBSECTION A OF THIS SECTION MAY BE ESTABLISHED
+13 BY EVIDENCE THAT INCLUDES ANY OF THE FOLLOWING:
+14 1. PLANNING, PREPARING OR COORDINATING ACTS THAT ARE DESIGNED TO
+15 CAUSE WIDESPREAD FEAR, PHYSICAL INJURY OR SUBSTANTIAL PROPERTY DAMAGE.
+16 2. USING WEAPONS, DANGEROUS INSTRUMENTS, EXPLOSIVES, INCENDIARY
+17 DEVICES OR MATERIALS THAT ARE INTENDED TO CAUSE SIGNIFICANT DESTRUCTION.
+18 3. TARGETING CRITICAL INFRASTRUCTURE, PUBLIC UTILITIES,
+19 TRANSPORTATION SYSTEMS, GOVERNMENT BUILDINGS OR PUBLIC ESTABLISHMENTS.
+20 4. MAKING STATEMENTS, COMMUNICATIONS, MANIFESTOS OR DIRECTIVES
+21 BEFORE, DURING OR AFTER THE ACT THAT ADVOCATE OR DIRECT THE USE OF
+22 VIOLENCE OR UNLAWFUL FORCE TO INFLUENCE THE BEHAVIOR OF A CIVILIAN
+23 POPULATION.
+24 5. PARTICIPATING IN AN ORGANIZED EFFORT INVOLVING TWO OR MORE
+25 PERSONS IN WHICH THE UNLAWFUL ACTS WERE COORDINATED TO ACHIEVE WIDESPREAD
+26 DISRUPTION THROUGH VIOLENT OR DESTRUCTIVE MEANS.
+27 C. EVIDENCE THAT A PERSON EXPRESSED POLITICAL, SOCIAL OR IDEOLOGICAL
+28 VIEWS, WITHOUT ACCOMPANYING EVIDENCE OF INTENT TO USE OR THREATEN UNLAWFUL
+29 ACTIVITY OR SUBSTANTIAL PROPERTY DESTRUCTION, IS NOT SUFFICIENT TO
+30 ESTABLISH A VIOLATION OF SUBSECTION A OF THIS SECTION.]
+31 [B.] [D.] CIVIL TERRORISM IS A CLASS 5 FELONY.
+32 13-2308.05. Subversion; classification; definition
+33 A. A PERSON COMMITS SUBVERSION IF THE PERSON COMMITS AN UNLAWFUL
+34 ACT WITH THE INTENT TO DO ANY OF THE FOLLOWING:
+35 1. ADVANCE THE INTERESTS OF A TERRORIST ORGANIZATION.
+36 2. ATTEMPT TO ACT AS A FOREIGN GOVERNMENT AGENT AS DEFINED IN
+37 SECTION 13-4006.
+38 3. SUBVERT THE GOVERNMENT OF THIS STATE OR THE UNITED STATES.
+39 [B. FOR THE PURPOSES OF SUBSECTION A OF THIS SECTION, "INTENT TO
+40 SUBVERT THE GOVERNMENT" MEANS THE CONSCIOUS OBJECTIVE TO IMPAIR, OVERTHROW
+41 OR PREVENT THE FUNCTIONING OF GOVERNMENT THROUGH UNLAWFUL VIOLENCE, FORCE
+42 OR THE DESTRUCTION OF PROPERTY.
+43 C. A VIOLATION OF SUBSECTION A OF THIS SECTION MAY BE ESTABLISHED
+44 BY EVIDENCE THAT INCLUDES ANY OF THE FOLLOWING:
+45 1. PLANNING OR ENGAGING IN ACTS THAT ARE INTENDED TO CAUSE SERIOUS
+46 PHYSICAL INJURY, DEATH OR SUBSTANTIAL DESTRUCTION OF GOVERNMENT PROPERTY.
+-8-
+
+House Amendments to H.B. 2136
+1 2. ATTEMPTING TO SEIZE, DAMAGE OR DISABLE CRITICAL GOVERNMENT
+2 FACILITIES, PUBLIC INFRASTRUCTURE OR COMMUNICATION SYSTEMS.
+3 3. USING OR PLANNING TO USE WEAPONS, EXPLOSIVES OR OTHER
+4 DESTRUCTIVE DEVICES.
+5 4. COORDINATING ACTION WITH OTHERS IN WHICH THE UNLAWFUL OBJECTIVE
+6 INVOLVES VIOLENT INTERFERENCE WITH GOVERNMENTAL OPERATIONS.
+7 D. ADVOCACY, PROTEST, DISSENT OR POLITICAL OPPOSITION, WITHOUT
+8 EVIDENCE OF INTENT TO USE OR THREATEN UNLAWFUL VIOLENCE OR FORCE, DOES NOT
+9 CONSTITUTE SUBVERSION UNDER THIS SECTION.]
+10 [B.] [E.] SUBVERSION IS A CLASS 5 FELONY.
+11 Sec. 3. Section 13-2904, Arizona Revised Statutes, is amended to
+12 read:
+13 13-2904. Disorderly conduct; classification
+14 A. A person commits disorderly conduct if, with intent to disturb
+15 the peace or quiet of a neighborhood, family or person, or with knowledge
+16 of doing so, such person:
+17 1. Engages in fighting, violent or seriously disruptive behavior;
+18 or
+19 2. Makes unreasonable noise; or
+20 3. Uses abusive or offensive language or gestures to any person
+21 present in a manner likely to provoke immediate physical retaliation by
+22 such person; or
+23 4. Makes any protracted commotion, utterance or display with the
+24 intent to prevent the transaction of the business of a lawful meeting,
+25 gathering or procession; or
+26 5. Refuses to obey a lawful order to disperse issued to maintain
+27 public safety in dangerous proximity to a fire, a hazard or any other
+28 emergency; or
+29 6. Recklessly handles, displays or discharges a deadly weapon or
+30 dangerous instrument.
+31 B. Disorderly conduct under:
+32 1. Subsection A, paragraph 6 OF THIS SECTION is a class 6 felony
+33 UNLESS THE DISORDERLY CONDUCT IS COMMITTED BY A GROUP COMPRISED OF AT
+34 LEAST THREE PERSONS, IN WHICH CASE THE OFFENSE IS A CLASS 5 FELONY.
+35 Disorderly conduct under
+36 2. Subsection A, paragraph 1, 2, 3, 4 or 5 OF THIS SECTION is a
+37 class 1 misdemeanor UNLESS THE DISORDERLY CONDUCT IS COMMITTED BY A GROUP
+38 COMPRISED OF AT LEAST THREE PERSONS, IN WHICH CASE THE OFFENSE IS A CLASS
+39 6 FELONY.
+40 Sec. 4. Section 13-2906, Arizona Revised Statutes, is amended to
+41 read:
+42 13-2906. Obstructing a highway or other public thoroughfare;
+43 classification; definition
+44 A. A person commits obstructing a highway or other public
+45 thoroughfare if the person, alone or with other persons, does any of the
+46 following:
+-9-
+
+House Amendments to H.B. 2136
+1 1. Having no legal privilege to do so, recklessly interferes with
+2 the passage of any highway or public thoroughfare by creating an
+3 unreasonable inconvenience or hazard.
+4 2. Intentionally activates a pedestrian signal on a highway or
+5 public thoroughfare if the person's reason for activating the signal is
+6 not to cross the highway or public thoroughfare but to do both of the
+7 following:
+8 (a) Stop the passage of traffic on the highway or public
+9 thoroughfare.
+10 (b) Solicit a driver for a donation or business.
+11 3. After receiving a verbal warning to desist, intentionally
+12 interferes with passage on a highway or other public thoroughfare or
+13 entrance into a public forum that results in preventing other persons from
+14 gaining access to a governmental meeting, a governmental hearing or a
+15 political campaign event.
+16 B. Obstructing a highway or other public thoroughfare under:
+17 1. Subsection A, paragraph 3 of this section is a class 1
+18 misdemeanor.
+19 2. Subsection A, paragraph 1 of this section is a class 2
+20 misdemeanor, except that a second or subsequent violation within a period
+21 of twenty-four months is a class 1 misdemeanor.
+22 3. Subsection A, paragraph 2 of this section is a class 3
+23 misdemeanor.
+24 C. NOTWITHSTANDING SUBSECTION B OF THIS SECTION, OBSTRUCTING A
+25 HIGHWAY OR OTHER PUBLIC THOROUGHFARE UNDER SUBSECTION A, PARAGRAPH 1, 2 OR
+26 3 OF THIS SECTION IS A CLASS 6 FELONY IF THE OBSTRUCTION IS COMMITTED BY A
+27 GROUP COMPRISED OF AT LEAST THREE PERSONS.
+28 C. D. For the purposes of this section, "public forum" has the
+29 same meaning prescribed in section 15-1861.
+30 Sec. 5. Effective date
+31 This act is effective from and after December 31, 2026.
+32 Enroll and engross to conform
+33 Amend title to conform
+MICHAEL WAY
+2136FloorWAY.docx
+02/17/2026
+03:44 PM
+H: NM/ls
+130PJDTZI
+-10-

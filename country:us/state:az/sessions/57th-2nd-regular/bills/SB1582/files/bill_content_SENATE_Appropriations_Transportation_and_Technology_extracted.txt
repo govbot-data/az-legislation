@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Appropriations, Transportation and Technology
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Appropriations, Transportation and Technology
+Second Regular Session S.B. 1582
+COMMITTEE ON APPROPRIATIONS, TRANSPORTATION AND TECHNOLOGY
+SENATE AMENDMENTS TO S.B. 1582
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 41-1733, Arizona Revised Statutes, is amended
+3 to read:
+4 41-1733. School safety interoperability fund; school safety
+5 program; annual report; testing
+6 A. The school safety interoperability fund is established
+7 consisting of monies appropriated to the fund by the legislature. The
+8 department of administration shall administer the fund. Monies in the
+9 fund are continuously appropriated. Monies in the fund shall be
+10 distributed to the sheriff of a county or a city or town police department
+11 that establishes a school safety program and may be used only for a school
+12 safety program that meets all of the following:
+13 1. Encompasses schools throughout this state.
+14 2. In a school safety program county[, CITY OR TOWN], enables the
+15 deployment of a secure, multimedia data communications system to a user
+16 base consisting of public safety agencies and [public schools] [SCHOOL
+17 DISTRICTS] providing instruction in any combination of kindergarten
+18 programs and grades one through twelve.
+19 3. Provides a communications solution environment that allows for:
+20 (a) Identifying system users' identity, location and operational
+21 status during an incident.
+22 (b) Secure text messaging and file sharing [to all users involved
+23 in] [DURING] an incident.
+
+Senate Amendments to S.B. 1582
+1 (c) Secure sharing of collaborative maps, building floor plans and
+2 images between schools and public safety agencies.
+3 (d) Integrating manually activated panic alarm systems that, when
+4 activated, establish direct collaboration between schools and public
+5 safety agencies.
+6 (e) Using multiple forms of real-time communications and
+7 information collaboration, including voice and [, IF FEASIBLE,]
+8 full-motion video sharing, during an incident.
+9 4. Is capable of being deployed to end users on existing
+10 communications assets owned by participating entities.
+11 5. Allows each participating entity to maintain discretionary
+12 real-time control of all communications assets owned or operated by the
+13 entity.
+14 6. Encrypts all media communications.
+15 7. Is certified under the United States department of homeland
+16 security safety act as qualified anti-terrorism technology.
+17 8. Is compatible with the federal emergency management agency
+18 interoperable gateway system for disaster communications.
+19 9. Ensures student and staff privacy.
+20 10. Enables integration to school access control systems to allow
+21 remote lockdown by law enforcement through the same multimedia system.
+22 B. On or before November 1 of each year, the sheriff of a county or
+23 a city or town police department that has established a school safety
+24 program pursuant to this section shall submit a report to the joint
+25 legislative budget committee of all expenditures made for the school
+26 safety program in the preceding fiscal year.
+27 [C. EACH PARTICIPATING SCHOOL DISTRICT SHALL TEST THE SCHOOL SAFETY
+28 PROGRAM NOT LESS THAN TWICE EACH CALENDAR YEAR TO ENSURE FUNCTIONALITY.]>>
+29 Sec. 2. Appropriation: school safety interoperability fund;
+30 distributions
+31 [A.] The sum of $3,200,000 is appropriated from the state general
+32 fund in fiscal year 2026-2027 to the [department of education for the
+33 school safety program established by section 15-154, Arizona Revised
+34 Statutes] [school safety interoperability fund established by section
+35 41-1733, Arizona Revised Statutes, as amended by this act].
+36 [B. Notwithstanding any other law, in fiscal year 2026-2027, the
+37 department of administration may distribute monies in the fund to the
+38 following sheriffs' offices in the following amounts for continuing
+39 operation and maintenance of school safety programs authorized pursuant to
+40 section 41-1733, Arizona Revised Statutes, as amended by this act:
+41 1. $275,000 to Apache county sheriff's office.
+42 2. $280,000 to Gila county sheriff's office.
+43 3. $280,000 to Graham county sheriff's office.
+44 4. $170,000 to Greenlee county sheriff's office.
+-2-
+
+Senate Amendments to S.B. 1582
+1 5. $200,000 to La Paz county sheriff's office.
+2 6. $525,000 to Mohave county sheriff's office.
+3 7. $540,000 to Navajo county sheriff's office.
+4 8. $350,000 to Santa Cruz county sheriff's office.
+5 9. $600,000 to Yavapai county sheriff's office.]
+6 Enroll and engross to conform
+7 Amend title to conform
+1582ATT.docx
+02/20/2026
+4:31 PM
+C: JR
+130UPJBRS
+-3-

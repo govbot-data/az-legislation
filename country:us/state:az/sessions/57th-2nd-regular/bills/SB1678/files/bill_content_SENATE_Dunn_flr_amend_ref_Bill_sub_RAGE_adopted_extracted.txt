@@ -1,0 +1,456 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Dunn flr amend (ref Bill) (sub RAGE) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1678
+Dunn SUBSTITUTE Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Requires each assisted living center or home that contacts an emergency responder on behalf of a
+resident to:
+a) note in the resident’s record that the assisted living center or home provided the written
+document of patient information required in accordance with statute to the emergency
+responder; and
+b) obtain written or electronic acknowledgement from the emergency responder that the
+emergency responder received the written document.
+2. Removes the requirement for an employee of a health care institution, group home or
+behavioral-supported group home who provides direct care to a patient or resident to complete a
+form prescribed by the Department of Health Services (DHS), which may be electronic, for each
+patient or resident under the employee's care to update the patient's or resident's information before
+the end of the employee's workday or shift and another employee assumes the care of the patient
+or resident.
+3. Requires DHS, if the department receives a complaint from an emergency medical care technician
+or peace officer alleging that a health care institution failed to provide a patient’s or resident’s
+do-not-resuscitate order or other advance directive, if on file with the health care institution, after
+requesting emergency medical services, to determine whether the health care institution:
+a) is in compliance with the patient information disclosure requirements in accordance with
+statute;
+b) has policies and procedures established, documented and implemented that cover advance
+directives, including do-not-resuscitate orders; and
+c) complied with the policies and procedures in the situation that was basis for the complaint.
+4. Requires DHS, if the department receives a complaint from an emergency medical care technician
+or peace officer alleging that a group home or behavioral-supported group home failed to provide
+a resident’s do-not-resuscitate order or other advance directive, if on file with the group home or
+behavioral-supported group home, after requesting emergency medical services, to determine
+whether the group home or behavioral-supported group home:
+a) has policies and procedures established, documented and implemented that cover advance
+directives, including do-not-resuscitate orders; and
+b) complied with the policies and procedures in the situation that was basis for the complaint.
+5. States that the compliance requirements for advance directives do not require a patient or resident
+to have any advance directive, including a do-not-resuscitate order, on file with a health care
+institution, group home or behavioral-supported group home unless otherwise specified by law.
+6. Defines emergency medical technician.
+Amendment explanation prepared by Hayden Darst
+3/2/2026
+
+Fifty-seventh Legislature Dunn
+Second Regular Session S.B. 1678
+DUNN SUBSTITUTE FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1678
+I move the following SUBSTITUTE amendment to the REGULATORY AFFAIRS AND GOVERNMENT
+EFFICIENCY Committee Amendment to
+SENATE BILL 1678 (Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 36-420.04, Arizona Revised Statutes, is
+3 amended to read:
+4 36-420.04. Assisted living centers and homes; emergency
+5 responders; resident information; hospitals;
+6 discharge planning; patient screenings;
+7 discharge documents
+8 A. An assisted living center or assisted living home that contacts
+9 an emergency responder on behalf of a resident shall provide to the
+10 emergency responder a written document that includes all of the following:
+11 1. The reason or reasons the emergency responder was requested on
+12 behalf of the resident.
+13 2. Whether the resident receives medication services and, if the
+14 resident has provided this information to the assisted living center or
+15 assisted living home, a list of all the resident's prescription and
+16 over-the-counter medications, their dosages and how frequently they are
+17 administered.
+18 3. The name, address and telephone number of the resident's current
+19 pharmacy.
+20 4. A list of any known allergies to any medications, additives,
+21 preservatives or materials [like] [, SUCH AS] latex or adhesive.
+22 5. The name and contact information for the resident's primary care
+23 physician and power of attorney or authorized representative.
+24 6. Basic information about the resident's physical and mental
+25 conditions and basic medical history, such as having diabetes or a
+
+Senate Amendments to S.B. 1678
+1 pacemaker or experiencing frequent falls or cardiovascular and
+2 cerebrovascular events, as well as dates of recent episodes, if known.
+3 7. The point-of-contact information for the assisted living center
+4 or assisted living home, including the telephone number [AND], if
+5 available, [A] cell phone number and email address. A point of contact
+6 must be available to respond to questions regarding the information
+7 provided twenty-four hours a day, seven days a week.
+8 8. A copy of the resident's health insurance portability and
+9 accountability act release authorizing a receiving hospital to communicate
+10 with the assisted living center or assisted living home to plan for the
+11 resident's discharge. This paragraph does not preclude a resident from
+12 revoking the resident's health insurance portability and accountability
+13 act release authorization.
+14 9. A copy of the resident's advance directives, if any, on file at
+15 the assisted living center or assisted living home. This paragraph does
+16 not preclude a resident from revoking or modifying the resident's advance
+17 directives.
+18 [B. EACH ASSISTED LIVING CENTER OR ASSISTED LIVING HOME THAT
+19 CONTACTS AN EMERGENCY RESPONDER ON BEHALF OF A RESIDENT SHALL NOTE IN THE
+20 RESIDENT'S RECORD THAT THE ASSISTED LIVING CENTER OR ASSISTED LIVING HOME
+21 PROVIDED THE DOCUMENT REQUIRED BY SUBSECTION A OF THIS SECTION TO THE
+22 EMERGENCY RESPONDER AND SHALL OBTAIN WRITTEN OR ELECTRONIC ACKNOWLEDGMENT
+23 FROM THE EMERGENCY RESPONDER THAT THE EMERGENCY RESPONDER RECEIVED THE
+24 DOCUMENT.]
+25 [B.] [C.] The assisted living center or assisted living home must
+26 notify the resident's authorized representative that the resident was
+27 transported to a hospital and provide the name and location of the
+28 hospital.
+29 [C.] [D.] Each assisted living center and assisted living home
+30 must maintain a standardized form for each resident that includes the
+31 information prescribed in subsection A of this section, except for the
+32 information prescribed in subsection A, paragraph 1 of this section, which
+33 shall be provided at the time the emergency responder is contacted. Each
+34 assisted living center and assisted living home shall periodically update
+35 this form for each resident as necessary.
+36 [D.] [E.] An assisted living center or assisted living home shall
+37 maintain a copy of the document provided to the emergency responder and
+38 documentation of the actions required by subsection [B ] [C] of this
+39 section for a period of two years after the date of the emergency.
+40 [E.] [F.] If the emergency responder transports the resident to a
+41 hospital, the emergency responder shall provide a copy of the written
+42 document required by subsection A of this section to the receiving
+43 hospital.
+44 [F.] [G.] To protect the health and safety of patients being
+45 transferred by a hospital to an assisted living center or assisted living
+46 home, a discharging hospital shall coordinate with the health care
+47 institution from which the patient has been transferred or the health care
+-2-
+
+Senate Amendments to S.B. 1678
+1 institution to which the patient will be discharged and shall provide a
+2 written discharge plan for each inpatient. The discharge plan shall:
+3 1. Be prepared by appropriate staff.
+4 2. Include point-of-contact information for the discharging
+5 hospital, including a telephone number and, if available, an email
+6 address. The hospital's point of contact shall monitor the telephone and,
+7 if available, the email address provided and shall promptly respond to any
+8 inquiry. For forty-eight hours after discharge, the discharging
+9 hospital's designated point of contact must be available to respond to the
+10 receiving assisted living center or assisted living home to assist in
+11 returning or admitting the patient to the facility and to clarify any
+12 needed information in the discharge plan. Hospitals shall have a
+13 qualified hospital representative respond to discharge plan questions
+14 received from the assisted living center or assisted living home.
+15 3. Document the patient's discharge evaluation and provide an
+16 assessment of the patient's medical or health conditions, including:
+17 (a) Any documented pressure injuries or ulcers, the location on the
+18 body and the assessed stage level.
+19 (b) Cognitive or physical conditions or impairments.
+20 (c) The patient's weight-bearing status.
+21 (d) Specified dietary requirements, if applicable.
+22 (e) Whether the patient requires continuous medical services or
+23 continuous or intermittent nursing services or restraints.
+24 (f) Whether the patient requires specialized medical equipment or
+25 home health services and a copy of the hospital's orders for that
+26 equipment or those services.
+27 (g) Follow-up health care services and other services recommended
+28 for the patient.
+29 4. Include, if applicable, a copy of any prescription that was
+30 transmitted to the patient's current pharmacy as designated in subsection
+31 A of this section or the medication summary or medication instructions.
+32 The copy of the prescription or medication summary or medication
+33 instructions shall include the patient's name, medication administration
+34 instructions and the signature of the prescriber or a record that the
+35 prescription was electronically signed by the prescriber.
+36 5. Document that the hospital notified the receiving assisted
+37 living center or assisted living home of any new device orders for the
+38 patient.
+39 6. Document that the discharging hospital notified the patient's
+40 authorized representative that the patient was discharged and provided the
+41 name, location and contact information of the receiving facility.
+42 [G.] [H.] The discharging hospital shall contact the assisted
+43 living center or assisted living home from which the patient entered the
+44 hospital, after initial inpatient assessment, to discuss an evaluation of
+45 the patient's likely postdischarge health care needs. The hospital shall
+46 reevaluate and discuss with the assisted living center or assisted living
+47 home from which the patient entered the hospital the patient's condition,
+-3-
+
+Senate Amendments to S.B. 1678
+1 as appropriate, to identify changes to the patient's condition that may
+2 impact the patient's postdischarge health care needs, including
+3 recommendations, if any, by the hospital to transfer the patient to a
+4 different facility other than the facility from which the patient entered
+5 the hospital to address the patient's higher care needs. The discharging
+6 hospital shall provide an opportunity for a patient screening before
+7 discharge by the assisted living center or assisted living home from which
+8 the patient entered the hospital or to which the patient is being
+9 referred. The assisted living center or assisted living home shall
+10 determine through a screening and a review of or discussion about medical
+11 records whether the patient's postdischarge care needs, including
+12 additional ordered services, are within the facility's scope of services.
+13 After receiving notification from the discharging hospital, the assisted
+14 living center or assisted living home shall perform the screening
+15 promptly. For on-site screenings, the staff of the assisted living center
+16 or assisted living home may be required to follow standard hospital
+17 security and identification requirements. If the assisted living center
+18 or assisted living home from which the patient entered the hospital can no
+19 longer meet the patient's needs, the facility shall provide documentation
+20 to the hospital demonstrating the reasons why the facility cannot accept
+21 the patient back to the facility.
+22 [H.] [I.] For patients being transferred from a hospital to an
+23 assisted living center or assisted living home who have not previously
+24 been admitted to the assisted living center or assisted living home, the
+25 hospital shall coordinate with the assisted living center or assisted
+26 living home to allow time to expeditiously obtain documentation from a
+27 physician, registered nurse practitioner, registered nurse or physician
+28 assistant coordinating the level of care needed in the assisted living
+29 center or assisted living home.
+30 [I.] [J.] For emergency department or observation patients, the
+31 hospital shall provide the assisted living center or assisted living home
+32 from which the patient entered the hospital with a point of contact,
+33 including a telephone number and, if available, an email address. The
+34 hospital's point of contact shall monitor the telephone and, if available,
+35 the email address provided and promptly respond to any inquiry. For
+36 forty-eight hours after discharge, the discharging hospital's designated
+37 point of contact must be available to respond to the receiving assisted
+38 living center or assisted living home to assist in returning or admitting
+39 the patient to the assisted living center or assisted living home and to
+40 clarify any needed information in the discharge plan. Hospitals shall
+41 have a qualified hospital representative respond to discharge plan
+42 questions received from the assisted living center or assisted living
+43 home. The hospital shall also provide the patient's assisted living
+44 center or assisted living home with any new prescription orders as
+45 prescribed in subsection [F ] [G], paragraph 4 of this section, a record
+46 of medications administered and any identified follow-up care services
+47 recommended for the patient. The hospital shall provide the additional
+-4-
+
+Senate Amendments to S.B. 1678
+1 information outlined in subsection [F ] [G], paragraph 3 of this section
+2 if the hospital determines it is applicable. An assisted living center or
+3 assisted living home from which the patient entered the hospital shall
+4 readmit the patient if the assisted living center or assisted living home
+5 can meet the care needs for the patient.
+6 [J.] [K.] Each hospital shall develop a discharge document that
+7 encompasses the information outlined in subsection [F ] [G] of this
+8 section for inpatient discharges. The discharge document shall be
+9 provided to the assisted living center or assisted living home to which
+10 the patient is being discharged.>>
+11 Section 2. Title 36, chapter 4, article 1, Arizona Revised
+12 Statutes, is amended by adding section 36-420.06, to read:
+13 36-420.06. Patients and residents; advance directives;
+14 do-not-resuscitate orders; policies and
+15 procedures; definitions
+16 A. [AN EMPLOYEE OF] [IF THE DEPARTMENT RECEIVES A COMPLAINT FROM AN
+17 EMERGENCY MEDICAL CARE TECHNICIAN OR PEACE OFFICER ALLEGING THAT] A HEALTH
+18 CARE INSTITUTION [WHO PROVIDES DIRECT CARE TO A PATIENT OR RESIDENT SHALL
+19 COMPLETE A FORM AS PRESCRIBED BY THE DEPARTMENT, WHICH MAY BE ELECTRONIC,
+20 FOR EACH PATIENT OR RESIDENT UNDER THE EMPLOYEE'S CARE TO UPDATE THE]
+21 [FAILED TO PROVIDE A] PATIENT'S OR RESIDENT'S [INFORMATION BEFORE THE END
+22 OF THE EMPLOYEE'S WORKDAY OR SHIFT AND ANOTHER EMPLOYEE ASSUMES THE CARE
+23 OF THE PATIENT OR RESIDENT] [DO-NOT-RESUSCITATE ORDER OR OTHER ADVANCE
+24 DIRECTIVE, IF ON FILE WITH THE HEALTH CARE INSTITUTION, AFTER REQUESTING
+25 EMERGENCY MEDICAL SERVICES, THE DEPARTMENT SHALL DETERMINE WHETHER THE
+26 HEALTH CARE INSTITUTION:
+27 1. IS IN COMPLIANCE WITH SECTION 36-420.04, IF APPLICABLE.
+28 2. HAS POLICIES AND PROCEDURES ESTABLISHED, DOCUMENTED AND
+29 IMPLEMENTED THAT COVER ADVANCE DIRECTIVES, INCLUDING DO-NOT-RESUSCITATE
+30 ORDERS.
+31 3. COMPLIED WITH THE POLICIES AND PROCEDURES IN THE SITUATION THAT
+32 WAS THE BASIS FOR THE COMPLAINT].
+33 [THE FORM SHALL INCLUDE AT LEAST THE FOLLOWING:
+34 1. THE PATIENT'S OR RESIDENT'S NAME AND DATE OF BIRTH.
+35 2. THE PATIENT'S OR RESIDENT'S ADVANCE DIRECTIVES, INCLUDING A DO
+36 NOT RESUSCITATE ORDER OR PROVIDER ORDERS FOR LIFE-SUSTAINING TREATMENT,
+37 AND A RELEASE ALLOWING THE HEALTH CARE INSTITUTION TO SHARE THE PATIENT'S
+38 OR RESIDENT'S PROTECTED HEALTH INFORMATION WITH A THIRD PARTY.
+39 3. THE PATIENT'S OR RESIDENT'S CURRENT VITAL SIGNS, INCLUDING BLOOD
+40 PRESSURE, HEART RATE, RESPIRATORY RATE, OXYGEN SATURATION AND TEMPERATURE,
+41 AND ANY RECENT LABORATORY RESULTS, SUCH AS BLOOD GLUCOSE.
+42 4. A LIST OF THE PATIENT'S OR RESIDENT'S MEDICATIONS AND ANY
+43 ALLERGIES.
+44 5. THE NAME OF THE PATIENT'S OR RESIDENT'S PRIMARY CARE PROVIDER,
+45 EMERGENCY CONTACT OR POWER OF ATTORNEY.
+46 6. THE HEALTH CARE INSTITUTION'S POINT OF CONTACT.]
+-5-
+
+Senate Amendments to S.B. 1678
+1 [B. THIS SECTION DOES NOT REQUIRE A PATIENT OR RESIDENT TO HAVE ANY
+2 ADVANCE DIRECTIVE, INCLUDING A DO-NOT-RESUSCITATE ORDER, ON FILE WITH A
+3 HEALTH CARE INSTITUTION UNLESS OTHERWISE REQUIRED BY LAW.]
+4 [B.] [C.] FOR THE PURPOSES OF THIS SECTION[:] [,]
+5 [1. "EMERGENCY MEDICAL CARE TECHNICIAN" HAS THE SAME MEANING
+6 PRESCRIBED IN SECTION 36-2201.
+7 2.] "HEALTH CARE INSTITUTION" MEANS AN ASSISTED LIVING CENTER, AN
+8 ASSISTED LIVING HOME, AN ASSISTED LIVING FACILITY, HOSPICE, A
+9 NURSING-SUPPORTED GROUP HOME, A NURSING CARE INSTITUTION OR A RESIDENTIAL
+10 CARE INSTITUTION THAT IS LICENSED PURSUANT TO THIS CHAPTER.
+11 Sec. 3. Title 36, chapter 5.1, article 1, Arizona Revised Statutes,
+12 is amended by adding section 36-576, to read:
+13 36-576. Residents; advance directives; do-not-resuscitate
+14 orders; policies and procedures; rules;
+15 definition
+16 A. [AN EMPLOYEE OF] [IF THE DEPARTMENT RECEIVES A COMPLAINT FROM AN
+17 EMERGENCY MEDICAL CARE TECHNICIAN OR PEACE OFFICER ALLEGING THAT] A GROUP
+18 HOME OR BEHAVIORAL-SUPPORTED GROUP HOME [WHO PROVIDES DIRECT CARE TO A
+19 RESIDENT SHALL COMPLETE A FORM AS PRESCRIBED BY THE DEPARTMENT, WHICH MAY
+20 BE ELECTRONIC, FOR EACH RESIDENT UNDER THE EMPLOYEE'S CARE TO UPDATE THE]
+21 [FAILED TO PROVIDE A] RESIDENT'S [INFORMATION BEFORE THE END OF THE
+22 EMPLOYEE'S WORKDAY OR SHIFT AND ANOTHER EMPLOYEE ASSUMES THE CARE OF THE
+23 RESIDENT] [DO-NOT-RESUSCITATE ORDER OR OTHER ADVANCE DIRECTIVE, IF ON FILE
+24 WITH THE GROUP HOME OR BEHAVIORAL-SUPPORTED GROUP HOME, AFTER REQUESTING
+25 EMERGENCY MEDICAL SERVICES, THE DEPARTMENT SHALL CONDUCT AN INVESTIGATION
+26 TO DETERMINE WHETHER THE GROUP HOME OR BEHAVIORAL-SUPPORTED GROUP HOME:
+27 1. HAS POLICIES AND PROCEDURES ESTABLISHED, DOCUMENTED AND
+28 IMPLEMENTED THAT COVER ADVANCE DIRECTIVES, INCLUDING DO-NOT-RESUSCITATE
+29 ORDERS.
+30 2. COMPLIED WITH THE POLICIES AND PROCEDURES IN THE SITUATION THAT
+31 WAS THE BASIS FOR THE COMPLAINT].
+32 [THE FORM SHALL INCLUDE AT LEAST THE FOLLOWING:
+33 1. THE RESIDENT'S NAME AND DATE OF BIRTH.
+34 2. THE RESIDENT'S ADVANCE DIRECTIVES, INCLUDING A DO NOT
+35 RESUSCITATE ORDER OR PROVIDER ORDERS FOR LIFE-SUSTAINING TREATMENT, AND A
+36 RELEASE ALLOWING THE GROUP HOME OR BEHAVIORAL-SUPPORTED GROUP HOME TO
+37 SHARE THE RESIDENT'S PROTECTED HEALTH INFORMATION WITH A THIRD PARTY.
+38 3. THE RESIDENT'S CURRENT VITAL SIGNS, INCLUDING BLOOD PRESSURE,
+39 HEART RATE, RESPIRATORY RATE, OXYGEN SATURATION AND TEMPERATURE, AND ANY
+40 RECENT LABORATORY RESULTS, SUCH AS BLOOD GLUCOSE.
+41 4. A LIST OF THE RESIDENT'S MEDICATIONS AND ANY ALLERGIES.
+42 5. THE NAME OF THE RESIDENT'S PRIMARY CARE PROVIDER, EMERGENCY
+43 CONTACT OR POWER OF ATTORNEY.
+44 6. THE GROUP HOME'S OR BEHAVIORAL-SUPPORTED GROUP HOME'S POINT OF
+45 CONTACT.]
+-6-
+
+Senate Amendments to S.B. 1678
+1 [B. THIS SECTION DOES NOT REQUIRE A RESIDENT TO HAVE ANY ADVANCE
+2 DIRECTIVE, INCLUDING A DO-NOT-RESUSCITATE ORDER, ON FILE WITH A GROUP HOME
+3 OR BEHAVIORAL-SUPPORTED GROUP HOME UNLESS OTHERWISE REQUIRED BY LAW.]
+4 [B.] [C.] THE DEPARTMENT SHALL ADOPT RULES TO ENSURE COMPLIANCE
+5 WITH THE REQUIREMENTS OF THIS SECTION.
+6 [D. FOR THE PURPOSES OF THIS SECTION, "EMERGENCY MEDICAL CARE
+7 TECHNICIAN" HAS THE SAME MEANING PRESCRIBED IN SECTION 36-2201.]
+8 Sec. 4. Vulnerable adult system study committee; membership;
+9 duties; report; delayed repeal
+10 A. The vulnerable adult system study committee is established
+11 consisting of the following members:
+12 1. Two members of the house of representatives who are appointed by
+13 the speaker of the house of representatives and who are members of
+14 different political parties. The speaker of the house of representatives
+15 shall designate one of these members to serve as cochairperson of the
+16 committee.
+17 2. Two members of the senate who are appointed by the president of
+18 the senate and who are members of different political parties. The
+19 president of the senate shall designate one of these members to serve as
+20 cochairperson of the committee.
+21 3. The director of the department of health services or the
+22 director's designee.
+23 4. The director of the department of economic security or the
+24 director's designee.
+25 5. The director of the Arizona health care cost containment system
+26 or the director's designee.
+27 6. One member who represents the governor's office and who is
+28 appointed by the governor.
+29 7. One member who represents the attorney general's office and who
+30 is appointed by the attorney general.
+31 8. The department of economic security's long-term care ombudsman
+32 or the ombudsman's designee.
+33 9. One member who currently serves as a public fiduciary and who is
+34 appointed by the governor.
+35 10. Two members who are employed by a local law enforcement agency
+36 or by a statewide organization that represents law enforcement and who are
+37 appointed by the governor.
+38 11. The executive director of the Navajo area agency on aging or
+39 the executive director's designee.
+40 12. The executive director of the inter tribal council of Arizona
+41 or the executive director's designee.
+42 13. Two members who represent assisted living facilities and who
+43 are appointed by the speaker of the house of representatives.
+44 14. Two members who represent nursing care institutions and who are
+45 appointed by the governor.
+-7-
+
+Senate Amendments to S.B. 1678
+1 15. One member who represents a statewide organization that
+2 advocates for elderly vulnerable adults and who is appointed by the
+3 president of the senate.
+4 16. One member who represents a statewide organization that
+5 advocates on behalf of persons affected by Alzheimer's disease and who is
+6 appointed by the president of the senate.
+7 17. One member who represents a statewide association that
+8 advocates on behalf of persons who provide services to persons with
+9 developmental disabilities and who is appointed by the speaker of the
+10 house of representatives.
+11 18. One health care professional who is appointed by the speaker of
+12 the house of representatives and who both:
+13 (a) Is licensed pursuant to title 32, Arizona Revised Statutes.
+14 (b) Provides health care services to elderly vulnerable adults.
+15 19. One member who is on the governor's advisory council on aging
+16 and who is appointed by the governor.
+17 20. One member who represents a statewide association representing
+18 firefighters in this state and who is appointed by the president of the
+19 senate.
+20 B. The vulnerable adult system study committee shall:
+21 1. Develop and implement a coordinated vulnerable adult services
+22 delivery system that ensures the health and safety of vulnerable adults.
+23 2. Recommend best practices relating to responding to and
+24 investigating complaints.
+25 3. Research best practices related to adult protective services at
+26 the state, municipality and community levels.
+27 4. Research and make recommendations on how the vulnerable adult
+28 system can ensure that vulnerable adults receive services they require
+29 after the vulnerable adult system completes its investigatory duties,
+30 including assigning a specific agency with the responsibility to provide
+31 or coordinate case management.
+32 5. Research and identify common statewide outcomes.
+33 6. Identify best practices for data collection and data sharing by
+34 various entities involved in providing vulnerable adult services.
+35 7. Review and recommend changes to the statutes and rules that
+36 govern vulnerable adult services.
+37 C. The cochairpersons may designate work groups to research, study
+38 and make recommendations to the study committee. At least two work groups
+39 shall be established to separately address the needs of persons with
+40 developmental disabilities and persons who are elderly or who have a
+41 physical disability, including the training requirements for persons who
+42 are caring for these populations.
+43 D. Once the study committee establishes a strategic direction, the
+44 department of economic security, in conjunction with the work groups,
+45 shall develop an action plan for implementation.
+-8-
+
+Senate Amendments to S.B. 1678
+1 E. Public members of the study committee are eligible to receive
+2 reimbursement of expenses pursuant to title 38, chapter 4, article 2,
+3 Arizona Revised Statutes.
+4 F. On or before October 1, 2026 and each October 1 thereafter, the
+5 study committee shall submit a report of its findings and recommendations
+6 to the governor, the president of the senate and the speaker of the house
+7 of representatives and shall provide a copy of this report to the
+8 secretary of state.
+9 G. This section is repealed from and after December 31, 2028.
+10 Enroll and engross to conform
+11 Amend title to conform
+TIMOTHY "TIM" DUNN
+1678FloorDUNN.docx
+02/25/2026
+07:56 PM
+C: MH
+130UVLASN
+-9-

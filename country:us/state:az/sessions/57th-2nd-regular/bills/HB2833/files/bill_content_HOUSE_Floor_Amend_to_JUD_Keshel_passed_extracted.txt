@@ -1,0 +1,549 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to JUD - Keshel - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2833: mandatory reporting; violent threats; minors
+KESHEL FLOOR AMENDMENT
+1. Removes conflicting language regarding who the mandatory reporting requirement
+applies to.
+NM/NP
+2/23/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Keshel
+Second Regular Session H.B. 2833
+KESHEL FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2833
+(Reference to JUDICIARY Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section. 1. Section 8-201, Arizona Revised Statutes, is amended
+3 to read:
+4 8-201. Definitions
+5 In this title, unless the context otherwise requires:
+6 1. "Abandoned" means the failure of the parent to provide
+7 reasonable support and to maintain regular contact with the child,
+8 including providing normal supervision. Abandoned includes a judicial
+9 finding that a parent has made only minimal efforts to support and
+10 communicate with the child. Failure to maintain a normal parental
+11 relationship with the child without just cause for a period of six months
+12 constitutes prima facie evidence of abandonment.
+13 2. "Abuse":
+14 (a) Means the infliction or allowing of physical injury, impairment
+15 of bodily function or disfigurement or the infliction of or allowing
+16 another person to cause serious emotional damage as evidenced by severe
+
+House Amendments to H.B. 2833
+1 anxiety, depression, withdrawal or untoward aggressive behavior and which
+2 emotional damage is diagnosed by a medical doctor or psychologist and is
+3 caused by the acts or omissions of an individual who has the care, custody
+4 and control of a child, including an employee of a child welfare agency
+5 where a child is placed that is licensed by and contracted with the
+6 department.
+7 (b) Includes:
+8 (i) Inflicting or allowing sexual abuse pursuant to section
+9 13-1404, sexual conduct with a minor pursuant to section 13-1405, sexual
+10 assault pursuant to section 13-1406, molestation of a child pursuant to
+11 section 13-1410, commercial sexual exploitation of a minor pursuant to
+12 section 13-3552, sexual exploitation of a minor pursuant to section
+13 13-3553, incest pursuant to section 13-3608 or child sex trafficking
+14 pursuant to section 13-3212.
+15 (ii) Physical injury that results from allowing a child to enter or
+16 remain in any structure or vehicle in which volatile, toxic or flammable
+17 chemicals are found or equipment is possessed by any person for the
+18 purpose of manufacturing a dangerous drug as defined in section 13-3401.
+19 (iii) Unreasonable confinement of a child.
+20 3. "Adult" means a person who is eighteen years of age or older.
+21 4. "Adult court" means the appropriate justice court, municipal
+22 court or criminal division of the superior court that has jurisdiction to
+23 hear proceedings concerning offenses committed by juveniles as provided in
+24 sections 8-327 and 13-501.
+25 5. "Award" or "commit" means to assign legal custody.
+26 6. "Child", "youth" or "juvenile" means an individual who is under
+27 eighteen years of age.
+28 7. "Complaint" means a written statement of the essential facts
+29 constituting a public offense that is any of the following:
+30 (a) Made on an oath before a judge or commissioner of the superior
+31 court or an authorized juvenile hearing officer.
+32 (b) Made pursuant to section 13-3903.
+33 (c) Accompanied by an affidavit of a law enforcement officer or
+34 employee that swears on information and belief to the accuracy of the
+35 complaint pursuant to section 13-4261.
+36 8. "Criminal conduct allegation" means an allegation of conduct by
+37 a parent, guardian or custodian of a child or an adult member of the
+38 victim's household that, if true, would constitute any of the following:
+39 (a) A violation of section 13-3623 involving child abuse.
+40 (b) A felony offense that constitutes domestic violence as defined
+41 in section 13-3601.
+42 (c) A violation of section 13-1404 or 13-1406 involving a minor.
+43 (d) A violation of section 13-1405, 13-1410 or 13-1417.
+44 (e) Any other act of abuse that is classified as a felony.
+45 (f) An offense that constitutes domestic violence as defined in
+46 section 13-3601 and that involves a minor who is a victim of or was in
+47 imminent danger during the domestic violence.
+-2-
+
+House Amendments to H.B. 2833
+1 9. "Custodian" means a person, other than a parent or legal
+2 guardian, who stands in loco parentis to the child or a person to whom
+3 legal custody of the child has been given by order of the juvenile court.
+4 10. "DCS report" means a communication received by the centralized
+5 intake hotline that alleges child abuse or neglect and that meets the
+6 criteria for a report as prescribed in section 8-455.
+7 11. "Delinquency hearing" means a proceeding in the juvenile court
+8 to determine whether a juvenile has committed a specific delinquent act as
+9 set forth in a petition.
+10 12. "Delinquent act" means an act by a juvenile that if committed
+11 by an adult would be a criminal offense or a petty offense, a violation of
+12 any law of this state, or of another state if the act occurred in that
+13 state, or a law of the United States, or a violation of any law that can
+14 only be violated by a minor and that has been designated as a delinquent
+15 offense, or any ordinance of a city, county or political subdivision of
+16 this state defining crime. Delinquent act does not include an offense
+17 under section 13-501, subsection A or B if the offense is filed in adult
+18 court. Any juvenile who is prosecuted as an adult or who is remanded for
+19 prosecution as an adult shall not be adjudicated as a delinquent juvenile
+20 for the same offense.
+21 13. "Delinquent juvenile" means a child who is adjudicated to have
+22 committed a delinquent act.
+23 14. "Department" means the department of child safety.
+24 15. "Dependent child":
+25 (a) Means a child who is adjudicated to be:
+26 (i) In need of proper and effective parental care and control and
+27 who has no parent or guardian, or one who has no parent or guardian
+28 willing to exercise or capable of exercising such care and control.
+29 (ii) Destitute or who is not provided with the necessities of life,
+30 including adequate food, clothing, shelter or medical care.
+31 (iii) A child whose home is unfit by reason of abuse, neglect,
+32 cruelty or depravity by a parent, a guardian or any other person having
+33 custody or care of the child.
+34 (iv) Under eight years of age and who is found to have committed an
+35 act that would result in adjudication as a delinquent juvenile or
+36 incorrigible child if committed by an older juvenile or child.
+37 (v) Incompetent or not restorable to competency and who is alleged
+38 to have committed a serious offense as defined in section 13-706.
+39 (b) Does not include a child who in good faith is being furnished
+40 Christian Science treatment by a duly accredited practitioner if none of
+41 the circumstances described in subdivision (a) of this paragraph exists.
+42 16. "Detention" means the temporary confinement of a juvenile who
+43 requires secure care in a physically restricting facility that is
+44 completely surrounded by a locked and physically secure barrier with
+45 restricted ingress and egress for the protection of the juvenile or the
+46 community pending court disposition or as a condition of probation.
+47 17. "Director" means the director of the department.
+48 18. "Health professional" has the same meaning prescribed in
+49 section 32-3201.
+-3-
+
+House Amendments to H.B. 2833
+1 19. "Incorrigible child" means a child who:
+2 (a) Is adjudicated as a child who refuses to obey the reasonable
+3 and proper orders or directions of a parent, guardian or custodian and who
+4 is beyond the control of that person.
+5 (b) Is habitually truant from school as defined in section 15-803,
+6 subsection C.
+7 (c) Is a runaway from the child's home or parent, guardian or
+8 custodian.
+9 (d) Habitually behaves in such a manner as to injure or endanger
+10 the morals or health of self or others.
+11 (e) Commits any act constituting an offense that can only be
+12 committed by a minor and that is not designated as a delinquent act.
+13 (f) Fails to obey any lawful order of a court of competent
+14 jurisdiction given in a noncriminal action.
+15 20. "Independent living program" includes a residential program
+16 with supervision of less than twenty-four hours a day.
+17 21. "Juvenile court" means the juvenile division of the superior
+18 court when exercising its jurisdiction over children in any proceeding
+19 relating to delinquency, dependency or incorrigibility.
+20 22. "Law enforcement officer" means a peace officer, sheriff,
+21 deputy sheriff, municipal police officer or constable.
+22 23. "Medical director of a mental health agency":
+23 (a) Means a psychiatrist, or licensed physician experienced in
+24 psychiatric matters, who is designated in writing by the governing body of
+25 the agency as the person in charge of the medical services of the agency,
+26 or a psychiatrist designated by the governing body to act for the
+27 director.
+28 (b) Includes the superintendent of the state hospital.
+29 24. "Mental health agency" means any private or public facility
+30 that is licensed by this state as a mental health treatment agency, a
+31 psychiatric hospital, a psychiatric unit of a general hospital or a
+32 residential treatment center for emotionally disturbed children and that
+33 uses secure settings or mechanical restraints.
+34 25. "Neglect" or "neglected" means:
+35 (a) The inability or unwillingness of a parent, guardian or
+36 custodian of a child to provide that child with supervision, food,
+37 clothing, shelter or medical care if that inability or unwillingness
+38 causes substantial risk of harm to the child's health or welfare, except
+39 if the inability of a parent, guardian or custodian to provide services to
+40 meet the needs of a child with a disability or chronic illness is solely
+41 the result of the unavailability of reasonable services.
+42 (b) Allowing a child to enter or remain in any structure or vehicle
+43 in which volatile, toxic or flammable chemicals are found or equipment is
+44 possessed by any person with the intent and for the purpose of
+45 manufacturing a dangerous drug as defined in section 13-3401.
+46 (c) A determination by a health professional that a newborn infant
+47 was exposed prenatally to a drug or substance listed in section 13-3401
+48 and that this exposure was not the result of a medical treatment
+49 administered to the mother or the newborn infant by a health professional.
+-4-
+
+House Amendments to H.B. 2833
+1 This subdivision does not expand a health professional's duty to report
+2 neglect based on prenatal exposure to a drug or substance listed in
+3 section 13-3401 beyond the requirements prescribed pursuant to section
+4 13-3620, subsection [E][F]. The determination by the health professional
+5 shall be based on one or more of the following:
+6 (i) Clinical indicators in the prenatal period including maternal
+7 and newborn presentation.
+8 (ii) History of substance use or abuse.
+9 (iii) Medical history.
+10 (iv) Results of a toxicology or other laboratory test on the mother
+11 or the newborn infant.
+12 (d) Diagnosis by a health professional of an infant under one year
+13 of age with clinical findings consistent with fetal alcohol syndrome or
+14 fetal alcohol effects.
+15 (e) Deliberate exposure of a child by a parent, guardian or
+16 custodian to sexual conduct as defined in section 13-3551 or to sexual
+17 contact, oral sexual contact or sexual intercourse as defined in section
+18 13-1401, bestiality as prescribed in section 13-1411 or explicit sexual
+19 materials as defined in section 13-3507.
+20 (f) Any of the following acts committed by the child's parent,
+21 guardian or custodian with reckless disregard as to whether the child is
+22 physically present:
+23 (i) Sexual contact as defined in section 13-1401.
+24 (ii) Oral sexual contact as defined in section 13-1401.
+25 (iii) Sexual intercourse as defined in section 13-1401.
+26 (iv) Bestiality as prescribed in section 13-1411.
+27 26. "Newborn infant" means a child who is under thirty days of age.
+28 27. "Petition" means a written statement of the essential facts
+29 that allege delinquency, incorrigibility or dependency.
+30 28. "Prevention" means the creation of conditions, opportunities
+31 and experiences that encourage and develop healthy, self-sufficient
+32 children and that occur before the onset of problems.
+33 29. "Protective supervision" means supervision that is ordered by
+34 the juvenile court of children who are found to be dependent or
+35 incorrigible.
+36 30. "Qualified young adult" means a former dependent child who is
+37 at least eighteen years of age and not over twenty-one years of age, who
+38 meets the criteria for an extended foster care program pursuant to section
+39 8-521.02 and who signs a voluntary agreement to participate in the
+40 program.
+41 31. "Referral" means a report that is submitted to the juvenile
+42 court and that alleges that a child is dependent or incorrigible or that a
+43 juvenile has committed a delinquent or criminal act.
+44 32. "Secure care" means confinement in a facility that is
+45 completely surrounded by a locked and physically secure barrier with
+46 restricted ingress and egress.
+47 33. "Serious emotional injury" means an injury that is diagnosed by
+48 a medical doctor or a psychologist and that does any one or a combination
+49 of the following:
+-5-
+
+House Amendments to H.B. 2833
+1 (a) Seriously impairs mental faculties.
+2 (b) Causes serious anxiety, depression, withdrawal or social
+3 dysfunction behavior to the extent that the child suffers dysfunction that
+4 requires treatment.
+5 (c) Is the result of sexual abuse pursuant to section 13-1404,
+6 sexual conduct with a minor pursuant to section 13-1405, sexual assault
+7 pursuant to section 13-1406, molestation of a child pursuant to section
+8 13-1410, child sex trafficking pursuant to section 13-3212, commercial
+9 sexual exploitation of a minor pursuant to section 13-3552, sexual
+10 exploitation of a minor pursuant to section 13-3553 or incest pursuant to
+11 section 13-3608.
+12 34. "Serious physical injury" means an injury that is diagnosed by
+13 a medical doctor and that does any one or a combination of the following:
+14 (a) Creates a reasonable risk of death.
+15 (b) Causes serious or permanent disfigurement.
+16 (c) Causes significant physical pain.
+17 (d) Causes serious impairment of health.
+18 (e) Causes the loss or protracted impairment of an organ or limb.
+19 (f) Is the result of sexual abuse pursuant to section 13-1404,
+20 sexual conduct with a minor pursuant to section 13-1405, sexual assault
+21 pursuant to section 13-1406, molestation of a child pursuant to section
+22 13-1410, child sex trafficking pursuant to section 13-3212, commercial
+23 sexual exploitation of a minor pursuant to section 13-3552, sexual
+24 exploitation of a minor pursuant to section 13-3553 or incest pursuant to
+25 section 13-3608.
+26 35. "Shelter care" means the temporary care of a child in any
+27 public or private facility or home that is licensed by this state and that
+28 offers a physically nonsecure environment that is characterized by the
+29 absence of physically restricting construction or hardware and that
+30 provides the child access to the surrounding community.
+31 36. "Standardized hotline assessment tool" means any written tool
+32 used to make a determination that the allegation of abuse or neglect that
+33 is the subject of a report received pursuant to section 8-455 involves
+34 conduct that warrants investigation by the department pursuant to section
+35 8-456 or 8-471.
+36 37. "Young adult administrative review" means an administrative
+37 review of a voluntary extended foster care case plan with the qualified
+38 young adult, the department's case specialist or designee, an independent
+39 party who is not responsible for the case management of or the delivery of
+40 services to the qualified young adult and any other individual the young
+41 adult invites. >>
+42 Sec. 2. Section 13-3620, Arizona Revised Statutes, is amended to
+43 read:
+44 13-3620. Duty to report violent threats by minors and abuse,
+45 physical injury, neglect and denial or deprivation
+46 of medical or surgical care or nourishment of
+47 minors; medical records; exception; violation;
+48 classification; definitions
+-6-
+
+House Amendments to H.B. 2833
+1 A. Any person who reasonably believes that a minor is or has been
+2 the victim of {{A THREAT OF DEATH OR SERIOUS PHYSICAL INJURY BY A MINOR OR
+3 OF}} physical injury, abuse, child abuse, a reportable offense or neglect
+4 that appears to have been inflicted on the minor by other than accidental
+5 means or that is not explained by the available medical history as being
+6 accidental in nature or who reasonably believes there has been a denial or
+7 deprivation of necessary medical treatment or surgical care or nourishment
+8 with the intent to cause or allow the death of an infant who is protected
+9 under section 36-2281 shall immediately report or cause reports to be made
+10 of this information to a peace officer, to the department of child safety
+11 or to a tribal law enforcement or social services agency for any Indian
+12 minor who resides on an Indian reservation, except if the report concerns
+13 a person who does not have care, custody or control of the minor, the
+14 report shall be made to a peace officer only. A member of the clergy, a
+15 Christian Science practitioner or a priest who has received a confidential
+16 communication or a confession in that person's role as a member of the
+17 clergy, as a Christian Science practitioner or as a priest in the course
+18 of the discipline enjoined by the church to which the member of the
+19 clergy, the Christian Science practitioner or the priest belongs may
+20 withhold reporting of the communication or confession if the member of the
+21 clergy, the Christian Science practitioner or the priest determines that
+22 it is reasonable and necessary within the concepts of the religion. This
+23 exemption applies only to the communication or confession and not to
+24 personal observations the member of the clergy, the Christian Science
+25 practitioner or the priest may otherwise make of the minor. For the
+26 purposes of this subsection, "person" means:
+27 1. Any physician, physician's assistant, optometrist, dentist,
+28 osteopathic physician, chiropractor, podiatrist, behavioral health
+29 professional, nurse, psychologist, counselor or social worker who develops
+30 the reasonable belief in the course of treating a patient.
+31 2. Any peace officer, child welfare investigator, child safety
+32 worker, member of the clergy, priest or Christian Science practitioner.
+33 3. The parent, stepparent or guardian of the minor.
+34 4. School personnel, including substitute teachers, domestic
+35 violence victim advocates or sexual assault victim advocates who develop
+36 the reasonable belief in the course of their employment.
+37 5. Any other person who has responsibility for the care or
+38 treatment of the minor.
+39 6. Any person who is employed as the immediate or next higher level
+40 supervisor to or administrator of a person who is listed in paragraph 1,
+41 2, 4 or 5 of this subsection and who develops the reasonable belief in the
+42 course of the supervisor's or administrator's employment, except that if
+43 the supervisor or administrator reasonably believes that the report has
+44 been made by a person who is required to report pursuant to paragraph 1,
+45 2, 4 or 5 of this subsection, the supervisor or administrator is not
+46 required to report pursuant to this paragraph.
+47 7. Any member of a school district governing board or charter
+48 school governing body.
+-7-
+
+House Amendments to H.B. 2833
+1 [B. ANY PERSON WHO IS LISTED IN SUBSECTION A, PARAGRAPH 4 OF THIS
+2 SECTION AND WHO REASONABLY BELIEVES THAT A MINOR IS OR HAS BEEN THE
+3 RECIPIENT OF A TRUE THREAT OF DEATH OR SERIOUS PHYSICAL INJURY BY ANOTHER
+4 MINOR SHALL MAKE A REPORT PURSUANT TO SUBSECTION A OF THIS SECTION. FOR
+5 THE PURPOSES OF THIS SUBSECTION, "SERIOUS PHYSICAL INJURY" HAS THE SAME
+6 MEANING PRESCRIBED IN SECTION 13-105.]
+7 [B.][C.] A report is not required under this section either:
+8 1. For conduct prescribed by sections 13-1404 and 13-1405 if the
+9 conduct involves only minors who are fourteen, fifteen, sixteen or
+10 seventeen years of age and there is nothing to indicate that the conduct
+11 is other than consensual.
+12 2. If a minor is of elementary school age, the physical injury
+13 occurs accidentally in the course of typical playground activity during a
+14 school day, occurs on the premises of the school that the minor attends
+15 and is reported to the legal parent or guardian of the minor and the
+16 school maintains a written record of the incident.
+17 [C.][D.] If a physician, psychologist or behavioral health
+18 professional receives a statement from a person other than a parent,
+19 stepparent, guardian or custodian of the minor during the course of
+20 providing sex offender treatment that is not court ordered or that does
+21 not occur while the offender is incarcerated in the state department of
+22 corrections or the department of juvenile corrections, the physician,
+23 psychologist or behavioral health professional may withhold the reporting
+24 of that statement if the physician, psychologist or behavioral health
+25 professional determines it is reasonable and necessary to accomplish the
+26 purposes of the treatment.
+27 [D.][E.] Reports shall be made immediately either electronically or
+28 by telephone. The reports shall contain the following information, if
+29 known:
+30 1. The names and addresses of the minor and the minor's parents or
+31 the person or persons having custody of the minor.
+32 2. The minor's age and the nature and extent of the minor's abuse,
+33 child abuse, physical injury or neglect, including any evidence of
+34 previous abuse, child abuse, physical injury or neglect.
+35 3. Any other information that the person believes might be helpful
+36 in establishing the cause of the abuse, child abuse, physical injury or
+37 neglect.
+38 [E.][F.] A health care professional who is regulated pursuant to
+39 title 32 and who, after a routine newborn physical assessment of a newborn
+40 infant's health status or following notification of positive toxicology
+41 screens of a newborn infant, reasonably believes that the newborn infant
+42 may be affected by the presence of alcohol or a drug listed in section
+43 13-3401 shall immediately report this information, or cause a report to be
+44 made, to the department of child safety. For the purposes of this
+45 subsection, "newborn infant" means a newborn infant who is under thirty
+46 days of age.
+47 [F.][G.] Any person other than one required to report or cause
+48 reports to be made under subsection A of this section who reasonably
+49 believes that a minor is or has been a victim of abuse, child abuse,
+-8-
+
+House Amendments to H.B. 2833
+1 physical injury, a reportable offense or neglect may report the
+2 information to a peace officer or to the department of child safety,
+3 except if the report concerns a person who does not have care, custody or
+4 control of the minor, the report shall be made to a peace officer only.
+5 [G.][H.] A person who has custody or control of medical records of
+6 a minor for whom a report is required or authorized under this section
+7 shall make the records, or a copy of the records, available to a peace
+8 officer, child welfare investigator or child safety worker investigating
+9 the minor's neglect, child abuse, physical injury or abuse on written
+10 request for the records signed by the peace officer, child welfare
+11 investigator or child safety worker. Records disclosed pursuant to this
+12 subsection are confidential and may be used only in a judicial or
+13 administrative proceeding or investigation resulting from a report
+14 required or authorized under this section.
+15 [H.][I.] When a report is received:
+16 1. By a peace officer, the officer shall immediately notify the
+17 department of child safety.
+18 2. Notwithstanding any other statute, by the department OF CHILD
+19 SAFETY, the department shall immediately notify a peace officer in the
+20 appropriate jurisdiction.
+21 3. By a school resource officer or school safety officer, the
+22 officer shall immediately notify a law enforcement agency in the
+23 appropriate jurisdiction and shall submit to the local law enforcement
+24 agency all information relating to the report for the purposes of the law
+25 enforcement agency investigating the reported conduct.
+26 [I.][J.] Any person who is required to receive reports pursuant to
+27 subsection A of this section may take or cause to be taken photographs of
+28 the minor and the vicinity involved. Forensic interviews or medical
+29 examinations, or both, of the involved minor may be performed.
+30 [J.][K.] A person who furnishes a report, information or records
+31 required or authorized under this section, or a person who participates in
+32 a judicial or administrative proceeding or investigation resulting from a
+33 report, information or records required or authorized under this section,
+34 is immune from any civil or criminal liability by reason of that action
+35 unless the person acted with malice or unless the person has been charged
+36 with or is suspected of abusing or neglecting the child or children in
+37 question.
+38 [K.][L.] Except for the attorney client privilege or the privilege
+39 under subsection [L][M] of this section, no privilege applies to any:
+40 1. Civil or criminal litigation or administrative proceeding in
+41 which a minor's neglect, dependency, abuse, child abuse, physical injury
+42 or abandonment is an issue.
+43 2. Judicial or administrative proceeding resulting from a report,
+44 information or records submitted pursuant to this section.
+45 3. Investigation of a minor's child abuse, physical injury, neglect
+46 or abuse conducted by a peace officer or the department of child safety.
+47 [L.][M.] In any civil or criminal litigation in which a child's
+48 neglect, dependency, physical injury, abuse, child abuse or abandonment is
+49 an issue, a member of the clergy, a Christian Science practitioner or a
+-9-
+
+House Amendments to H.B. 2833
+1 priest shall not, without his consent, be examined as a witness concerning
+2 any confession made to him in his role as a member of the clergy, a
+3 Christian Science practitioner or a priest in the course of the discipline
+4 enjoined by the church to which he belongs. This subsection does not
+5 discharge a member of the clergy, a Christian Science practitioner or a
+6 priest from the duty to report pursuant to subsection A of this section.
+7 [M.][N.] If psychiatric records are requested pursuant to
+8 subsection [G][H] of this section, the custodian of the records shall
+9 notify the attending psychiatrist, who may excise from the records, before
+10 they are made available:
+11 1. Personal information about individuals other than the patient.
+12 2. Information regarding specific diagnosis or treatment of a
+13 psychiatric condition, if the attending psychiatrist certifies in writing
+14 that release of the information would be detrimental to the patient's
+15 health or treatment.
+16 [N.][O.] If any portion of a psychiatric record is excised pursuant
+17 to subsection [M][N] of this section, a court, on application of a peace
+18 officer, child welfare investigator or child safety worker, may order that
+19 the entire record or any portion of the record that contains information
+20 relevant to the reported abuse, child abuse, physical injury or neglect be
+21 made available to the peace officer, child welfare investigator or child
+22 safety worker investigating the abuse, child abuse, physical injury or
+23 neglect.
+24 [O.][P.] A student who is identified as a potential victim of a
+25 reportable offense may be interviewed only as provided by the local county
+26 protocol that is adopted pursuant to section 8-817. This subsection does
+27 not prevent a school resource officer or a school safety officer from
+28 either:
+29 1. Receiving a voluntary report of a reportable offense from a
+30 student who is an alleged victim.
+31 2. Asking a student minimal follow-up questions that are necessary
+32 and authorized by the county protocol.
+33 [P.][Q.] A report to a school resource officer or a school safety
+34 officer does not satisfy the reporting requirement prescribed by this
+35 section.
+36 [Q.][R.] A person who violates this section is guilty of a class 1
+37 misdemeanor, except if the failure to report involves a reportable
+38 offense, the person is guilty of a class 6 felony.
+39 [R.][S.] For the purposes of this section:
+40 1. "Abuse" has the same meaning prescribed in section 8-201.
+41 2. "Child abuse" means child abuse pursuant to section 13-3623.
+42 3. "Neglect" has the same meaning prescribed in section 8-201.
+43 4. "Reportable offense" means any of the following:
+44 (a) Any offense listed in chapters 14 and 35.1 of this title or
+45 section 13-3506.
+46 (b) Surreptitious photographing, videotaping, filming or digitally
+47 recording or viewing a minor pursuant to section 13-3019.
+48 (c) Child sex trafficking pursuant to section 13-3212.
+49 (d) Incest pursuant to section 13-3608.
+-10-
+
+House Amendments to H.B. 2833
+1 (e) Unlawful mutilation pursuant to section 13-1214.
+2 5. "School safety officer" has the same meaning prescribed in
+3 section 15-514.
+4 6. "Student" means a student who is enrolled in a kindergarten
+5 program or any of grades one through twelve.
+6 Enroll and engross to conform
+7 Amend title to conform
+RACHEL KESHEL
+2833FloorKESHEL.docx
+02/05/2026
+02:14 PM
+H: NM/ls
+130MZCAPL
+-11-

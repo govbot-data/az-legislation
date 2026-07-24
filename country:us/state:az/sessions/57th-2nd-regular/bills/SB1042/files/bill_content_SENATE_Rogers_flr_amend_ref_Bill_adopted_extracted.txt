@@ -1,0 +1,80 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Rogers flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1042
+Rogers Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Molly Graver
+FLOOR AMENDMENT EXPLANATION
+1. Adds stablecoin to the definition of virtual currency.
+2. Defines stablecoin.
+3. Renames this legislation as the Arizona Strategic Digital Asset Reserve Act.
+Amendment explanation prepared by Molly Graver
+02/26/2026
+
+Fifty-seventh Legislature Rogers
+Second Regular Session S.B. 1042
+ROGERS FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1042
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 35, chapter 2, Arizona Revised Statutes, is
+3 amended by adding article 2.2, to read:
+4 ARTICLE 2.2. [ARIZONA] STRATEGIC [BITCOIN][DIGITAL ASSET] RESERVE
+5 35-331. Public monies; investment; virtual currency;
+6 reserves; definitions
+7 A. IN ADDITION TO THE INVESTMENT AUTHORITY IN ARTICLES 2 AND 2.1 OF
+8 THIS CHAPTER, A PUBLIC FUND MAY INVEST NOT MORE THAN TEN PERCENT OF THE
+9 PUBLIC MONIES UNDER ITS CONTROL IN VIRTUAL CURRENCY HOLDINGS.
+10 B. IF THE UNITED STATES SECRETARY OF THE TREASURY ESTABLISHES A
+11 STRATEGIC BITCOIN RESERVE FOR THE STORAGE OF GOVERNMENT BITCOIN HOLDINGS,
+12 A PUBLIC FUND MAY STORE THE VIRTUAL CURRENCY HOLDINGS OF THE PUBLIC FUND
+13 IN A SECURE SEGREGATED ACCOUNT WITHIN THE STRATEGIC BITCOIN RESERVE.
+14 C. FOR THE PURPOSES OF THIS SECTION:
+15 1. "PUBLIC FUND" MEANS THE STATE TREASURER OR A RETIREMENT SYSTEM.
+16 2. "RETIREMENT SYSTEM" MEANS A RETIREMENT PLAN OR SYSTEM THAT IS
+17 ESTABLISHED BY OR PURSUANT TO TITLE 38.
+18 3. "VIRTUAL CURRENCY" MEANS A DIGITAL REPRESENTATION OF VALUE THAT
+19 FUNCTIONS AS A MEDIUM OF EXCHANGE, A UNIT OF ACCOUNT AND A STORE OF VALUE
+20 [OTHER THAN A REPRESENTATION OF THE UNITED STATES DOLLAR OR A FOREIGN
+21 CURRENCY] [AND INCLUDES STABLECOINS. VIRTUAL CURRENCY DOES NOT INCLUDE
+22 LEGAL TENDER ISSUED BY THE UNITED STATES OR A FOREIGN GOVERNMENT].
+23 [4. "STABLECOIN" MEANS A PAYMENT STABLECOIN AS DEFINED IN THE
+24 GUIDING AND ESTABLISHING NATIONAL INNOVATION FOR U.S. STABLECOINS (GENIUS)
+25 ACT OF 2025 (P.L. 119-27) AND THAT IS ISSUED IN COMPLIANCE WITH ALL
+26 APPLICABLE FEDERAL LAWS GOVERNING SUCH ISSUANCE.]
+27 Sec. 2. Short title
+28 This act may be cited as the "Arizona Strategic [Bitcoin] [Digital
+29 Asset] Reserve Act".
+
+Senate Amendments to S.B. 1042
+1 Enroll and engross to conform
+2 Amend title to conform
+WENDY ROGERS
+1042ROGERS0505.docx
+02/24/2026
+05:05 PM
+S: MG/hk
+130MYLFXC
+1042ROGERS0505.docx
+02/24/2026
+06:05 PM
+S: MG/hk
+130MYLFXC
+-2-
