@@ -1,0 +1,1445 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Farnsworth flr amend (ref RAGE) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2251
+Farnsworth Floor Amendment
+Reference to: REGULATORY AFFAIRS AND
+GOVERNMENT EFFICIENCY Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Transfers the regulatory oversight of licensed midwives from the Department of Health Services
+(DHS) to the Naturopathic Physicians Medical Board (Board).
+2. Adds one licensed midwife who is appointed by the Governor as a member of the Board.
+3. Requires, beginning July 1, 2027, all monies deposited in the Board Fund for naturopathic
+physician licensing and regulation to be only used for licensing and regulating naturopathic
+physicians.
+4. Requires, beginning July 1, 2027, all monies deposited in the Board Fund for midwife licensing
+and regulation to be only used for licensing and regulating midwives.
+5. Requires the Board to establish a separate account for monies transferred to the Board Fund for
+midwife licensing and regulation.
+6. Applies the statutory investigative and disciplinary procedures prescribed for naturopathic
+physicians to licensed midwives.
+7. Removes the statutory cap on midwife licensure and application fees.
+8. Specifies that the Midwifery Advisory Committee is established under the Board, rather than under
+DHS.
+9. States that the Midwifery Advisory Committee's duties are at the discretion of the Board.
+10. Outlines succession procedures and expenditure authority relating to the transfer of the regulatory
+oversight of licensed midwifes from DHS to the Board.
+11. Makes technical and conforming changes.
+Amendment explanation prepared by Jason Theodorou
+06/09/2026
+
+Fifty-seventh Legislature Farnsworth
+Second Regular Session H.B. 2251
+FARNSWORTH FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2251
+(Reference to REGULATORY AFFAIRS AND GOVERNMENT EFFICIENCY Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 ≤≤Section 1. Section 12-910, Arizona Revised Statutes, is amended
+3 to read:
+4 12-910. Scope of review
+5 A. An action to review a final administrative decision shall be
+6 heard and determined with convenient speed. If requested by a party to an
+7 action within thirty days after filing a notice of appeal, the court shall
+8 hold an evidentiary hearing, including testimony and argument, to the
+9 extent necessary to make the determination required by subsection F of
+10 this section. The court may hear testimony from witnesses who testified
+11 at the administrative hearing and witnesses who were not called to testify
+12 at the administrative hearing.
+13 B. Relevant and admissible exhibits and testimony that were not
+14 offered during the administrative hearing shall be admitted, and
+15 objections that a party failed to make to evidence offered at the
+16 administrative hearing shall be considered, unless either of the following
+17 is true:
+
+Senate Amendments to H.B. 2251
+1 1. The exhibit, testimony or objection was withheld for purposes of
+2 delay, harassment or other improper purpose.
+3 2. Allowing admission of the exhibit or testimony or consideration
+4 of the objection would cause substantial prejudice to another party.
+5 C. For review of final administrative decisions of agencies that
+6 are exempt from sections 41-1092.03, 41-1092.04, 41-1092.05, 41-1092.06,
+7 41-1092.07, 41-1092.08, 41-1092.09, 41-1092.10, and 41-1092.11, pursuant
+8 to section 41-1092.02, the trial shall be de novo if trial de novo is
+9 demanded in the notice of appeal or motion of an appellee other than the
+10 agency and if a hearing was not held by the agency or the proceedings
+11 before the agency were not stenographically reported or mechanically
+12 recorded so that a transcript might be made. On demand of any party, if a
+13 trial de novo is available under this section, it may be with a jury,
+14 except that a trial of an administrative decision under section 25-522
+15 shall be to the court.
+16 D. For review of final administrative decisions of agencies that
+17 regulate a profession or occupation pursuant to title 32, title 36,
+18 chapter 4, article 6{{, title 36, chapter 6, article 7}} or title 36,
+19 chapter 17, the trial shall be de novo if trial de novo is demanded in the
+20 notice of appeal or motion of an appellee other than the agency.
+21 E. The record in the superior court shall consist of the record of
+22 the administrative proceeding, and the record of any evidentiary hearing,
+23 or the record of the trial de novo.
+24 F. After reviewing the administrative record and supplementing
+25 evidence presented at the evidentiary hearing, the court may affirm,
+26 reverse, modify or vacate and remand the agency action. The court shall
+27 affirm the agency action unless the court concludes that the agency's
+28 action is contrary to law, is not supported by substantial evidence, is
+29 arbitrary and capricious or is an abuse of discretion. In a proceeding
+30 brought by or against the regulated party, the court shall decide all
+31 questions of law, including the interpretation of a constitutional or
+32 statutory provision or a rule adopted by an agency, without deference to
+33 any previous determination that may have been made on the question by the
+34 agency. In a proceeding brought by or against the regulated party, the
+35 court shall decide all questions of fact without deference to any previous
+36 determination that may have been made on the question by the agency.
+37 Notwithstanding any other law, this subsection applies in any action for
+38 judicial review of any agency action that is authorized by law.
+39 G. Notwithstanding subsection F of this section, if the action
+40 arises out of title 20, chapter 15, article 2, the court shall affirm the
+41 agency action unless after reviewing the administrative record and
+42 supplementing evidence presented at the evidentiary hearing the court
+43 concludes that the action is not supported by substantial evidence, is
+44 contrary to law, is arbitrary and capricious or is an abuse of discretion.
+45 H. This section does not apply to any agency action pursuant to
+46 title 40, chapter 2, article 5 or 6.2.≥≥
+-2-
+
+Senate Amendments to H.B. 2251
+1 ≤≤Sec. 1. Section 20-3151, Arizona Revised Statutes, is amended to
+2 read:
+3 20-3151. Definitions
+4 For the purposes of this section:
+5 1. "Enrollee" means an individual who is enrolled in a health care
+6 plan provided by a health care insurer.
+7 2. "Health care insurer" means a disability insurer, group
+8 disability insurer, blanket disability insurer, health care services
+9 organization, hospital service corporation, medical service corporation or
+10 hospital and medical service corporation.
+11 3. "Health care plan" means a policy, contract or evidence of
+12 coverage issued to an enrollee. Health care plan does not include limited
+13 benefit coverage as defined in section 20-1137.
+14 4. "Health care professional" means a professional who is regulated
+15 pursuant to title 32, chapter 7, 8, 11, 13, 14, 15, 15.1, 16, 17, 18, 19,
+16 19.1, 25, 28, 29, 33, 34, 35, 39 or 41{{, title 36, chapter 6, article 7}}
+17 or title 36, chapter 17.≥≥
+18 ≤≤Sec. 2. Section 32-1502, Arizona Revised Statutes, is amended to
+19 read:
+20 32-1502. Naturopathic physicians medical board; members;
+21 appointment; qualifications; terms of office;
+22 immunity
+23 A. The naturopathic physicians medical board is established
+24 consisting of the following members:
+25 1. Four physician members {{WHO ARE}} appointed by the governor.
+26 Each physician member shall be:
+27 (a) A resident of this state for at least five years immediately
+28 preceding the appointment.
+29 (b) A doctor of naturopathic medicine with a degree from a
+30 naturopathic school or college approved by the board who has engaged in
+31 full-time practice of naturopathic medicine for at least five years
+32 immediately preceding the appointment.
+33 {{2. ONE LICENSED MIDWIFE WHO IS APPOINTED BY THE GOVERNOR AND WHO
+34 SHALL BE:
+35 (a) A RESIDENT OF THIS STATE FOR AT LEAST FIVE YEARS IMMEDIATELY
+36 PRECEDING THE APPOINTMENT.
+37 (b) A MIDWIFE WHO IS LICENSED PURSUANT TO ARTICLE 5 OF THIS CHAPTER
+38 AND WHO HAS ENGAGED IN A FULL-TIME PRACTICE OF MIDWIFERY FOR AT LEAST FIVE
+39 YEARS IMMEDIATELY PRECEDING THE APPOINTMENT.}}
+40 {{2.}} {{3.}} Three public members {{WHO ARE}} appointed by the
+41 governor. Each public member shall:
+42 (a) Be a resident of this state for at least five years immediately
+43 preceding the appointment.
+44 (b) Not be connected, in any manner, with or have any interest in a
+45 school of medicine, a health care institution or any person practicing any
+46 form of healing or treatment of bodily or mental ailments.
+47 (c) Demonstrate an interest in the health problems in this state.
+48 B. Before appointment by the governor, a prospective member of the
+49 board shall submit a full set of fingerprints to the governor for the
+-3-
+
+Senate Amendments to H.B. 2251
+1 purpose of obtaining a state and federal criminal records check pursuant
+2 to section 41-1750 and Public Law 92-544. The department of public safety
+3 may exchange this fingerprint data with the federal bureau of
+4 investigation.
+5 C. The terms of office of the physician members{{, THE MIDWIFE
+6 MEMBER}} and the public members are five years to begin and end on
+7 June 30. Each physician member{{, EACH MIDWIFE MEMBER}} and each public
+8 member continue to hold office until the appointment and qualification of
+9 their successors, subject to the following exceptions:
+10 1. A member of the board may be removed from office if the governor
+11 finds the member was guilty of malfeasance, misfeasance or dishonorable
+12 conduct.
+13 2. The term of any member automatically ends on resignation,
+14 permanent removal from this state or removal from this state for a period
+15 of more than six months.
+16 D. There shall be no monetary liability on the part of and no cause
+17 of action shall arise against the members of the board, the
+18 secretary-treasurer or permanent or temporary personnel of the board for
+19 any act done or proceeding undertaken or performed in good faith and in
+20 furtherance of the purposes of this chapter.≥≥
+21 ≤≤Sec. 3. Section 32-1505, Arizona Revised Statutes, as amended by
+22 Laws 2024, chapter 222, section 17, is amended to read:
+23 32-1505. Naturopathic physicians medical board fund; separate
+24 licensed midwife account
+25 A. The naturopathic physicians medical board fund is established.
+26 The board shall administer the fund. Pursuant to sections 35-146 and
+27 35-147, the board shall deposit fifteen percent of all monies from
+28 whatever source that come into the possession of the board in the state
+29 general fund and deposit the remaining eighty-five percent in the
+30 naturopathic physicians medical board fund.
+31 B. Monies deposited in the naturopathic physicians medical board
+32 fund are subject to section 35-143.01.
+33 {{C. BEGINNING JULY 1, 2027, ALL MONIES DEPOSITED IN THE
+34 NATUROPATHIC PHYSICIANS MEDICAL BOARD FUND PURSUANT TO SECTION 32-1527 FOR
+35 NATUROPATHIC PHYSICIAN LICENSING AND REGULATION MUST BE USED ONLY FOR
+36 LICENSING AND REGULATING NATUROPATHIC PHYSICIANS PURSUANT TO THIS ARTICLE
+37 AND ARTICLES 2, 3 AND 4 OF THIS CHAPTER AND MAY NOT BE USED FOR LICENSING
+38 AND REGULATING MIDWIVES PURSUANT TO ARTICLE 5 OF THIS CHAPTER.
+39 D. BEGINNING JULY 1, 2027, ALL MONIES DEPOSITED IN THE NATUROPATHIC
+40 PHYSICIANS MEDICAL BOARD FUND PURSUANT TO ARTICLE 5 OF THIS CHAPTER FOR
+41 MIDWIFE LICENSING AND REGULATION MUST BE USED ONLY FOR LICENSING AND
+42 REGULATING MIDWIVES PURSUANT TO ARTICLE 5 OF THIS CHAPTER AND MAY NOT BE
+43 USED FOR LICENSING AND REGULATING NATUROPATHIC PHYSICIANS PURSUANT TO THIS
+44 ARTICLE AND ARTICLES 2, 3 AND 4 OF THIS CHAPTER.
+45 E. THE BOARD SHALL ESTABLISH A SEPARATE ACCOUNT IN THE FUND FOR
+46 MONIES TRANSFERRED TO THE FUND PURSUANT TO ARTICLE 5 OF THIS CHAPTER FOR
+47 MIDWIFE LICENSING AND REGULATION.}}≥≥
+-4-
+
+Senate Amendments to H.B. 2251
+1 ≤≤Sec. 4. Section 32-1505, Arizona Revised Statutes, as amended by
+2 Laws 2024, chapter 222, section 18, is amended to read:
+3 32-1505. Naturopathic physicians medical board fund; separate
+4 licensed midwife account
+5 A. The naturopathic physicians medical board fund is established.
+6 The board shall administer the fund. Pursuant to sections 35-146 and
+7 35-147, the board shall deposit ten percent of all monies from whatever
+8 source that come into the possession of the board in the state general
+9 fund and deposit the remaining ninety percent in the naturopathic
+10 physicians medical board fund.
+11 B. Monies deposited in the naturopathic physicians medical board
+12 fund are subject to section 35-143.01.
+13 {{C. BEGINNING JULY 1, 2027, ALL MONIES DEPOSITED IN THE
+14 NATUROPATHIC PHYSICIANS MEDICAL BOARD FUND PURSUANT TO SECTION 32-1527 FOR
+15 NATUROPATHIC PHYSICIAN LICENSING AND REGULATION MUST BE USED ONLY FOR
+16 LICENSING AND REGULATING NATUROPATHIC PHYSICIANS PURSUANT TO THIS ARTICLE
+17 AND ARTICLES 2, 3 AND 4 OF THIS CHAPTER AND MAY NOT BE USED FOR LICENSING
+18 AND REGULATING MIDWIVES PURSUANT TO ARTICLE 5 OF THIS CHAPTER.
+19 D. BEGINNING JULY 1, 2027, ALL MONIES DEPOSITED IN THE NATUROPATHIC
+20 PHYSICIANS MEDICAL BOARD FUND PURSUANT TO ARTICLE 5 OF THIS CHAPTER FOR
+21 MIDWIFE LICENSING AND REGULATION MUST BE USED ONLY FOR LICENSING AND
+22 REGULATING MIDWIVES PURSUANT TO ARTICLE 5 OF THIS CHAPTER AND MAY NOT BE
+23 USED FOR LICENSING AND REGULATING NATUROPATHIC PHYSICIANS PURSUANT TO THIS
+24 ARTICLE AND ARTICLES 2, 3 AND 4 OF THIS CHAPTER.
+25 E. THE BOARD SHALL ESTABLISH A SEPARATE ACCOUNT IN THE FUND FOR
+26 MONIES TRANSFERRED TO THE FUND PURSUANT TO ARTICLE 5 OF THIS CHAPTER FOR
+27 MIDWIFE LICENSING AND REGULATION.}}≥≥
+28 ≤≤Sec. 5. Transfer and renumber
+29 {{Title 36, chapter 6, article 7, Arizona Revised Statutes, is
+30 transferred and renumbered for placement in title 32, chapter 14, Arizona
+31 Revised Statutes, as article 5, as added by this act. The following
+32 sections are transferred and renumbered for placement in title 32, chapter
+33 14, article 5, Arizona Revised Statutes:
+34 Former Sections New Sections
+35 36-751 ………………………………………………………………………………………………………………………………………… 32-1591
+36 36-752 ………………………………………………………………………………………………………………………………… 32-1591.01
+37 36-753 ………………………………………………………………………………………………………………………………… 32-1591.02
+38 36-754 ………………………………………………………………………………………………………………………………… 32-1591.03
+39 36-755 ………………………………………………………………………………………………………………………………… 32-1591.04
+40 36-756 ………………………………………………………………………………………………………………………………… 32-1591.05
+41 36-756.01 ………………………………………………………………………………………………………………………… 32-1591.06
+42 36-757 ………………………………………………………………………………………………………………………………… 32-1591.07
+43 36-758 ………………………………………………………………………………………………………………………………… 32-1591.08
+44 36-759 ………………………………………………………………………………………………………………………………… 32-1591.09
+45 36-760 ………………………………………………………………………………………………………………………… 32-1591.10}}≥≥
+-5-
+
+Senate Amendments to H.B. 2251
+1 Sec. 6. Section {{36-751}} {{32-1591}}, Arizona Revised Statutes,
+2 {{as transferred and renumbered,}} is amended to read:
+3 {{36-751.}} {{32-1591.}} Definitions
+4 In this article, unless the context otherwise requires:
+5 {{1. "Department" means the department of health services.}}
+6 {{2.}} {{1.}} "Director" means the {{EXECUTIVE}} director of the
+7 {{department}} of health services {{BOARD}}.
+8 {{3.}} {{2.}} "LICENSED MIDWIFE" MEANS A MIDWIFE WHO IS LICENSED
+9 PURSUANT TO THIS ARTICLE.
+10 3. {{4.}} {{3.}} "Midwife" means a person who delivers a baby or
+11 provides health care related to pregnancy, labor, delivery and postpartum
+12 care of the mother and her infant.
+13 ≤≤Sec. 7. Section 32-1591.02, Arizona Revised Statutes, as
+14 transferred and renumbered, is amended to read:
+15 32-1591.02. Application for license as midwife
+16 A person who desires to obtain a license to practice midwifery shall
+17 {{make written application}} {{APPLY}} to the {{director of the department
+18 of health services, upon}} {{BOARD IN WRITING ON}} a form to be supplied
+19 by the {{director}} {{BOARD}} and shall {{furnish such}} {{PROVIDE THE}}
+20 information {{as may be}} required by the {{director}} {{BOARD}}.≥≥
+21 Sec. 8. Section {{32-1591.04}}, Arizona Revised Statutes, {{as
+22 transferred and renumbered,}} is amended to read:
+23 {{36-755.}} {{32-1591.04.}} Powers and duties of the board
+24 A. The {{director}} {{BOARD}} may adopt rules necessary for the
+25 proper administration and enforcement of this article.
+26 B. The {{director}} {{BOARD}} shall, by rule:
+27 1. Define and describe, consistent with this article and the laws
+28 of this state, the duties and limits of the practice of midwifery.
+29 2. Adopt standards with respect to the practice of midwifery
+30 designed to safeguard the health and safety of the mother and child.
+31 3. Establish the criteria for granting, denying, suspending and
+32 revoking a license in order to protect the health and safety of the mother
+33 and child.
+34 4. Describe and define reasonable and necessary minimum
+35 qualifications for LICENSED midwives, including:
+36 (a) The ability to read and write.
+37 (b) Knowledge of the fundamentals of hygiene.
+38 (c) The ability to recognize abnormal or potentially abnormal
+39 conditions during pregnancy, labor and delivery and following birth.
+40 (d) Knowledge of the laws of this state concerning reporting of
+41 births, prenatal blood tests and newborn screening and of the rules
+42 pertaining to midwifery.
+43 (e) Education requirements.
+44 (f) Age requirements.
+45 [C. THE DIRECTOR SHALL CONSIDER THE MOST RECENT MIDWIFERY JOB
+46 ANALYSIS ISSUED BY THE NORTH AMERICAN REGISTRY OF MIDWIVES WHEN ADOPTING
+47 OR AMENDING RULES RELATING TO THE MIDWIFERY SCOPE OF PRACTICE.]
+-6-
+
+Senate Amendments to H.B. 2251
+1 ≤≤Sec. 9. Section 32-1591.05, Arizona Revised Statutes, as
+2 transferred and renumbered, is amended to read:
+3 32-1591.05. Denial, suspension and revocation of licenses;
+4 disciplinary action; duty to report;
+5 investigatory powers; hearing; appeal; civil
+6 penalties; injunctions
+7 A. The {{director}} {{BOARD}} may deny, suspend or revoke the
+8 license of any midwife {{OR MAY DISCIPLINE ANY LICENSED MIDWIFE}} who:
+9 1. Violates any provision of this article or the rules adopted
+10 under this article.
+11 2. Has been convicted of a felony or a misdemeanor involving moral
+12 turpitude.
+13 3. Indulges in conduct or a practice detrimental to the health or
+14 safety of the mother and child.
+15 B. The {{department}} {{BOARD}} may deny a license without holding
+16 a hearing. An applicant may appeal this decision pursuant to title 41,
+17 chapter 6, article 10.
+18 {{C. The department shall conduct any hearing to suspend or revoke
+19 a license in accordance with the procedures established pursuant to title
+20 41, chapter 6, article 10. If the director determines at the conclusion
+21 of a hearing that grounds exist to suspend or revoke a license, he may do
+22 so permanently or for any period of time he deems appropriate and under
+23 any conditions that he deems appropriate. An applicant for licensure or a
+24 licensee may appeal the final decision of the director.}}
+25 {{C. THE BOARD ON ITS OWN MOTION MAY INVESTIGATE ANY EVIDENCE THAT
+26 APPEARS TO SHOW THAT A LICENSED MIDWIFE IS OR MAY BE MEDICALLY
+27 INCOMPETENT, IS OR MAY BE GUILTY OF UNPROFESSIONAL CONDUCT OR IS OR MAY BE
+28 MENTALLY OR PHYSICALLY UNABLE TO ENGAGE SAFELY IN THE PRACTICE OF
+29 MIDWIFERY. ANY PERSON MAY AND ANY HEALTH CARE INSTITUTION SHALL REPORT TO
+30 THE BOARD ANY INFORMATION THAT APPEARS TO SHOW THAT A LICENSED MIDWIFE IS
+31 OR MAY BE MEDICALLY INCOMPETENT, IS OR MAY BE GUILTY OF UNPROFESSIONAL
+32 CONDUCT OR IS OR MAY BE MENTALLY OR PHYSICALLY UNABLE TO ENGAGE SAFELY IN
+33 THE PRACTICE OF MIDWIFERY. THE BOARD OR THE DIRECTOR SHALL NOTIFY THE
+34 LICENSED MIDWIFE AS TO THE CONTENT OF THE COMPLAINT AS SOON AS REASONABLE.
+35 ANY PERSON OR ENTITY THAT REPORTS OR PROVIDES INFORMATION TO THE BOARD IN
+36 GOOD FAITH IS NOT SUBJECT TO AN ACTION FOR CIVIL DAMAGES. IF REQUESTED,
+37 THE BOARD MAY NOT DISCLOSE THE NAME OF A PERSON WHO SUPPLIES INFORMATION
+38 REGARDING A LICENSED MIDWIFE'S DRUG OR ALCOHOL IMPAIRMENT. IT IS AN ACT
+39 OF UNPROFESSIONAL CONDUCT FOR ANY LICENSED MIDWIFE TO FAIL TO REPORT AS
+40 REQUIRED BY THIS SECTION. THE BOARD SHALL REPORT ANY HEALTH CARE
+41 INSTITUTION THAT FAILS TO REPORT AS REQUIRED BY THIS SECTION TO THAT
+42 INSTITUTION'S LICENSING AGENCY.
+43 D. THE BOARD OR, IF DELEGATED BY THE BOARD, THE DIRECTOR SHALL
+44 REQUIRE ANY COMBINATION OF MENTAL, PHYSICAL OR ORAL OR WRITTEN MEDICAL
+45 COMPETENCY EXAMINATIONS AND CONDUCT NECESSARY INVESTIGATIONS, INCLUDING
+46 INVESTIGATIONAL INTERVIEWS BETWEEN REPRESENTATIVES OF THE BOARD AND THE
+47 LICENSED MIDWIFE, TO FULLY INFORM ITSELF WITH RESPECT TO ANY INFORMATION
+48 FILED WITH THE BOARD UNDER THIS SECTION. THESE EXAMINATIONS MAY INCLUDE
+49 BIOLOGICAL FLUID TESTING AND PSYCHOLOGICAL OR PSYCHIATRIC EVALUATION. THE
+-7-
+
+Senate Amendments to H.B. 2251
+1 BOARD OR, IF DELEGATED BY THE BOARD, THE DIRECTOR MAY REQUIRE THE LICENSED
+2 MIDWIFE, AT THE LICENSED MIDWIFE'S EXPENSE, TO UNDERGO AN ASSESSMENT BY A
+3 BOARD-APPROVED REHABILITATIVE, RETRAINING OR ASSESSMENT PROGRAM.
+4 E. IF THE BOARD FINDS, BASED ON THE INFORMATION IT RECEIVES UNDER
+5 THIS SECTION, THAT THE PUBLIC HEALTH, SAFETY OR WELFARE IMPERATIVELY
+6 REQUIRES EMERGENCY ACTION AND INCORPORATES A FINDING TO THAT EFFECT IN ITS
+7 ORDER, THE BOARD MAY RESTRICT, LIMIT OR ORDER A SUMMARY SUSPENSION OF A
+8 LICENSE PENDING PROCEEDINGS FOR REVOCATION OR OTHER ACTION. IF THE BOARD
+9 TAKES ACTION PURSUANT TO THIS SUBSECTION, THE BOARD SHALL ALSO SERVE THE
+10 LICENSED MIDWIFE WITH A WRITTEN NOTICE THAT STATES THE CHARGES AND THAT
+11 THE LICENSED MIDWIFE IS ENTITLED TO A FORMAL HEARING BEFORE THE BOARD OR
+12 AN ADMINISTRATIVE LAW JUDGE.
+13 F. IF, AFTER COMPLETING ITS INVESTIGATION, THE BOARD FINDS THAT THE
+14 INFORMATION PROVIDED PURSUANT TO SUBSECTION C OF THIS SECTION IS NOT OF
+15 SUFFICIENT SERIOUSNESS TO MERIT DISCIPLINARY ACTION AGAINST THE LICENSED
+16 MIDWIFE, THE BOARD MAY TAKE ANY OF THE FOLLOWING ACTIONS:
+17 1. DISMISS IF, IN THE OPINION OF THE BOARD, THE INFORMATION IS
+18 WITHOUT MERIT.
+19 2. FILE A LETTER OF CONCERN.
+20 3. ISSUE A NONDISCIPLINARY ORDER REQUIRING THE LICENSED MIDWIFE TO
+21 COMPLETE A PRESCRIBED NUMBER OF HOURS OF CONTINUING EDUCATION IN AN AREA
+22 OR AREAS PRESCRIBED BY THE BOARD TO PROVIDE THE LICENSED MIDWIFE WITH THE
+23 NECESSARY UNDERSTANDING OF CURRENT DEVELOPMENTS, SKILLS, PROCEDURES OR
+24 TREATMENT.
+25 G. IF THE BOARD FINDS THAT IT CAN TAKE REHABILITATIVE OR
+26 DISCIPLINARY ACTION WITHOUT THE PRESENCE OF THE LICENSED MIDWIFE AT A
+27 FORMAL INTERVIEW, THE BOARD MAY ENTER INTO A CONSENT AGREEMENT WITH THE
+28 LICENSED MIDWIFE TO LIMIT OR RESTRICT THE LICENSED MIDWIFE'S PRACTICE OR
+29 TO REHABILITATE THE LICENSED MIDWIFE IN ORDER TO PROTECT THE PUBLIC AND
+30 ENSURE THE LICENSED MIDWIFE'S ABILITY TO SAFELY ENGAGE IN THE PRACTICE OF
+31 MIDWIFERY. THE BOARD MAY ALSO REQUIRE THE LICENSED MIDWIFE TO
+32 SUCCESSFULLY COMPLETE A BOARD-APPROVED REHABILITATIVE, RETRAINING OR
+33 ASSESSMENT PROGRAM.
+34 H. IF AFTER COMPLETING ITS INVESTIGATION THE BOARD BELIEVES THAT
+35 THE INFORMATION IS OR MAY BE TRUE, THE BOARD MAY REQUEST A FORMAL
+36 INTERVIEW WITH THE LICENSED MIDWIFE. IF THE LICENSED MIDWIFE REFUSES THE
+37 INVITATION OR ACCEPTS AND THE RESULTS INDICATE THAT GROUNDS MAY EXIST FOR
+38 SUSPENSION OF THE LICENSED MIDWIFE'S LICENSE FOR MORE THAN TWELVE MONTHS
+39 OR REVOCATION OF THE LICENSE, THE BOARD MAY ISSUE A FORMAL COMPLAINT AND
+40 ORDER THAT A HEARING BE HELD PURSUANT TO TITLE 41, CHAPTER 6, ARTICLE 10.
+41 IF AFTER COMPLETING A FORMAL INTERVIEW THE BOARD FINDS THE INFORMATION
+42 PROVIDED UNDER THIS SECTION IS NOT OF SUFFICIENT SERIOUSNESS TO MERIT
+43 SUSPENSION FOR MORE THAN TWELVE MONTHS OR REVOCATION OF THE LICENSE, THE
+44 BOARD MAY TAKE THE FOLLOWING ACTIONS:
+45 1. DISMISS IF, IN THE OPINION OF THE BOARD, THE COMPLAINT IS
+46 WITHOUT MERIT.
+47 2. FILE A LETTER OF CONCERN.
+48 3. FILE A LETTER OF REPRIMAND.
+-8-
+
+Senate Amendments to H.B. 2251
+1 4. ISSUE A DECREE OF CENSURE. A DECREE OF CENSURE IS AN OFFICIAL
+2 ACTION AGAINST THE LICENSED MIDWIFE'S LICENSE AND MAY INCLUDE A
+3 REQUIREMENT FOR RESTITUTION OF FEES TO A PATIENT RESULTING FROM VIOLATIONS
+4 OF THIS ARTICLE OR RULES ADOPTED UNDER THIS CHAPTER.
+5 5. FIX A PERIOD AND TERMS OF PROBATION BEST ADAPTED TO PROTECT THE
+6 PUBLIC HEALTH AND SAFETY AND REHABILITATE OR EDUCATE THE LICENSED MIDWIFE
+7 CONCERNED. PROBATION MAY INCLUDE TEMPORARY LICENSE SUSPENSION FOR NOT
+8 MORE THAN TWELVE MONTHS, RESTRICTION OF THE LICENSED MIDWIFE'S LICENSE TO
+9 PRACTICE MIDWIFERY, A REQUIREMENT FOR RESTITUTION OF FEES TO A PATIENT OR
+10 EDUCATION OR REHABILITATION AT THE LICENSED MIDWIFE'S OWN EXPENSE. IF A
+11 LICENSED MIDWIFE FAILS TO COMPLY WITH THE TERMS OF PROBATION, THE BOARD
+12 SHALL SERVE THE LICENSED MIDWIFE WITH A WRITTEN NOTICE THAT STATES THAT
+13 THE LICENSED MIDWIFE IS SUBJECT TO A FORMAL HEARING BASED ON THE
+14 INFORMATION CONSIDERED BY THE BOARD AT THE FORMAL INTERVIEW AND ANY OTHER
+15 ACTS OR CONDUCT ALLEGED TO BE IN VIOLATION OF THIS ARTICLE OR RULES
+16 ADOPTED BY THE BOARD PURSUANT TO THIS CHAPTER, INCLUDING NONCOMPLIANCE
+17 WITH THE TERMS OF PROBATION, A CONSENT AGREEMENT OR A STIPULATED
+18 AGREEMENT.
+19 6. ENTER INTO AN AGREEMENT WITH THE LICENSED MIDWIFE TO RESTRICT OR
+20 LIMIT THE LICENSED MIDWIFE'S PRACTICE OR MEDICAL ACTIVITIES IN ORDER TO
+21 REHABILITATE, RETRAIN OR ASSESS THE LICENSED MIDWIFE, PROTECT THE PUBLIC
+22 AND ENSURE THE LICENSED MIDWIFE'S ABILITY TO SAFELY ENGAGE IN THE PRACTICE
+23 OF MIDWIFERY. THE BOARD MAY ALSO REQUIRE THE LICENSED MIDWIFE TO
+24 SUCCESSFULLY COMPLETE A BOARD-APPROVED REHABILITATIVE, RETRAINING OR
+25 ASSESSMENT PROGRAM AT THE LICENSED MIDWIFE'S OWN EXPENSE PURSUANT TO
+26 SUBSECTION G OF THIS SECTION.
+27 7. ISSUE A NONDISCIPLINARY ORDER REQUIRING THE LICENSED MIDWIFE TO
+28 COMPLETE A PRESCRIBED NUMBER OF HOURS OF CONTINUING EDUCATION IN AN AREA
+29 OR AREAS PRESCRIBED BY THE BOARD TO PROVIDE THE LICENSED MIDWIFE WITH THE
+30 NECESSARY UNDERSTANDING OF CURRENT DEVELOPMENTS, SKILLS, PROCEDURES OR
+31 TREATMENT.
+32 I. IF THE BOARD FINDS THAT THE INFORMATION PROVIDED IN AN
+33 INVESTIGATION WARRANTS SUSPENSION OR REVOCATION OF A LICENSE ISSUED UNDER
+34 THIS ARTICLE, THE BOARD SHALL INITIATE FORMAL PROCEEDINGS PURSUANT TO
+35 TITLE 41, CHAPTER 6, ARTICLE 10.
+36 J. ANY LICENSED MIDWIFE WHO AFTER A FORMAL HEARING IS FOUND BY THE
+37 BOARD TO BE GUILTY OF UNPROFESSIONAL CONDUCT, TO BE MENTALLY OR PHYSICALLY
+38 UNABLE TO SAFELY ENGAGE IN THE PRACTICE OF MIDWIFERY OR TO BE MEDICALLY
+39 INCOMPETENT IS SUBJECT TO CENSURE, PROBATION AS PROVIDED IN THIS SECTION,
+40 SUSPENSION OR REVOCATION OF A LICENSE OR ANY COMBINATION OF THESE UNDER
+41 ANY CONDITIONS AS THE BOARD DEEMS APPROPRIATE FOR THE PROTECTION OF THE
+42 PUBLIC HEALTH AND SAFETY AND JUST IN THE CIRCUMSTANCE. THE BOARD MAY
+43 CHARGE THE COSTS OF FORMAL HEARINGS TO THE LICENSED MIDWIFE WHOM THE BOARD
+44 FINDS TO BE IN VIOLATION OF THIS CHAPTER.
+45 K. IF THE BOARD, DURING THE COURSE OF ANY INVESTIGATION, DETERMINES
+46 THAT A CRIMINAL VIOLATION MAY HAVE OCCURRED INVOLVING THE DELIVERY OF
+47 HEALTH CARE, THE BOARD SHALL MAKE THE EVIDENCE OF VIOLATIONS AVAILABLE TO
+48 THE APPROPRIATE CRIMINAL JUSTICE AGENCY FOR ITS CONSIDERATION.
+-9-
+
+Senate Amendments to H.B. 2251
+1 L. NOTICE OF A COMPLAINT AND HEARING IS EFFECTIVE BY A TRUE COPY OF
+2 IT BEING SENT BY CERTIFIED MAIL TO THE LICENSED MIDWIFE'S LAST KNOWN
+3 ADDRESS OF RECORD IN THE BOARD'S FILES. NOTICE OF THE COMPLAINT AND
+4 HEARING IS COMPLETE ON THE DATE OF ITS DEPOSIT IN THE MAIL.
+5 M. THE BOARD MAY ACCEPT THE SURRENDER OF AN ACTIVE LICENSE FROM A
+6 LICENSED MIDWIFE WHO ADMITS IN WRITING TO ANY OF THE FOLLOWING:
+7 1. BEING UNABLE TO SAFELY ENGAGE IN THE PRACTICE OF MIDWIFERY.
+8 2. HAVING COMMITTED AN ACT OF UNPROFESSIONAL CONDUCT.
+9 3. HAVING VIOLATED THIS ARTICLE OR A BOARD RULE.
+10 N. THE BOARD MAY ADMINISTER THE OATH TO ALL WITNESSES AND SHALL
+11 KEEP A WRITTEN TRANSCRIPT OF ALL ORAL TESTIMONY SUBMITTED AT THE HEARING
+12 AND THE ORIGINAL OR A COPY OF ALL OTHER EVIDENCE SUBMITTED. THE BOARD MAY
+13 WAIVE THE TECHNICAL RULES OF EVIDENCE AT ANY HEARING CONDUCTED UNDER THIS
+14 SECTION.
+15 O. EXCEPT AS PROVIDED IN SECTION 41-1092.08, SUBSECTION H, AN
+16 APPEAL TO THE SUPERIOR COURT IN MARICOPA COUNTY MAY BE TAKEN FROM
+17 DECISIONS OF THE BOARD PURSUANT TO TITLE 12, CHAPTER 7, ARTICLE 6.}}
+18 {{D.}} {{P.}} In addition to other disciplinary action, the
+19 {{director}}{{BOARD}} may assess a civil penalty of not more than {{one
+20 hundred dollars}} {{$100}} for each violation of this article or a rule
+21 adopted pursuant to this article as determined by a hearing held pursuant
+22 to this section. Each day that a violation continues constitutes a
+23 separate offense. The attorney general or the county attorney may bring
+24 an action in the name of this state to enforce a civil penalty. The action
+25 shall be filed in the superior court or in justice court in the county
+26 where the violation occurred.
+27 {{E.}} {{Q.}} In addition to other available remedies, the
+28 {{director}} {{BOARD}} may apply to the superior court for an injunction
+29 to restrain a person from violating a provision of this article or a rule
+30 adopted pursuant to this article. The court shall grant a temporary
+31 restraining order, a preliminary injunction or a permanent injunction
+32 without bond. The defendant may be served in any county of this
+33 state. The action shall be brought on behalf of the {{director}}
+34 {{BOARD}} by the attorney general or the county attorney of the county in
+35 which the violation is occurring.≥≥
+36 ≤≤Sec. 10. Section 32-1591.06, Arizona Revised Statutes, as
+37 transferred and renumbered, is amended to read:
+38 32-1591.06. Investigations; right to examine and copy
+39 evidence; witnesses; documents; subpoenas;
+40 confidentiality
+41 A. {{The director may investigate information that indicates that a
+42 person is violating this article.}} In connection with an investigation
+43 {{BY THE BOARD ON ITS OWN MOTION, OR AS THE RESULT OF INFORMATION RECEIVED
+44 PURSUANT TO SECTION 32-1591.05}}, the {{department}} {{BOARD AND ITS DULY
+45 AUTHORIZED AGENTS OR EMPLOYEES AT ALL REASONABLE TIMES}} may examine and
+46 copy documents{{, REPORTS, RECORDS}} and other physical evidence {{OF THE
+47 PERSON THE BOARD IS INVESTIGATING}} wherever located that relate to the
+48 conduct{{,}} {{or}} competency {{OR MENTAL OR PHYSICAL ABILITY}} of a
+-10-
+
+Senate Amendments to H.B. 2251
+1 midwife {{pursuant to the requirements of this article}} {{TO SAFELY
+2 PRACTICE MIDWIFERY}}.
+3 {{B. Pursuant to an investigation or an administrative proceeding,
+4 the director may issue subpoenas to compel the testimony of witnesses or
+5 to demand the production of relevant documents and other physical
+6 evidence. If a person refuses to comply with a subpoena, the director may
+7 apply to the superior court for an order to compel compliance.}}
+8 {{B. FOR THE PURPOSE OF ALL INVESTIGATIONS AND PROCEEDINGS
+9 CONDUCTED BY THE BOARD:
+10 1. THE BOARD ON ITS OWN INITIATIVE OR ON APPLICATION OF ANY PERSON
+11 INVOLVED IN THE INVESTIGATION MAY ISSUE SUBPOENAS TO REQUIRE THE
+12 ATTENDANCE AND TESTIMONY OF WITNESSES OR TO DEMAND THE PRODUCTION FOR
+13 EXAMINATION OR COPYING OF DOCUMENTS OR ANY OTHER PHYSICAL EVIDENCE THAT
+14 RELATES TO THE COMPETENCE, UNPROFESSIONAL CONDUCT OR MENTAL OR PHYSICAL
+15 ABILITY OF A LICENSED MIDWIFE TO SAFELY PRACTICE MIDWIFERY. WITHIN FIVE
+16 DAYS AFTER A PERSON IS SERVED WITH A SUBPOENA, THAT PERSON MAY PETITION
+17 THE BOARD TO REVOKE, LIMIT OR MODIFY THE SUBPOENA. THE BOARD SHALL DO SO
+18 IF IN THE BOARD'S OPINION THE EVIDENCE REQUIRED DOES NOT RELATE TO
+19 UNLAWFUL PRACTICES COVERED BY THIS ARTICLE OR THE RULES ADOPTED PURSUANT
+20 TO THIS ARTICLE, IS NOT RELEVANT TO THE CHARGE THAT IS THE SUBJECT MATTER
+21 OF THE HEARING OR INVESTIGATION OR DOES NOT DESCRIBE WITH SUFFICIENT
+22 PARTICULARITY THE PHYSICAL EVIDENCE REQUIRED TO BE PRODUCED. ANY MEMBER
+23 OF THE BOARD OR ANY AGENT DESIGNATED BY THE BOARD MAY ADMINISTER OATHS OR
+24 AFFIRMATIONS, EXAMINE WITNESSES AND RECEIVE EVIDENCE.
+25 2. ANY PERSON APPEARING BEFORE THE BOARD MAY BE REPRESENTED BY
+26 COUNSEL.
+27 3. ON APPLICATION BY THE BOARD OR BY THE PERSON SUBPOENAED, THE
+28 SUPERIOR COURT MAY ISSUE AN ORDER TO EITHER:
+29 (a) REQUIRE THE SUBPOENAED PERSON TO APPEAR BEFORE THE BOARD OR THE
+30 DULY AUTHORIZED AGENT TO PRODUCE EVIDENCE RELATING TO THE MATTER UNDER
+31 INVESTIGATION.
+32 (b) REVOKE, LIMIT OR MODIFY THE SUBPOENA IF IN THE COURT'S OPINION
+33 THE EVIDENCE DEMANDED DOES NOT RELATE TO UNLAWFUL PRACTICES COVERED BY
+34 THIS ARTICLE, IS NOT RELEVANT TO THE CHARGE THAT IS THE SUBJECT MATTER OF
+35 THE HEARING OR INVESTIGATION OR DOES NOT DESCRIBE WITH SUFFICIENT
+36 PARTICULARITY THE EVIDENCE WHOSE PRODUCTION IS REQUIRED.}}
+37 C. Patient records, including clinical records, medical reports,
+38 laboratory statements and reports, files, films and oral statements
+39 relating to patient examinations, findings and treatment, that are kept by
+40 the {{director}} {{BOARD}} pursuant to an investigation are not available
+41 to the public. The {{director}} {{BOARD}} shall keep confidential the
+42 names of patients whose records are reviewed during the course of an
+43 investigation or hearing.
+44 {{D. THIS SECTION AND ANY OTHER LAW MAKING COMMUNICATIONS BETWEEN A
+45 LICENSED MIDWIFE AND A LICENSED MIDWIFE'S PATIENT PRIVILEGED DO NOT APPLY
+46 TO INVESTIGATIONS OR PROCEEDINGS CONDUCTED PURSUANT TO THIS ARTICLE. THE
+47 BOARD AND ITS EMPLOYEES, AGENTS AND REPRESENTATIVES MUST KEEP IN
+48 CONFIDENCE THE NAMES OF ANY PATIENTS WHOSE RECORDS ARE REVIEWED DURING THE
+49 COURSE OF INVESTIGATIONS AND PROCEEDINGS PURSUANT TO THIS ARTICLE.
+-11-
+
+Senate Amendments to H.B. 2251
+1 E. THE COURT MAY FIND A PERSON WHO DOES NOT COMPLY WITH A SUBPOENA
+2 ISSUED PURSUANT TO THIS SECTION IN CONTEMPT OF COURT.}}≥≥
+3 ≤≤Sec. 11. Section 32-1591.08, Arizona Revised Statutes, as
+4 transferred and renumbered, is amended to read:
+5 32-1591.08. Fees
+6 The {{director}} {{BOARD}}, by rule, shall establish and collect
+7 nonrefundable fees {{FOR THE PURPOSES OF THIS ARTICLE.}} {{that do not
+8 exceed:
+9 1. Twenty-five dollars for an initial application.
+10 2. Fifty dollars for an initial license.
+11 3. Two hundred fifty dollars for testing.
+12 4. Fifty dollars for license renewal.
+13 5. Ten dollars for a duplicate license.}}≥≥
+14 Sec. 12. {{Title 36, chapter 6, article 7}} {{Title 32, chapter 14,
+15 article 5}}, Arizona Revised Statutes, {{as transferred and renumbered,}}
+16 is amended by adding sections {{36-761, 36-762 and 36-763}} {{32-1591.11,
+17 32-1591.12 and 32-1591.13}}, to read:
+18 {{36-761.}} {{32-1591.11.}} Prescription drugs; dispensing
+19 and administration authority; storage;
+20 documentation
+21 A. A LICENSED MIDWIFE WHO, IN ADDITION TO THE REQUIREMENTS FOR
+22 INITIAL LICENSURE, HAS PROOF OF COMPLETION OF A PHARMACOLOGY COURSE OF AT
+23 LEAST EIGHT CONTINUING EDUCATION UNITS FROM A MIDWIFERY EDUCATION
+24 ACCREDITATION COUNCIL-ACCREDITED INSTITUTION OR A REGIONALLY ACCREDITED
+25 INSTITUTION MAY DISPENSE AND ADMINISTER THE FOLLOWING MEDICATIONS,
+26 THERAPIES AND DEVICES WITH THE FOLLOWING LIMITATIONS:
+27 1. ANTIBIOTICS RELATED TO GROUP B STREPTOCOCCUS PROPHYLAXIS
+28 CONSISTENT WITH THE UNITED STATES CENTERS FOR DISEASE CONTROL AND
+29 PREVENTION GUIDELINES OR OTHER CURRENT EVIDENCE-BASED GUIDELINES.
+30 2. THE FOLLOWING ANTIHEMORRHAGIC MEDICATIONS FOR PREVENTING AND
+31 TREATING POSTPARTUM HEMORRHAGE AS DEFINED BY THE AMERICAN COLLEGE OF
+32 OBSTETRICIANS AND GYNECOLOGISTS:
+33 (a) OXYTOCIN FOR PREVENTING UTERINE ATONY DURING OR IMMEDIATELY
+34 FOLLOWING THE THIRD STAGE OF LABOR ACCORDING TO CURRENT EVIDENCE-BASED
+35 STANDARDS OF CARE.
+36 (b) METHYLERGONOVINE.
+37 (c) CARBOPROST TROMETHAMINE.
+38 (d) MISOPROSTOL.
+39 (e) TRANEXAMIC ACID.
+40 A LICENSED MIDWIFE MAY NOT USE THE ANTIHEMORRHAGIC MEDICATIONS SPECIFIED
+41 IN THIS PARAGRAPH TO INDUCE OR AUGMENT LABOR. THE LICENSED MIDWIFE SHALL
+42 INITIATE A TRANSFER OF CARE IF AN ANTIHEMORRHAGIC MEDICATION IS
+43 ADMINISTERED FOR MANAGING HEMORRHAGE.
+44 3. PROPHYLACTIC OPHTHALMIC MEDICATIONS FOR NEWBORN EYE CARE.
+45 4. INTRAVENOUS FLUIDS FOR THE FOLLOWING:
+46 (a) MEDICATION ADMINISTRATION.
+47 (b) ROUTINE FLUID ADMINISTRATION.
+48 (c) TREATING HYPOVOLEMIC SHOCK WHILE AWAITING EMERGENCY MEDICAL
+49 SERVICE.
+-12-
+
+Senate Amendments to H.B. 2251
+1 5. VITAMIN K PROPHYLAXIS FOR NEWBORNS.
+2 6. RHO IMMUNE GLOBULIN.
+3 7. TOPICAL, INTRAMUSCULAR OR SUBCUTANEOUS LOCAL ANESTHETICS FOR
+4 POSTPARTUM REPAIR OF FIRST AND SECOND DEGREE TEARS, LACERATIONS OR
+5 EPISIOTOMIES. THIS PARAGRAPH DOES NOT INCLUDE ANY SCHEDULE I CONTROLLED
+6 SUBSTANCE.
+7 8. OXYGEN AND COMPRESSED AIR FOR FETAL OR MATERNAL DISTRESS AND
+8 INFANT RESUSCITATION.
+9 9. EPINEPHRINE FOR NEONATAL RESUSCITATION CONSISTENT WITH THE
+10 NEONATAL RESUSCITATION PROGRAM GUIDELINES AND TO TREAT MATERNAL ALLERGIC
+11 REACTIONS.
+12 10. GLUCOSE GEL ADMINISTERED ORALLY FOR NEONATAL HYPOGLYCEMIA.
+13 11. VITAMINS AND MINERALS FOR CORRECTING ELECTROLYTE IMBALANCES,
+14 INCLUDING B VITAMINS, CALCIUM, MAGNESIUM, DIETARY SUPPLEMENTS, HOMEOPATHIC
+15 REMEDIES, PLANT SUBSTANCES THAT ARE NOT DESIGNATED AS PRESCRIPTION DRUGS
+16 OR CONTROLLED SUBSTANCES, AND OVER-THE-COUNTER MEDICATIONS.
+17 12. RESUSCITATION SUPPLIES AND EQUIPMENT ACCORDING TO THE CURRENT
+18 NEONATAL RESUSCITATION PROGRAM ALGORITHM.
+19 13. MEDICAL SUPPLIES AND EQUIPMENT NEEDED TO ADMINISTER THE
+20 MEDICATIONS PRESCRIBED IN THIS SUBSECTION.
+21 14. ELECTRONIC BREAST PUMPS, GLUCOSE MONITORS, COMPRESSION
+22 STOCKINGS AND PREGNANCY SUPPORT BELTS OR DEVICES.
+23 B. [A LICENSED MIDWIFE MAY ADMINISTER OTHER PRESCRIPTION
+24 MEDICATIONS AS PRESCRIBED BY A PHYSICIAN WHO IS LICENSED PURSUANT TO TITLE
+25 32, CHAPTER 13, 14 OR 17, A REGISTERED NURSE PRACTITIONER WHO IS LICENSED
+26 PURSUANT TO TITLE 32, CHAPTER 15 OR A PHYSICIAN ASSISTANT WHO IS LICENSED
+27 PURSUANT TO TITLE 32, CHAPTER 25.] A PHARMACIST WHO DISPENSES PRESCRIPTION
+28 MEDICATIONS PRESCRIBED PURSUANT TO THIS SUBSECTION TO A LICENSED MIDWIFE
+29 IS NOT LIABLE FOR ANY ADVERSE REACTION THAT IS CAUSED BY THE LICENSED
+30 MIDWIFE'S METHOD OF USE.
+31 C. A LICENSED MIDWIFE MAY LAWFULLY OBTAIN, TRANSPORT, ADMINISTER
+32 AND POSSESS ADEQUATE QUANTITIES OF THE MEDICATIONS PRESCRIBED IN
+33 SUBSECTION A OF THIS SECTION AND THE EQUIPMENT NORMALLY REQUIRED TO
+34 ADMINISTER THOSE MEDICATIONS. THE LICENSED MIDWIFE SHALL:
+35 1. STORE THE MEDICATIONS PRESCRIBED IN SUBSECTION A OF THIS SECTION
+36 AS DIRECTED BY THE MANUFACTURER. A LICENSED MIDWIFE MAY NOT ADMINISTER A
+37 MEDICATION TO ANY PERSON AFTER THE LISTED EXPIRATION DATE.
+38 2. RECORD IN THE PATIENT'S CHART EACH USE OF MEDICATION AND THE
+39 MEDICATION'S LOT NUMBER AND EXPIRATION DATE.
+40 {{36-762.}} {{32-1591.12.}} Arizona midwifery advisory
+41 committee; membership; duties; sentinel events;
+42 definition
+43 A. THE ARIZONA MIDWIFERY ADVISORY COMMITTEE IS ESTABLISHED IN THE
+44 {{DEPARTMENT}} {{BOARD}} TO ASSIST IN EXAMINING APPLICANTS FOR A MIDWIFERY
+45 LICENSE, IF REQUESTED, TO COLLABORATE WITH AND ASSIST THE {{DIRECTOR}}
+46 {{BOARD}} IN DISCIPLINARY MATTERS, IF REQUESTED, AND TO PERFORM ANY OTHER
+47 DUTIES {{PRESCRIBED IN THIS ARTICLE}} {{AT THE DIRECTION OF THE BOARD}}.
+-13-
+
+Senate Amendments to H.B. 2251
+1 B. THE {{DIRECTOR}} {{BOARD}} SHALL APPOINT THE MEMBERS OF THE
+2 ADVISORY COMMITTEE, WHICH SHALL BE COMPOSED OF NOT MORE THAN ELEVEN OF THE
+3 FOLLOWING MEMBERS:
+4 1. AT LEAST FIVE LICENSED MIDWIVES.
+5 2. TWO CERTIFIED NURSE MIDWIVES WHO ARE LICENSED PURSUANT TO
+6 {{TITLE 32,}} CHAPTER 15 {{OF THIS TITLE}}.
+7 3. TWO PHYSICIANS WHO ARE LICENSED PURSUANT TO {{TITLE 32,}} {{THIS
+8 CHAPTER OR}} CHAPTER 13{{, 14}} OR 17 {{OF THIS TITLE}}[,] [AND WHO ARE
+9 BOARD CERTIFIED IN OBSTETRICS, PEDIATRICS OR FAMILY MEDICINE] [ONE OF WHOM
+10 IS BOARD-CERTIFIED IN OBSTETRICS AND ONE OF WHOM IS BOARD-CERTIFIED IN
+11 PEDIATRICS]. THE {{DIRECTOR}} {{BOARD}} SHALL SOLICIT PHYSICIAN
+12 APPLICATIONS FROM STATE MEDICAL SOCIETIES AND ASSOCIATIONS.
+13 4. ONE CONSUMER OF MIDWIFERY CARE.
+14 C. ADVISORY COMMITTEE MEMBERS ARE NOT ELIGIBLE FOR COMPENSATION OR
+15 REIMBURSEMENT OF EXPENSES.
+16 D. THE ADVISORY COMMITTEE SHALL MEET AT LEAST FOUR TIMES EACH YEAR,
+17 ONCE PER QUARTER.
+18 [E. THE ADVISORY COMMITTEE SHALL MAKE RECOMMENDATIONS TO THE
+19 DIRECTOR WHEN ADOPTING OR AMENDING RULES RELATING TO THE MIDWIFERY SCOPE
+20 OF PRACTICE.
+21 F. A LICENSED MIDWIFE WHO IS INTERESTED IN MODIFYING THE MIDWIFERY
+22 SCOPE OF PRACTICE MUST SUBMIT A REPORT TO THE ADVISORY COMMITTEE THAT
+23 CONTAINS AT LEAST THE FOLLOWING:
+24 1. A DESCRIPTION OF THE ISSUE AND WHY AN ADDITION TO THE MIDWIFERY
+25 SCOPE OF PRACTICE IS NECESSARY, INCLUDING THE EXTENT TO WHICH CONSUMERS
+26 NEED AND WILL BENEFIT FROM A LICENSED MIDWIFE'S ABILITY TO PROVIDE THIS
+27 ADDITIONAL HEALTH CARE SERVICE.
+28 2. THE AVAILABLE EVIDENCE-BASED RESEARCH THAT DEMONSTRATES THAT
+29 LICENSED MIDWIVES ARE COMPETENT TO PERFORM THE PROPOSED HEALTH CARE
+30 SERVICE.
+31 3. THE EXTENT TO WHICH A CHANGE IN THE MIDWIFERY SCOPE OF PRACTICE
+32 MAY HARM THE PUBLIC, INCLUDING THE EXTENT TO WHICH A CHANGE IN THE SCOPE
+33 OF PRACTICE WILL RESTRICT ENTRY INTO THE PRACTICE OF MIDWIFERY.
+34 G. IF A MAJORITY OF A QUORUM OF THE ADVISORY COMMITTEE MEMBERS
+35 VOTES TO APPROVE A CHANGE IN THE MIDWIFERY SCOPE OF PRACTICE PURSUANT TO
+36 SUBSECTION F OF THIS SECTION, THE ADVISORY COMMITTEE SHALL PROVIDE THE
+37 DIRECTOR WITH ITS RECOMMENDATIONS FOR A POSSIBLE RULE CHANGE.]
+38 [H.] [E.] {{AT THE DIRECTION OF THE BOARD,}} THE ADVISORY
+39 COMMITTEE SHALL CONDUCT A REVIEW OF SENTINEL EVENTS OCCURRING DURING THE
+40 COURSE OF PRENATAL, INTRAPARTUM OR POSTPARTUM CARE PROVIDED BY LICENSED
+41 MIDWIVES IN THIS STATE.
+42 [I.] [F.] {{AT THE DIRECTION OF THE BOARD,}} THE ADVISORY
+43 COMMITTEE MAY CONVENE {{AN}} EMERGENCY {{MEETINGS}} {{MEETING}} WHEN A
+44 CASE OR SENTINEL EVENT REQUIRES TIMELY REVIEW OR ACTION TO PROTECT THE
+45 PUBLIC HEALTH AND SAFETY.
+46 [J.] [G.] FOLLOWING THE REVIEW OF A SENTINEL EVENT {{PURSUANT TO
+47 SUBSECTION E OR F OF THIS SECTION}}, THE ADVISORY COMMITTEE SHALL MAKE
+48 RECOMMENDATIONS TO THE {{DEPARTMENT}} {{BOARD}} REGARDING WHETHER THE CARE
+49 PROVIDED WAS:
+-14-
+
+Senate Amendments to H.B. 2251
+1 1. CONSISTENT WITH COMMUNITY STANDARDS.
+2 2. CONSISTENT WITH COMMUNITY STANDARDS BUT OUTSIDE THE SCOPE OF
+3 PRACTICE [AS DEFINED BY THE DEPARTMENT IN RULE].
+4 3. OUTSIDE OF COMMUNITY STANDARDS AND REQUIRING CORRECTIVE ACTION.
+5 [K.] [H.] FOR CARE DETERMINED TO BE OUTSIDE OF COMMUNITY STANDARDS
+6 [OR THE SCOPE OF PRACTICE] UNDER SUBSECTION [J ] [G] OF THIS SECTION, THE
+7 ADVISORY COMMITTEE MAY RECOMMEND ONE OR MORE OF THE FOLLOWING TO THE
+8 {{DEPARTMENT}} {{BOARD}}:
+9 1. ADDITIONAL CONTINUING EDUCATION REQUIREMENTS.
+10 2. MENTORING OR SUPERVISED PRACTICE.
+11 3. ADMINISTRATIVE CIVIL PENALTIES.
+12 4. RESTRICTION OR SUSPENSION OF A LICENSE.
+13 5. REVOCATION OF A LICENSE.
+14 [L.] [I.] {{AT THE DIRECTION OF THE BOARD,}} THE ADVISORY
+15 COMMITTEE SHALL REVIEW MIDWIFE REPORTS SUBMITTED PURSUANT TO SECTION
+16 {{36-763}} {{32-1591.13}} AND MAY RECOMMEND MODIFICATIONS TO REPORTING
+17 REQUIREMENTS TO THE {{DEPARTMENT}} {{BOARD}} TO SUPPORT QUALITY
+18 IMPROVEMENT AND PATIENT SAFETY.
+19 [M.] [J.] FOR THE PURPOSES OF THIS SECTION, "SENTINEL EVENT":
+20 1. MEANS AN UNEXPECTED, SERIOUS PATIENT SAFETY INCIDENT RESULTING
+21 IN DEATH, PERMANENT HARM OR A SIGNIFICANT RISK OF HARM.
+22 2. INCLUDES BOTH:
+23 (a) MATERNAL SENTINEL EVENTS, INCLUDING:
+24 (i) MATERNAL [DEATH] [DEATHS DURING THE PREGNANCY THROUGH THIRTY
+25 DAYS POSTPARTUM].
+26 (ii) MATERNAL INTENSIVE CARE UNIT ADMISSION [IN THE FIRST ONE
+27 HUNDRED TWENTY HOURS POSTPARTUM].
+28 (iii) UTERINE RUPTURE.
+29 (iv) POSTPARTUM HEMORRHAGE REQUIRING A BLOOD TRANSFUSION.
+30 (v) SHOULDER DYSTOCIA WITH BRACHIAL PLEXUS INJURY.
+31 (b) NEONATAL SENTINEL EVENTS, INCLUDING:
+32 [(i) NEONATAL DEATHS IN THE FIRST THIRTY DAYS OF LIFE.]
+33 [(i)] [(ii)] NEONATAL INTENSIVE CARE UNIT ADMISSION WITHIN
+34 [SEVENTY-TWO] [ONE HUNDRED TWENTY] HOURS AFTER BIRTH, NOT INCLUDING
+35 OBSERVATION-ONLY ADMISSIONS OR ADMISSIONS FOR CONGENITAL ANOMALIES.
+36 [(ii)] [(iii)] A BIRTH WEIGHT OF LESS THAN TWO THOUSAND FIVE
+37 HUNDRED GRAMS.
+38 [(iii)] [(iv)] AN APGAR SCORE OF LESS THAN SEVEN AT FIVE MINUTES.
+39 [(iv)] [(v)] RESPIRATORY DISTRESS REQUIRING PROLONGED VENTILATION.
+40 {{36-763.}}{{32-1591.13.}} Disclosure; reporting
+41 requirements; definitions
+42 A. AT THE INITIATION OF CARE, EACH LICENSED MIDWIFE SHALL DISCLOSE
+43 TO EACH PATIENT WHETHER THE LICENSED MIDWIFE MAINTAINS PROFESSIONAL
+44 LIABILITY INSURANCE. THIS DISCLOSURE SHALL BE INCLUDED IN THE INFORMED
+45 CONSENT DOCUMENT AND ACKNOWLEDGED BY THE PATIENT'S SIGNATURE.
+46 B. ON OR BEFORE JANUARY 31 EACH YEAR, EACH LICENSED MIDWIFE SHALL
+47 FILE A REPORT WITH THE {{DEPARTMENT}} {{BOARD, OR IF DELEEGATED BY THE
+48 BOARD, AT THE DIRECTION OF THE DIRECTOR}}, IN A FORMAT PRESCRIBED BY THE
+49 {{DEPARTMENT}} {{BOARD}}, THE FOLLOWING INFORMATION, NOT INCLUDING ANY
+-15-
+
+Senate Amendments to H.B. 2251
+1 INDIVIDUALLY IDENTIFIABLE HEALTH INFORMATION OF A PATIENT, FOR THE
+2 PRECEDING CALENDAR YEAR:
+3 1. THE NUMBER OF WOMEN FOR WHOM THE LICENSED MIDWIFE PROVIDED CARE.
+4 2. THE NUMBER OF DELIVERIES THE LICENSED MIDWIFE ATTENDED AS
+5 PRIMARY MIDWIFE.
+6 3. THE NUMBER, REASON FOR AND OUTCOME OF EACH TRANSFER OR TRANSPORT
+7 OF A PATIENT IN THE ANTEPARTUM, INTRAPARTUM OR IMMEDIATE POSTPARTUM
+8 PERIODS.
+9 4. THE NUMBER OF PERINATAL DEATHS, INCLUDING [THE CAUSE OF DEATH
+10 AND A DESCRIPTION OF THE CIRCUMSTANCE] [BOTH]:
+11 (a) MATERNAL DEATHS OCCURRING DURING PREGNANCY AND THROUGH THE
+12 FIRST MONTH POSTPARTUM.
+13 (b) NEONATAL DEATHS OCCURRING THROUGH THE FIRST MONTH OF LIFE].
+14 [5. FOR EACH DEATH REPORTED PURSUANT TO PARAGRAPH 4 OF THIS
+15 SUBSECTION, THE CAUSE OF DEATH, IF KNOWN, AND A DESCRIPTION OF THE
+16 CIRCUMSTANCES SURROUNDING THE DEATH.]
+17 [5.] [6.] THE NUMBER AND OUTCOME OF BREECH BIRTHS AND VAGINAL
+18 BIRTHS AFTER CESAREAN.
+19 [6.] [7.] THE NUMBER OF BIRTHS THAT OCCURRED MORE THAN TWENTY-FIVE
+20 MILES FROM A HOSPITAL THAT PROVIDES OBSTETRICS SERVICES.
+21 [7.] [8.] THE NUMBER OF FETAL DEATHS AFTER TWENTY WEEKS'
+22 GESTATION.
+23 [8.] [9.] THE LICENSED MIDWIFE'S FULL NAME, LICENSE NUMBER AND
+24 COUNTY.
+25 C. IN ADDITION TO THE REPORTING REQUIRED IN SUBSECTION B OF THIS
+26 SECTION, A LICENSED MIDWIFE SHALL REPORT TO THE {{DEPARTMENT}} {{BOARD}}:
+27 1. A PERINATAL MORTALITY WITHIN SEVENTY-TWO HOURS AFTER THE DEATH.
+28 2. A SENTINEL EVENT WITHIN FOURTEEN DAYS AFTER THE EVENT.
+29 D. THE INFORMATION REPORTED TO THE {{DEPARTMENT}} {{BOARD}}
+30 PURSUANT TO SUBSECTIONS B AND C OF THIS SECTION MAY BE INSPECTED, COPIED,
+31 OBTAINED OR PROVIDED TO THE ADVISORY COMMITTEE FOR RESEARCH AND EVIDENCE.
+32 E. THE REPORT REQUIRED BY SUBSECTION B OF THIS SECTION REPLACES THE
+33 REPORT REQUIRED BY EACH LICENSED MIDWIFE FOLLOWING THE TERMINATION OF CARE
+34 FOR EACH PATIENT.
+35 [F. ON OR BEFORE SEPTEMBER 1 OF EACH YEAR, THE DATA THAT IS
+36 COLLECTED IN THE REPORTS REQUIRED BY SUBSECTION B OF THIS SECTION SHALL BE
+37 COMPILED AND SHARED WITH THE SPEAKER OF THE HOUSE OF REPRESENTATIVES, THE
+38 PRESIDENT OF THE SENATE AND THE GOVERNOR AND POSTED ON THE
+39 {{DEPARTMENT'S}} {{BOARD'S}} PUBLIC WEBSITE.]
+40 [F.] [G.] FOR THE PURPOSES OF THIS SECTION:
+41 1. "INDIVIDUALLY IDENTIFIABLE HEALTH INFORMATION" HAS THE SAME
+42 MEANING PRESCRIBED IN SECTION 36-3801.
+43 2. "SENTINEL EVENT" HAS THE SAME MEANING PRESCRIBED IN SECTION
+44 {{36-762}} {{32-1591.12}}.
+-16-
+
+Senate Amendments to H.B. 2251
+1 ≤≤Sec. 13. Section 32-3101, Arizona Revised Statutes, is amended to
+2 read:
+3 32-3101. Definitions
+4 In this chapter, unless the context otherwise requires:
+5 1. "Certification" means a voluntary process by which a regulatory
+6 entity grants recognition to an individual who has met certain
+7 prerequisite qualifications specified by that regulatory entity and who
+8 may assume or use the word "certified" in a title or designation to
+9 perform prescribed health professional tasks.
+10 2. "Grandfather clause" means a provision that is applicable to
+11 practitioners who are actively engaged in the regulated health profession
+12 before the effective date of a law and that exempts the practitioners from
+13 meeting the prerequisite qualifications set forth in the law to perform
+14 prescribed occupational tasks.
+15 3. "Health professional group" means any health professional group
+16 or organization, any individual or any other interested party that
+17 proposes that any health professional group that is not presently
+18 regulated be regulated.
+19 4. "Health professions" means professions that are regulated
+20 pursuant to chapter 7, 8, 11, 13, 14, 15, 15.1, 16, 17, 18, 19, 19.1, 21,
+21 25, 28, 29, 33, 34, 35, 39 or 41 of this title{{, title 36, chapter 6,
+22 article 7}} or title 36, chapter 17.
+23 5. "Inspection" means the periodic examination of practitioners by
+24 a state agency in order to ascertain whether the practitioners' occupation
+25 is being carried out in a fashion consistent with the public health,
+26 safety and welfare.
+27 6. "Licensure" or "license" means an individual, nontransferable
+28 authorization to carry on a health activity that would otherwise be
+29 unlawful in this state in the absence of the permission and that is based
+30 on qualifications that include graduation from an accredited or approved
+31 program and acceptable performance on a qualifying examination or a series
+32 of examinations.
+33 7. "Practitioner" means an individual who has achieved knowledge
+34 and skill by practice and who is actively engaged in a specified health
+35 profession.
+36 8. "Public member" means an individual who is not and never has
+37 been a member or the spouse of a member of the health profession being
+38 regulated and who does not have and never has had a material financial
+39 interest in either rendering the health professional service being
+40 regulated or an activity directly related to the profession being
+41 regulated.
+42 9. "Registration" means the formal notification that, before
+43 rendering services, a practitioner must submit to a state agency setting
+44 forth the name and address of the practitioner, the location, nature and
+45 operation of the health activity to be practiced and, if required by a
+46 regulatory entity, a description of the service to be provided.
+-17-
+
+Senate Amendments to H.B. 2251
+1 10. "Regulatory entity" means any board, commission, agency or
+2 department of this state that regulates one or more health professions in
+3 this state.
+4 11. "State agency" means any department, board, commission or
+5 agency of this state.≥≥
+6 ≤≤Sec. 14. Section 32-3201, Arizona Revised Statutes, is amended to
+7 read:
+8 32-3201. Definitions
+9 In this chapter, unless the context otherwise requires:
+10 {{2.}} {{1.}} "Health professional" means a person who is certified
+11 or licensed pursuant to chapter 7, 8, 11, 13, 14, 15, 15.1, 16, 17, 18,
+12 19, 19.1, 21, 25, 28, 29, 33, 34, 35, 39, 41 or 42 of this title, title
+13 36, chapter 4, article 6{{, title 36, chapter 6, article 7}} or title 36,
+14 chapter 17.
+15 {{1.}} {{2.}} "Health profession regulatory board" means any board
+16 that regulates one or more health professionals in this state.
+17 3. "Medical {{record}} {{RECORDS}}" has the same meaning prescribed
+18 in section 12-2291 but does not include prescription orders.≥≥
+19 ≤≤Sec. 15. Section 36-301, Arizona Revised Statutes, is amended to
+20 read:
+21 36-301. Definitions
+22 In this chapter, unless the context otherwise requires:
+23 1. "Administrative order" means a written decision issued by an
+24 administrative law judge or quasi-judicial entity.
+25 2. "Amend" means to make a change, other than a correction, to a
+26 registered certificate by adding, deleting or substituting information on
+27 that certificate.
+28 3. "Birth" or "live birth" means the complete expulsion or
+29 extraction of an unborn child from the child's mother, irrespective of the
+30 duration of the pregnancy, that shows evidence of life, with or without a
+31 cut umbilical cord or an attached placenta, such as breathing, heartbeat,
+32 umbilical cord pulsation or definite voluntary muscle movement after
+33 expulsion or extraction of the unborn child.
+34 4. "Certificate" means a record that documents a birth or death.
+35 5. "Certified copy" means a written reproduction of a registered
+36 certificate that a local registrar, a deputy local registrar or the state
+37 registrar has authenticated as a true and exact written reproduction of a
+38 registered certificate.
+39 6. "Correction" means a change made to a registered certificate
+40 because of a typographical error, including misspelling and missing or
+41 transposed letters or numbers.
+42 7. "Court order" means a written decision issued by:
+43 (a) The superior court, an appellate court or the supreme court or
+44 an equivalent court in another state.
+45 (b) A commissioner or judicial hearing officer of the superior
+46 court.
+47 (c) A judge of a tribal court in this state.
+-18-
+
+Senate Amendments to H.B. 2251
+1 8. "Current care" means that a health care provider has examined,
+2 treated or provided care for a person for a chronic or acute condition
+3 within eighteen months preceding that person's death. Current care does
+4 not include services provided in connection with a single event of
+5 emergency or urgent care. For the purposes of this paragraph, "treated"
+6 includes prescribing medication.
+7 9. "Custody" means legal authority to act on behalf of a child.
+8 10. "Department" means the department of health services.
+9 11. "Electronic" means technology that has electrical, digital,
+10 magnetic, wireless, optical or electromagnetic capabilities or technology
+11 with similar capabilities.
+12 12. "Evidentiary document" means written information used to prove
+13 the fact for which the document is presented.
+14 13. "Family member" means:
+15 (a) A person's spouse, natural or adopted offspring, father,
+16 mother, grandparent, grandchild to any degree, brother, sister, aunt,
+17 uncle or first or second cousin.
+18 (b) The natural or adopted offspring, father, mother, grandparent,
+19 grandchild to any degree, brother, sister, aunt, uncle or first or second
+20 cousin of the person's spouse.
+21 14. "Fetal death" means the cessation of life before the complete
+22 expulsion or extraction of an unborn child from the child's mother that is
+23 evidenced by the absence of breathing, heartbeat, umbilical cord pulsation
+24 or definite voluntary muscle movement after expulsion or extraction.
+25 15. "Final disposition" means the interment, cremation, removal
+26 from this state or other disposition of human remains.
+27 16. "Foundling" means:
+28 (a) A newborn infant {{WHO IS}} left with a safe haven provider
+29 pursuant to section 13-3623.01.
+30 (b) A child whose father and mother cannot be determined.
+31 17. "Funeral establishment" has the same meaning prescribed in
+32 section 32-1301.
+33 18. "Health care institution" has the same meaning prescribed in
+34 section 36-401.
+35 19. "Health care provider" means:
+36 (a) A physician {{WHO IS}} licensed pursuant to title 32, chapter
+37 13 or 17.
+38 (b) A doctor of naturopathic medicine {{WHO IS}} licensed pursuant
+39 to title 32, chapter 14.
+40 (c) A midwife {{WHO IS}} licensed pursuant to {{chapter 6, article
+41 7 of this}} title {{32, CHAPTER 14, ARTICLE 5}}.
+42 (d) A nurse midwife {{WHO IS}} certified pursuant to title 32,
+43 chapter 15.
+44 (e) A nurse practitioner {{WHO IS}} licensed and certified pursuant
+45 to title 32, chapter 15.
+46 (f) A physician assistant {{WHO IS}} licensed pursuant to title 32,
+47 chapter 25.
+-19-
+
+Senate Amendments to H.B. 2251
+1 (g) A health care provider who is licensed or certified by another
+2 state or jurisdiction of the United States and who works in a federal
+3 health care facility.
+4 20. "Human remains" means a lifeless human body or parts of a human
+5 body that permit a reasonable inference that death occurred.
+6 21. "Issue" means:
+7 (a) To provide a copy of a registered certificate.
+8 (b) An action taken by a court of competent jurisdiction,
+9 administrative law judge or quasi-judicial entity.
+10 22. "Legal age" means a person who is at least eighteen years of
+11 age or who is emancipated by a court order.
+12 23. "Medical certification of death" means the opinion of the
+13 health care provider who signs the certificate of probable or presumed
+14 cause of death that complies with rules adopted by the state registrar of
+15 vital records and that is based on any of the following that is reasonably
+16 available:
+17 (a) Personal examination.
+18 (b) Medical history.
+19 (c) Medical records.
+20 (d) Other reasonable forms of evidence.
+21 24. "Medical examiner" means a medical examiner or alternate
+22 medical examiner as defined in section 11-591.
+23 25. "Name" means a designation that identifies a person, including
+24 a first name, middle name, last name or suffix.
+25 26. "Natural causes" means those causes that are due solely or
+26 nearly entirely to disease or the aging process.
+27 27. "Presumptive death" means a determination by a court that a
+28 death has occurred or is presumed to have occurred but the human remains
+29 have not been located or recovered.
+30 28. "Register" means to assign an official state number and to
+31 incorporate into the state registrar's official records.
+32 29. "Responsible person" means a person listed in section 36-831.
+33 30. "Seal" means to bar from access.
+34 31. "Submit" means to present, physically or electronically, a
+35 certificate, evidentiary document or form provided for in this chapter to
+36 a local registrar, a deputy local registrar or the state registrar.
+37 32. "System of public health statistics" means the processes and
+38 procedures for:
+39 (a) Tabulating, analyzing and publishing public health information
+40 derived from vital records data and other sources authorized pursuant to
+41 section 36-125.05 or section 36-132, subsection A, paragraph 3.
+42 (b) Performing other activities related to public health
+43 information.
+44 33. "System of vital records" means the statewide processes and
+45 procedures for:
+46 (a) Electronically or physically collecting, creating, registering,
+47 maintaining, copying and preserving vital records.
+-20-
+
+Senate Amendments to H.B. 2251
+1 (b) Preparing and issuing certified and noncertified copies of
+2 vital records.
+3 (c) Performing other activities related to vital records.
+4 34. "Unborn child" has the same meaning prescribed in section
+5 36-2151.
+6 35. "Vital record" means a registered birth certificate or a
+7 registered death certificate.≥≥
+8 ≤≤Sec. 16. Section 36-422, Arizona Revised Statutes, is amended to
+9 read:
+10 36-422. Application for license; notification of proposed
+11 change in status; joint licenses; definitions
+12 A. A person who wishes to apply for a license to operate a health
+13 care institution pursuant to this chapter shall submit to the department
+14 all of the following:
+15 1. An application on a written or electronic form that is
+16 prescribed, prepared and furnished by the department and that contains all
+17 of the following:
+18 (a) The name and location of the health care institution.
+19 (b) Whether the health care institution is to be operated as a
+20 proprietary or nonproprietary institution.
+21 (c) The name of the governing authority. The applicant shall be
+22 the governing authority having the operative ownership of, or the
+23 governmental agency charged with the administration of, the health care
+24 institution sought to be licensed. If the applicant is a partnership that
+25 is not a limited partnership, the partners shall apply jointly, and the
+26 partners are jointly the governing authority for purposes of this article.
+27 (d) The name and business or residential address of each
+28 controlling person and an affirmation that none of the controlling persons
+29 has been denied a license or certificate by a health profession regulatory
+30 board pursuant to title 32 or by a state agency pursuant to {{chapter 6,
+31 article 7 or}} chapter 17 of this title or a license to operate a health
+32 care institution in this state or another state or has had a license or
+33 certificate issued by a health profession regulatory board pursuant to
+34 title 32 or issued by a state agency pursuant to {{chapter 6, article 7
+35 or}} chapter 17 of this title or a license to operate a health care
+36 institution revoked. If a controlling person has been denied a license or
+37 certificate by a health profession regulatory board pursuant to title 32
+38 or by a state agency pursuant to {{chapter 6, article 7 or}} chapter 17 of
+39 this title or a license to operate a health care institution in this state
+40 or another state or has had a health care professional license or a
+41 license to operate a health care institution revoked, the controlling
+42 person shall include in the application a comprehensive description of the
+43 circumstances for the denial or the revocation.
+44 (e) The class or subclass of health care institution to be
+45 established or operated.
+46 (f) The types and extent of the health care services to be
+47 provided, including emergency services, community health services and
+48 services to indigent patients.
+-21-
+
+Senate Amendments to H.B. 2251
+1 (g) The name and qualifications of the chief administrative officer
+2 implementing direction in that specific health care institution.
+3 (h) Other pertinent information required by the department for the
+4 proper administration of this chapter and department rules.
+5 2. The attestation required by section 36-421, subsection A.
+6 3. The applicable application fee.
+7 B. An application submitted pursuant to this section shall contain
+8 the written or electronic signature of:
+9 1. If the applicant is an individual, the owner of the health care
+10 institution.
+11 2. If the applicant is a partnership, limited liability company or
+12 corporation, two of the officers of the corporation or managing members of
+13 the partnership or limited liability company or the sole member of the
+14 limited liability company if it has only one member.
+15 3. If the applicant is a governmental unit, the head of the
+16 governmental unit.
+17 C. An application for licensure shall be submitted at least sixty
+18 but not more than one hundred twenty days before the anticipated date of
+19 operation. An application for a substantial compliance survey submitted
+20 pursuant to section 36-425, subsection G shall be submitted at least
+21 thirty days before the date on which the substantial compliance survey is
+22 requested.
+23 D. If a current licensee intends to terminate the operation of a
+24 licensed health care institution or if a change of ownership is planned,
+25 the current licensee shall notify the director in writing at least thirty
+26 days before the termination of operation or change in ownership is to take
+27 place. The current licensee is responsible for preventing any
+28 interruption of services required to sustain the life, health and safety
+29 of the patients or residents. A new owner shall not begin operating the
+30 health care institution until the director issues a license to the new
+31 owner.
+32 E. A licensed health care institution for which operations have not
+33 been terminated for more than thirty days may be relicensed pursuant to
+34 the codes and standards for architectural plans and specifications that
+35 were applicable under its most recent license.
+36 F. If a person operates a hospital in a county with a population of
+37 more than five hundred thousand persons in a setting that includes
+38 satellite facilities of the hospital that are located separately from the
+39 main hospital building, the department at the request of the applicant or
+40 licensee shall issue a single group license to the hospital and its
+41 designated satellite facilities located within one-half mile of the main
+42 hospital building if all of the facilities meet or exceed department
+43 licensure requirements for the designated facilities. At the request of
+44 the applicant or licensee, the department shall also issue a single group
+45 license that includes the hospital and its designated satellite facilities
+46 that are located farther than one-half mile from the main hospital
+47 building if all of these facilities meet or exceed applicable department
+48 licensure requirements. Each facility included under a single group
+49 license is subject to the department's licensure requirements that are
+-22-
+
+Senate Amendments to H.B. 2251
+1 applicable to that category of facility. Subject to compliance with
+2 applicable licensure or accreditation requirements, the department shall
+3 reissue individual licenses for the facility of a hospital located in
+4 separate buildings from the main hospital building when requested by the
+5 hospital. This subsection does not apply to nursing care institutions and
+6 residential care institutions. The department is not limited in
+7 conducting inspections of an accredited health care institution to ensure
+8 that the institution meets department licensure requirements. If a person
+9 operates a hospital in a county with a population of five hundred thousand
+10 persons or less in a setting that includes satellite facilities of the
+11 hospital that are located separately from the main hospital building, the
+12 department at the request of the applicant or licensee shall issue a
+13 single group license to the hospital and its designated satellite
+14 facilities located within thirty-five miles of the main hospital building
+15 if all of the facilities meet or exceed department licensure requirements
+16 for the designated facilities. At the request of the applicant or
+17 licensee, the department shall also issue a single group license that
+18 includes the hospital and its designated satellite facilities that are
+19 located farther than thirty-five miles from the main hospital building if
+20 all of these facilities meet or exceed applicable department licensure
+21 requirements.
+22 G. If a county with a population of more than one million persons
+23 or a special health care district in a county with a population of more
+24 than one million persons operates an accredited hospital that includes the
+25 hospital's accredited facilities that are located separately from the main
+26 hospital building and the accrediting body's standards as applied to all
+27 facilities meet or exceed the department's licensure requirements, the
+28 department shall issue a single license to the hospital and its facilities
+29 if requested to do so by the hospital. If a hospital complies with
+30 applicable licensure or accreditation requirements, the department shall
+31 reissue individual licenses for each hospital facility that is located in
+32 a separate building from the main hospital building if requested to do so
+33 by the hospital. This subsection does not limit the department's duty to
+34 inspect a health care institution to determine its compliance with
+35 department licensure standards. This subsection does not apply to nursing
+36 care institutions and residential care institutions.
+37 H. An applicant or licensee must notify the department within
+38 thirty days after any change regarding a controlling person and provide
+39 the information and affirmation required pursuant to subsection A,
+40 paragraph 1, subdivision (d) of this section.
+41 I. A behavioral health residential facility that provides services
+42 to children must notify the department within thirty days after the
+43 facility begins contracting exclusively with the federal government,
+44 receives only federal monies and does not contract with this state.
+45 J. This section does not limit the application of federal laws and
+46 regulations to an applicant or licensee that is certified as a medicare or
+47 an Arizona health care cost containment system provider under federal law.
+48 K. Except for an outpatient treatment center that provides dialysis
+49 services or abortion procedures or that is exempt from licensure pursuant
+-23-
+
+Senate Amendments to H.B. 2251
+1 to section 36-402, subsection A, paragraph 12, a person wishing to begin
+2 operating an outpatient treatment center before a licensing inspection is
+3 completed shall submit all of the following:
+4 1. The license application required pursuant to this section.
+5 2. All applicable application and license fees.
+6 3. A written request for a temporary license that includes:
+7 (a) The anticipated date of operation.
+8 (b) An attestation signed by the applicant that the applicant and
+9 the facility comply with and will continue to comply with the applicable
+10 licensing statutes and rules.
+11 L. Within seven days after the department's receipt of the items
+12 required in subsection K of this section, but not before the anticipated
+13 operation date submitted pursuant to subsection C of this section, the
+14 department shall issue a temporary license that includes:
+15 1. The name of the facility.
+16 2. The name of the licensee.
+17 3. The facility's class or subclass.
+18 4. The temporary license's effective date.
+19 5. The location of the licensed premises.
+20 M. A facility may begin operating on the effective date of the
+21 temporary license.
+22 N. The director may cease the issuance of temporary licenses at any
+23 time if the director believes that public health and safety is endangered.
+24 O. An outpatient treatment center that is exempt from licensure
+25 pursuant to section 36-402, subsection A, paragraph 12 is subject to
+26 reasonable inspection by the department if the director has reasonable
+27 cause to believe that patient harm is or may be occurring at that
+28 outpatient treatment center. A substantiated complaint that harm is
+29 occurring at an exempt outpatient treatment center is a violation of this
+30 chapter against the license of the hospital listed in the notice required
+31 by section 36-402, subsection A, paragraph 12.
+32 P. Each hospital that is licensed pursuant to this chapter shall
+33 provide to and maintain with the department a current list of exempt
+34 outpatient treatment centers that have the same direct owner or indirect
+35 owner as the hospital.
+36 Q. For the purposes of this section:
+37 1. "Accredited" means accredited by a nationally recognized
+38 accreditation organization.
+39 2. "Satellite facility" means an outpatient facility at which the
+40 hospital provides outpatient medical services.≥≥
+41 ≤≤Sec. 17. Section 36-425, Arizona Revised Statutes, is amended to
+42 read:
+43 36-425. Inspections; issuance of license; posting
+44 requirements; provisional license; denial of
+45 license
+46 A. On receipt of a properly completed application for a health care
+47 institution license, the director shall conduct an inspection of the
+48 health care institution as prescribed by this chapter. If an application
+49 for a license is submitted due to a planned change of ownership, the
+-24-
+
+Senate Amendments to H.B. 2251
+1 director shall determine the need for an inspection of the health care
+2 institution. Based on the results of the inspection and after the
+3 submission of the applicable licensing fee, the director shall either deny
+4 the license or issue a regular or provisional license. A license issued
+5 by the department shall be posted in a conspicuous location in the
+6 reception area of that health care institution.
+7 B. The director shall issue a license if the director determines
+8 that an applicant and the health care institution for which the license is
+9 sought substantially comply with the requirements of this chapter and
+10 rules adopted pursuant to this chapter and the applicant agrees to carry
+11 out a plan acceptable to the director to eliminate any deficiencies. The
+12 director shall not require a health care institution that was designated
+13 as a critical access hospital to make any modifications required by this
+14 chapter or rules adopted pursuant to this chapter in order to obtain an
+15 amended license with the same licensed capacity the health care
+16 institution had before it was designated as a critical access hospital if
+17 all of the following are true:
+18 1. The health care institution has subsequently terminated its
+19 critical access hospital designation.
+20 2. The licensed capacity of the health care institution does not
+21 exceed its licensed capacity before its designation as a critical access
+22 hospital.
+23 3. The health care institution remains in compliance with the
+24 applicable codes and standards that were in effect at the time the
+25 facility was originally licensed with the higher licensed capacity.
+26 C. A health care institution license does not expire and remains
+27 valid unless:
+28 1. The department subsequently revokes or suspends the license.
+29 2. The license is considered void because the licensee did not pay
+30 the licensing fee, civil penalties or provider agreement fees before the
+31 relevant due date or did not enter into an agreement with the department
+32 before the relevant due date to pay all outstanding fees or civil
+33 penalties.
+34 D. Except as provided in section 36-424, subsection B and
+35 subsection E of this section, the department shall conduct a compliance
+36 inspection of a health care institution to determine compliance with this
+37 chapter and rules adopted pursuant to this chapter at least once annually.
+38 E. If the department determines a facility, except for a
+39 residential care institution or a nursing care institution that does not
+40 have the same direct owner or indirect owner as a hospital licensed
+41 pursuant to this chapter, to be deficiency free on a compliance survey,
+42 the department shall not conduct a compliance survey of that facility for
+43 twenty-four months after the date of the deficiency free survey. This
+44 subsection does not prohibit the department from enforcing licensing
+45 requirements as authorized by section 36-424.
+46 F. A hospital licensed as a rural general hospital may provide
+47 intensive care services.
+48 G. The director shall issue a provisional license for a period of
+49 not more than one year if an inspection or investigation of a currently
+-25-
+
+Senate Amendments to H.B. 2251
+1 licensed health care institution or a health care institution for which an
+2 applicant is seeking a license reveals that the health care institution is
+3 not in substantial compliance with department licensure requirements and
+4 the director believes that the immediate interests of the patients and the
+5 general public are best served if the health care institution is given an
+6 opportunity to correct deficiencies. The applicant or licensee shall
+7 agree to carry out a plan to eliminate deficiencies that is acceptable to
+8 the director. The director shall not issue consecutive provisional
+9 licenses to a single health care institution. The director shall not
+10 issue a license to the current licensee or a successor applicant before
+11 the expiration of the provisional license unless the health care
+12 institution submits an application for a substantial compliance survey and
+13 is found to be in substantial compliance. The director may issue a
+14 license only if the director determines that the health care institution
+15 is in substantial compliance with the licensure requirements of the
+16 department and this chapter. This subsection does not prevent the
+17 director from taking action to protect the safety of patients pursuant to
+18 section 36-427.
+19 H. Subject to the confidentiality requirements of articles 4 and 5
+20 of this chapter, title 12, chapter 13, article 7.1 and section 12-2235,
+21 the licensee shall keep current department inspection reports at the
+22 health care institution. Unless federal law requires otherwise, the
+23 licensee shall post in a conspicuous location a notice that identifies the
+24 location at that health care institution where the inspection reports are
+25 available for review.
+26 I. A health care institution shall immediately notify the
+27 department in writing when there is a change of the chief administrative
+28 officer specified in section 36-422, subsection A, paragraph 1,
+29 subdivision (g).
+30 J. When the department issues an original license or an original
+31 provisional license to a health care institution, it shall notify the
+32 owners and lessees of any agricultural land within one-fourth mile of the
+33 health care institution. The health care institution shall provide the
+34 department with the names and addresses of owners or lessees of
+35 agricultural land within one-fourth mile of the proposed health care
+36 institution.
+37 K. In addition to the grounds for denial of licensure prescribed
+38 pursuant to subsection A of this section, the director may deny a license
+39 because an applicant or anyone in a business relationship with the
+40 applicant, including stockholders and controlling persons, has had a
+41 license to operate a health care institution denied, revoked or suspended
+42 or a license or certificate issued by a health profession regulatory board
+43 pursuant to title 32 or issued by a state agency pursuant to {{chapter 6,
+44 article 7 or}} chapter 17 of this title denied, revoked or suspended or
+45 has a licensing history of recent serious violations occurring in this
+46 state or in another state that posed a direct risk to the life, health or
+47 safety of patients or residents.
+48 L. In addition to the requirements of this chapter, the director
+49 may prescribe by rule other licensure requirements.≥≥
+-26-
+
+Senate Amendments to H.B. 2251
+1 ≤≤Sec. 18. Section 36-3601, Arizona Revised Statutes, is amended to
+2 read:
+3 36-3601. Definitions
+4 For the purposes of this chapter:
+5 1. "Health care decision maker" has the same meaning prescribed in
+6 section 12-2801.
+7 2. "Health care provider":
+8 (a) Means a person licensed pursuant to title 32, chapter 7, 8, 13,
+9 14, 15, 15.1, 16, 17, 18, 19, 19.1, 25, 28, 29, 33, 34, 35, 39, 41 or 42,
+10 or chapter 4, article 6 of this title{{, chapter 6, article 7 of this
+11 title}} or chapter 17 of this title.
+12 (b) Includes:
+13 (i) A health care institution licensed pursuant to chapter 4 of
+14 this title.
+15 (ii) A person who holds a training permit pursuant to title 32,
+16 chapter 13 or 17.
+17 3. "Health care provider regulatory board or agency" means a board
+18 or agency that regulates one or more health care provider professions in
+19 this state.
+20 4. "Telehealth" means:
+21 (a) The interactive use of audio, video or other electronic media,
+22 including asynchronous store-and-forward technologies and remote patient
+23 monitoring technologies, for the practice of health care, assessment,
+24 diagnosis, consultation or treatment and the transfer of medical data.
+25 (b) Includes the use of an audio-only telephone encounter between
+26 the patient or client and health care provider if an audio-visual
+27 telehealth encounter is not reasonably available due to the patient's
+28 functional status, the patient's lack of technology or telecommunications
+29 infrastructure limits, as determined by the health care provider.
+30 (c) Does not include the use of a fax machine, instant messages,
+31 voice mail or email.≥≥
+32 ≤≤Sec. 19. Succession
+33 {{A. As provided by this act, the naturopathic physicians medical
+34 board succeeds to the authority, powers, duties and responsibilities of
+35 the department of health services relating to the licensure and regulation
+36 of midwives pursuant to title 36, chapter 6, article 7, Arizona Revised
+37 Statutes.
+38 B. This act does not alter the effect of any actions that were
+39 taken or impair the valid obligations of the department of health services
+40 relating to the licensure and regulation of midwives pursuant to title 36,
+41 chapter 6, article 7, Arizona Revised Statutes, in existence before the
+42 effective date of this act.
+43 C. All rules adopted by the department of health services pursuant
+44 to title 36, chapter 6, article 7, Arizona Revised Statutes, remain in
+45 full force until superseded by administrative action by the naturopathic
+46 physicians medical board.
+-27-
+
+Senate Amendments to H.B. 2251
+1 D. All administrative matters, contracts and judicial and
+2 quasi-judicial actions, whether completed, pending or in process, of the
+3 department of health services relating to the licensure and regulation of
+4 midwives pursuant to title 36, chapter 6, article 7, Arizona Revised
+5 Statutes, on the effective date of this act are transferred to and retain
+6 the same status with the naturopathic physicians medical board.
+7 E. All certificates, licenses and other indicia of qualification
+8 and authority that were issued by the department of health services
+9 pursuant to title 36, chapter 6, article 7, Arizona Revised Statutes,
+10 retain their validity for the duration of their terms of validity as
+11 provided by law.
+12 F. All records and other property, all data and investigative
+13 findings, all obligations and all appropriated monies that remain
+14 unexpended and unencumbered on the effective date of this act of the
+15 department of health services relating to the licensure and regulation of
+16 midwives pursuant to title 36, chapter 6, article 7, Arizona Revised
+17 Statutes, are transferred to the naturopathic physicians medical
+18 board.}}≥≥
+19 ≤≤Sec. 20. Expenditure authority
+20 {{Notwithstanding any other law, the naturopathic physicians medical
+21 board may spend for the purposes of this act any monies transferred from
+22 the department of health services relating to the licensure and regulation
+23 of midwives and any monies appropriated to the naturopathic physicians
+24 medical board in fiscal year 2026-2027.}≥≥
+25 ≤≤Sec. 21. Effective date
+26 {{Section 32-1505, Arizona Revised Statutes, as amended by Laws
+27 2024, chapter 222, section 18 and this act, is effective from and after
+28 June 30, 2028.}}≥≥
+29 Sec. 22. Short title
+30 This act may be cited as the "Jordan and Mack Terry Act".
+31 Enroll and engross to conform
+32 Amend title to conform
+DAVID C. FARNSWORTH
+2251FloorFARNSWORTH.docx
+06/09/2026
+01:16 PM
+C: MH
+130MUHZHL
+-28-

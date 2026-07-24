@@ -1,0 +1,768 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Finance
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Finance
+Second Regular Session S.B. 1638
+COMMITTEE ON FINANCE
+SENATE AMENDMENTS TO S.B. 1638
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 42-1001, Arizona Revised Statutes, is amended to
+3 read:
+4 42-1001. Definitions
+5 In this title, unless the context otherwise requires:
+6 1. "Board" or "state board" means either the state board of tax
+7 appeals or the state board of equalization, as applicable.
+8 2. "Court" means the tax court or superior court, whichever is
+9 applicable.
+10 3. "Department" means the department of revenue.
+11 4. "Director" means the director of the department.
+12 5. "Electronically send" or "send electronically" means to send by
+13 either email or the use of an electronic portal.
+14 6. "Electronic portal" means a secure location on a website
+15 established by the department that requires the receiver to enter a
+16 password to access.
+17 7. "Email" means:
+18 (a) An electronic transmission of a message to an email address.
+19 (b) If the message contains confidential information, the
+20 electronic transmission of a message to an email address using encryption
+21 software that requires the receiver to enter a password before the message
+22 can be retrieved and viewed.
+23 8. "Internal revenue code" means the United States internal revenue
+24 code of 1986, as amended and in effect as of January 1, 2025 2026,
+25 including those provisions that became effective during 2024 2025 with the
+26 specific adoption of their retroactive effective dates but excluding all
+27 changes to the code enacted after January 1, 2025 2026.
+
+Senate Amendments to S.B. 1638
+1 Sec. 2. Section 43-105, Arizona Revised Statutes, is amended to
+2 read:
+3 43-105. Internal revenue code; definition; application
+4 A. FOR THE PURPOSES OF COMPUTING INCOME TAX PURSUANT TO THIS TITLE,
+5 FOR TAXABLE YEARS BEGINNING FROM AND AFTER DECEMBER 31, 2025, "INTERNAL
+6 REVENUE CODE" MEANS THE UNITED STATES INTERNAL REVENUE CODE OF 1986, AS
+7 AMENDED, IN EFFECT ON JANUARY 1, 2026, INCLUDING THOSE PROVISIONS THAT
+8 BECAME EFFECTIVE DURING 2025 WITH THE SPECIFIC ADOPTION OF ALL RETROACTIVE
+9 EFFECTIVE DATES, BUT EXCLUDING ANY CHANGES TO THE CODE ENACTED AFTER
+10 JANUARY 1, 2026.
+11 A. B. For the purposes of computing income tax pursuant to this
+12 title, for taxable years beginning from and after December 31, 2024
+13 THROUGH DECEMBER 31, 2025, "internal revenue code" means the United States
+14 internal revenue code of 1986, as amended, in effect on January 1, 2025,
+15 including those provisions that became effective during 2024 with the
+16 specific adoption of all retroactive effective dates, but excluding any
+17 changes to the code enacted after January 1, 2025 AND INCLUDING THOSE
+18 PROVISIONS [OF PUBLIC LAW 119-21] THAT ARE RETROACTIVELY EFFECTIVE DURING
+19 TAXABLE YEARS BEGINNING FROM AND AFTER DECEMBER 31, 2024 THROUGH DECEMBER
+20 31, 2025.
+21 B. C. For the purposes of computing income tax pursuant to this
+22 title, for taxable years beginning from and after December 31, 2023
+23 through December 31, 2024, "internal revenue code" means the United States
+24 internal revenue code of 1986, as amended, in effect on January 1, 2024,
+25 including those provisions that became effective during 2023 with the
+26 specific adoption of all retroactive effective dates, and including those
+27 provisions [OF PUBLIC LAW 119-21] that are retroactively effective during
+28 taxable years beginning from and after December 31, 2023 through December
+29 31, 2024.
+30 C. D. For the purposes of computing income tax pursuant to this
+31 title, for taxable years beginning from and after December 31, 2022
+32 through December 31, 2023, "internal revenue code" means the United States
+33 internal revenue code of 1986, as amended, in effect on January 1, 2023,
+34 including those provisions that became effective during 2022 with the
+35 specific adoption of all retroactive effective dates, and including those
+36 provisions [OF PUBLIC LAW 119-21] that are retroactively effective during
+37 taxable years beginning from and after December 31, 2022 through December
+38 31, 2023.
+39 D. E. For the purposes of computing income tax pursuant to this
+40 title, for taxable years beginning from and after December 31, 2021
+41 through December 31, 2022, "internal revenue code" means the United States
+42 internal revenue code of 1986, as amended, in effect on January 1, 2022,
+43 including those provisions that became effective during 2021 with the
+44 specific adoption of all retroactive effective dates, and including those
+45 provisions of the chips and science act of 2022 (P.L. 117-167), the
+46 inflation reduction act of 2022 (P.L. 117-169)[,] [and] the consolidated
+47 appropriations act, 2023 (P.L. 117-328) [AND PUBLIC LAW 119-21] that are
+-2-
+
+Senate Amendments to S.B. 1638
+1 retroactively effective during taxable years beginning from and after
+2 December 31, 2021 through December 31, 2022.
+3 E. F. For the purposes of computing income tax pursuant to this
+4 title, for taxable years beginning from and after December 31, 2020
+5 through December 31, 2021, "internal revenue code" means the United States
+6 internal revenue code of 1986, as amended, in effect on March 11, 2021,
+7 including those provisions that became effective during 2020 with the
+8 specific adoption of all retroactive effective dates and including those
+9 provisions of the PPP extension act of 2021 (P.L. 117-6) and the
+10 infrastructure investment and jobs act (P.L. 117-58) that are
+11 retroactively effective during taxable years beginning from and after
+12 December 31, 2020 through December 31, 2021.
+13 F. G. For the purposes of computing income tax pursuant to this
+14 title, for taxable years beginning from and after December 31, 2019
+15 through December 31, 2020, "internal revenue code" means the United States
+16 internal revenue code of 1986, as amended, in effect on January 1, 2020,
+17 including those provisions that became effective during 2019 with the
+18 specific adoption of all retroactive effective dates, and including those
+19 provisions of the families first coronavirus response act (P.L. 116-127),
+20 the coronavirus aid, relief, and economic security act (P.L. 116-136), the
+21 paycheck protection program flexibility act of 2020 (P.L. 116-142), the
+22 consolidated appropriations act, 2021 (P.L. 116-260) and the American
+23 rescue plan act of 2021 (P.L. 117-2) that are retroactively effective
+24 during taxable years beginning from and after December 31, 2019 through
+25 December 31, 2020.
+26 G. H. For the purposes of computing income tax pursuant to this
+27 title, for taxable years beginning from and after December 31, 2018
+28 through December 31, 2019, "internal revenue code" means the United States
+29 internal revenue code of 1986, as amended, in effect on January 1, 2019,
+30 including those provisions that became effective during 2018 with the
+31 specific adoption of all retroactive effective dates, and including those
+32 provisions of the taxpayer first act (P.L. 116-25), the further
+33 consolidated appropriations act, 2020 (P.L. 116-94), the coronavirus aid,
+34 relief, and economic security act (P.L. 116-136) and the consolidated
+35 appropriations act, 2021 (P.L. 116-260) that are retroactively effective
+36 during taxable years beginning from and after December 31, 2018 through
+37 December 31, 2019.
+38 H. I. For the purposes of computing income tax pursuant to this
+39 title, for taxable years beginning from and after December 31, 2017
+40 through December 31, 2018, "internal revenue code" means the United States
+41 internal revenue code of 1986, as amended, in effect on January 1, 2018,
+42 including those provisions that became effective during 2017 with the
+43 specific adoption of all retroactive effective dates, and including those
+44 provisions of the bipartisan budget act of 2018 (P.L. 115-123), the
+45 consolidated appropriations act, 2018 (P.L. 115-141), the further
+46 consolidated appropriations act, 2020 (P.L. 116-94), the coronavirus aid,
+47 relief, and economic security act (P.L. 116-136) and the consolidated
+-3-
+
+Senate Amendments to S.B. 1638
+1 appropriations act, 2021 (P.L. 116-260) that are retroactively effective
+2 during taxable years beginning from and after December 31, 2017 through
+3 December 31, 2018.
+4 I. J. For the purposes of computing income tax pursuant to this
+5 title, for taxable years beginning from and after December 31, 2016
+6 through December 31, 2017, "internal revenue code" means the United States
+7 internal revenue code of 1986, as amended, in effect on January 1, 2017,
+8 including those provisions that became effective during 2016 with the
+9 specific adoption of all federal retroactive effective dates, and
+10 including those provisions of the disaster tax relief and airport and
+11 airway extension act of 2017 (P.L. 115-63), the tax cuts and jobs act
+12 (P.L. 115-97), the bipartisan budget act of 2018 (P.L. 115-123), the
+13 consolidated appropriations act, 2018 (P.L. 115-141), the further
+14 consolidated appropriations act, 2020 (P.L. 116-94) and the coronavirus
+15 aid, relief, and economic security act (P.L. 116-136) that are
+16 retroactively effective during taxable years beginning from and after
+17 December 31, 2016 through December 31, 2017.
+18 J. K. For the purposes of computing income tax pursuant to this
+19 title, for taxable years beginning from and after December 31, 2015
+20 through December 31, 2016, "internal revenue code" means the United States
+21 internal revenue code of 1986, as amended, in effect on January 1, 2016,
+22 including those provisions that became effective during 2015 with the
+23 specific adoption of all federal retroactive effective dates, and
+24 including those provisions of the United States appreciation for olympians
+25 and paralympians act of 2016 (P.L. 114-239), the tax cuts and jobs act
+26 (P.L. 115-97), the consolidated appropriations act, 2018 (P.L. 115-141),
+27 the further consolidated appropriations act, 2020 (P.L. 116-94) and the
+28 coronavirus aid, relief, and economic security act (P.L. 116-136) that are
+29 retroactively effective during taxable years beginning from and after
+30 December 31, 2015 through December 31, 2016.
+31 K. For the purposes of computing income tax pursuant to this title,
+32 for taxable years beginning from and after December 31, 2014 through
+33 December 31, 2015, "internal revenue code" means the United States
+34 internal revenue code of 1986, as amended, in effect on January 1, 2015,
+35 including those provisions that became effective during 2014 with the
+36 specific adoption of all federal retroactive effective dates, and
+37 including those provisions of the slain officer family support act of 2015
+38 (P.L. 114-7), the don't tax our fallen public safety heroes act
+39 (P.L. 114-14), the surface transportation and veterans health care choice
+40 improvement act of 2015 (P.L. 114-41), the consolidated appropriations
+41 act, 2016 (P.L. 114-113), the consolidated appropriations act, 2018
+42 (P.L. 115-141) and the coronavirus aid, relief, and economic security act
+43 (P.L. 116-136) that are retroactively effective during taxable years
+44 beginning from and after December 31, 2014 through December 31, 2015.
+-4-
+
+Senate Amendments to S.B. 1638
+1 Sec. 3. Section 43-301, Arizona Revised Statutes, is amended to
+2 read:
+3 43-301. Individual returns; definition
+4 A. A full-year or part-year resident individual shall file a return
+5 with the department if, for the taxable year, the individual's gross
+6 income was greater than the amount of the standard deduction allowed under
+7 subsection SECTION 43-1041, subsection A as adjusted for inflation
+8 pursuant to section 43-1041, subsection H.
+9 B. A nonresident individual shall file a return with the department
+10 if, for the taxable year, the individual's gross income was greater than
+11 the amount under subsection A of this section determined for a full-year
+12 or part-year resident individual multiplied by the percentage that the
+13 individual's Arizona gross income is of the individual's federal adjusted
+14 gross income.
+15 C. In the case of a husband and wife, the spouse who controls the
+16 disposition of or who receives or spends community income as well as the
+17 spouse who is taxable on such income is liable for the payment of taxes
+18 imposed by this title on such income. If a joint return is filed, the
+19 liability for the tax on the aggregate income is joint and several.
+20 D. This section applies regardless of whether an individual is
+21 required to file a return under the internal revenue code or whether the
+22 individual has any federal adjusted gross income for the taxable year.
+23 E. For the purposes of this section, "gross income" means gross
+24 income as defined in the internal revenue code minus income included in
+25 gross income but excluded from taxation under this title.
+26 Sec. 4. Section 43-323, Arizona Revised Statutes, is amended to
+27 read:
+28 43-323. Place and form of filing returns
+29 A. All returns required by this title shall be in such a form as
+30 the department may from time to time prescribe and shall be filed with the
+31 department.
+32 B. The department shall prescribe a short form return for
+33 individual taxpayers who:
+34 1. Are eligible and elect to pay tax based on the optional tax
+35 tables pursuant to section 43-1012.
+36 2. Elect to claim the optional standard deduction pursuant to
+37 section 43-1041, subsection A, but not the increased amount for charitable
+38 deductions under section 43-1041, subsection I H.
+39 3. Elect not to file for credits against income tax liability other
+40 than those contained in sections 43-1072, 43-1072.01, 43-1072.02, 43-1073
+41 and 43-1073.01.
+42 4. Are not required to add any income under section 43-1021 and do
+43 not elect any subtractions under section 43-1022, except for the
+44 exemptions allowed under section 43-1023.
+45 C. The department may provide a simplified return form for
+46 individual taxpayers who:
+-5-
+
+Senate Amendments to S.B. 1638
+1 1. Are eligible and elect to pay tax based on the optional tax
+2 tables pursuant to section 43-1012.
+3 2. Are residents for the full taxable year.
+4 3. File as single individuals or married couples filing joint
+5 returns under section 43-309.
+6 4. Are not sixty-five years of age or older or blind at the end of
+7 the taxable year.
+8 5. Claim no exemptions under section 43-1023 for the taxable year.
+9 6. Elect to claim the optional standard deduction under section
+10 43-1041, subsection A, but not the increased amount for charitable
+11 deductions under section 43-1041, subsection I H.
+12 7. Are not required to add any income under section 43-1021 and do
+13 not elect to claim any subtractions under section 43-1022 or file for any
+14 credits under chapter 10, article 5 of this title, except the credits
+15 provided by sections 43-1072.01, 43-1072.02 and 43-1073.
+16 8. Do not elect to contribute a portion of any tax refund as
+17 provided by any provision of chapter 6, article 1 of this title.
+18 Notwithstanding any provision of chapter 6, article 1 of this title, a
+19 simplified return form under this subsection shall not include any space
+20 for the taxpayer to so contribute a portion of a refund.
+21 D. The department shall prepare blank forms for the returns and
+22 furnish them on request. Failure to receive or secure the form does not
+23 relieve any taxpayer from making any return required.
+24 E. An individual income tax preparer who prepares more than ten
+25 original income tax returns that are timely filed during any taxable year
+26 that begins from and after December 31, 2017 shall file electronically all
+27 individual tax returns prepared by that tax preparer, for that taxable
+28 year and each subsequent taxable year. An individual income tax preparer
+29 may not charge a separate fee to the taxpayer for filing a return using
+30 the department's electronic filing program. This subsection does not
+31 apply if the taxpayer elects to have the return filed on paper or if the
+32 return cannot be filed electronically for reasons outside of the tax
+33 preparer's control.
+34 F. Fiduciary returns, partnership returns, withholding returns and
+35 corporate returns shall be filed electronically for taxable years
+36 beginning from and after December 31, 2019, or when the department
+37 establishes an electronic filing program, whichever is later. Any person
+38 who is required to file electronically pursuant to this subsection may
+39 apply to the director, on a form prescribed by the department, for an
+40 annual waiver from the electronic filing requirement. The director may
+41 grant the waiver, which may be renewed for one subsequent year, if any of
+42 the following applies:
+43 1. The taxpayer has no computer.
+44 2. The taxpayer has no internet access.
+45 3. Any other circumstance considered to be worthy by the director
+46 exists.
+-6-
+
+Senate Amendments to S.B. 1638
+1 G. A waiver is not required if the return cannot be electronically
+2 filed for reasons beyond the taxpayer's control, including situations in
+3 which the taxpayer was instructed by either the internal revenue service
+4 or the department of revenue to file by paper.
+5 Sec. 5. Section 43-1022, Arizona Revised Statutes, is amended to
+6 read:
+7 43-1022. Subtractions from Arizona gross income
+8 In computing Arizona adjusted gross income, the following amounts
+9 shall be subtracted from Arizona gross income:
+10 1. The amount of exemptions allowed by section 43-1023.
+11 2. Benefits, annuities and pensions in an amount totaling not more
+12 than $2,500 received from one or more of the following:
+13 (a) The United States government service retirement and disability
+14 fund, the United States foreign service retirement and disability system
+15 and any other retirement system or plan established by federal law, except
+16 retired or retainer pay of the uniformed services of the United States
+17 that qualifies for a subtraction under paragraph 26 of this section.
+18 (b) The Arizona state retirement system, the corrections officer
+19 retirement plan, the public safety personnel retirement system, the
+20 elected officials' retirement plan, an optional retirement program
+21 established by the Arizona board of regents under section 15-1628, an
+22 optional retirement program established by a community college district
+23 board under section 15-1451 or a retirement plan established for employees
+24 of a county, city or town in this state.
+25 3. A beneficiary's share of the fiduciary adjustment to the extent
+26 that the amount determined by section 43-1333 decreases the beneficiary's
+27 Arizona gross income.
+28 4. Interest income received on obligations of the United States,
+29 minus any interest on indebtedness, or other related expenses, and
+30 deducted in arriving at Arizona gross income, that were incurred or
+31 continued to purchase or carry such obligations.
+32 5. The excess of a partner's share of income required to be
+33 included under section 702(a)(8) of the internal revenue code over the
+34 income required to be included under chapter 14, article 2 of this title.
+35 6. The excess of a partner's share of partnership losses determined
+36 pursuant to chapter 14, article 2 of this title over the losses allowable
+37 under section 702(a)(8) of the internal revenue code.
+38 7. The amount allowed by section 43-1025 for contributions during
+39 the taxable year of agricultural crops to charitable organizations.
+40 8. The portion of any wages or salaries paid or incurred by the
+41 taxpayer for the taxable year that is equal to the amount of the federal
+42 work opportunity credit, the empowerment zone employment credit, the
+43 credit for employer paid social security taxes on employee cash tips and
+44 the Indian employment credit that the taxpayer received under sections
+45 45A, 45B, 51(a) and 1396 of the internal revenue code.
+46 9. The amount of exploration expenses that is determined pursuant
+47 to section 617 of the internal revenue code, that has been deferred in a
+-7-
+
+Senate Amendments to S.B. 1638
+1 taxable year ending before January 1, 1990 and for which a subtraction has
+2 not previously been made. The subtraction shall be made on a ratable
+3 basis as the units of produced ores or minerals discovered or explored as
+4 a result of this exploration are sold.
+5 10. The amount included in federal adjusted gross income pursuant
+6 to section 86 of the internal revenue code, relating to taxation of social
+7 security and railroad retirement benefits.
+8 11. To the extent not already excluded from Arizona gross income
+9 under the internal revenue code, compensation received for active service
+10 as a member of the reserves, the national guard or the armed forces of the
+11 United States, including compensation for service in a combat zone as
+12 determined under section 112 of the internal revenue code.
+13 12. The amount of unreimbursed medical and hospital costs, adoption
+14 counseling, legal and agency fees and other nonrecurring costs of
+15 adoption. The subtraction under this paragraph may be taken for the costs
+16 that are described in this paragraph and that are incurred in prior years,
+17 but the subtraction may be taken only in the year during which the final
+18 adoption order is granted. The amount subtracted may not exceed:
+19 (a) In taxable years beginning before December 31, 2025, $3,000. In
+20 the case of a husband and wife who file separate returns, the subtraction
+21 may be taken by either taxpayer or may be divided between them, but the
+22 total subtractions allowed both husband and wife may not exceed $3,000.
+23 (b) In taxable years beginning from and after December 31, 2025,
+24 $5,000 for a single individual or head of household.
+25 (c) For taxable years beginning from and after December 31, 2025,
+26 $10,000 for a married couple filing a joint return. In the case of a
+27 husband and wife who file separate returns, the subtraction may be taken
+28 by either taxpayer or may be divided between them, but the total
+29 subtractions allowed both husband and wife may not exceed $10,000.
+30 13. The amount authorized by section 43-1027 for the taxable year
+31 relating to qualified wood stoves, wood fireplaces or gas fired
+32 fireplaces.
+33 14. The amount by which a net operating loss carryover or capital
+34 loss carryover allowable pursuant to section 43-1029, subsection F exceeds
+35 the net operating loss carryover or capital loss carryover allowable
+36 pursuant to section 1341(b)(5) of the internal revenue code.
+37 15. Any amount of qualified educational expenses that is
+38 distributed from a qualified state tuition program determined pursuant to
+39 section 529 of the internal revenue code and that is included in income in
+40 computing federal adjusted gross income.
+41 16. Any item of income resulting from an installment sale that has
+42 been properly subjected to income tax in another state in a previous
+43 taxable year and that is included in Arizona gross income in the current
+44 taxable year.
+45 17. For property placed in service:
+46 (a) In taxable years beginning before December 31, 2012, an amount
+47 equal to the depreciation allowable pursuant to section 167(a) of the
+-8-
+
+Senate Amendments to S.B. 1638
+1 internal revenue code for the taxable year computed as if the election
+2 described in section 168(k) of the internal revenue code had been made for
+3 each applicable class of property in the year the property was placed in
+4 service.
+5 (b) In taxable years beginning from and after December 31, 2012
+6 through December 31, 2013, an amount determined in the year the asset was
+7 placed in service based on the calculation in subdivision (a) of this
+8 paragraph. In the first taxable year beginning from and after
+9 December 31, 2013, the taxpayer may elect to subtract the amount necessary
+10 to make the depreciation claimed to date for the purposes of this title
+11 the same as it would have been if subdivision (c) of this paragraph had
+12 applied for the entire time the asset was in service. Subdivision (c) of
+13 this paragraph applies for the remainder of the asset's life. If the
+14 taxpayer does not make the election under this subdivision, subdivision
+15 (a) of this paragraph applies for the remainder of the asset's life.
+16 (c) In taxable years beginning from and after December 31, 2013
+17 through December 31, 2015, an amount equal to the depreciation allowable
+18 pursuant to section 167(a) of the internal revenue code for the taxable
+19 year as computed as if the additional allowance for depreciation had been
+20 ten percent of the amount allowed pursuant to section 168(k) of the
+21 internal revenue code.
+22 (d) In taxable years beginning from and after December 31, 2015
+23 through December 31, 2016, an amount equal to the depreciation allowable
+24 pursuant to section 167(a) of the internal revenue code for the taxable
+25 year as computed as if the additional allowance for depreciation had been
+26 fifty-five percent of the amount allowed pursuant to section 168(k) of the
+27 internal revenue code.
+28 (e) In taxable years beginning from and after December 31, 2016, an
+29 amount equal to the depreciation allowable pursuant to section 167(a) of
+30 the internal revenue code for the taxable year as computed as if the
+31 additional allowance for depreciation had been the full amount allowed
+32 pursuant to section 168(k) of the internal revenue code.
+33 18. With respect to property that is sold or otherwise disposed of
+34 during the taxable year by a taxpayer that complied with section 43-1021,
+35 paragraph 11 with respect to that property, the amount of depreciation
+36 that has been allowed pursuant to section 167(a) of the internal revenue
+37 code to the extent that the amount has not already reduced Arizona taxable
+38 income in the current or prior taxable years.
+39 19. The amount contributed during the taxable year to college
+40 savings plans established pursuant to section 529 of the internal revenue
+41 code on behalf of the designated beneficiary to the extent that the
+42 contributions were not deducted in computing federal adjusted gross
+43 income. The amount subtracted may not exceed:
+44 (a) $2,000 per beneficiary for a single individual or a head of
+45 household.
+46 (b) $4,000 per beneficiary for a married couple filing a joint
+47 return. In the case of a husband and wife who file separate returns, the
+-9-
+
+Senate Amendments to S.B. 1638
+1 subtraction may be taken by either taxpayer or may be divided between
+2 them, but the total subtractions allowed both husband and wife may not
+3 exceed $4,000 per beneficiary.
+4 20. The portion of the net operating loss carryforward that would
+5 have been allowed as a deduction in the current year pursuant to section
+6 172 of the internal revenue code if the election described in section
+7 172(b)(1)(H) of the internal revenue code had not been made in the year of
+8 the loss that exceeds the actual net operating loss carryforward that was
+9 deducted in arriving at federal adjusted gross income. This subtraction
+10 only applies to taxpayers who made an election under section 172(b)(1)(H)
+11 of the internal revenue code as amended by section 1211 of the American
+12 recovery and reinvestment act of 2009 (P.L. 111-5) or as amended by
+13 section 13 of the worker, homeownership, and business assistance act of
+14 2009 (P.L. 111-92).
+15 21. For taxable years beginning from and after December 31, 2013,
+16 the amount of any net capital gain included in federal adjusted gross
+17 income for the taxable year derived from investment in a qualified small
+18 business as determined by the Arizona commerce authority pursuant to
+19 section 41-1518.
+20 22. An amount of any net long-term capital gain included in federal
+21 adjusted gross income for the taxable year that is derived from an
+22 investment in an asset acquired after December 31, 2011, as follows:
+23 (a) For taxable years beginning from and after December 31, 2012
+24 through December 31, 2013, ten percent of the net long-term capital gain
+25 included in federal adjusted gross income.
+26 (b) For taxable years beginning from and after December 31, 2013
+27 through December 31, 2014, twenty percent of the net long-term capital
+28 gain included in federal adjusted gross income.
+29 (c) For taxable years beginning from and after December 31, 2014,
+30 twenty-five percent of the net long-term capital gain included in federal
+31 adjusted gross income. For the purposes of this paragraph, a transferee
+32 that receives an asset by gift or at the death of a transferor is
+33 considered to have acquired the asset when the asset was acquired by the
+34 transferor. If the date an asset is acquired cannot be verified, a
+35 subtraction under this paragraph is not allowed.
+36 23. If an individual is not claiming itemized deductions pursuant
+37 to section 43-1042, the amount of premium costs for long-term care
+38 insurance, as defined in section 20-1691.
+39 24. The amount of eligible access expenditures paid or incurred
+40 during the taxable year to comply with the requirements of the Americans
+41 with disabilities act of 1990 (P.L. 101-336) or title 41, chapter 9,
+42 article 8 as provided by section 43-1024.
+43 25. For taxable years beginning from and after December 31, 2017,
+44 the amount of any net capital gain included in Arizona gross income for
+45 the taxable year that is derived from the exchange of one kind of legal
+46 tender for another kind of legal tender. For the purposes of this
+47 paragraph:
+-10-
+
+Senate Amendments to S.B. 1638
+1 (a) "Legal tender" means a medium of exchange, including specie,
+2 that is authorized by the United States Constitution or Congress to pay
+3 debts, public charges, taxes and dues.
+4 (b) "Specie" means coins having precious metal content.
+5 26. Benefits, annuities and pensions received as retired or
+6 retainer pay of the uniformed services of the United States in amounts as
+7 follows:
+8 (a) For taxable years through December 31, 2018, an amount totaling
+9 not more than $2,500.
+10 (b) For taxable years beginning from and after December 31, 2018
+11 through December 31, 2020, an amount totaling not more than $3,500.
+12 (c) For taxable years beginning from and after December 31, 2020,
+13 the full amount received.
+14 27. For taxable years beginning from and after December 31, 2020,
+15 the amount contributed during the taxable year to an achieving a better
+16 life experience account established pursuant to section 529A of the
+17 internal revenue code on behalf of the designated beneficiary to the
+18 extent that the contributions were not deducted in computing federal
+19 adjusted gross income. The amount subtracted may not exceed:
+20 (a) $2,000 per beneficiary for a single individual or a head of
+21 household.
+22 (b) $4,000 per beneficiary for a married couple filing a joint
+23 return. In the case of a husband and wife who file separate returns, the
+24 subtraction may be taken by either taxpayer or may be divided between
+25 them, but the total subtractions allowed both husband and wife may not
+26 exceed $4,000 per beneficiary.
+27 28. For taxable years beginning from and after December 31, 2020,
+28 Arizona small business gross income but only if an individual taxpayer has
+29 elected to separately report and pay tax on the taxpayer's Arizona small
+30 business adjusted gross income on the Arizona small business income tax
+31 return.
+32 29. To the extent not already excluded from Arizona gross income
+33 under the internal revenue code, the value of virtual currency and
+34 non-fungible tokens the taxpayer received pursuant to an airdrop at the
+35 time of the airdrop. This paragraph may not be interpreted as providing a
+36 subtraction for any appreciation in value that occurs from holding the
+37 virtual currency after the initial receipt of the airdrop. For the
+38 purposes of this paragraph:
+39 (a) "Airdrop" means the receipt of virtual currency through a means
+40 of distribution of virtual currency to the distributed ledger addresses of
+41 multiple taxpayers.
+42 (b) "Non-fungible token" has the same meaning prescribed in section
+43 43-1028.
+44 (c) "Virtual currency" has the same meaning prescribed in section
+45 43-1028.
+-11-
+
+Senate Amendments to S.B. 1638
+1 30. The amount allowed as a subtraction by section 43-1028 for gas
+2 fees not already included in the taxpayer's virtual currency or
+3 non-fungible token basis.
+4 31. TO THE EXTENT NOT ALREADY EXCLUDED FROM ARIZONA GROSS INCOME
+5 UNDER THE INTERNAL REVENUE CODE, THE AMOUNT DEDUCTED FOR A QUALIFIED
+6 INDIVIDUAL UNDER SECTION 151(d)(5)(C) OF THE INTERNAL REVENUE CODE.
+7 32. TO THE EXTENT NOT ALREADY EXCLUDED FROM ARIZONA GROSS INCOME
+8 UNDER THE INTERNAL REVENUE CODE, THE AMOUNT DEDUCTED FOR QUALIFIED
+9 PASSENGER VEHICLE LOAN INTEREST UNDER SECTION 163(h)(4) OF THE INTERNAL
+10 REVENUE CODE.
+11 33. TO THE EXTENT NOT ALREADY EXCLUDED FROM ARIZONA GROSS INCOME
+12 UNDER THE INTERNAL REVENUE CODE, THE AMOUNT OF QUALIFIED TIPS RECEIVED
+13 DURING THE TAXABLE YEAR THAT IS DEDUCTED UNDER SECTION 224 OF THE INTERNAL
+14 REVENUE CODE.
+15 34. TO THE EXTENT NOT ALREADY EXCLUDED FROM ARIZONA GROSS INCOME
+16 UNDER THE INTERNAL REVENUE CODE, THE AMOUNT OF QUALIFIED OVERTIME
+17 COMPENSATION RECEIVED DURING THE TAXABLE YEAR THAT IS DEDUCTED UNDER
+18 SECTION 225 OF THE INTERNAL REVENUE CODE.
+19 Sec. 6. Section 43-1041, Arizona Revised Statutes, is amended to
+20 read:
+21 43-1041. Optional standard deduction
+22 A. A taxpayer may elect to take a standard deduction as follows:
+23 1. In the case of a single person or a married person filing
+24 separately, the standard deduction is $12,200, subject to subsection H of
+25 this section.
+26 2. In the case of a single person who is a head of a household, the
+27 standard deduction is $18,350, subject to subsection H of this section.
+28 3. In the case of a married couple filing a joint return, the
+29 standard deduction is $24,400, subject to subsection H of this section.
+30 THE AMOUNT OF THE STANDARD DEDUCTION IS THE AMOUNT OF THE FEDERAL BASIC
+31 STANDARD DEDUCTION PURSUANT TO SECTION 63 OF THE INTERNAL REVENUE CODE FOR
+32 THE TAXPAYER'S FILING STATUS IN EFFECT ON JANUARY 1, 2026.
+33 B. The standard deduction provided for in subsection A of this
+34 section is in lieu of all itemized deductions allowed by section 43-1042,
+35 which are to be subtracted from Arizona adjusted gross income in computing
+36 taxable income.
+37 C. The standard deduction is allowed if the taxpayer so
+38 elects. The election is made by the taxpayer claiming on the tax return
+39 the amount provided for in this section in lieu of the itemized deductions
+40 allowed under section 43-1042. Electing to file a short form return or a
+41 simplified return that does not allow itemized deductions to be claimed is
+42 considered to be an election to claim the standard deduction.
+43 D. In the case of a husband and wife, the standard deduction
+44 provided for in subsection A of this section is not allowed to either if
+45 the taxable income of one of the spouses is determined without regard to
+46 the standard deduction.
+-12-
+
+Senate Amendments to S.B. 1638
+1 E. The standard deduction provided for by subsection A of this
+2 section is not allowed in the case of a taxable year of less than twelve
+3 months on account of a change in the accounting period.
+4 F. Except as provided in subsection G of this section, a change of
+5 an election to take, or not to take, the standard deduction for any
+6 taxable year may be made after the filing of the return for that year.
+7 G. A taxpayer is not allowed to change an election to take, or not
+8 to take, the standard deduction if:
+9 1. The spouse of the taxpayer filed a separate return for any
+10 taxable year corresponding, for the purposes of subsection D of this
+11 section, to the taxable year of the taxpayer unless both of the following
+12 apply:
+13 (a) The spouse makes a change of election with respect to the
+14 standard deduction for the taxable year covered in the separate return
+15 consistent with the change of election sought by the taxpayer.
+16 (b) The taxpayer and spouse consent in writing to the assessment,
+17 within such a period as may be agreed on with the department, of any
+18 deficiency, to the extent attributable to the change of election, even
+19 though at the time of filing the consent the assessment of the deficiency
+20 would otherwise be prevented by the operation of any law or rule of law.
+21 2. The tax liability of the taxpayer or the taxpayer's spouse for
+22 the taxable year has been compromised.
+23 H. For each taxable year beginning from and after December 31,
+24 2019, the department shall adjust the dollar amounts prescribed by
+25 subsection A, paragraphs 1, 2 and 3 of this section for inflation in the
+26 same manner in which the federal basic standard deduction is adjusted for
+27 inflation pursuant to section 63 of the internal revenue code.
+28 I. For taxable years beginning from and after December 31, 2018,
+29 H. The standard deduction allowed under subsection A of this
+30 section shall be increased AS FOLLOWS:
+31 1. FOR TAXABLE YEARS BEGINNING FROM AND AFTER DECEMBER 31, 2018
+32 THROUGH DECEMBER 31, 2025, by the amount equal to twenty-five percent of
+33 the total amount of a taxpayer's charitable deductions that would have
+34 been allowed if the taxpayer elected to claim itemized deductions under
+35 section 43-1042 rather than elect the standard deduction. For taxable
+36 years beginning from and after December 31, 2021 THROUGH DECEMBER 31,
+37 2025, the department shall adjust the percentage prescribed in this
+38 subsection PARAGRAPH according to the average annual change in the
+39 metropolitan Phoenix consumer price index published by the United States
+40 department of labor, bureau of labor statistics, except that the adjusted
+41 percentage may not exceed one hundred percent. The revised percentage
+42 shall be raised to the nearest whole percent and may not be revised below
+43 the amounts prescribed in the prior taxable year.
+-13-
+
+Senate Amendments to S.B. 1638
+1 2. FOR TAXABLE YEARS BEGINNING FROM AND AFTER DECEMBER 31, 2025, BY
+2 AN AMOUNT EQUAL TO THE TOTAL AMOUNT OF A TAXPAYER'S CHARITABLE
+3 CONTRIBUTIONS AS DEFINED IN SECTION 170(c) OF THE INTERNAL REVENUE
+4 CODE. THE INCREASE ALLOWED BY THIS PARAGRAPH MAY NOT EXCEED:
+5 (a) IN THE CASE OF A SINGLE PERSON OR A MARRIED PERSON FILING
+6 SEPARATELY, $1,000.
+7 (b) IN THE CASE OF A MARRIED COUPLE FILING A JOINT RETURN, $2,000.
+8 <<Sec. 7. Section 43-1122, Arizona Revised Statutes, is amended to
+9 read:
+10 43-1122. Subtractions from Arizona gross income; corporations
+11 In computing Arizona taxable income for a corporation, the following
+12 amounts shall be subtracted from Arizona gross income:
+13 1. The excess of a partner's share of income required to be
+14 included under section 702(a)(8) of the internal revenue code over the
+15 income required to be included under chapter 14, article 2 of this title.
+16 2. The excess of a partner's share of partnership losses determined
+17 pursuant to chapter 14, article 2 of this title over the losses allowable
+18 under section 702(a)(8) of the internal revenue code.
+19 3. The amount allowed by section 43-1025 for contributions during
+20 the taxable year of agricultural crops to charitable organizations.
+21 4. The portion of any wages or salaries paid or incurred by the
+22 taxpayer for the taxable year that is equal to the amount of the federal
+23 work opportunity credit, the empowerment zone employment credit, the
+24 credit for employer paid social security taxes on employee cash tips and
+25 the Indian employment credit that the taxpayer received under sections
+26 45A, 45B, 51(a) and 1396 of the internal revenue code.
+27 5. With respect to property that is sold or otherwise disposed of
+28 during the taxable year by a taxpayer that complied with section 43-1121,
+29 paragraph 4 with respect to that property, the amount of depreciation that
+30 has been allowed pursuant to section 167(a) of the internal revenue code
+31 to the extent that the amount has not already reduced Arizona taxable
+32 income in the current taxable year or prior taxable years.
+33 6. With respect to a financial institution as defined in section
+34 6-101, expenses and interest relating to tax-exempt income disallowed
+35 pursuant to section 265 of the internal revenue code.
+36 7. Dividends received from another corporation owned or controlled
+37 directly or indirectly by a recipient corporation. For the purposes of
+38 this paragraph, "control" means direct or indirect ownership or control of
+39 fifty percent or more of the voting stock of the payor corporation by the
+40 recipient corporation. Dividends shall have the meaning provided in
+41 section 316 of the internal revenue code. This subtraction shall apply
+42 without regard to section 43-961, paragraph 2 and article 4 of this
+43 chapter.
+44 8. Interest income received on obligations of the United States.
+45 9. The amount of dividend income from foreign corporations. For
+46 the purposes of this paragraph, gross up income as described in section 78
+47 of the internal revenue code, [global intangible low-taxed] [THE] income
+-14-
+
+Senate Amendments to S.B. 1638
+1 [as defined] [DESCRIBED] in section 951A of the internal revenue code and
+2 subpart F income as defined in section 952 of the internal revenue code
+3 shall be considered foreign dividends.
+4 10. The amount of net operating loss allowed by section 43-1123.
+5 11. The amount of any state income tax refunds received that were
+6 included as income in computing federal taxable income.
+7 12. The amount of expense recapture included in income pursuant to
+8 section 617 of the internal revenue code for mine exploration expenses.
+9 13. The amount of deferred exploration expenses allowed by section
+10 43-1127.
+11 14. The amount of exploration expenses related to the exploration
+12 of oil, gas or geothermal resources, computed in the same manner and on
+13 the same basis as a deduction for mine exploration pursuant to section 617
+14 of the internal revenue code. This computation is subject to the
+15 adjustments contained in section 43-1121, paragraph 10 and paragraphs 12
+16 and 13 of this section relating to exploration expenses.
+17 15. The amortization of pollution control devices allowed by
+18 section 43-1129.
+19 16. The amount of amortization of the cost of child care facilities
+20 pursuant to section 43-1130.
+21 17. The amount of income from a domestic international sales
+22 corporation required to be included in the income of its shareholders
+23 pursuant to section 995 of the internal revenue code.
+24 18. The income of an insurance company that is exempt under section
+25 43-1201 to the extent that it is included in computing Arizona gross
+26 income on a consolidated return pursuant to section 43-947.
+27 19. The amount by which a capital loss carryover allowable pursuant
+28 to section 43-1130.01, subsection F exceeds the capital loss carryover
+29 allowable pursuant to section 1341(b)(5) of the internal revenue code.
+30 20. An amount equal to the depreciation allowable pursuant to
+31 section 167(a) of the internal revenue code for the taxable year computed
+32 as if the election described in section 168(k)(7) of the internal revenue
+33 code had been made for each applicable class of property in the year the
+34 property was placed in service.
+35 21. The amount of eligible access expenditures paid or incurred
+36 during the taxable year to comply with the requirements of the Americans
+37 with disabilities act of 1990 (P.L. 101-336) or title 41, chapter 9,
+38 article 8 as provided by section 43-1124.
+39 22. For taxable years beginning from and after December 31, 2017,
+40 the amount of any net capital gain included in Arizona gross income for
+41 the taxable year that is derived from the exchange of one kind of legal
+42 tender for another kind of legal tender. For the purposes of this
+43 paragraph:
+44 (a) "Legal tender" means a medium of exchange, including specie,
+45 that is authorized by the United States Constitution or Congress to pay
+46 debts, public charges, taxes and dues.
+47 (b) "Specie" means coins having precious metal content.
+-15-
+
+Senate Amendments to S.B. 1638
+1 23. With respect to a public service corporation operating a water
+2 system or sewage disposal facility, the amount of monies or property
+3 received as a contribution in aid of construction. For the purposes of
+4 this paragraph:
+5 (a) "Contribution in aid of construction" means any amount of
+6 monies or other property contributed to a public service corporation that
+7 provides water or sewage disposal services to the extent that the purpose
+8 of the contribution is to provide for expanding, improving or replacing
+9 the public service corporation's water system or sewage disposal
+10 facilities, including any amount of monies or other property contributed
+11 to a public service corporation for a water system or sewage disposal
+12 facility subject to a contingent obligation to repay the amount, in whole
+13 or in part, to the contributor.
+14 (b) "Public service corporation" means a public service corporation
+15 as defined in article XV, section 2, Constitution of Arizona, that is
+16 regulated by the corporation commission.>>
+17 Sec. 8. Retroactivity
+18 This act applies retroactively to taxable years beginning from and
+19 after December 31, 2024.
+20 Enroll and engross to conform
+21 Amend title to conform
+1638FIN.docx
+02/03/2026
+12:50 PM
+C: ED
+130WBXQBV
+-16-

@@ -1,0 +1,534 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Fink - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2032: statewide assessment; testing window; revisions
+FINK FLOOR AMENDMENT
+1. Reinserts language that directs the Arizona Department of Education (ADE)
+or the State Board of Education (SBE) to execute a testing window for the
+statewide assessment that is not longer than four consecutive school weeks.
+2. Prohibits the testing window executed by ADE or SBE for the 3rd through 8th
+grade statewide assessment from beginning before the fourth week in April,
+unless the assessment is an alternate assessment administered due to a
+student's Section 504 plan or individualized education program.
+3. Sets May 26 as the date by which SBE must require the statewide assessment
+contractor to distribute test scores and data to local education agencies (LEAs)
+for all portions of the statewide assessment.
+4. Authorizes the contractor for the statewide assessment to provide unofficial
+test scores and data from the statewide assessment to LEAs to comply with the
+test scores and data deadline.
+5. As session law, instructs SBE to enter into contracts with contractors to
+purchase statewide assessment tests that meet the prescribed requirements.
+CH
+2/23/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Fink
+Second Regular Session H.B. 2032
+FINK FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2032
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 15-701, Arizona Revised Statutes, is amended to
+3 read:
+4 15-701. Common schools; promotions; requirements;
+5 certificate; supervision of eighth grades by
+6 superintendent of high school district; high school
+7 admissions; academic credit; definition
+8 A. The state board of education shall:
+9 1. Prescribe a minimum course of study incorporating the academic
+10 standards adopted by the state board of education to be taught in the
+11 common schools.
+12 2. Prescribe competency requirements for the promotion of pupils
+13 from the eighth grade and competency requirements for the promotion of
+14 pupils from the third grade that incorporate the academic standards in at
+15 least the areas of reading, writing, mathematics, science and social
+16 studies. The competency requirements for the promotion of pupils from the
+17 third grade shall include the following:
+18 (a) A requirement that a pupil not be promoted from the third grade
+19 if the pupil obtains a score on the reading portion of the statewide
+20 assessment that does not demonstrate sufficient reading skills as
+21 established by the state board. A pupil may not be retained pursuant to
+22 this subdivision if data regarding the pupil's performance on the
+23 statewide assessment is not available before the end of the current
+24 academic year and may not be retained more than once. A pupil who is not
+25 retained due to the unavailability of test data AND WHO OBTAINS A SCORE ON
+26 THE READING PORTION OF THE STATEWIDE ASSESSMENT THAT DOES NOT DEMONSTRATE
+27 SUFFICIENT READING SKILLS must receive evidence-based intervention and
+
+House Amendments to H.B. 2032
+1 remedial strategies pursuant to subdivision (c) of this paragraph if the
+2 third grade assessment data subsequently does not demonstrate sufficient
+3 reading skills.
+4 (b) A mechanism to allow a school district governing board or
+5 charter school governing body to promote from the third grade a pupil who
+6 does not demonstrate sufficient reading skills pursuant to subdivision (a)
+7 of this paragraph if the pupil:
+8 (i) Is an English learner or a limited English proficient student
+9 as defined in section 15-751 and has had fewer than three years of English
+10 language instruction.
+11 (ii) Is in the process of a special education referral or
+12 evaluation for placement in special education, has been diagnosed as
+13 having a significant reading impairment, including dyslexia, or is a child
+14 with a disability as defined in section 15-761 if the pupil's
+15 individualized education program team and the pupil's parent or guardian
+16 agree that promotion is appropriate based on the pupil's individualized
+17 education program.
+18 (iii) Has demonstrated or subsequently demonstrates sufficient
+19 reading skills or adequate progress toward sufficient reading skills of
+20 the third grade reading standards as evidenced through a collection of
+21 reading assessments approved by the state board of education, which
+22 includes an alternative standardized reading assessment approved by the
+23 state board.
+24 (iv) Receives intervention and remedial services during the summer
+25 or a subsequent school year pursuant to subdivision (c) of this paragraph
+26 and demonstrates sufficient progress based on guidelines issued pursuant
+27 to subsection B, paragraph 7 of this section.
+28 (c) Evidence-based intervention and remedial strategies developed
+29 by the state board of education for pupils who are not promoted from the
+30 third grade. A school district governing board or charter school
+31 governing body shall offer more than one of the intervention and remedial
+32 strategies developed by the state board of education. The parent or
+33 guardian of a pupil who is not promoted from the third grade and the
+34 pupil's teacher and principal may choose the most appropriate intervention
+35 and remedial strategies that will be provided to that pupil. The
+36 intervention and remedial strategies developed by the state board of
+37 education shall include:
+38 (i) A requirement that the pupil be assigned for evidence-based
+39 reading instruction by a different teacher who was designated in that
+40 teacher's most recent performance evaluation in one of the top two
+41 performance classifications.
+-2-
+
+House Amendments to H.B. 2032
+1 (ii) Summer school reading instruction.
+2 (iii) In the next academic year, intensive reading instruction that
+3 occurs before, during or after the regular school day, or any combination
+4 of before, during and after the regular school day.
+5 (iv) Small group and teacher-led evidence-based reading
+6 instruction, which may include computer-based or online reading
+7 instruction.
+8 (d) A requirement that a school district governing board or charter
+9 school governing body that promotes a pupil pursuant to subdivision (b) of
+10 this paragraph provide annual reporting to the department of education on
+11 or before October 1 that includes information on the total number of
+12 pupils subject to the retention provisions of subdivision (a) of this
+13 paragraph, the total number of students promoted pursuant to subdivision
+14 (b) of this paragraph, the total number of pupils retained in grade three
+15 and the interventions administered pursuant to subdivision (c) of this
+16 paragraph.
+17 3. Provide for universal screening of pupils in preschool programs,
+18 kindergarten programs and grades one through three that is designed to
+19 identify pupils who have reading deficiencies pursuant to section 15-704.
+20 4. Develop evidence-based intervention and remedial strategies
+21 pursuant to paragraph 2, subdivision (c) of this subsection for pupils in
+22 kindergarten programs and grades one through three who are identified as
+23 having reading deficiencies pursuant to section 15-704.
+24 5. Distribute guidelines for the school districts to follow in
+25 prescribing criteria for the promotion of pupils from grade to grade in
+26 the common schools. These guidelines shall include recommended procedures
+27 for ensuring that the cultural background of a pupil is taken into
+28 consideration when criteria for promotion are being applied.
+29 B. School districts and charter schools shall provide annual
+30 written notification to parents of pupils in kindergarten programs and
+31 first, second and third grades that a pupil who does not demonstrate
+32 sufficient reading skills pursuant to subsection A of this section will
+33 not be promoted from the third grade. School districts and charter
+34 schools shall identify each pupil who is at risk of reading below grade
+35 level in kindergarten and grades one, two and three and shall provide to
+36 the parent of that pupil a specific written notification of the reading
+37 deficiency within three weeks after identifying the reading deficiency.
+38 The notification shall include the following information:
+39 1. A description of the pupil's specific individual needs.
+40 2. A description of the current reading services provided to the
+41 pupil.
+42 3. A description of the available supplemental instructional
+43 services and supporting programs that are designed to remediate reading
+44 deficiencies. Each school district or charter school shall offer more
+45 than one evidence-based intervention strategy and more than one remedial
+46 strategy developed by the state board of education for pupils with reading
+47 deficiencies. The notification shall list the intervention and remedial
+-3-
+
+House Amendments to H.B. 2032
+1 strategies offered and shall instruct the parent to choose, in
+2 consultation with the pupil's teacher, the most appropriate strategies to
+3 be provided and implemented for that child.
+4 4. Parental strategies to assist the pupil to attain reading
+5 proficiency.
+6 5. The frequency with which the school district or charter school
+7 will provide timely updates and information to the parent on the pupil's
+8 progress toward reading proficiency.
+9 6. A statement that the pupil will not be promoted from the third
+10 grade if the pupil does not demonstrate sufficient reading skills pursuant
+11 to subsection A, paragraph 2, subdivision (a) of this section, unless the
+12 pupil is exempt from mandatory retention in grade three or the pupil
+13 qualifies for an exemption pursuant to subsection A, paragraph 2,
+14 subdivision (b) of this section.
+15 7. A description of the school district or charter school policies
+16 on midyear promotion to a higher grade.
+17 C. Pursuant to the guidelines that the state board of education
+18 distributes, the governing board of a school district shall:
+19 1. Prescribe curricula that include the academic standards in the
+20 required subject areas pursuant to subsection A, paragraph 1 of this
+21 section.
+22 2. Prescribe criteria for the promotion of pupils from grade to
+23 grade in the common schools in the school district. These criteria shall
+24 include accomplishment of the academic standards in at least reading,
+25 writing, mathematics, science and social studies, as determined by
+26 district assessment. Other criteria may include additional measures of
+27 academic achievement and attendance.
+28 D. The governing board may prescribe the course of study and
+29 competency requirements for promotion that are in addition to or higher
+30 than the course of study and competency requirements the state board
+31 prescribes.
+32 E. A teacher shall determine whether to promote or retain a pupil
+33 in a grade in a common school on the basis of the prescribed criteria.
+34 The governing board, if it reviews the decision of a teacher to promote or
+35 retain a pupil in a grade in a common school as provided in section
+36 15-342, paragraph 11, shall base its decision on the prescribed criteria.
+37 F. A governing board may provide and issue certificates of
+38 promotion to pupils whom it promotes from the eighth grade of a common
+39 school. Such certificates shall be signed by the principal or
+40 superintendent of schools. If there is no principal or superintendent of
+41 schools, the certificates shall be signed by an eighth grade teacher. The
+42 certificates shall admit the holders to any high school in this state.
+43 G. Within any high school district or union high school district,
+44 the superintendent of the high school district shall supervise the work of
+45 the eighth grade of all schools that do not employ a superintendent or
+46 principal.
+-4-
+
+House Amendments to H.B. 2032
+1 H. A school district shall not deny a pupil who is between the ages
+2 of sixteen and twenty-one years admission to a high school because the
+3 pupil does not hold an eighth grade certificate. Governing boards shall
+4 establish procedures for determining the admissibility of pupils who are
+5 under sixteen years of age and who do not hold eighth grade certificates.
+6 I. The state board of education shall adopt rules to allow common
+7 school pupils who can demonstrate competency in a particular academic
+8 course or subject to obtain academic credit for the course or subject
+9 without enrolling in the course or subject.
+10 J. A school district may conduct a ceremony to honor pupils who
+11 have been promoted from the eighth grade.
+12 K. For the purposes of this section, "dyslexia" means a condition
+13 that:
+14 1. Is neurological in origin.
+15 2. Is characterized by difficulties with accurate or fluent word
+16 recognition and by poor spelling and decoding abilities, including
+17 difficulties that typically result from a deficit in the phonological
+18 component of language that is often unexpected in relation to other
+19 cognitive abilities and to the provision of effective classroom
+20 instruction.
+21 3. May include secondary consequences such as problems with reading
+22 comprehension and reduced reading experience that may impede the growth of
+23 vocabulary and background knowledge.
+24 Sec. 2. Section 15-741, Arizona Revised Statutes, is amended to
+25 read:
+26 15-741. Assessment of pupils; definition
+27 A. The state board of education shall:
+28 1. Adopt rules for the purposes of this article pursuant to title
+29 41, chapter 6.
+30 2. Adopt and implement a statewide assessment to measure pupil
+31 achievement of the state board-adopted academic standards in reading,
+32 writing and mathematics in at least four grades designated by the state
+33 board. The state board shall determine the manner of implementation. The
+34 state board may administer assessments of the academic standards in social
+35 studies and science, except that a pupil shall not be required to meet or
+36 exceed the social studies or science standards measured by the statewide
+37 assessment.
+38 3. Ensure that the tests prescribed in this section are uniform
+39 throughout this state.
+40 4. Ensure that the tests prescribed in this section are able to be
+41 scored in an objective manner and are not intended to advocate any
+42 sectarian, partisan or denominational viewpoint.
+-5-
+
+House Amendments to H.B. 2032
+1 5. Ensure that the tests prescribed in this article collect only
+2 types of pupil nontest data that are approved by the state board at a
+3 public meeting and published on the website of the state board pursuant to
+4 paragraph 7 of this subsection.
+5 6. Include within its budget all costs pertaining to the tests
+6 prescribed in this article. If sufficient monies are appropriated, the
+7 state board may provide achievement test services to school districts that
+8 request assistance in testing pupils in grades additional to those
+9 required by this section.
+10 7. Survey teachers, principals and superintendents on
+11 achievement-related nontest indicators, including information on
+12 graduation rates by ethnicity and dropout rates by ethnicity for each
+13 grade level. Before the survey, the state board shall approve at a public
+14 meeting the nontest indicators on which data will be collected and shall
+15 post in a prominent position on the home page of the state board's website
+16 a link to the nontest indicators entitled "What nontest data does the
+17 state of Arizona collect about Arizona pupils?". The linked webpage shall
+18 state the types of data collected, the reasons for the collection of the
+19 data and the entities with which the data is shared. In conducting the
+20 survey and collecting data, the state board shall not violate the
+21 provisions of the family educational rights and privacy act (P.L. 93-380),
+22 as amended, or disclose personally identifiable information.
+23 8. Establish a fair and consistent method and standard by which
+24 test scores from schools in a district may be evaluated taking into
+25 consideration demographic data. The state board shall establish
+26 intervention strategies to assist schools with scores below the acceptable
+27 standard. The state board shall annually review district and school
+28 scores and shall offer assistance to school districts in analyzing data
+29 and implementing intervention strategies. The state board shall use the
+30 adopted test and methods of data evaluation for a period of at least ten
+31 years.
+32 9. Participate in other assessments that provide national
+33 comparisons as needed.
+34 10. Require in the contract for the statewide assessment pursuant
+35 to this section that test scores and assessment data from the third grade
+36 reading portion of the statewide assessment adopted pursuant to this
+37 section be received by local education agencies on or before May 15 of
+38 each academic year and that the scores and assessment data from all other
+39 portions of the statewide assessment adopted pursuant to this section be
+40 received by local education agencies on or before May 25 [JULY 1] [MAY 26]
+41 of each academic year. The state board shall impose penalties on the
+42 contractor for scores received after these dates [JULY 1] [MAY 26, UNLESS
+43 THE CONTRACTOR PROVIDES UNOFFICIAL TEST SCORES TO LOCAL EDUCATION AGENCIES
+44 ON OR BEFORE MAY 26]. If the state board alters the statewide assessment
+45 testing window for any reason, the state board may adjust the dates by
+46 which local education agencies are required to receive the scores and
+47 assessment data proportionately. If the state board adjusts the dates by
+-6-
+
+House Amendments to H.B. 2032
+1 which local education agencies are required to receive the scores and
+2 assessment data, the state board may not impose penalties on the
+3 contractor unless the scores and assessment data are received after the
+4 adjusted dates. [THE CONTRACTOR MAY PROVIDE UNOFFICIAL TEST SCORES AND
+5 DATA FROM THE STATEWIDE ASSESSMENT ADOPTED PURSUANT TO THIS SECTION TO
+6 LOCAL EDUCATION AGENCIES TO COMPLY WITH THE DEADLINES PRESCRIBED BY THIS
+7 PARAGRAPH.]
+8 B. The achievement tests adopted by the state board as provided in
+9 subsection A of this section shall be given at least annually. Nontest
+10 indicator data and other information shall be collected at the same time
+11 as the collection of achievement test data.
+12 C. Local school district governing boards shall:
+13 1. Administer the tests prescribed in subsection A of this section.
+14 2. Survey teachers, principals and superintendents on
+15 achievement-related nontest indicator data as required by the state board,
+16 including information related to district graduation and dropout rates.
+17 In conducting the survey and collecting data, the governing board shall
+18 not violate the provisions of the family educational rights and privacy
+19 act (P.L. 93-380), as amended, or disclose personally identifiable
+20 information.
+21 D. Any additional assessments for high school pupils that are
+22 adopted by the state board after November 24, 2009 shall be designed to
+23 measure college and career readiness of pupils.
+24 E. If a high school pupil who is enrolled in a school district or
+25 charter school participates in a nationally recognized assessment that is
+26 both adopted by the state board of education pursuant to subsection A of
+27 this section and administered by a person other than the school district
+28 or charter school, the pupil or pupil's parent or guardian may submit the
+29 pupil's official score report for the assessment to the school district or
+30 charter school. On receipt of an official score report pursuant to this
+31 subsection, the school district or charter school shall do all of the
+32 following:
+33 1. Record the score in the pupil's file.
+34 2. Report the score to the state board of education and the
+35 department of education.
+36 3. If the pupil or pupil's parent or guardian submits an official
+37 score report pursuant to this subsection to the school district or charter
+38 school before the date on which the school administers the tests
+39 prescribed in subsection A of this section, allow the pupil to opt out of
+40 participation in the assessment that is administered by the school
+41 district or charter school. If a pupil opts out of an assessment pursuant
+42 to this paragraph, the school district or charter school shall use the
+43 data from the pupil's official score report for the pupil's achievement
+44 test data for the purposes of this section. This paragraph does not
+45 require a school district or charter school to allow a pupil to opt out of
+46 the collection of nontest indicator data or other information that is
+47 collected about pupils who participate in the assessment that is
+-7-
+
+House Amendments to H.B. 2032
+1 administered by the school district or charter school pursuant to this
+2 section.
+3 F. A test for penmanship shall not be required pursuant to this
+4 article.
+5 G. If a local education agency requests a raw data file of
+6 assessment data for the pupils tested at the local education agency, the
+7 department of education shall fulfill the request in a format that is
+8 usable for assessment diagnostics within thirty days after the request.
+9 The local education agency shall follow all applicable student data
+10 privacy laws and may not publicly disclose individual student achievement
+11 results.
+12 H. A school district or charter school may administer the statewide
+13 assessment in the form of a written test if FOR any of the following
+14 applies REASONS:
+15 1. A written test is required pursuant to an individualized
+16 education program or a section 504 plan as defined in section 15-731.
+17 2. To accommodate special circumstances.
+18 3. For religious purposes.
+19 4. On request by a pupil's parent or guardian.
+20 I. For the purposes of this section, "nationally recognized" has
+21 the same meaning prescribed in section 15-741.02.
+22 Sec. 3. Section 15-742, Arizona Revised Statutes, is amended to
+23 read:
+24 15-742. Contract to purchase tests; bond; score distribution
+25 deadline; action for damages
+26 A. The state board of education shall enter into contracts with
+27 contractors for the TO purchase of the tests adopted by the state board
+28 pursuant to sections 15-203 and 15-741. Notwithstanding section 41-2546,
+29 the state board may enter into contracts for the TO purchase of nationally
+30 standardized norm-referenced tests pursuant to this section for a duration
+31 of up to ten years. The contracts may also provide for the distribution
+32 of the tests to the school districts and the scoring of the tests.
+33 B. Contractors shall give a cash or corporate surety bond payable
+34 to this state and approved by the state board indemnifying the state in
+35 the test purchases in an amount not less than five hundred nor OF AT LEAST
+36 $500 AND NOT more than ten thousand dollars $10,000 as may be determined
+37 by the state board. The contractor shall faithfully comply with the
+38 conditions of the contract and shall furnish to the state the tests as
+39 provided in the contract at prices not exceeding the lowest prices then
+40 granted to any buyer. If there is a decrease in the prices given to a
+41 person purchasing such tests from the contractor, the THIS state shall
+42 have the benefit of the decrease in price.
+43 C. The contractor shall file with the state board a sworn statement
+44 stating the lowest prices for which the contractor's series of tests is
+45 sold anywhere in the United States.
+-8-
+
+House Amendments to H.B. 2032
+1 D. Any contract entered into pursuant to this section shall require
+2 that THE CONTRACTOR DISTRIBUTE test scores and assessment data from the
+3 third grade reading portion of the statewide assessment adopted pursuant
+4 to section 15-741 be received by local education agencies on or before May
+5 15 of each academic year and the scores and assessment data from all other
+6 portions of the statewide assessment adopted pursuant to section 15-741 be
+7 received by TO local education agencies on or before May 25 [JULY 1] [MAY
+8 26] of each academic year. [THE CONTRACTOR MAY DISTRIBUTE UNOFFICIAL TEST
+9 SCORES AND DATA FROM THE STATEWIDE ASSESSMENT TO LOCAL EDUCATION AGENCIES
+10 TO COMPLY WITH THE DEADLINE PRESCRIBED BY THIS SUBSECTION.]
+11 E. If a contractor violates a condition of the contract, the
+12 attorney general, on request of the state board of education, shall
+13 institute an action for damages on the bond of the contractor.
+14 Sec. 4. Section 15-743, Arizona Revised Statutes, is amended to
+15 read:
+16 15-743. Test results; annual reports; five-year cumulative
+17 summary; distribution of scores to schools and
+18 parents; testing window
+19 A. The state board of education shall provide annual reports for
+20 every EACH school and school district and the THIS state as a whole. The
+21 state board shall annually submit these reports to school districts, the
+22 legislature and the county school superintendents and shall make them
+23 available to the public. The state board shall publish and distribute the
+24 reports by September 1 and shall also provide a cumulative summary of the
+25 reports every five years. The annual reports and cumulative summary
+26 results shall include:
+27 1. Average and range scores on the statewide assessment adopted
+28 pursuant to section 15-741.
+29 2. Standardized test scores by subject area according to
+30 percentiles and stanines for the school, school district, county, state
+31 and nation.
+32 3. Achievement-related nontest indicator data collected in the
+33 survey of teachers, principals and superintendents as required by section
+34 15-741, including information related to dropout rates by ethnicity for
+35 each grade level and graduation rates and postsecondary employment and
+36 education by ethnicity. In reporting such data, the state board shall not
+37 violate the provisions of the family educational rights and privacy act
+38 (P.L. 93-380), as amended, or disclose personally identifiable
+39 information.
+40 4. The numbers of pupils who have completed the academic standards
+41 at grades three, eight and twelve.
+42 B. Test results on individual pupils shall not be made available to
+43 the public by name or individually identifiable reference.
+44 C. The state board shall provide a copy of the results from the
+45 tests prescribed in section 15-741, subsection A for each school district
+46 to that school district. Results may not be released to the public until
+47 ten days after the reports are provided to each school district.
+-9-
+
+House Amendments to H.B. 2032
+1 D. The state board shall provide each school district THAT IS
+2 participating in the testing program with a copy of each pupil's
+3 standardized norm-referenced test scores in reading, language arts and
+4 mathematics, and the associated grade equivalents, percentiles and
+5 stanines for the school, school district, county, state and nation, a
+6 report of pupil progress on an ongoing and annual basis, showing the
+7 trends in gain or loss in pupil achievement over time in reading, language
+8 arts and mathematics for all years in which pupils are enrolled in the
+9 school district for an entire school year and for which this information
+10 is available and a report of the pupil progress for pupils not enrolled in
+11 a district for an entire school year. The state board shall also provide
+12 each school district with each pupil's statewide assessment scores and the
+13 statewide assessment scores for the school, school district, county and
+14 state.
+15 E. The school district shall provide a parent or guardian of each
+16 pupil participating in the standardized norm-referenced testing part of
+17 the program with a copy of the pupil's scores in reading, language arts
+18 and mathematics, and the percentiles and stanines. The school district
+19 shall provide a parent or guardian of each pupil with a copy of the
+20 pupil's scores on the statewide assessment and the associated scores for
+21 the school, school district, county and state. The school district shall
+22 make available to the public through the reports those scores for each
+23 school in the school district and for the school district, county, state
+24 and nation.
+25 F. [Any] [THE DEPARTMENT OF EDUCATION OR THE STATE BOARD OF
+26 EDUCATION SHALL ESTABLISH AND EXECUTE A] testing window [established and
+27 executed by the department of education or the state board for the
+28 administration of] [TO ADMINISTER] the statewide assessment adopted
+29 pursuant to section 15-741 [may not be longer than four consecutive school
+30 weeks] shall ensure that local education agencies receive test scores and
+31 assessment data from the third grade reading portion of the statewide
+32 assessment on or before May 15 of each academic year and that the scores
+33 and assessment data from all other portions of the statewide assessment
+34 adopted pursuant to section 15-741 are received by local education
+35 agencies on or before May 25 of [THAT ALLOWS EACH LOCAL EDUCATION AGENCY
+36 TO ADMINISTER THE STATEWIDE ASSESSMENT DURING THE LAST TWO SCHOOL WEEKS OF
+37 THE LOCAL EDUCATION AGENCY'S SCHOOL CALENDAR FOR each academic year].
+38 [THE TESTING WINDOW ESTABLISHED PURSUANT TO THIS SUBSECTION FOR AN
+39 ASSESSMENT THAT IS ADMINISTERED TO STUDENTS IN ANY OF GRADES THREE THROUGH
+40 EIGHT MAY NOT BEGIN BEFORE THE FOURTH WEEK OF APRIL DURING ANY SCHOOL YEAR
+41 UNLESS THE ASSESSMENT IS AN ALTERNATE ASSESSMENT THAT IS ADMINISTERED
+42 PURSUANT TO A STUDENT'S SECTION 504 PLAN OR INDIVIDUALIZED EDUCATION
+43 PROGRAM AS DEFINED IN SECTION 15-731.] The department of education or the
+44 state board may not prohibit the superintendent or the staff of a local
+45 education agency from sharing statewide assessment data with the local
+46 education agency's district governing board or governing body or otherwise
+47 impede the sharing of statewide assessment data.
+-10-
+
+House Amendments to H.B. 2032
+1 G. Notwithstanding subsection F of this section and sections 15-741
+2 and 15-742, the department of education, subject to review and approval by
+3 the state board, may adjust the testing window for the statewide
+4 assessment adopted pursuant to section 15-741 in academic years that the
+5 state board is revising current proficiency levels or is establishing new
+6 proficiency levels for the statewide assessment adopted pursuant to
+7 section 15-741.
+8 <<Sec. 5. Implementation
+9 [The state board of education shall enter into contracts with
+10 contractors to purchase tests pursuant to sections 15-741 and 15-742,
+11 Arizona Revised Statutes, as amended by this act.]>>
+12 Enroll and engross to conform
+13 Amend title to conform
+LISA FINK
+2032FloorFINK.docx
+02/11/2026
+11:31 AM
+C: VS
+130ZEOFFW
+-11-

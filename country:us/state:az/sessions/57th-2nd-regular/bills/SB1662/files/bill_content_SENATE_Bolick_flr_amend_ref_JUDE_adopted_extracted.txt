@@ -1,0 +1,347 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Bolick flr amend (ref JUDE) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1662
+Bolick Floor Amendment
+Reference to: JUDICIARY AND ELECTIONS
+Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Removes the specification that the conditions of probation imposed on a defendant be the fewest
+and least restrictive.
+2. Reinserts the requirement that the conditions imposed be reasonably necessary to meet the
+specified purposes of probation.
+Amendment explanation prepared by Kaytie Sherman
+2/25/2026
+
+Fifty-seventh Legislature Bolick
+Second Regular Session S.B. 1662
+BOLICK FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1662
+(Reference to JUDICIARY AND ELECTIONS Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-901, Arizona Revised Statutes, is amended to
+3 read:
+4 13-901. Probation
+5 A. If a person who has been convicted of an offense is eligible for
+6 probation, the court may suspend the imposition or execution of sentence
+7 and, if so, shall without delay place the person on intensive probation
+8 supervision pursuant to section 13-913 or supervised or unsupervised
+9 probation on such terms and conditions as the law requires and the court
+10 deems appropriate, including participation in any programs authorized in
+11 title 12, chapter 2, article 11. If a person is not eligible for
+12 probation, imposition or execution of sentence shall not be suspended or
+13 delayed. If the court imposes probation, it may also impose a fine as
+14 authorized by chapter 8 of this title. If probation is granted the court
+15 shall impose a condition that the person waive extradition for any
+16 probation revocation procedures and it shall order restitution pursuant to
+
+Senate Amendments to S.B. 1662
+1 section 13-603, subsection C where there is a victim who has suffered
+2 economic loss.
+3 B. IF PROBATION IS GRANTED, THE FOLLOWING APPLY TO ANY CONDITIONS
+4 OF PROBATION IMPOSED [UNLESS OTHERWISE REQUIRED BY LAW]:
+5 1. IN DETERMINING THE DEFENDANT'S CONDITIONS OF PROBATION, THE
+6 COURT OR A PROBATION OFFICER SHALL {{[ONLY]}} IMPOSE {{THE FEWEST AND
+7 LEAST RESTRICTIVE}} {{ONLY}} CONDITIONS OF PROBATION THAT ARE
+8 {{[REASONABLY NECESSARY]}} {{,}} [INDIVIDUALLY DETERMINED AND NARROWLY
+9 TAILORED] TO:
+10 (a) ASSIST THE DEFENDANT IN LEADING A LAW-ABIDING LIFE.
+11 (b) PROTECT PUBLIC SAFETY.
+12 (c) PROMOTE THE DEFENDANT'S REHABILITATION.
+13 2. THE CONDITIONS OF PROBATION THAT ARE IMPOSED SHALL BE INFORMED
+14 BY THE DEFENDANT'S CRIMINOGENIC RISK AND NEEDS AS ESTABLISHED BY A
+15 VALIDATED RISK ASSESSMENT TOOL.
+16 3. THE COURT OR THE PROBATION OFFICER SHALL:
+17 (a) BEFORE IMPOSING A STANDARD CONDITION OF PROBATION, CONSIDER
+18 WAIVING ANY STANDARD CONDITION OF PROBATION THAT IS NOT REASONABLY
+19 NECESSARY TO ACHIEVE THE PURPOSES PRESCRIBED IN PARAGRAPH 1 OF THIS
+20 SUBSECTION.
+21 (b) BEFORE IMPOSING A SPECIAL CONDITION OF PROBATION, CONSIDER ALL
+22 INFORMATION THAT IS PROPERLY PRESENTED TO THE COURT BEFORE IMPOSING A
+23 SPECIAL CONDITION OF PROBATION, SHALL DETERMINE IF THE CONDITION IS MORE
+24 RESTRICTIVE THAN IS REASONABLY NECESSARY TO ACHIEVE THE PURPOSES
+25 PRESCRIBED IN PARAGRAPH 1 OF THIS SUBSECTION AND SHALL NOT IMPOSE A
+26 SPECIAL CONDITION OF PROBATION UNLESS THE SPECIAL CONDITION IS SUPPORTED
+27 BY THE RECORD.
+28 [(c) ENSURE THAT ALL CONDITIONS OF PROBATION ARE INDIVIDUALLY
+29 DETERMINED AND NARROWLY TAILORED TO THE DEFENDANT.]
+30 4. IF A PRESENTENCE REPORT WAS PREPARED PURSUANT TO SECTION 13-701,
+31 THE CONDITIONS OF PROBATION IMPOSED SHALL BE INFORMED BY THE FINDINGS OF
+32 THAT PRESENTENCE REPORT.
+33 C. When granting probation to an adult the court, as a condition of
+34 probation, shall assess a monthly fee of not less than $65 unless, after
+35 determining the inability of the probationer to pay the fee, the court
+36 assesses a lesser fee. This fee is not subject to any surcharge. In
+37 justice and municipal courts the fee shall only be assessed when the
+38 person is placed on supervised probation. For persons placed on probation
+39 in the superior court, the fee shall be paid to the clerk of the superior
+40 court and the clerk of the court shall pay all monies collected from this
+41 fee to the county treasurer for deposit in the adult probation services
+42 fund established by section 12-267. For persons placed on supervised
+43 probation in the justice court, the fee shall be paid to the justice court
+44 and the justice court shall transmit all of the monies to the county
+45 treasurer for deposit in the adult probation services fund established by
+46 section 12-267. For persons placed on supervised probation in the
+47 municipal court, the fee shall be paid to the municipal court. The
+48 municipal court shall transmit all of the monies to the city treasurer who
+49 shall transmit the monies to the county treasurer for deposit in the adult
+-2-
+
+Senate Amendments to S.B. 1662
+1 probation services fund established by section 12-267. Any amount
+2 assessed pursuant to this subsection shall be used to supplement monies
+3 used for the salaries of adult probation and surveillance officers and for
+4 support of programs and services of the superior court adult probation
+5 departments.
+6 B. D. The period of probation shall be determined according to
+7 section 13-902, except that if a person is released pursuant to section
+8 31-233, subsection B and community supervision is waived pursuant to
+9 section 13-603, subsection K, the court shall extend the period of
+10 probation by the amount of time the director of the state department of
+11 corrections approves for the inmate's temporary release.
+12 C. E. The court, in its discretion, may issue a warrant for the
+13 rearrest of the defendant and may modify or add to the conditions or, if
+14 the defendant commits an additional offense or violates a condition, may
+15 revoke probation in accordance with the Arizona rules of criminal
+16 procedure at any time before the expiration or termination of the period
+17 of probation. If the court revokes the defendant's probation and the
+18 defendant is serving more than one probationary term concurrently, the
+19 court may sentence the person to terms of imprisonment to be served
+20 consecutively.
+21 D. F. At any time during the probationary term of the person
+22 released on probation, any probation officer, without warrant or other
+23 process and at any time until the final disposition of the case, may
+24 rearrest any person and bring the person before the court.
+25 E. G. The court, on its own initiative or on application of the
+26 probationer, after notice and an opportunity to be heard for the
+27 prosecuting attorney and, on request, the victim, may terminate the period
+28 of probation or intensive probation and discharge the defendant at a time
+29 earlier than that originally imposed if in the court's opinion the ends of
+30 justice will be served and if the conduct of the defendant on probation
+31 warrants it.
+32 F. H. When granting probation the court may require that the
+33 defendant be imprisoned in the county jail at whatever time or intervals,
+34 consecutive or nonconsecutive, the court shall determine, within the
+35 period of probation, as long as the period actually spent in confinement
+36 does not exceed one year or the maximum period of imprisonment allowed
+37 under chapter 7 of this title, whichever is the shorter.
+38 G. I. If the defendant is placed on lifetime probation and has
+39 served one year in the county jail as a term of probation, the court may
+40 require that the defendant be additionally imprisoned in the county jail
+41 at whatever time or intervals, consecutive or nonconsecutive, the court
+42 shall determine, within the period of probation if the defendant's
+43 probation is revoked by the court and the defendant is subsequently
+44 reinstated on probation. The period actually spent in confinement as a
+45 term of being reinstated on probation shall not exceed one year or, when
+46 including the initial one-year period of incarceration imposed as a term
+47 of probation, the maximum period of imprisonment allowed under chapter 7
+48 of this title, whichever is shorter.
+-3-
+
+Senate Amendments to S.B. 1662
+1 H. J. If restitution is made a condition of probation, the court
+2 shall fix the amount of restitution and the manner of performance pursuant
+3 to chapter 8 of this title.
+4 I. K. When granting probation, the court shall set forth at the
+5 time of sentencing and on the record the factual and legal reasons in
+6 support of each sentence.
+7 J. L. If the defendant meets the criteria set forth in section
+8 13-901.01 or 13-3422, the court may place the defendant on probation
+9 pursuant to either section. If a defendant is placed on probation
+10 pursuant to section 13-901.01 or 13-3422, the court may impose any term of
+11 probation that is authorized pursuant to this section and that is not in
+12 violation of section 13-901.01.
+13 K. M. If the court imposes a term of probation, the court may
+14 require the defendant to report to a probation officer. The court or the
+15 defendant's probation officer may allow the defendant to fulfill a
+16 reporting requirement through remote reporting. The probation officer
+17 shall take into consideration and make accommodations for the
+18 probationer's work schedule, family caregiver obligations, substance abuse
+19 treatment or recovery program, mental health treatment, transportation
+20 availability and medical care requirements before setting the reporting
+21 time and location requirements for the probationer.
+22 L. N. If a probationer makes a written request to the supervising
+23 probation department to courtesy transfer the probationer's intensive
+24 probation supervision or supervised probation to another county in this
+25 state with the intent to reside in that county and provides proof of
+26 family caregiver obligations, employment or housing, or an offer of
+27 employment or housing that will assist in the probationer's positive
+28 behavioral change, the supervising probation department shall do all of
+29 the following:
+30 1. Confirm the details of the probationer's employment, housing or
+31 family caregiving plans.
+32 2. Review any victim safety concerns and ensure compliance with the
+33 victims' bill of rights.
+34 3. Submit the request for permission to proceed to the receiving
+35 county within seven business days after receipt.
+36 M. O. After verifying the information submitted by the sending
+37 probation department pursuant to subsection L N of this section, the
+38 receiving probation department shall provide the sending probation
+39 department with permission for the probationer to proceed to the receiving
+40 county within seven business days after receipt unless the receiving
+41 probation department finds the basis for the plan is not factual or the
+42 transfer will endanger the victim.
+43 N. P. If a probationer's intensive probation supervision or
+44 supervised probation is courtesy transferred to another county pursuant to
+45 subsection L N of this section and the probationer subsequently violates
+46 the terms of the probationer's probation or commits an additional offense
+47 while on probation, the probation department in the county in which the
+48 probation violation or additional offense occurred may not return the
+49 probationer's intensive probation supervision or supervised probation back
+-4-
+
+Senate Amendments to S.B. 1662
+1 to the county in which the probationer's probation was originally imposed
+2 except for revocation hearings or an order of the court.
+3 Sec. 2. Section 13-903, Arizona Revised Statutes, is amended to
+4 read:
+5 13-903. Calculation of periods of probation
+6 A. A period of probation commences on the day it is imposed or as
+7 designated by the court, and an extended period of probation commences on
+8 the day the original period lapses.
+9 B. If a court determines that the defendant violated a condition of
+10 the defendant's probation but reinstates probation, the period between the
+11 date of the violation and the date of restoration of probation is not
+12 computed as part of the period of probation. If it is determined that the
+13 defendant is not a violator, there is no interruption of the period OF
+14 PROBATION.
+15 C. The running of the period of probation shall cease during the
+16 unauthorized absence of the defendant from the jurisdiction or from any
+17 required supervision and shall resume only upon ON the defendant's
+18 voluntary or involuntary return to the probation service.
+19 D. The running of the period of probation shall cease during the
+20 period from the filing of the petition to revoke probation to the
+21 termination of revocation of probation proceedings, except that if a court
+22 determines that the defendant is not a violator, there is no interruption
+23 of the period of probation.
+24 E. If probation is imposed on one who at the time is serving a
+25 sentence of imprisonment imposed on a different conviction, service of the
+26 sentence of imprisonment shall not satisfy the probation.
+27 F. Time spent in custody under section 13-901, subsection F H
+28 shall be credited to any sentence of imprisonment imposed upon ON
+29 revocation of probation.
+30 Sec. 3. Section 13-917, Arizona Revised Statutes, is amended to
+31 read:
+32 13-917. Modification of supervision
+33 A. The adult probation officer shall periodically examine the risk
+34 and needs of each person granted intensive probation and the risks of
+35 modifying the level of supervision of the person. The court or the adult
+36 probation officer may at any time modify the level of intensive probation
+37 supervision of a person granted intensive probation. The court may
+38 transfer the person to standard probation or terminate the period of
+39 intensive probation pursuant to section 13-901, subsection E G.
+40 B. If a petition to revoke the grant of intensive probation is
+41 filed and the court finds that the person has committed an additional
+42 felony offense that posed a serious threat or danger to the community, the
+43 court shall revoke the grant of intensive probation and impose a term of
+44 imprisonment as authorized by law. If the court finds that the person has
+45 committed a violation of a condition of intensive probation that posed a
+46 serious threat or danger to the community, the court shall revoke the
+47 grant of intensive probation and impose a term of imprisonment as
+48 authorized by law. If the court finds that the person has violated any
+49 other condition of intensive probation, the court may modify the
+-5-
+
+Senate Amendments to S.B. 1662
+1 conditions of intensive probation or may revoke the grant of intensive
+2 probation and impose a term of imprisonment as authorized by law.
+3 C. The court shall notify the parties, and the victim on request,
+4 of any proposed modification of the terms of a person's intensive
+5 probation if that modification will substantially affect the person's
+6 contact with or safety of the victim or if the modification involves
+7 restitution or incarceration status.
+8 Sec. 4. Section 13-924, Arizona Revised Statutes, is amended to
+9 read:
+10 13-924. Probation; earned time credit; work time credit;
+11 applicability; definitions
+12 A. The court may adjust the period of a probationer's supervised
+13 probation on the recommendation of an adult probation officer for earned
+14 time credit or work time credit.
+15 B. Earned time credit equals twenty days for every thirty days that
+16 a probationer does all of the following:
+17 1. Exhibits positive progression toward the goals and treatment of
+18 the probationer’s case plan.
+19 2. Is current on payments for court ordered COURT-ORDERED
+20 restitution and is in compliance with all other nonmonetary obligations.
+21 3. Is current in completing community restitution.
+22 C. Work time credit equals thirty days for every thirty days that a
+23 probationer does all of the following:
+24 1. Is engaged in eligible employment. A probationer must provide
+25 supporting documentation to the supervising probation officer within five
+26 business days after completing thirty days of eligible employment. The
+27 supervising probation officer must verify the probationer's employment
+28 through the supporting documentation that is provided by the probationer
+29 and by any other means that the court determines is necessary to verify
+30 the work, including site visits and telephonic verification. The
+31 probation officer must document any request for work time credit that is
+32 denied.
+33 2. Exhibits positive progression toward the goals and treatment of
+34 the probationer's case plan.
+35 3. Is current on payments for court-ordered restitution and is in
+36 compliance with all other nonmonetary obligations.
+37 4. Is current in completing community restitution.
+38 D. Any earned time credit and work time credit awarded pursuant to
+39 this section shall be revoked if a probationer is found in violation of a
+40 condition of probation.
+41 E. This section does not apply to a probationer who is currently:
+42 1. On lifetime probation.
+43 2. On probation for any class 2 or 3 felony.
+44 3. On probation exclusively for a misdemeanor offense.
+45 4. Required to register pursuant to section 13-3821.
+46 F. This section has no effect on the ability of the court to
+47 terminate the period of probation or intensive probation pursuant to
+48 section 13-901, subsection E G at a time earlier than originally imposed.
+-6-
+
+Senate Amendments to S.B. 1662
+1 G. For the purposes of this section:
+2 1. "Eligible employment" means any occupation or combination of
+3 occupations for which a person can provide supporting documentation
+4 verifying at least one hundred thirty wage-earning hours in any thirty-day
+5 period.
+6 2. "Supporting documentation" means an employment record, pay stub,
+7 employment letter, contract or other reliable means of verifying
+8 employment.
+9 Enroll and engross to conform
+10 Amend title to conform
+SHAWNNA BOLICK
+1662FloorBOLICK.docx
+02/20/2026
+05:06 PM
+C: JV
+130GFQBLZ
+-7-

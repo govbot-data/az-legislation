@@ -1,0 +1,369 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Payne flr amend (ref Senate Engrossed Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1077
+Payne ADD COW Floor Amendment
+Reference to: Senate engrossed bill
+Amendment drafted by: Leg Council
+FLOOR AMENDMENT EXPLANATION
+1. Specifies that a person or agent of an enterprise is only in violation of the outlined offense for
+receiving a benefit if the person or agent has actual knowledge that the specific benefit is derived
+from the facilitation of an interactive computer service or information content provider that
+facilitates, promotes or solicits prostitution, pandering or child sex trafficking involving a minor
+who is 15, 16 or 17 years old.
+2. Stipulates that a person or agent of an enterprise is only in violation of the outlined offense if the
+primary purpose, rather than the purpose, of the person or agent's computer service or information
+content provider is in violation.
+3. Modifies the definition of interactive computer service to exclude a service that is primarily
+engaged in general purpose search indexing, cloud computing or providing advertising services to
+the general public, cable, video or broadband internet access services or telecommunications
+services, unless the service is specifically marketed for the promotion of illegal acts of prostitution.
+4. Makes conforming changes.
+Amendment explanation prepared by Samuel Rosenberg
+02/12/2026
+
+Fifty-seventh Legislature Payne
+Second Regular Session S.B. 1077
+ADDITIONAL COW
+PAYNE FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1077
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-705, Arizona Revised Statutes, is amended to
+3 read:
+4 13-705. Dangerous crimes against children; sentences;
+5 definitions
+6 A. A person who is at least eighteen years of age and who is
+7 convicted of a dangerous crime against children in the first degree
+8 involving commercial sexual exploitation of a minor or child sex
+9 trafficking and the person has previously been convicted of a dangerous
+10 crime against children in the first degree shall be sentenced to
+11 imprisonment in the custody of the state department of corrections for
+12 natural life. A person who is sentenced to natural life is not eligible
+13 for commutation, parole, work furlough, work release or release from
+14 confinement on any basis for the remainder of the person's natural life.
+15 B. A person who is at least eighteen years of age and who is
+16 convicted of a dangerous crime against children in the first degree
+17 involving sexual assault of a minor who is twelve years of age or younger
+18 or sexual conduct with a minor who is twelve years of age or younger shall
+19 be sentenced to life imprisonment and is not eligible for suspension of
+20 sentence, probation, pardon or release from confinement on any basis
+21 except as specifically authorized by section 31-233, subsection A or B
+22 until the person has served thirty-five years or the sentence is commuted.
+23 This subsection does not apply to masturbatory contact.
+24 C. Except as otherwise provided in this section, a person who is at
+25 least eighteen years of age or who has been tried as an adult and who is
+26 convicted of a dangerous crime against children in the first degree
+27 involving attempted first degree murder of a minor who is under twelve
+28 years of age, sexual assault of a minor who is under twelve years of age,
+
+Senate Amendments to S.B. 1077
+1 sexual conduct with a minor who is under twelve years of age or
+2 manufacturing methamphetamine under circumstances that cause physical
+3 injury to a minor who is under twelve years of age may be sentenced to
+4 life imprisonment and is not eligible for suspension of sentence,
+5 probation, pardon or release from confinement on any basis except as
+6 specifically authorized by section 31-233, subsection A or B until the
+7 person has served thirty-five years or the sentence is commuted. If a
+8 life sentence is not imposed pursuant to this subsection, the person shall
+9 be sentenced to a term of imprisonment as follows:
+10 Minimum Presumptive Maximum
+11 13 years 20 years 27 years
+12 D. Except as otherwise provided in this section, a person who is at
+13 least eighteen years of age or who has been tried as an adult and who is
+14 convicted of a dangerous crime against children in the first degree
+15 involving second degree murder of a minor who is under fifteen years of
+16 age may be sentenced to life imprisonment and is not eligible for
+17 suspension of sentence, probation, pardon or release from confinement on
+18 any basis except as specifically authorized by section 31-233, subsection
+19 A or B until the person has served thirty-five years or the sentence is
+20 commuted. If a life sentence is not imposed pursuant to this subsection,
+21 the person shall be sentenced to a term of imprisonment as follows:
+22 Minimum Presumptive Maximum
+23 25 years 30 years 35 years
+24 E. Except as otherwise provided in this section, a person who is at
+25 least eighteen years of age or who has been tried as an adult and who is
+26 convicted of a dangerous crime against children in the first degree
+27 involving attempted first degree murder of a minor who is twelve, thirteen
+28 or fourteen years of age, sexual assault of a minor who is twelve,
+29 thirteen or fourteen years of age, taking a child for the purpose of
+30 prostitution, child sex trafficking, UNLAWFUL USE OF INTERACTIVE COMPUTER
+31 SERVICE FOR THE PURPOSE OF FACILITATING, PROMOTING OR SOLICITING
+32 PROSTITUTION, commercial sexual exploitation of a minor sexual conduct
+33 with a minor who is twelve, thirteen or fourteen years of age,
+34 manufacturing methamphetamine under circumstances that cause physical
+35 injury to a minor who is twelve, thirteen or fourteen years of age or
+36 involving or using minors in drug offenses shall be sentenced to a term of
+37 imprisonment as follows:
+38 Minimum Presumptive Maximum
+39 13 years 20 years 27 years
+40 A person who has been previously convicted of one predicate felony shall
+41 be sentenced to a term of imprisonment as follows:
+42 Minimum Presumptive Maximum
+43 23 years 30 years 37 years
+44 F. Except as otherwise provided in this section, a person who is at
+45 least eighteen years of age or who has been tried as an adult and who is
+46 convicted of a dangerous crime against children in the first degree
+47 involving aggravated assault, unlawful mutilation, molestation of a child,
+-2-
+
+Senate Amendments to S.B. 1077
+1 sexual exploitation of a minor, aggravated luring a minor for sexual
+2 exploitation, child abuse or kidnapping shall be sentenced to a term of
+3 imprisonment as follows:
+4 Minimum Presumptive Maximum
+5 10 years 17 years 24 years
+6 A person who has been previously convicted of one predicate felony shall
+7 be sentenced to a term of imprisonment as follows:
+8 Minimum Presumptive Maximum
+9 21 years 28 years 35 years
+10 G. Except as otherwise provided in this section, if a person is at
+11 least eighteen years of age or has been tried as an adult and is convicted
+12 of a dangerous crime against children involving luring a minor for sexual
+13 exploitation, sexual extortion or unlawful age misrepresentation and is
+14 sentenced to a term of imprisonment, the term of imprisonment is as
+15 follows and the person is not eligible for release from confinement on any
+16 basis except as specifically authorized by section 31-233, subsection A or
+17 B until the sentence imposed by the court has been served or is commuted,
+18 except that if the person is convicted of unlawful age misrepresentation
+19 the person is eligible for release pursuant to section 41-1604.07:
+20 Minimum Presumptive Maximum
+21 5 years 10 years 15 years
+22 A person who has been previously convicted of one predicate felony shall
+23 be sentenced to a term of imprisonment as follows and the person is not
+24 eligible for suspension of sentence, probation, pardon or release from
+25 confinement on any basis except as specifically authorized by section
+26 31-233, subsection A or B until the sentence imposed by the court has been
+27 served or is commuted, except that if the person is convicted of unlawful
+28 age misrepresentation the person is eligible for release pursuant to
+29 section 41-1604.07:
+30 Minimum Presumptive Maximum
+31 8 years 15 years 22 years
+32 H. Except as otherwise provided in this section, if a person is at
+33 least eighteen years of age or has been tried as an adult and is convicted
+34 of a dangerous crime against children involving sexual abuse or bestiality
+35 under section 13-1411, subsection A, paragraph 2 and is sentenced to a
+36 term of imprisonment, the term of imprisonment is as follows and the
+37 person is not eligible for release from confinement on any basis except as
+38 specifically authorized by section 31-233, subsection A or B until the
+39 sentence imposed by the court has been served, the person is eligible for
+40 release pursuant to section 41-1604.07 or the sentence is commuted:
+41 Minimum Presumptive Maximum
+42 2.5 years 5 years 7.5 years
+43 A person who has been previously convicted of one predicate felony shall
+44 be sentenced to a term of imprisonment as follows and the person is not
+45 eligible for suspension of sentence, probation, pardon or release from
+46 confinement on any basis except as specifically authorized by section
+47 31-233, subsection A or B until the sentence imposed by the court has been
+-3-
+
+Senate Amendments to S.B. 1077
+1 served, the person is eligible for release pursuant to section 41-1604.07
+2 or the sentence is commuted:
+3 Minimum Presumptive Maximum
+4 8 years 15 years 22 years
+5 I. Except as otherwise provided in this section, a person who is at
+6 least eighteen years of age or who has been tried as an adult and who is
+7 convicted of a dangerous crime against children in the first degree
+8 involving continuous sexual abuse of a child shall be sentenced to a term
+9 of imprisonment as follows:
+10 Minimum Presumptive Maximum
+11 39 years 60 years 81 years
+12 A person who has been previously convicted of one predicate felony shall
+13 be sentenced to a term of imprisonment as follows:
+14 Minimum Presumptive Maximum
+15 69 years 90 years 111 years
+16 J. The presumptive sentences prescribed in subsections C, D, E, F
+17 and I of this section or subsections G and H of this section if the person
+18 has previously been convicted of a predicate felony may be increased or
+19 decreased pursuant to section 13-701, subsections C, D and E.
+20 K. Except as provided in subsections G, H, M and N of this section,
+21 a person who is sentenced for a dangerous crime against children in the
+22 first degree pursuant to this section is not eligible for suspension of
+23 sentence, probation, pardon or release from confinement on any basis
+24 except as specifically authorized by section 31-233, subsection A or B
+25 until the sentence imposed by the court has been served or commuted.
+26 L. A person who is convicted of any dangerous crime against
+27 children in the first degree pursuant to subsection C, D, E, F or I of
+28 this section and who has been previously convicted of two or more
+29 predicate felonies shall be sentenced to life imprisonment and is not
+30 eligible for suspension of sentence, probation, pardon or release from
+31 confinement on any basis except as specifically authorized by section
+32 31-233, subsection A or B until the person has served not fewer than
+33 thirty-five years or the sentence is commuted.
+34 M. Notwithstanding chapter 10 of this title, a person who is at
+35 least eighteen years of age or who has been tried as an adult and who is
+36 convicted of a dangerous crime against children in the second degree
+37 pursuant to subsection B, C, E, F or I of this section is guilty of a
+38 class 3 felony and if the person is sentenced to a term of imprisonment,
+39 the term of imprisonment is as follows and the person is not eligible for
+40 release from confinement on any basis except as specifically authorized by
+41 section 31-233, subsection A or B until the person has served the sentence
+42 imposed by the court, the person is eligible for release pursuant to
+43 section 41-1604.07 or the sentence is commuted:
+44 Minimum Presumptive Maximum
+45 5 years 10 years 15 years
+46 N. A person who is convicted of any dangerous crime against
+47 children in the second degree and who has been previously convicted of one
+-4-
+
+Senate Amendments to S.B. 1077
+1 or more predicate felonies is not eligible for suspension of sentence,
+2 probation, pardon or release from confinement on any basis except as
+3 specifically authorized by section 31-233, subsection A or B until the
+4 sentence imposed by the court has been served, the person is eligible for
+5 release pursuant to section 41-1604.07 or the sentence is commuted.
+6 O. Section 13-704, subsection J and section 13-707, subsection B
+7 apply to the determination of prior convictions.
+8 P. The sentence imposed on a person by the court for a dangerous
+9 crime against children under subsection H of this section involving sexual
+10 abuse may be served concurrently with other sentences if the offense
+11 involved only one victim. The sentence imposed on a person for any other
+12 dangerous crime against children in the first or second degree shall be
+13 consecutive to any other sentence imposed on the person at any time,
+14 including sexual abuse of the same victim.
+15 Q. In this section, for purposes of punishment an unborn child
+16 shall be treated like a minor who is under twelve years of age.
+17 R. A dangerous crime against children is in the first degree if it
+18 is a completed offense and is in the second degree if it is a preparatory
+19 offense, except attempted first degree murder is a dangerous crime against
+20 children in the first degree.
+21 S. It is not a defense to a dangerous crime against children that
+22 the minor is a person posing as a minor or is otherwise fictitious if the
+23 defendant knew or had reason to know the purported minor was under fifteen
+24 years of age.
+25 T. For the purposes of this section:
+26 1. "Dangerous crime against children":
+27 (a) Means any of the following that is committed against a minor
+28 who is under fifteen years of age or against a person posing as a minor if
+29 the defendant knew or had reason to know that the purported minor was
+30 under fifteen years of age:
+31 (i) Second degree murder.
+32 (ii) Aggravated assault resulting in serious physical injury or
+33 involving the discharge, use or threatening exhibition of a deadly weapon
+34 or dangerous instrument.
+35 (iii) Sexual assault.
+36 (iv) Molestation of a child.
+37 (v) Sexual conduct with a minor.
+38 (vi) Commercial sexual exploitation of a minor.
+39 (vii) Sexual exploitation of a minor.
+40 (viii) Child abuse as prescribed in section 13-3623, subsection A,
+41 paragraph 1.
+42 (ix) Kidnapping.
+43 (x) Sexual abuse.
+44 (xi) Taking a child for the purpose of prostitution as prescribed
+45 in section 13-3206.
+46 (xii) Child sex trafficking as prescribed in section 13-3212.
+47 (xiii) Involving or using minors in drug offenses.
+-5-
+
+Senate Amendments to S.B. 1077
+1 (xiv) Continuous sexual abuse of a child.
+2 (xv) Attempted first degree murder.
+3 (xvi) Sex trafficking.
+4 (xvii) Manufacturing methamphetamine under circumstances that cause
+5 physical injury to a minor.
+6 (xviii) Bestiality as prescribed in section 13-1411, subsection A,
+7 paragraph 2.
+8 (xix) Luring a minor for sexual exploitation.
+9 (xx) Aggravated luring a minor for sexual exploitation.
+10 (xxi) Unlawful age misrepresentation.
+11 (xxii) Unlawful mutilation.
+12 (xxiii) Sexual extortion as prescribed in section 13-1428.
+13 (xxiv) UNLAWFUL USE OF INTERACTIVE COMPUTER SERVICE FOR PURPOSE OF
+14 FACILITATING, PROMOTING OR SOLICITING PROSTITUTION AS PRESCRIBED IN
+15 SECTION 13-3213, SUBSECTION B.
+16 (b) For the purposes of subdivision (a), items (vi) and (vii) of
+17 this paragraph, includes a visual depiction that is indistinguishable from
+18 an actual minor who is under fifteen years of age.
+19 2. "Predicate felony" means any felony involving child abuse
+20 pursuant to section 13-3623, subsection A, paragraph 1, a sexual offense,
+21 conduct involving the intentional or knowing infliction of serious
+22 physical injury or the discharge, use or threatening exhibition of a
+23 deadly weapon or dangerous instrument, or a dangerous crime against
+24 children in the first or second degree.
+25 Sec. 2. Title 13, chapter 32, Arizona Revised Statutes, is amended
+26 by adding section 13-3213, to read:
+27 13-3213. Unlawful use of interactive computer service for
+28 purpose of facilitating, promoting or soliciting
+29 prostitution; classification; definitions
+30 A. A PERSON OR AGENT OF AN ENTERPRISE WHO KNOWINGLY CONTROLS,
+31 KEEPS, MAINTAINS, MANAGES, OPERATES OR OWNS AN INTERACTIVE COMPUTER
+32 SERVICE OR INFORMATION CONTENT PROVIDER IN THIS STATE FOR THE [PRIMARY]
+33 PURPOSE OF FACILITATING, PROMOTING OR SOLICITING PROSTITUTION PURSUANT TO
+34 SECTION 13-3214, PANDERING PURSUANT TO SECTION 13-3209 OR CHILD SEX
+35 TRAFFICKING PURSUANT TO SUBSECTION 13-3212 INVOLVING A MINOR WHO IS
+36 FIFTEEN, SIXTEEN OR SEVENTEEN YEARS OF AGE IS GUILTY OF A CLASS 5 FELONY.
+37 B. A PERSON OR AGENT OF AN ENTERPRISE WHO VIOLATES SUBSECTION A OF
+38 THIS SECTION AND WHO HAS DIRECT KNOWLEDGE OF THE OCCURRENCE OF CHILD SEX
+39 TRAFFICKING INVOLVING A MINOR WHO IS UNDER FIFTEEN YEARS OF AGE IS GUILTY
+40 OF A CLASS 2 FELONY AND IS PUNISHABLE PURSUANT TO SECTION 13-705.
+41 C. A PERSON OR AGENT OF AN ENTERPRISE WHO VIOLATES SUBSECTION A OR
+42 B OF THIS SECTION AND WHO KNOWINGLY EXPOSES SEXUAL MATERIAL THAT IS
+43 HARMFUL TO MINORS WITHOUT USING REASONABLE AGE VERIFICATION METHODS
+44 PRESCRIBED BY SECTION 18-701 TO VERIFY THAT AN INDIVIDUAL WHO ATTEMPTS TO
+45 ACCESS THE MATERIAL IS EIGHTEEN YEARS OF AGE OR OLDER IS GUILTY OF A CLASS
+46 4 FELONY,
+-6-
+
+Senate Amendments to S.B. 1077
+1 D. IT IS A VIOLATION OF THIS SECTION FOR A PERSON OR AGENT OF AN
+2 ENTERPRISE TO RECEIVE, AGREE TO RECEIVE OR SOLICIT ANY BENEFIT, INCLUDING
+3 SERVICE FEES [, IF THE PERSON OR AGENT HAS ACTUAL KNOWLEDGE THAT THE
+4 SPECIFIC BENEFIT IS DERIVED FROM THE FACILITATION OF AN OFFENSE LISTED IN
+5 SUBSECTION A OF THIS SECTION].
+6 E. IT IS A DEFENSE TO A PROSECUTION UNDER OF THIS SECTION IF A
+7 PERSON OR AGENT OF AN ENTERPRISE IS A LAW ENFORCEMENT OFFICER WHO IS
+8 ACTING IN THE OFFICER'S OFFICIAL CAPACITY WITHIN THE SCOPE OF THE
+9 OFFICER'S AUTHORITY AND IN THE LINE OF DUTY.
+10 F. IT IS NOT A DEFENSE TO A PROSECUTION UNDER THIS SECTION THAT A
+11 PERSON OR AGENT OF AN ENTERPRISE DOES NOT KNOW THE MINOR IS UNDER EIGHTEEN
+12 YEARS OF AGE.
+13 G. FOR THE PURPOSES OF THIS SECTION:
+14 1. "AGENT" MEANS AN OFFICER, DIRECTOR OR EMPLOYEE OF AN ENTERPRISE
+15 OR ANY OTHER PERSON WHO IS AUTHORIZED TO ACT ON BEHALF OF THE ENTERPRISE.
+16 2. "INFORMATION CONTENT PROVIDER" MEANS A PERSON OR ENTITY THAT IS
+17 RESPONSIBLE, IN WHOLE OR IN PART, FOR CREATING OR DEVELOPING INFORMATION
+18 THAT IS PROVIDED THROUGH THE INTERNET OR ANY OTHER INTERACTIVE COMPUTER
+19 SERVICE.
+20 3. "INTERACTIVE COMPUTER SERVICE"[:
+21 (a)] MEANS AN INFORMATION SERVICE, SYSTEM OR ACCESS SOFTWARE
+22 PROVIDER THAT PROVIDES OR ENABLES COMPUTER ACCESS BY MULTIPLE USERS TO A
+23 COMPUTER SERVER, INCLUDING A SERVICE OR SYSTEM THAT PROVIDES ACCESS TO THE
+24 INTERNET AND SYSTEMS OR SERVICES THAT ARE OPERATED OR OFFERED BY LIBRARIES
+25 OR EDUCATIONAL INSTITUTIONS.
+26 [(b)] DOES NOT INCLUDE A SERVICE THAT IS PRIMARILY ENGAGED IN
+27 GENERAL PURPOSE SEARCH INDEXING, CLOUD COMPUTING OR PROVIDING ADVERTISING
+28 SERVICES TO THE GENERAL PUBLIC, CABLE, VIDEO OR BROADBAND INTERNET ACCESS
+29 SERVICES OR TELECOMMUNICATIONS SERVICES, UNLESS THE SERVICE IS
+30 SPECIFICALLY MARKETED FOR THE PROMOTION OF ILLEGAL ACTS OF PROSTITUTION.]
+31 4. "INTERNET" HAS THE SAME MEANING PRESCRIBED IN SECTION 41-2671.
+32 5. "SERVICE FEES" MEANS THE COSTS THAT ARE ASSOCIATED WITH
+33 OBTAINING A PROFILE OR POSTING ADVERTISEMENTS.
+34 6. "SEXUAL MATERIAL THAT IS HARMFUL TO MINORS" HAS THE SAME MEANING
+35 PRESCRIBED IN SECTION 18-701.
+36 Enroll and engross to conform
+37 Amend title to conform
+KEVIN PAYNE
+1077FloorPAYNE.docx
+02/05/2026
+4:01 PM
+C: JV
+130NEYMXC
+-7-

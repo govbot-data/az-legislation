@@ -1,0 +1,1158 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Judiciary and Elections
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Judiciary and Elections
+Second Regular Session S.B. 1012
+COMMITTEE ON JUDICIARY AND ELECTIONS
+SENATE AMENDMENTS TO S.B. 1012
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 4-210, Arizona Revised Statutes, is amended to
+3 read:
+4 4-210. Grounds for revocation, suspension and refusal to
+5 renew; notice; complaints; hearings; defense
+6 A. After notice and hearing, the director may suspend, revoke or
+7 refuse to renew any license, registration, lease or permit issued pursuant
+8 to this chapter for any of the following reasons:
+9 1. There occurs on the licensed premises repeated acts of violence.
+10 2. The licensee, registrant, lessee or permittee fails to
+11 satisfactorily maintain the capability, qualifications and reliability
+12 requirements of an applicant for a license, registration, lease or permit
+13 prescribed in section 4-202, 4-203, [4-203.06,] 4-203.07 or 4-205.13.
+14 3. The licensee, registrant, lessee, permittee or controlling
+15 person knowingly files with the department an application or other
+16 document that contains material information that is false or misleading or
+17 while under oath knowingly gives testimony in an investigation or other
+18 proceeding under this title that is false or misleading.
+19 4. The licensee, registrant, lessee, permittee or controlling
+20 person is on the premises habitually intoxicated.
+21 5. The licensed, registered, leased or permitted business is
+22 delinquent for more than one hundred twenty days in paying taxes,
+23 penalties or interest in an amount that exceeds $250 to this state or to
+24 any political subdivision of this state.
+25 6. The licensee or controlling person obtains, assigns, transfers
+26 or sells a spirituous liquor license without complying with this title or
+27 leases or subleases a license.
+
+Senate Amendments to S.B. 1012
+1 7. The licensee, registrant, lessee or permittee fails to keep for
+2 two years and make available to the department on reasonable request all
+3 invoices, records, bills or other papers and documents relating to the
+4 purchase, sale and delivery of spirituous liquors and, in the case of a
+5 restaurant or hotel-motel licensee, all invoices, records, bills or other
+6 papers and documents relating to the purchase, sale and delivery of food.
+7 8. The licensee, registrant, lessee, permittee or controlling
+8 person is convicted of a felony, provided that for a conviction of a
+9 corporation to serve as a reason for any action by the director, conduct
+10 that constitutes the corporate offense and was the basis for the felony
+11 conviction must have been engaged in, authorized, solicited, commanded or
+12 recklessly tolerated by the directors of the corporation or by a high
+13 managerial agent acting within the scope of employment.
+14 9. The licensee, registrant, lessee, permittee or controlling
+15 person violates or fails to comply with this title, any rule adopted
+16 pursuant to this title or any liquor law of this state or any other state.
+17 10. The licensee, registrant, lessee or permittee fails to take
+18 reasonable steps to protect the safety of a customer of the licensee,
+19 registrant, lessee or permittee or any other person entering, leaving or
+20 remaining on the licensed premises when the licensee knew or reasonably
+21 should have known of the danger to the person, or the licensee fails to
+22 take reasonable steps to intervene by notifying law enforcement officials
+23 or otherwise to prevent or break up an act of violence occurring on the
+24 licensed premises or immediately adjacent to the premises when the
+25 licensee knew or reasonably should have known of the acts of violence.
+26 The duty to protect a customer or other person on the licensed premises
+27 does not limit the licensee from using, as necessary, reasonable
+28 intervention, reasonable restraint or reasonable removal of a person from
+29 the premises to prevent that person from injuring other persons on the
+30 premises or damaging or disrupting the premises. [FOR THE PURPOSES OF
+31 THIS PARAGRAPH, THE PRESENCE OF A CONCEALED HANDGUN DOES NOT CREATE AN
+32 OBLIGATION FOR A RESTAURANT LICENSEE OR THE EMPLOYEE OF A RESTAURANT
+33 LICENSEE TO TAKE REASONABLE STEPS TO INTERVENE OR TO NOTIFY LAW
+34 ENFORCEMENT OFFICIALS IF THE LICENSEE REASONABLY BELIEVES THAT THE
+35 CONCEALED HANDGUN IS BEING CARRIED IN COMPLIANCE WITH SECTION 4-229.]
+36 11. The licensee, registrant, lessee, permittee or controlling
+37 person knowingly associates with a person who has engaged in racketeering,
+38 as defined in section 13-2301, or who has been convicted of a felony, and
+39 the association is of a nature as to create a reasonable risk that the
+40 licensee, registrant, lessee or permittee will fail to conform to the
+41 requirements of this title or of any criminal statute of this state.
+42 12. A licensee that is a liquor store as defined in section 46-297
+43 violates the restrictions on use of automatic teller machines or
+44 point-of-sale terminals regarding electronic benefit transfer cards
+45 prescribed in section 4-242.01.
+46 13. There occurs on the licensed premises a serious act of
+47 violence. [THIS PARAGRAPH DOES NOT APPLY TO A RESTAURANT LICENSEE IF THE
+-2-
+
+Senate Amendments to S.B. 1012
+1 SERIOUS ACT OF VIOLENCE IS THE RESULT OF A CONCEALED HANDGUN ON THE
+2 LICENSED PREMISES UNLESS THE LICENSEE OR AN EMPLOYEE OF THE LICENSEE KNEW
+3 THE PERSON WAS CARRYING A CONCEALED HANDGUN AND KNOWINGLY SERVED THE
+4 PERSON SPIRITUOUS LIQUOR THAT WAS INTENDED FOR IMMEDIATE CONSUMPTION.]
+5 For the purposes of this paragraph, "serious act of violence" means an act
+6 of violence in which a serious injury causes the death or critical injury
+7 of a person and the injuries would be obvious to a reasonable person.
+8 14. The licensee fails to report a serious act of violence that
+9 occurs on the licensed premises. For the purposes of this paragraph,
+10 "serious act of violence" means an act of violence in which a serious
+11 injury causes the death or critical injury of a person and the injuries
+12 would be obvious to a reasonable person.
+13 15. The licensee, registrant, lessee or permittee violates an order
+14 of the board.
+15 B. For the purposes of:
+16 1. Subsection A, paragraph 8 of this section, "high managerial
+17 agent" means an officer of a corporation or any other agent of the
+18 corporation in a position of comparable authority with respect to the
+19 formulation of corporate policy.
+20 2. Subsection A, paragraphs 9 and 10 of this section, acts or
+21 omissions of an employee of a licensee that violate this title or rules
+22 adopted pursuant to this title are deemed to be acts or omissions of the
+23 licensee. Acts or omissions by an employee or licensee committed during
+24 the time the licensed premises were operated pursuant to an interim permit
+25 or without a license may be charged as if they had been committed during
+26 the period the premises were duly licensed.
+27 C. The director may suspend, revoke or refuse to issue, transfer or
+28 renew a license, registration, lease or permit under this section based
+29 solely on the unrelated conduct or fitness of any officer, director,
+30 managing agent or other controlling person if the controlling person
+31 retains any interest in or control of the licensee, registrant, lessee or
+32 permittee after sixty days following written notice to the licensee,
+33 registrant, lessee or permittee. If the controlling person holds stock in
+34 a corporate licensee, registrant, lessee or permittee or is a partner in a
+35 partnership licensee, registrant, lessee or permittee, the controlling
+36 person may only divest himself of the controlling person's interest by
+37 transferring the interest to the existing stockholders or partners who
+38 must demonstrate to the department that they meet all the requirements for
+39 licensure, registration, leasing or permitting. For the purposes of this
+40 subsection, the conduct or fitness of a controlling person is unrelated if
+41 it would not be attributable to the licensee, registrant, lessee or
+42 permittee.
+43 D. If the director finds, based on clear and convincing evidence in
+44 the record, that a violation involves the use by the licensee, registrant,
+45 lessee or permittee of a drive-through or walk-up service window or other
+46 physical feature of the licensed premises that allows a customer to
+47 purchase spirituous liquor without leaving the customer's vehicle or, with
+-3-
+
+Senate Amendments to S.B. 1012
+1 respect to a walk-up service window that prevents the licensee,
+2 registrant, lessee or permittee from fully observing the customer, and
+3 that the use of that drive-through or walk-up service window or other
+4 physical feature caused the violation, the director may suspend or
+5 terminate the licensee's, registrant's, lessee's or permittee's use of the
+6 drive-through or walk-up service window or other physical feature for the
+7 sale of spirituous liquor, in addition to any other sanction.
+8 E. The director may refuse to transfer any license, registration,
+9 lease or permit or issue a new license, registration, lease or permit at
+10 the same location if the director has filed a complaint against the
+11 license, registration, lease, permit or location that has not been
+12 resolved alleging a violation of any of the grounds stated in subsection A
+13 of this section until the time the complaint has been finally adjudicated.
+14 F. The director shall receive all complaints of alleged violations
+15 of this chapter and is responsible for investigating all allegations of a
+16 violation of, or noncompliance with, this title, any rule adopted pursuant
+17 to this title or any condition imposed on the licensee, registrant, lessee
+18 or permittee by the license, registration, lease or permit. When the
+19 director receives three complaints from any law enforcement agency
+20 resulting from three separate incidents at a licensed, leased or permitted
+21 establishment or by a registrant within a twelve-month period, the
+22 director shall transmit a written report to the board setting forth the
+23 complaints, the results of any investigation conducted by the law
+24 enforcement agency or the department relating to the complaints and a
+25 history of all prior complaints against the license, registration, lease
+26 or permit and their disposition. The board shall review the report and
+27 may direct the director to conduct further investigation of a complaint or
+28 to serve a licensee, registrant, lessee or permittee with a complaint and
+29 notice of a hearing pursuant to subsection G of this section.
+30 G. On the director's initiation of an investigation or on the
+31 receipt of a complaint and an investigation of the complaint as deemed
+32 necessary, the director may cause a complaint and notice of a hearing to
+33 be directed to the licensee, registrant, lessee or permittee that states
+34 the violations alleged against the licensee, registrant, lessee or
+35 permittee and directing the licensee, registrant, lessee or permittee,
+36 within fifteen days after service of the complaint and notice of a
+37 hearing, to appear by filing with the director an answer to the complaint.
+38 Failure of the licensee, registrant, lessee or permittee to answer may be
+39 deemed an admission by the licensee, registrant, lessee or permittee of
+40 commission of the act charged in the complaint. The director may then
+41 vacate the hearing and impose any sanction provided by this article. The
+42 director may waive any sanction for good cause shown, including excusable
+43 neglect. With respect to any violation of this title or any rule adopted
+44 pursuant to this title that is based on the act or omission of a
+45 licensee's, registrant's, lessee's or permittee's employee, the director
+46 shall consider evidence of mitigation presented by the licensee,
+47 registrant, lessee or permittee and established by a preponderance of the
+-4-
+
+Senate Amendments to S.B. 1012
+1 evidence that the employee acted intentionally and in violation of the
+2 express direction or policy adopted by the licensee, registrant, lessee or
+3 permittee and communicated to the employee and that the employee
+4 successfully completed training in a course approved by the director
+5 pursuant to section 4-112, subsection G, paragraph 2. The director may
+6 set the hearing before the director or an administrative law judge on any
+7 of the grounds stated in subsection A of this section. Instead of issuing
+8 a complaint, the director may provide for informal disposition of the
+9 matter by consent agreement or may issue a written warning to the
+10 licensee, registrant, lessee or permittee. If a warning is issued, the
+11 licensee, registrant, lessee or permittee may reply in writing and the
+12 director shall keep a record of the warning and the reply.
+13 H. A hearing shall conform to the requirements of title 41,
+14 chapter 6, article 10. At the hearing an attorney or corporate officer or
+15 employee of a corporation may represent the corporation. The revoking,
+16 suspending or refusing to renew a license, registration, lease or permit
+17 for unpaid taxes, penalties or interest pursuant to subsection A,
+18 paragraph 5 of this section is a contested case with the department of
+19 revenue pursuant to section 42-1251.01.
+20 I. The expiration, cancellation, revocation, reversion, surrender,
+21 acceptance of surrender or termination in any other manner of a license,
+22 registration, lease or permit does not prevent the initiation or
+23 completion of a disciplinary proceeding pursuant to this section against
+24 the licensee, registrant, lessee or permittee or license, registration,
+25 lease or permit. An order issued pursuant to a disciplinary proceeding
+26 against a license, registration, lease or permit is enforceable against
+27 other licenses, registrations, leases or permits or subsequent licenses,
+28 registrations, leases or permits in which the licensee, registrant,
+29 lessee, permittee or controlling person of the license, registration,
+30 lease or permit has a controlling interest.
+31 J. The department shall provide the same notice as is provided to
+32 the licensee, registrant, lessee or permittee to a lienholder, which has
+33 provided a document under section 4-112, subsection B, paragraph 3, of all
+34 disciplinary or compliance action with respect to a license, registration,
+35 lease or permit issued pursuant to this title. The state is not liable
+36 for damages for any failure to provide any notice pursuant to this
+37 subsection.
+38 K. In any disciplinary action pursuant to this title, a lienholder
+39 may participate in the determination of the action. The director shall
+40 consider mitigation on behalf of the lienholder if the lienholder proves
+41 all of the following by a preponderance of the evidence:
+42 1. That the lienholder's interest is a bona fide security interest.
+43 For the purposes of this paragraph, "bona fide security interest" means
+44 the lienholder provides actual consideration to the licensee, registrant,
+45 lessee or permittee or the licensee's, registrant's, lessee's or
+46 permittee's predecessor in interest in exchange for the lienholder's
+47 interest. Bona fide security interest includes a lien taken by the seller
+-5-
+
+Senate Amendments to S.B. 1012
+1 of a license, registration, lease or permit as security for the seller's
+2 receipt of all or part of the purchase price of the license, registration,
+3 lease or permit.
+4 2. That a statement of legal or equitable interest was filed with
+5 the department before the alleged conduct occurred that is the basis for
+6 the action against the license, registration, lease or permit.
+7 3. That the lienholder took reasonable steps to correct the
+8 licensee's, registrant's, lessee's or permittee's prior actions, if any,
+9 or initiated an action pursuant to available contract rights against the
+10 licensee, registrant, lessee or permittee for the forfeiture of the
+11 license, registration, lease or permit after being provided with notice by
+12 the department of disciplinary action as provided in subsection J of this
+13 section.
+14 4. That the lienholder was free of responsibility for the conduct
+15 that is the basis for the proposed revocation.
+16 5. That the lienholder reasonably attempted to remain informed by
+17 the licensee, registrant, lessee or permittee about the business's
+18 conduct.
+19 L. If the director decides not to revoke the license, registration,
+20 lease or permit based on the circumstances provided in subsection K of
+21 this section, the director may issue an order requiring either, or both,
+22 of the following:
+23 1. The forfeiture of all interest of the licensee, registrant,
+24 lessee or permittee in the license, registration, lease or permit.
+25 2. The lienholder to pay any civil monetary penalty imposed on the
+26 licensee, registrant, lessee or permittee.
+27 M. If any on-sale licensee proposes to provide large capacity
+28 entertainment events or sporting events with an attendance capacity
+29 exceeding a limit established by the director, the director may request a
+30 security plan from the licensee that may include trained security
+31 officers, lighting and other requirements. This subsection exclusively
+32 prescribes the security requirements for a licensee and does not create
+33 any civil liability for this state, its agencies, agents or employees or a
+34 person licensed under this title or agents or employees of a licensee.
+35 N. The director may consider as a mitigating factor or defense to a
+36 complaint against a licensee for a violation of subsection A, paragraph 10
+37 or 13 of this section that the licensee acted reasonably, responsibly and
+38 as expeditiously as possible by asking for intervention by a peace officer
+39 to prevent or to break up a riot, a fight, an altercation or tumultuous
+40 conduct.
+41 [O. NOTWITHSTANDING ANY OTHER LAW, THE DIRECTOR MAY NOT SUSPEND,
+42 REVOKE OR REFUSE TO RENEW A RESTAURANT LICENSE OR PERMIT THAT HAS BEEN
+43 ISSUED PURSUANT TO SECTION 4-205.02 IF THE BASIS OF THE SUSPENSION,
+44 REVOCATION OR REFUSAL TO RENEW IS BASED ON A PERSON CARRYING A CONCEALED
+45 HANDGUN ON THE PREMISES OF THE RESTAURANT LICENSEE. THERE IS A
+46 PRESUMPTION THAT A PERSON IN POSSESSION OF A CONCEALED HANDGUN ON THE
+47 PREMISES OF A RESTAURANT LICENSEE IS CARRYING THE CONCEALED HANDGUN IN
+-6-
+
+Senate Amendments to S.B. 1012
+1 COMPLIANCE WITH SECTION 4-229 AND NO ADDITIONAL VERIFICATION OF COMPLIANCE
+2 WITH SECTION 4-229 IS REQUIRED BY A RESTAURANT LICENSEE OR AN EMPLOYEE OF
+3 THE RESTAURANT LICENSEE.
+4 P. NOTWITHSTANDING ANY OTHER LAW, THE DIRECTOR MAY SUSPEND, REVOKE
+5 OR REFUSE TO RENEW A RESTAURANT LICENSE OR PERMIT THAT IS ISSUED PURSUANT
+6 TO SECTION 4-205.02 FOR A VIOLATION THAT INVOLVES A CONCEALED HANDGUN ON
+7 THE PREMISES OF A RESTAURANT LICENSEE IF THE DIRECTOR SHOWS THAT THE
+8 RESTAURANT LICENSEE ACTED WITH GROSS NEGLIGENCE AND THAT THE GROSS
+9 NEGLIGENCE WAS THE DIRECT CAUSE OF THE BASIS OF THE COMPLAINT AND
+10 VIOLATION.]>>
+11 Sec. 2. Section 4-229, Arizona Revised Statutes, is amended to
+12 read:
+13 4-229. Licenses; concealed carry permits; concealed handguns;
+14 posting of notice
+15 [A. A PERSON MAY CARRY A CONCEALED HANDGUN ON THE PREMISES OF A
+16 RESTAURANT THAT IS LICENSED PURSUANT TO SECTION 4-205.02 IF BOTH OF THE
+17 FOLLOWING APPLY:
+18 1. THE RESTAURANT LICENSEE HAS NO OTHER LICENSE ATTACHED TO THE
+19 PREMISES.
+20 2. THE PERSON HAS A PERMIT ISSUED PURSUANT TO SECTION 13-3112 AND
+21 DOES NOT CONSUME SPIRITUOUS LIQUOR ON THE LICENSED PREMISES.]
+22 [A.] [B. NOTWITHSTANDING SUBSECTION A OF THIS SECTION,] a person
+23 may carry a concealed handgun on the premises of a licensee [who] [THAT]
+24 is an on-sale retailer [unless the licensee posts a sign that clearly
+25 prohibits the possession of weapons on the licensed premises] [IF THE
+26 PERSON HAS A PERMIT ISSUED PURSUANT TO SECTION 13-3112 AND DOES NOT
+27 CONSUME SPIRITUOUS LIQUOR]. [The sign shall conform to the following
+28 requirements:
+29 1. Be posted in a conspicuous location accessible to the general
+30 public and immediately adjacent to the liquor license posted on the
+31 licensed premises.
+32 2. Contain a pictogram that shows a firearm within a red circle and
+33 a diagonal red line across the firearm.
+34 3. Contain the words, "no firearms allowed pursuant to A.R.S.
+35 section 4-229".]
+36 B. [C.] [A person shall not carry a firearm on the licensed
+37 premises of an on-sale retailer if the licensee has posted the notice
+38 prescribed in subsection] A [B] [of this section.]
+39 C. [D.] [It is an affirmative defense to a violation of
+40 subsection] B [C] [of this section if:
+41 1. The person was not informed of the notice prescribed in
+42 subsection] A [B] [of this section before the violation.
+43 2. Any one or more of the following apply:
+44 (a) At the time of the violation the notice prescribed in
+45 subsection] A [B] [of this section had fallen down.
+46 (b) At the time of the violation the person was not a resident of
+47 this state.
+-7-
+
+Senate Amendments to S.B. 1012
+1 (c) The licensee had posted the notice prescribed in subsection]
+2 A [B] [of this section not more than thirty days before the violation.]
+3 D. [E.] [The department] of liquor licenses and control [shall
+4 prepare the signs required by this section and make them available at no
+5 cost to licensees.]
+6 E. [F.] [The signs required by this section shall be composed of
+7 block, capital letters printed in black on white laminated paper at a
+8 minimum weight of one hundred ten pound index. The lettering and
+9 pictogram shall consume a space at least six inches by nine inches. The
+10 letters constituting the words "no firearms allowed" shall be at least
+11 three-fourths of a vertical inch and all other letters shall be at least
+12 one-half of a vertical inch.] Nothing shall prohibit [A licensee] from
+13 posting [MAY POST] [additional signs at one or more locations on the
+14 premises.]
+15 F. [G.] [This section does not prohibit a person who possesses a
+16 handgun from entering the licensed premises for a limited time for the
+17 specific purpose of either:
+18 1. Seeking emergency aid.
+19 2. Determining whether a sign has been posted pursuant to
+20 subsection] A [B] [of this section.]
+21 Sec. 3. Section 4-244, Arizona Revised Statutes, is amended to
+22 read:
+23 4-244. Unlawful acts; definition
+24 It is unlawful:
+25 1. For a person to buy for resale, sell or deal in spirituous
+26 liquors in this state without first having procured a license duly issued
+27 by the board, except that the director may issue a temporary permit of any
+28 series pursuant to section 4-205.05 to a trustee in bankruptcy to acquire
+29 and dispose of the spirituous liquor of a debtor.
+30 2. For a person to sell or deal in alcohol for beverage purposes
+31 without first complying with this title.
+32 3. For a distiller, vintner, brewer or wholesaler knowingly to
+33 sell, dispose of or give spirituous liquor to any person other than a
+34 licensee except in sampling wares as may be necessary in the ordinary
+35 course of business, except in donating spirituous liquor to a nonprofit
+36 organization that has obtained a special event license for the purpose of
+37 charitable fundraising activities or except in donating spirituous liquor
+38 with a cost to the distiller, brewer or wholesaler of up to $500 in a
+39 calendar year to an organization that is exempt from federal income taxes
+40 under section 501(c) (3), (4), (6) or (7) of the internal revenue code and
+41 not licensed under this title.
+42 4. For a distiller, vintner or brewer to require a wholesaler to
+43 offer or grant a discount to a retailer, unless the discount has also been
+44 offered and granted to the wholesaler by the distiller, vintner or brewer.
+45 5. For a distiller, vintner or brewer to use a vehicle for trucking
+46 or transporting spirituous liquors unless there is affixed to both sides
+47 of the vehicle a sign showing the name and address of the licensee and the
+-8-
+
+Senate Amendments to S.B. 1012
+1 type and number of the person's license in letters not less than three and
+2 one-half inches in height.
+3 6. For a person to take or solicit orders for spirituous liquors
+4 unless the person is a salesman or solicitor of a licensed wholesaler, a
+5 salesman or solicitor of a distiller, brewer, vintner, importer or broker
+6 or a registered retail agent.
+7 7. For any retail licensee to purchase spirituous liquors from any
+8 person other than a solicitor or salesman of a wholesaler licensed in this
+9 state.
+10 8. For a retailer to acquire an interest in property owned,
+11 occupied or used by a wholesaler in the wholesaler's business, or in a
+12 license with respect to the premises of the wholesaler.
+13 9. Except as provided in paragraphs 10 and 11 of this section, for
+14 a licensee or other person to sell, furnish, dispose of or give, or cause
+15 to be sold, furnished, disposed of or given, to a person under the legal
+16 drinking age or for a person under the legal drinking age to buy, receive,
+17 have in the person's possession or consume spirituous liquor. This
+18 paragraph does not prohibit the employment by an off-sale retailer of
+19 persons who are at least sixteen years of age to check out, if supervised
+20 by a person on the premises who is at least eighteen years of age, package
+21 or carry merchandise, including spirituous liquor, in unbroken packages,
+22 for the convenience of the customer of the employer, if the employer sells
+23 primarily merchandise other than spirituous liquor.
+24 10. For a licensee to employ a person under eighteen years of age
+25 to manufacture, sell or dispose of spirituous liquors. This paragraph
+26 does not prohibit the employment by an off-sale retailer of persons who
+27 are at least sixteen years of age to check out, if supervised by a person
+28 on the premises who is at least eighteen years of age, package or carry
+29 merchandise, including spirituous liquor, in unbroken packages, for the
+30 convenience of the customer of the employer, if the employer sells
+31 primarily merchandise other than spirituous liquor.
+32 11. For an on-sale retailer to employ a person under eighteen years
+33 of age in any capacity connected with the handling of spirituous liquors.
+34 This paragraph does not prohibit the employment by an on-sale retailer of
+35 a person under eighteen years of age who cleans up the tables on the
+36 premises for reuse, removes dirty dishes, keeps a ready supply of needed
+37 items and helps clean up the premises.
+38 12. For a licensee, when engaged in waiting on or serving
+39 customers, to consume spirituous liquor or for a licensee or on-duty
+40 employee to be on or about the licensed premises while in an intoxicated
+41 or disorderly condition.
+42 13. For an employee of a retail licensee, during that employee's
+43 working hours or in connection with such employment, to give to or
+44 purchase for any other person, accept a gift of, purchase for the employee
+45 or consume spirituous liquor, except that:
+46 (a) An employee of a licensee, during that employee's working hours
+47 or in connection with the employment, while the employee is not engaged in
+-9-
+
+Senate Amendments to S.B. 1012
+1 waiting on or serving customers, may give spirituous liquor to or purchase
+2 spirituous liquor for any other person.
+3 (b) An employee of an on-sale retail licensee, during that
+4 employee's working hours or in connection with the employment, while the
+5 employee is not engaged in waiting on or serving customers, may taste
+6 samples of beer or wine of not more than four ounces per day or distilled
+7 spirits of not more than two ounces per day provided by an employee of a
+8 wholesaler or distributor who is present at the time of the sampling.
+9 (c) An employee of an on-sale retail licensee, under the
+10 supervision of a manager as part of the employee's training and education,
+11 while not engaged in waiting on or serving customers may taste samples of
+12 distilled spirits of not more than two ounces per educational session or
+13 beer or wine of not more than four ounces per educational session, and
+14 provided that a licensee does not have more than two educational sessions
+15 in any thirty-day period.
+16 (d) An unpaid volunteer who is a bona fide member of a club and who
+17 is not engaged in waiting on or serving spirituous liquor to customers may
+18 purchase for himself and consume spirituous liquor while participating in
+19 a scheduled event at the club. An unpaid participant in a food
+20 competition may purchase for himself and consume spirituous liquor while
+21 participating in the food competition.
+22 (e) An unpaid volunteer of a special event licensee under section
+23 4-203.02 may purchase and consume spirituous liquor while not engaged in
+24 waiting on or serving spirituous liquor to customers at the special event.
+25 This subdivision does not apply to an unpaid volunteer whose
+26 responsibilities include verification of a person's legal drinking age,
+27 security or the operation of any vehicle or heavy machinery.
+28 (f) A representative of a producer or wholesaler participating at a
+29 special event under section 4-203.02 may consume small amounts of the
+30 products of the producer or wholesaler on the premises of the special
+31 event for the purpose of quality control.
+32 14. For a licensee or other person to serve, sell or furnish
+33 spirituous liquor to a disorderly or obviously intoxicated person, or for
+34 a licensee or employee of the licensee to allow a disorderly or obviously
+35 intoxicated person to come into or remain on or about the premises, except
+36 that a licensee or an employee of the licensee may allow an obviously
+37 intoxicated person to remain on the premises for not more than thirty
+38 minutes after the state of obvious intoxication is known or should be
+39 known to the licensee for a nonintoxicated person to transport the
+40 obviously intoxicated person from the premises. For the purposes of this
+41 section, "obviously intoxicated" means inebriated to the extent that a
+42 person's physical faculties are substantially impaired and the impairment
+43 is shown by significantly uncoordinated physical action or significant
+44 physical dysfunction that would have been obvious to a reasonable person.
+45 15. For an on-sale or off-sale retailer or an employee of such
+46 retailer or an alcohol delivery contractor to sell, dispose of, deliver or
+-10-
+
+Senate Amendments to S.B. 1012
+1 give spirituous liquor to a person between the hours of 2:00 a.m. and
+2 6:00 a.m., except that:
+3 (a) A retailer with off-sale privileges may receive and process
+4 orders, accept payment or package, load or otherwise prepare spirituous
+5 liquor for delivery at any time, if the actual deliveries to customers are
+6 made between the hours of 6:00 a.m. and 2:00 a.m., at which time section
+7 4-241, subsections A and K apply.
+8 (b) The governor, in consultation with the governor's office of
+9 highway safety and the public safety community in this state, may issue an
+10 executive order that extends the closing time until 3:00 a.m. for
+11 spirituous liquor sales in connection with a professional or collegiate
+12 national sporting championship event held in this state.
+13 16. For a licensee or employee to knowingly allow any person on or
+14 about the licensed premises to give or furnish any spirituous liquor to
+15 any person under twenty-one years of age or knowingly allow any person
+16 under twenty-one years of age to have in the person's possession
+17 spirituous liquor on the licensed premises.
+18 17. For an on-sale retailer or an employee of such retailer to
+19 allow a person to consume or possess spirituous liquors on the premises
+20 between the hours of 2:30 a.m. and 6:00 a.m., except that if the governor
+21 extends the closing time for a day for spirituous liquor sales pursuant to
+22 paragraph 15 of this section it is unlawful for an on-sale retailer or an
+23 employee of such retailer on that day to allow a person to consume or
+24 possess spirituous liquor on the premises between the hours of 3:30 a.m.
+25 and 6:00 a.m.
+26 18. For an on-sale retailer to allow an employee or for an employee
+27 to solicit or encourage others, directly or indirectly, to buy the
+28 employee drinks or anything of value in the licensed premises during the
+29 employee's working hours. An on-sale retailer shall not serve employees
+30 or allow a patron of the establishment to give spirituous liquor to,
+31 purchase liquor for or drink liquor with any employee during the
+32 employee's working hours.
+33 19. For an off-sale retailer or employee to sell spirituous liquor
+34 except in the original unbroken container, to allow spirituous liquor to
+35 be consumed on the premises or to knowingly allow spirituous liquor to be
+36 consumed on adjacent property under the licensee's exclusive control.
+37 20. For a person to consume spirituous liquor in a public place,
+38 thoroughfare or gathering. The license of a licensee allowing a violation
+39 of this paragraph on the premises shall be subject to revocation. This
+40 paragraph does not apply to the sale of spirituous liquors on the premises
+41 of and by an on-sale retailer. This paragraph also does not apply to a
+42 person consuming beer or wine from a broken package in a public recreation
+43 area or on private property with permission of the owner or lessor or on
+44 the walkways surrounding such private property or to a person consuming
+45 beer or wine from a broken package in a public recreation area as part of
+46 a special event or festival that is conducted under a license secured
+47 pursuant to section 4-203.02 or 4-203.03.
+-11-
+
+Senate Amendments to S.B. 1012
+1 21. For a person to possess or to transport spirituous liquor that
+2 is manufactured in a distillery, winery, brewery or rectifying plant
+3 contrary to the laws of the United States and this state. Any property
+4 used in transporting such spirituous liquor shall be forfeited to the
+5 state and shall be seized and disposed of as provided in section 4-221.
+6 22. For an on-sale retailer or employee to allow a person under the
+7 legal drinking age to remain in an area on the licensed premises during
+8 those hours in which its primary use is the sale, dispensing or
+9 consumption of alcoholic beverages after the licensee, or the licensee's
+10 employees, know or should have known that the person is under the legal
+11 drinking age. An on-sale retailer may designate an area of the licensed
+12 premises as an area in which spirituous liquor will not be sold or
+13 consumed for the purpose of allowing TO ALLOW underage persons on the
+14 premises if the designated area is separated by a physical barrier and at
+15 no time will underage persons have access to the area in which spirituous
+16 liquor is sold or consumed. A licensee or an employee of a licensee may
+17 require a person who intends to enter a licensed premises or a portion of
+18 a licensed premises where persons under the legal drinking age are
+19 prohibited under this section to exhibit an instrument of identification
+20 that is acceptable under section 4-241 as a condition of entry or may use
+21 a biometric identity verification device to determine the person's age as
+22 a condition of entry. The director, or a municipality, may adopt rules to
+23 regulate the presence of underage persons on licensed premises provided
+24 the rules adopted by a municipality are more stringent than those adopted
+25 by the director. The rules adopted by the municipality shall be adopted
+26 by local ordinance and shall not interfere with the licensee's ability to
+27 comply with this paragraph. This paragraph does not apply:
+28 (a) If the person under the legal drinking age is accompanied by a
+29 spouse, parent, grandparent or legal guardian of legal drinking age or is
+30 an on-duty employee of the licensee.
+31 (b) If the owner, lessee or occupant of the premises is a club as
+32 defined in section 4-101, paragraph 8, subdivision (a) and the person
+33 under the legal drinking age is any of the following:
+34 (i) An active duty military service member.
+35 (ii) A veteran.
+36 (iii) A member of the United States army national guard or the
+37 United States air national guard.
+38 (iv) A member of the United States military reserve forces.
+39 (c) To the area of the premises used primarily for serving food
+40 during the hours when food is served.
+41 23. For an on-sale retailer or employee to conduct drinking
+42 contests, to sell or deliver to a person an unlimited number of spirituous
+43 liquor beverages during any set period of time for a fixed price, to
+44 deliver more than fifty ounces of beer, one liter of wine or four ounces
+45 of distilled spirits in any spirituous liquor drink to one person at one
+46 time for that person's consumption or to advertise any practice prohibited
+47 by this paragraph. This paragraph does not prohibit an on-sale retailer
+-12-
+
+Senate Amendments to S.B. 1012
+1 or employee from selling and delivering an opened, original container of
+2 distilled spirits if:
+3 (a) Service or pouring of the spirituous liquor is provided by an
+4 employee of the on-sale retailer. A licensee shall not be charged for a
+5 violation of this paragraph if a customer, without the knowledge of the
+6 retailer, removes or tampers with a locking device on a bottle delivered
+7 to the customer for bottle service and the customer pours the customer's
+8 own drink from the bottle, if when the licensee becomes aware of the
+9 removal or tampering of the locking device the licensee immediately
+10 installs a functioning locking device on the bottle or removes the bottle
+11 and lock from bottle service.
+12 (b) The employee of the on-sale retailer monitors consumption to
+13 ensure compliance with this paragraph. Locking devices may be used, but
+14 are not required.
+15 24. For a licensee or employee to knowingly allow the unlawful
+16 possession, use, sale or offer for sale of narcotics, dangerous drugs or
+17 marijuana on the premises. For the purposes of this paragraph, "dangerous
+18 drug" has the same meaning prescribed in section 13-3401.
+19 25. For a licensee or employee to knowingly allow prostitution or
+20 the solicitation of prostitution on the premises.
+21 26. For a licensee or employee to knowingly allow unlawful gambling
+22 on the premises.
+23 27. For a licensee or employee to knowingly allow trafficking or
+24 attempted trafficking in stolen property on the premises.
+25 28. For a licensee or employee to fail or refuse to make the
+26 premises or records available for inspection and examination as provided
+27 in this title or to comply with a lawful subpoena issued under this title.
+28 29. For any person other than a peace officer while on duty or off
+29 duty or a member of a sheriff's volunteer posse while on duty who has
+30 received firearms training that is approved by the Arizona peace officer
+31 standards and training board, a retired peace officer as defined in
+32 section 38-1113 or an honorably retired law enforcement officer who has
+33 been issued a certificate of firearms proficiency pursuant to section
+34 13-3112, subsection T, the licensee or an employee of the licensee acting
+35 with the permission of the licensee to be in possession of a firearm while
+36 on the licensed premises of an on-sale retailer. This paragraph does not
+37 include a situation in which a person is on licensed premises for a
+38 limited time in order to seek emergency aid and such person does not buy,
+39 receive, consume or possess spirituous liquor. This paragraph does not
+40 apply to:
+41 (a) Hotel or motel guest room accommodations.
+42 (b) Exhibiting or displaying a firearm in conjunction with a
+43 meeting, show, class or similar event.
+44 (c) A person with a permit issued pursuant to section 13-3112 who
+45 carries a concealed handgun on the licensed premises of any on-sale
+46 retailer [that has not posted a notice] pursuant to section 4-229[,
+47 SUBSECTION B.
+-13-
+
+Senate Amendments to S.B. 1012
+1 (d) A PERSON WITH A PERMIT ISSUED PURSUANT TO SECTION 13-3112 WHO
+2 CARRIES A CONCEALED HANDGUN ON THE PREMISES OF A RESTAURANT THAT IS
+3 LICENSED PURSUANT TO SECTION 4-205.02 AND WHO DOES NOT CONSUME SPIRITUOUS
+4 LIQUOR ON THE LICENSED PREMISES.]
+5 30. For a licensee or employee to knowingly allow a person in
+6 possession of a firearm other than a peace officer while on duty or off
+7 duty or a member of a sheriff's volunteer posse while on duty who has
+8 received firearms training that is approved by the Arizona peace officer
+9 standards and training board, a retired peace officer as defined in
+10 section 38-1113 or an honorably retired law enforcement officer who has
+11 been issued a certificate of firearms proficiency pursuant to section
+12 13-3112, subsection T, the licensee or an employee of the licensee acting
+13 with the permission of the licensee to remain on the licensed premises or
+14 to serve, sell or furnish spirituous liquor to a person in possession of a
+15 firearm while on the licensed premises of an on-sale retailer. It is a
+16 defense to action under this paragraph if the licensee or employee
+17 requested assistance of a peace officer to remove such person. [THIS
+18 PARAGRAPH DOES NOT CREATE AN OBLIGATION FOR A LICENSEE OR AN EMPLOYEE OF A
+19 LICENSEE TO INQUIRE, INVESTIGATE OR OTHERWISE DETERMINE WHETHER A PERSON
+20 WITH A CONCEALED HANDGUN HAS A PERMIT THAT HAS BEEN ISSUED PURSUANT TO
+21 SECTION 13-3112.] This paragraph does not apply to:
+22 (a) Hotel or motel guest room accommodations.
+23 (b) Exhibiting or displaying a firearm in conjunction with a
+24 meeting, show, class or similar event.
+25 (c) A person with a permit issued pursuant to section 13-3112 who
+26 carries a concealed handgun on the licensed premises of any on-sale
+27 retailer [that has not posted a notice] pursuant to section 4-229[,
+28 SUBSECTION B.
+29 (d) A PERSON WITH A PERMIT ISSUED PURSUANT TO SECTION 13-3112 WHO
+30 CARRIES A CONCEALED HANDGUN ON THE PREMISES OF A RESTAURANT THAT IS
+31 LICENSED PURSUANT TO SECTION 4-205.02 AND WHO DOES NOT CONSUME SPIRITUOUS
+32 LIQUOR ON THE LICENSED PREMISES.]
+33 31. For any person in possession of a firearm while on the licensed
+34 premises of an on-sale retailer to consume spirituous liquor. This
+35 paragraph does not prohibit the consumption of small amounts of spirituous
+36 liquor by an undercover peace officer on assignment to investigate the
+37 licensed establishment.
+38 32. For a licensee or employee to knowingly allow spirituous liquor
+39 to be removed from the licensed premises, except in the original unbroken
+40 package. This paragraph does not apply to any of the following:
+41 (a) A person who removes a bottle of wine that has been partially
+42 consumed in conjunction with a purchased meal from licensed premises if a
+43 cork is inserted flush with the top of the bottle or the bottle is
+44 otherwise securely closed.
+45 (b) A person who is in licensed premises that have noncontiguous
+46 portions that are separated by a public or private walkway or driveway and
+47 who takes spirituous liquor from one portion of the licensed premises
+-14-
+
+Senate Amendments to S.B. 1012
+1 across the public or private walkway or driveway directly to the other
+2 portion of the licensed premises.
+3 (c) A licensee of a bar, beer and wine bar, liquor store, beer and
+4 wine store, microbrewery or restaurant that has a permit pursuant to
+5 section 4-205.02, subsection H that dispenses beer only in a clean
+6 container composed of a material approved by a national sanitation
+7 organization with a maximum capacity that does not exceed one gallon and
+8 not for consumption on the premises if:
+9 (i) The licensee or the licensee's employee fills the container at
+10 the tap at the time of sale.
+11 (ii) The container is sealed and displays a government warning
+12 label.
+13 (d) A bar or liquor store licensee that prepares a mixed cocktail
+14 or a restaurant licensee that leases the privilege to sell mixed cocktails
+15 for consumption off the licensed premises pursuant to section 4-203.06 or
+16 holds a permit pursuant to section 4-203.07 and section 4-205.02,
+17 subsection K and that prepares a mixed cocktail and transfers it to a
+18 clean container composed of a material approved by a national sanitation
+19 organization with a maximum capacity that does not exceed thirty-two
+20 ounces and not for consumption on the premises if all of the following
+21 apply:
+22 (i) The licensee or licensee's employee fills the container with
+23 the mixed cocktail on the licensed premises of the bar, liquor store or
+24 restaurant.
+25 (ii) The container is tamperproof sealed by the licensee or the
+26 licensee's employee and displays a government warning label.
+27 (iii) The container clearly displays the bar's, liquor store's or
+28 restaurant's logo or name.
+29 (iv) For a restaurant licensee licensed pursuant to section
+30 4-205.02, the sale of mixed cocktails for consumption off the licensed
+31 premises is accompanied by the sale of menu food items for consumption on
+32 or off the licensed premises.
+33 33. For a person who is obviously intoxicated to buy or attempt to
+34 buy spirituous liquor from a licensee or employee of a licensee or to
+35 consume spirituous liquor on licensed premises.
+36 34. For a person who is under twenty-one years of age to drive or
+37 be in physical control of a motor vehicle while there is any spirituous
+38 liquor in the person's body.
+39 35. For a person who is under twenty-one years of age to operate or
+40 be in physical control of a motorized watercraft that is underway while
+41 there is any spirituous liquor in the person's body. For the purposes of
+42 this paragraph, "underway" has the same meaning prescribed in section
+43 5-301.
+44 36. For a licensee, manager, employee or controlling person to
+45 purposely induce a voter, by means of alcohol, to vote or abstain from
+46 voting for or against a particular candidate or issue on an election day.
+-15-
+
+Senate Amendments to S.B. 1012
+1 37. For a licensee to fail to report an occurrence of an act of
+2 violence to either the department or a law enforcement agency.
+3 38. For a licensee to use a vending machine for the purpose of
+4 dispensing TO DISPENSE spirituous liquor.
+5 39. For a licensee to offer for sale a wine carrying a label
+6 including a reference to Arizona or any Arizona city, town or geographic
+7 location unless at least seventy-five percent by volume of the grapes used
+8 in making the wine were grown in Arizona.
+9 40. For a retailer to knowingly allow a customer to bring
+10 spirituous liquor onto the licensed premises, except that an on-sale
+11 retailer may allow a wine and food club to bring wine onto the premises
+12 for consumption by the club's members and guests of the club's members in
+13 conjunction with meals purchased at a meeting of the club that is
+14 conducted on the premises and that at least seven members attend. An
+15 on-sale retailer that allows wine and food clubs to bring wine onto its
+16 premises under this paragraph shall comply with all applicable provisions
+17 of this title and any rules adopted pursuant to this title to the same
+18 extent as if the on-sale retailer had sold the wine to the members of the
+19 club and their guests. For the purposes of this paragraph, "wine and food
+20 club" means an association that has more than twenty bona fide members
+21 paying at least $6 per year in dues and that has been in existence for at
+22 least one year.
+23 41. For a person who is under twenty-one years of age to have in
+24 the person's body any spirituous liquor. In a prosecution for a violation
+25 of this paragraph:
+26 (a) Pursuant to section 4-249, it is a defense that the spirituous
+27 liquor was consumed in connection with the bona fide practice of a
+28 religious belief or as an integral part of a religious exercise and in a
+29 manner not dangerous to public health or safety.
+30 (b) Pursuant to section 4-226, it is a defense that the spirituous
+31 liquor was consumed for a bona fide medicinal purpose and in a manner not
+32 dangerous to public health or safety.
+33 42. For an employee of a licensee to accept any gratuity,
+34 compensation, remuneration or consideration of any kind to either:
+35 (a) Allow a person who is under twenty-one years of age to enter
+36 any portion of the premises where that person is prohibited from entering
+37 pursuant to paragraph 22 of this section.
+38 (b) Sell, furnish, dispose of or give spirituous liquor to a person
+39 who is under twenty-one years of age.
+40 43. For a person to purchase, offer for sale or use any device,
+41 machine or process that mixes spirituous liquor with pure oxygen or
+42 another gas to produce a vaporized product for the purpose of consumption
+43 by inhalation or to allow patrons to use any item for the consumption of
+44 vaporized spirituous liquor.
+45 44. For a retail licensee or an employee of a retail licensee to
+46 sell spirituous liquor to a person if the retail licensee or employee
+47 knows the person intends to resell the spirituous liquor.
+-16-
+
+Senate Amendments to S.B. 1012
+1 45. Except as authorized by paragraph 32, subdivision (c) of this
+2 section, for a person to reuse a bottle or other container authorized for
+3 use by the laws of the United States or any agency of the United States
+4 for the packaging of distilled spirits or for a person to increase the
+5 original contents or a portion of the original contents remaining in a
+6 liquor bottle or other authorized container by adding any substance.
+7 46. For a direct shipment licensee, a farm winery licensee or an
+8 employee of those licensees to sell, dispose of, deliver or give
+9 spirituous liquor to an individual purchaser between the hours of
+10 2:00 a.m. and 6:00 a.m., except that a direct shipment licensee or a farm
+11 winery licensee may receive and process orders, accept payment, package,
+12 load or otherwise prepare wine for delivery at any time without complying
+13 with section 4-241, subsections A and K, if the actual deliveries to
+14 individual purchasers are made between the hours of 6:00 a.m. and
+15 2:00 a.m. and in accordance with section 4-203.04 for direct shipment
+16 licensees and section 4-205.04 for farm winery licensees.
+17 47. For a supplier to coerce or attempt to coerce a wholesaler to
+18 accept delivery of beer or any other commodity that has not been ordered
+19 by the wholesaler or for which the order was canceled. A supplier may
+20 impose reasonable inventory requirements on a wholesaler if the
+21 requirements are made in good faith and are generally applied to other
+22 similarly situated wholesalers that have an agreement with the supplier.
+23 Sec. 4. Section 4-246, Arizona Revised Statutes, is amended to
+24 read:
+25 4-246. Violation; classification; fine; civil penalty
+26 A. A person violating any provision of this title is guilty of a
+27 class 2 misdemeanor unless another classification is prescribed.
+28 B. A person violating section 4-242.01, subsection A or section
+29 4-244, paragraph 9, 14, 34, 42 or 44 is guilty of a class 1 misdemeanor.
+30 C. A person violating section 4-229, subsection B or section 4-244,
+31 paragraph 31 is guilty of a class 3 misdemeanor.
+32 D. In addition to any other penalty prescribed by law, the court
+33 may suspend the privilege to drive of a person who is under eighteen years
+34 of age for a period of up to one hundred eighty days on receiving the
+35 record of the person's first conviction for a violation of section 4-244,
+36 paragraph 9.
+37 E. In addition to any other penalty prescribed by law, a person who
+38 is convicted of a violation of section 4-244, paragraph 42 shall pay a
+39 fine of at least $500.
+40 F. In addition to any other penalty prescribed by law, a person who
+41 is convicted of a violation of section 4-241, subsection L, M or N shall
+42 pay a fine of at least $250.
+43 G. A person that violates section 4-244, paragraph 47 is subject to
+44 a civil penalty as prescribed in section 4-210.01.
+-17-
+
+Senate Amendments to S.B. 1012
+1 <<Sec. 5. Section 4-311, Arizona Revised Statutes, is amended to
+2 read:
+3 4-311. Liability for serving intoxicated person or minor;
+4 exceptions; definition
+5 A. A licensee is liable for property damage and personal injuries
+6 or is liable to a person who may bring an action for wrongful death
+7 pursuant to section 12-612, or both, if a court or jury finds all of the
+8 following:
+9 1. The licensee sold spirituous liquor either to a purchaser who
+10 was obviously intoxicated, or to a purchaser under the legal drinking age
+11 without requesting identification containing proof of age or with
+12 knowledge that the person was under the legal drinking age.
+13 2. The purchaser consumed the spirituous liquor sold by the
+14 licensee.
+15 3. The consumption of spirituous liquor was a proximate cause of
+16 the injury, death or property damage.
+17 [B. NOTWITHSTANDING ANY OTHER LAW, A LICENSEE IS NOT LIABLE FOR
+18 PROPERTY DAMAGE OR PERSONAL INJURIES OR TO A PERSON WHO MAY BRING AN
+19 ACTION FOR WRONGFUL DEATH PURSUANT TO SECTION 12-612, OR BOTH, IF THE
+20 PROPERTY DAMAGE, PERSONAL INJURY OR WRONGFUL DEATH WAS CAUSED BY A
+21 CONCEALED HANDGUN THAT WAS CARRIED ON THE LICENSED PREMISES OF AN ON-SALE
+22 RETAILER UNLESS A COURT OR JURY FINDS ONE OF THE FOLLOWING:
+23 1. THE LICENSEE OR AN EMPLOYEE OF THE LICENSEE SERVED SPIRITUOUS
+24 LIQUOR TO THE PERSON WHO THE LICENSEE OR EMPLOYEE OF THE LICENSEE KNEW WAS
+25 CARRYING A CONCEALED HANDGUN.
+26 2. THE LICENSEE OR AN EMPLOYEE OF THE LICENSEE KNEW THAT THE PERSON
+27 WAS CARRYING A CONCEALED HANDGUN IN VIOLATION OF SECTION 4-229 AND THE
+28 LICENSEE OR EMPLOYEE OF THE LICENSEE FAILED TO NOTIFY A LAW ENFORCEMENT
+29 AGENCY.]
+30 [B.] [C.] [No] [A] licensee is [NOT] chargeable with knowledge of
+31 previous acts by which a person becomes intoxicated at other locations
+32 unknown to the licensee unless the person was obviously intoxicated. If
+33 the licensee operates under a restaurant license, the finder of fact shall
+34 not consider any information obtained as a result of a restaurant audit
+35 conducted pursuant to section 4-213 unless the court finds the information
+36 relevant.
+37 [C.] [D.] For the purposes of subsection A, paragraph 2 of this
+38 section, if it is found that an underage person purchased spirituous
+39 liquor from a licensee and such underage person incurs or causes injuries
+40 or property damage as a result of the consumption of spirituous liquor
+41 within a reasonable period of time following the sale of the spirituous
+42 liquor, it shall create a rebuttable presumption that the underage person
+43 consumed the spirituous liquor sold to such person by the licensee.
+-18-
+
+Senate Amendments to S.B. 1012
+1 [D.] [E.] For the purposes of this section, "obviously
+2 intoxicated" means inebriated to such an extent that a person's physical
+3 faculties are substantially impaired and the impairment is shown by
+4 significantly uncoordinated physical action or significant physical
+5 dysfunction that would have been obvious to a reasonable person.>>
+6 <<Sec. 6. Section 13-3112, Arizona Revised Statutes, is amended to
+7 read:
+8 13-3112. Concealed weapons; qualification; application; permit
+9 to carry; civil penalty; report; applicability;
+10 annual report
+11 A. The department of public safety shall issue a permit to carry a
+12 concealed weapon to a person who is qualified under this section. The
+13 person shall carry the permit at all times when the person is in actual
+14 possession of the concealed weapon and is required by section 4-229 or
+15 4-244 ANY OTHER LAW to carry the permit. If the person is in actual
+16 possession of the concealed weapon and is required by section 4-229 or
+17 4-244 ANY OTHER LAW to carry the permit, the person shall present the
+18 permit for inspection to any law enforcement officer on request. The
+19 department of public safety shall prioritize applications of in-state
+20 residents when issuing a permit to carry a concealed weapon.
+21 B. The permit of a person who is arrested or indicted for an
+22 offense that would make the person unqualified under section 13-3101,
+23 subsection A, paragraph 7 or this section shall be immediately suspended
+24 and seized. The permit of a person who becomes unqualified on conviction
+25 of that offense shall be revoked. The permit shall be restored on
+26 presentation of documentation from the court if the permittee is found not
+27 guilty or the charges are dismissed. The permit shall be restored on
+28 presentation of documentation from the county attorney that the charges
+29 against the permittee were dropped or dismissed.
+30 C. A permittee who carries a concealed weapon, who is required by
+31 section 4-229 or 4-244 ANY OTHER LAW to carry a permit and who fails to
+32 present the permit for inspection on the request of a law enforcement
+33 officer commits a violation of this subsection and is subject to a civil
+34 penalty of not more than $300. The department of public safety shall be
+35 notified of all violations of this subsection and shall immediately
+36 suspend the permit. A permittee shall not be convicted of a violation of
+37 this subsection if the permittee produces to the court a legible permit
+38 that is issued to the permittee and that was valid at the time the
+39 permittee failed to present the permit for inspection.
+40 D. A law enforcement officer shall not confiscate or forfeit a
+41 weapon that is otherwise lawfully possessed by a permittee whose permit is
+42 suspended pursuant to subsection C of this section, except that a law
+43 enforcement officer may take temporary custody of a firearm during an
+44 investigatory stop of the permittee.
+45 E. The department of public safety shall issue a permit to an
+46 applicant who meets all of the following conditions:
+47 1. Is a resident of this state or a United States citizen.
+-19-
+
+Senate Amendments to S.B. 1012
+1 2. Is twenty-one years of age or older or is at least nineteen
+2 years of age and provides evidence of current military service or proof of
+3 honorable discharge or general discharge under honorable conditions from
+4 the United States armed forces, the United States armed forces reserve or
+5 a state national guard.
+6 3. Is not under indictment for and has not been convicted in any
+7 jurisdiction of a felony unless that conviction has been expunged, set
+8 aside or vacated or the applicant's rights have been restored and the
+9 applicant is currently not a prohibited possessor under state or federal
+10 law.
+11 4. Does not suffer from mental illness and has not been adjudicated
+12 mentally incompetent or committed to a mental institution.
+13 5. Is not unlawfully present in the United States.
+14 6. Has ever demonstrated competence with a firearm as prescribed by
+15 subsection N of this section and provides adequate documentation that the
+16 person has satisfactorily completed a training program or demonstrated
+17 competence with a firearm in any state or political subdivision in the
+18 United States. For the purposes of this paragraph, "adequate
+19 documentation" means:
+20 (a) A current or expired permit issued by the department of public
+21 safety pursuant to this section.
+22 (b) An original or copy of a certificate, card or document that
+23 shows the applicant has ever completed any course or class prescribed by
+24 subsection N of this section or an affidavit from the instructor, school,
+25 club or organization that conducted or taught the course or class
+26 attesting to the applicant's completion of the course or class.
+27 (c) An original or a copy of a United States department of defense
+28 form 214 (DD-214) indicating an honorable discharge or general discharge
+29 under honorable conditions, a certificate of completion of basic training
+30 or any other document demonstrating proof of the applicant's current or
+31 former service in the United States armed forces as prescribed by
+32 subsection N, paragraph 5 of this section.
+33 (d) An original or a copy of a concealed weapon, firearm or handgun
+34 permit or a license as prescribed by subsection N, paragraph 6 of this
+35 section.
+36 F. The application shall be completed on a form prescribed by the
+37 department of public safety. The form shall not require the applicant to
+38 disclose the type of firearm for which a permit is sought. The applicant
+39 shall attest under penalty of perjury that all of the statements made by
+40 the applicant are true, that the applicant has been furnished a copy of
+41 this chapter and chapter 4 of this title and that the applicant is
+42 knowledgeable about the provisions contained in those chapters. The
+43 applicant shall submit the application to the department with any
+44 documentation prescribed by subsection E of this section, two sets of
+45 fingerprints and a reasonable fee determined by the director of the
+46 department.
+-20-
+
+Senate Amendments to S.B. 1012
+1 G. On receipt of a concealed weapon permit application, the
+2 department of public safety shall conduct a check of the applicant's
+3 criminal history record pursuant to section 41-1750. The department of
+4 public safety may exchange fingerprint card information with the federal
+5 bureau of investigation for federal criminal history record checks.
+6 H. The department of public safety shall complete all of the
+7 required qualification checks within sixty days after receiving the
+8 application and shall issue a permit within fifteen working days after
+9 completing the qualification checks if the applicant meets all of the
+10 conditions specified in subsection E of this section. If a permit is
+11 denied, the department of public safety shall notify the applicant in
+12 writing within fifteen working days after completing all of the required
+13 qualification checks and shall state the reasons why the application was
+14 denied. On receipt of the notification of the denial, the applicant has
+15 twenty days to submit any additional documentation to the department. On
+16 receipt of the additional documentation, the department shall reconsider
+17 its decision and inform the applicant within twenty days of the result of
+18 the reconsideration. If denied, the applicant shall be informed that the
+19 applicant may request a hearing pursuant to title 41, chapter 6,
+20 article 10. For the purposes of this subsection, "receiving the
+21 application" means the first day that the department has physical control
+22 of the application and that is presumed to be on the date of delivery as
+23 evidenced by proof of delivery by the United States postal service or a
+24 written receipt, which shall be provided by the department on request of
+25 the applicant.
+26 I. On issuance, a permit is valid for five years, except a permit
+27 that is held by a member of the United States armed forces, including a
+28 member of the Arizona national guard or a member of the reserves of any
+29 military establishment of the United States, who is on federal active duty
+30 and who is deployed overseas shall be extended until ninety days after the
+31 end of the member's overseas deployment.
+32 J. The department of public safety shall maintain a computerized
+33 permit record system that is accessible to criminal justice agencies for
+34 the purpose of confirming the permit status of any person who is contacted
+35 by a law enforcement officer and who claims to hold a valid permit issued
+36 by this state. This information and any other records that are maintained
+37 regarding applicants, permit holders or instructors shall not be available
+38 to any other person or entity except on an order from a state or federal
+39 court. A criminal justice agency shall not use the computerized permit
+40 record system to conduct inquiries on whether a person is a concealed
+41 weapons permit holder unless the criminal justice agency has reasonable
+42 suspicion to believe the person is carrying a concealed weapon and the
+43 person is subject to a lawful criminal investigation, arrest, detention or
+44 investigatory stop.
+-21-
+
+Senate Amendments to S.B. 1012
+1 K. A permit issued pursuant to this section is renewable every five
+2 years. At least sixty days before the expiration date of a permit, the
+3 department of public safety shall send a renewal reminder notice and
+4 renewal application form to the permit holder. Before a permit may be
+5 renewed, a criminal history records check shall be conducted pursuant to
+6 section 41-1750 within sixty days after receipt of the application for
+7 renewal. For the purposes of permit renewal, the permit holder is not
+8 required to submit additional fingerprints.
+9 L. Applications for renewal shall be accompanied by a fee
+10 determined by the director of the department of public safety.
+11 M. The department of public safety shall suspend or revoke a permit
+12 issued under this section if the permit holder becomes ineligible pursuant
+13 to subsection E of this section. The department of public safety shall
+14 notify the permit holder in writing within fifteen working days after the
+15 revocation or suspension and shall state the reasons for the revocation or
+16 suspension.
+17 N. An applicant shall demonstrate competence with a firearm through
+18 any of the following:
+19 1. Completion of any firearms safety or training course or class
+20 that is available to the general public, that is offered by a law
+21 enforcement agency, a junior college, a college or a private or public
+22 institution, academy, organization or firearms training school and that is
+23 approved by the department of public safety or that uses instructors who
+24 are certified by the national rifle association.
+25 2. Completion of any hunter education or hunter safety course
+26 approved by the Arizona game and fish department or a similar agency of
+27 another state.
+28 3. Completion of any national rifle association firearms safety or
+29 training course.
+30 4. Completion of any law enforcement firearms safety or training
+31 course or class that is offered for security guards, investigators,
+32 special deputies or other divisions or subdivisions of law enforcement or
+33 security enforcement and that is approved by the department of public
+34 safety.
+35 5. Evidence of current military service or proof of honorable
+36 discharge or general discharge under honorable conditions from the United
+37 States armed forces.
+38 6. A valid current or expired concealed weapon, firearm or handgun
+39 permit or license that is issued by another state or a political
+40 subdivision of another state and that has a training or testing
+41 requirement for initial issuance.
+42 7. Completion of any governmental police agency firearms training
+43 course and qualification to carry a firearm in the course of normal police
+44 duties.
+45 8. Completion of any other firearms safety or training course or
+46 class that is conducted by a department of public safety approved or
+47 national rifle association certified firearms instructor.
+-22-
+
+Senate Amendments to S.B. 1012
+1 O. The department of public safety shall maintain information
+2 comparing the number of permits requested, the number of permits issued
+3 and the number of permits denied. The department shall annually report
+4 this information electronically to the governor and the legislature.
+5 P. The director of the department of public safety shall adopt
+6 rules for the purpose of implementing and administering TO IMPLEMENT AND
+7 ADMINISTER this section, including fees relating to permits that are
+8 issued pursuant to this section.
+9 Q. This state and any political subdivision of this state shall
+10 recognize a concealed weapon, firearm or handgun permit or license that is
+11 issued by another state or a political subdivision of another state if
+12 both:
+13 1. The permit or license is recognized as valid in the issuing
+14 state.
+15 2. The permit or license holder is all of the following:
+16 (a) Legally present in this state.
+17 (b) Not legally prohibited from possessing a firearm in this state.
+18 R. For the purpose of establishing mutual permit or license
+19 recognition with other states, the department of public safety shall enter
+20 into a written agreement if another state requires a written agreement.
+21 The department of public safety shall submit an electronic report to the
+22 governor and the legislature each year that includes any changes that were
+23 made in the previous year to a written agreement with another state.
+24 S. Notwithstanding the provisions of this section, a person with a
+25 concealed weapons permit from another state may not carry a concealed
+26 weapon in this state if the person is under twenty-one years of age or is
+27 under indictment for, or has been convicted of, a felony offense in any
+28 jurisdiction, unless that conviction is expunged, set aside or vacated or
+29 the person's rights have been restored and the person is currently not a
+30 prohibited possessor under state or federal law.
+31 T. The department of public safety may issue certificates of
+32 firearms proficiency according to the Arizona peace officer standards and
+33 training board firearms qualification for the purposes of implementing the
+34 law enforcement officers safety act of 2004 (P.L. 108-277; 118 Stat. 865;
+35 18 United States Code sections 926B and 926C). A law enforcement or
+36 prosecutorial agency shall issue to a qualified retired law enforcement
+37 officer who has honorably retired a photographic identification that
+38 states that the officer has honorably retired from the agency. A person
+39 who was a municipal, county or state prosecutor is deemed to meet the
+40 qualifications of 18 United States Code section 926C(c)(2). The chief law
+41 enforcement officer shall determine whether an officer has honorably
+42 retired and the determination is not subject to review. A law enforcement
+43 or prosecutorial agency has no obligation to revoke, alter or modify the
+44 honorable discharge photographic identification based on conduct that the
+45 agency becomes aware of or that occurs after the officer has separated
+46 from the agency. For the purposes of this subsection, "qualified retired
+-23-
+
+Senate Amendments to S.B. 1012
+1 law enforcement officer" has the same meaning prescribed in 18 United
+2 States Code section 926C.
+3 U. The initial and renewal application fees collected pursuant to
+4 this section shall be deposited, pursuant to sections 35-146 and 35-147,
+5 in the concealed weapons permit fund established by section 41-1722.
+6 V. On or before July 31 of each year, the department of public
+7 safety shall report to the joint legislative budget committee on the
+8 number of concealed weapons permits issued in the prior fiscal year. The
+9 report shall also include the number of outstanding concealed weapons
+10 permit applications that have not been issued and the average turnaround
+11 time to issue a concealed weapons permit.>>
+12 Enroll and engross to conform
+13 Amend title to conform
+1012JUDE.docx
+02/18/2026
+11:20 AM
+C: LAT
+130BKTROI
+-24-

@@ -1,0 +1,309 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Finchem flr amend (ref FED) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1075
+Finchem Floor Amendment
+Reference to: FEDERALISM Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Establishes the Foreign Entity Review Commission (Commission) within the Arizona Department
+of Real Estate to approve the conveyance of land to a hostile foreign entity.
+2. Removes the requirement for the Legislature to approve the conveyance of land to a hostile foreign
+entity.
+3. Requires the Commission to consist of:
+a) the commissioner of the State Real Estate Department;
+b) two persons who are appointed by the Governor;
+c) one person who is appointed by the President of the Senate; and
+d) one person who is appointed by the Speaker of the House of Representatives
+4. Outlines the requirements and procedural duties of the Commission.
+5. Makes conforming changes.
+Amendment explanation prepared by Tatum Ross
+2/20/2026
+
+Fifty-seventh Legislature Finchem
+Second Regular Session S.B. 1075
+FINCHEM FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1075
+(Reference to FEDERALISM Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 33, chapter 4, article 4, Arizona Revised
+3 Statutes, is amended by adding section 33-459, to read:
+4 33-459. Conveyance to foreign entity; prohibition;
+5 identification; foreign entity review commission;
+6 civil penalty; violation; classification;
+7 definitions
+8 A. BEGINNING ON THE EFFECTIVE DATE OF THIS SECTION, LAND IN THIS
+9 STATE MAY NOT BE CONVEYED TO A HOSTILE FOREIGN ENTITY WITHOUT {{MAJORITY}}
+10 APPROVAL OF {{BOTH THE SENATE AND THE HOUSE OF REPRESENTATIVES}}{{THE
+11 FOREIGN ENTITY REVIEW COMMISSION ESTABLISHED PURSUANT TO THIS SECTION}}.
+12 B. A GRANTOR IN THIS STATE AND THE GRANTOR'S AGENT, INCLUDING A
+13 REAL ESTATE PROFESSIONAL LICENSED PURSUANT TO TITLE 32, CHAPTER 20, SHALL
+14 SUBMIT TO THE STATE REAL ESTATE DEPARTMENT A VALID IDENTIFICATION OF ANY
+15 GRANTEE. IF THE GRANTEE IS NOT A NATURAL PERSON, THE GRANTOR AND THE
+16 GRANTOR'S AGENT SHALL SUBMIT A VALID IDENTIFICATION OF THE GRANTEE'S AGENT
+17 AND THE NAME AND PRINCIPAL PLACE OF BUSINESS OF THE GRANTEE. THE GRANTOR,
+
+Senate Amendments to S.B. 1075
+1 THE GRANTOR'S AGENT AND THE STATE REAL ESTATE DEPARTMENT SHALL MAINTAIN A
+2 COPY OF THE IDENTIFICATION PROVIDED BY THE GRANTEE OR, IF THE GRANTEE IS
+3 NOT A NATURAL PERSON, THE IDENTIFICATION OF THE GRANTEE'S AGENT AND THE
+4 GRANTEE'S NAME AND PRINCIPAL PLACE OF BUSINESS.
+5 C. IDENTIFICATION IS DEEMED VALID UNLESS IT CAN BE DETERMINED ON
+6 ITS FACE THAT THE IDENTIFICATION HAS EXPIRED.
+7 {{D. THE FOREIGN ENTITY REVIEW COMMISSION IS ESTABLISHED IN THE
+8 STATE REAL ESTATE DEPARTMENT CONSISTING OF THE FOLLOWING PERSONS:
+9 1. THE COMMISSIONER OF THE STATE REAL ESTATE DEPARTMENT.
+10 2. TWO PERSONS WHO ARE APPOINTED BY THE GOVERNOR.
+11 3. ONE PERSON WHO IS APPOINTED BY THE PRESIDENT OF THE SENATE.
+12 4. ONE PERSON WHO IS APPOINTED BY THE SPEAKER OF THE HOUSE OF
+13 REPRESENTATIVES.
+14 E. EACH MEMBER OF THE FOREIGN ENTITY REVIEW COMMISSION EXCEPT THE
+15 COMMISSIONER OF THE STATE REAL ESTATE DEPARTMENT SHALL SERVE A FOUR-YEAR
+16 TERM. AT THE FIRST MEETING OF THE COMMISSION, THE MEMBERS SHALL ELECT A
+17 CHAIRPERSON FROM AMONG THEIR MEMBERSHIP. THE COMMISSION SHALL MEET AT THE
+18 CALL OF THE CHAIRPERSON TO CONSIDER ANY PROPOSED PURCHASES, LEASES OR
+19 SUBLEASES OF LAND IN THIS STATE BY A POSSIBLE HOSTILE FOREIGN ENTITY AS
+20 PROHIBITED BY THIS SECTION OR AS PROHIBITED BY SECTION 37-240. ON REVIEW
+21 OF THE PROPOSED TRANSACTION, THE COMMISSION MAY VOTE TO APPROVE OR REJECT
+22 THE TRANSACTION, AND IF REJECTED, THE PROPOSED TRANSACTION IS VOID.}}
+23 {{D.}} {{F.}} [A PERSON OR ENTITY THAT VIOLATES THIS SECTION IS
+24 SUBJECT TO A CIVIL PENALTY. THE ATTORNEY GENERAL MAY BRING AN ACTION
+25 AGAINST A PERSON OR ENTITY THAT VIOLATES THIS SECTION. THE CIVIL PENALTY
+26 SHALL BE THE GREATER OF THE FOLLOWING:
+27 1. $250,000.
+28 2. FIFTY PERCENT OF THE FAIR MARKET VALUE OF THE INTEREST IN REAL
+29 PROPERTY THAT IS THE SUBJECT OF THE VIOLATION.]
+30 {{E.}} {{G.}} [A PERSON WHO KNOWINGLY VIOLATES THIS SECTION IS
+31 GUILTY OF A CLASS 1 MISDEMEANOR, EXCEPT AS FOLLOWS:
+32 1. IF ANY PORTION OF THE LAND IS LOCATED WITHIN TWENTY-FIVE MILES
+33 OF A MILITARY INSTALLATION OR CRITICAL INFRASTRUCTURE, THE PERSON IS
+34 GUILTY OF A CLASS 6 FELONY.
+35 2. IF THE PERSON KNOWINGLY ACTED AS AN AGENT OF A FOREIGN
+36 GOVERNMENT OR RECEIVED COMPENSATION OR DIRECTION FROM A FOREIGN
+37 GOVERNMENT, THE PERSON IS GUILTY OF A CLASS 6 FELONY.]
+38 [D.] {{[F.]}} {{H.}} FOR THE PURPOSES OF THIS SECTION:
+39 1. "FOREIGN ENTITY" MEANS A FOREIGN GOVERNMENT, A STATE-CONTROLLED
+40 ENTERPRISE OF A FOREIGN GOVERNMENT OR AN ENTITY ACTING AS AN AGENT FOR A
+41 FOREIGN GOVERNMENT OR STATE-CONTROLLED ENTERPRISE OF A FOREIGN GOVERNMENT.
+42 2. "HOSTILE" MEANS A FOREIGN ENTITY THAT IS LISTED AS A THREAT OR A
+43 COUNTRY OF CONCERN BY THE DIRECTOR OF NATIONAL INTELLIGENCE OR THE UNITED
+44 STATES DEPARTMENT OF STATE.
+45 3. "VALID IDENTIFICATION" INCLUDES:
+46 (a) ANY DOCUMENT THAT BEARS THE PHOTOGRAPH, NAME AND ADDRESS OF THE
+47 GRANTEE OR[,] IF THE GRANTEE IS NOT A NATURAL PERSON, THE GRANTEE'S AGENT.
+-2-
+
+Senate Amendments to S.B. 1075
+1 (b) AN ARIZONA DRIVER LICENSE, AN ARIZONA NONOPERATING
+2 IDENTIFICATION LICENSE, A TRIBAL ENROLLMENT CARD OR ANOTHER FORM OF TRIBAL
+3 IDENTIFICATION OR A UNITED STATES, STATE OR LOCAL GOVERNMENT-ISSUED
+4 IDENTIFICATION.
+5 Sec. 2. Section 37-231, Arizona Revised Statutes, is amended to
+6 read:
+7 37-231. State lands subject to sale; rights reserved in lands
+8 sold; state lands not subject to sale; development
+9 agreements
+10 A. All state lands, except as otherwise provided for in this title,
+11 including all improvements made or placed on or connected with state
+12 lands, shall be subject to appraisal and sale as provided in this title.
+13 B. Any person over eighteen years of age is entitled to purchase
+14 any of the state lands EXCEPT AS PROVIDED IN SECTION 37-240.
+15 C. All sales, grants, deeds or patents to any state lands sold
+16 between July 9, 1954 and March 18, 1968 shall be subject to and shall
+17 contain a reservation to the THIS state of an undivided one-sixteenth of
+18 all oil, gases and other hydrocarbon substances, coal or stone, metals,
+19 minerals, fossils and fertilizer of every name and description, together
+20 with all uranium, all thorium, or any other material which THAT is or may
+21 be determined by the laws of the THIS state or the United States or
+22 decisions of courts to be peculiarly essential to the production of
+23 fissionable materials, whether or not of commercial value, subject to the
+24 following:
+25 1. For the purpose of promoting TO PROMOTE the sale of state lands
+26 and the more active cooperation of the owner of the soil, and to
+27 facilitate the development of its mineral resources, the THIS state
+28 constitutes the purchaser of the land its agent for the purposes specified
+29 in this section, and in consideration hereof, relinquishes to and vests in
+30 the purchaser of the state land an undivided fifteen-sixteenths of all
+31 oil, gas and the value thereof which may be upon ON or within any state
+32 land purchased after July 9, 1954 and before March 18, 1968.
+33 2. The purchaser of the soil may sell or lease to any person, firm
+34 or corporation the oil and gas and other minerals which THAT may be on or
+35 in the land, upon ON terms and conditions THAT the purchaser and the owner
+36 deem best, subject to the provisions and reservations of this section, but
+37 the lessee or purchaser shall pay to the THIS state an undivided
+38 one-sixteenth of the mineral produced or the value of the mineral produced
+39 at the well or mine as determined by the state land department.
+40 3. Upon ON discovery of oil and gas in paying quantities on land
+41 adjoining state lands purchased under the authority of this section, the
+42 purchaser or the purchaser's lessee shall drill and produce all wells
+43 necessary to protect the land so purchased from drainage by wells on lands
+44 in which the THIS state has no royalty interest, or has a lesser royalty
+45 interest. If the purchaser or the purchaser's lessee fails to protect
+46 against such drainage, the THIS state, acting through the state land
+47 department, may, three months after demand therefor in writing by the
+48 state land department to such purchaser and the purchaser's lessee, MAY
+-3-
+
+Senate Amendments to S.B. 1075
+1 enter upon ON such lands and drill all wells necessary to protect the THIS
+2 state against such drainage.
+3 4. The interest reserved by the THIS state in any state lands sold
+4 may be committed to a drilling unit or cooperative or unit plans of
+5 development and operation of oil and gas pools with the United States, its
+6 agencies and its and their lessees and permittees, and with private owners
+7 and persons holding oil and gas leases on private lands or on state lands.
+8 The state land department may, insofar as the interest of the THIS state
+9 may be affected thereby, MAY join in and consent to any such plan on
+10 behalf of the THIS state. Such agreements shall provide for the equitable
+11 division on an agreed basis of the oil and gas produced from the unit, but
+12 no such agreement shall NOT relieve any operator from the obligation to
+13 develop reasonably the lands and leases as a whole committed thereto. The
+14 royalties to which the THIS state is entitled on production from land
+15 purchased under this section shall be computed only on that part of the
+16 production allocated to such tract. When the agreements made under this
+17 section provide for the return of gas to a formation underlying the unit,
+18 they may provide that no royalties are required to be paid on the gas so
+19 returned.
+20 D. State lands known to contain oil, gases and other hydrocarbon
+21 substances, geothermal resources, coal or stone, metals, minerals, fossils
+22 and fertilizer of every name and description, in paying quantities, or
+23 uranium, thorium or any other material which THAT is or may be determined
+24 by the laws of the THIS state OR the United States or BY decisions of
+25 court to be peculiarly essential to the production of fissionable
+26 materials, whether or not of commercial value, and state lands adjoining
+27 lands upon ON which there are producing oil, gas or geothermal wells or
+28 adjoining lands known to contain any of such substances in paying
+29 quantities, or uranium, thorium or any other material peculiarly essential
+30 to the production of fissionable materials, whether or not of commercial
+31 value, shall not be sold. The prohibition against sale shall not operate
+32 to prevent the sale of lands known to contain, in paying quantities,
+33 common variety minerals as defined in section 27-271 or to prevent the
+34 sale of lands where the THIS state does not own such substances, minerals
+35 or metals in the lands sought to be sold. The provisions of This
+36 subsection shall DOES not prohibit the sale of such lands located within
+37 the exterior boundaries of an incorporated city or town, in which case the
+38 commissioner may offer the land for sale, provided the land shall be used
+39 solely for a public purpose. Such land shall revert to the THIS state if
+40 it is used other than for a public purpose.
+41 E. Notwithstanding the provisions of subsection C of this section,
+42 all state lands sold after March 18, 1968 shall be sold with the
+43 reservation that all oil, gas, other hydrocarbon substances, helium or
+44 other substances of a gaseous nature, geothermal resources, coal, metals,
+45 minerals, fossils, fertilizer of every name and description, together with
+46 all uranium, all thorium or any other material which THAT is or may be
+47 determined by the laws of the United States or of this state, or BY
+48 decisions of court, to be peculiarly essential to the production of
+49 fissionable materials, whether or not of commercial value, and the
+-4-
+
+Senate Amendments to S.B. 1075
+1 exclusive right thereto, on, in, or under such land, shall be and remain
+2 and be reserved in and retained by the THIS state, regardless of any sale
+3 under this section and the issuance of any certificate of purchase to any
+4 purchaser of state lands pursuant to this section, provided, that the
+5 reservation shall not include common variety minerals as defined in
+6 section 27-271, subject to the following:
+7 1. The state land department shall adopt rules providing for the
+8 protection of the patentee or contract purchaser of state lands, or their
+9 successors in interest, and the THIS state of Arizona, against damage to
+10 the lands, livestock, water, crops, or other tangible improvements on
+11 lands held by such patentee or contract purchaser, and suffered by reason
+12 of the use or occupation of such lands by lessees or permittees engaged in
+13 mining and oil, gas and geothermal resource exploration and development
+14 under leases or permits executed by the department. The state land
+15 department may, at any time, MAY require each of its lessees or permittees
+16 to execute a bond in a reasonable principal amount conditioned upon ON
+17 payment for all such damages.
+18 2. The mineral rights reserved to the THIS state in the lands sold
+19 shall be closed to entry and location as a mineral claim or claims, but
+20 the department may issue, upon ON application, mineral exploration permits
+21 embracing the reserved mineral rights when such issuance is deemed in the
+22 best interest of the THIS state, provided that the surface owner or owners
+23 shall have the first right of refusal to acquire such mineral exploration
+24 permits.
+25 Sec. 3. Section 37-240, Arizona Revised Statutes, is amended to
+26 read:
+27 37-240. Limits on sales of state lands; foreign entity review
+28 commission; civil penalty; violation;
+29 classification; definitions
+30 A. No A person may NOT purchase more than six hundred forty acres
+31 of grazing land, or more than one hundred sixty acres of agricultural
+32 land.
+33 B. No Sales[, leases or subleases] of state lands shall MAY NOT be
+34 made to corporations A CORPORATION or associations ASSOCIATION THAT IS not
+35 qualified to transact business in the THIS state.
+36 C. BEGINNING ON THE EFFECTIVE DATE OF THIS AMENDMENT TO THIS
+37 SECTION, SALES[, LEASES OR SUBLEASES] OF STATE LANDS MAY NOT BE MADE TO A
+38 HOSTILE FOREIGN ENTITY WITHOUT THE {{MAJORITY}} APPROVAL OF {{BOTH THE
+39 SENATE AND THE HOUSE OF REPRESENTATIVES}} {{THE FOREIGN ENTITY REVIEW
+40 COMMISSION ESTABLISHED BY SECTION 33-459. THE COMMISSIONER MAY REFER ANY
+41 PROPOSED SALES, LEASES OR SUBLEASES OF STATE LANDS TO A FOREIGN ENTITY TO
+42 THE FOREIGN ENTITY REVIEW COMMISSION FOR REVIEW AND APPROVAL AS PRESCRIBED
+43 BY SECTION 33-459}}.
+-5-
+
+Senate Amendments to S.B. 1075
+1 [D. A PERSON OR ENTITY THAT VIOLATES SUBSECTION C OF THIS SECTION
+2 IS SUBJECT TO A CIVIL PENALTY. THE ATTORNEY GENERAL MAY BRING AN ACTION
+3 AGAINST A PERSON OR ENTITY THAT VIOLATES THIS SECTION. THE CIVIL PENALTY
+4 SHALL BE THE GREATER OF THE FOLLOWING:
+5 1. $250,000.
+6 2. FIFTY PERCENT OF THE FAIR MARKET VALUE OF THE INTEREST IN REAL
+7 PROPERTY THAT IS THE SUBJECT OF THE VIOLATION.
+8 E. A PERSON WHO KNOWINGLY VIOLATES THIS SECTION IS GUILTY OF A
+9 CLASS 1 MISDEMEANOR, EXCEPT AS FOLLOWS:
+10 1. IF ANY PORTION OF THE LAND IS LOCATED WITHIN TWENTY-FIVE MILES
+11 OF A MILITARY INSTALLATION OR CRITICAL INFRASTRUCTURE, THE PERSON IS
+12 GUILTY OF A CLASS 6 FELONY.
+13 2. IF THE PERSON KNOWINGLY ACTED AS AN AGENT OF A FOREIGN
+14 GOVERNMENT OR RECEIVED COMPENSATION OR DIRECTION FROM A FOREIGN
+15 GOVERNMENT, THE PERSON IS GUILTY OF A CLASS 6 FELONY.]
+16 [D.] [F.] FOR THE PURPOSES OF THIS SECTION:
+17 1. "FOREIGN ENTITY" MEANS A FOREIGN GOVERNMENT, A STATE-CONTROLLED
+18 ENTERPRISE OF A FOREIGN GOVERNMENT OR AN ENTITY ACTING AS AN AGENT FOR A
+19 FOREIGN GOVERNMENT OR STATE-CONTROLLED ENTERPRISE OF A FOREIGN GOVERNMENT.
+20 2. "HOSTILE" MEANS A FOREIGN ENTITY THAT IS LISTED AS A THREAT OR A
+21 COUNTRY OF CONCERN BY THE DIRECTOR OF NATIONAL INTELLIGENCE OR THE UNITED
+22 STATES DEPARTMENT OF STATE.
+23 Enroll and engross to conform
+24 Amend title to conform
+MARK FINCHEM
+1075FloorFINCHEM.docx
+02/10/2026
+9:40 AM
+C: MR
+130LBTFDA
+-6-

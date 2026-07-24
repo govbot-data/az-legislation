@@ -346,6 +346,7 @@
     "division_id": "ocd-division/country:us/state:az"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-24T17:19:00Z"
+    "logs_latest_update": "2026-07-24T17:19:00Z",
+    "text_extraction_latest_update": "2026-07-24T18:53:08.184739Z"
   }
 }

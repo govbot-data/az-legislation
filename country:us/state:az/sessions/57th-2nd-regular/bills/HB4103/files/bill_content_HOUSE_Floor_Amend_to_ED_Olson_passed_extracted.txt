@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to ED - Olson - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 4103: school districts; property; bonding authority
+OLSON FLOOR AMENDMENT
+1. Prohibits the School Facilities Oversight Board from including in the
+calculation to determine the ratio of a school district's enrollment to the school
+district's enrollment capacity any existing building that the school district
+leases as lessor if the lessee uses the building to provide instruction to students
+in kindergarten or any of the 1st through 12th grades.
+CH
+2/25/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Olson
+Second Regular Session H.B. 4103
+OLSON FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 4103
+(Reference to EDUCATION Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 15, chapter 4, article 5, Arizona Revised
+3 Statutes, is amended by adding section 15-492, to read:
+4 15-492. School buildings; enrollment to enrollment capacity
+5 ratio; election eligibility
+6 A. NOTWITHSTANDING SECTION 15-491, IF THE RATIO OF A SCHOOL
+7 DISTRICT'S [ENROLLMENT TO THE SCHOOL DISTRICT'S] ENROLLMENT CAPACITY IS
+8 LESS THAN [_____] [FIFTY PERCENT], THE SCHOOL DISTRICT GOVERNING BOARD MAY
+9 NOT CALL AN ELECTION TO EITHER:
+10 1. DETERMINE WHETHER BONDS OF THE SCHOOL DISTRICT MAY BE ISSUED AND
+11 SOLD.
+12 2. CHANGE THE LIST OF CAPITAL PROJECTS OR THE PURPOSES AUTHORIZED
+13 BY PRIOR VOTER APPROVAL TO ISSUE BONDS.
+14 B. [THE RATIO OF] A SCHOOL DISTRICT'S [ENROLLMENT TO THE SCHOOL
+15 DISTRICT'S] ENROLLMENT CAPACITY IS EQUAL TO THE SCHOOL DISTRICT'S AVERAGE
+16 DAILY MEMBERSHIP AS PRESCRIBED IN SECTION 15-901 FOR THE PRIOR YEAR
+
+House Amendments to H.B. 4103
+1 DIVIDED BY THE NUMBER OF STUDENTS WHO CAN BE EDUCATED IN THE SCHOOL
+2 DISTRICT'S EXISTING SCHOOL BUILDINGS, AS CALCULATED [PURSUANT TO SECTION
+3 41-5702.01] [BY THE SCHOOL FACILITIES OVERSIGHT BOARD CONSISTENT WITH THE
+4 MINIMUM SCHOOL FACILITY ADEQUACY GUIDELINES ESTABLISHED PURSUANT TO
+5 SECTION 41-5711]. {{THE SCHOOL FACILITIES OVERSIGHT BOARD MAY NOT INCLUDE
+6 IN THE CALCULATION PURSUANT TO THIS SUBSECTION ANY EXISTING BUILDING THAT
+7 THE SCHOOL DISTRICT LEASES AS LESSOR IF THE LESSEE USES THE BUILDING TO
+8 PROVIDE INSTRUCTION TO STUDENTS IN KINDERGARTEN PROGRAMS OR ANY OF GRADES
+9 ONE THROUGH TWELVE.}}
+10 <<Sec. 2. Title 41, chapter 56, article 1, Arizona Revised
+11 Statutes, is amended by adding section 41-5702.01, to read:
+12 41-5702.01. School district buildings; academic square
+13 footage; maximum student count
+14 ON OR BEFORE _____ OF EACH YEAR, THE BOARD SHALL CALCULATE THE
+15 NUMBER OF STUDENTS WHO CAN BE EDUCATED IN THE EXISTING SCHOOL BUILDINGS,
+16 CONSISTENT WITH THE MINIMUM SCHOOL FACILITY ADEQUACY GUIDELINES
+17 ESTABLISHED PURSUANT TO SECTION 41-5711, FOR EACH SCHOOL DISTRICT IN THIS
+18 STATE. THE BOARD MAY NOT INCLUDE SQUARE FOOTAGE FOR ANY SCHOOL BUILDING,
+19 OR PORTION OF A SCHOOL BUILDING, THAT IS USED SOLELY FOR DISTRICT
+20 ADMINISTRATION, STORAGE OF VEHICLES OR OTHER NONACADEMIC PURPOSES IN THE
+21 CALCULATION PURSUANT TO THIS SECTION.>>
+22 Enroll and engross to conform
+23 Amend title to conform
+JUSTIN OLSON
+4103FloorOLSON.docx
+02/25/2026
+08:13 AM
+H: CH/ra
+130PLIOFE
+-2-

@@ -1,0 +1,660 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Appropriations - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON APPROPRIATIONS
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1128
+(Reference to Senate engrossed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Subject to the requirements of article IV, part 1,
+3 section 1, Constitution of Arizona, section 36-2803.01, Arizona Revised
+4 Statutes, is amended to read:
+5 36-2803.01. New dispensary registration certificates;
+6 issuance; priority; requirements; fee;
+7 definition
+8 A. EXCEPT AS PROVIDED IN SUBSECTION E OF THIS SECTION, beginning on
+9 April 1, 2020, the department shall issue all new nonprofit medical
+10 marijuana dispensary registration certificates in the following order of
+11 priority based on the dispensary's geographic area as described in the
+12 registration certificate application:
+13 1. The geographic area had a registered nonprofit medical marijuana
+14 dispensary move from the geographic area and the geographic area is at
+15 least twenty-five miles from another dispensary that has been issued a
+16 dispensary registration certificate.
+17 2. The geographic area is at least twenty-five miles from another
+18 dispensary that has been issued a dispensary registration certificate.
+19 3. According to rule, if there are no dispensary registration
+20 certificate applications as described in paragraph 1 or 2 of this
+21 subsection.
+22 B. If the department receives multiple applications as described in
+23 subsection A, paragraph 1 of this section from previously approved
+24 nonprofit medical marijuana dispensary locations, the department shall
+25 approve the certificate for the application that serves the most
+26 qualifying patients within five miles of the proposed dispensary location.
+27 If the department receives multiple applications as described in
+28 subsection A, paragraph 2 of this section or if there are no applications
+29 from previously approved dispensary locations, the department may issue
+30 the registration certificate by random drawing.
+31 C. A nonprofit medical marijuana dispensary that receives a
+32 registration certificate pursuant to subsection A, paragraph 1 or 2 OR
+33 SUBSECTION E of this section on or after April 1, 2020 must open the
+34 dispensary at the approved location within eighteen months after the
+35 application is approved or the registration certificate becomes invalid.
+36 D. A nonprofit medical marijuana dispensary that is issued a
+37 registration certificate pursuant to subsection A, paragraph 1 or 2 of
+38 this section may relocate only as follows:
+
+House Amendments to S.B. 1128
+1 1. If the dispensary is located within a city or town, only within
+2 that city or town.
+3 2. If the dispensary is located within an unincorporated area, only
+4 within the unincorporated area of the county where the dispensary is
+5 located but not within twenty-five miles from another dispensary that has
+6 been issued a dispensary registration certificate.
+7 E. NOTWITHSTANDING ANY OTHER PROVISION OF THIS CHAPTER, THE
+8 DEPARTMENT SHALL ISSUE A NONPROFIT MEDICAL MARIJUANA DISPENSARY
+9 REGISTRATION CERTIFICATE TO EACH ENTITY THAT IS ISSUED A MARIJUANA
+10 ESTABLISHMENT LICENSE PURSUANT TO SECTION 36-2854, SUBSECTION A, PARAGRAPH
+11 1, SUBDIVISION (g) AND ALLOW THESE REGISTRATION CERTIFICATE HOLDERS TO
+12 APPLY TO RELOCATE THEIR RETAIL LOCATION ONLY TO ANOTHER PROPERTY IN THEIR
+13 UNSERVED RURAL COMMUNITY OR TO ANOTHER UNSERVED RURAL COMMUNITY IN
+14 ACCORDANCE WITH SECTION 36-2857.01. THE DEPARTMENT MAY ESTABLISH A FEE
+15 FOR A RELOCATION APPLICATION THAT IS SUBMITTED PURSUANT TO THIS
+16 SUBSECTION.
+17 E. F. For the purposes of this section, "geographic area" means a
+18 city, town or unincorporated area of a county.
+19 Sec. 2. Subject to the requirements of article IV, part 1,
+20 section 1, Constitution of Arizona, section 36-2854, Arizona Revised
+21 Statutes, is amended to read:
+22 36-2854. Rules; licensing; early applicants; fees; civil
+23 penalty; legal counsel
+24 A. The department shall adopt rules to implement and enforce this
+25 chapter and regulate marijuana, marijuana products, marijuana
+26 establishments and marijuana testing facilities. Those rules shall
+27 include requirements for:
+28 1. Licensing marijuana establishments and marijuana testing
+29 facilities, including conducting investigations and background checks to
+30 determine eligibility for licensing for marijuana establishment and
+31 marijuana testing facility applicants, except that:
+32 (a) An application for a marijuana establishment license or
+33 marijuana testing facility license may not require the disclosure of the
+34 identity of any person who is entitled to a share of less than ten percent
+35 of the profits of an applicant that is a publicly traded corporation.
+36 (b) The department may not issue more than one marijuana
+37 establishment license for every ten pharmacies that have registered under
+38 section 32-1929, that have obtained a pharmacy permit from the Arizona
+39 board of pharmacy and that operate within this state.
+40 (c) Notwithstanding subdivision (b) of this paragraph, the
+41 department may issue a marijuana establishment license to not more than
+42 two marijuana establishments per county that contains no registered
+43 nonprofit medical marijuana dispensaries, or one marijuana establishment
+44 license per county that contains one registered nonprofit medical
+45 marijuana dispensary. Any license issued pursuant to this subdivision
+46 shall be for a fixed county and may not be relocated outside of that
+47 county.
+-2-
+
+House Amendments to S.B. 1128
+1 (d) The department shall accept applications for marijuana
+2 establishment licenses from early applicants beginning January 19, 2021
+3 through March 9, 2021. Not later than sixty days after receiving an
+4 application pursuant to this subdivision, the department shall issue a
+5 marijuana establishment license to each qualified early applicant. If the
+6 department has not adopted final rules pursuant to this section at the
+7 time marijuana establishment licenses are issued pursuant to this
+8 subdivision, licensees shall comply with the rules adopted by the
+9 department to implement chapter 28.1 of this title except those that are
+10 inconsistent with this chapter.
+11 (e) After issuing marijuana establishment licenses to qualified
+12 early applicants, the department shall issue marijuana establishment
+13 licenses available under subdivisions (b) and (c) of this paragraph by
+14 random selection and according to rules adopted pursuant to this section.
+15 At least sixty days before any random selection, the department shall
+16 prominently publicize the random selection on its website and through
+17 other means of general distribution intended to reach as many interested
+18 parties as possible and shall provide notice through an email notification
+19 system to which interested parties can subscribe.
+20 (f) Notwithstanding subdivisions (b) and (c) of this paragraph, and
+21 not later than six months after the department adopts final rules to
+22 implement a social equity ownership program pursuant to paragraph 9 of
+23 this subsection, the department shall issue twenty-six additional
+24 marijuana establishment licenses to entities that are qualified pursuant
+25 to the social equity ownership program.
+26 (g) NOTWITHSTANDING SUBDIVISIONS (b) AND (c) OF THIS PARAGRAPH, THE
+27 DEPARTMENT SHALL ISSUE A MARIJUANA ESTABLISHMENT LICENSE TO EACH ENTITY
+28 THAT IS QUALIFIED PURSUANT TO THE RURAL OPPORTUNITY INITIATIVE. THE
+29 LICENSES ISSUED PURSUANT TO THIS SUBDIVISION SHALL BE FOR A FIXED
+30 COMMUNITY THAT HAS NOT OPTED OUT OF THE RURAL OPPORTUNITY INITIATIVE, AND
+31 THE ENTITY'S RETAIL LOCATION MAY BE RELOCATED ONLY TO AN UNSERVED RURAL
+32 COMMUNITY IN ACCORDANCE WITH SECTION 36-2857.01. THE DEPARTMENT MAY NOT
+33 ISSUE MORE THAN EIGHTEEN MARIJUANA ESTABLISHMENT LICENSES PURSUANT TO THIS
+34 SUBDIVISION.
+35 (g) (h) Licenses issued by the department to marijuana
+36 establishments and marijuana testing facilities shall be valid for a
+37 period of two years. A dual licensee's initial renewal date, which will
+38 be the ongoing renewal date for both the dual licensee's marijuana
+39 establishment license and nonprofit medical marijuana dispensary
+40 registration, is the earlier of:
+41 (i) The date of the marijuana establishment license renewal.
+42 (ii) The date of the nonprofit medical marijuana dispensary
+43 registration renewal.
+44 (h) (i) The department may not issue a marijuana establishment or
+45 marijuana testing facility license to an applicant who has an ownership
+46 interest in an out-of-state marijuana establishment or marijuana testing
+-3-
+
+House Amendments to S.B. 1128
+1 facility, or the other state's equivalent, that has had its license
+2 revoked by the other state.
+3 2. Licensing fees and renewal fees for marijuana establishments and
+4 marijuana testing facilities in amounts that are reasonable and related to
+5 the actual cost of processing applications for licenses and renewals and
+6 that do not exceed five times the fees prescribed by the department to
+7 register or renew a nonprofit medical marijuana dispensary.
+8 3. The security of marijuana establishments and marijuana testing
+9 facilities.
+10 4. Marijuana establishments to safely cultivate, process and
+11 manufacture marijuana and marijuana products. The department shall
+12 require licensees to procure, develop, acquire and maintain a system to
+13 track marijuana and marijuana products at all points of cultivation,
+14 manufacturing and sale. The system developed and maintained pursuant to
+15 this paragraph shall:
+16 (a) Ensure an accurate accounting and reporting of the production,
+17 processing and sale of marijuana and marijuana products.
+18 (b) Ensure compliance with rules adopted by the department.
+19 (c) Be capable of tracking, at a minimum:
+20 (i) The propagation of immature marijuana plants and the production
+21 of marijuana by a marijuana establishment.
+22 (ii) The processing of marijuana and marijuana products by a
+23 marijuana establishment.
+24 (iii) The sale and purchase of marijuana and marijuana products
+25 between licensees.
+26 (iv) The transfer of marijuana and marijuana products between
+27 premises for which licenses have been issued.
+28 (v) The disposal of marijuana waste.
+29 (vi) The identity of the person making the entry in the system and
+30 the time, date and location of each entry into the system, including any
+31 corrections or changes to that information.
+32 (vii) Any other information that the department determines is
+33 reasonably necessary to accomplish the duties, functions and powers of the
+34 department.
+35 (d) Contain a transactional stamp to ensure accuracy, provide for
+36 chain of custody of the information and foreclose tampering of the data,
+37 human error or intentional misreporting.
+38 5. Tracking, testing, labeling consistent with section 36-2854.01
+39 and packaging marijuana and marijuana products, including requirements
+40 that marijuana and marijuana products be:
+41 (a) Sold to consumers in clearly and conspicuously labeled
+42 containers that contain accurate warnings regarding the use of marijuana
+43 or marijuana products.
+44 (b) Placed in child-resistant packaging on exit from a marijuana
+45 establishment.
+46 6. Forms of government-issued identification that are acceptable by
+47 a marijuana establishment verifying a consumer's age and procedures
+-4-
+
+House Amendments to S.B. 1128
+1 related to verifying a consumer's age consistent with section 4-241.
+2 Until the department adopts final rules related to verifying a consumer's
+3 age, marijuana establishments shall comply with the proof of legal age
+4 requirements prescribed in section 4-241.
+5 7. The potency of edible marijuana products that may be sold to
+6 consumers by marijuana establishments at reasonable levels on
+7 consideration of industry standards, except that the rules:
+8 (a) Shall limit the strength of edible marijuana products to not
+9 more than ten milligrams of tetrahydrocannabinol per serving or one
+10 hundred milligrams of tetrahydrocannabinol per package.
+11 (b) Shall require that if a marijuana product contains more than
+12 one serving, it must be delineated or scored into standard serving sizes
+13 and homogenized to ensure uniform disbursement throughout the marijuana
+14 product.
+15 8. Ensuring the health, safety and training of employees of
+16 marijuana establishments and marijuana testing facilities.
+17 9. The creation and implementation of a social equity ownership
+18 program to promote the ownership and operation of marijuana establishments
+19 and marijuana testing facilities by individuals from communities
+20 disproportionately impacted by the enforcement of previous marijuana laws.
+21 10. Prohibiting a marijuana testing facility from having any direct
+22 or indirect familial relationship with or financial ownership interest in
+23 a marijuana establishment or related marijuana business entity or
+24 management company. The rules shall include prohibiting a marijuana
+25 establishment from having any direct or indirect familial relationship
+26 with or financial ownership interest in a marijuana testing facility or
+27 related marijuana business entity or management company.
+28 11. Requiring marijuana establishments to display in a conspicuous
+29 location a sign that warns pregnant women about the potential dangers to
+30 fetuses caused by smoking or ingesting marijuana while pregnant or to
+31 infants while breastfeeding and the risk of being reported to the
+32 department of child safety during pregnancy or at the birth of the child
+33 by persons who are required to report. The rules shall include the
+34 specific warning language that must be included on the sign. The cost and
+35 display of the sign required by rule shall be borne by the marijuana
+36 establishment.
+37 B. The department may:
+38 1. Subject to title 41, chapter 6, article 10, deny any application
+39 submitted or deny, suspend or revoke, in whole or in part, any
+40 registration or license issued under this chapter if the registered or
+41 licensed party or an officer, agent or employee of the registered or
+42 licensed party does any of the following:
+43 (a) Violates this chapter or any rule adopted pursuant to this
+44 chapter.
+45 (b) Has been, is or may continue to be in substantial violation of
+46 the requirements for licensing or registration and, as a result, the
+47 health or safety of the general public is in immediate danger.
+-5-
+
+House Amendments to S.B. 1128
+1 2. Subject to title 41, chapter 6, article 10, and unless another
+2 penalty is provided elsewhere in this chapter, assess a civil penalty
+3 against a person that violates this chapter or any rule adopted pursuant
+4 to this chapter in an amount not to exceed $2,000 for each violation.
+5 Each day a violation occurs constitutes a separate violation. In
+6 determining the amount of a civil penalty assessed against a person, the
+7 department shall consider all of the factors set forth in section 36-2816,
+8 subsection H. All civil penalties collected by the department pursuant to
+9 this paragraph shall be deposited in the smart and safe Arizona fund
+10 established by section 36-2856.
+11 3. At any time during regular hours of operation, visit and inspect
+12 a marijuana establishment, marijuana testing facility or dual licensee to
+13 determine if it complies with this chapter and rules adopted pursuant to
+14 this chapter. The department shall make at least one unannounced visit
+15 annually to each facility licensed pursuant to this chapter.
+16 4. Adopt any other rules that are not expressly stated in this
+17 section and that are necessary to ensure the safe and responsible
+18 cultivation, sale, processing, manufacture, testing and transport of
+19 marijuana and marijuana products.
+20 C. Until the department adopts rules allowing and regulating
+21 delivery by marijuana establishments pursuant to subsection D of this
+22 section, delivery is unlawful under this chapter.
+23 D. On or after January 1, 2023, the department may, and not later
+24 than January 1, 2025 the department shall, adopt rules to allow and
+25 regulate delivery by marijuana establishments. The rules shall:
+26 1. Require that delivery and the marijuana and marijuana products
+27 to be delivered originate from a designated retail location of a marijuana
+28 establishment and only after an order is made with the marijuana
+29 establishment by a consumer. The rules may not limit the distance between
+30 the delivery location and the originating designated retail location of
+31 the marijuana establishment.
+32 2. Prohibit delivery to any property owned or leased by the United
+33 States, this state, a political subdivision of this state or the Arizona
+34 board of regents.
+35 3. Limit the amount of marijuana and marijuana products based on
+36 retail price that may be in a delivery vehicle during a single trip from
+37 the designated retail location of a marijuana establishment.
+38 4. Prohibit extra or unallocated marijuana or marijuana products in
+39 delivery vehicles.
+40 5. Require that deliveries be made only by marijuana facility
+41 agents in unmarked vehicles that are equipped with a global positioning
+42 system or similar location tracking system and video surveillance and
+43 recording equipment, and that contain a locked compartment in which
+44 marijuana and marijuana products must be stored. The rules may not limit
+45 the number of vehicles that a marijuana establishment may use for
+46 delivery.
+-6-
+
+House Amendments to S.B. 1128
+1 6. Require delivery logs necessary to ensure compliance with this
+2 subsection and rules adopted pursuant to this subsection.
+3 7. Require inspections to ensure compliance with this subsection
+4 and rules adopted pursuant to this subsection.
+5 8. Include any other provisions necessary to ensure safe and
+6 restricted delivery.
+7 9. Require dual licensees to comply with the rules adopted pursuant
+8 to this subsection.
+9 E. Except as provided in subsection D of this section, the
+10 department may not allow delivery of marijuana or marijuana products under
+11 this chapter by any individual or entity. In addition to any other
+12 penalty imposed by law, an individual or entity that delivers marijuana or
+13 marijuana products in a manner that is not authorized by this chapter
+14 shall pay a civil penalty of $20,000 per violation to the smart and safe
+15 Arizona fund established by section 36-2856. This subsection may be
+16 enforced by the attorney general.
+17 F. All rules adopted by the department pursuant to this section
+18 shall be consistent with the purpose of this chapter.
+19 G. The department may not adopt any rule that:
+20 1. Prohibits the operation of marijuana establishments, either
+21 expressly or through requirements that make the operation of a marijuana
+22 establishment unduly burdensome.
+23 2. Prohibits or interferes with the ability of a dual licensee to
+24 operate a marijuana establishment and a nonprofit medical marijuana
+25 dispensary at shared locations.
+26 H. Notwithstanding section 41-192, the department may employ legal
+27 counsel and make an expenditure or incur an indebtedness for legal
+28 services for the purposes of:
+29 1. Defending this chapter or rules adopted pursuant to this
+30 chapter.
+31 2. Defending chapter 28.1 of this title or rules adopted pursuant
+32 to chapter 28.1 of this title.
+33 I. The department shall deposit all license fees, application fees
+34 and renewal fees paid to the department pursuant to this chapter in the
+35 smart and safe Arizona fund established by section 36-2856.
+36 J. On request, the department of health services shall share with
+37 the department of revenue information regarding a marijuana establishment,
+38 marijuana testing facility or dual licensee, including its name, physical
+39 address, cultivation site and transaction privilege tax license number.
+40 K. Notwithstanding any other law, the department may:
+41 1. License an independent third-party laboratory to also operate as
+42 a marijuana testing facility.
+43 2. Operate a marijuana testing facility.
+44 L. The department shall maintain and publish a current list of all
+45 marijuana establishments and marijuana testing facilities by name and
+46 license number.
+-7-
+
+House Amendments to S.B. 1128
+1 M. Notwithstanding any other law, the issuance of an occupational,
+2 professional or other regulatory license or certification to a person by a
+3 jurisdiction or regulatory authority outside this state does not entitle
+4 that person to be issued a marijuana establishment license, a marijuana
+5 testing facility license, or any other license, registration or
+6 certification under this chapter.
+7 N. Until the department adopts rules as required by subsection A,
+8 paragraph 10 of this section:
+9 1. A marijuana testing facility is prohibited from having any
+10 direct or indirect familial relationship with or financial ownership
+11 interest in a marijuana establishment or related marijuana business entity
+12 or management company.
+13 2. A marijuana establishment is prohibited from having any direct
+14 or indirect familial relationship with or financial ownership interest in
+15 a marijuana testing facility or related marijuana business entity or
+16 management company.
+17 Sec. 3. Subject to the requirements of article IV, part 1,
+18 section 1, Constitution of Arizona, title 36, chapter 28.2, Arizona
+19 Revised Statutes, is amended by adding section 36-2857.01, to read:
+20 36-2857.01. Rural opportunity initiative; applicant
+21 requirements; opt out; department notification;
+22 fees; posting requirements; definitions
+23 A. THE RURAL OPPORTUNITY INITIATIVE IS ESTABLISHED TO CREATE TAX
+24 REVENUE AND ECONOMIC OPPORTUNITIES FOR UNSERVED RURAL COMMUNITIES THROUGH
+25 THE ISSUANCE OF NOT MORE THAN EIGHTEEN MARIJUANA ESTABLISHMENT LICENSES
+26 PURSUANT TO SECTION 36-2854, SUBSECTION A, PARAGRAPH 1, SUBDIVISION (g)
+27 AND NOT MORE THAN EIGHTEEN NONPROFIT MEDICAL MARIJUANA DISPENSARY
+28 REGISTRATION CERTIFICATES PURSUANT TO SECTION 36-2803.01, SUBSECTION E, TO
+29 CREATE NOT MORE THAN EIGHTEEN ADDITIONAL DUAL LICENSEES.
+30 B. THE DEPARTMENT MAY ESTABLISH MINISTERIAL TEMPLATES AND
+31 ELECTRONIC SUBMISSION SYSTEMS TO ACCEPT FILINGS UNDER THIS SECTION. ANY
+32 TEMPLATE OR ELECTRONIC FORMAT MAY REQUEST ONLY THE INFORMATION AND
+33 DOCUMENTATION EXPRESSLY REQUIRED BY THIS SECTION.
+34 C. THE DEPARTMENT SHALL POST AND MAINTAIN ON THE DEPARTMENT'S
+35 PUBLIC WEBSITE ALL OF THE FOLLOWING:
+36 1. A CURRENT LIST OF UNSERVED RURAL COMMUNITIES THAT HAVE OPTED OUT
+37 UNDER SUBSECTION D OF THIS SECTION.
+38 2. A CURRENT LIST OF UNSERVED RURAL COMMUNITIES FOR WHICH THE
+39 DEPARTMENT HAS ISSUED A LICENSE UNDER THIS SECTION.
+40 3. INSTRUCTIONS FOR SUBMITTING AN OPT-OUT ACTION AND FOR SUBMITTING
+41 AN APPLICATION UNDER THIS SECTION.
+42 4. AFTER EIGHTEEN MARIJUANA ESTABLISHMENT LICENSES HAVE BEEN ISSUED
+43 PURSUANT TO SECTION 36-2854, SUBSECTION A, PARAGRAPH 1, SUBDIVISION (g), A
+44 NOTICE THAT NO ADDITIONAL LICENSES ARE AVAILABLE UNDER THE RURAL
+45 OPPORTUNITY INITIATIVE.
+-8-
+
+House Amendments to S.B. 1128
+1 D. EXCEPT AS PROVIDED IN PARAGRAPH 3 OF THIS SUBSECTION, AN
+2 UNSERVED RURAL COMMUNITY MAY OPT OUT OF THE RURAL OPPORTUNITY INITIATIVE
+3 AS FOLLOWS:
+4 1. A CITY OR TOWN MAY OPT OUT OF PARTICIPATION IN THE RURAL
+5 OPPORTUNITY INITIATIVE BY SUBMITTING TO THE DEPARTMENT A CERTIFIED COPY OF
+6 A RESOLUTION OR ORDINANCE ADOPTED BY THE CITY OR TOWN GOVERNING BODY THAT
+7 STATES THE CITY'S OR TOWN'S INTENT TO OPT OUT.
+8 2. A COUNTY MAY OPT OUT OF PARTICIPATION IN THE RURAL OPPORTUNITY
+9 INITIATIVE ON BEHALF OF A CENSUS-DESIGNATED AREA IN THE COUNTY, BUT NOT ON
+10 BEHALF OF A CITY OR TOWN, BY SUBMITTING TO THE DEPARTMENT A CERTIFIED COPY
+11 OF A RESOLUTION ADOPTED BY THE BOARD OF SUPERVISORS THAT STATES THE
+12 COUNTY'S INTENT TO OPT OUT ON BEHALF OF THE CENSUS-DESIGNATED AREA.
+13 3. THE ACTION TAKEN BY A CITY, TOWN OR COUNTY, ON BEHALF OF A
+14 CENSUS-DESIGNATED AREA, TO OPT OUT OF PARTICIPATION IN THE RURAL
+15 OPPORTUNITY INITIATIVE IS EFFECTIVE FOR THE PURPOSES OF THIS SECTION ONLY
+16 IF RECEIVED BY THE DEPARTMENT AT LEAST ONE MONTH BEFORE THE DEPARTMENT
+17 ACCEPTS APPLICATIONS PURSUANT TO SECTION 36-2854, SUBSECTION A, PARAGRAPH
+18 1, SUBDIVISION (g). AN ACTION TAKEN BY A CITY, TOWN OR COUNTY TO OPT OUT
+19 OF PARTICIPATION IN THE RURAL OPPORTUNITY INITIATIVE THAT IS RECEIVED LESS
+20 THAN ONE MONTH BEFORE THE DEPARTMENT ACCEPTS APPLICATIONS PURSUANT TO
+21 SECTION 36-2854, SUBSECTION A, PARAGRAPH 1, SUBDIVISION (g) IS NOT VALID
+22 AND DOES NOT AFFECT THE VALIDITY OF A LICENSE OR REGISTRATION CERTIFICATE
+23 THAT IS ISSUED DURING THE APPLICATION PERIOD THAT STARTS ONE MONTH AFTER
+24 THE DEADLINE.
+25 E. BEGINNING APRIL 1, 2027 THROUGH APRIL 14, 2027, THE DEPARTMENT
+26 SHALL ACCEPT APPLICATIONS FOR MARIJUANA ESTABLISHMENT LICENSES PURSUANT TO
+27 SECTION 36-2854, SUBSECTION A, PARAGRAPH 1, SUBDIVISION (g) ONLY THROUGH
+28 AN ELECTRONIC SUBMISSION SYSTEM THAT TIME-STAMPS EACH SUBMISSION TO THE
+29 SECOND AND PROVIDES THE APPLICANT WITH AN ELECTRONIC RECEIPT. IF FEWER
+30 THAN EIGHTEEN LICENSES ARE ISSUED PURSUANT TO APPLICATIONS SUBMITTED IN
+31 2027, THE DEPARTMENT SHALL ACCEPT APPLICATIONS AGAIN ONE YEAR AFTER THE
+32 FINAL LICENSE IS ISSUED FROM THE APPLICATIONS SUBMITTED DURING 2027.
+33 F. TO APPLY FOR A MARIJUANA ESTABLISHMENT LICENSE PURSUANT TO
+34 SECTION 36-2854, SUBSECTION A, PARAGRAPH 1, SUBDIVISION (g), AN APPLICANT
+35 SHALL SUBMIT ALL OF THE FOLLOWING INFORMATION TO THE DEPARTMENT IN A
+36 FORMAT PRESCRIBED BY THE DEPARTMENT:
+37 1. THE APPLICANT'S:
+38 (a) LEGAL NAME.
+39 (b) MAILING ADDRESS IN THIS STATE.
+40 (c) TELEPHONE NUMBER.
+41 (d) EMAIL ADDRESS.
+42 2. THE BUSINESS ORGANIZATION TYPE OF THE APPLICANT AND THE STATE OR
+43 JURISDICTION OF FORMATION, IF APPLICABLE.
+44 3. THE PHYSICAL ADDRESS OF THE PROPOSED RETAIL LOCATION AND THE
+45 COUNTY IN WHICH THE PROPOSED RETAIL LOCATION IS LOCATED.
+46 4. THE IDENTIFICATION OF THE UNSERVED RURAL COMMUNITY THE APPLICANT
+47 SEEKS TO SERVE.
+-9-
+
+House Amendments to S.B. 1128
+1 5. THE NAME, RESIDENCE ADDRESS, DATE OF BIRTH, TITLE OR POSITION,
+2 AND CONTACT INFORMATION OF EACH PRINCIPAL OFFICER AND EACH BOARD MEMBER OF
+3 THE APPLICANT.
+4 6. THE NAME, RESIDENCE ADDRESS AND DATE OF BIRTH, IF APPLICABLE, OF
+5 ANY PERSON WHO IS ENTITLED TO A SHARE OF AT LEAST TEN PERCENT OF THE
+6 PROFITS OF THE APPLICANT. AN APPLICATION MAY NOT REQUIRE THE DISCLOSURE
+7 OF THE IDENTITY OF ANY PERSON WHO IS ENTITLED TO A SHARE OF LESS THAN TEN
+8 PERCENT OF THE PROFITS OF AN APPLICANT THAT IS A PUBLICLY TRADED
+9 CORPORATION.
+10 7. THE NAME AND MAILING ADDRESS OF A REFUND RECIPIENT WHO MAY BE AN
+11 INDIVIDUAL RESIDING IN THIS STATE, INCLUDING A STATUTORY AGENT IN THIS
+12 STATE OR AN ATTORNEY WHO IS LICENSED IN THIS STATE AND WHO MAINTAINS A
+13 TRUST ACCOUNT, TO RECEIVE A REFUND THAT MAY BE PROVIDED UNDER SUBSECTION J
+14 OF THIS SECTION.
+15 8. WHETHER THE APPLICANT AGREES TO ALLOW THE DEPARTMENT TO SUBMIT
+16 SUPPLEMENTAL REQUESTS FOR INFORMATION.
+17 9. AN ATTESTATION, SIGNED UNDER PENALTY OF PERJURY BY A PRINCIPAL
+18 OFFICER, THAT:
+19 (a) THE APPLICANT AND EACH PERSON IDENTIFIED PURSUANT TO PARAGRAPH
+20 5 OR 6 OF THIS SUBSECTION HAS NOT BEEN CONVICTED OF AN EXCLUDED FELONY
+21 OFFENSE.
+22 (b) THE APPLICANT AND EACH PERSON IDENTIFIED PURSUANT TO PARAGRAPH
+23 5 OR 6 OF THIS SUBSECTION DOES NOT HAVE AN OWNERSHIP INTEREST IN AN
+24 OUT-OF-STATE MARIJUANA ESTABLISHMENT, MARIJUANA TESTING FACILITY OR
+25 SIMILAR ENTITY THAT HAS HAD ITS LICENSE TO POSSESS MARIJUANA FOR
+26 COMMERCIAL PURPOSES REVOKED.
+27 (c) THE APPLICANT UNDERSTANDS AND WILL COMPLY WITH THE REQUIREMENTS
+28 OF THIS CHAPTER AND CHAPTER 28.1 OF THIS TITLE AND THE DEPARTMENT'S RULES
+29 FOR ADMINISTERING THIS CHAPTER AND CHAPTER 28.1 OF THIS TITLE, INCLUDING
+30 THE PROHIBITION ON RELOCATING THE RETAIL LOCATION THAT IS ASSOCIATED WITH
+31 A LICENSE ISSUED UNDER THIS SECTION TO A GEOGRAPHIC AREA THAT DOES NOT
+32 QUALIFY AS AN UNSERVED RURAL COMMUNITY.
+33 (d) THE APPLICANT WAIVES AND RELEASES TO THE FULLEST EXTENT ALLOWED
+34 BY LAW ANY CLAIM AGAINST THIS STATE, THE DEPARTMENT AND THE DEPARTMENT'S
+35 OFFICERS, EMPLOYEES AND AGENTS FOR MONETARY DAMAGES, ATTORNEY FEES AND
+36 COSTS RESULTING FROM OR RELATING TO THE APPLICATION OR OTHER ACTIONS UNDER
+37 THIS SECTION WITHOUT LIMITING THE APPLICANT'S RIGHT TO SEEK ADMINISTRATIVE
+38 OR JUDICIAL REVIEW OF A FINAL ADMINISTRATIVE DECISION PURSUANT TO TITLE
+39 41, CHAPTER 6, ARTICLE 10.
+40 (e) THE INFORMATION SUBMITTED IS TRUE, COMPLETE AND NOT MISLEADING.
+41 G. IN ADDITION TO THE INFORMATION REQUIRED BY SUBSECTION F OF THIS
+42 SECTION, AN APPLICANT SHALL SUBMIT DOCUMENTATION OF ALL OF THE FOLLOWING
+43 FOR THE PROPOSED RETAIL LOCATION:
+44 1. FOR EACH PRINCIPAL OFFICER AND EACH BOARD MEMBER OF THE
+45 APPLICANT, DOCUMENTATION OF THE PRINCIPAL OFFICER'S OR BOARD MEMBER'S
+46 MARIJUANA FACILITY AGENT LICENSE.
+-10-
+
+House Amendments to S.B. 1128
+1 2. DOCUMENTATION THAT THE APPLICANT IS IN GOOD STANDING WITH THE
+2 CORPORATION COMMISSION, IF APPLICABLE.
+3 3. DOCUMENTATION IN A FORM PRESCRIBED BY THE DEPARTMENT THAT IS
+4 ENTITLED "DOCUMENTATION OF PROPERTY OWNERSHIP FOR RURAL OPPORTUNITY
+5 INITIATIVE APPLICATIONS" FROM THE OWNER OR AUTHORIZED LEGAL REPRESENTATIVE
+6 OF THE OWNER OF THE PROPERTY INTENDED TO SERVE AS THE APPLICANT'S RETAIL
+7 LOCATION THAT:
+8 (a) AUTHORIZES USE OF THE PROPERTY AS A MARIJUANA RETAIL LOCATION
+9 OPERATING PURSUANT TO BOTH A MARIJUANA ESTABLISHMENT LICENSE AND A
+10 NONPROFIT MEDICAL MARIJUANA DISPENSARY REGISTRATION CERTIFICATE.
+11 (b) CONTAINS AN ATTESTATION UNDER PENALTY OF PERJURY THAT THE
+12 PROPERTY OWNER OR AUTHORIZED LEGAL REPRESENTATIVE OF THE PROPERTY OWNER,
+13 AS APPLICABLE, HAS NOT EXECUTED DOCUMENTATION IN THE SAME
+14 DEPARTMENT-PRESCRIBED FORMAT THAT AUTHORIZES ANOTHER PERSON TO USE THE
+15 PROPERTY AS A MARIJUANA RETAIL LOCATION AND HAS NOT AGREED TO PROVIDE
+16 ANOTHER INDIVIDUAL WITH A RIGHT TO USE THE PROPERTY IDENTIFIED IN THE
+17 DOCUMENTATION IN CONNECTION WITH AN APPLICATION PURSUANT TO THIS SECTION.
+18 (c) IS SIGNED, NOTARIZED AND DATED NOT MORE THAN SIXTY DAYS BEFORE
+19 THE APPLICATION IS SUBMITTED.
+20 4. WRITTEN DOCUMENTATION ISSUED BY THE LOCAL JURISDICTION WITH LAND
+21 USE AUTHORITY OVER THE PROPOSED RETAIL LOCATION SHOWING THAT THE PROPOSED
+22 RETAIL LOCATION COMPLIES WITH LOCAL ZONING RESTRICTIONS APPLICABLE TO A
+23 MARIJUANA RETAIL LOCATION OF A DUAL LICENSEE.
+24 H. THE DEPARTMENT SHALL REVIEW AND APPROVE OR DENY APPLICATIONS FOR
+25 MARIJUANA ESTABLISHMENT LICENSES PURSUANT TO SECTION 36-2854, SUBSECTION
+26 A, PARAGRAPH 1, SUBDIVISION (g) AS FOLLOWS:
+27 1. WITHIN THIRTY WORKING DAYS AFTER RECEIVING AN APPLICATION, THE
+28 DEPARTMENT SHALL EITHER:
+29 (a) PROVIDE THE APPLICANT WITH WRITTEN NOTICE THAT THE APPLICATION
+30 IS ADMINISTRATIVELY COMPLETE AND HAS ENTERED SUBSTANTIVE REVIEW.
+31 (b) PROVIDE THE APPLICANT WITH WRITTEN NOTICE OF ANY DEFICIENCIES
+32 IN THE APPLICATION, INCLUDING A LIST OF THE INFORMATION OR DOCUMENTS
+33 REQUIRED BY THIS SECTION THAT ARE MISSING OR INCOMPLETE.
+34 2. AN APPLICANT SHALL SUBMIT ANY MISSING OR INCOMPLETE INFORMATION
+35 OR DOCUMENTS IDENTIFIED IN A NOTICE OF DEFICIENCIES NOT LATER THAN TEN
+36 WORKING DAYS AFTER RECEIVING THE NOTICE. IF THE APPLICANT FAILS TO DO SO,
+37 THE APPLICATION IS DENIED.
+38 3. AN APPLICATION IS CONSIDERED ADMINISTRATIVELY COMPLETE UNDER
+39 THIS SECTION ONLY IF THE APPLICANT HAS SUBMITTED ALL INFORMATION AND
+40 DOCUMENTATION REQUIRED BY SUBSECTIONS F AND G OF THIS SECTION. THE
+41 DEPARTMENT SHALL PLACE ADMINISTRATIVELY COMPLETE APPLICATIONS IN A QUEUE
+42 FOR SUBSTANTIVE REVIEW AND SHALL CONDUCT THE SUBSTANTIVE REVIEW IN THE
+43 ORDER IN WHICH THE ADMINISTRATIVELY COMPLETE APPLICATIONS ARE RECEIVED
+44 BASED ON THE TIME STAMP PRESCRIBED IN SUBSECTION E OF THIS SECTION,
+45 STARTING WITH THE FIRST APPLICATION THAT WAS SUBMITTED, WHEN THE
+46 APPLICATION HAS BEEN DETERMINED TO BE ADMINISTRATIVELY COMPLETE OR WHEN
+47 THE TIME FOR REVIEW AND APPEAL HAS EXPIRED.
+-11-
+
+House Amendments to S.B. 1128
+1 4. FOR THE PURPOSES OF DETERMINING ELIGIBILITY UNDER THIS SECTION,
+2 INCLUDING WHETHER THE COMMUNITY THAT IS IDENTIFIED PURSUANT TO SUBSECTION
+3 F, PARAGRAPH 4 OF THIS SECTION IS AN UNSERVED RURAL COMMUNITY AND WHETHER
+4 THE PROPOSED RETAIL LOCATION COMPLIES WITH SUBSECTION L OF THIS SECTION,
+5 THE DEPARTMENT SHALL DETERMINE COMPLIANCE BASED ON THE FACTS AND
+6 CIRCUMSTANCES THAT EXIST AT THE TIME THE DEPARTMENT PROVIDES WRITTEN
+7 NOTICE THAT THE APPLICATION HAS ENTERED SUBSTANTIVE REVIEW.
+8 5. THE DEPARTMENT SHALL CONDUCT A SUBSTANTIVE REVIEW OF
+9 LATER-RECEIVED APPLICATIONS ONLY IF BEGINNING AN APPLICATION'S SUBSTANTIVE
+10 REVIEW DOES NOT CAUSE AN EARLIER-RECEIVED APPLICATION WHOSE REVIEW OR
+11 APPEAL IS ONGOING TO BECOME INELIGIBLE DUE TO THE LOCATION OF THE
+12 APPLICANTS' PROPOSED MARIJUANA RETAIL LOCATIONS OR THE NUMBER OF LICENSES
+13 REMAINING TO BE ISSUED PURSUANT TO THE RURAL OPPORTUNITY INITIATIVE.
+14 6. IF TWO OR MORE APPLICATIONS BEGIN SUBSTANTIVE REVIEW AT THE SAME
+15 TIME DUE TO THEIR ELECTRONIC TIME STAMPS AND THE APPLICATIONS EITHER SEEK
+16 TO OPERATE MARIJUANA RETAIL LOCATIONS WITHIN TWENTY-FIVE MILES OF EACH
+17 OTHER OR EXCEED THE NUMBER OF LICENSES REMAINING TO BE ISSUED PURSUANT TO
+18 THE RURAL OPPORTUNITY INITIATIVE, THE DEPARTMENT SHALL CONDUCT A RANDOM
+19 DRAWING BETWEEN THE APPLICATIONS AT A PUBLICLY NOTICED PROCEEDING WITHIN
+20 TEN WORKING DAYS AFTER THE TIE IS IDENTIFIED. THE DEPARTMENT SHALL POST
+21 THE RESULT ON ITS PUBLIC WEBSITE WITHIN ONE WORKING DAY AFTER THE DRAWING.
+22 7. WITHIN SIXTY WORKING DAYS AFTER THE DEPARTMENT PROVIDES WRITTEN
+23 NOTICE TO AN APPLICANT THAT THE APPLICATION HAS ENTERED SUBSTANTIVE
+24 REVIEW, THE DEPARTMENT SHALL APPROVE THE APPLICATION AND ISSUE THE LICENSE
+25 REQUIRED BY THIS SECTION OR SHALL DENY THE APPLICATION WITH A WRITTEN
+26 STATEMENT OF THE SPECIFIC REASONS FOR DENIAL AND THE STATUTORY BASIS FOR
+27 EACH REASON. A DENIAL MAY BE APPEALED PURSUANT TO TITLE 41, CHAPTER 6,
+28 ARTICLE 10.
+29 I. NOTWITHSTANDING TITLE 41, CHAPTER 6, ARTICLE 7.1 OR ANY OTHER
+30 LAW, THE DEPARTMENT MAY DEFER THE COMMENCEMENT OF SUBSTANTIVE REVIEW FOR
+31 AN ADMINISTRATIVELY COMPLETE APPLICATION UNTIL THE APPLICATION REACHES THE
+32 FRONT OF THE QUEUE PRESCRIBED IN SUBSECTION H, PARAGRAPH 3 OF THIS
+33 SECTION.
+34 J. THE DEPARTMENT MAY ESTABLISH AN APPLICATION FEE FOR MARIJUANA
+35 ESTABLISHMENT LICENSE APPLICATIONS SUBMITTED PURSUANT TO THIS SECTION.
+36 THE DEPARTMENT MAY REFUND A PORTION OF THE APPLICATION FEE TO AN APPLICANT
+37 THAT DOES NOT RECEIVE A LICENSE PURSUANT TO SUBSECTION H, PARAGRAPH 7 OF
+38 THIS SECTION.
+39 K. NOTWITHSTANDING ANY OTHER PROVISION OF THIS CHAPTER OR CHAPTER
+40 28.1 OF THIS TITLE, EACH ENTITY THAT IS ISSUED A MARIJUANA ESTABLISHMENT
+41 LICENSE PURSUANT TO SECTION 36-2854, SUBSECTION A, PARAGRAPH 1,
+42 SUBDIVISION (g) AND A NONPROFIT MEDICAL MARIJUANA DISPENSARY REGISTRATION
+43 CERTIFICATE PURSUANT TO SECTION 36-2803.01, SUBSECTION E:
+44 1. IS NOT REQUIRED TO OPERATE THE ENTITY'S RETAIL LOCATION FOR MORE
+45 THAN TWENTY-FOUR HOURS EACH WEEK.
+46 2. SHALL OPEN THE ENTITY'S RETAIL LOCATION WITHIN EIGHTEEN MONTHS
+47 AFTER BEING ISSUED A MARIJUANA ESTABLISHMENT LICENSE PURSUANT TO SECTION
+-12-
+
+House Amendments to S.B. 1128
+1 36-2854, SUBSECTION A, PARAGRAPH 1, SUBDIVISION (g), OR THE MARIJUANA
+2 ESTABLISHMENT LICENSE BECOMES INVALID.
+3 3. MAY MOVE ITS RETAIL LOCATION ONLY TO ANOTHER UNSERVED RURAL
+4 COMMUNITY THAT HAS NOT OPTED OUT OF THE RURAL OPPORTUNITY INITIATIVE
+5 PURSUANT TO THIS SECTION BY SUBMITTING AN APPLICATION TO THE DEPARTMENT
+6 THAT INCLUDES THE DOCUMENTATION REQUIRED BY SUBSECTION G OF THIS SECTION.
+7 L. THE PROPOSED RETAIL LOCATION IDENTIFIED IN AN APPLICATION UNDER
+8 THIS SECTION:
+9 1. MUST BE LOCATED WITHIN THE BOUNDARIES OF THE UNSERVED RURAL
+10 COMMUNITY THE APPLICANT SEEKS TO SERVE.
+11 2. MUST BE LOCATED ON A PARCEL THAT IS AT LEAST TWENTY-FIVE MILES
+12 FROM A MARIJUANA RETAIL LOCATION AS MEASURED FROM THE CLOSEST POINTS OF
+13 BOTH PROPERTIES.
+14 3. MAY NOT BE LOCATED IN UNINCORPORATED TERRITORY THAT IS
+15 SURROUNDED ON ALL SIDES BY AN INDIAN RESERVATION.
+16 M. THIS STATE AND ITS AGENCIES, EMPLOYEES AND AGENTS ARE NOT LIABLE
+17 FOR RELYING IN GOOD FAITH ON INFORMATION OR DOCUMENTATION THAT IS
+18 SUBMITTED OR PROVIDED PURSUANT TO THIS SECTION, INCLUDING PROPERTY OWNER
+19 CONSENT SUBMITTED PURSUANT TO SUBSECTION G, PARAGRAPH 3 OF THIS SECTION,
+20 LOCAL ZONING DOCUMENTATION SUBMITTED PURSUANT TO SUBSECTION G, PARAGRAPH 4
+21 OF THIS SECTION AND AN OPT OUT ACTION SUBMITTED PURSUANT TO SUBSECTION D
+22 OF THIS SECTION. THE DEPARTMENT DOES NOT OWE A DUTY TO ANY PERSON TO
+23 INDEPENDENTLY VERIFY THE INFORMATION OR DOCUMENTATION EXCEPT AS EXPRESSLY
+24 REQUIRED BY THIS SECTION. THE DEPARTMENT IS NOT LIABLE FOR ANY ERROR OR
+25 OMISSION IN A LIST POSTED PURSUANT TO SUBSECTION C OF THIS SECTION.
+26 N. FOR THE PURPOSES OF THIS SECTION:
+27 1. "BOARD MEMBER" HAS THE SAME MEANING PRESCRIBED IN RULES ADOPTED
+28 BY THE DEPARTMENT TO IMPLEMENT THIS CHAPTER AND CHAPTER 28.1 OF THIS
+29 TITLE.
+30 2. "PRINCIPAL OFFICER" HAS THE SAME MEANING PRESCRIBED IN RULES
+31 ADOPTED BY THE DEPARTMENT TO IMPLEMENT THIS CHAPTER AND CHAPTER 28.1 OF
+32 THIS TITLE.
+33 3. "QUALIFIED APPLICANT" MEANS AN ENTITY THAT SUBMITS A COMPLETE
+34 APPLICATION THAT SATISFIES ALL REQUIREMENTS OF THIS SECTION.
+35 4. "UNSERVED RURAL COMMUNITY":
+36 (a) MEANS A CITY, TOWN OR CENSUS-DESIGNATED AREA THAT HAS A
+37 POPULATION OF LESS THAN FIFTY THOUSAND PERSONS AND CONTAINS ONE OR MORE
+38 PARCELS OF PROPERTY THAT ARE AT LEAST TWENTY-FIVE MILES FROM ANOTHER
+39 MARIJUANA RETAIL LOCATION, AS MEASURED FROM THE CLOSEST POINTS OF BOTH
+40 PROPERTIES.
+41 (b) DOES NOT INCLUDE UNINCORPORATED TERRITORY THAT IS SURROUNDED ON
+42 ALL SIDES BY AN INDIAN RESERVATION.
+43 5. "WORKING DAY" MEANS MONDAY THROUGH FRIDAY, EXCLUDING STATE
+44 HOLIDAYS AND STATEWIDE FURLOUGH DAYS.
+45 Sec. 4. Requirements for enactment; three-fourths vote
+46 Pursuant to article IV, part 1, section 1, Constitution of Arizona,
+47 sections 36-2803.01 and 36-2854, Arizona Revised Statutes, as amended by
+-13-
+
+House Amendments to S.B. 1128
+1 this act, and section 36-2857.01, Arizona Revised Statutes, as added by
+2 this act, are effective only on the affirmative vote of at least
+3 three-fourths of the members of each house of the legislature."
+4 Amend title to conform
+And, as so amended, it do pass
+DAVID LIVINGSTON
+CHAIRMAN
+1128APPROPRIATIONS.docx
+03/31/2026
+02:52 PM
+C: MH
+130EXSPUW
+-14-

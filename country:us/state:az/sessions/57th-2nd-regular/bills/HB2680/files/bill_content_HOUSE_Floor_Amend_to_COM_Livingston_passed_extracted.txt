@@ -1,0 +1,144 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to COM - Livingston - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2680: worker's compensation; notice; fraud; commission
+LIVINGSTON FLOOR AMENDMENT
+1. Removes language requiring specified information be included in a certificate
+of insurance.
+2. Requires, for any construction related workers' compensation policy with zero
+estimated exposure, any certificate of insurance to contain a specified
+statement.
+3. Applies the zero estimated exposure policy requirements to zero estimated
+exposure polices and any related certificates of insurance, rather than to
+contracts, entered into or prepared on July 1, 2027.
+4. Includes a conditional enactment clause.
+PAUL BENNY
+3/18/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Livingston
+Second Regular Session H.B. 2680
+LIVINGSTON FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2680
+(Reference to COMMERCE Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 23, chapter 6, article 1, Arizona Revised
+3 Statutes, is amended by adding section 23-911, to read:
+4 23-911. Workers' compensation; proof of insurance; public
+5 database; notice; definition
+6 [A. THE COMMISSION SHALL GENERATE AND MAINTAIN A PUBLICLY
+7 ACCESSIBLE DATABASE THAT CONTAINS AN EMPLOYER'S WORKERS' COMPENSATION
+8 INFORMATION, AND THE DATABASE MUST INCLUDE ALL OF THE FOLLOWING:
+9 1. THE NAME OF THE PERSON THAT IS INSURED.
+10 2. THE NAME OF THE INSURER.
+11 3. THE EXPIRATION DATE OF THE POLICY.
+12 B. THE COMMISSION SHALL MAINTAIN A RECORD OF THE WORKERS'
+13 COMPENSATION POLICIES SOLD BY EACH INSURANCE BROKER OR AGENT.
+14 C. AN INSURER THAT IS LICENSED OR CERTIFIED IN THIS STATE SHALL
+15 PROVIDE BOTH OF THE FOLLOWING TO THE COMMISSION:
+
+House Amendments to H.B. 2680
+1 1. A COPY OF THE DECLARATION PAGE FOR EACH WORKERS' COMPENSATION
+2 POLICY FOR INCLUSION ON THE DATABASE.
+3 2. THE NAME OF THE INSURANCE BROKER OR AGENT THAT SOLD THE WORKERS'
+4 COMPENSATION POLICY.]
+5 {{[D.] [A.] A [declaration page] [CERTIFICATE OF INSURANCE] SHALL
+6 INCLUDE ALL OF THE FOLLOWING:
+7 1. A QUICK-RESPONSE CODE THAT DIRECTS A USER TO THE [WORKERS
+8 COMPENSATION VERIFICATION] DATABASE [as prescribed in subsection A of this
+9 section].
+10 2. THE NUMBER OF EMPLOYEES THAT ARE EMPLOYED BY THE INSURED.
+11 3. THE ESTIMATED PAYROLL AMOUNT PER EMPLOYEE CLASSIFICATION.}}
+12 [E. ON NOTICE BY AN INSURER, THE COMMISSION SHALL INVESTIGATE
+13 ALLEGATIONS OF WORKERS' COMPENSATION OR PREMIUM INSURANCE FRAUD OF AN
+14 INSURED.]
+15 [F.] {{[B.]}} {{A.}} IF AN INSURER ISSUES A ZERO ESTIMATED
+16 EXPOSURE POLICY, THE ZERO ESTIMATED EXPOSURE POLICY SHALL INCLUDE A
+17 STATEMENT SIGNED BY THE APPLICANT THAT ATTESTS TO THE ACCURACY OF THE
+18 INFORMATION PROVIDED IN THE APPLICATION AND THAT THE APPLICANT HAS NO
+19 EMPLOYEES AND AN ESTIMATED EXPOSURE OF ZERO, AS FOLLOWS:
+20 I ATTEST THAT THE INFORMATION PROVIDED ON THIS
+21 APPLICATION IS CURRENT, TRUE, CORRECT, ACCURATE AND COMPLETE
+22 TO THE BEST OF MY KNOWLEDGE AND BELIEF. I FURTHER ATTEST THAT
+23 I DO NOT HAVE ANY EMPLOYEES AND AN ESTIMATED EXPOSURE OF ZERO.
+24 IF I EMPLOY AN EMPLOYEE DURING THE POLICY PERIOD, I WILL
+25 PROVIDE WRITTEN NOTIFICATION TO MY WORKERS' COMPENSATION
+26 INSURER OF THE EMPLOYMENT WITHIN SIXTY DAYS AND WILL INCLUDE
+27 THE ESTIMATED PAYROLL AND CLASSIFICATION CODES OF THE NEW
+28 EMPLOYEE. I UNDERSTAND THAT AN INTENT TO DEFRAUD OR ANY
+29 OMISSION OR MISREPRESENTATION CONTAINED IN THIS APPLICATION IS
+30 UNLAWFUL.
+31 [G.] {{[C.]}} {{B.}} IF AN EMPLOYER THAT PROVIDES BUSINESS
+32 CONSTRUCTION AND IMPROVEMENT SERVICES OBTAINS A ZERO ESTIMATED EXPOSURE
+33 POLICY, THE EMPLOYER SHALL PROVIDE TO EACH ENTITY THAT THE EMPLOYER
+34 DIRECTLY CONTRACTS WITH A COPY OF THE POLICY AND WRITTEN NOTIFICATION THAT
+35 STATES THAT THE EMPLOYER HAS A TOTAL ESTIMATED EXPOSURE OF ZERO. AN
+36 ENTITY THAT RECEIVES WRITTEN NOTICE UNDER THIS SUBSECTION SHALL RETAIN THE
+37 NOTICE AND THE POLICY FOR AT LEAST THREE YEARS AFTER THE DATE OF RECEIPT.
+38 {{C. FOR ANY CONSTRUCTION RELATED WORKERS’ COMPENSATION POLICY WITH
+39 ZERO ESTIMATED EXPOSURE, ANY CERTIFICATE OF INSURANCE REQUESTED SHALL
+40 CONTAIN THE FOLLOWING STATEMENT “TO CONFIRM THE STATUS OF THE WORKERS’
+41 COMPENSATION POLICY, GO TO EWCCV.COM/CVS/”.}}
+42 [H.] [D.] FOR THE PURPOSES OF THIS SECTION, "ZERO ESTIMATED
+43 EXPOSURE POLICY" MEANS AN INSURANCE POLICY THAT IS OBTAINED BY AN EMPLOYER
+44 TO COVER THE EMPLOYER'S LIABILITY TO PAY COMPENSATION AFTER THE EMPLOYER
+45 REPORTS A TOTAL ESTIMATED EXPOSURE OF ZERO.
+46 Sec. 2. Applicability
+47 Section 23-911, Arizona Revised Statutes, as added by this act,
+48 applies to {{contracts}} {{zero estimated exposure policies and any
+-2-
+
+House Amendments to H.B. 2680
+1 related certificates of insurance}} that are entered into {{or prepared}}
+2 on or after {{the effective date of this act}} {{July 1, 2027}}.
+3 ≤≤Sec. 3. Conditional enactment
+4 {{Section 23-911, subsection C, Arizona Revised Statutes, as added
+5 by this act, does not become effective unless permission is granted by the
+6 Association for Cooperative Research and Development allowing insurance
+7 producers to modify the standardized form used in this state.}}≥≥
+8 Enroll and engross to conform
+9 Amend title to conform
+DAVID LIVINGSTON
+2680FloorLIVINGSTON1.docx
+03/09/2026
+03:52 PM
+H: PB/ls
+130MLEQXI
+-3-

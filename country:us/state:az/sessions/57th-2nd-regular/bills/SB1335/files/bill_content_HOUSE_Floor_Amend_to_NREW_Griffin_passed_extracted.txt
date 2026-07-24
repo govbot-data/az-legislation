@@ -1,0 +1,552 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to NREW - Griffin - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1335: water banking; annual report; posting
+GRIFFIN FLOOR AMENDMENT
+1. Expands requirements of the ADWR Director (Director) when issuing
+groundwater savings credits to include:
+a. utilizing of a notice of intent that pledges groundwater savings credits
+to a designation of assured water supply within two years after the
+date the credits are issued; and
+b. allowing the holder of an Irrigation Grandfathered Right (IGFR), if
+receiving written confirmation of relinquishment of the IGFR, to
+continue to irrigate the land consistent with a temporary permit to
+irrigate with groundwater issued by the Director.
+2. Allows a person that applies to relinquish an IGFR in exchange for
+groundwater savings credits to accompany the application with a request
+that the Director issue a temporary permit to irrigate with groundwater on
+relinquishment of the IGFR.
+3. Requires the Director issue to the holder of the groundwater savings credit a
+temporary permit to irrigate with groundwater, if certain conditions are met.
+4. Outlines requirements of a holder of a temporary permit to irrigate with
+groundwater.
+5. Requires the Director, upon application from a holder of groundwater savings
+credits issued prior to the effective date of this legislation, to issue a holder of
+groundwater savings credits a temporary permit to irrigate with groundwater
+that allows the use of groundwater subject to existing regulations.
+6. Prohibits the Director from issuing a temporary permit to irrigate with
+groundwater to a holder of groundwater savings credits that were issued
+prior to the effective date of this legislation if any outlined criteria are met.
+7. Repeals the retroactive issuing ability of the Director on January 1, 2029.
+8. Makes technical and conforming changes.
+CORBIN W.
+6/10/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Griffin
+Second Regular Session S.B. 1335
+GRIFFIN FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1335
+(Reference to NATURAL RESOURCES, ENERGY & WATER S/E Committee amendment)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Strike everything after the enacting clause and insert:
+3 "Section 1. Section 45-465.05, Arizona Revised Statutes, is amended
+4 to read:
+5 45-465.05. Permanent relinquishment of irrigation
+6 grandfathered rights; groundwater savings
+7 credits; assured water supply; rules; report;
+8 definitions
+9 A. A person that owns land within the Phoenix or Pinal active
+10 management area that may be legally irrigated with groundwater pursuant to
+11 an irrigation grandfathered right may apply to the director to permanently
+12 relinquish all of the irrigation grandfathered right in exchange for
+13 groundwater savings credits. The director shall approve the application
+14 if all of the following conditions apply:
+15 1. The person's use of the irrigation grandfathered right complies
+16 with this chapter and the applicable management plan.
+17 2. For each irrigation grandfathered right that is relinquished,
+18 the director determines that land to which the irrigation grandfathered
+19 right is appurtenant has been legally irrigated with groundwater in at
+20 least three of the preceding five years.
+21 3. The person has filed all reports required pursuant to section
+22 45-632 for the last five years.
+23 4. The person does not maintain a negative balance in the person's
+24 flexibility account established pursuant to section 45-467.
+25 5. The department has not issued a certificate of assured water
+26 supply for the acres associated with the relinquishment.
+27 B. The director shall quantify groundwater savings credits. When
+28 quantifying groundwater savings credits, the following apply:
+29 1. The amount of groundwater savings credit CREDITS shall be
+30 determined in acre-feet by multiplying the acres associated with the
+31 relinquishment by the following conversion multiplier:
+
+House Amendments to S.B. 1335
+1 (a) In the Phoenix active management area, one hundred fifty.
+2 (b) In the Pinal active management area, one hundred.
+3 2. A person may not receive groundwater savings credits for a
+4 volume of water that exceeds sixty times the mean amount of groundwater
+5 used annually pursuant to the irrigation grandfathered right in the three
+6 years with the highest use during the five years preceding an application
+7 to permanently relinquish the irrigation grandfathered right. If a person
+8 applies to relinquish an irrigation grandfathered right after conveyance
+9 of an irrigation grandfathered right, the mean amount of groundwater used
+10 annually shall be determined using a proportionate share of the total
+11 amount of groundwater used annually pursuant to any irrigation
+12 grandfathered rights appurtenant to the land included in the irrigation
+13 grandfathered right that the person has applied to relinquish in the years
+14 used to satisfy the requirements of subsection A, paragraph 2 of this
+15 section.
+16 C. When issuing groundwater savings credits, the director shall:
+17 1. Identify all of the following:
+18 (a) The amount of groundwater savings credits as calculated
+19 pursuant to subsection B of this section.
+20 (b) The number and location of the acres associated with the
+21 relinquishment.
+22 (c) The wells that have been used to serve land to which the
+23 irrigation grandfathered right is appurtenant.
+24 (d) The owner of the acres associated with the relinquishment at
+25 the time of the relinquishment that holds the groundwater savings credits.
+26 2. Determine whether the criteria prescribed in subsection D,
+27 paragraph 3 or subsection E, paragraph 3 of this section would be
+28 satisfied. This determination shall [be applied] [APPLY] to [BOTH OF THE
+29 FOLLOWING:
+30 (a)] An assured water supply application that is submitted to the
+31 department within two years after the date the groundwater savings credits
+32 are issued[,] and [THE DETERMINATION] shall remain valid until the
+33 director makes a final decision on the assured water supply application.
+34 [(b) A NOTICE OF INTENT TO PLEDGE GROUNDWATER SAVINGS CREDITS TO A
+35 DESIGNATION OF ASSURED WATER SUPPLY THAT A PERSON SUBMITS PURSUANT TO
+36 SUBSECTION G, PARAGRAPH 2 OF THIS SECTION WITHIN TWO YEARS AFTER THE DATE
+37 THE GROUNDWATER SAVINGS CREDITS ARE ISSUED, AND THE DETERMINATION SHALL
+38 REMAIN VALID UNTIL THE DIRECTOR MAKES A FINAL DECISION ON THE APPLICATION
+39 TO MODIFY A DESIGNATION OF ASSURED WATER SUPPLY.]
+40 D. For the purposes of a designation or modification of a
+41 designation of assured water supply, the volume of groundwater withdrawn
+42 or stored water recovered outside the area of impact of storage associated
+43 with groundwater savings credits calculated pursuant to subsection B of
+44 this section is exempt from the requirement to demonstrate that the
+45 groundwater is physically available in accordance with section 45-576 if
+46 all of the following apply:
+47 1. The acres associated with the relinquishment and the location of
+48 the proposed use associated with the groundwater savings credits are or
+49 will be within the service area of a municipal provider that is designated
+-2-
+
+House Amendments to S.B. 1335
+1 as having an assured water supply or that has applied for a designation of
+2 assured water supply.
+3 2. The applicant proposes to withdraw groundwater or stored water
+4 recovered outside of the area of impact of storage associated with the
+5 groundwater savings credits from one or more of the following locations:
+6 (a) Any well that was used to serve land to which the irrigation
+7 grandfathered right is appurtenant.
+8 (b) Any well that is located within one mile of any well that was
+9 used to serve land to which the irrigation grandfathered right is
+10 appurtenant.
+11 (c) Any well that is located on the acres associated with the
+12 relinquishment.
+13 (d) Any well that is located within one mile of the acres
+14 associated with the relinquishment.
+15 3. The applicant demonstrates that groundwater or stored water
+16 recovered outside the area of impact of storage can be withdrawn to serve
+17 the proposed use for one hundred years without exceeding the depth of the
+18 aquifer or the applicable depth-to-static water level limit of the active
+19 management area, whichever is less. For the purposes of this
+20 demonstration:
+21 (a) The director may not consider other withdrawals that exceed the
+22 depth of the aquifer or the applicable depth-to-static water level limit
+23 during the one hundred-year period as follows:
+24 (i) In the Phoenix active management area, the depth-to-static
+25 water level limit is one thousand feet below land surface.
+26 (ii) In the Pinal active management area, the depth-to-static water
+27 level limit is one thousand one hundred feet below land surface.
+28 (b) For withdrawals located within one mile of any well that was
+29 used to serve land to which the irrigation grandfathered right is
+30 appurtenant, the applicant may rely on the director's determination
+31 pursuant to subsection C of this section, if applicable, or on the
+32 director's most recent assured water supply projection to satisfy this
+33 requirement. This subdivision shall DOES not apply if more than forty
+34 percent of the water used during the period used in the director's most
+35 recent assured water supply projection by land to which the irrigation
+36 grandfathered right is appurtenant was in lieu water as defined in section
+37 45-802.01.
+38 (c) Except as provided by subdivision (b) of this paragraph, the
+39 applicant must update the director's most recent assured water supply
+40 projection only to make reasonable modifications to the locations or rates
+41 of the withdrawals to reflect the changes that result from the proposed
+42 use.
+43 4. The applicant submits evidence to the department that the water
+44 used pursuant to the groundwater savings program established under this
+45 section will not be used on any of the following:
+46 (a) Turf that is not located in a recreational use area or other
+47 space that is regularly used for stormwater management or for civic,
+48 community or other recreational purposes, including playgrounds, sports
+49 fields, cemeteries or schoolyards.
+50 (b) Water parks.
+-3-
+
+House Amendments to S.B. 1335
+1 (c) Decorative water features, including lakes, ponds or lagoons,
+2 except as provided in section 45-132, subsection B, paragraph 4,
+3 subdivision (a).
+4 E. For the purposes of an application for a certificate of assured
+5 water supply that proposes to rely on groundwater savings credits, the
+6 volume of groundwater or stored water recovered outside the area of impact
+7 of storage associated with the amount of groundwater savings credits
+8 calculated pursuant to subsection B of this section is exempt from the
+9 requirement to demonstrate that the groundwater or stored water recovered
+10 outside the area of impact of storage is physically available in
+11 accordance with section 45-576 if all of the following apply:
+12 1. The proposed use associated with the groundwater savings credits
+13 is on the acres associated with the relinquishment or on land that is
+14 located within one mile of the exterior boundary of the acres associated
+15 with the relinquishment.
+16 2. The applicant proposes to withdraw groundwater or stored water
+17 recovered outside the area of impact of storage associated with the
+18 groundwater savings credits from one or more of the following locations:
+19 (a) Any well that was used to serve land to which the irrigation
+20 grandfathered right is appurtenant.
+21 (b) Any well that is located within one mile of any well that was
+22 used to serve land to which the irrigation grandfathered right is
+23 appurtenant.
+24 (c) Any well that is located on the acres associated with the
+25 relinquishment.
+26 (d) Any well that is located within one mile of the acres
+27 associated with the relinquishment.
+28 3. The applicant demonstrates that groundwater or stored water
+29 recovered outside of the area of impact of storage can be withdrawn to
+30 serve the proposed use for one hundred years without exceeding the depth
+31 of the aquifer or the applicable depth-to-static water level limit of the
+32 active management area, whichever is less. For the purposes of this
+33 demonstration:
+34 (a) The director may not consider other withdrawals that exceed the
+35 depth of the aquifer or the applicable depth-to-static water level limit
+36 during the one hundred-year period as follows:
+37 (i) In the Phoenix active management area, the depth-to-static
+38 water level limit is one thousand feet below land surface.
+39 (ii) In the Pinal active management area, the depth-to-static water
+40 level limit is one thousand one hundred feet below land surface.
+41 (b) For withdrawals located within one mile of any well that was
+42 used to serve the irrigation grandfathered right, the applicant may rely
+43 on the director's determination pursuant to subsection C of this section,
+44 if applicable, or on the director's most recent assured water supply
+45 projection to satisfy this requirement. This subdivision shall DOES not
+46 apply if more than forty percent of the water used by the irrigation
+47 grandfathered right during the period used in the director's most recent
+48 assured water supply projection was in lieu water as defined in section
+49 45-802.01.
+-4-
+
+House Amendments to S.B. 1335
+1 (c) Except as provided by subdivision (b) of this paragraph, the
+2 applicant must update the director's most recent assured water supply
+3 projection only to make reasonable modifications to the locations or rates
+4 of the withdrawals to reflect the changes that result from the proposed
+5 use.
+6 4. The applicant submits evidence to the department that the water
+7 used pursuant to the groundwater savings program established under this
+8 section will not be used on any of the following:
+9 (a) Turf that is not located in a recreational use area or other
+10 space that is regularly used for stormwater management or for civic,
+11 community or other recreational purposes, including playgrounds, sports
+12 fields, cemeteries or schoolyards.
+13 (b) Water parks.
+14 (c) Decorative water features, including lakes, ponds or lagoons,
+15 except as provided in section 45-132, subsection B, paragraph 4,
+16 subdivision (a).
+17 F. An applicant that submits an application for a certificate of
+18 assured water supply on or before December 31, 2030 may rely on
+19 groundwater savings credits pledged to the certificate that is issued
+20 based on that application. An applicant may not pledge groundwater
+21 savings credits to an application for a certificate of assured water
+22 supply that is submitted on or after January 1, 2031.
+23 G. The director shall adopt rules on or before June 30, 2026
+24 through expedited rulemaking to:
+25 1. Set licensing time frames to issue groundwater savings credits.
+26 2. Develop a summary process to [apply] [PLEDGE] groundwater
+27 savings credits to designations of assured water supply.
+28 H. Before the director issues groundwater savings credits, the
+29 director shall both:
+30 1. Notify the holder of the irrigation grandfathered right in
+31 writing of the department's preliminary recommendations regarding the
+32 items described in subsection C of this section.
+33 2. Request written confirmation that the holder of the irrigation
+34 grandfathered right would like to proceed with relinquishment. On receipt
+35 of confirmation that the applicant would like to relinquish the irrigation
+36 grandfathered right, the director shall issue groundwater savings credits
+37 pursuant to subsection C of this section. THE HOLDER OF THE GROUNDWATER
+38 SAVINGS CREDITS MAY [ONLY] CONTINUE TO IRRIGATE THE LAND [IN ACCORDANCE
+39 WITH THE IRRIGATION GRANDFATHERED RIGHT FOR A PERIOD OF NOT MORE THAN TWO
+40 YEARS AFTER THE DATE OF ISSUANCE OF THE GROUNDWATER SAVINGS CREDITS]
+41 [CONSISTENT WITH A TEMPORARY PERMIT TO IRRIGATE WITH GROUNDWATER THAT THE
+42 DIRECTOR ISSUES PURSUANT TO SUBSECTION O OF THIS SECTION].
+43 I. A person that holds groundwater savings credits may assign the
+44 person's credits to the subsequent owner of the acres associated with the
+45 relinquishment. A person that holds groundwater savings credits may
+46 pledge the credits to an assured water supply application that proposes to
+47 rely on the credits pursuant to subsection D or E of this section.
+48 J. After the director issues a certificate of assured water supply
+49 based on groundwater savings credits, if a municipal provider that serves
+50 acres associated with the relinquishment becomes a designated provider or
+-5-
+
+House Amendments to S.B. 1335
+1 if the service area of a designated provider is extended to include the
+2 subdivision for which a certificate of assured water supply was issued,
+3 the remaining groundwater savings credits associated with the certificate
+4 shall be used to support the designation.
+5 K. On acres associated with the relinquishment and areas within one
+6 mile of the acres associated with the relinquishment that use groundwater
+7 pursuant to subsection E of this section, the following prohibitions
+8 apply:
+9 1. A municipal provider or association as defined in section
+10 33-1802 may not use the groundwater or stored water recovered outside the
+11 area of impact of storage for any of the following:
+12 (a) Application to turf that is not located in a recreational use
+13 area or other space that is regularly used for stormwater management or
+14 for civic, community or recreational purposes, including playgrounds,
+15 sports fields, cemeteries or schoolyards.
+16 (b) Water parks.
+17 (c) Decorative water features, including lakes, ponds or lagoons,
+18 except as provided in section 45-132, subsection B, paragraph 4,
+19 subdivision (a).
+20 2. An association as defined in section 33-1802 may not adopt or
+21 enforce any EITHER of the following:
+22 (a) Minimum turf requirements for turf that is not located in a
+23 recreational use area or other space that is regularly used for stormwater
+24 management or for civic, community or recreational purposes, including
+25 playgrounds, sports fields, cemeteries or schoolyards.
+26 (b) Requirements for the installation, filling or refilling of:
+27 (i) Water parks.
+28 (ii) Decorative water features, including lakes, ponds or lagoons,
+29 except as provided in section 45-132, subsection B, paragraph 4,
+30 subdivision (a).
+31 L. The director may adopt rules to implement the groundwater
+32 savings program prescribed by this section for the Tucson active
+33 management area that include an applicable conversion multiplier and
+34 necessary parameters to ensure groundwater savings in the Tucson active
+35 management area if the director determines that all of the following
+36 apply:
+37 1. Groundwater withdrawals in the Tucson active management area
+38 over a period of one hundred years will exceed the depth-to-static water
+39 level of one thousand feet or the depth of the aquifer, whichever is less.
+40 2. A groundwater savings program established in the Tucson active
+41 management area would reduce groundwater use over the next one hundred
+42 years.
+43 3. Expanding the program to include the Tucson active management
+44 area would be in the best interest of that active management area and of a
+45 conservation district.
+46 M. Section 45-114, subsections A and B govern administrative
+47 proceedings, rehearing or review and judicial review of final decisions of
+48 the director pursuant to this section.
+49 N. On application to the director by the current owner of the acres
+50 associated with the relinquishment, the director shall restore a
+-6-
+
+House Amendments to S.B. 1335
+1 relinquished irrigation grandfathered right and rescind all issued
+2 groundwater savings credits if the groundwater savings credits have not
+3 been pledged to a certificate of assured water supply or a designation of
+4 assured water supply pursuant to section 45-576, subsection M.
+5 [O. A PERSON THAT APPLIES TO RELINQUISH AN IRRIGATION GRANDFATHERED
+6 RIGHT IN EXCHANGE FOR GROUNDWATER SAVINGS CREDITS MAY ACCOMPANY THE
+7 APPLICATION WITH A REQUEST THAT THE DIRECTOR ISSUE A TEMPORARY PERMIT TO
+8 IRRIGATE WITH GROUNDWATER. ON RELINQUISHMENT OF THE IRRIGATION
+9 GRANDFATHERED RIGHT, AND ONLY IF A REQUEST ACCOMPANIES THE APPLICATION TO
+10 RELINQUISH AN IRRIGATION GRANDFATHERED RIGHT, THE DIRECTOR SHALL ISSUE TO
+11 THE HOLDER OF THE GROUNDWATER SAVINGS CREDIT A TEMPORARY PERMIT TO
+12 IRRIGATE WITH GROUNDWATER.
+13 P. THE HOLDER OF A TEMPORARY PERMIT TO IRRIGATE WITH GROUNDWATER
+14 ISSUED PURSUANT TO SUBSECTION O OF THIS SECTION IS AUTHORIZED TO USE
+15 GROUNDWATER FOR IRRIGATION ON THE LAND THAT QUALIFIED AS IRRIGATION ACRES
+16 UNDER THE RELINQUISHED IRRIGATION GRANDFATHERED RIGHT, AS IF THE RIGHT HAD
+17 NOT BEEN RELINQUISHED, SUBJECT TO ALL OF THE FOLLOWING:
+18 1. ALL REQUIREMENTS AND LIMITATIONS OF THIS CHAPTER AND OF THE
+19 RELINQUISHED IRRIGATION GRANDFATHERED RIGHT THAT WOULD APPLY AS IF THE
+20 RIGHT HAD NOT BEEN RELINQUISHED.
+21 2. THE APPLICABLE MANAGEMENT GOAL AND THE APPLICABLE MANAGEMENT
+22 PLAN FOR THE ACTIVE MANAGEMENT AREA WHERE THE LANDS TO WHICH THE
+23 RELINQUISHED IRRIGATION GRANDFATHERED RIGHT WAS APPURTENANT ARE LOCATED,
+24 AS IF THE RIGHT HAD NOT BEEN RELINQUISHED.
+25 3. A FARM THAT IS AUTHORIZED TO USE GROUNDWATER PURSUANT TO A
+26 TEMPORARY PERMIT TO IRRIGATE WITH GROUNDWATER MAY NOT MAINTAIN A
+27 FLEXIBILITY ACCOUNT PURSUANT TO SECTION 45-467, EXCEPT THAT IF THE AMOUNT
+28 OF GROUNDWATER USED TO IRRIGATE THE FARM IN AN ACCOUNTING PERIOD EXCEEDS
+29 THE AMOUNT OF THE CURRENT IRRIGATION WATER DUTY FOR THE FARM MULTIPLIED BY
+30 THE WATER DUTY ACRES IN THE FARM, THE HOLDER OF THE TEMPORARY PERMIT TO
+31 IRRIGATE WITH GROUNDWATER MAY OBTAIN CREDITS REGISTERED TO THE FLEXIBILITY
+32 ACCOUNT OF ANOTHER FARM PURSUANT TO SECTION 45-467.
+33 4. THE TEMPORARY PERMIT TO IRRIGATE WITH GROUNDWATER MAY BE LEASED
+34 FOR AN IRRIGATION USE WITH THE LAND THAT IS ENTITLED TO BE IRRIGATED UNDER
+35 THE TEMPORARY PERMIT.
+36 5. THE TEMPORARY PERMIT TO IRRIGATE WITH GROUNDWATER TERMINATES TWO
+37 YEARS AFTER THE DIRECTOR ISSUES THE GROUNDWATER SAVINGS CREDITS UNLESS ONE
+38 OF THE FOLLOWING OCCURS EARLIER, WHICH IMMEDIATELY TERMINATES THE
+39 TEMPORARY PERMIT TO IRRIGATE WITH GROUNDWATER:
+40 (a) THE RELINQUISHED IRRIGATION GRANDFATHERED RIGHT IS RESTORED.
+41 (b) THE ASSOCIATED GROUNDWATER SAVINGS CREDITS ARE PLEDGED TO A
+42 CERTIFICATE OF ASSURED WATER SUPPLY OR DESIGNATION OF ASSURED WATER SUPPLY
+43 AND THE CERTIFICATE OF ASSURED WATER SUPPLY IS ISSUED OR THE DESIGNATION
+44 OF ASSURED WATER SUPPLY IS ISSUED OR MODIFIED TO INCLUDE THE GROUNDWATER
+45 SAVINGS CREDITS.
+46 (c) A PERSON WHO PROPOSES TO OFFER SUBDIVIDED LANDS AS DEFINED IN
+47 SECTION 32-2101, FOR SALE OR LEASE ON LAND THAT IS ENTITLED TO BE
+48 IRRIGATED UNDER THE TEMPORARY PERMIT OBTAINS A WRITTEN COMMITMENT OF WATER
+49 SERVICE FOR THE PROPOSED SUBDIVISION AS DEFINED IN SECTION 32-2101 FROM A
+-7-
+
+House Amendments to S.B. 1335
+1 CITY, TOWN OR PRIVATE WATER COMPANY DESIGNATED AS HAVING AN ASSURED WATER
+2 SUPPLY PURSUANT TO SECTION 45-576.
+3 (d) THE ACRES ASSOCIATED WITH THE RELINQUISHMENT QUALIFY AS MEMBER
+4 LAND OF A CONSERVATION DISTRICT AS PROVIDED BY TITLE 48, CHAPTER 22.
+5 6. FOR THE PURPOSES OF CHAPTER 3.1 OF THIS TITLE RELATING TO THE
+6 STORAGE OF WATER, WATER THAT A PERSON DELIVERS PURSUANT TO A TEMPORARY
+7 PERMIT TO IRRIGATE WITH GROUNDWATER IS CLASSIFIED AS WATER DELIVERED TO
+8 THE RELINQUISHED IRRIGATION GRANDFATHERED RIGHT TO DETERMINE THE ANNUAL OR
+9 LONG-TERM STORAGE CREDITS A PERMIT HOLDER MAY ACCRUE PURSUANT TO A
+10 GROUNDWATER SAVINGS FACILITY PERMIT.]
+11 [O.] [Q.] For the purposes of this section:
+12 1. "Acres associated with the relinquishment" means land to which
+13 the irrigation grandfathered right that is relinquished in exchange for
+14 groundwater savings credits was appurtenant.
+15 2. "Municipal provider" has the same meaning prescribed in section
+16 45-561.
+17 3. Stored water recovered outside the area of impact does not
+18 include long-term storage credits issued to the Arizona water banking
+19 authority or held by the Arizona water banking authority at any time.
+20 4. "Well" includes a replacement well as prescribed in section
+21 45-597 or 45-598."
+22 <<Sec. 2. Section 45-494, Arizona Revised Statutes, is amended to
+23 read:
+24 45-494. Withdrawals by irrigation districts in initial active
+25 management areas
+26 In an initial active management area established pursuant to section
+27 45-411:
+28 1. An irrigation district existing and engaged in the withdrawal,
+29 delivery and distribution of groundwater as of January 1, 1977 shall have
+30 the right, subject to section 45-496 and section 45-493, subsection D:
+31 (a) To withdraw and transport groundwater within its service area
+32 for the benefit of landowners within its service area, and the landowners
+33 are entitled to use the groundwater delivered, provided [THAT] claims of
+34 landowners to irrigation grandfathered rights[,] [or] type 1 [or]
+35 [NON-IRRIGATION GRANDFATHERED RIGHTS OR TYPE] 2 non-irrigation
+36 grandfathered rights [OR PURSUANT TO A TEMPORARY PERMIT TO IRRIGATE WITH
+37 GROUNDWATER ISSUED PURSUANT TO SECTION 45-465.05] shall be subject to
+38 article 5 of this chapter.
+39 (b) If legally withdrawing and transporting groundwater from
+40 outside its service area for use within its service area as of January 1,
+41 1977, to continue to withdraw and transport the amount of groundwater
+42 legally being withdrawn as of January 1, 1977.
+43 2. An irrigation district that was not engaged in the withdrawal,
+44 delivery and distribution of groundwater as of January 1, 1977 shall be
+45 limited to the right, subject to section 45-496, to:
+-8-
+
+House Amendments to S.B. 1335
+1 (a) Contract for surface water from a multi-county water
+2 conservation district and deliver and distribute such water within its
+3 service area for irrigation purposes.
+4 (b) If, as of January 1, 1983, the district had been recommended by
+5 the director to receive an allocation of municipal and industrial water
+6 from the central Arizona project, contract for surface water from a multi-
+7 county water conservation district and deliver such surface water to
+8 cities, towns or private water companies for municipal, industrial and
+9 domestic purposes, subject to the following conditions:
+10 (i) The cities, towns and private water companies shall distribute
+11 the water within the boundaries of the district in effect as of the date
+12 of validation of the district's central Arizona project subcontract.
+13 (ii) In contracting for the delivery of such surface water, the
+14 district shall offer the water, first, to cities and towns that distribute
+15 water to land within the boundaries of the district or to land adjacent or
+16 contiguous to the district and, second, if the cities or towns are
+17 unwilling or unable to take and distribute such surface water, to private
+18 water companies within the boundaries of the district that have not been
+19 recommended to receive or have not received an allocation of municipal and
+20 industrial water from the central Arizona project.
+21 (iii) Notwithstanding article 5 of this chapter, the original owner
+22 and any new owner of a type 1 non-irrigation grandfathered right created
+23 pursuant to section 45-469 that is appurtenant to land in the district to
+24 which such surface water is distributed by a city, town or private water
+25 company may use groundwater withdrawn pursuant to that right only on the
+26 land to which the right is appurtenant.
+27 (iv) The district may amend its contract, or execute a new
+28 contract, with the United States secretary of the interior and a multi-
+29 county water conservation district to provide for the conversion of
+30 irrigation water deliveries to municipal and industrial water deliveries
+31 as provided by law and pursuant to the secretary's regulations relating to
+32 conversion, but such amendment may be made or new contract executed only
+33 if the amount of municipal and industrial water for which the district
+34 would qualify by conversion of lands from irrigation to non-irrigation
+35 uses exceeds the secretary's initial express allocation of municipal and
+36 industrial water to the district for the year 2034 and only to the extent
+37 of the excess.
+38 (v) Such surface water shall not be distributed by any city, town
+39 or private water company to any land with respect to which an allocation
+40 of municipal and industrial water from the central Arizona project has
+41 been made or recommended for some person other than the district.
+42 (c) Contract to purchase, deliver and distribute effluent within
+43 its service area for irrigation purposes.
+44 (d) Withdraw, deliver and distribute within its service area the
+45 amount of groundwater allowed by the current irrigation water duty of each
+46 member farm multiplied by the water duty acres in that farm [less]
+47 [, INCLUDING EACH MEMBER FARM AUTHORIZED TO USE GROUNDWATER FOR IRRIGATION
+48 PURSUANT TO A TEMPORARY PERMIT TO IRRIGATE WITH GROUNDWATER ISSUED
+49 PURSUANT TO SECTION 45-465.05, MINUS] any portion of such amount withdrawn
+50 by individual members.
+-9-
+
+House Amendments to S.B. 1335
+1 (e) Continue but not expand any non-irrigation water service being
+2 lawfully provided as of the date of the designation of the active
+3 management area, except as provided in subdivision (b) of this paragraph
+4 and in section 45-497, subsection B.>>
+5 <<Sec. 3. Temporary permits to irrigate with groundwater;
+6 time frame; fee; delayed repeal
+7 [A. On application by a holder of groundwater savings credits that
+8 were issued before the effective date of this act, the director of the
+9 department of water resources shall issue to the holder of groundwater
+10 savings credits a temporary permit to irrigate with groundwater that
+11 authorizes the use of groundwater subject to the limitations prescribed in
+12 section 45-465.05, subsection P, Arizona Revised Statutes, as added by
+13 this act.
+14 B. The director of the department of water resources may not issue
+15 a temporary permit to irrigate with groundwater to a holder of groundwater
+16 savings credits that were issued before the effective date of this act if
+17 either of the following has occurred:
+18 1. More than two years have elapsed after the issuance of the
+19 groundwater savings credits.
+20 2. Any condition prescribed in section 45-465.05, subsection P,
+21 paragraph 5, Arizona Revised Statutes, as added by the act, has occurred.
+22 C. An application submitted pursuant to subsection A of this
+23 section is subject to a new licensing time frame and application fee. The
+24 licensing time frame and application fee shall be the same as the
+25 licensing time frame and application fee established through rule for an
+26 application to relinquish an irrigation grandfathered right in exchange
+27 for groundwater savings credits under section 45-465.05, Arizona Revised
+28 Statutes, as amended by this act.
+29 D. This section is repealed from and after January 1, 2029.]>>
+30 Enroll and engross to conform
+31 Amend title to conform
+GAIL GRIFFIN
+1335FloorGRIFFIN.docx
+06/05/2026
+10:27 AM
+C: CT
+130MDXLYQ
+1335FloorGRIFFIN2.docx
+06/10/2026
+08:35 AM
+H: CW/ls
+130OKKKOP
+-10-

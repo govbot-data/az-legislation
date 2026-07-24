@@ -1,0 +1,166 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Petersen #2 flr amend (ref GOV) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1566
+Petersen #2 Floor Amendment
+Reference to: GOVERNMENT Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Allows a city or town, if the Attorney General finds that a city or town violated the prohibition on
+maliciously delaying licensing time frames for single-family residential construction, to bring an
+action in the court with appropriate jurisdiction to challenge the finding of a malicious delay.
+2. Allows a county, if the Attorney General or a county attorney finds that a county violated the
+prohibition on maliciously delaying a response to a license, approval or permit, to bring an action
+in the court with appropriate jurisdiction to challenge the finding of a malicious delay.
+3. Removes the prohibition on the state or a state agency maliciously delaying a response to a license,
+approval or permit or any similar application or request.
+4. Makes technical and conforming changes.
+Amendment explanation prepared by Anna Nguyen
+2/24/2026
+
+Fifty-seventh Legislature Petersen #2
+Second Regular Session S.B. 1566
+PETERSEN #2 FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1566
+(Reference to GOVERNMENT Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 9, chapter 4, article 8, Arizona Revised Statutes,
+3 is amended by adding section 9-500.54, to read:
+4 9-500.54. Malicious delay; attorney general; violation; civil
+5 penalty; definitions
+6 A. NOTWITHSTANDING ANY OTHER LAW, A CITY OR TOWN IN THIS STATE MAY
+7 NOT MALICIOUSLY DELAY [A RESPONSE TO A LICENSE, APPROVAL OR PERMIT OR ANY
+8 SIMILAR APPLICATION OR REQUEST][ADOPTED LICENSING TIME FRAMES PURSUANT TO
+9 SECTION 9-835 FOR SINGLE-FAMILY RESIDENTIAL CONSTRUCTION OR A RESPONSE TO
+10 AN APPLICATION FOR SINGLE-FAMILY RESIDENTIAL CONSTRUCTION].
+11 B. THE ATTORNEY GENERAL[, BASED ON A WRITTEN COMPLAINT BY A
+12 PROPERTY OWNER WITH AN APPLICATION BEFORE A CITY OR TOWN,] MAY ENFORCE
+13 THIS SECTION.
+14 C. [FOLLOWING AN INVESTIGATION AND FINDINGS BY THE ATTORNEY
+15 GENERAL,] A CITY OR TOWN IN THIS STATE THAT [VIOLATES][IS FOUND TO HAVE
+16 VIOLATED] THIS SECTION [BY CLEAR AND CONVINCING EVIDENCE] IS SUBJECT TO A
+
+Senate Amendments to S.B. 1566
+1 CIVIL PENALTY OF $5,000 PER VIOLATION [REGARDLESS OF THE DURATION OF THE
+2 DELAY].
+3 [D. THIS SECTION DOES NOT MODIFY THE AUTHORITY OF A BUILDING CODE
+4 OFFICIAL TO WITHHOLD A CERTIFICATE OF OCCUPANCY IN ACCORDANCE WITH A
+5 CITY'S OR TOWN'S ADOPTED CODES AND ORDINANCES.]
+6 {{E. IF THE ATTORNEY GENERAL FINDS THAT A CITY OR TOWN VIOLATED
+7 THIS SECTION, THE CITY OR TOWN MAY BRING AN ACTION IN A COURT WITH
+8 APPROPRIATE JURISDICTION TO CHALLENGE THE FINDING OF A MALICIOUS DELAY.}}
+9 [D.] [{{E.}}] {{F.}} FOR THE PURPOSES OF THIS SECTION[,][:
+10 1. "APPLICATION" MEANS A SITE PLAN, DEVELOPMENT PLAN, LAND
+11 DIVISION, LOT LINE ADJUSTMENT, LOT TIE, PRELIMINARY PLAT, FINAL PLAT, PLAT
+12 AMENDMENT OR BUILDING PERMIT FOR SINGLE-FAMILY RESIDENTIAL CONSTRUCTION.
+13 2.] "MALICIOUS":
+14 [1.] [(a)] MEANS ACTING [IN BAD FAITH OR WITH SPECIFIC INTENT TO
+15 OBSTRUCT APPROVAL OF A LICENSE, APPROVAL OR PERMIT OR ANY SIMILAR
+16 APPLICATION OR REQUEST BY IMPOSING REQUIREMENTS NOT SPECIFICALLY
+17 AUTHORIZED BY CODE, ORDINANCE OR STANDARD OR ENGAGING IN SELECTIVE
+18 ENFORCEMENT, REPEATED UNEXPLAINED DELAYS OR ACTIONS TAKEN WITHOUT A
+19 LEGITIMATE HEALTH, SAFETY OR PLANNING CONCERN][WITH SPECIFIC INTENT TO
+20 OBSTRUCT APPROVAL OF AN APPLICATION BY IMPOSING REQUIREMENTS NOT
+21 SPECIFICALLY AUTHORIZED BY CODE, ORDINANCE, STANDARD OR OTHER LEGAL
+22 REQUIREMENTS, REPEATED UNEXPLAINED DELAYS OF MORE THAN TWICE THE CITY'S OR
+23 TOWN'S ADOPTED LICENSING TIME FRAME PURSUANT TO SECTION 9-835 FOR
+24 SINGLE-FAMILY RESIDENTIAL CONSTRUCTION OR DELAYS RESULTING FROM OTHER
+25 PENDING APPLICATIONS BY THE SAME APPLICANT].
+26 [2.] [(b)] DOES NOT INCLUDE ANY DELAYS DUE TO RESOURCE
+27 CONSTRAINTS, [DELAYS CAUSED BY THE APPLICANT OR A THIRD PARTY,] GOOD FAITH
+28 ERRORS OR ENFORCEMENT OF [IDENTIFIED CODES,] [ADOPTED TECHNICAL CODES,
+29 INCLUDING FIRE, BUILDING, TRANSPORTATION AND TRAFFIC, UTILITIES FACILITIES
+30 AND PUBLIC NUISANCE CODES,] ORDINANCES OR STANDARDS.
+31 Sec. 2. Title 11, chapter 2, article 4, Arizona Revised Statutes,
+32 is amended by adding section 11-269.31, to read:
+33 11-269.31. Malicious delay; attorney general; county
+34 attorney; violation; civil penalty; definition
+35 A. NOTWITHSTANDING ANY OTHER LAW, A COUNTY IN THIS STATE MAY NOT
+36 MALICIOUSLY DELAY A RESPONSE TO A LICENSE, APPROVAL OR PERMIT OR ANY
+37 SIMILAR APPLICATION OR REQUEST.
+38 B. THE ATTORNEY GENERAL OR COUNTY ATTORNEY MAY ENFORCE THIS
+39 SECTION.
+40 C. A COUNTY IN THIS STATE THAT VIOLATES THIS SECTION IS SUBJECT TO
+41 A CIVIL PENALTY OF $5,000 PER VIOLATION.
+42 {{D. IF THE ATTORNEY GENERAL OR THE COUNTY ATTORNEY FINDS THAT A
+43 COUNTY VIOLATED THIS SECTION, THE COUNTY MAY BRING AN ACTION IN A COURT
+44 WITH APPROPRIATE JURISDICTION TO CHALLENGE THE FINDING OF A MALICIOUS
+45 DELAY.}}
+46 {{D.}} {{E.}} FOR THE PURPOSES OF THIS SECTION, "MALICIOUS":
+47 1. MEANS ACTING IN BAD FAITH OR WITH SPECIFIC INTENT TO OBSTRUCT
+48 APPROVAL OF A LICENSE, APPROVAL OR PERMIT OR ANY SIMILAR APPLICATION OR
+49 REQUEST BY IMPOSING REQUIREMENTS NOT SPECIFICALLY AUTHORIZED BY CODE,
+-2-
+
+Senate Amendments to S.B. 1566
+1 ORDINANCE OR STANDARD OR ENGAGING IN SELECTIVE ENFORCEMENT, REPEATED
+2 UNEXPLAINED DELAYS OR ACTIONS TAKEN WITHOUT A LEGITIMATE HEALTH, SAFETY OR
+3 PLANNING CONCERN.
+4 2. DOES NOT INCLUDE ANY DELAYS DUE TO RESOURCE CONSTRAINTS, GOOD
+5 FAITH ERRORS OR ENFORCEMENT OF IDENTIFIED CODES, ORDINANCES OR STANDARDS.
+6 ≤≤Sec. 3. Title 41, chapter 4, article 1, Arizona Revised Statutes,
+7 is amended by adding section 41-710.04, to read:
+8 41-710.04. Malicious delay; attorney general; violation;
+9 civil penalty; definition
+10 A. NOTWITHSTANDING any other law, This state or an agency of this
+11 state may not maliciously delay a response to a license, approval or
+12 permit or any similar application or request.
+13 B. The attorney general may enforce this section.
+14 C. THIS STATE OR AN AGENCY of THIS STATE that violates this section
+15 is subject to a civil penalty of $5,000 per violation.
+16 D. For the purposes of this section, "Malicious":
+17 1. Means acting in bad faith or with specific intent to obstruct
+18 approval of a license, approval or permit or any similar application or
+19 request by imposing requirements not specifically authorized by code,
+20 ordinance or standard or engaging in selective enforcement, repeated
+21 unexplained delays or actions taken without a legitimate health, safety or
+22 planning concern.
+23 2. Does not include Any delays due to resource constraints, good
+24 faith errors or enforcement of identified rules or standards.≥≥
+25 Enroll and engross to conform
+26 Amend title to conform
+WARREN PETERSEN
+1566FloorPETERSEN.docx
+02/24/2026
+5:04 PM
+C: LAT
+130SHKPHT
+1566FloorPETERSEN.2.docx
+02/24/2026
+5:35 PM
+S: AN/ci
+130SHKPHT
+-3-

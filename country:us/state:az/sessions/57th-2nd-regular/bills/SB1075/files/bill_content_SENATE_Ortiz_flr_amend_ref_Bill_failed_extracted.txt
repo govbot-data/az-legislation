@@ -1,0 +1,490 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Ortiz flr amend (ref Bill) failed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1075
+Ortiz Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Caps, at five percent of the total number of single-family residences in any census tract, the total
+number of single-family residences located in Arizona that may be purchased by a corporation or
+a limited liability company (LLC) or an affiliate of a corporation or an LLC in that census tract.
+2. Caps, at 50 units per calendar year, the total number of single-family residences in Arizona that
+may be purchased by a corporation or LLC.
+3. Prohibits a corporation or LLC from owning more than 2,000 single-family residences in Arizona.
+4. Outlines requirements for a corporation or LLC registering with the Securities Division of the
+Arizona Corporation Commission (ACC) before purchasing a single-family residence in Arizona.
+5. Exempts, from the registration requirements:
+a) a corporation or LLC or an affiliate of a corporation or LLC that owns less than 10
+single-family residences in Arizona;
+b) a governmental entity;
+c) any 501(c)(3) nonprofit;
+d) a land trust;
+e) a group home; and
+f) an employer that rents residences to employees.
+6. Requires the ACC, beginning February 1, 2027, to annually report of any corporation or LLC that
+purchased or sold a single-family resident in the previous year.
+7. Prohibits a single-family residence from being conveyed to a hostile foreign entity without
+majority approval of the Legislature.
+8. Defines terms.
+Amendment explanation prepared by Anna Nguyen
+2/24/2026
+
+Fifty-seventh Legislature Ortiz
+Second Regular Session S.B. 1075
+ORTIZ FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1075
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Title 33, chapter 4, article 1, Arizona Revised
+3 Statutes, is amended by adding section 33-401.01, to read:
+4 33-401.01. Single-family residence purchases; corporate
+5 buyer; county recorder; deed; requirements;
+6 exception; definitions
+7 [A. IF A CORPORATION OR A LIMITED LIABILITY COMPANY OR AN AFFILIATE
+8 OF A CORPORATION OR A LIMITED LIABILITY COMPANY PURCHASES A SINGLE-FAMILY
+9 RESIDENCE:
+10 1. THE COUNTY RECORDER MAY NOT RECORD THE DEED UNLESS BOTH OF THE
+11 FOLLOWING OCCUR:
+12 (a) THE DEED THAT CONTAINS THE INFORMATION ABOUT THE OWNERSHIP OF
+13 THE CORPORATION OR THE LIMITED LIABILITY COMPANY OR THE AFFILIATE OF THE
+14 CORPORATION OR THE LIMITED LIABILITY COMPANY IS REGISTERED PURSUANT TO
+15 SECTION 44-4003.
+16 (b) THE CORPORATION OR THE LIMITED LIABILITY COMPANY OR THE
+17 AFFILIATE OF THE CORPORATION OR THE LIMITED LIABILITY COMPANY SUBMITS TO
+18 THE COUNTY RECORDER A COPY OF THE CERTIFICATE OF REGISTRATION ISSUED BY
+19 THE CORPORATION COMMISSION PURSUANT TO SECTION 44-4003 AND THE NAME OF THE
+20 CORPORATION OR THE LIMITED LIABILITY COMPANY OR THE AFFILIATE OF THE
+21 CORPORATION OR THE LIMITED LIABILITY COMPANY ON THE DEED MATCHES THE NAME
+22 ON THE CERTIFICATE OF REGISTRATION ACCOMPANYING THE DEED.
+23 2. THE DEED MUST CLEARLY STATE THAT THE SINGLE-FAMILY RESIDENCE IS
+24 NOT THE PRIMARY RESIDENCE OF THE OWNER.
+25 B. THE COUNTY RECORDER SHALL SUBMIT MONTHLY REPORTS TO THE
+26 CORPORATION COMMISSION THAT NAME EACH CORPORATION OR LIMITED LIABILITY
+27 COMPANY THAT PURCHASED A SINGLE-FAMILY RESIDENCE IN THE PRECEDING MONTH
+28 AND THE NUMBER OF SINGLE-FAMILY RESIDENCES PURCHASED BY EACH CORPORATION
+29 AND LIMITED LIABILITY COMPANY.
+
+Senate Amendments to S.B. 1075
+1 C. SUBSECTION A OF THIS SECTION DOES NOT APPLY TO A CORPORATION OR
+2 A LIMITED LIABILITY COMPANY OR AN AFFILIATE OF A CORPORATION OR A LIMITED
+3 LIABILITY COMPANY THAT OWNS FEWER THAN TEN SINGLE-FAMILY RESIDENCES
+4 LOCATED IN THIS STATE.
+5 D. FOR THE PURPOSES OF THIS SECTION:
+6 1. "CORPORATION" HAS THE SAME MEANING PRESCRIBED IN SECTION
+7 44-4001.
+8 2. "LIMITED LIABILITY COMPANY" HAS THE SAME MEANING PRESCRIBED IN
+9 SECTION 44-4001.
+10 3. "SINGLE-FAMILY RESIDENCE":
+11 (a) MEANS A STRUCTURE THAT IS MAINTAINED AND USED AS A SINGLE
+12 DETACHED DWELLING UNIT.
+13 (b) DOES NOT INCLUDE A DWELLING UNIT THAT SHARES ONE OR MORE WALLS
+14 WITH ANOTHER DWELLING UNIT.]>>
+15 Sec. 2. Title 33, chapter 4, article 4, Arizona Revised Statutes,
+16 is amended by adding section 33-459, to read:
+17 33-459. Conveyance to foreign entity; prohibition;
+18 identification; definitions
+19 A. BEGINNING ON THE EFFECTIVE DATE OF THIS SECTION, LAND IN THIS
+20 STATE[, INCLUDING A SINGLE-FAMILY RESIDENCE] MAY NOT BE CONVEYED TO A
+21 HOSTILE FOREIGN ENTITY WITHOUT MAJORITY APPROVAL OF BOTH THE SENATE AND
+22 THE HOUSE OF REPRESENTATIVES.
+23 B. A GRANTOR IN THIS STATE AND THE GRANTOR'S AGENT, INCLUDING A
+24 REAL ESTATE PROFESSIONAL LICENSED PURSUANT TO TITLE 32, CHAPTER 20, SHALL
+25 SUBMIT TO THE STATE REAL ESTATE DEPARTMENT A VALID IDENTIFICATION OF ANY
+26 GRANTEE. IF THE GRANTEE IS NOT A NATURAL PERSON, THE GRANTOR AND THE
+27 GRANTOR'S AGENT SHALL SUBMIT A VALID IDENTIFICATION OF THE GRANTEE'S AGENT
+28 AND THE NAME AND PRINCIPAL PLACE OF BUSINESS OF THE GRANTEE. THE GRANTOR,
+29 THE GRANTOR'S AGENT AND THE STATE REAL ESTATE DEPARTMENT SHALL MAINTAIN A
+30 COPY OF THE IDENTIFICATION PROVIDED BY THE GRANTEE OR, IF THE GRANTEE IS
+31 NOT A NATURAL PERSON, THE IDENTIFICATION OF THE GRANTEE'S AGENT AND THE
+32 GRANTEE'S NAME AND PRINCIPAL PLACE OF BUSINESS.
+33 C. IDENTIFICATION IS DEEMED VALID UNLESS IT CAN BE DETERMINED ON
+34 ITS FACE THAT THE IDENTIFICATION HAS EXPIRED.
+35 D. FOR THE PURPOSES OF THIS SECTION:
+36 1. "FOREIGN ENTITY" MEANS A FOREIGN GOVERNMENT, A STATE-CONTROLLED
+37 ENTERPRISE OF A FOREIGN GOVERNMENT OR AN ENTITY ACTING AS AN AGENT FOR A
+38 FOREIGN GOVERNMENT OR STATE-CONTROLLED ENTERPRISE OF A FOREIGN GOVERNMENT.
+39 2. "HOSTILE" MEANS A FOREIGN ENTITY THAT IS LISTED AS A THREAT OR A
+40 COUNTRY OF CONCERN BY THE DIRECTOR OF NATIONAL INTELLIGENCE OR THE UNITED
+41 STATES DEPARTMENT OF STATE.
+42 3. "VALID IDENTIFICATION" INCLUDES:
+43 (a) ANY DOCUMENT THAT BEARS THE PHOTOGRAPH, NAME AND ADDRESS OF THE
+44 GRANTEE OR IF THE GRANTEE IS NOT A NATURAL PERSON, THE GRANTEE'S AGENT.
+45 (b) AN ARIZONA DRIVER LICENSE, AN ARIZONA NONOPERATING
+46 IDENTIFICATION LICENSE, A TRIBAL ENROLLMENT CARD OR ANOTHER FORM OF TRIBAL
+-2-
+
+Senate Amendments to S.B. 1075
+1 IDENTIFICATION OR A UNITED STATES, STATE OR LOCAL GOVERNMENT-ISSUED
+2 IDENTIFICATION.
+3 Sec. 3. Section 37-231, Arizona Revised Statutes, is amended to
+4 read:
+5 37-231. State lands subject to sale; rights reserved in lands
+6 sold; state lands not subject to sale; development
+7 agreements
+8 A. All state lands, except as otherwise provided for in this title,
+9 including all improvements made or placed on or connected with state
+10 lands, shall be subject to appraisal and sale as provided in this title.
+11 B. Any person over eighteen years of age is entitled to purchase
+12 any of the state lands EXCEPT AS PROVIDED IN SECTION 37-240.
+13 C. All sales, grants, deeds or patents to any state lands sold
+14 between July 9, 1954 and March 18, 1968 shall be subject to and shall
+15 contain a reservation to the THIS state of an undivided one-sixteenth of
+16 all oil, gases and other hydrocarbon substances, coal or stone, metals,
+17 minerals, fossils and fertilizer of every name and description, together
+18 with all uranium, all thorium, or any other material which THAT is or may
+19 be determined by the laws of the THIS state or the United States or
+20 decisions of courts to be peculiarly essential to the production of
+21 fissionable materials, whether or not of commercial value, subject to the
+22 following:
+23 1. For the purpose of promoting TO PROMOTE the sale of state lands
+24 and the more active cooperation of the owner of the soil, and to
+25 facilitate the development of its mineral resources, the THIS state
+26 constitutes the purchaser of the land its agent for the purposes specified
+27 in this section, and in consideration hereof, relinquishes to and vests in
+28 the purchaser of the state land an undivided fifteen-sixteenths of all
+29 oil, gas and the value thereof which may be upon ON or within any state
+30 land purchased after July 9, 1954 and before March 18, 1968.
+31 2. The purchaser of the soil may sell or lease to any person, firm
+32 or corporation the oil and gas and other minerals which THAT may be on or
+33 in the land, upon ON terms and conditions THAT the purchaser and the owner
+34 deem best, subject to the provisions and reservations of this section, but
+35 the lessee or purchaser shall pay to the THIS state an undivided
+36 one-sixteenth of the mineral produced or the value of the mineral produced
+37 at the well or mine as determined by the state land department.
+38 3. Upon ON discovery of oil and gas in paying quantities on land
+39 adjoining state lands purchased under the authority of this section, the
+40 purchaser or the purchaser's lessee shall drill and produce all wells
+41 necessary to protect the land so purchased from drainage by wells on lands
+42 in which the THIS state has no royalty interest, or has a lesser royalty
+43 interest. If the purchaser or the purchaser's lessee fails to protect
+44 against such drainage, the THIS state, acting through the state land
+45 department, may, three months after demand therefor in writing by the
+46 state land department to such purchaser and the purchaser's lessee, MAY
+-3-
+
+Senate Amendments to S.B. 1075
+1 enter upon ON such lands and drill all wells necessary to protect the THIS
+2 state against such drainage.
+3 4. The interest reserved by the THIS state in any state lands sold
+4 may be committed to a drilling unit or cooperative or unit plans of
+5 development and operation of oil and gas pools with the United States, its
+6 agencies and its and their lessees and permittees, and with private owners
+7 and persons holding oil and gas leases on private lands or on state
+8 lands. The state land department may, insofar as the interest of the THIS
+9 state may be affected thereby, MAY join in and consent to any such plan on
+10 behalf of the THIS state. Such agreements shall provide for the equitable
+11 division on an agreed basis of the oil and gas produced from the unit, but
+12 no such agreement shall NOT relieve any operator from the obligation to
+13 develop reasonably the lands and leases as a whole committed thereto. The
+14 royalties to which the THIS state is entitled on production from land
+15 purchased under this section shall be computed only on that part of the
+16 production allocated to such tract. When the agreements made under this
+17 section provide for the return of gas to a formation underlying the unit,
+18 they may provide that no royalties are required to be paid on the gas so
+19 returned.
+20 D. State lands known to contain oil, gases and other hydrocarbon
+21 substances, geothermal resources, coal or stone, metals, minerals, fossils
+22 and fertilizer of every name and description, in paying quantities, or
+23 uranium, thorium or any other material which THAT is or may be determined
+24 by the laws of the THIS state OR the United States or BY decisions of
+25 court to be peculiarly essential to the production of fissionable
+26 materials, whether or not of commercial value, and state lands adjoining
+27 lands upon ON which there are producing oil, gas or geothermal wells or
+28 adjoining lands known to contain any of such substances in paying
+29 quantities, or uranium, thorium or any other material peculiarly essential
+30 to the production of fissionable materials, whether or not of commercial
+31 value, shall not be sold. The prohibition against sale shall not operate
+32 to prevent the sale of lands known to contain, in paying quantities,
+33 common variety minerals as defined in section 27-271 or to prevent the
+34 sale of lands where the THIS state does not own such substances, minerals
+35 or metals in the lands sought to be sold. The provisions of This
+36 subsection shall DOES not prohibit the sale of such lands located within
+37 the exterior boundaries of an incorporated city or town, in which case the
+38 commissioner may offer the land for sale, provided the land shall be used
+39 solely for a public purpose. Such land shall revert to the THIS state if
+40 it is used other than for a public purpose.
+41 E. Notwithstanding the provisions of subsection C of this section,
+42 all state lands sold after March 18, 1968 shall be sold with the
+43 reservation that all oil, gas, other hydrocarbon substances, helium or
+44 other substances of a gaseous nature, geothermal resources, coal, metals,
+45 minerals, fossils, fertilizer of every name and description, together with
+46 all uranium, all thorium or any other material which THAT is or may be
+47 determined by the laws of the United States or of this state, or BY
+-4-
+
+Senate Amendments to S.B. 1075
+1 decisions of court, to be peculiarly essential to the production of
+2 fissionable materials, whether or not of commercial value, and the
+3 exclusive right thereto, on, in, or under such land, shall be and remain
+4 and be reserved in and retained by the THIS state, regardless of any sale
+5 under this section and the issuance of any certificate of purchase to any
+6 purchaser of state lands pursuant to this section, provided, that the
+7 reservation shall not include common variety minerals as defined in
+8 section 27-271, subject to the following:
+9 1. The state land department shall adopt rules providing for the
+10 protection of the patentee or contract purchaser of state lands, or their
+11 successors in interest, and the THIS state of Arizona, against damage to
+12 the lands, livestock, water, crops, or other tangible improvements on
+13 lands held by such patentee or contract purchaser, and suffered by reason
+14 of the use or occupation of such lands by lessees or permittees engaged in
+15 mining and oil, gas and geothermal resource exploration and development
+16 under leases or permits executed by the department. The state land
+17 department may, at any time, MAY require each of its lessees or permittees
+18 to execute a bond in a reasonable principal amount conditioned upon ON
+19 payment for all such damages.
+20 2. The mineral rights reserved to the THIS state in the lands sold
+21 shall be closed to entry and location as a mineral claim or claims, but
+22 the department may issue, upon ON application, mineral exploration permits
+23 embracing the reserved mineral rights when such issuance is deemed in the
+24 best interest of the THIS state, provided that the surface owner or owners
+25 shall have the first right of refusal to acquire such mineral exploration
+26 permits.
+27 Sec. 4. Section 37-240, Arizona Revised Statutes, is amended to
+28 read:
+29 37-240. Limits on sales of state lands; definitions
+30 A. No A person may NOT purchase more than six hundred forty acres
+31 of grazing land, or more than one hundred sixty acres of agricultural
+32 land.
+33 B. No Sales, leases or subleases of state lands shall MAY NOT be
+34 made to corporations A CORPORATION or associations ASSOCIATION THAT IS not
+35 qualified to transact business in the THIS state.
+36 C. BEGINNING ON THE EFFECTIVE DATE OF THIS AMENDMENT TO THIS
+37 SECTION, SALES OF STATE LANDS MAY NOT BE MADE TO A HOSTILE FOREIGN ENTITY
+38 WITHOUT THE MAJORITY APPROVAL OF BOTH THE SENATE AND THE HOUSE OF
+39 REPRESENTATIVES.
+40 D. FOR THE PURPOSES OF THIS SECTION:
+41 1. "FOREIGN ENTITY" MEANS A FOREIGN GOVERNMENT, A STATE-CONTROLLED
+42 ENTERPRISE OF A FOREIGN GOVERNMENT OR AN ENTITY ACTING AS AN AGENT FOR A
+43 FOREIGN GOVERNMENT OR STATE-CONTROLLED ENTERPRISE OF A FOREIGN GOVERNMENT.
+44 2. "HOSTILE" MEANS A FOREIGN ENTITY THAT IS LISTED AS A THREAT OR A
+45 COUNTRY OF CONCERN BY THE DIRECTOR OF NATIONAL INTELLIGENCE OR THE UNITED
+46 STATES DEPARTMENT OF STATE.
+-5-
+
+Senate Amendments to S.B. 1075
+1 <<Sec. 5. Section 41-3955, Arizona Revised Statutes, is amended to
+2 read:
+3 41-3955. Housing trust fund; purpose; annual report
+4 A. The housing trust fund is established, and the director shall
+5 administer the fund. The fund consists of monies from unclaimed property
+6 deposited in the fund pursuant to section 44-313, [MONIES DEPOSITED IN THE
+7 FUND PURSUANT TO SECTION 44-4003,] monies transferred pursuant to section
+8 35-751 and investment earnings.
+9 B. On notice from the department, the state treasurer shall invest
+10 and divest monies in the fund as provided by section 35-313, and monies
+11 earned from investment shall be credited to the fund.
+12 C. Except as provided in subsection D of this section, fund monies
+13 shall be spent on approval of the department for developing projects and
+14 programs connected with providing housing opportunities for low and
+15 moderate income households and for housing affordability programs. A
+16 portion of fund monies shall be used exclusively for housing in rural
+17 areas.
+18 D. Fund monies may be spent on constructing or renovating
+19 facilities and on housing assistance, including support services. Fund
+20 monies shall be awarded in the following order of priority for the first
+21 four months of each fiscal year:
+22 1. Constructing or renovating emergency shelter facilities or for
+23 any operational expenses for emergency shelter services.
+24 2. Constructing or renovating transitional housing units.
+25 3. Constructing or renovating other types of shelter or housing as
+26 determined by the department to best serve the needs of individuals who
+27 have been determined to be seriously mentally ill and chronically
+28 resistant to treatment.
+29 E. For the purposes of subsection C of this section, in approving
+30 the expenditure of monies, the director shall give priority to funding
+31 projects that provide for operating, constructing or renovating facilities
+32 for housing for low-income families and that provide housing and shelter
+33 to families that have children.
+34 F. After the four-month period prescribed in subsection D of this
+35 section, fund monies that have not been awarded or encumbered pursuant to
+36 the priority list prescribed in subsection D of this section may be spent
+37 based on stakeholder feedback.
+38 G. The department shall submit for review by the joint legislative
+39 budget committee all programs established by the department and funded by
+40 the housing trust fund pursuant to this section.
+41 H. The director shall report annually to the legislature on the
+42 status of the housing trust fund. The report shall include a summary of
+43 facilities for which funding was provided during the preceding fiscal year
+44 and shall show the cost and geographic location of each facility and the
+45 number of individuals benefiting from the operation, construction or
+46 renovation of the facility. The report shall also include the number of
+47 individuals who benefit from housing assistance pursuant to subsection D
+-6-
+
+Senate Amendments to S.B. 1075
+1 of this section. The report shall be submitted to the president of the
+2 senate and the speaker of the house of representatives, and a copy
+3 provided to the secretary of state, not later than September 1 of each
+4 year.
+5 I. Monies in the housing trust fund are exempt from the provisions
+6 of section 35-190 relating to lapsing of appropriations.
+7 J. An amount not to exceed ten percent of the housing trust fund
+8 monies may be appropriated annually by the legislature to the department
+9 for administrative costs in providing services relating to the housing
+10 trust fund.
+11 K. For any construction project financed by the department pursuant
+12 to this section, the department shall notify a city, town, county or
+13 tribal government that a project is planned for its jurisdiction and,
+14 before proceeding, shall seek comment from the governing body of the city,
+15 town, county or tribal government or an official authorized by the
+16 governing body of the city, town, county or tribal government. The
+17 department shall not interfere with or attempt to override the local
+18 jurisdiction's planning, zoning or land use regulations.>>
+19 <<Sec. 6. Title 44, Arizona Revised Statutes, is amended by adding
+20 chapter 14, to read:
+21 CHAPTER 14
+22 SINGLE-FAMILY RESIDENCE PURCHASES
+23 ARTICLE 1. GENERAL PROVISIONS
+24 44-4001. Definitions
+25 [IN THIS CHAPTER, UNLESS THE CONTEXT OTHERWISE REQUIRES:
+26 1. "COMMISSION" MEANS THE CORPORATION COMMISSION.
+27 2. "CORPORATION":
+28 (a) MEANS A CORPORATION THAT IS ORGANIZED PURSUANT TO TITLE 10.
+29 (b) DOES NOT INCLUDE A HOUSING AUTHORITY AS DEFINED IN SECTION
+30 36-1401.
+31 3. "LIMITED LIABILITY COMPANY" MEANS A LIMITED LIABILITY COMPANY
+32 THAT IS ORGANIZED BY FILING ARTICLES OF ORGANIZATION WITH THE COMMISSION
+33 PURSUANT TO TITLE 29.
+34 4. "SINGLE-FAMILY RESIDENCE":
+35 (a) MEANS A STRUCTURE THAT IS MAINTAINED AND USED AS A SINGLE
+36 DETACHED DWELLING UNIT.
+37 (b) DOES NOT INCLUDE A DWELLING UNIT THAT SHARES ONE OR MORE WALLS
+38 WITH ANOTHER DWELLING UNIT.]
+39 44-4002. Corporations; limited liability companies;
+40 affiliates; single-family residence purchases;
+41 limits; rules; exceptions; attorney general
+42 [A. EXCEPT AS PROVIDED IN SUBSECTION D OF THIS SECTION:
+43 1. THE TOTAL NUMBER OF SINGLE-FAMILY RESIDENCES LOCATED IN THIS
+44 STATE THAT MAY BE PURCHASED BY A CORPORATION OR A LIMITED LIABILITY
+45 COMPANY OR AN AFFILIATE OF A CORPORATION OR A LIMITED LIABILITY COMPANY IN
+46 ANY CENSUS TRACT MAY NOT EXCEED FIVE PERCENT OF THE TOTAL NUMBER OF
+47 SINGLE-FAMILY RESIDENCES IN THAT CENSUS TRACT.
+-7-
+
+Senate Amendments to S.B. 1075
+1 2. THE TOTAL NUMBER OF SINGLE-FAMILY RESIDENCES THAT MAY BE
+2 PURCHASED IN THIS STATE BY A CORPORATION OR A LIMITED LIABILITY COMPANY IS
+3 FIFTY UNITS PER CALENDAR YEAR.
+4 B. A CORPORATION OR LIMITED LIABILITY COMPANY MAY NOT OWN MORE THAN
+5 TWO THOUSAND SINGLE-FAMILY RESIDENCES IN THIS STATE.
+6 C. THE COMMISSION SHALL ADOPT RULES NECESSARY TO CARRY OUT THIS
+7 SECTION.
+8 D. SUBSECTION A OF THIS SECTION DOES NOT APPLY TO THE SALE OR
+9 TRANSFER OF SINGLE-FAMILY RESIDENCES WITHIN A CORPORATION OR A LIMITED
+10 LIABILITY COMPANY.
+11 E. THE ATTORNEY GENERAL MAY ENFORCE THIS SECTION PURSUANT TO TITLE
+12 44, CHAPTER 10, ARTICLE 7.]
+13 44-4003. Corporations; limited liability companies;
+14 affiliates; single-family residence purchases;
+15 registration; limits; exceptions; civil penalty;
+16 rules; attorney general
+17 [A. A CORPORATION OR A LIMITED LIABILITY COMPANY OR AN AFFILIATE OF
+18 A CORPORATION OR A LIMITED LIABILITY COMPANY SHALL REGISTER WITH THE
+19 SECURITIES DIVISION OF THE COMMISSION BEFORE PURCHASING A SINGLE-FAMILY
+20 RESIDENCE LOCATED IN THIS STATE. THE REGISTRATION MUST INCLUDE THE NAME
+21 UNDER WHICH THE CORPORATION OR LIMITED LIABILITY COMPANY OR THE AFFILIATE
+22 OF THE CORPORATION OR LIMITED LIABILITY COMPANY CONDUCTS BUSINESS AND ANY
+23 BENEFICIAL OWNERS OF THE CORPORATION OR LIMITED LIABILITY COMPANY OR
+24 AFFILIATE OF THE CORPORATION OR LIMITED LIABILITY COMPANY. AN ENTITY THAT
+25 IS REQUIRED TO REGISTER PURSUANT TO THIS SUBSECTION SHALL FILE AN ANNUAL
+26 REPORT WITH THE SECURITIES DIVISION OF THE COMMISSION THAT PROVIDES ANY
+27 CHANGE IN THE ENTITY'S REGISTRATION INFORMATION AND THAT CONFIRMS THAT THE
+28 INFORMATION IS ACCURATE AND COMPLETE.
+29 B. THE COMMISSION MAY CHARGE A FEE FOR THE REGISTRATION IN AN
+30 AMOUNT TO BE DETERMINED BY THE COMMISSION.
+31 C. THE COMMISSION SHALL ISSUE A CERTIFICATE OF REGISTRATION TO EACH
+32 CORPORATION OR EACH LIMITED LIABILITY COMPANY OR AN AFFILIATE OF A
+33 CORPORATION OR A LIMITED LIABILITY COMPANY THAT REGISTERS PURSUANT TO THIS
+34 SECTION.
+35 D. THE REGISTRATION REQUIREMENT DOES NOT APPLY TO ANY OF THE
+36 FOLLOWING:
+37 1. A CORPORATION OR A LIMITED LIABILITY COMPANY OR AN AFFILIATE OF
+38 A CORPORATION OR A LIMITED LIABILITY COMPANY THAT OWNS FEWER THAN TEN
+39 SINGLE-FAMILY RESIDENCES LOCATED IN THIS STATE.
+40 2. A GOVERNMENTAL ENTITY. FOR THE PURPOSES OF THIS PARAGRAPH,
+41 "GOVERNMENTAL ENTITY" MEANS THIS STATE OR ANY COUNTY, CITY, TOWN OR OTHER
+42 POLITICAL SUBDIVISION OF THIS STATE.
+43 3. ANY NONPROFIT GROUP THAT IS RECOGNIZED BY THE UNITED STATES
+44 INTERNAL REVENUE SERVICE UNDER SECTION 501(C)(3) OF THE INTERNAL REVENUE
+45 CODE.
+46 4. A LAND TRUST.
+-8-
+
+Senate Amendments to S.B. 1075
+1 5. A GROUP HOME. FOR THE PURPOSES OF THIS PARAGRAPH, "GROUP HOME"
+2 MEANS A HOME THAT IS CERTIFIED PURSUANT TO TITLE 36, CHAPTER 7.1,
+3 ARTICLE 4.
+4 6. AN EMPLOYER THAT RENTS SINGLE-FAMILY RESIDENCES TO EMPLOYEES.
+5 E. THE SECURITIES DIVISION OF THE COMMISSION SHALL ESTABLISH AND
+6 MAINTAIN A REGISTRY OF CORPORATIONS AND LIMITED LIABILITY COMPANIES AND
+7 AFFILIATES OF THE CORPORATIONS AND THE LIMITED LIABILITY COMPANIES THAT
+8 PURCHASE OR OWN SINGLE-FAMILY RESIDENCES LOCATED IN THIS STATE. THE
+9 SECURITIES DIVISION OF THE COMMISSION SHALL MAKE THE REGISTRY AVAILABLE ON
+10 THE COMMISSION'S WEBSITE AND SHALL PROVIDE THE REGISTRATION INFORMATION TO
+11 THE ATTORNEY GENERAL.
+12 F. A CORPORATION OR A LIMITED LIABILITY COMPANY OR AN AFFILIATE OF
+13 A CORPORATION OR A LIMITED LIABILITY COMPANY THAT DOES NOT REGISTER WITH
+14 THE SECURITIES DIVISION IN COMPLIANCE WITH THIS SECTION OR THAT
+15 INTENTIONALLY PROVIDES MISLEADING INFORMATION ON THE APPLICATION IS IN
+16 VIOLATION OF THIS SECTION, AND THE COMMISSION SHALL PROVIDE NOTICE AND AN
+17 OPPORTUNITY FOR A FORMAL HEARING. IF A CORPORATION OR A LIMITED LIABILITY
+18 COMPANY OR AN AFFILIATE OF A CORPORATION OR A LIMITED LIABILITY COMPANY IS
+19 FOUND TO BE IN VIOLATION OF THIS SECTION AFTER A FORMAL HEARING, THE
+20 COMMISSION SHALL IMPOSE A CIVIL PENALTY OF NOT MORE THAN $20,000 FOR EACH
+21 VIOLATION. THE COMMISSION SHALL DEPOSIT, PURSUANT TO SECTIONS 35-146 AND
+22 35-147, PENALTIES COLLECTED PURSUANT TO THIS SECTION IN THE HOUSING TRUST
+23 FUND ESTABLISHED BY SECTION 41-3955. A VIOLATION OF THIS SECTION DOES NOT
+24 APPLY TO EXCUSABLE NEGLECT.
+25 G. THE COMMISSION SHALL ADOPT RULES NECESSARY TO CARRY OUT THIS
+26 SECTION.
+27 H. THE ATTORNEY GENERAL MAY ENFORCE THIS SECTION PURSUANT TO TITLE
+28 44, CHAPTER 10, ARTICLE 7.]
+29 44-4004. Annual report
+30 [ON OR BEFORE JANUARY 31, 2027 AND EACH YEAR THEREAFTER, THE
+31 COMMISSION SHALL SUBMIT A REPORT TO THE GOVERNOR, THE PRESIDENT OF THE
+32 SENATE, THE SPEAKER OF THE HOUSE OF REPRESENTATIVES, THE MINORITY LEADER
+33 OF THE SENATE AND THE MINORITY LEADER OF THE HOUSE OF REPRESENTATIVES AND
+34 SHALL PROVIDE A COPY TO THE SECRETARY OF STATE. THE REPORT MUST CONTAIN
+35 ALL OF THE FOLLOWING:
+36 1. THE IDENTIFICATION OF ANY CORPORATION OR ANY LIMITED LIABILITY
+37 COMPANY OR ANY AFFILIATE OF A CORPORATION OR A LIMITED LIABILITY COMPANY
+38 THAT:
+39 (A) PURCHASED A SINGLE-FAMILY RESIDENCE IN THE PREVIOUS YEAR. THE
+40 REPORT MUST INCLUDE THE ZIP CODE OF EACH PURCHASE.
+41 (B) SOLD A SINGLE-FAMILY RESIDENCE IN THE PREVIOUS YEAR. THE
+42 REPORT MUST INCLUDE THE ZIP CODE OF EACH SALE.
+43 2. ANY OTHER INFORMATION THAT THE COMMISSION DEEMS NECESSARY.]>>
+44 Enroll and engross to conform
+45 Amend title to conform
+-9-
+
+Senate Amendments to S.B. 1075
+ANALISE ORTIZ
+1075FloorORTIZ.docx
+02/23/2026
+05:33 PM
+C: CT
+130PHDFMA
+1075FloorORTIZ.1.docx
+02/24/2026
+07:30 AM
+S: AN/ci
+130PHDFMA
+- 10 -

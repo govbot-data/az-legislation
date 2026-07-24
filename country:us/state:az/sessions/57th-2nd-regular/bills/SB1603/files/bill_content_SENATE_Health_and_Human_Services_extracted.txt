@@ -1,0 +1,446 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Health and Human Services
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Health and Human Services
+Second Regular Session S.B. 1603
+COMMITTEE ON HEALTH AND HUMAN SERVICES
+SENATE AMENDMENTS TO S.B. 1603
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 46-101, Arizona Revised Statutes, is amended to
+3 read:
+4 46-101. Definitions
+5 In this title, unless the context otherwise requires:
+6 1. "Aid to families with dependent children" means assistance
+7 granted under section 403 of title IV of the social security act as it
+8 existed before August 22, 1996.
+9 2. "Applicant" means a person who has applied for assistance or
+10 services under this title, or a person who has applied for assistance or
+11 services under this title and who has custody of a dependent child.
+12 3. "Assistance" means payments in cash or kind to or on behalf of a
+13 person or persons in need as provided for in this title.
+14 4. "Assistance unit" means those members of a needy family, as
+15 prescribed by the department in rule, or a child only case, that meets the
+16 nonfinancial eligibility criteria for cash assistance and whose needs and
+17 other circumstances are considered as a whole to determine a cash
+18 assistance benefit amount.
+19 5. "Cash assistance" means temporary assistance for needy families
+20 paid to a recipient for the purpose of meeting basic living expenses as
+21 defined by the department.
+22 6. "Child care personnel" means any person who supervises children
+23 in a day care home or center that receives child care food program monies
+24 under this article.
+25 7. "Child only case" means a case in which the eligible dependent
+26 child is EITHER OF THE FOLLOWING:
+27 (a) In the legal custody of the department of child safety, a
+28 tribal court or a tribal child welfare agency located in this state and
+
+Senate Amendments to S.B. 1603
+1 placed in foster care with an unrelated adult or with a nonparent relative
+2 who is not receiving cash assistance OR A LICENSED FOSTER [CAR] [CARE]
+3 PAYMENT.
+4 (b) PLACED PURSUANT TO THE ORDER OF A COURT OR TRIBAL COURT WITH AN
+5 UNRELATED ADULT OR WITH A NONPARENT RELATIVE WHO IS NOT RECEIVING CASH
+6 ASSISTANCE.
+7 8. "Dependent child" means a needy child who has been deprived of
+8 parental support or care by reason of the death, unemployment of the
+9 supporting parent as defined and prescribed by the rules of the
+10 department, continued absence from the home, or physical or mental
+11 incapacity of a parent, and whose relatives who are responsible under the
+12 law for the child's support are not able to provide adequate care and
+13 support of the child without public assistance, and who is living with his
+14 father, mother, grandfather, grandmother, brother, sister, stepfather,
+15 stepmother, stepbrother, stepsister, uncle, aunt, niece, nephew or cousin
+16 in a place of residence maintained by one or more of such relatives as his
+17 or their own home or who is in the legal custody of the department of
+18 child safety and placed in a foster home or with an unrelated adult as a
+19 recipient of temporary assistance for needy families. Such dependent
+20 child must be under eighteen years of age or, if eighteen, must be a
+21 full-time student in a high school, or in the equivalent level of
+22 vocational or technical training, and shall be reasonably expected to
+23 complete the program before reaching age nineteen.
+24 9. "Director" means the director of the department of economic
+25 security.
+26 10. "Domestic violence" means battered or subject to extreme
+27 cruelty as defined in section 408(a)(7)(C)(iii) of the social security
+28 act.
+29 11. "Employment plan" means an agreement between the department and
+30 the cash assistance recipient regarding the participant's work activities
+31 and services provided by the department.
+32 12. "Federal poverty level" means the poverty guidelines that are
+33 issued by the United States department of health and human services
+34 pursuant to section 673(2) of the omnibus budget reconciliation act of
+35 1981 and that are reported annually in the federal register.
+36 13. "Head of household" means a dependent child's parent or the
+37 spouse of the parent, or the dependent child's nonparent relative or
+38 spouse of the nonparent relative, who receives cash assistance for himself
+39 and on behalf of the dependent child or only on behalf of the dependent
+40 child.
+41 14. "Homestead property" means a home owned and occupied by the
+42 applicant or recipient, or his spouse.
+43 15. "Jobs program" means services established by the department to
+44 ensure that participants comply with work requirements as prescribed in
+45 Public Law 104-193.
+46 16. "Needy family":
+-2-
+
+Senate Amendments to S.B. 1603
+1 (a) Means a family that resides in the same home and includes a
+2 dependent child, one or more of the dependent child's parents and
+3 nonparent relatives of the dependent child and their spouses who meet
+4 financial cash assistance eligibility criteria established by this title
+5 and by department rule.
+6 (b) Does not include a child only case.
+7 17. "Nonparent relative" means a dependent child's grandfather,
+8 grandmother, brother, sister, stepfather, stepmother, stepbrother,
+9 stepsister, uncle, aunt, niece, nephew or cousin and includes a permanent
+10 guardian who is appointed pursuant to section 8-872.
+11 18. "Participant" means a recipient of cash assistance engaged in
+12 work activities through the JOBS program.
+13 19. "Personal responsibility declaration" means a document that is
+14 prescribed by the department and in which the applicant acknowledges
+15 understanding of the applicant's personal responsibility.
+16 20. "Recipient" means a person who receives assistance or services
+17 under the provisions of this title.
+18 21. "Services" includes social casework, rehabilitation counseling
+19 and similar services rendered to a person or persons in need as provided
+20 for in this title.
+21 22. "Sponsor" means any political subdivision of this state, any
+22 federally recognized Indian tribe, any military base or any other person,
+23 partnership, corporation or association contracting with this state to
+24 provide assistance in the distribution of child care food program monies
+25 pursuant to this article.
+26 23. "State department" or "department" means the department of
+27 economic security.
+28 24. "Temporarily deferred" means the postponement of work
+29 activities.
+30 25. "Temporary assistance for needy families" means assistance
+31 granted under section 403 of title IV of the social security act as it
+32 exists after August 21, 1996.
+33 26. "Vendor payment" means any payment to a person other than the
+34 recipient on his behalf.
+35 27. "Work activities" means the following activities that are
+36 countable toward the federal work participation rate as prescribed in
+37 Public Law 104-193, section 407 (1996):
+38 (a) Unsubsidized employment.
+39 (b) Subsidized private or public employment.
+40 (c) Work experience.
+41 (d) On-the-job training.
+42 (e) Job search and job readiness assistance.
+43 (f) Community service programs.
+44 (g) Vocational educational training.
+45 (h) Job skills training directly related to employment.
+-3-
+
+Senate Amendments to S.B. 1603
+1 (i) Education directly related to employment in the case of a
+2 recipient who has not received a high school diploma or a certificate of
+3 high school equivalency.
+4 (j) Satisfactory attendance at secondary school or in a course of
+5 study leading to a certificate of general equivalency, in the case of a
+6 recipient who has not completed secondary school or received such a
+7 certificate.
+8 Sec. 2. Section 46-292, Arizona Revised Statutes, is amended to
+9 read:
+10 46-292. Eligibility for assistance
+11 A. A family without a dependent child in the household may not
+12 receive cash assistance.
+13 B. Cash assistance may be given under this title to any dependent
+14 child and member of a needy family:
+15 1. Who has established residence in Arizona at the time of
+16 application and who is either:
+17 (a) A citizen by birth or naturalization.
+18 (b) A qualified alien who entered the United States on or before
+19 August 21, 1996.
+20 (c) A qualified alien who entered the United States as a member of
+21 one of the exception groups under Public Law 104-193, section 412, in
+22 which case the person shall be determined eligible in accordance with
+23 Public Law 104-193.
+24 (d) Defined as a qualified alien by the attorney general of the
+25 United States under the authority of Public Law 104-208, section 501.
+26 For the purposes of subdivisions (b) and (c) of this paragraph, "qualified
+27 alien" means a person who is defined as a qualified alien under Public Law
+28 104-193, section 431.
+29 2. If the parent or parents of the dependent child or the nonparent
+30 relative head of household receiving assistance, if employable, does not
+31 refuse to accept available employment. The department shall assess the
+32 applicant's employability at the time of initial application for
+33 assistance to establish a self-sufficiency diversion option, if
+34 appropriate, before benefit issuance. The determination of employability
+35 and the conditions under which employment shall be required shall be
+36 determined by the state department, except that claimed unemployability
+37 because of physical or mental incapacity shall be determined by the state
+38 department in accordance with this title.
+39 3. If the parent or parents of the dependent child or the nonparent
+40 head of household in a needy family has not, within one year before
+41 application, or while a recipient, transferred or assigned real or
+42 personal property with the intent to evade federal or state eligibility
+43 requirements. Transfer of property with retention of a life estate for
+44 the purpose of qualifying for assistance is prohibited. Where fair
+45 consideration for the property was received, no inquiry into motive is
+46 necessary. A person found ineligible under this section shall be
+47 ineligible for such time as the state department determines.
+-4-
+
+Senate Amendments to S.B. 1603
+1 4. Who meets the requirements of this section and department rule
+2 to qualify as part of the assistance unit.
+3 C. Qualified aliens entering the United States after August 21,
+4 1996 are ineligible for benefits for a period of five years beginning on
+5 their date of entry, except for Cuban and Haitian entrants as defined in
+6 section 501(e)(2) of the refugee education assistance act of 1980 and
+7 exceptions provided under Public Law 104-193 (personal responsibility and
+8 work opportunity reconciliation act of 1996) and Public Law 105-32
+9 (balanced budget act of 1997).
+10 D. A parent or any other relative who applies for or who receives
+11 cash assistance under this title on behalf of a child shall cooperate with
+12 the department by taking the following actions:
+13 1. Providing information regarding the identity of the child's
+14 father and mother and other pertinent information including their names,
+15 social security numbers and current addresses or a sworn statement that
+16 attests to the lack of this information and that is accompanied by facts
+17 supporting the asserted lack of information.
+18 2. Appearing at interviews, hearings and legal proceedings.
+19 3. Submitting and having the child submit to genetic testing.
+20 4. Signing authorizations for third parties to release information
+21 concerning the applicant or the child, or both.
+22 5. In cases in which parentage has not been established, providing
+23 a sworn statement alleging paternity and setting forth facts establishing
+24 a reasonable possibility of the requisite sexual contact between the
+25 parties.
+26 6. Supplying additional information the department requires.
+27 E. The department shall sanction a recipient who, without good
+28 cause as prescribed in subsection F of this section, fails to cooperate
+29 with child support enforcement efforts according to the sanction
+30 provisions of section 46-300.
+31 F. One or more of the following circumstances constitute good cause
+32 for failure to cooperate with child support enforcement efforts:
+33 1. Cooperation may result in physical or emotional harm to the
+34 parent, child for whom support is sought or caretaker relative with whom
+35 the child is living.
+36 2. Legal proceedings for adoption of the child for whom support is
+37 sought are pending before a court.
+38 3. The participant has been working, for less than ninety days,
+39 with a public or licensed private social agency on the issue of whether to
+40 allow the child for whom support is sought to be adopted.
+41 4. The child for whom support is sought was conceived as a result
+42 of sexual assault pursuant to section 13-1406 or incest.
+43 G. A person claiming good cause has twenty days from AFTER the date
+44 the good cause claim is provided to the agency to supply evidence
+45 supporting the claim. When determining whether the parent or relative is
+46 cooperating with the agency as provided in subsection D of this section,
+47 the agency shall require:
+-5-
+
+Senate Amendments to S.B. 1603
+1 1. If the good cause exception in subsection F, paragraph 1 of this
+2 section is claimed, law enforcement, court, medical, criminal,
+3 psychological, social service or governmental records or sworn statements
+4 from persons with personal knowledge of the circumstances that indicate
+5 that the alleged parent or obligor might inflict physical harm on the
+6 parent, child or caretaker relative.
+7 2. If the good cause exception in subsection F, paragraph 2 of this
+8 section is claimed, court documents that indicate that legal proceedings
+9 for adoption are pending before a court of competent jurisdiction.
+10 3. If the good cause exception in subsection F, paragraph 3 of this
+11 section is claimed, records from a public or licensed private social
+12 services agency showing that placing the child for whom support is sought
+13 is under consideration.
+14 4. If the good cause exception in subsection F, paragraph 4 of this
+15 section is claimed, law enforcement, court, medical, criminal,
+16 psychological, social service or governmental records or sworn statements
+17 from persons with personal knowledge of the circumstances surrounding the
+18 conception of the child that indicate the child was conceived as a result
+19 of sexual assault pursuant to section 13-1406 or incest.
+20 H. Notwithstanding subsection B of this section and except as
+21 provided in subsection I of this section, a dependent child or children
+22 who are born during one of the following time periods are not eligible for
+23 assistance under this title:
+24 1. The period in which the parent or other relative is receiving
+25 assistance benefits.
+26 2. The temporary period in which the parent or other relative is
+27 ineligible pursuant to a penalty imposed by the department for failure to
+28 comply with benefit eligibility requirements, after which the parent or
+29 other relative is eligible for a continuation of benefits.
+30 3. Any period after November 1, 1995 that is less than sixty months
+31 between a voluntary withdrawal from program benefits or a period of
+32 ineligibility for program benefits which THAT immediately followed a
+33 period during which program benefits were received and a subsequent
+34 reapplication and eligibility approval for benefits.
+35 I. The following exceptions apply to subsection H of this section:
+36 1. The department shall allow an increase in cash assistance under
+37 the program for a dependent child or children born as a result of an act
+38 of sexual assault pursuant to section 13-1406 or incest. The department
+39 shall ensure that the proper law enforcement authorities are notified of
+40 allegations of sexual assault or incest made pursuant to this paragraph.
+41 For the purposes of this paragraph, "an act of sexual assault" includes
+42 sexual assault of a spouse if the offense was committed before August 12,
+43 2005.
+44 2. For those parents or other relatives who are currently
+45 authorized for cash assistance the department shall allow an increase in
+46 cash assistance under the program as a result of the birth of a child or
+47 children to the parent or other relative only if the birth occurred within
+-6-
+
+Senate Amendments to S.B. 1603
+1 ten months of AFTER the initial eligible month. The department may use
+2 only the additional child or children who are born from the pregnancies
+3 covered in this subsection in computing the additional benefit.
+4 3. The department shall allow an increase in cash assistance for
+5 any dependent child born to a parent who has not received cash assistance
+6 under this title for at least twelve consecutive months if the child is
+7 born within the period beginning ten months after the twelve consecutive
+8 month period and ending ten months after the parent resumes receiving cash
+9 assistance.
+10 4. A dependent child or children who were born during a period in
+11 which the custodial parent received cash assistance through the Arizona
+12 works program shall be eligible to receive assistance under this title.
+13 5. A dependent child or children who were born within ten months
+14 after the custodial parent received cash assistance through the Arizona
+15 works program shall be eligible to receive assistance under this title.
+16 6. The department of economic security shall allow cash assistance
+17 for an otherwise eligible dependent child during the period in which the
+18 dependent child is in the legal custody of the department of child safety,
+19 a tribal court or a tribal child welfare agency located in this state and
+20 is placed in unlicensed kinship foster care with a nonparent relative or
+21 unrelated adult.
+22 7. The department shall allow cash assistance for an otherwise
+23 eligible child who meets one of the following:
+24 (a) The court has placed the child with a nonparent relative.
+25 (b) The child's parents are deceased and the child is living with a
+26 nonparent relative.
+27 (c) A nonparent relative has custody of the child because the child
+28 is abandoned as defined in section 8-201.
+29 J. The department shall calculate the sixty-month time period
+30 referenced in subsection H, paragraph 3 of this section in the following
+31 manner:
+32 1. For persons who are receiving cash assistance on November 1,
+33 1995, the sixty-month time period begins on November 1, 1995. A
+34 subsequent sixty-month time period begins immediately after the previous
+35 period ends if the person is receiving cash assistance through two
+36 sixty-month periods. If the individual is not receiving cash assistance
+37 at the end of the previous sixty-month period, any subsequent sixty-month
+38 time period begins on the date when cash assistance became effective
+39 again, regardless of when the person received an actual payment.
+40 2. For persons who begin receiving cash assistance after November
+41 1, 1995, the sixty-month time period begins on the date cash assistance
+42 becomes effective, regardless of when the person received an actual
+43 payment. A subsequent sixty-month period begins as provided in paragraph
+44 1 of this subsection.
+45 K. In calculating a parent's or any other relative's benefit
+46 increase that arises from any general increase that has been approved for
+47 all program recipients, the department shall not consider a child or
+-7-
+
+Senate Amendments to S.B. 1603
+1 children born under the time periods listed in subsection H of this
+2 section.
+3 L. For the parents or other relatives who have additional children
+4 for whom they receive no cash assistance payment under subsection H of
+5 this section, the department shall make any necessary program amendments
+6 or request any necessary federal waivers to allow the parents or other
+7 relatives to earn income in an amount equal to the disallowed cash
+8 assistance payment without affecting their eligibility for assistance.
+9 M. The director shall adopt rules:
+10 1. To implement this section, including rules to define the
+11 investigatory steps that must be taken to confirm that an act of sexual
+12 assault pursuant to section 13-1406 or incest led to the birth of a
+13 dependent child or children.
+14 2. That require the department to inform both verbally and in
+15 writing the parents and other relatives who are receiving assistance under
+16 this article of the specific family planning services that are available
+17 to them while they are enrolled as eligible persons in the Arizona health
+18 care cost containment system.
+19 N. This section does not prevent an otherwise eligible child who is
+20 not included in the family's calculation of benefits under this article
+21 from being eligible for coverage under title 36, chapter 29 or for any
+22 services that are directly linked to eligibility for the temporary
+23 assistance for needy families program.
+24 O. Assistance shall not be denied or terminated under this article
+25 because the principal wage earner works one hundred or more hours per
+26 month.
+27 P. Except as provided in paragraph 2 of this subsection, all
+28 members of a needy family, including stepparents, must meet the same
+29 financial eligibility criteria established in this title, by department
+30 rule and as follows:
+31 1. The department shall include all income from every source
+32 available to a needy family requesting cash assistance, except income that
+33 is required to be disregarded by this subsection and as determined by the
+34 department in rules. For the amount of income that is received from
+35 employment, each month every employed person is entitled to receive an
+36 earned income disregard of ninety dollars $90 plus an additional thirty
+37 percent of the remaining earned income. A needy family that includes an
+38 employed person is entitled to an earned income disregard equal to the
+39 actual amount billed to the household for the care of an adult or child
+40 dependent household member, up to two hundred dollars $200 a month for a
+41 child under two years of age and up to one hundred seventy-five dollars
+42 $175 a month for each other dependent. This dependent care disregard is
+43 allowed only if the expense is necessary to allow the household member to
+44 become or remain employed or to attend postsecondary training or education
+45 that is preparatory to employment.
+46 2. The total gross countable income of a needy family that includes
+47 a nonparent relative head of household who is not applying for or
+-8-
+
+Senate Amendments to S.B. 1603
+1 receiving cash assistance and who is requesting cash assistance only for a
+2 dependent child shall not exceed one hundred thirty percent of the federal
+3 poverty guidelines.
+4 Q. If the total gross countable income in subsection P, paragraph 2
+5 of this section does not exceed one hundred thirty percent of the federal
+6 poverty guidelines, in determining benefit amount, the department shall
+7 exclude the income of all members of the needy family except for the
+8 income of the eligible dependent child for whom cash assistance is
+9 requested.
+10 R. For the purposes of eligibility and benefit amount, FOR A CHILD
+11 ONLY CASE, BOTH OF THE FOLLOWING APPLY:
+12 1. Only the income of the dependent child is considered for a child
+13 only case.
+14 2. THE BENEFIT AMOUNT IS BASED ON AVAILABLE MONIES AS DETERMINED BY
+15 THE DEPARTMENT.
+16 S. Any parent or other relative who applies for or receives cash
+17 assistance under this article on behalf of a dependent child who is
+18 between six and sixteen years of age shall ensure that the child is
+19 enrolled in and attending school. An initial applicant is ineligible for
+20 benefits until the applicant's dependent children are verified to be
+21 enrolled in and attending an educational program. The department of
+22 education shall assist the department of economic security in obtaining
+23 verification of school enrollment and attendance. The director of the
+24 department of economic security may adopt rules for granting good cause
+25 exceptions from this subsection. The department of economic security
+26 shall sanction a recipient who fails, without good cause, to ensure school
+27 enrollment and attendance according to section 46-300.
+28 T. Any parent or other relative who applies for or receives cash
+29 assistance under this section on behalf of a dependent child shall ensure
+30 that the child is immunized in accordance with the schedule of
+31 immunizations pursuant to section 36-672. The director of the department
+32 of economic security may adopt rules for granting good cause exceptions
+33 from this subsection. The department of economic security shall sanction
+34 a recipient, in accordance with section 46-300, who fails, without good
+35 cause, to obtain the required immunizations for a dependent child unless
+36 the recipient submits to the department of economic security the
+37 documentation described in section 15-873.
+38 Enroll and engross to conform
+39 Amend title to conform
+1603HHS.docx
+02/17/2026
+08:33 AM
+S: MM/SDR/hk
+130ZJVIIK
+-9-

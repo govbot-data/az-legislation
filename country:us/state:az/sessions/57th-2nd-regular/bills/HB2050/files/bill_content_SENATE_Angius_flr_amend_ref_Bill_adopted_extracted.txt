@@ -1,0 +1,445 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Angius flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2050
+Angius Floor Amendment
+Reference to: House engrossed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Restores the requirement that a radiologist assistant perform specified procedures and evaluations
+under direct supervision of a radiologist.
+2. Requires the Department of Health Services to allow for general supervision of radiologist
+assistants in a county with a population of less than 500,000 persons or a health care institution
+that is licensed as a critical access hospital, if the health care facility establishes outlined policies
+and procedures.
+3. Defines general supervision as supervision by a licensed Arizona radiologist who is readily
+accessible by telecommunication.
+Amendment explanation prepared by Michael Madden
+04/01/2026
+
+Fifty-seventh Legislature Angius
+Second Regular Session H.B. 2050
+ANGIUS FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2050
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 30-672, Arizona Revised Statutes, is amended to
+3 read:
+4 30-672. Licensing and registration of sources of radiation;
+5 exemptions; rules
+6 A. The department by rule shall provide for general or specific
+7 licensing of by-product MATERIALS, source MATERIALS, special nuclear
+8 materials or devices or equipment using those materials. The department
+9 shall require from the applicant satisfactory evidence that the applicant
+10 is using methods and techniques that are demonstrated to be safe and that
+11 the applicant is familiar with the rules adopted by the department under
+12 section 30-654, subsection B, paragraph 5 relative to uniform radiation
+13 standards, total occupational radiation exposure norms, labels, signs and
+14 symbols, storage, waste disposal and shipment of radioactive
+15 materials. The department may require that, before it issues a license,
+16 the employees or other personnel of an applicant who may deal with sources
+17 of radiation receive a course of instruction approved by the department
+18 concerning department rules. The department shall require that the
+19 applicant's proposed equipment and facilities be adequate to protect
+20 health and safety and that the applicant's proposed administrative
+21 controls over the use of the sources of radiation requested be adequate to
+22 protect health and safety.
+23 B. The department may require registration or licensing of other
+24 sources of radiation if deemed necessary to protect public health or
+25 safety.
+26 C. The department may exempt certain sources of radiation or kinds
+27 of uses or users from the licensing or registration requirements set forth
+28 in this section if it finds that exempting such sources of radiation or
+
+Senate Amendments to H.B. 2050
+1 kinds of uses or users will not constitute a significant risk to the
+2 health and safety of the public.
+3 D. The director may suspend or revoke, in whole or in part, any
+4 license issued under subsection A of this section if the licensee or an
+5 officer, agent or employee of the licensee:
+6 1. Violates this chapter or rules of the department adopted
+7 pursuant to this chapter.
+8 2. Has been, is or may continue to be in substantial violation of
+9 the requirements for licensure of the SOURCE OF radiation source and as a
+10 result the health or safety of the general public is in immediate danger.
+11 E. If the licensee, or an officer, agent or employee of the
+12 licensee, refuses to allow the department or its employees or agents to
+13 inspect the licensee's premises, such an action shall be deemed reasonable
+14 cause to believe that a substantial violation under subsection D,
+15 paragraph 2 of this section exists.
+16 F. A license may not be suspended or revoked under this chapter
+17 without affording the licensee notice and an opportunity for a hearing as
+18 provided in title 41, chapter 6, article 10.
+19 G. The department shall not require persons who are licensed in
+20 this state to practice as a dentist, physician assistant, REGISTERED NURSE
+21 PRACTITIONER, chiropodist or veterinarian or licensed in this state to
+22 practice medicine, surgery, osteopathic medicine, chiropractic or
+23 naturopathic medicine to obtain any other license to use a diagnostic
+24 x-ray machine, but these persons are governed by their own licensing acts.
+25 H. Persons who are licensed by the federal communications
+26 commission with respect to the activities for which they are licensed by
+27 that commission are exempt from this chapter.
+28 I. Rules adopted pursuant to this chapter may provide for
+29 recognition of other state or federal licenses as the department deems
+30 desirable, subject to such registration requirements as the department
+31 prescribes.
+32 J. Any licenses issued by the department shall state the nature,
+33 use and extent of use of the source of radiation. If at any time after a
+34 license is issued the licensee desires any change in the nature, use or
+35 extent, the licensee shall seek an amendment or a new license under this
+36 section.
+37 K. The department shall prescribe by rule requirements for
+38 financial security as a condition for licensure under this article. The
+39 department shall deposit all amounts posted, paid or forfeited as
+40 financial security in the radiation regulatory and perpetual care fund
+41 established by section 30-694.
+42 L. Persons applying for licensure shall provide notice to the city
+43 or town where the applicant proposes to operate as part of the application
+44 process.
+45 M. Any facility that provides diagnostic MAMMOGRAPHY or screening
+46 mammography examinations by or under the direction of a person who is
+47 exempt from further licensure under subsection G of this section shall
+-2-
+
+Senate Amendments to H.B. 2050
+1 obtain certification by the department. The department shall prescribe by
+2 rule the requirements of certification in order to ensure the accuracy and
+3 safety of diagnostic MAMMOGRAPHY and screening mammography.
+4 Sec. 2. Section 32-2804, Arizona Revised Statutes, is amended to
+5 read:
+6 32-2804. School approval; standards; considerations
+7 A. The department may approve a school of radiologic technology as
+8 maintaining a satisfactory standard if its THE SCHOOL'S course of study:
+9 1. Is for a period of at least twenty-four months of full-time
+10 study or its equivalent and is accredited by the committee on allied
+11 health accreditation COMMISSION ON ACCREDITATION OF ALLIED HEALTH
+12 EDUCATION PROGRAMS OR THE JOINT REVIEW COMMITTEE ON EDUCATION IN
+13 RADIOLOGIC TECHNOLOGY OR ACCREDITED AS RECOGNIZED BY THE UNITED STATES
+14 DEPARTMENT OF EDUCATION, or meets or exceeds the standards of this
+15 chapter.
+16 2. Includes at least four hundred hours of classroom work,
+17 including radiation protection, x-ray physics, radiographic techniques,
+18 processing techniques, nursing RADIOGRAPHIC IMAGING AND PATIENT CARE
+19 procedures, anatomy and physiology, radiographic positioning, radiation
+20 therapy AN INTRODUCTION TO OTHER IMAGING MODALITIES and professional
+21 ethics.
+22 3. Includes at least one thousand eight SIX hundred FIFTY hours
+23 devoted to clinical experience.
+24 4. Includes demonstrations, discussions, seminars and supervised
+25 practice.
+26 5. Includes at least eighty hours of regularly scheduled supervised
+27 film IMAGE critiques.
+28 B. An approved school of radiologic technology may be operated by a
+29 medical or educational institution or other public or private agency or
+30 institution and, for the purpose of providing the requisite clinical
+31 experience, shall be affiliated with one or more hospitals that the
+32 department determines are likely to provide this experience.
+33 C. In approving a school of radiologic technology, the department
+34 shall consider the standards adopted by appropriate professional
+35 organizations, including the joint review committee on education in
+36 radiologic technology, and may accept the certification of a school of
+37 radiologic technology or the accreditation of a hospital to provide
+38 requisite clinical experience if the department finds that certification
+39 or accreditation was granted on the basis of standards that will afford
+40 the same protection to the public as the standards provided by this
+41 chapter.
+42 Sec. 3. Section 32-2813, Arizona Revised Statutes, is amended to
+43 read:
+44 32-2813. Examination; contents; subsequent examinations
+45 A. Examinations for certification shall include the subjects of
+46 radiation protection, x-ray physics, radiographic techniques, processing
+47 techniques, nursing RADIOGRAPHIC IMAGING AND PATIENT CARE procedures,
+-3-
+
+Senate Amendments to H.B. 2050
+1 anatomy terminology, radiological mathematics, professional ethics and
+2 such other subjects as the department may deem appropriate, INCLUDING THE
+3 CONTENT SPECIFICATIONS OUTLINED BY THE AMERICAN REGISTRY OF RADIOLOGIC
+4 TECHNOLOGISTS.
+5 B. The department shall prepare lists of examination questions or
+6 problems and administer the examinations.
+7 C. Examinations shall include written questions but may also
+8 include practical and oral portions. Following each examination, the
+9 papers and the practical and oral examinations shall be graded and the
+10 standing of each applicant shall be recorded. The department shall either
+11 pass or reject each applicant.
+12 D. An applicant who fails to pass an examination may reapply for
+13 examination in the manner prescribed by section 32-2812. The department
+14 shall require a candidate who fails the examination three times to
+15 successfully complete additional training prescribed by the department
+16 before accepting the candidate for reexamination.
+17 Sec. 4. Section 32-2815, Arizona Revised Statutes, is amended to
+18 read:
+19 32-2815. Rules; bone densitometry certification; nuclear
+20 medicine certification; continuing education
+21 A. The department shall adopt rules regarding the certification of
+22 practical technologists in bone densitometry to allow the certificate
+23 holder to apply ionizing radiation to a person's HIPS, SPINE AND
+24 extremities through the use of a bone densitometry machine. The rules
+25 shall prescribe:
+26 1. The minimum education and training qualifications for
+27 certification. The qualifications prescribed by the department shall
+28 allow a person who does not meet the education and training requirements
+29 of a radiologic technologist or a practical technologist in radiology to
+30 obtain a certificate as a practical technologist in bone densitometry.
+31 2. The application and renewal fees.
+32 B. Subsection A of this section does not prohibit a radiologic
+33 technologist or a practical technologist in radiology from operating a
+34 bone densitometry machine.
+35 C. A person who wishes to practice as a nuclear medicine
+36 technologist must apply to the department for certification as prescribed
+37 by rule. The department shall adopt rules to establish minimum
+38 educational and training requirements for nuclear medicine technologists.
+39 D. The department shall adopt rules to prescribe the following
+40 minimum continuing education requirements for the renewal of the following
+41 certificates:
+42 1. Practical technologist in podiatry, two hours every two years.
+43 2. Practical technologist in radiology, six hours every two years.
+44 3. Practical technologist in bone densitometry, two hours every two
+45 years.
+46 4. Unlimited practical technologist in radiology, twenty-four hours
+47 every two years.
+-4-
+
+Senate Amendments to H.B. 2050
+1 5. Nuclear medicine technologist, twenty-four hours every two
+2 years.
+3 6. Radiologist assistant, fifty hours every two years.
+4 7. Radiologic technologist, twenty-four hours every two years.
+5 8. Radiation therapy technologist, twenty-four hours every two
+6 years.
+7 E. The department may require an applicant for renewal to document
+8 compliance with the appropriate continuing education requirements of
+9 subsection D of this section.
+10 Sec. 5. Section 32-2819, Arizona Revised Statutes, is amended to
+11 read:
+12 32-2819. Radiologist assistants; certification; rules; scope
+13 of practice
+14 A. A person who wishes to practice as a radiologist assistant must
+15 apply to the department for a certificate on a form and in the manner
+16 prescribed by the department pursuant to the requirements of section
+17 32-2812.
+18 B. The department shall adopt rules to implement this section. The
+19 rules shall include the following:
+20 1. Continuing education requirements.
+21 2. Any other requirements the department considers appropriate to
+22 implement this section.
+23 C. Pursuant to rules adopted by the department [AND EXCEPT AS
+24 PROVIDED IN SECTION 32-2819.01], a radiologist assistant may do the
+25 following under the [direct] supervision of a radiologist:
+26 1. Perform fluoroscopic procedures.
+27 2. Assess and evaluate the physiologic and psychological
+28 responsiveness of patients WHO ARE undergoing radiologic procedures.
+29 3. Evaluate image quality, make initial image observations and
+30 communicate observations to the supervising radiologist.
+31 4. Administer contrast media or other medications prescribed by the
+32 supervising radiologist.
+33 5. Perform any other procedures consistent with rules adopted by
+34 the department.
+35 D. In adopting rules pursuant to subsection C of this section, the
+36 department shall consider guidelines established by the the American
+37 society of radiologic technologists and the American registry of
+38 radiologic technologists.
+39 E. A radiologist assistant shall not interpret images, make
+40 diagnoses or prescribe medications or therapies.
+41 F. A radiologist who supervises a radiologist assistant may
+42 authorize the RADIOLOGIST assistant to perform only those radiologic
+43 procedures described in this section.
+44 G. A person shall not do any of the following without a certificate
+45 issued pursuant to this section:
+46 1. Perform the radiologic procedures described in subsection C of
+47 this section.
+-5-
+
+Senate Amendments to H.B. 2050
+1 2. Claim to be a radiologist assistant, including using any sign,
+2 advertisement, card, letterhead, circular or other writing, document or
+3 design to induce others to believe the person is authorized to practice as
+4 a radiologist assistant.
+5 H. Subsection G of this section does not apply to either of the
+6 following:
+7 1. A person WHO IS engaging in the scope of practice for which the
+8 person holds a valid license or certificate.
+9 2. A person WHO IS performing a task as part of an advanced
+10 academic program.
+11 [I. FOR THE PURPOSES OF THIS SECTION, "SUPERVISION" MEANS
+12 SUPERVISION BY A RADIOLOGIST WHO IS LICENSED IN THIS STATE AND WHO IS
+13 READILY ACCESSIBLE BY TELECOMMUNICATION.]
+14 <<Sec. 6. Title 32, chapter 28, article 2, Arizona Revised
+15 Statutes, is amended by adding section 32-2819.01, to read:
+16 32-2819.01. Radiologist assistants; general supervision;
+17 rural counties; critical access hospitals;
+18 definition
+19 [A. IN A COUNTY WITH A POPULATION OF LESS THAN FIVE HUNDRED
+20 THOUSAND PERSONS OR A HEALTH CARE INSTITUTION THAT IS LICENSED AS A
+21 CRITICAL ACCESS HOSPITAL, THE DEPARTMENT SHALL ALLOW FOR GENERAL
+22 SUPERVISION OF RADIOLOGIST ASSISTANTS IF THE HEALTH CARE FACILITY ENSURES
+23 ALL OF THE FOLLOWING:
+24 1. THE HEALTH CARE FACILITY OR RADIOLOGIST:
+25 (a) HAS ESTABLISHED A WRITTEN PROTOCOL FOR THE APPLICATION OF
+26 RADIATION TO A PATIENT FOR EACH PROCEDURE THAT MAY BE CONDUCTED BY A
+27 RADIOLOGIST ASSISTANT UNDER THE GENERAL SUPERVISION OF A RADIOLOGIST,
+28 INCLUDING FOLLOW-UP INSTRUCTIONS FOR THE PATIENT.
+29 (b) REVIEWS AND, AS NECESSARY, REVISES THE WRITTEN PROTOCOL AT
+30 LEAST ANNUALLY.
+31 (c) DOCUMENTS THE REVIEW REQUIRED BY SUBDIVISION (b) OF THIS
+32 PARAGRAPH WITH A SIGNATURE AND DATE OF SIGNATURE.
+33 2. EACH RADIOLOGIST ASSISTANT FOLLOWS THE APPLICABLE WRITTEN
+34 PROTOCOL WHEN DELIVERING RADIATION TO A PATIENT.
+35 3. AT LEAST EVERY SIX MONTHS, THE RADIOLOGIST:
+36 (a) OBSERVES EACH RADIOLOGIST ASSISTANT WHILE THE RADIOLOGIST
+37 ASSISTANT IS PERFORMING A PROCEDURE TO ENSURE THE RADIOLOGIST ASSISTANT'S
+38 ADHERENCE TO THE APPLICABLE WRITTEN PROTOCOL.
+39 (b) DOCUMENTS THE RADIOLOGIST'S OBSERVATION AND ASSESSMENT OF THE
+40 RADIOLOGIST ASSISTANT.
+41 4. A RADIOLOGIST IS ON-SITE AND AVAILABLE FOR CONSULTATION ABOUT
+42 PATIENT CARE AT LEAST ONCE EVERY FIVE WORKING DAYS, AS VERIFIED IN
+43 DOCUMENTATION MAINTAINED BY THE REGISTRANT.
+44 5. THE HEALTH AND SAFETY OF PATIENTS ARE MAINTAINED.
+45 B. A RADIOLOGIST THAT USES GENERAL SUPERVISION TO COMPLY WITH THE
+46 REQUIREMENTS OF THIS SECTION SHALL DEVELOP, MAINTAIN AND IMPLEMENT
+47 POLICIES AND PROCEDURES TO MONITOR BOTH:
+-6-
+
+Senate Amendments to H.B. 2050
+1 1. THE PERFORMANCE OF EACH PROCEDURE BY A RADIOLOGIST ASSISTANT
+2 UNDER GENERAL SUPERVISION.
+3 2. THE QUALITY OF PATIENT CARE.
+4 C. FOR THE PURPOSES OF THIS SECTION, "GENERAL SUPERVISION" MEANS
+5 SUPERVISION BY A RADIOLOGIST WHO IS LICENSED IN THIS STATE AND WHO IS
+6 READILY ACCESSIBLE BY TELECOMMUNICATION.
+7 Sec. 7. Section 32-2841, Arizona Revised Statutes, is amended to
+8 read:
+9 32-2841. Mammographic technologists; computed tomography
+10 technologists; certification; renewal
+11 A. A person who wishes to perform diagnostic mammography or
+12 screening mammography as defined in section 30-651 shall obtain a
+13 mammographic technologist certificate from the department. A person who
+14 wishes to perform computed tomography shall obtain a computed tomography
+15 technologist certificate from the department. The department shall issue
+16 a certificate to an applicant who:
+17 1. Pays a twenty dollar THE application fee THAT IS PRESCRIBED IN
+18 RULE BY THE DEPARTMENT.
+19 2. Holds a current radiologic technology certificate issued by the
+20 department.
+21 3. For a mammographic TECHNOLOGIST certification, completes the
+22 training and education requirements of subsection B of this section and
+23 passes an examination as prescribed in subsection D of this section.
+24 4. For a computed tomography technologist certification, provides
+25 documentation of two years of experience in computed tomography and
+26 completion of twelve hours of computed tomography specific education or
+27 passes an examination as prescribed in subsection D of this section.
+28 B. To satisfy the education requirements of subsection A of this
+29 section, an applicant shall meet the initial training and education
+30 requirements of the mammography quality standards act regulations for
+31 quality standards of mammographic technologists, (21 Code of Federal
+32 Regulations section 900.12).
+33 C. The department shall issue a student mammography permit,
+34 preceptorship or temporary certificate to a person who is in training and
+35 WHO meets the requirement of subsection A, paragraph 2 of this section if
+36 the applicant also provides the department with verification of employment
+37 and the name of the radiologist who agrees to be responsible for the
+38 applicant's supervision and training. A student mammography permit,
+39 preceptorship or temporary certificate is valid for one year from AFTER
+40 the date it is issued and may not be renewed. If the holder completes all
+41 of the requirements of subsection A of this section within the permitted
+42 period, the department shall issue a mammographic TECHNOLOGIST or computed
+43 tomography technologist certificate. The mammographic TECHNOLOGIST or
+44 computed tomography technologist certificate shall be renewed as
+45 prescribed under BY subsection E of this section.
+46 D. To satisfy the examination requirements of this section, an
+47 applicant shall pass an examination in mammography or computed tomography
+-7-
+
+Senate Amendments to H.B. 2050
+1 administered by the department or, in lieu of its own examination, the
+2 department may accept a certificate issued on the basis of an examination
+3 by a certificate-granting body recognized by the department.
+4 E. Except as provided in section 32-4301, a certificate that is
+5 issued under this section is valid for two years. The department shall
+6 notify a certificate holder thirty days before the expiration date of the
+7 certificate. An applicant for renewal of a mammographic technologist
+8 certificate shall meet the continuing education requirements of the
+9 mammography quality standards act regulations for quality standards of
+10 mammographic technologists, (21 Code of Federal Regulations section
+11 900.12). If a radiologic technologist is certified by the American
+12 registry of radiologic technologists, that person must satisfy the
+13 continuing education requirements of this subsection by providing the
+14 department with evidence of the RADIOLOGIC technologist's good standing
+15 and current certification with that registry. The applicant shall also
+16 pay a twenty dollar renewal fee to AS PRESCRIBED IN RULE BY the
+17 department.
+18 F. A person or facility that employs a person WHO IS certified
+19 under this section shall report any suspected violations of section
+20 32-2821 to the department. The department shall investigate the
+21 complaint. If in the course of its investigation the department
+22 determines that a person regulated by another regulatory agency of this
+23 state may have violated that agency's laws, the department shall report
+24 the violation to the other agency for disciplinary action.
+25 Sec. 8. Section 36-3601, Arizona Revised Statutes, is amended to
+26 read:
+27 36-3601. Definitions
+28 For the purposes of IN this chapter, UNLESS THE CONTEXT OTHERWISE
+29 REQUIRES:
+30 1. "Health care decision maker" has the same meaning prescribed in
+31 section 12-2801.
+32 2. "Health care provider":
+33 (a) Means a person WHO IS licensed pursuant to title 32, chapter 7,
+34 8, 13, 14, 15, 15.1, 16, 17, 18, 19, 19.1, 25, 28, 29, 33, 34, 35, 39, 41
+35 or 42, or chapter 4, article 6 of this title, chapter 6, article 7 of this
+36 title or chapter 17 of this title.
+37 (b) Includes:
+38 (i) A health care institution THAT IS licensed pursuant to chapter
+39 4 of this title.
+40 (ii) A person who holds a training permit pursuant to title 32,
+41 chapter 13 or 17.
+42 3. "Health care provider regulatory board or agency" means a board
+43 or agency that regulates one or more health care provider professions in
+44 this state.
+45 4. "Telehealth" means:
+46 (a) The interactive use of audio, video or other electronic media,
+47 including asynchronous store-and-forward technologies and remote patient
+-8-
+
+Senate Amendments to H.B. 2050
+1 monitoring technologies, for the practice of health care, assessment,
+2 diagnosis, consultation or treatment and the transfer of medical data.
+3 (b) Includes the use of an audio-only telephone encounter between
+4 the patient or client and health care provider if an audio-visual
+5 telehealth encounter is not reasonably available due to the patient's
+6 functional status, the patient's lack of technology or telecommunications
+7 infrastructure limits, as determined by the health care provider.
+8 (c) Does not include the use of a fax machine, instant messages,
+9 voice mail VOICEMAIL or email.
+10 Sec. 9. Legislative intent
+11 The legislature intends that the change made to the list of health
+12 professionals that do not require additional licensure to use diagnostic
+13 x-ray in section 30-672, subsection G, Arizona Revised Statutes, as
+14 amended by this act, prompt an advisory opinion from the state board of
+15 nursing that details appropriate radiation safety training and operator
+16 certification to perform imaging.
+17 Enroll and engross to conform
+18 Amend title to conform
+HILDY ANGIUS
+2050FloorANGIUS.docx
+03/19/2026
+11:18 AM
+C: MH
+130KTOVTP
+-9-

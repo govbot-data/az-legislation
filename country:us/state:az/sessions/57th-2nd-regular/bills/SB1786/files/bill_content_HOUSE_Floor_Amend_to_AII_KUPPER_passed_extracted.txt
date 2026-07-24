@@ -1,0 +1,176 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to AII - KUPPER - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1786: artificial intelligence; content verification
+KUPPER FLOOR AMENDMENT
+1. Specifies that text content that is generated as a part of an interactive
+experience, is to be excluded from the provenance data that is created or
+altered by a generative AI system.
+2. Makes a technical change.
+TM
+4/7/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Kupper
+Second Regular Session S.B. 1786
+KUPPER FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1786
+(Reference to ARTIFICIAL INTELLIGENCE & INNOVATION Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 18, Arizona Revised Statutes, is amended by adding
+3 chapter 8, to read:
+4 CHAPTER 8
+5 ARTIFICIAL INTELLIGENCE
+6 ARTICLE 1. GENERAL PROVISIONS
+7 18-801. Artificial intelligence; content verification;
+8 definitions
+9 A. A COVERED PROVIDER SHALL INCLUDE PROVENANCE DATA IN ANY VIDEO,
+10 IMAGE OR AUDIO CONTENT [OR CONTENT THAT IS ANY COMBINATION OF A VIDEO, AN
+11 IMAGE OR AUDIO CONTENT] THAT IS CREATED OR MATERIALLY ALTERED BY THE
+12 COVERED PROVIDER'S GENERATIVE ARTIFICIAL INTELLIGENCE SYSTEM [AND THAT IS
+13 AVAILABLE TO BE SHARED WITH USERS OUTSIDE OF THE GENERATIVE ARTIFICIAL
+14 INTELLIGENCE SYSTEM. THIS SUBSECTION DOES NOT APPLY TO {{TEXT}} CONTENT
+15 THAT IS GENERATED AS A RESULT OF AN INTERACTIVE EXPERIENCE, INCLUDING
+16 VOICE ASSISTANT RESPONSES, VIRTUAL REALITY ENVIRONMENTS, AUGMENTED REALITY
+
+House Amendments to S.B. 1786
+1 APPLICATIONS, REAL-TIME CONVERSATIONAL ARTIFICIAL INTELLIGENCE
+2 INTERACTIONS AND OTHER REAL-TIME, DYNAMIC INTERACTIONS BETWEEN A USER AND
+3 A GENERATIVE ARTIFICIAL INTELLIGENCE SYSTEM].
+4 B. A COVERED PROVIDER SHALL USE COMMERCIALLY AND TECHNICALLY
+5 REASONABLE METHODS TO MAKE THE PROVENANCE DATA DIFFICULT TO REMOVE OR
+6 TAMPER WITH. THE USE OF A COMMONLY SUPPORTED TECHNICAL STANDARD FOR
+7 WATERMARKING AND METADATA COMPLIES WITH THE REQUIREMENTS OF THIS
+8 SUBSECTION.
+9 C. THE CONTENT IS NOT CONSIDERED MATERIALLY ALTERED FOR PURPOSES OF
+10 THIS SECTION IF THE ALTERATION CONSISTS OF A MINOR MODIFICATION THAT DOES
+11 NOT LEAD TO SIGNIFICANT CHANGES TO THE PERCEIVED CONTENT OR MEANING OF THE
+12 CONTENT.
+13 D. [TO THE EXTENT THAT IT IS COMMERCIALLY AND TECHNICALLY
+14 REASONABLE,] A COVERED PROVIDER [IS REQUIRED TO] [MAY NOT] INCLUDE ANY
+15 INFORMATION THAT RELATES TO AN IDENTIFIED OR REASONABLY IDENTIFIABLE
+16 INDIVIDUAL IN PROVENANCE DATA THAT [IS INCLUDED IN] [IS IN ANY VIDEO,
+17 IMAGE OR AUDIO] CONTENT CREATED OR MATERIALLY ALTERED BY THE COVERED
+18 PROVIDER'S GENERATIVE ARTIFICIAL INTELLIGENCE SYSTEM [AND THAT IS SUBJECT
+19 TO THE REQUIREMENTS OF THIS CHAPTER UNLESS THE COVERED PROVIDER CHOOSES TO
+20 INCLUDE THE INFORMATION WHERE A USER AFFIRMATIVELY ELECTS TO INCLUDE THE
+21 INFORMATION].
+22 [E. THIS CHAPTER DOES NOT DO EITHER OF THE FOLLOWING:
+23 1. APPLY TO ANY PRODUCT, SERVICE, INTERNET WEBSITE OR APPLICATION
+24 THAT EITHER:
+25 (a) EXCLUSIVELY PROVIDES {{VIDEO GAMES OR}} NON-USER-GENERATED
+26 TELEVISION, MUSIC, STREAMING, MOVIE{{, VIDEO GAME}} OR INTERACTIVE
+27 EXPERIENCES.
+28 (b) PROVIDES FOR THE SALE OF GOODS OR SERVICES DIRECTLY TO
+29 CONSUMERS THROUGH THE INTERNET AND ALLOWS CUSTOMERS TO BROWSE, SELECT AND
+30 PURCHASE ITEMS VIRTUALLY.
+31 2. REQUIRE A COVERED PROVIDER TO DISCLOSE ANY TRADE SECRET OR
+32 CONFIDENTIAL OR PROPRIETARY INFORMATION ABOUT THE DESIGN OR USE OF AN
+33 ARTIFICIAL INTELLIGENCE SYSTEM.]
+34 [E.] [F.] FOR THE PURPOSE OF THIS SECTION:
+35 1. "COVERED PROVIDER"[:]
+36 [(a)] MEANS A PERSON OR ENTITY THAT CREATES, CODES OR OTHERWISE
+37 PRODUCES A GENERATIVE ARTIFICIAL INTELLIGENCE SYSTEM THAT [HAS MORE THAN
+38 ONE MILLION MONTHLY USERS AND THAT] IS PUBLICLY ACCESSIBLE WITHIN THE
+39 GEOGRAPHIC BOUNDARIES OF THIS STATE TO CONSUMERS FOR PERSONAL USE.
+40 [(b) DOES NOT INCLUDE ANY OF THE FOLLOWING:
+41 (i) A CLOUD SERVICE PROVIDER.
+-2-
+
+House Amendments to S.B. 1786
+1 (ii) A PROVIDER THAT DISTRIBUTES OR MAKES AVAILABLE A GENERATIVE
+2 ARTIFICIAL INTELLIGENCE SYSTEM THAT IS PRIMARILY LICENSED OR SOLD FOR
+3 BUSINESS TO BUSINESS PURPOSES.
+4 (iii) A PRODUCT, SERVICE OR APPLICATION THAT IS PRIMARILY MARKETED
+5 AND INTENDED TO FACILITATE ACCESSIBILITY FOR A PERSON WITH A DISABILITY IF
+6 THE DEVELOPER TAKES REASONABLE MEASURES TO PROTECT AGAINST UNAUTHORIZED
+7 USE.
+8 (iv) AN INTERNET SERVICE PROVIDER.
+9 (v) AN INTERNET SERVICE PROVIDER'S AFFILIATES OR SUBSIDIARIES.
+10 (vi) AN INTERNET SEARCH ENGINE.]
+11 2. "GENERATIVE ARTIFICIAL INTELLIGENCE SYSTEM” MEANS [TECHNOLOGY
+12 THAT USES MACHINE LEARNING, INCLUDING DEEP-LEARNING MODELS, NATURAL
+13 LANGUAGE PROCESSING OR OTHER COMPUTATIONAL PROCESSING TECHNIQUES OF
+14 SIMILAR OR GREATER COMPLEXITY, TO GENERATE IMAGES, AUDIO, VIDEO OR OTHER
+15 MEDIA] [AN ARTIFICIAL INTELLIGENCE SYSTEM THAT CAN GENERATE SYNTHETIC
+16 CONTENT].
+17 3. "MINOR MODIFICATION" INCLUDES ALL OF THE FOLLOWING:
+18 (a) CHANGING THE BRIGHTNESS, CONTRAST OR COLOR.
+19 (b) SHARPENING.
+20 (c) SATURATING.
+21 (d) APPLYING FILTERS.
+22 (e) RESIZING.
+23 (f) SCALING.
+24 (g) CROPPING.
+25 (h) FORMAT CONVERSIONS.
+26 (i) RESAMPLING.
+27 (j) DENOISING.
+28 (k) REMOVING BACKGROUND NOISE IN AUDIO.
+29 4. "PROVENANCE DATA" MEANS DATA THAT IS EMBEDDED INTO DIGITAL
+30 CONTENT[, ][OR] THAT IS INCLUDED IN THE DIGITAL CONTENT'S METADATA [OR
+31 THAT IS ASSOCIATED WITH DIGITAL CONTENT] TO VERIFY THE DIGITAL CONTENT'S
+32 AUTHENTICITY, ORIGIN OR HISTORY OF MODIFICATION [AND THAT INCLUDES
+33 GENERALLY ACCEPTED SECURITY BEST PRACTICES].
+34 Sec. 2. Legislative findings
+35 The legislature intends that section 18-801, Arizona Revised
+36 Statutes, as added by this act, be broadly construed and applied to
+37 promote the underlying purpose of the act, which is all of the following:
+38 1. To protect individuals and groups of individuals from known, and
+39 unknown but reasonably foreseeable, risks associated with artificial
+40 intelligence.
+41 2. To provide transparency regarding those risks in the
+42 development, deployment or use or artificial intelligence systems.
+43 3. To provide reasonable notice regarding the use of artificial
+44 intelligence systems.
+45 4. To protect the public from fraud or deception.
+-3-
+
+House Amendments to S.B. 1786
+1 <<Sec. 3. Effective date
+2 [This act is effective from and after February 1, 2027.]>>
+3 Enroll and engross to conform
+4 Amend title to conform
+NICK KUPPER
+1786FloorKUPPER.docx
+04/06/2026
+4:16 PM
+C: SP
+130TYIVKL
+-4-

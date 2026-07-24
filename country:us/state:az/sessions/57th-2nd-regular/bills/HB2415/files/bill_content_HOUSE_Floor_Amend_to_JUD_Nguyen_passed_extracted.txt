@@ -1,0 +1,1015 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to JUD - Nguyen - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Nguyen
+Second Regular Session H.B. 2415
+NGUYEN FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2415
+(Reference to JUDICIARY Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-3401, Arizona Revised Statutes, is amended to
+3 read:
+4 13-3401. Definitions
+5 In this chapter, unless the context otherwise requires:
+6 1. "Administer" means to apply, inject or facilitate the inhalation
+7 or ingestion of a substance to the body of a person.
+8 2. "Amidone" means any substance identified chemically as
+9 (4-4-diphenyl-6-dimethylamine-heptanone-3), or any salt of such substance,
+10 by whatever trade name designated.
+11 3. "Board" means the Arizona state board of pharmacy.
+12 4. "Cannabis" means the following substances under whatever names
+13 they may be designated:
+14 (a) The resin extracted from any part of a plant of the genus
+15 cannabis, and every compound, manufacture, salt, derivative, mixture or
+16 preparation of such plant, its seeds or its resin. Cannabis does not
+
+House Amendments to H.B. 2415
+1 include oil or cake made from the seeds of such plant, any fiber,
+2 compound, manufacture, salt, derivative, mixture or preparation of the
+3 mature stalks of such plant except the resin extracted from the stalks or
+4 any fiber, oil or cake or the sterilized seed of such plant which is
+5 incapable of germination.
+6 (b) Every compound, manufacture, salt, derivative, mixture or
+7 preparation of such resin or tetrahydrocannabinol.
+8 5. "Coca leaves" means cocaine, its optical isomers and any
+9 compound, manufacture, salt, derivative, mixture or preparation of coca
+10 leaves, except derivatives of coca leaves which do not contain cocaine,
+11 ecgonine or substances from which cocaine or ecgonine may be synthesized
+12 or made.
+13 6. "Dangerous drug" means the following by whatever official,
+14 common, usual, chemical or trade name designated:
+15 (a) Any material, compound, mixture or preparation that contains
+16 any quantity of the following hallucinogenic substances and their salts,
+17 isomers, whether optical, positional or geometric, and salts of isomers,
+18 unless specifically excepted, whenever the existence of such salts,
+19 isomers and salts of isomers is possible within the specific chemical
+20 designation:
+21 (i) Alpha-ethyltryptamine.
+22 (ii) Alpha-methyltryptamine.
+23 (iii) (2-aminopropyl) benzofuran (APB).
+24 (iv) (2-aminopropyl)-2, 3-dihydrobenzofuran (APDB).
+25 (v) Aminorex.
+26 (vi) 4-bromo-2, 5-dimethoxyphenethylamine.
+27 (vii) 4-bromo-2, 5-dimethoxyamphetamine.
+28 (viii) Bufotenine.
+29 (ix) [3-(3-carbamoylphenyl)phenyl]N-cyclohexyl carbamate (URB-597).
+30 (x) Diethyltryptamine.
+31 (xi) 2, 5-dimethoxyamphetamine.
+32 (xii) Dimethyltryptamine.
+33 (xiii) (2-ethylaminopropyl)-benzofuran (EAPB).
+34 (xiv) 5-methoxy-alpha-methyltryptamine.
+35 (xv) 5-methoxy-3, 4-methylenedioxyamphetamine.
+36 (xvi) 4-methyl-2, 5-dimethoxyamphetamine.
+37 (xvii) (2-methylaminopropyl)-benzofuran (MAPB).
+38 (xviii) Ibogaine.
+39 (xix) Lysergic acid amide.
+40 (xx) Lysergic acid diethylamide.
+41 (xxi) Mescaline.
+42 (xxii) 4-methoxyamphetamine.
+43 (xxiii) Methoxymethylenedioxyamphetamine (MMDA).
+44 (xxiv) Methylenedioxyamphetamine (MDA).
+45 (xxv) 3, 4-methylenedioxymethamphetamine.
+46 (xxvi) 3, 4-methylenedioxy-N-ethylamphetamine.
+47 (xxvii) N-ethyl-3-piperidyl benzilate (JB-318).
+48 (xxviii) N-hydroxy-3, 4-methylenedioxyamphetamine.
+49 (xxix) N-methyl-3-piperidyl benzilate (JB-336).
+-2-
+
+House Amendments to H.B. 2415
+1 (xxx) N-methyltryptamine mimetic substances that are any substances
+2 derived from N-methyltryptamine by any substitution at the nitrogen, any
+3 substitution at the indole ring, any substitution at the alpha carbon, any
+4 substitution at the beta carbon or any combination of the above.
+5 N-methyltryptamine mimetic substances do not include melatonin
+6 (5-methoxy n-acetyltryptamine). Substances in the N-methyltryptamine
+7 generic definition include AcO-DMT, Baeocystine, Bromo-DALT, DiPT, DMT,
+8 DPT, HO-DET, HO-DiPT, HO-DMT, HO-DPT, HO-MET, MeO-DALT, MeO-DET, MeO-DiPT,
+9 MeO-DMT, MeO-DPT, MeO-NMT, MET, NMT and Norbufotenin.
+10 (xxxi) N-(1-phenylcyclohexyl) ethylamine (PCE).
+11 (xxxii) Nabilone.
+12 (xxxiii) 1-(1-phenylcyclohexyl) pyrrolidine (PHP).
+13 (xxxiv) 1-(1-(2-thienyl)-cyclohexyl) piperidine (TCP).
+14 (xxxv) 1-(1-(2-thienyl)-cyclohexyl) pyrrolidine.
+15 (xxxvi) Para-methoxyamphetamine (PMA).
+16 (xxxvii) Psilacetin.
+17 (xxxviii) Psilocybin.
+18 (xxxix) Psilocyn.
+19 (xl) Synhexyl.
+20 (xli) Trifluoromethylphenylpiperazine (TFMPP).
+21 (xlii) Trimethoxyamphetamine (TMA).
+22 (xliii) 1-pentyl-3-(naphthoyl)indole (JWH-018 and isomers).
+23 (xliv) 1-butyl-3-(naphthoyl)indole (JWH-073 and isomers).
+24 (xlv) 1-hexyl-3-(naphthoyl)indole (JWH-019 and isomers).
+25 (xlvi) 1-pentyl-3-(4-chloro naphthoyl)indole (JWH-398 and isomers).
+26 (xlvii) 1-(2-(4-(morpholinyl)ethyl))-3-(naphthoyl)indole (JWH-200
+27 and isomers).
+28 (xlviii) 1-pentyl-3-(methoxyphenylacetyl)indole (JWH-250 and
+29 isomers).
+30 (xlix) (2-methyl-1-propyl-1H-indol-3-YL)-1-naphthalenyl-methanone
+31 (JWH-015 and isomers).
+32 (l) (6AR, 10AR)-9-(hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan2-Y)
+33 -6a,7,10,10a-tetrahydrobenzo[c]chromen-1-ol) (HU-210).
+34 (li) 5-(1,1-dimethylheptyl)-2-(3-hydroxycyclohexyl)-phenol
+35 (CP 47,497 and isomers).
+36 (lii) 5-(1,1-dimethyloctyl)-2-(3-hydroxycyclohexyl)-phenol
+37 (cannabicyclohexanol, CP-47,497 C8 homologue and isomers).
+38 (liii) Xylazine.
+39 (b) Any material, compound, mixture or preparation that contains
+40 any quantity of cannabimimetic substances and their salts, isomers,
+41 whether optical, positional or geometric, and salts of isomers, unless
+42 specifically excepted, whenever the existence of such salts, isomers and
+43 salts of isomers is possible within the specific chemical designation. For
+44 the purposes of this subdivision, "cannabimimetic substances" means any
+45 substances within the following structural classes:
+46 (i) 2-(3-hydroxycyclohexyl)phenol with substitution at the
+47 5-position of the phenolic ring by alkyl or alkenyl, whether or not
+48 substituted on the cyclohexyl ring to any extent. Substances in the
+-3-
+
+House Amendments to H.B. 2415
+1 2-(3-hydroxycyclohexyl)phenol generic definition include CP-47,497,
+2 CP-47,497 C8-Homolog, CP-55,940 and CP-56,667.
+3 (ii) 3-(naphthoyl)indole or 3-(naphthylmethane)indole by
+4 substitution at the nitrogen atom of the indole ring, whether or not
+5 further substituted on the indole ring to any extent, whether or not
+6 substituted on the naphthoyl or naphthyl ring to any extent. Substances in
+7 the 3-(naphthoyl)indole generic definition include AM-678, AM-2201,
+8 JWH-004, JWH-007, JWH-009, JWH-015, JWH-016, JWH-018, JWH-019, JWH-020,
+9 JWH-046, JWH-047, JWH-048, JWH-049, JWH-050, JWH-070, JWH-071, JWH-072,
+10 JWH-073, JWH-076, JWH-079, JWH-080, JWH-081, JWH-082, JWH-094, JWH-096,
+11 JWH-098, JWH-116, JWH-120, JWH-122, JWH-148, JWH-149, JWH-175, JWH-180,
+12 JWH-181, JWH-182, JWH-184, JWH-185, JWH-189, JWH-192, JWH-193, JWH-194,
+13 JWH-195, JWH-196, JWH-197, JWH-199, JWH-200, JWH-210, JWH-211, JWH-212,
+14 JWH-213, JWH-234, JWH-235, JWH-236, JWH-239, JWH-240, JWH-241, JWH-242,
+15 JWH-262, JWH-386, JWH-387, JWH-394, JWH-395, JWH-397, JWH-398, JWH-399,
+16 JWH-400, JWH-412, JWH-413, JWH-414 and JWH-415.
+17 (iii) 3-naphthoyl-indazole or 3-(naphthylmethane)-indazole by
+18 substitution at one or both of the nitrogen atoms of the indazole ring,
+19 whether or not further substituted on the indazole ring to any extent,
+20 whether or not substituted on the naphthoyl ring to any extent. Substances
+21 in the 3-naphthoyl-indazole or 3-(naphthylmethane)-indazole generic
+22 definition include THJ2201 and THJ-018.
+23 (iv) 3-(naphthoyl)pyrrole by substitution at the nitrogen atom of
+24 the pyrrole ring, whether or not further substituted in the pyrrole ring
+25 to any extent, whether or not substituted on the naphthoyl ring to any
+26 extent. Substances in the 3-(naphthoyl)pyrrole generic definition include
+27 JWH-030, JWH-145, JWH-146, JWH-147, JWH-150, JWH-156, JWH-243, JWH-244,
+28 JWH-245, JWH-246, JWH-292, JWH-293, JWH-307, JWH-308, JWH-346, JWH-348,
+29 JWH-363, JWH-364, JWH-365, JWH-367, JWH-368, JWH-369, JWH-370, JWH-371,
+30 JWH-373 and JWH-392.
+31 (v) 1-(naphthylmethylene)indene by substitution of the 3-position
+32 of the indene ring, whether or not further substituted in the indene ring
+33 to any extent, whether or not substituted on the naphthyl ring to any
+34 extent. Substances in the 1-(naphthylmethylene)indene generic definition
+35 include JWH-176.
+36 (vi) 3-(phenylacetyl)indole or 3-(benzoyl)indole by substitution at
+37 the nitrogen atom of the indole ring, whether or not further substituted
+38 in the indole ring to any extent, whether or not substituted on the phenyl
+39 ring to any extent. Substances in the 3-(phenylacetyl)indole generic
+40 definition include AM-694, AM-2233, JWH-167, JWH-201, JWH-202, JWH-203,
+41 JWH-204, JWH-205, JWH-206, JWH-207, JWH-208, JWH-209, JWH-237, JWH-248,
+42 JWH-250, JWH-251, JWH-253, JWH-302, JWH-303, JWH-304, JWH-305, JWH-306,
+43 JWH-311, JWH-312, JWH-313, JWH-314, JWH-315, JWH-316, RCS-4, RCS-8, SR-18
+44 and SR-19.
+45 (vii) 3-(cyclopropylmethanone) indole or 3-(cyclobutylmethanone)
+46 indole or 3-(cyclopentylmethanone) indole by substitution at the nitrogen
+47 atom of the indole ring, whether or not further substituted in the indole
+48 ring to any extent, whether or not substituted on the cyclopropyl,
+49 cyclobutyl or cyclopentyl rings to any extent. Substances in the
+-4-
+
+House Amendments to H.B. 2415
+1 3-(cyclopropylmethanone) indole generic definition include UR-144,
+2 fluoro-UR-144 and XLR-11.
+3 (viii) 3-adamantoylindole with substitution at the nitrogen atom of
+4 the indole ring, whether or not further substituted on the indole ring to
+5 any extent, whether or not substituted on the adamantyl ring to any
+6 extent. Substances in the 3-adamantoylindole generic definition include
+7 AB-001.
+8 (ix) N-(adamantyl)-indole-3-carboxamide with substitution at the
+9 nitrogen atom of the indole ring, whether or not further substituted on
+10 the indole ring to any extent, whether or not substituted on the adamantyl
+11 ring to any extent. Substances in the N-(adamantyl)-indole-3-carboxamide
+12 generic definition include SDB-001.
+13 (x) Indole-3-carboxamide or indazole-3-carboxamide with
+14 substitution at the nitrogen atom of the indole ring or by substitution at
+15 one or both of the nitrogen atoms of the indazole ring, whether or not
+16 further substituted on the indole ring or the indazole ring to any extent,
+17 whether or not substituted on the nitrogen of the carboxamide to any
+18 extent. Substances in the indole-3-carboxamide or indazole-3-carboxamide
+19 generic definition include AKB-48, fluoro-AKB-48, APINACA, AB-PINACA,
+20 AB-FUBINACA, ABICA and ADBICA.
+21 (xi) 8-Quinolinyl-indole-3-carboxylate or 8-quinolinyl-indazole-3-
+22 carboxylate by substitution at the nitrogen atom of the indole ring or by
+23 substitution at one or both of the nitrogen atoms of the indazole ring,
+24 whether or not further substituted in the indole ring or indazole ring to
+25 any extent, whether or not substituted on the quinoline ring to any
+26 extent. Substances in the 8-quinolinyl-indole-3-carboxylate or the
+27 8-quinolinyl-indazole-3-carboxylate generic definition include PB-22,
+28 fluoro-PB-22, NPB-22 and fluoro-NPB-22.
+29 (xii) Naphthalenyl-indole-3-carboxylate or naphthalenyl-indazole-3-
+30 carboxylate by substitution at the nitrogen atom of the indole ring or by
+31 substitution at one or both of the nitrogen atoms of the indazole ring,
+32 whether or not further substituted in the indole or indazole ring to any
+33 extent, whether or not substituted on the naphthalenyl ring to any extent.
+34 Substances in the naphthalenyl-indole-3-carboxylate or
+35 naphthalenyl-indazole-3-carboxylate generic definition include NM2201,
+36 FDU-PB-22, SDB-005 and fluoro SDB-005.
+37 (c) Any material, compound, mixture or preparation that contains
+38 any quantity of the following substances and their salts, isomers, whether
+39 optical, positional or geometric, and salts of isomers having a potential
+40 for abuse associated with a stimulant effect on the central nervous
+41 system:
+42 (i) Alpha-pyrrolidinobutiophenone (Alpha-PBP).
+43 (ii) Alpha-pyrrolidinopropiophenone (Alpha-PPP).
+44 (iii) Alpha-pyrrolidinovalerophenone (Alpha-PVP).
+45 (iv) Alpha-pyrrolidinovalerothiophenone (Alpha-PVT).
+46 (v) Aminoindane mimetic substances that are derived from
+47 aminoindane by any substitution at the indane ring, replacement of the
+48 amino group with another N group or any combination of the above.
+-5-
+
+House Amendments to H.B. 2415
+1 Substances in the aminoindane generic definition include MDAI, MMAI, IAI
+2 and AMMI.
+3 (vi) Amphetamine.
+4 (vii) Benzphetamine.
+5 (viii) Benzylpiperazine (BZP).
+6 (ix) Beta-keto-n-methylbenzodioxolylbutanamine (Butylone).
+7 (x) Beta-keto-n-methylbenzodioxolylpentanamine (Pentylone).
+8 (xi) Butorphanol.
+9 (xii) Cathine ((+)-norpseudoephedrine).
+10 (xiii) Cathinomimetic substances that are any substances derived
+11 from cathinone, (2-amino-1-phenyl-1-propanone) by any substitution at the
+12 phenyl ring, any substitution at the 3 position, any substitution at the
+13 nitrogen atom or any combination of the above substitutions.
+14 (xiv) Cathinone.
+15 (xv) 2-(4-Chloro-2,5-dimethoxyphenyl)ethanamine (2C-C).
+16 (xvi) Chlorphentermine.
+17 (xvii) Clortermine.
+18 (xviii) Diethylpropion.
+19 (xix) Dihydro-5H-indeno-(5,6-d)-1,3-dioxol-6-amine) (MDAI).
+20 (xx) 2-(2,5-Dimethoxy-4-ethylphenyl)ethanamine (2C-E).
+21 (xxi) 2-(2,5-Dimethoxy-4-methylphenyl)ethanamine (2C-D).
+22 (xxii) 2-(2,5-Dimethoxy-4-nitro-phenyl)ethanamine (2C-N).
+23 (xxiii) 2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine (2C-P).
+24 (xxiv) 2-(2,5-Dimethoxyphenyl)ethanamine (2C-H).
+25 (xxv) Dimethylcathinone (Metamfepramone).
+26 (xxvi) Ethcathinone.
+27 (xxvii) 2-[4-(Ethylthio)-2,5-dimethoxyphenyl]ethanamine (2C-T-2).
+28 (xxviii) Fencamfamin.
+29 (xxix) Fenethylline.
+30 (xxx) Fenproporex.
+31 (xxxi) Fluoroamphetamine.
+32 (xxxii) Fluoromethamphetamine.
+33 (xxxiii) Fluoromethcathinone.
+34 (xxxiv) 2-(4-Iodo-2,5-dimethoxyphenyl)ethanamine (2C-I).
+35 (xxxv) 2-[4-(Isopropylthio)-2,5-dimethoxyphenyl]ethanamine(2C-T-4).
+36 (xxxvi) Mazindol.
+37 (xxxvii) Mefenorex.
+38 (xxxviii) Methamphetamine.
+39 (xxxix) Methcathinone.
+40 (xl) Methiopropamine.
+41 (xli) Methoxy-alpha-pyrrolidinopropiophenone (MOPPP).
+42 (xlii) Methoxymethcathinone (methedrone).
+43 (xliii) Methoxyphenethylamine mimetic substances that are any
+44 substances derived from 2, 5-dimethoxy-phenethylamine by any substitution
+45 at the phenyl ring, any substitution at the nitrogen atom, any
+46 substitutions at the carbon atoms of the ethylamine, or any combination of
+47 the above substitutions.
+48 (xliv) 4-methylaminorex.
+49 (xlv) Methyl-a-pyrrolidinobutiophenone (MPBP).
+-6-
+
+House Amendments to H.B. 2415
+1 (xlvi) Methylenedioxy-alphapyrrolidinopropiophenone (MDPPP).
+2 (xlvii) Methylenedioxyethcathinone (Ethylone).
+3 (xlviii) Methylenedioxymethcathinone (Methylone).
+4 (xlix) Methylenedioxypyrovalerone (MDPV).
+5 (l) Methylmethcathinone (Mephedrone).
+6 (li) Methylphenidate.
+7 (lii) Modafinil.
+8 (liii) Naphthylpyrovalerone (Naphyrone).
+9 (liv) N-ethylamphetamine.
+10 (lv) N, N-dimethylamphetamine.
+11 (lvi) Pemoline.
+12 (lvii) Phendimetrazine.
+13 (lviii) Phenmetrazine.
+14 (lix) Phentermine.
+15 (lx) Pipradol.
+16 (lxi) Propylhexedrine.
+17 (lxii) Pyrovalerone.
+18 (lxiii) Sibutramine.
+19 (lxiv) Spa ((-)-1-dimethylamino-1,2-diphenylethane).
+20 (d) Any material, compound, mixture or preparation that contains
+21 any quantity of the following substances having a potential for abuse
+22 associated with a depressant effect on the central nervous system:
+23 (i) Any substance which contains any quantity of a derivative of
+24 barbituric acid, or any salt of a derivative of barbituric acid, unless
+25 specifically excepted.
+26 (ii) Alprazolam.
+27 (iii) Bromazepam.
+28 (iv) Camazepam.
+29 (v) Carisoprodol.
+30 (vi) Chloral betaine.
+31 (vii) Chloral hydrate.
+32 (viii) Chlordiazepoxide.
+33 (ix) Chlorhexadol.
+34 (x) Clobazam.
+35 (xi) Clonazepam.
+36 (xii) Clorazepate.
+37 (xiii) Clotiazepam.
+38 (xiv) Cloxazolam.
+39 (xv) Delorazepam.
+40 (xvi) Diazepam.
+41 (xvii) Dichloralphenazone.
+42 (xviii) Estazolam.
+43 (xix) Ethchlorvynol.
+44 (xx) Ethinamate.
+45 (xxi) Ethyl loflazepate.
+46 (xxii) Etizolam.
+47 (xxiii) Fenfluramine.
+48 (xxiv) Fludiazepam.
+49 (xxv) Flunitrazepam.
+-7-
+
+House Amendments to H.B. 2415
+1 (xxvi) Flurazepam.
+2 (xxvii) Gamma hydroxy butyrate.
+3 (xxviii) Glutethimide.
+4 (xxix) Halazepam.
+5 (xxx) Haloxazolam.
+6 (xxxi) Hydroxyphencyclidine (HO-PCP).
+7 (xxxii) Ketamine.
+8 (xxxiii) Ketazolam.
+9 (xxxiv) Loprazolam.
+10 (xxxv) Lorazepam.
+11 (xxxvi) Lormetazepam.
+12 (xxxvii) Lysergic acid.
+13 (xxxviii) Mebutamate.
+14 (xxxix) Mecloqualone.
+15 (xl) Medazepam.
+16 (xli) Meprobamate.
+17 (xlii) Methaqualone.
+18 (xliii) Methohexital.
+19 (xliv) 2-(methoxyphenyl)-2-(ethylamino)cyclohexanone
+20 (Methoxetamine).
+21 (xlv) 2-(methoxyphenyl)-2-(methylamino)cyclohexanone
+22 (Methoxyketamine).
+23 (xlvi) Methoxyphencyclidine(MeO-PCP).
+24 (xlvii) Methyprylon.
+25 (xlviii) Midazolam.
+26 (xlix) Nimetazepam.
+27 (l) Nitrazepam.
+28 (li) Nordiazepam.
+29 (lii) Oxazepam.
+30 (liii) Oxazolam.
+31 (liv) Paraldehyde.
+32 (lv) Petrichloral.
+33 (lvi) Phencyclidine (PCP).
+34 (lvii) Phencyclidine mimetic substances that are any substances
+35 derived from phenylcyclohexylpiperidine by any substitution at the phenyl
+36 ring, any substitution at the piperidine ring, any substitution at the
+37 cyclohexyl ring, any replacement of the phenyl ring or any combination of
+38 the above. Substances in the phenylcyclohexylpiperidine generic
+39 definition include Amino-PCP, BCP, Bromo-PCP, BTCP, Chloro-PCP,
+40 Fluoro-PCP, HO-PCP, MeO-PCP, Methyl-PCP, Nitro-PCP, Oxo-PCP, PCE, PCM,
+41 PCPY, TCP and TCPY.
+42 (lviii) Pinazepam.
+43 (lix) Prazepam.
+44 (lx) Scopolamine.
+45 (lxi) Sulfondiethylmethane.
+46 (lxii) Sulfonethylmethane.
+47 (lxiii) Sulfonmethane.
+48 (lxiv) Quazepam.
+49 (lxv) Temazepam.
+-8-
+
+House Amendments to H.B. 2415
+1 (lxvi) Tetrazepam.
+2 (lxvii) Tiletamine.
+3 (lxviii) Triazolam.
+4 (lxix) Zaleplon.
+5 (lxx) Zolazepam.
+6 (lxxi) Zolpidem.
+7 (lxxii) Zopiclone.
+8 (e) Any material, compound, mixture or preparation that contains
+9 any quantity of the following anabolic steroids and their salts, isomers
+10 or esters:
+11 (i) Boldenone.
+12 (ii) Clostebol (4-chlorotestosterone).
+13 (iii) Dehydrochloromethyltestosterone.
+14 (iv) Drostanolone.
+15 (v) Ethylestrenol.
+16 (vi) Fluoxymesterone.
+17 (vii) Formebulone (formebolone).
+18 (viii) Mesterolone.
+19 (ix) Methandriol.
+20 (x) Methandrostenolone (methandienone).
+21 (xi) Methenolone.
+22 (xii) Methyltestosterone.
+23 (xiii) Mibolerone.
+24 (xiv) Nandrolone.
+25 (xv) Norethandrolon.
+26 (xvi) Oxandrolone.
+27 (xvii) Oxymesterone.
+28 (xviii) Oxymetholone.
+29 (xix) Stanolone (4-dihydrotestosterone).
+30 (xx) Stanozolol.
+31 (xxi) Testolactone.
+32 (xxii) Testosterone.
+33 (xxiii) Trenbolone.
+34 7. "Deliver" means the actual, constructive or attempted exchange
+35 from one person to another, whether or not there is an agency
+36 relationship.
+37 8. "Director" means the director of the department of health
+38 services.
+39 9. "Dispense" means distribute, leave with, give away, dispose of
+40 or deliver.
+41 10. "Drug court program" means a program that is established
+42 pursuant to section 13-3422 by the presiding judge of the superior court
+43 in cooperation with the county attorney in a county for the purpose of
+44 prosecuting, adjudicating and treating drug dependent persons who meet the
+45 criteria and guidelines for entry into the program that are developed and
+46 agreed on by the presiding judge and the prosecutor.
+-9-
+
+House Amendments to H.B. 2415
+1 11. "Drug dependent person" means a person who is using a substance
+2 that is listed in paragraph 6, 19, 20, 21 or 28 of this section and who is
+3 in a state of psychological or physical dependence, or both, arising from
+4 the use of that substance.
+5 12. "Federal act" has the same meaning prescribed in section
+6 32-1901.
+7 13. "Isoamidone" means any substance identified chemically as
+8 (4-4-diphenyl-5-methyl-6-dimethylaminohexanone-3), or any salt of such
+9 substance, by whatever trade name designated.
+10 14. "Isonipecaine" means any substance identified chemically as
+11 (1-methyl-4-phenyl-piperidine-4-carboxylic acid ethyl ester), or any salt
+12 of such substance, by whatever trade name designated.
+13 15. "Ketobemidone" means any substance identified chemically as
+14 (4-(3-hydroxyphenyl)-1-methyl-4-piperidylethyl ketone hydrochloride), or
+15 any salt of such substance, by whatever trade name designated.
+16 16. "Licensed" or "permitted" means authorized by the laws of this
+17 state to do certain things.
+18 17. "Manufacture" means produce, prepare, propagate, compound, mix
+19 or process, directly or indirectly, by extraction from substances of
+20 natural origin or independently by means of chemical synthesis, or by a
+21 combination of extraction and chemical synthesis. Manufacture includes
+22 any packaging or repackaging or labeling or relabeling of containers.
+23 Manufacture does not include any producing, preparing, propagating,
+24 compounding, mixing, processing, packaging or labeling done in conformity
+25 with applicable state and local laws and rules by a licensed practitioner
+26 incident to and in the course of his licensed practice.
+27 18. "Manufacturer" means a person who manufactures a narcotic or
+28 dangerous drug or other substance controlled by this chapter.
+29 19. "Marijuana" means all parts of any plant of the genus cannabis,
+30 from which the resin has not been extracted, whether growing or not, and
+31 the seeds of such plant. Marijuana does not include the mature stalks of
+32 such plant or the sterilized seed of such plant which is incapable of
+33 germination.
+34 20. "Narcotic drugs" means the following, whether of natural or
+35 synthetic origin and any substance neither chemically nor physically
+36 distinguishable from them:
+37 (a) Acetyl-alpha-methylfentanyl.
+38 (b) Acetylmethadol.
+39 (c) Alfentanil.
+40 (d) Allylprodine.
+41 (e) Alphacetylmethadol.
+42 (f) Alphameprodine.
+43 (g) Alphamethadol.
+44 (h) Alpha-methylfentanyl.
+45 (i) Alpha-methylthiofentanyl.
+46 (j) Alphaprodine.
+47 (k) Amidone (methadone).
+48 (l) Anileridine.
+49 (m) Benzethidine.
+-10-
+
+House Amendments to H.B. 2415
+1 (n) Benzylfentanyl.
+2 (o) Betacetylmethadol.
+3 (p) Beta-hydroxyfentanyl.
+4 (q) Beta-hydroxy-3-methylfentanyl.
+5 (r) Betameprodine.
+6 (s) Betamethadol.
+7 (t) Betaprodine.
+8 (u) Bezitramide.
+9 (v) Buprenorphine and its salts.
+10 (w) Butonitazene.
+11 (x) Cannabis.
+12 (y) Carfentanil.
+13 (z) 4-chloro-n-[-1-[2-(4-nitrophenyl)ethyl]-2-piperidinylidene]benz
+14 enesulfonamide (W-18).
+15 (aa) 4-chloro-n-[1-(2-pheylethyl)-2-piperidinylidene]
+16 benzenesulfonamide (W-15).
+17 (bb) Clonitazene.
+18 (cc) Coca leaves.
+19 (dd) 1-cyclohexyl-4-(1,2-diphenylethyl)piperazine (MT-45).
+20 (ee) Dextromoramide.
+21 (ff) Dextropropoxyphene.
+22 (gg) Diampromide.
+23 (hh) 3,4-dichloro-n-(-[1-(dimethylamino)cyclohexyl]methyl)-benzamid
+24 e (AH-7921).
+25 (ii) 3,4-dichloro-n-[2-(dimethylamino)cyclohexyl]-N-methylbenzamide
+26 (U-47700).
+27 (jj) Diethylthiambutene.
+28 (kk) Difenoxin.
+29 (ll) Dihydrocodeine.
+30 (mm) Dimenoxadol.
+31 (nn) Dimepheptanol.
+32 (oo) Dimethylthiambutene.
+33 (pp) Dioxaphetyl butyrate.
+34 (qq) Diphenidine (DEP).
+35 (rr) Diphenoxylate.
+36 (ss) Dipipanone.
+37 (tt) Ephenidine.
+38 (uu) Ethylmethylthiambutene.
+39 (vv) Etodesnitazene.
+40 (ww) Etonitazene.
+41 (xx) Etonitazepyne.
+42 (yy) Etoxeridine.
+43 (zz) Fentanyl.
+44 (aaa) Fentanyl mimetic substances that are any substances derived
+45 from fentanyl by any substitution in the phenethyl group, any substitution
+46 in the piperidine ring, any substitution in the aniline ring, any
+47 replacement of the phenyl portion of the phenethyl group, any replacement
+48 of the N-propionyl group or any combination of the above.
+49 (bbb) Flunitazene.
+-11-
+
+House Amendments to H.B. 2415
+1 (ccc) Furethidine.
+2 (ddd) Hydroxypethidine.
+3 (eee) Isoamidone (isomethadone).
+4 (fff) Isophenidine.
+5 (ggg) Isotonitazene.
+6 (hhh) Pethidine (meperidine).
+7 (iii) Ketobemidone.
+8 [ (jjj) ANY MATERIAL, COMPOUND, MIXTURE OR PREPARATION THAT
+9 CONTAINS ANY QUANTITY OF SYNTHETIC 7-HYDROXYMITRAGYNINE, SYNTHETIC
+10 MITRAGYNINE, PSEUDOINDOXYL OR ANY OTHER SYNTHETICALLY DERIVED COMPOUND OF
+11 THE PLANT MITRAGYNA SPECIOSA]
+12 [(jjj) {{KRATOM MEANS}} ANY MATERIAL, COMPOUND, MIXTURE OR
+13 PREPARATION THAT CONTAINS ANY OF THE FOLLOWING:
+14 (i) AT LEAST {{800}}{{EIGHT HUNDRED}} PARTS PER MILLION OF 7-
+15 HYDROXYMITRAGYNINE.
+16 (ii) ANY QUANTITY OF SYNTHETIC 7-HYDROXYMITRAGYNINE, SYNTHETIC
+17 MITRAGYNINE{{,}}{{OR}} PSEUDOINDOXYL OR ANY OTHER SYNTHETICALLY DERIVED
+18 COMPOUND OF THE PLANT MITRAGYNA SPECIOSA.]
+19 (jjj) (kkk) Lefetamine.
+20 (kkk) (lll) Levomethorphan.
+21 (lll) (mmm) Levomoramide.
+22 (mmm) (nnn) Levophenacylmorphan.
+23 (nnn) (ooo) Levorphanol.
+24 (ooo) (ppp) Metazocine.
+25 (ppp) (qqq) Methoxphenidine (MXP).
+26 (qqq) (rrr) 3-methylfentanyl.
+27 (rrr) (sss) 1-methyl-4-phenyl-4-propionoxypiperidine (MPPP).
+28 (sss) (ttt) 3-methylthiofentanyl.
+29 (ttt) (uuu) Metodesnitazene.
+30 (uuu) (vvv) Metonitazene.
+31 (vvv) (www) Morpheridine.
+32 (www) (xxx) Noracymethadol.
+33 (xxx) (yyy) Norlevorphanol.
+34 (yyy) (zzz) Normethadone.
+35 (zzz) (aaaa) Norpipanone.
+36 (aaaa) (bbbb) Opium.
+37 (bbbb) (cccc) Para-fluorofentanyl.
+38 (cccc) (dddd) Pentazocine.
+39 (dddd) (eeee) Phenadoxone.
+40 (eeee) (ffff) Phenampromide.
+41 (ffff) (gggg) Phenazocine.
+42 (gggg) (hhhh) 1-(2-phenethyl)-4-phenyl-4-acetoxypiperidine
+43 (PEPAP).
+44 (hhhh) (iiii) Phenomorphan.
+45 (iiii) (jjjj) Phenoperidine.
+46 (jjjj) (kkkk) Piminodine.
+47 (kkkk) (llll) Piritramide.
+48 (llll) (mmmm) Proheptazine.
+49 (mmmm) (nnnn) Properidine.
+-12-
+
+House Amendments to H.B. 2415
+1 (nnnn) (oooo) Propiram.
+2 (oooo) (pppp) Protonitazene.
+3 (pppp) (qqqq) Racemethorphan.
+4 (qqqq) (rrrr) Racemoramide.
+5 (rrrr) (ssss) Racemorphan.
+6 (ssss) (tttt) Remifentanil.
+7 (tttt) (uuuu) Sufentanil.
+8 (uuuu) (vvvv) Thenylfentanyl.
+9 (vvvv) (wwww) Thiofentanyl.
+10 (wwww) (xxxx) Tilidine.
+11 (xxxx) (yyyy) Tramadol, 2-[(dimethylamino)methyl]-1-(3-
+12 methoxyphenyl) cyclohexanol, and its salts, optical and geometric isomers,
+13 and its salts of isomers.
+14 (yyyy) Trimeperidine.
+15 21. "Opium" means any compound, manufacture, salt, isomer, salt of
+16 isomer, derivative, mixture or preparation of the following, but does not
+17 include apomorphine or any of its salts:
+18 (a) Acetorphine.
+19 (b) Acetyldihydrocodeine.
+20 (c) Benzylmorphine.
+21 (d) Codeine.
+22 (e) Codeine methylbromide.
+23 (f) Codeine-N-oxide.
+24 (g) Cyprenorphine.
+25 (h) Desomorphine.
+26 (i) Dihydromorphine.
+27 (j) Drotebanol.
+28 (k) Ethylmorphine.
+29 (l) Etorphine.
+30 (m) Heroin.
+31 (n) Hydrocodone.
+32 (o) Hydromorphinol.
+33 (p) Hydromorphone.
+34 (q) Levo-alphacetylmethadol.
+35 (r) Methyldesorphine.
+36 (s) Methyldihydromorphine.
+37 (t) Metopon.
+38 (u) Morphine.
+39 (v) Morphine methylbromide.
+40 (w) Morphine methylsulfonate.
+41 (x) Morphine-N-oxide.
+42 (y) Myrophine.
+43 (z) Nalorphine.
+44 (aa) Nicocodeine.
+45 (bb) Nicomorphine.
+46 (cc) Normorphine.
+47 (dd) Oxycodone.
+48 (ee) Oxymorphone.
+49 (ff) Pholcodine.
+-13-
+
+House Amendments to H.B. 2415
+1 (gg) Thebacon.
+2 (hh) Thebaine.
+3 22. "Ordinary ephedrine, pseudoephedrine, (-)-norpseudoephedrine or
+4 phenylpropanolamine product" means a product that contains ephedrine,
+5 pseudoephedrine, (-)-norpseudoephedrine or phenylpropanolamine and that is
+6 all of the following:
+7 (a) Approved for sale under the federal act.
+8 (b) Labeled, advertised and marketed only for an indication that is
+9 approved by the federal food and drug administration.
+10 (c) Either:
+11 (i) A nonliquid that is sold in package sizes of not more than
+12 three grams of ephedrine, pseudoephedrine, (-)-norpseudoephedrine or
+13 phenlypropanolamine and that is packaged in blister packs containing not
+14 more than two dosage units or, if the use of blister packs is technically
+15 infeasible, that is packaged in unit dose packets or pouches.
+16 (ii) A liquid that is sold in package sizes of not more than three
+17 grams of ephedrine, pseudoephedrine, (-)-norpseudoephedrine or
+18 phenylpropanolamine.
+19 23. "Peyote" means any part of a plant of the genus lophophora,
+20 known as the mescal button.
+21 24. "Pharmacy" means a licensed business where drugs are compounded
+22 or dispensed by a licensed pharmacist.
+23 25. "Practitioner" means a person licensed to prescribe and
+24 administer drugs.
+25 26. "Precursor chemical I" means any material, compound, mixture or
+26 preparation which contains any quantity of the following substances and
+27 their salts, optical isomers or salts of optical isomers:
+28 (a) N-acetylanthranilic acid.
+29 (b) Anthranilic acid.
+30 (c) Ephedrine.
+31 (d) Ergotamine.
+32 (e) Isosafrole.
+33 (f) Lysergic acid.
+34 (g) Methylamine.
+35 (h) N-ethylephedrine.
+36 (i) N-ethylpseudoephedrine.
+37 (j) N-methylephedrine.
+38 (k) N-methylpseudoephedrine.
+39 (l) Norephedrine.
+40 (m) (-)-Norpseudoephedrine.
+41 (n) Phenylacetic acid.
+42 (o) Phenylpropanolamine.
+43 (p) Piperidine.
+44 (q) Pseudoephedrine.
+45 27. "Precursor chemical II" means any material, compound, mixture
+46 or preparation which contains any quantity of the following substances and
+47 their salts, optical isomers or salts of optical isomers:
+48 (a) 4-cyano-2-dimethylamino-4, 4-diphenyl butane.
+49 (b) 4-cyano-1-methyl-4-phenylpiperidine.
+-14-
+
+House Amendments to H.B. 2415
+1 (c) Chlorephedrine.
+2 (d) Chlorpseudoephedrine.
+3 (e) Ethyl-4-phenylpiperidine-4-carboxylate.
+4 (f) 2-methyl-3-morpholino-1, 1-diphenylpropane-carboxylic acid.
+5 (g) 1-methyl-4-phenylpiperidine-4-carboxylic acid.
+6 (h) N-formyl amphetamine.
+7 (i) N-formyl methamphetamine.
+8 (j) Phenyl-2-propanone.
+9 (k) 1-piperidinocyclohexane carbonitrile.
+10 (l) 1-pyrrolidinocyclohexane carbonitrile.
+11 28. "Prescription-only drug" does not include a dangerous drug or
+12 narcotic drug but means:
+13 (a) Any drug which because of its toxicity or other potentiality
+14 for harmful effect, or the method of its use, or the collateral measures
+15 necessary to its use, is not generally recognized among experts, qualified
+16 by scientific training and experience to evaluate its safety and efficacy,
+17 as safe for use except by or under the supervision of a medical
+18 practitioner.
+19 (b) Any drug that is limited by an approved new drug application
+20 under the federal act or section 32-1962 to use under the supervision of a
+21 medical practitioner.
+22 (c) Every potentially harmful drug, the labeling of which does not
+23 bear or contain full and adequate directions for use by the consumer.
+24 (d) Any drug required by the federal act to bear on its label the
+25 legend "Caution: Federal law prohibits dispensing without prescription"
+26 or "Rx only".
+27 29. "Produce" means grow, plant, cultivate, harvest, dry, process
+28 or prepare for sale.
+29 30. "Regulated chemical" means the following substances in bulk
+30 form that are not a useful part of an otherwise lawful product:
+31 (a) Acetic anhydride.
+32 (b) Hypophosphorous acid.
+33 (c) Iodine.
+34 (d) Sodium acetate.
+35 (e) Red phosphorus.
+36 (f) Gamma butyrolactone (GBL).
+37 (g) 1, 4-butanediol.
+38 (h) Butyrolactone.
+39 (i) 1, 2 butanolide.
+40 (j) 2-oxanalone.
+41 (k) Tetrahydro-2-furanone.
+42 (l) Dihydro-2(3H)-furanone.
+43 (m) Tetramethylene glycol.
+44 31. "Retailer" means either:
+45 (a) A person other than a practitioner who sells any precursor
+46 chemical or regulated chemical to another person for purposes of
+47 consumption and not resale, whether or not the person possesses a permit
+48 issued pursuant to title 32, chapter 18.
+-15-
+
+House Amendments to H.B. 2415
+1 (b) A person other than a manufacturer or wholesaler who purchases,
+2 receives or acquires more than twenty-four grams of a precursor chemical.
+3 32. "Sale" or "sell" means an exchange for anything of value or
+4 advantage, present or prospective.
+5 33. "Sale for personal use" means the retail sale for a legitimate
+6 medical use in a single transaction to an individual customer, to an
+7 employer for dispensing to employees from first aid kits or medicine
+8 chests or to a school for administration pursuant to section 15-344.
+9 34. "Scientific purpose" means research, teaching or chemical
+10 analysis.
+11 35. "Suspicious transaction" means a transaction to which any of
+12 the following applies:
+13 (a) A report is required under the federal act.
+14 (b) The circumstances would lead a reasonable person to believe
+15 that any person is attempting to possess a precursor chemical or regulated
+16 chemical for the purpose of unlawful manufacture of a dangerous drug or
+17 narcotic drug, based on such factors as the amount involved, the method of
+18 payment, the method of delivery and any past dealings with any
+19 participant.
+20 (c) The transaction involves payment for precursor or regulated
+21 chemicals in cash or money orders in a total amount of more than $200.
+22 (d) The transaction involves a sale, a transfer or furnishing to a
+23 retailer for resale without a prescription of ephedrine, pseudoephedrine,
+24 (-)-norpseudoephedrine or phenylpropanolamine that is not an ordinary
+25 ephedrine, pseudoephedrine, (-)-norpseudoephedrine or phenylpropanolamine
+26 product.
+27 36. "Threshold amount" means a weight, market value or other form
+28 of measurement of an unlawful substance as follows:
+29 (a) One gram of heroin.
+30 (b) Nine grams of cocaine, including hydrolyzed cocaine.
+31 (c) Four grams or 50 milliliters of PCP.
+32 (d) Nine grams of methamphetamine, including methamphetamine in
+33 liquid suspension.
+34 (e) Nine grams of amphetamine, including amphetamine in liquid
+35 suspension.
+36 (f) One-half milliliter of lysergic acid diethylamide, or in the
+37 case of blotter dosage units fifty dosage units.
+38 (g) Two pounds of marijuana.
+39 (h) Nine grams of fentanyl or fentanyl mimetic substances.
+40 (i) For any combination consisting solely of those unlawful
+41 substances listed in subdivisions (a) through (h) of this paragraph, an
+42 amount equal to or in excess of the threshold amount, as determined by the
+43 application of section 13-3420.
+44 (j) For any unlawful substance not listed in subdivisions (a)
+45 through (h) of this paragraph or any combination involving any unlawful
+46 substance not listed in subdivisions (a) through (h) of this paragraph, a
+47 value of at least $1,000.
+48 37. "Transfer" means furnish, deliver or give away.
+-16-
+
+House Amendments to H.B. 2415
+1 38. "Vapor-releasing substance containing a toxic substance" means
+2 a material which releases vapors or fumes containing any of the following:
+3 (a) Ketones, including acetone, methyl ethyl ketone, mibk, miak,
+4 isophorone and mesityl oxide.
+5 (b) Hydrocarbons, including propane, butane, pentane, hexane,
+6 heptane and halogenated hydrocarbons.
+7 (c) Ethylene dichloride.
+8 (d) Pentachlorophenol.
+9 (e) Chloroform.
+10 (f) Methylene chloride.
+11 (g) Trichloroethylene.
+12 (h) Difluoroethane.
+13 (i) Tetrafluoroethane.
+14 (j) Aldehydes, including formaldehyde.
+15 (k) Acetates, including ethyl acetate and butyl acetate.
+16 (l) Aromatics, including benzene, toluene, xylene, ethylbenzene and
+17 cumene.
+18 (m) Alcohols, including methyl alcohol, ethyl alcohol, isopropyl
+19 alcohol, butyl alcohol and diacetone alcohol.
+20 (n) Ether, including Diethyl ether and petroleum ether.
+21 (o) Nitrous oxide.
+22 (p) Amyl nitrite.
+23 (q) Isobutyl nitrite.
+24 39. "Weight" unless otherwise specified includes the entire weight
+25 of any mixture or substance that contains a detectable amount of an
+26 unlawful substance. If a mixture or substance contains more than one
+27 unlawful substance, the weight of the entire mixture or substance is
+28 assigned to the unlawful substance that results in the greater offense. If
+29 a mixture or substance contains lysergic acid diethylamide, the offense
+30 that results from the unlawful substance shall be based on the greater
+31 offense as determined by the entire weight of the mixture or substance or
+32 the number of blotter dosage units. For the purposes of this paragraph,
+33 "mixture" means any combination of substances from which the unlawful
+34 substance cannot be removed without a chemical process.
+35 40. "Wholesaler" means a person who in the usual course of business
+36 lawfully supplies narcotic drugs, dangerous drugs, precursor chemicals or
+37 regulated chemicals that he himself has not produced or prepared, but not
+38 to a person for the purpose of consumption by the person, whether or not
+39 the wholesaler has a permit that is issued pursuant to title 32,
+40 chapter 18. Wholesaler includes a person who sells, delivers or dispenses
+41 a precursor chemical in an amount or under circumstances that would
+42 require registration as a distributor of precursor chemicals under the
+43 federal act.
+44 Sec. 2. Section 36-795, Arizona Revised Statutes, is amended to
+45 read:
+46 36-795. Definitions
+47 In this article, unless the context otherwise requires:
+-17-
+
+House Amendments to H.B. 2415
+1 1. "Food" means a food as defined in section 36-901, food product,
+2 food ingredient, dietary ingredient, dietary supplement or beverage for
+3 human consumption.
+4 1. "KRATOM" MEANS THE PLANT OR ANY PART OF THE PLANT MITRAGYNA
+5 SPECIOSA.
+6 2. "Kratom product" means a food ANY product or dietary ingredient
+7 containing any part of the leaf of the plant mitragyna speciosa THAT IS
+8 MADE FROM KRATOM AND THAT IS MADE TO BE INGESTABLE OR INHALABLE.
+9 3. "Processor" means a person that sells, prepares, manufactures,
+10 distributes, wholesales or maintains kratom products or that advertises,
+11 represents or holds itself out as selling, preparing or maintaining kratom
+12 products.
+13 4. "Retailer" means a person that sells or distributes kratom
+14 products or that advertises, represents or holds itself out as selling or
+15 maintaining kratom products.
+16 Sec. 3. Repeal
+17 Section 36-795.01, Arizona Revised Statutes, is repealed.
+18 Sec. 4. Title 36, chapter 6, article 10, Arizona Revised Statutes,
+19 is amended by adding a new section 36-795.01, to read:
+20 36-795.01. Kratom products; labeling required
+21 ANY KRATOM PRODUCT THAT IS OFFERED FOR SALE OR SOLD IN THIS STATE
+22 MUST INCLUDE A LABEL OR CONSUMER SCANNABLE QUICK RESPONSE CODE OR SIMILAR
+23 TECHNOLOGY THAT PROVIDES ALL OF THE FOLLOWING:
+24 1. THE INGREDIENTS OF THE KRATOM PRODUCT.
+25 2. THE QUANTITY OF MITRAGYNINE OR 7-HYDROXYMITRAGYNINE IN THE
+26 KRATOM PRODUCT.
+27 3. THE RECOMMEND SERVICING SIZE OF THE KRATOM PRODUCT.
+28 4. THE NUMBER OF SERVINGS IN THE KRATOM PRODUCT.
+29 Sec. 5. Section 36-795.02, Arizona Revised Statutes, is amended to
+30 read:
+31 36-795.02. Prohibited manufacture, distribution and sales;
+32 minimum age
+33 [A. A] processor or retailer [PERSON may not prepare, MANUFACTURE,
+34 distribute, TRANSPORT, OFFER FOR SALE OR sell] or expose for sale any of
+35 the following:
+36 1. A kratom product that is adulterated with a dangerous nonkratom
+37 substance. A kratom product is adulterated with a dangerous nonkratom
+38 substance if the kratom product is mixed or packed with a nonkratom
+39 substance and that substance affects the quality or strength of the kratom
+40 product to such a degree as to render the kratom product injurious to a
+41 consumer.
+42 2. A kratom product that is contaminated with a dangerous nonkratom
+43 substance. A kratom product is contaminated with a dangerous nonkratom
+44 substance if the kratom product contains a poisonous or otherwise
+45 deleterious nonkratom substance, including any controlled substance
+46 prescribed by chapter 27 of this title or rules adopted pursuant to
+47 chapter 27 of this title.
+48 3. [a kratom product] containing a level of [IN THIS STATE THAT
+49 CONTAINS MORE THAN FOUR HUNDRED PARTS PER MILLION 7-hydroxymitragynine] in
+-18-
+
+House Amendments to H.B. 2415
+1 the alkaloid fraction that is greater than two percent of the alkaloid
+2 composition of the product [ON A DRY-WEIGHT BASIS.]
+3 4. A kratom product containing any synthetic alkaloid, including
+4 synthetic mitragynine, synthetic 7-hydroxymitragynine or any other
+5 synthetically derived compounds of the kratom plant.
+6 5. Any kratom-containing product that does not include on its
+7 package or label the amount of mitragynine and 7-hydroxymitragynine
+8 contained in the product.
+9 [B.] A processor or retailer PERSON may not PREPARE, MANUFACTURE,
+10 distribute, TRANSPORT, OFFER FOR SALE OR sell or expose for sale a kratom
+11 product to an individual who is under eighteen TWENTY-ONE years of age.
+12 Sec. 6. Section 36-795.03, Arizona Revised Statutes, is amended to
+13 read:
+14 36-795.03. Enforcement; violations; classification
+15 {{A. In addition to the violations and remedies specified in this
+16 section, violations and enforcement of this article are governed by
+17 chapter 8 of this title.}}
+18 {{B.}}{{A.}} A processor or retailer that PERSON WHO violates
+19 section 36-795.01, subsection B or section 36-795.02 is guilty of a class
+20 2 misdemeanor.
+21 {{C.}} {{B.}} A PERSON WHO VIOLATES SECTION 36-795.02 IS GUILTY OF
+22 A CLASS [3][1] MISDEMEANOR.
+23 [{{D.}}{{C.}} A PERSON WHO COMMITS A SECOND OR SUBSEQUENT VIOLATION
+24 OF SECTION 36-795.02 WITHIN TWENTY-FOUR MONTHS IS GUILTY OF A CLASS 6
+25 FELONY.]
+26 C. [D.] [{{E.}}]{{D.}} In addition to and distinct from any other
+27 remedy at law or equity, a person WHO IS aggrieved by a violation of
+28 section 36-795.01, subsection B or section 36-795.02, subsection A may
+29 bring a private cause of action in a court of competent jurisdiction for
+30 damages resulting from that violation, including economic, noneconomic or
+31 consequential damages.
+32 D. [ E. A] processor or retailer [PERSON does not violate section
+33 36-795.01], subsection B [or] section [36-795.02], subsection A [if the
+34 court finds by a preponderance of the evidence that the processor or
+35 retailer relied in good faith on the representation of a manufacturer,
+36 packer or distributor that the food was a kratom product.]
+37 ≤≤Sec. 7. Title 36, chapter 6, article 10, Arizona Revised
+38 Statutes, is amended by adding section 36-795.04, to read:
+39 36-795.04. Kratom products; packaging; advertising; warning;
+40 enforcement
+41 {{A. A PERSON WHO SELLS KRATOM PRODUCTS MAY NOT:
+42 1. PACKAGE OR LABEL ANY KRATOM PRODUCT IN A FALSE OR MISLEADING
+43 MANNER.
+44 2. ADVERTISE KRATOM OR KRATOM PRODUCTS, INCLUDING KRATOM
+45 PARAPHERNALIA, TO INDIVIDUALS WHO ARE UNDER TWENTY-ONE YEARS OF AGE,
+46 INCLUDING ADVERTISING:
+47 (a) WITH NAMES THAT RESEMBLE OR IMITATE FOOD OR DRINK BRANDS THAT
+48 ARE MARKETED TO CHILDREN.
+-19-
+
+House Amendments to H.B. 2415
+1 (b) WITH IMAGES OR LIKENESSES OF TOYS, CARTOONS OR ANIMATED OR
+2 FICTIONAL CHARACTERS, INCLUDING SANTA CLAUS, THAT ARE DESIGNED TO APPEAL
+3 TO OR ENCOURAGE INDIVIDUALS WHO ARE UNDER TWENTY-ONE YEARS OF AGE TO
+4 CONSUME KRATOM OR KRATOM PRODUCTS.
+5 (c) IN A MEDIUM THAT SPECIFICALLY APPEALS TO INDIVIDUALS WHO ARE
+6 UNDER TWENTY-ONE YEARS OF AGE SUCH THAT THE ADVERTISING HAS A SPECIAL
+7 ATTRACTIVENESS TO INDIVIDUALS WHO ARE UNDER TWENTY-ONE YEARS OF AGE BEYOND
+8 GENERAL ATTRACTIVENESS FOR INDIVIDUALS WHO ARE AT LEAST TWENTY-ONE YEARS
+9 OF AGE.
+10 3. ADVERTISE ANY HEALTH-RELATED STATEMENT OR STATEMENT REGARDING
+11 THE EFFECTS OF KRATOM CONSUMPTION ON HEALTH THAT IS KNOWN TO BE
+12 UNTRUE. ANY ADVERTISING UNDER THIS ARTICLE INVOLVING DIRECT,
+13 INDIVIDUALIZED COMMUNICATION OR DIALOGUE SHALL USE A METHOD OF AGE
+14 AFFIRMATION TO VERIFY THAT THE RECIPIENT IS AT LEAST TWENTY-ONE YEARS OF
+15 AGE BEFORE ENGAGING IN THE COMMUNICATION OR DIALOGUE. FOR THE PURPOSES OF
+16 THIS SUBSECTION, THE METHOD OF AGE AFFIRMATION MAY INCLUDE USER
+17 CONFIRMATION, BIRTH DATE DISCLOSURE OR OTHER SIMILAR REGISTRATION METHODS.
+18 B. AN INDIVIDUAL OR ENTITY THAT VIOLATES THIS SECTION, ON
+19 NOTIFICATION BY THE DEPARTMENT OR THE ATTORNEY GENERAL'S OFFICE, HAS
+20 FOURTEEN DAYS TO COMPLY WITH THE REQUIREMENTS OF THIS SECTION.
+21 C. THIS SECTION SHALL BE ENFORCED BY THE ATTORNEY GENERAL.}} ≥≥
+22 Enroll and engross to conform
+23 Amend title to conform
+QUANG H. NGUYEN
+2415FloorNGUYEN2.docx
+02/23/2026
+05:40 PM
+H: NM/ls
+130MKQUAQ
+-20-

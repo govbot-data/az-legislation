@@ -1,0 +1,720 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Werner flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2035
+Werner Floor Amendment
+Reference to: House engrossed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+• Reverts, from five days before a preliminary protective hearing to the day before the hearing, the
+deadline for the Department of Child Safety to submit a written report on a child’s removal to the
+court and the parties.
+Amendment explanation prepared by Michael Madden
+04/01/2026
+
+Fifty-seventh Legislature Werner
+Second Regular Session H.B. 2035
+WERNER FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2035
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 8-501, Arizona Revised Statutes, is amended to
+3 read:
+4 8-501. Definitions
+5 A. In this article, unless the context otherwise requires:
+6 1. "Child developmental certified home" means a regular foster home
+7 that is licensed pursuant to section 8-509 and that is certified by the
+8 department of economic security pursuant to section 36-593.01.
+9 2. "Child welfare agency" or "agency":
+10 (a) Means:
+11 (i) Any agency or institution that is maintained by a person, firm,
+12 corporation, association or organization to receive children for care and
+13 maintenance or for twenty-four hour TWENTY-FOUR-HOUR social, emotional or
+14 educational supervised care or who have been adjudicated as a delinquent
+15 or dependent child.
+16 (ii) Any institution that provides care for unmarried mothers and
+17 their children.
+18 (iii) Any agency that is maintained by this state, a political
+19 subdivision of this state or a person, firm, corporation, association or
+20 organization to place children or unmarried mothers in a foster home.
+21 (b) Does not include state operated STATE-OPERATED institutions or
+22 facilities, detention facilities for children established by law, health
+23 care institutions that are licensed by the department of health services
+24 pursuant to title 36, chapter 4 or private agencies that exclusively
+25 provide children with social enrichment or recreational opportunities and
+26 that do not use restrictive behavior management techniques.
+27 3. "Division" or "department" means the department of child safety.
+
+Senate Amendments to H.B. 2035
+1 4. "EXTENDED FAMILY MEMBER" MEANS AN ADULT PERSON WHO HAS A
+2 CONNECTION TO A CHILD BY MARRIAGE TO A BIOLOGICAL FAMILY MEMBER OF THE
+3 CHILD.
+4 4. 5. "Former dependent child" means a person who was previously
+5 adjudicated a dependent child in a dependency proceeding that has been
+6 dismissed by order of the juvenile court.
+7 5. 6. "Foster child" means a child placed in a foster home or
+8 child welfare agency.
+9 6. 7. "Foster home" means a home that is maintained by any
+10 individual or individuals having the care or control of minor children,
+11 other than those related to each other by blood or marriage, or related to
+12 such individuals, or who are legal wards of such individuals.
+13 7. 8. "Foster parent" means any individual or individuals
+14 maintaining a foster home.
+15 8. 9. "Group foster home" means a licensed regular or special
+16 foster home that is suitable for placement of more than five minor
+17 children but not more than ten minor children.
+18 9. 10. "Out-of-home placement" means the placing of a child in the
+19 custody of an individual or agency other than with the child's parent or
+20 legal guardian and includes placement in temporary custody pursuant to
+21 section 8-821, voluntary placement pursuant to section 8-806 or placement
+22 due to dependency actions.
+23 10. 11. "Parent" means the natural or adoptive mother or father of
+24 a child.
+25 11. 12. "Reason for leaving care" means one of the following:
+26 (a) Reunification with a parent or primary caretaker.
+27 (b) Living with another relative.
+28 (c) Adoption by a relative.
+29 (d) Adoption by a foster parent.
+30 (e) Adoption by another person.
+31 (f) Age of majority.
+32 (g) Guardianship by a relative.
+33 (h) Guardianship by another person.
+34 (i) Transfer to another agency.
+35 (j) Runaway.
+36 (k) Death.
+37 12. 13. "Receiving foster home" means a licensed foster home that
+38 is suitable for immediate placement of children when taken into custody or
+39 pending medical examination and court disposition.
+40 13. 14. "Regular foster home" means a licensed foster home that is
+41 suitable for placement of not more than five minor children.
+42 14. 15. "Relative" means a grandparent, great-grandparent, brother
+43 or sister of whole or half blood, aunt, uncle or first cousin.
+-2-
+
+Senate Amendments to H.B. 2035
+1 15. 16. "Restrictive behavior management" means an intervention or
+2 procedure that attempts to guide, redirect, modify or manage behavior
+3 through the use of any of the following:
+4 (a) Physical force to cause a child to comply with a directive.
+5 Physical force does not include physical escort. For the purposes of this
+6 subdivision, "physical escort" means temporarily touching or holding a
+7 child's hand, wrist, arm, shoulder or back to induce the child to walk to
+8 a safe location.
+9 (b) A device, action or medication to restrict THAT RESTRICTS the
+10 movement or normal function of a child in order to control or change the
+11 child's behavior and that includes:
+12 (i) A chemical restraint. For the purposes of this item, "chemical
+13 restraint" means the use of any psychoactive medication as a restraint to
+14 control the child's behavior or to restrict the child's freedom of
+15 movement and that is not a standard treatment for the child's medical or
+16 psychiatric condition.
+17 (ii) A mechanical restraint. For the purposes of this item,
+18 "mechanical restraint" means the use of any physical device to limit a
+19 child's movement and to prevent the child from causing harm to self or to
+20 others. Mechanical restraint does not include devices such as
+21 orthopedically prescribed devices, surgical dressings or bandages,
+22 protective helmets or any other method that involves the physical holding
+23 of a child to conduct a routine physical examination or test or to protect
+24 the child from falling out of bed or to permit ALLOW the child to
+25 participate in activities in order to reduce the risk of physical harm to
+26 the child.
+27 (iii) A physical restraint. For the purposes of this item,
+28 "physical restraint" means applying physical force to reduce or restrict a
+29 child's ability to freely move the child's arms, legs or head. Physical
+30 restraint does not include temporarily holding a child to permit ALLOW the
+31 child to participate in activities of daily living if this holding does
+32 not involve the risk of physical harm to the child.
+33 (iv) Seclusion. For the purposes of this item, "seclusion" means
+34 placing a child against the child's will in a room in which the child is
+35 unable to open the door in order to prevent the child from doing harm to
+36 self or others.
+37 16. 17. "Special foster home" means a licensed foster home that is
+38 capable of handling not more than five minor children who require special
+39 care for physical, mental or emotional reasons or who have been
+40 adjudicated delinquent. Special foster home includes any home handling
+41 foster children aged twelve through seventeen.
+42 B. A foster home or any classification of foster home defined in
+43 subsection A of this section includes a home having the care of persons
+44 who are under twenty-one years of age and the cost of whose care is
+45 provided pursuant to section 8-521.01.
+-3-
+
+Senate Amendments to H.B. 2035
+1 Sec. 2. Section 8-514.03, Arizona Revised Statutes, is amended to
+2 read:
+3 8-514.03. Kinship foster care; requirements; investigation
+4 A. The department shall establish kinship foster care services for
+5 a child who has been removed from the child's home and who is in the
+6 custody of the department. The program shall promote PRESUME the
+7 placement of the child with the child's relative, AN EXTENDED FAMILY
+8 MEMBER or a person with a significant relationship with the child for
+9 kinship foster care IS IN THE BEST INTEREST OF THE CHILD.
+10 B. A kinship foster care parent applicant who is not a licensed
+11 foster care parent shall be at least eighteen years of age. The applicant
+12 and each member of the applicant's household who is at least eighteen
+13 years of age shall submit a full set of fingerprints to the department of
+14 child safety for the purpose of obtaining a state and federal criminal
+15 records check pursuant to section 41-1750 and Public Law 92-544. The
+16 department of public safety may exchange this fingerprint data with the
+17 federal bureau of investigation. The department of child safety shall
+18 determine if the applicant is able to meet the child's health and safety
+19 needs by conducting one or more home visits and interviewing the
+20 applicant. The department of child safety may interview other household
+21 members, review the applicant's personal and professional references and
+22 conduct department of child safety central registry checks.
+23 C. If the department determines that a kinship foster care
+24 placement is not in the best interest of the child, the department shall
+25 provide written notification to the applicant within fifteen business
+26 days. The notice shall include the specific reason for denial WHY THE
+27 DEPARTMENT DETERMINED THE PLACEMENT IN KINSHIP FOSTER CARE IS NOT IN THE
+28 BEST INTEREST OF THE CHILD, the applicant's right to appeal and the
+29 process for reviewing the decision.
+30 D. A kinship foster care parent may be eligible to receive the
+31 following financial services for the child:
+32 1. Full foster care benefits, including payment if the kinship
+33 foster care parent becomes a licensed foster care home or if the kinship
+34 foster care parent obtains a restricted license pursuant to section 8-509,
+35 subsection C.
+36 2. Temporary assistance for needy families cash assistance payments
+37 for a child only case and supplemental financial support.
+38 E. The department shall establish procedures for child welfare
+39 workers to inform kinship foster care families about available financial
+40 and nonfinancial services and eligibility requirements and shall assist
+41 the families in completing the necessary application.
+42 F. If a family declines to apply for financial services, the family
+43 shall sign a statement indicating that the family declined services. The
+44 statement does not prevent the family from making application APPLYING FOR
+45 FINANCIAL SERVICES in the future. The worker shall provide a copy of the
+46 statement to the family.
+-4-
+
+Senate Amendments to H.B. 2035
+1 G. The department shall provide nonfinancial services for a kinship
+2 foster care parent through existing means or referral. Nonfinancial
+3 services may include:
+4 1. Family assessment.
+5 2. Case management.
+6 3. Child day care.
+7 4. Housing search and relocation.
+8 5. Parenting skills training.
+9 6. Supportive intervention and guidance counseling.
+10 7. Transportation.
+11 8. Emergency services.
+12 9. Parent aid services.
+13 10. Respite services.
+14 11. Additional services that the department determines are
+15 necessary to meet the needs of the child and family.
+16 Sec. 3. Section 8-514.07, Arizona Revised Statutes, is amended to
+17 read:
+18 8-514.07. Kinship foster care; relative identification and
+19 notification; due diligence search
+20 A. If a child is taken into temporary custody, as part of the
+21 ongoing search, the department shall use due diligence in an initial
+22 search to identify and notify adult relatives of the child, EXTENDED
+23 FAMILY MEMBERS and persons with a significant relationship with the child
+24 within thirty days after the child is taken into temporary custody.
+25 B. The search to identify adult relatives of the child, EXTENDED
+26 FAMILY MEMBERS or persons with a significant relationship with the child
+27 must include:
+28 1. An interview with the child's parent.
+29 2. An interview with the child.
+30 3. Interviews with identified adult relatives OR EXTENDED FAMILY
+31 MEMBERS.
+32 4. Interviews with other persons who are likely to have information
+33 regarding the location of adult relatives of the child, EXTENDED FAMILY
+34 MEMBERS or persons with a significant relationship with the child.
+35 5. A comprehensive search of available records that are likely to
+36 help identify and locate a person being sought, including:
+37 (a) Employment records.
+38 (b) Vehicle registration records.
+39 (c) Child support enforcement records.
+40 (d) Utility accounts.
+41 (e) Previous residential addresses.
+42 (f) Law enforcement records.
+43 (g) State department of corrections records.
+44 6. Thorough inquiries by the court of the parties during case
+45 hearings.
+-5-
+
+Senate Amendments to H.B. 2035
+1 7. Any other means the department deems likely to identify adult
+2 relatives of the child, EXTENDED FAMILY MEMBERS or persons with a
+3 significant relationship with the child.
+4 C. Within thirty days after the child is taken into temporary
+5 custody and at each subsequent review and report hearing or permanency
+6 planning hearing, the department shall file with the court documentation
+7 regarding attempts made pursuant to this section or as otherwise required
+8 by the court to identify and notify adult relatives of the child, EXTENDED
+9 FAMILY MEMBERS and persons with a significant relationship with the
+10 child. This documentation shall include a detailed narrative explaining
+11 the department's efforts to consider each potential placement and the
+12 specific outcome.
+13 D. The department shall provide WRITTEN notice to adult relatives
+14 of the child, EXTENDED FAMILY MEMBERS and persons with a significant
+15 relationship with the child who are identified through the search
+16 requirements of this section. The notice shall do the following:
+17 1. Specify that the child has been or is being removed from the
+18 child's parental custody.
+19 2. Explain the options an adult relative of the child, AN EXTENDED
+20 FAMILY MEMBER or a person with a significant relationship with the child
+21 has to participate in the care or placement of the child.
+22 3. Explain that financial assistance and other forms of support are
+23 available to adult relatives of the child, EXTENDED FAMILY MEMBERS and
+24 persons with a significant relationship with the child with whom the child
+25 is placed.
+26 4. Describe the process for becoming a licensed foster parent and
+27 the additional services and support that are available for children placed
+28 in approved foster homes.
+29 5. Require an adult relative of the child, AN EXTENDED FAMILY
+30 MEMBER or a person with a significant relationship with the child to
+31 respond within thirty days after receiving notice that the child has been
+32 removed from the home.
+33 E. If the child is not placed with an adult relative of the child,
+34 EXTENDED FAMILY MEMBER or person with a significant relationship with the
+35 child or the child is placed with an adult relative, EXTENDED FAMILY
+36 MEMBER or person with a significant relationship with the child who is
+37 unable or unwilling to provide permanent placement for the child, the
+38 department shall continue to conduct an ongoing search for adult relatives
+39 of the child, EXTENDED FAMILY MEMBERS or persons with a significant
+40 relationship with the child. The department shall engage in search
+41 efforts if ordered by the court, a change in the child's placement occurs
+42 or a party shows that the search is in the best interest of the child.
+-6-
+
+Senate Amendments to H.B. 2035
+1 F. The department shall file with the court documentation of both
+2 of the following:
+3 1. The completed due diligence search efforts. This documentation
+4 shall include:
+5 (a) The names of and relevant information about adult relatives of
+6 the child, EXTENDED FAMILY MEMBERS or persons with a significant
+7 relationship with the child.
+8 (b) The steps taken by the department to locate and contact adult
+9 relatives of the child, EXTENDED FAMILY MEMBERS or persons with a
+10 significant relationship with the child.
+11 (c) The WRITTEN responses received from adult relatives of the
+12 child, EXTENDED FAMILY MEMBERS or persons with a significant relationship
+13 with the child.
+14 (d) The dates of each attempted or completed contact with an adult
+15 relative of the child, AN EXTENDED FAMILY MEMBER or a person with a
+16 significant relationship with the child.
+17 (e) The reasons why an adult relative of the child, AN EXTENDED
+18 FAMILY MEMBER or a person with a significant relationship with the child
+19 was not considered for temporary or permanent placement of the child.
+20 2. All efforts for placement of the child through an interstate
+21 compact agreement pursuant to section 8-548. This documentation shall
+22 include:
+23 (a) The names of adult relatives of the child, EXTENDED FAMILY
+24 MEMBERS or persons with a significant relationship with the child who were
+25 considered for an interstate placement.
+26 (b) Any pending placement of the child through an interstate
+27 compact agreement.
+28 (c) All potential out-of-state placements outside of an interstate
+29 compact agreement and the reasons such placements have not been initiated.
+30 G. If an out-of-state placement option exists and the department
+31 has failed to file a request with the receiving state pursuant to the
+32 requirements of an interstate compact agreement pursuant to section 8-548,
+33 the court shall enter a finding that the department has not made a due
+34 diligence search and shall order the department to file a request with the
+35 receiving state pursuant to the terms of the interstate compact agreement.
+36 Sec. 4. Section 8-529, Arizona Revised Statutes, is amended to
+37 read:
+38 8-529. Children in foster care and kinship foster care;
+39 rights
+40 A. A child WHO IS in foster care and OR kinship foster care has the
+41 following rights:
+42 1. To appropriate care and treatment in the least restrictive
+43 setting available that can meet the child's needs according to the best
+44 judgment of the foster parent, ADULT RELATIVE OF THE CHILD, EXTENDED
+45 FAMILY MEMBER OR PERSON WITH A SIGNIFICANT RELATIONSHIP WITH THE CHILD.
+-7-
+
+Senate Amendments to H.B. 2035
+1 2. To live in a safe, healthy and comfortable placement where the
+2 child can receive reasonable protection from harm and appropriate privacy
+3 for personal needs and where the child is treated with respect.
+4 3. To be placed with a AN ADULT relative when such placement is in
+5 the best interest of the child, EXTENDED FAMILY MEMBER OR PERSON WITH A
+6 SIGNIFICANT RELATIONSHIP WITH THE CHILD UNLESS THE PLACEMENT IS NOT IN THE
+7 BEST INTEREST OF THE CHILD.
+8 4. To be placed with or in close proximity to the child's siblings
+9 when possible and to visit and have contact with siblings and family
+10 members when it is in the best interest of the child THE PLACEMENT,
+11 VISITATION OR CONTACT DOES NOT POSE A RISK TO THE CHILD'S SAFETY OR THE
+12 SAFETY OF THE CHILD'S SIBLINGS.
+13 5. To know why the child is in foster care and what will happen to
+14 the child and to the child's family, including siblings, and case plans.
+15 6. Whenever possible, to be placed with a foster family that can
+16 accommodate the child's communication needs.
+17 7. To be disciplined in a manner that is appropriate to the child's
+18 level of maturity and not be subjected to physical discipline methods.
+19 8. To attend community, school, extracurricular and religious
+20 services and activities of the child's choice to the extent that it is
+21 appropriate for the child, as planned and discussed with the child's
+22 placement worker and caseworker and based on caregiver ability if
+23 transportation is available through a responsible party.
+24 9. To go to school and receive an education that fits the child's
+25 age and individual needs. If remaining in the child's current school is
+26 not in the child's best interest, the child has the right to be enrolled
+27 in the least restrictive school available.
+28 10. To training in personal care, hygiene and grooming.
+29 11. To clothing that fits comfortably and is adequate to protect
+30 the child against natural elements such as rain, snow, wind, cold and sun.
+31 12. To have personal possessions at home and to acquire additional
+32 possessions within reasonable limits, as planned and discussed with the
+33 child's foster parent, placement worker and caseworker, and based on
+34 caregiver ability.
+35 13. To personal space, preferably in the child's foster home
+36 bedroom for storing clothing and belongings.
+37 14. To healthy foods in healthy portions that are appropriate for
+38 the child's age.
+39 15. To comply with any approved visitation plan, and to have any
+40 restrictions explained to the child in a manner and level of details
+41 deemed age appropriate by the foster parent in agreement with the
+42 caseworker and documented in the child's record.
+43 16. If the child is six years of age or older, to receive contact
+44 information for the child's caseworker, attorney or advocate and to speak
+45 with them in private if necessary.
+-8-
+
+Senate Amendments to H.B. 2035
+1 17. To be represented by an attorney in all proceedings initiated
+2 pursuant to this title.
+3 18. To participate in age appropriate AGE-APPROPRIATE child's
+4 service planning and permanency planning meetings and to be given a copy
+5 or summary of each service plan and service plan review. The child may
+6 request someone to participate on the child's behalf or to support the
+7 child in this participation.
+8 19. To attend the child's court hearing and speak to the judge.
+9 20. To have the child's records and personal information kept
+10 private and discussed only when it is about the child's care, except THAT
+11 the foster parent shall have full access to the records to determine if
+12 WHETHER the child will be successful in the home. During the foster
+13 placement, if the foster parent requests to view the record on
+14 experiencing problems with the child's adjustment, the full record shall
+15 be made available for viewing by the foster parent.
+16 21. To receive medical, dental, vision and mental health services
+17 and to be informed about diagnoses and treatment options as is
+18 developmentally appropriate.
+19 22. To be free of unnecessary or excessive medication.
+20 23. To receive emotional, mental health or chemical dependency
+21 treatment separately from adults who are receiving services, as planned
+22 and discussed with the child's placement worker and caseworker, as is
+23 financially reasonable for the foster parent.
+24 24. To report a violation of personal rights specified in this
+25 section without fear of punishment, interference, coercion or retaliation,
+26 except that an appropriate level of punishment may be applied if the child
+27 is proven to have maliciously or wrongfully accused the foster parent.
+28 25. To be informed in writing of the name, address, telephone
+29 number and purpose of the Arizona protection and advocacy system for
+30 disability assistance.
+31 26. To understand and have a copy of the rights listed in this
+32 section.
+33 27. TO BE UPDATED AT LEAST EVERY THIRTY DAYS AS TO THE STATUS OF
+34 THE DEPARTMENT'S EFFORTS TO PLACE THE CHILD IN KINSHIP FOSTER CARE OR IN A
+35 CARE SETTING WITH THE CHILD'S SIBLINGS.
+36 B. A child WHO IS in foster care or kinship foster care AND who is
+37 at least fourteen years of age has the following rights:
+38 1. To attend preparation for adult living classes and activities as
+39 appropriate to the child's case plan, as is financially reasonable for the
+40 foster parent.
+41 2. To a transition plan that includes career planning and
+42 assistance with enrolling in an educational or vocational job training
+43 program.
+-9-
+
+Senate Amendments to H.B. 2035
+1 3. To be informed of educational opportunities, including
+2 information regarding assistance and funding for postsecondary and
+3 vocational education.
+4 4. To assistance in obtaining an independent residency when the
+5 child is too old to remain in foster care from the child's caseworker,
+6 attorney or advocate.
+7 5. To request a court hearing for a court to determine if WHETHER
+8 the child has the capacity to consent to medical care that is directly
+9 related to an illness, disease, deformity or other physical malady.
+10 6. To receive help with obtaining a driver license, social security
+11 number, birth certificate or state identification card and credit reports
+12 with assistance in interpreting the reports and resolving inaccuracies in
+13 the report. The foster parent shall have discretion to determine if
+14 WHETHER the child is responsible and mature enough to become a licensed
+15 driver.
+16 7. To receive necessary personal information within thirty days
+17 after leaving foster care, including the child's birth certificate,
+18 immunization records and information contained in the child's education
+19 portfolio and health passport.
+20 8. To participate in or reenter extended foster care when the child
+21 is at least eighteen and under twenty-one years of age pursuant to section
+22 8-521.02.
+23 C. The department shall provide information regarding a child's
+24 rights pursuant to this section and assistance in understanding and
+25 enforcing these rights to each child who enters foster care or kinship
+26 foster care or when there is a change in the child's foster care plan.
+27 The information shall also include the telephone number and email address
+28 of the department, the child's assigned case manager, the department's
+29 office of the ombudsman and the ombudsman-citizens aide. A copy of these
+30 rights shall be posted in a conspicuous place in all foster care HOMES and
+31 group FOSTER homes.
+32 D. If a child who is in foster care or kinship foster care believes
+33 that the child's rights under this section have been violated, the child
+34 or the child's representative may:
+35 1. File a complaint with the department, the department's office of
+36 the ombudsman or the ombudsman-citizens aide pursuant to section 41-1376.
+37 A formal grievance may be initiated with the ombudsman at any time.
+38 2. Notify the juvenile court in the child's ongoing dependency,
+39 severance or adoption proceeding, either orally or in writing, that the
+40 child's rights are being violated and request appropriate equitable
+41 relief. The court shall act on the notification as necessary within its
+42 THE COURT'S discretion to promote the best interest of the child.
+43 E. The rights provided in this section do not establish an
+44 independent cause of action.
+-10-
+
+Senate Amendments to H.B. 2035
+1 Sec. 5. Section 8-801, Arizona Revised Statutes, is amended to
+2 read:
+3 8-801. Definitions
+4 In this article and articles 9, 10, 11, 12, 13 and 14 of this
+5 chapter, unless the context otherwise requires:
+6 1. "Child safety services" means a specialized child welfare
+7 program that is administered by the department as provided in this chapter
+8 and that investigates allegations of and seeks to prevent, intervene in
+9 and treat abuse and neglect, to promote the well-being of the child in a
+10 permanent home and to coordinate services to strengthen the family.
+11 2. "Child safety worker" or "worker" means a person who has been
+12 selected by and trained under the requirements prescribed by the
+13 department and who assists in carrying out the provisions of this article.
+14 3. "DCS information":
+15 (a) Includes all information the department gathers during the
+16 course of an investigation conducted under this chapter from the time a
+17 file is opened and until it is closed.
+18 (b) Does not include information that is contained in child welfare
+19 agency licensing records.
+20 4. "EXTENDED FAMILY MEMBER" HAS THE SAME MEANING PRESCRIBED IN
+21 SECTION 8-501.
+22 4. 5. "In-home intervention" means a program of services provided
+23 pursuant to article 14 of this chapter while the child is still in the
+24 custody of the parent, guardian or custodian.
+25 5. 6. "Relative" has the same meaning prescribed in section 8-501.
+26 Sec. 6. Section 8-824, Arizona Revised Statutes, is amended to
+27 read:
+28 8-824. Preliminary protective hearing; parents' rights;
+29 probable cause; placement of child
+30 A. The court shall hold a preliminary protective hearing to review
+31 the taking into temporary custody of a child pursuant to section 8-821 not
+32 fewer than five days nor more than seven days after the child is taken
+33 into custody, excluding Saturdays, Sundays and holidays. If clearly
+34 necessary to prevent abuse or neglect, to preserve the rights of a party
+35 or for other good cause shown, the court may grant one continuance that
+36 does not exceed five days.
+37 B. The following persons shall be present at the preliminary
+38 protective hearing:
+39 1. The child's parents or guardian, unless they cannot be located
+40 or they fail to appear in response to the notice.
+41 2. Counsel for the parents if one has been requested or retained.
+42 3. The child's guardian ad litem or attorney.
+43 4. The child safety worker and additional representatives of the
+44 department if requested by the department.
+45 5. Counsel for the child safety worker.
+-11-
+
+Senate Amendments to H.B. 2035
+1 C. If the court finds that it is in the best interests of the
+2 child, the court may allow the following to be present at the preliminary
+3 protective hearing:
+4 1. The child.
+5 2. Any relative or other interested person with whom the child is
+6 or might be placed as described in section 8-845, subsection A.
+7 3. Witnesses called by the parties.
+8 4. An advocate or interested person as requested by the parent or
+9 guardian.
+10 5. Other persons who have knowledge of or an interest in the
+11 welfare of the child.
+12 D. At the hearing, the court shall advise the parent or guardian of
+13 the following rights:
+14 1. The right to counsel, including appointed counsel if the parent
+15 or guardian is indigent.
+16 2. The right to cross-examine all witnesses who are called to
+17 testify against the parent or guardian.
+18 3. The right to trial by court on the allegations in the petition.
+19 4. The right to use the process of the court to compel the
+20 attendance of witnesses.
+21 E. At the hearing, the court:
+22 1. Shall receive a report of any agreement reached pursuant to
+23 section 8-823, subsection D. The report may be made orally.
+24 2. Shall provide an opportunity for the child's parent or guardian,
+25 if present, and any other person who has relevant knowledge, to provide
+26 relevant testimony.
+27 3. May limit testimony and evidence that is beyond the scope of the
+28 removal of the child, the child's need for continued protection,
+29 placement, visitation and services to be provided to the child and family.
+30 4. May take into consideration as a mitigating factor the
+31 participation of the parent or guardian in the healthy families program
+32 established by section 8-481.
+33 5. Shall take into consideration as a mitigating factor the
+34 availability of reasonable services to the parent or guardian to prevent
+35 or eliminate the need for removal of the child and the effort of the
+36 parent or guardian to obtain and participate in these services.
+37 6. Shall inform the child's parent or guardian that the hearing may
+38 result in further proceedings to terminate parental rights.
+39 7. Shall order the parent or guardian to provide the court with the
+40 names, the type of relationship and all available information necessary to
+41 locate persons who are related to the child or who have a significant
+42 relationship with the child. If there is not sufficient information
+43 available to locate a relative or person with a significant relationship
+44 with the child, the parent or guardian shall inform the court of this
+45 fact. The court shall further order the parent or guardian to inform the
+46 department immediately if the parent or guardian becomes aware of
+-12-
+
+Senate Amendments to H.B. 2035
+1 information related to the existence or location of a relative or person
+2 with a significant relationship to WITH the child.
+3 8. Shall inform the parent that substantially neglecting or
+4 wilfully refusing to remedy the circumstances that cause the child to be
+5 in an out-of-home placement, including refusing to participate in
+6 reunification services, is grounds for termination of parental rights to a
+7 child.
+8 9. Shall give paramount consideration to the health and safety of
+9 the child.
+10 10. Shall determine whether the department is attempting to
+11 identify and assess placement of the child with a grandparent RELATIVE OF
+12 THE CHILD or another member of the child's AN extended family MEMBER,
+13 including a person who has a significant relationship with the child.
+14 11. Shall inform a foster parent, a preadoptive parent, A RELATIVE
+15 OF THE CHILD or a member of the child's AN extended family MEMBER with
+16 whom the department has placed the child of the right to be heard in any
+17 proceeding to be held with respect to the child.
+18 12. SHALL PRESUME PLACEMENT OF THE CHILD WITH AN ADULT RELATIVE OF
+19 THE CHILD, AN EXTENDED FAMILY MEMBER OR A PERSON WHO HAS A SIGNIFICANT
+20 RELATIONSHIP WITH THE CHILD IS IN THE BEST INTEREST OF THE CHILD.
+21 13. SHALL MAKE WRITTEN FINDINGS OF FACT AND CONCLUSIONS OF LAW ON
+22 THE RECORD.
+23 F. The petitioner has the burden of presenting evidence as to
+24 whether there is probable cause to believe that continued temporary
+25 custody is clearly necessary to prevent abuse or neglect pending the
+26 hearing on the dependency petition.
+27 G. The department must make reasonable efforts to place a child
+28 with siblings and, if that is not possible, to maintain frequent
+29 visitation or other ongoing contact between all siblings.
+30 H. If the child is in the temporary custody of the department, the
+31 department shall submit, not later than [the day] [FIVE DAYS] before the
+32 hearing, a written report to the court and the parties that states:
+33 1. The reasons the child was removed from the parent's or
+34 guardian's custody.
+35 2. Any services that have been provided to the child or the child's
+36 parent or guardian to prevent removal.
+37 3. The need, if any, for continued temporary custody.
+38 4. The types of service needed to facilitate the return of the
+39 child to the custody of the child's parents or guardian.
+40 5. If the child is not placed with a grandparent RELATIVE OF THE
+41 CHILD, AN EXTENDED FAMILY MEMBER OR ANOTHER INTERESTED PARTY, whether the
+42 child has any relatives, EXTENDED FAMILY MEMBERS or other interested
+43 parties as described in section 8-845, subsection A who may be able and
+44 willing to take temporary custody.
+45 6. Any services that are requested by the parent or guardian but
+46 that are not provided and the reasons the services were not provided.
+-13-
+
+Senate Amendments to H.B. 2035
+1 7. What efforts the department has made to place siblings together,
+2 and if they are not placed together, the specific reasons why this did not
+3 occur.
+4 8. If the placement of siblings together was not possible for all
+5 or any of the siblings, efforts the department has made to facilitate
+6 communications among siblings and a proposal for frequent visitation or
+7 contact pursuant to subsection G of this section. If frequent visitation
+8 or contact with siblings is not recommended, the department shall state
+9 the reasons why this would be contrary to the child's or a sibling's
+10 safety or well-being.
+11 9. A proposal for visitation with the child's parents or guardian
+12 and the results of any visitation that has occurred since the child was
+13 removed. The requirements of this paragraph do not apply to a specific
+14 parent or guardian if there is a court order relating to a criminal case
+15 that prohibits that parent or guardian from contact with the child.
+16 Before the department allows visitation it must first determine that there
+17 are no court orders relating to any superior court criminal case that
+18 prohibit the parent or guardian from contact with the child.
+19 10. A proposed case plan for services to the family.
+20 11. The department's efforts to identify, notify and assess adult
+21 relatives of the child, EXTENDED FAMILY MEMBERS and persons with a
+22 significant relationship with the child pursuant to section 8-514.07.
+23 I. The parent or guardian shall state whether the parent or
+24 guardian admits or denies the allegations in the petition filed pursuant
+25 to section 8-841. If the parent or guardian admits or does not contest
+26 the allegations in the petition, the court shall determine that the parent
+27 or guardian understands the rights described in subsection D of this
+28 section and that the parent or guardian knowingly, intelligently and
+29 voluntarily waives these rights.
+30 J. At the hearing, if the child is not returned to the parent or
+31 guardian, the court shall:
+32 1. Enter orders regarding the placement of the child pending the
+33 determination of the dependency petition and visitation, if any.
+34 2. If a relative is identified as a possible placement for the
+35 child, notify the relative of the right to be heard in any proceeding to
+36 be held with respect to the child.
+37 3. Determine WHETHER the tasks and services set forth in the case
+38 plan are reasonable and necessary to carry out the case plan.
+39 Sec. 7. Section 8-842, Arizona Revised Statutes, is amended to
+40 read:
+41 8-842. Initial dependency hearing; deadlines
+42 A. Except as provided in section 8-826, the court shall set the
+43 initial dependency hearing within twenty-one days after the petition is
+44 filed. If service by publication is required, the court may set an
+45 initial dependency hearing within a time period to allow for publication
+46 pursuant to the rules of procedure for the juvenile court.
+-14-
+
+Senate Amendments to H.B. 2035
+1 B. At the initial dependency hearing, the court shall:
+2 1. Determine if WHETHER the parent or guardian is providing the
+3 court and the department with the names, the type of relationship and all
+4 available information necessary to locate persons who are related to the
+5 child or who have a significant relationship with the child.
+6 2. Determine that WHETHER the department is conducting a due
+7 diligence search pursuant to section 8-514.07 and attempting to identify
+8 and assess placement of the child with a grandparent or another member of
+9 the child's AN ADULT RELATIVE OF THE CHILD, AN extended family including
+10 MEMBER OR a person who has a significant relationship with the child. THE
+11 COURT SHALL ORDER THAT THE CHILD BE PLACED WITH AN ADULT RELATIVE OF THE
+12 CHILD, AN EXTENDED FAMILY MEMBER OR A PERSON WHO HAS A SIGNIFICANT
+13 RELATIONSHIP WITH THE CHILD IF SUCH A PLACEMENT IS AVAILABLE AND IN THE
+14 BEST INTEREST OF THE CHILD.
+15 3. If the child has siblings, determine that WHETHER the department
+16 is attempting to identify and assess placement of the child with the
+17 child's siblings if this is possible and is in the child's best interests.
+18 4. MAKE WRITTEN FINDINGS OF FACT AND CONCLUSIONS OF LAW ON THE
+19 RECORD.
+20 C. WITHIN FORTY-EIGHT HOURS AFTER THE INITIAL DEPENDENCY HEARING,
+21 THE COURT SHALL ORDER THAT THE CHILD BE PLACED WITH AN ADULT RELATIVE OF
+22 THE CHILD, AN EXTENDED FAMILY MEMBER OR A PERSON WHO HAS A SIGNIFICANT
+23 RELATIONSHIP WITH THE CHILD IF SUCH A PLACEMENT IS AVAILABLE AND IN THE
+24 BEST INTEREST OF THE CHILD.
+25 C. D. Unless the court has ordered in-home intervention, the
+26 dependency adjudication hearing shall be completed within ninety days
+27 after service of the dependency petition.
+28 Enroll and engross to conform
+29 Amend title to conform
+CARINE WERNER
+2035FloorWERNER.docx
+03/31/2026
+04:16 PM
+C: LAT
+130YOUDPO
+-15-

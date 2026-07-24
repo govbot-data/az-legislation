@@ -1,0 +1,762 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Willoughby - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2402: ambulance services; certificates of necessity
+WILLOUGHBY FLOOR AMENDMENT
+1. Clarifies the ambulances that are responding to a natural disaster, rather than
+an emergency, are exempt from statutory regulations relating to emergency
+medical services.
+2. Revises the information that an ambulance service must provide to DHS
+relating to dispatched ambulances.
+3. Removes, as a condition for issuing a certificate of necessity for a geographic
+area that is not within the service area of a certificate of necessity to a city,
+town or fire district or a private ambulance service to provide ambulance
+services to that geographic area, the current certificate of necessity holder has
+not met the requirements of the certificate for at least 6 months.
+4. Adds separate conditions for allowing DHS to issue a certificate of necessity to
+a city, town or fire district or private ambulance service to provide ambulance
+services to a geographic area, including that a current certificate holder has
+not met the certificate conditions for at least 12 months.
+PAUL BENNY
+2/24/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Willoughby
+Second Regular Session H.B. 2402
+WILLOUGHBY FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2402
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 36-2208, Arizona Revised Statutes, is amended to
+3 read:
+4 36-2208. Bureau of emergency medical services and trauma
+5 system; annual statewide plan; regional plans
+6 A. There is established within the department a THE bureau of
+7 emergency medical services and trauma system that is responsible for
+8 coordinating, establishing and administering ESTABLISHED IN THE DEPARTMENT
+9 TO COORDINATE, ESTABLISH AND ADMINISTER a statewide system of emergency
+10 medical services, trauma care and a trauma registry.
+11 B. This chapter does not prevent any individual, law enforcement
+12 officer, public agency or member of a city, town, fire district or
+13 volunteer fire department from rendering on-site emergency medical care
+14 or, if, in terms of the existing medical situation, it is deemed not
+15 advisable to await the arrival of an ambulance, from transporting
+16 emergency medical patients to a hospital or an emergency receiving
+17 facility, except that if any patient objects on religious grounds, that
+18 patient shall not be administered any medical treatment or be transported
+19 to a hospital or an emergency receiving facility.
+20 C. The director shall develop an annual statewide emergency medical
+21 and trauma services plan and submit that plan to the council for review
+22 and approval. The statewide plan shall then be submitted to the governor
+23 for final adoption. Before submitting the plan to the governor, the
+24 director shall accept comments from the authorized local agencies and
+25 governmental entities.
+26 D. A EACH local emergency medical services coordinating system
+27 shall develop a regional emergency medical services plan that includes a
+28 needs assessment and SHALL submit the plan to the director, THE SPEAKER OF
+
+House Amendments to H.B. 2402
+1 THE HOUSE OF REPRESENTATIVES, THE PRESIDENT OF THE SENATE and to the
+2 authorized local agencies within the area. The DEPARTMENT SHALL INTEGRATE
+3 THE regional plans shall be integrated into the statewide plan by the
+4 department.
+5 E. The state STATEWIDE plan shall contain a budget component for
+6 funding local and state emergency medical services systems from the
+7 emergency medical services operating fund established pursuant to BY
+8 section 36-2218 based on the needs assessment of the local emergency
+9 medical services coordinating system plans. The components shall be
+10 included in the department's budget through the normal appropriation
+11 process.
+12 Sec. 2. Section 36-2217, Arizona Revised Statutes, is amended to
+13 read:
+14 36-2217. Exemption from regulation
+15 A. This chapter does not apply to:
+16 1. Vehicles used for the emergency transportation of persons
+17 injured at an industrial site.
+18 2. Persons engaged in and vehicles used for air transportation of
+19 sick or injured people in a noncritical or nonemergency situation as
+20 determined by a physician.
+21 3. Medical evacuation equipment used and owned by the department of
+22 public safety in air, ground or water evacuation, and including fixed wing
+23 aircraft, helicopters, ground ambulances and similar ground conveyances,
+24 snowmobiles and water traversing equipment.
+25 4. Vehicles provided or contracted for emergency medical services
+26 by a political subdivision if these vehicles are primarily used to provide
+27 on the scene stabilization of sick, injured, wounded, incapacitated or
+28 helpless persons.
+29 5. Ambulances from other states that are:
+30 (a) Responding to a major catastrophe or emergency in this state
+31 because there are insufficient registered ambulances in this state to
+32 respond in that situation.
+33 (b) EITHER operating either from a location outside of this state
+34 to transport a patient to a location within this state or operating from a
+35 location outside of this state and crossing through this state to
+36 transport a patient to a location outside this state.
+37 6. REGISTERED AMBULANCES FROM THIS STATE THAT ARE RESPONDING TO A
+38 MAJOR CATASTROPHE, [EMERGENCY] [NATURAL DISASTER] OR WILDLAND FIRE EVENT
+39 IN THIS STATE BECAUSE THERE ARE INSUFFICIENT REGISTERED AMBULANCES IN THE
+40 AREA AFFECTED BY THE MAJOR CATASTROPHE, [EMERGENCY] [NATURAL DISASTER] OR
+41 WILDLAND FIRE EVENT.
+42 6. 7. Stretcher vans that meet the requirements of section
+43 36-2223.
+44 B. Except as provided in subsection A, paragraph 5, subdivision (a)
+45 of this section, an ambulance from another state shall not pick up a
+46 patient in this state and transport that patient to another location in
+47 this state unless that ambulance is registered under this chapter.
+-2-
+
+House Amendments to H.B. 2402
+1 Sec. 3. Title 36, chapter 21.1, article 1, Arizona Revised
+2 Statutes, is amended by adding section 36-2220.01, to read:
+3 36-2220.01. Ambulance services; information on calls; public
+4 availability; civil penalty; definition
+5 A. EACH AMBULANCE SERVICE SHALL PROVIDE THE FOLLOWING INFORMATION
+6 ON A QUARTERLY BASIS TO THE DEPARTMENT IN A DEPARTMENT-APPROVED FORMAT, AS
+7 APPLICABLE:
+8 1. THE EMERGENCY MEDICAL DISPATCH CLASSIFICATION FOR EACH CALL FOR
+9 SERVICE OR INTERFACILITY TRANSPORT.
+10 2. FOR EACH CALL FOR SERVICE FOR WHICH AN AMBULANCE IS DISPATCHED,
+11 THE FOLLOWING INFORMATION, AS APPLICABLE:
+12 (a) THE DISPATCH TIME.
+13 (b) THE STAGING TIME.
+14 (c) THE CANCELED TIME.
+15 (d) THE ON-SCENE TIME.
+16 (e) THE EN ROUTE TIME.
+17 (f) THE HOSPITAL ARRIVAL TIME.
+18 (g) THE HOSPITAL RELEASE TIME.
+19 [3. THE DATE, TIME AND DURATION OF ANY INSTANCE IN WHICH AN
+20 AMBULANCE SERVICE PROVIDER HAS ONLY ONE AMBULANCE AVAILABLE IN A SERVICE
+21 AREA.
+22 4. THE DATE, TIME AND DURATION OF ANY INSTANCE IN WHICH AN
+23 AMBULANCE SERVICE DOES NOT HAVE AN AMBULANCE AVAILABLE WITHIN A SERVICE
+24 AREA.
+25 5. THE DATE AND TIME OF ANY REQUEST FOR MUTUAL AID.]
+26 [6.] [3.] [IF AN AMBULANCE SERVICE PROVIDER MADE A REQUEST FOR
+27 ASSISTANCE TO ANOTHER AMBULANCE SERVICE PROVIDER,] THE DATE AND TIME [OF
+28 ANY INSTANCE IN WHICH] AN AMBULANCE SERVICE DECLINED TO PROVIDE MUTUAL AID
+29 TO ANOTHER CERTIFICATE OF NECESSITY HOLDER AND AN EXPLANATION WHY THE
+30 [MUTUAL AID] REQUEST [FOR ASSISTANCE] WAS DECLINED.
+31 [7.] [4.] THE DETAILS OF SUBSTANTIATED COMPLAINTS RECEIVED FROM AN
+32 INDIVIDUAL OR HEALTH CARE INSTITUTION AS PRESCRIBED IN RULE BY THE
+33 DEPARTMENT.
+34 [8.] [5.] THE DETAILS OF ANY MEDICATION ERROR THAT RESULTS IN
+35 PATIENT INJURY OR PATIENT DEATH.
+36 [9.] [6.] ANY UNINTENDED INJURY OR HARM TO A PATIENT THAT OCCURRED
+37 WHILE PROVIDING PREHOSPITAL CARE.
+38 B. THE DEPARTMENT SHALL MAKE THE INFORMATION RECEIVED PURSUANT TO
+39 SUBSECTION A OF THIS SECTION AVAILABLE TO THE PUBLIC ON REQUEST, EXCEPT
+40 THAT THE DEPARTMENT SHALL REDACT ANY PERSONALLY IDENTIFYING INFORMATION.
+41 THE DEPARTMENT SHALL POST THE INFORMATION RECEIVED PURSUANT TO SUBSECTION
+42 A OF THIS SECTION, AS REDACTED, ON THE DEPARTMENT'S PUBLIC WEBSITE.
+43 C. IF AN AMBULANCE SERVICE FAILS TO COMPLY WITH THE QUARTERLY
+44 REPORTING REQUIREMENTS OF THIS SECTION, THE DEPARTMENT SHALL ISSUE A
+45 NOTICE TO COMPLY TO THE AMBULANCE SERVICE WITHIN THIRTY CALENDAR DAYS
+46 AFTER THE END OF THE QUARTER. THE AMBULANCE HAS FIFTEEN CALENDAR DAYS
+47 AFTER RECEIVING THE NOTICE TO COMPLY WITH THE QUARTERLY REPORTING
+-3-
+
+House Amendments to H.B. 2402
+1 REQUIREMENTS OF THIS SECTION. IF THE AMBULANCE SERVICE CONTINUES TO FAIL
+2 TO COMPLY WITH THE QUARTERLY REPORTING REQUIREMENTS OF THIS SECTION, THE
+3 DIRECTOR MAY IMPOSE A CIVIL PENALTY OF NOT MORE THAN $500.
+4 D. FOR THE PURPOSES OF THIS SECTION, "EMERGENCY MEDICAL DISPATCH
+5 CLASSIFICATION" MEANS THE STANDARDIZED SYSTEM USED BY EMERGENCY MEDICAL
+6 DISPATCHERS TO EVALUATE AND CATEGORIZE EMERGENCY MEDICAL CALLS BASED ON
+7 THE NATURE AND SEVERITY OF THE INCIDENT.
+8 Sec. 4. Section 36-2232, Arizona Revised Statutes, is amended to
+9 read:
+10 36-2232. Director; powers and duties; regulation of ambulance
+11 services; inspections; response time compliance;
+12 mileage rate calculation factors; online portal
+13 and dashboard
+14 A. The director shall adopt rules to regulate the operation of
+15 ambulances and ambulance services in this state. Each rule shall identify
+16 all sections and subsections of this chapter under which the rule was
+17 formulated. The rules shall provide for the department to do the
+18 following:
+19 1. Consistent with the requirements of subsection H of this
+20 section, determine, fix, alter and regulate just, reasonable and
+21 sufficient rates and charges for the provision of ambulances, including
+22 rates and charges for advanced life support service, basic life support
+23 service, patient loaded mileage, standby waiting, subscription service
+24 contracts and other contracts for services related to the provision of
+25 ambulances. The director shall inform all ambulance services of the
+26 procedures and methodology used to determine ambulance rates or charges.
+27 2. Ensure THAT evidence-based quality patient care is the priority
+28 for decision-making.
+29 3. Regulate operating and response times of ambulances to meet the
+30 needs of the public and to ensure adequate service. The rules adopted by
+31 the director for certificated ambulance service response times shall
+32 include uniform standards for urban, suburban, rural and wilderness
+33 geographic areas within the certificate of necessity based on, at a
+34 minimum, population density and geographic and medical considerations.
+35 The calculation of response times shall begin when the public safety
+36 answering point contacts an ambulance service for dispatch and conclude
+37 when the ambulance service arrives at the dispatched location. On-scene
+38 arrival times for response time measurement shall be documented by the
+39 ambulance service using dispatch or global positioning system data, or a
+40 combination of both, and kept on file. Response time data that is
+41 compliant with the health insurance portability and accountability act of
+42 1996 shall be filed annually with the department. When dispatch or global
+43 positioning system connectivity is not available, the ambulance service
+44 shall manually document on-scene arrival times for response time
+45 measurement. The response time data shall be filed in a
+46 department-approved format, and the department shall make the response
+47 time data publicly available.
+-4-
+
+House Amendments to H.B. 2402
+1 4. Review response times established pursuant to paragraph 3 of
+2 this subsection with the ambulance service and update the response times
+3 based on, at a minimum, population density and geographic and medical
+4 considerations, and the financial impact on rates and charges, every six
+5 years. One additional review each six-year period may be requested by a
+6 city, town, fire district or fire authority whose jurisdictional
+7 boundaries in whole or in part are within the service area of a
+8 certificate of necessity or an existing certificate of necessity holder
+9 within the service area of the certificate of necessity.
+10 5. Determine, fix, alter and regulate bases of operation. The
+11 director may issue a certificate of necessity to more than one ambulance
+12 service within any base of operation. For the purposes of this paragraph,
+13 "base of operation" means a service area granted under a certificate of
+14 necessity.
+15 6. Issue, amend, transfer, suspend or revoke certificates of
+16 necessity under terms consistent with this article.
+17 7. Prescribe a uniform system of accounts to be used by ambulance
+18 services that conforms to standard accounting forms and principles for the
+19 ambulance industry and generally accepted accounting principles.
+20 8. Require the filing of an annual financial report and other data.
+21 These rules shall require an ambulance service to file the report with the
+22 department not later than one hundred eighty days after the completion of
+23 its annual accounting period.
+24 9. Regulate ambulance services in all matters affecting services to
+25 the public to the end that this article may be fully carried out.
+26 10. Prescribe bonding requirements, if any, for ambulance services
+27 THAT ARE granted authority to provide any type of subscription service.
+28 11. Offer technical assistance to ambulance services to ensure
+29 compliance with the rules.
+30 12. Offer technical assistance to ambulance services in order to
+31 obtain or to amend a certificate of necessity.
+32 13. Inspect, at a maximum of twelve-month intervals, each ambulance
+33 registered pursuant to section 36-2212 to ensure that the vehicle is
+34 operational and safe and that all required medical equipment is
+35 operational. At the request of the provider, the inspection may be
+36 performed by a facility approved by the director. If a provider requests
+37 that the inspection be performed by a facility approved by the director,
+38 the provider shall pay the cost of the inspection.
+39 B. The director may require any ambulance service offering
+40 subscription service contracts to obtain a bond in an amount determined by
+41 the director that is based on the number of subscription service contract
+42 holders and to file the bond with the director to protect all subscription
+43 service contract holders in this state who THAT are covered under that
+44 subscription contract.
+45 C. An EACH ambulance service shall:
+46 1. Maintain, establish, add, move or delete suboperation stations
+47 within its base of operation to ensure that the ambulance service meets
+-5-
+
+House Amendments to H.B. 2402
+1 the established response times or those approved by the director in a
+2 political subdivision contract.
+3 2. Determine the operating hours of its suboperation stations to
+4 provide for coverage of its base of operation.
+5 3. Provide the department with a list of suboperation station
+6 locations.
+7 4. Notify the department not later than thirty days after the
+8 ambulance service makes a change in the number or location of its
+9 suboperation stations.
+10 5. Beginning January 1, 2024, Install and maintain an electronic
+11 global positioning system monitoring device in each vehicle that is used
+12 for transport to record on-scene arrival times for response time
+13 measurement. The department shall MAY provide a waiver on a
+14 department-approved form to an ambulance service that can reasonably
+15 demonstrate it is unable to meet the requirements of this paragraph
+16 BECAUSE AT LEAST THIRTY PERCENT OF THE SERVICE AREA DOES NOT HAVE GLOBAL
+17 POSITIONING SYSTEM COVERAGE. A WAIVER ISSUED PURSUANT TO THIS PARAGRAPH
+18 EXPIRES ON APRIL 1 OF EACH YEAR AND MAY BE RENEWED ANNUALLY.
+19 D. At any time, the director or the director's agents may:
+20 1. Inquire into the operation of an ambulance service, including a
+21 person operating an ambulance that has not been issued a certificate of
+22 registration or a person who does not have or is operating outside of a
+23 certificate of necessity.
+24 2. Conduct on-site inspections of facilities, communications
+25 equipment, vehicles, procedures, materials and equipment.
+26 3. Review the qualifications of ambulance attendants.
+27 E. If all ambulance services that have been granted authority to
+28 operate within the same service area or that have overlapping certificates
+29 of necessity apply for uniform rates and charges, the director may
+30 establish uniform rates and charges for the service area.
+31 F. In consultation with the medical director of the BUREAU OF
+32 emergency medical services and trauma system, the emergency medical
+33 services council and the medical direction commission, the director of the
+34 department of health services shall establish protocols for ambulance
+35 services to refer and advise a patient or transport a patient by the most
+36 appropriate means to the most appropriate provider of medical services
+37 based on the patient's condition. The protocols shall include triage and
+38 treatment protocols that allow all classifications of emergency medical
+39 care technicians responding to a person who has accessed 911, or a similar
+40 public dispatch number, for a condition that does not pose an immediate
+41 threat to life or limb to refer and advise a patient or transport a
+42 patient to the most appropriate health care institution as defined in
+43 section 36-401 based on the patient's condition, taking into consideration
+44 factors including patient choice, the patient's health care provider,
+45 specialized health care facilities and local protocols.
+46 G. The director, when reviewing an ambulance service's response
+47 time compliance with its certificate of necessity, shall consider in
+-6-
+
+House Amendments to H.B. 2402
+1 addition to other factors the effect of hospital diversion, delayed
+2 emergency department admission and the number of ambulances engaged in
+3 response or transport in the affected area.
+4 H. The department shall incorporate all of the following factors
+5 when calculating the proposed mileage rate:
+6 1. The cost of licensure and registration of each ground ambulance
+7 vehicle.
+8 2. The cost of fuel.
+9 3. The cost of ground ambulance vehicle maintenance.
+10 4. The cost of ground ambulance vehicle repair.
+11 5. The cost of tires.
+12 6. The cost of ground ambulance vehicle insurance.
+13 7. The cost of mechanic wages, benefits and payroll taxes.
+14 8. The cost of loan interest related to the ground ambulance
+15 vehicles.
+16 9. The cost of the weighted allocation of overhead.
+17 10. The cost of ground ambulance vehicle depreciation.
+18 11. The cost of reserves for replacement of ground ambulance
+19 vehicles and equipment.
+20 I. THE DEPARTMENT SHALL:
+21 1. ESTABLISH AN ONLINE CERTIFICATE OF NECESSITY APPLICATION PORTAL
+22 TO ALLOW APPLICANTS TO TRACK THE STATUS OF THEIR APPLICATION AND THE
+23 APPLICABLE DEADLINES AS PRESCRIBED IN RULE BY THE DEPARTMENT.
+24 2. MAKE AVAILABLE TO THE PUBLIC ON THE DEPARTMENT'S PUBLIC WEBSITE
+25 A DASHBOARD OF AMBULANCE SERVICE RESPONSE TIMES THAT CAN BE REVIEWED BY
+26 CALL TYPE AND THE PERCENTAGE OF CALLS THAT REQUIRED ADVANCED LIFE SUPPORT
+27 SERVICES.
+28 Sec. 5. Section 36-2233, Arizona Revised Statutes, is amended to
+29 read:
+30 36-2233. Certificate of necessity to operate an ambulance
+31 service; application; notification of interested
+32 parties; exceptions; service areas
+33 A. Any person wishing to operate an ambulance service in this state
+34 shall apply to the department on a form prescribed by the director for a
+35 certificate of necessity.
+36 B. Within one hundred eighty days after receiving an application
+37 for a certificate of necessity as prescribed in this section, the director
+38 shall make a determination based on whether necessity for the ambulance
+39 service is found to exist and the applicant meets the requirements of
+40 subsection F of this section. If the director requests additional
+41 information from the applicant after initial review, the applicant shall
+42 have HAS thirty business days to respond. On request, the director may
+43 give the applicant one additional period of thirty business days to
+44 respond. If the applicant fails to respond to the director's request for
+45 additional information, the department shall deem the initial or amended
+46 application withdrawn. An application deemed withdrawn is not an
+47 appealable agency action pursuant to title 41, chapter 6, article 10. The
+-7-
+
+House Amendments to H.B. 2402
+1 applicant may appeal a denial only pursuant to section 36-2234. The one
+2 hundred eighty-day period for the director to make the determination of
+3 necessity does not include the time the applicant uses to respond to
+4 requests for additional information.
+5 C. On receipt of an initial or amended application for a
+6 certificate of necessity, the department shall post a notice of the
+7 application on its website. Within thirty days after the department posts
+8 a notice pursuant to this subsection, any interested party may provide
+9 information to the director on a form in a department-approved format for
+10 consideration. If an interested party fails to respond to the notice
+11 within sixty days in a department-approved format, the information may not
+12 be considered during the review of the application.
+13 D. For the purposes of this section, a city, town, fire district,
+14 fire authority or tribal government whose jurisdictional boundaries in
+15 whole or in part are within the service area of a certificate of
+16 necessity, an existing certificate of necessity holder within the service
+17 area of the certificate of necessity or a hospital that is licensed
+18 pursuant to chapter 4 of this title and that is located within the service
+19 area of a certificate of necessity is considered to be an interested party
+20 as a matter of law.
+21 E. All interested parties shall be notified of any application for
+22 an initial or amended certificate of necessity within fifteen days after
+23 the application is filed, within fifteen days after the application is
+24 complete and within fifteen days after a decision by the director. The
+25 director's decision pursuant to subsection F of this section is final
+26 unless appealed pursuant to section 36-2234, subsection A.
+27 F. The director shall issue a certificate of necessity if all of
+28 the following apply:
+29 1. The director finds that public necessity requires the service or
+30 any part of the service proposed by the applicant.
+31 2. The director finds that the applicant is fit and proper to
+32 provide the service.
+33 3. The applicant has paid the appropriate fees pursuant to section
+34 36-2240.
+35 4. The applicant has filed a surety bond pursuant to section
+36 36-2237.
+37 G. THE DIRECTOR MAY NOT REQUIRE AN APPLICANT TO PURCHASE EQUIPMENT,
+38 AMBULANCES OR OTHER VEHICLES BEFORE APPROVING THE CERTIFICATE OF NECESSITY
+39 IF THE APPLICANT CAN DEMONSTRATE THE ABILITY TO PROVIDE ALL SERVICES
+40 REQUIRED PURSUANT TO A CERTIFICATE OF NECESSITY ISSUED PURSUANT TO THIS
+41 ARTICLE.
+42 G. H. A certificate of necessity issued pursuant to subsection
+43 F of this section shall be for all or part of the service proposed by the
+44 applicant as determined necessary by the director for public convenience
+45 and necessity.
+46 I. NOTWITHSTANDING ANY OTHER REQUIREMENT OF THIS CHAPTER TO THE
+47 CONTRARY, IF A GEOGRAPHIC AREA OF A CITY, TOWN OR FIRE DISTRICT HAS A
+-8-
+
+House Amendments to H.B. 2402
+1 POPULATION OF LESS THAN TEN THOUSAND PERSONS AND IS NOT WITHIN THE SERVICE
+2 AREA OF A CERTIFICATE OF NECESSITY [OR THE CURRENT CERTIFICATE OF
+3 NECESSITY HOLDER HAS NOT MET THE REQUIREMENTS OF THE CERTIFICATE OF
+4 NECESSITY FOR AT LEAST SIX MONTHS], THE DIRECTOR MAY ISSUE A CERTIFICATE
+5 OF NECESSITY TO THE CITY, TOWN OR FIRE DISTRICT OR A PRIVATE AMBULANCE
+6 SERVICE TO PROVIDE AMBULANCE SERVICES TO THAT GEOGRAPHIC AREA IF THE CITY,
+7 TOWN OR FIRE DISTRICT OR THE PRIVATE AMBULANCE SERVICE CAN DEMONSTRATE THE
+8 ABILITY TO PROVIDE ALL SERVICES REQUIRED PURSUANT TO A CERTIFICATE OF
+9 NECESSITY ISSUED PURSUANT TO THIS ARTICLE.
+10 [J. IF A GEOGRAPHIC AREA OF A CITY, TOWN OR FIRE DISTRICT HAS A
+11 POPULATION OF LESS THAN TEN THOUSAND PERSONS AND HAS A CURRENT CERTIFICATE
+12 OF NECESSITY HOLDER THAT HAS NOT MET THE CERTIFICATE OF NECESSITY
+13 CONDITIONS FOR AT LEAST TWELVE MONTHS, THE DIRECTOR MAY ISSUE A
+14 CERTIFICATE OF NECESSITY TO A CITY, TOWN OR FIRE DISTRICT OR PRIVATE
+15 AMBULANCE SERVICE TO PROVIDE AMBULANCE SERVICES TO THAT GEOGRAPHIC AREA IF
+16 THE CITY, TOWN OR FIRE DISTRICT OR PRIVATE AMBULANCE SERVICE CAN
+17 DEMONSTRATE THE ABILITY TO PROVIDE ALL SERVICES REQUIRED PURSUANT TO A
+18 CERTIFICATE OF NECESSITY ISSUED PURSUANT TO THIS ARTICLE.]
+19 H. [J.] [K.] This section does not require a certificate of
+20 necessity for:
+21 1. Vehicles and persons that are exempt from a certificate of
+22 registration pursuant to section 36-2217.
+23 2. Ambulance services operating under temporary authority pursuant
+24 to section 36-2242.
+25 I. [K.] [L.] The director may grant a service area by one or any
+26 combination of the following descriptions:
+27 1. Metes and bounds.
+28 2. A city, town or political subdivision not limited to a specific
+29 date. The merger or consolidation of two or more fire districts pursuant
+30 to section 48-820 or 48-822 does not expand the service area boundaries of
+31 an existing certificate of necessity.
+32 3. A city, town or political subdivision as of a specific date that
+33 does not include annexation.
+34 Sec. 6. Section 36-2234, Arizona Revised Statutes, is amended to
+35 read:
+36 36-2234. Hearings; waiver of hearing; appeals; emergency
+37 action; suspension; judicial review; definition
+38 A. The applicant or any certificate of necessity holder whose
+39 ambulance service area in whole or in part is within the affected service
+40 area of the initial or amended certificate of necessity may appeal
+41 pursuant to title 41, chapter 6, article 10 the director's determination
+42 within thirty days after the decision. If an appeal is made, the director
+43 shall require THAT a public hearing be held within one hundred twenty days
+44 after the hearing notice is issued on the director's determination on the
+45 initial or amended certificate of necessity.
+46 B. For the purposes of any hearing held pursuant to this section, a
+47 city, town, fire district, fire authority or tribal government whose
+-9-
+
+House Amendments to H.B. 2402
+1 jurisdictional boundaries in whole or in part are within the service area
+2 of a certificate of necessity, an existing certificate of necessity holder
+3 within the service area of the certificate of necessity or a hospital that
+4 is licensed pursuant to chapter 4 of this title and that is located within
+5 the service area of a certificate of necessity is considered to be an
+6 interested party as a matter of law.
+7 C. The director shall require a public hearing on any proposed
+8 action relating to an adjustment of general public rates, charges or
+9 certificate of necessity transfers unless subsection E, G or O P of this
+10 section applies.
+11 D. An appeal pursuant to subsection A of this section or a public
+12 hearing held pursuant to subsection C of this section shall meet the
+13 following requirements:
+14 1. The hearing shall be held pursuant to title 41, chapter 6,
+15 article 10, except as specifically provided in this section.
+16 2. The director shall mail notice of the hearing to every ambulance
+17 service in the affected region and every interested party as specified in
+18 subsection B of this section not later than fifteen days before the
+19 hearing.
+20 3. The director may mail notice to other persons who the director
+21 determines are interested in the hearing.
+22 4. In a hearing or rehearing conducted pursuant to this article, an
+23 ambulance service may be represented by a corporate officer, an employee
+24 or a designee who has been specifically authorized by the ambulance
+25 service to represent it.
+26 5. FOR AN APPEAL PURSUANT TO SUBSECTION A OF THIS SECTION, AN
+27 AMBULANCE SERVICE IN THE AFFECTED REGION AND EACH INTERESTED PARTY AS
+28 SPECIFIED IN SUBSECTION B OF THIS SECTION HAVE SEVEN DAYS AFTER RECEIVING
+29 THE HEARING NOTICE MAILED PURSUANT TO PARAGRAPH 2 OF THIS SUBSECTION TO
+30 INTERVENE.
+31 5. 6. A certificate of necessity appeal hearing may not last more
+32 than five consecutive business days unless the administrative law judge
+33 determines, in writing, on the final day of the hearing that there is an
+34 extraordinary need for additional hearing days. The administrative law
+35 judge in that case may add up to five additional consecutive business days
+36 for the hearing. The additional hearing days shall be calendared within
+37 thirty days after the end of the initial hearing.
+38 6. 7. The administrative law judge of the office of administrative
+39 hearings shall issue a written decision within twenty days after the
+40 hearing is concluded. The written decision shall contain a concise
+41 explanation of the reasons supporting the decision, including the findings
+42 of fact and conclusions of law. The administrative law judge shall serve
+43 a copy of the decision on the department and all parties to the action.
+44 On request of the department, the office of administrative hearings shall
+45 also transmit to the department the record of the hearing as described in
+46 section 12-904. A copy of the administrative law judge's decision is
+-10-
+
+House Amendments to H.B. 2402
+1 deemed sent on personal delivery of the decision or five days after the
+2 decision is mailed to the director.
+3 7. 8. Within thirty days after the date the office of
+4 administrative hearings sends a copy of the administrative law judge's
+5 decision to the department, the director shall review the decision and
+6 accept, reject or modify the decision. If the director rejects or
+7 modifies the decision, the director must file with the office of
+8 administrative hearings and serve on all parties a copy of the
+9 administrative law judge's decision with the director's rejection or
+10 modification and a written justification setting forth the reasons for the
+11 rejection or modification of each finding of fact or conclusion of law.
+12 If there is a rejection or modification of a conclusion of law, the
+13 written justification shall be sent to the president of the senate and the
+14 speaker of the house of representatives.
+15 8. 9. If the director does not accept, reject or modify the
+16 administrative law judge's decision within thirty days after the date the
+17 office of administrative hearings sends a copy of the administrative law
+18 judge's decision to the director, as evidenced by receipt of such action
+19 by the office of administrative hearings on or before the thirtieth day,
+20 the office of administrative hearings shall certify the administrative law
+21 judge's decision as the final administrative decision.
+22 9. 10. The decision entered as specifically provided by this
+23 subsection is the final administrative decision.
+24 E. The director may waive the hearing required under subsection C
+25 of this section if notification, including a general description of the
+26 proposed action of the department and the time and manner for any
+27 interested person to request a hearing, is given and all of the following
+28 apply:
+29 1. Notification of the proposed action has been sent to every
+30 ambulance service in the affected region not later than fifteen days
+31 before the action.
+32 2. The director has notified other persons who the director
+33 determines are interested in the proposed action not later than fifteen
+34 days before the action.
+35 3. The director has published notice of the proposed action in a
+36 newspaper of general circulation in the affected region at least once each
+37 week for two consecutive weeks before the action is taken.
+38 4. The director has received no requests within the fifteen-day
+39 notification period for a hearing to be held on the proposed action.
+40 F. If the director receives a request pursuant to subsection E,
+41 paragraph 4 of this section, the director shall hold a hearing in
+42 compliance with subsection D of this section.
+43 G. The director shall not hold a hearing if a person requests a
+44 hearing regarding a rate increase that does not exceed the amount computed
+45 as follows:
+46 1. Determine the percentage growth in the transportation consumer
+47 price index of the United States department of labor, bureau of labor
+-11-
+
+House Amendments to H.B. 2402
+1 statistics, from the end of the second preceding calendar year to the
+2 calendar year immediately preceding the calendar year for which the rate
+3 increase is requested.
+4 2. Determine the percentage growth in the medical care consumer
+5 price index of the United States department of labor, bureau of labor
+6 statistics, from the end of the second preceding calendar year to the
+7 calendar year immediately preceding the calendar year for which the rate
+8 increase is requested.
+9 3. Add the amount determined in paragraph 1 of this subsection to
+10 the amount determined in paragraph 2 of this subsection and divide the sum
+11 by two.
+12 H. A rate increase authorized pursuant to subsection G of this
+13 section is deemed to be fixed by the department at the requested level.
+14 Notwithstanding subsection E of this section, the department shall hold a
+15 hearing pursuant to section 36-2232, subsection E for any proposed uniform
+16 rate or charge that exceeds the annual rate increase prescribed in
+17 subsection G of this section. The department shall require the applicants
+18 to submit the following information signed by the designated financial
+19 officer and the chief executive of the ambulance service who has fiduciary
+20 responsibility for providing accurate financial information:
+21 1. A financial statement for the previous twenty-four months
+22 relating to the certificated areas.
+23 2. Any additional information the department requires to analyze
+24 the request.
+25 I. If an ambulance service with an established general public rate
+26 applies for a contract rate or range of rates that is up to thirty percent
+27 less than its established rate, the director shall grant the rate without
+28 a public hearing or waiver, and without any right of intervention, unless
+29 within ninety days after the filing of a completed application the
+30 director determines that the contract rate or range of rates applied for
+31 does not accurately reflect the cost and economics of providing the
+32 contract services, would adversely affect the service available to the
+33 general public in the area of service as designated by its certificate of
+34 necessity or would cause any fixed rate, fare or charge to the general
+35 public to be adversely affected.
+36 J. If the department disallows a proposed contract rate pursuant to
+37 subsection I of this section, the ambulance service has a right to a
+38 hearing for review of the proposed contract rate or range of rates.
+39 K. The director may adopt rules for the establishment of a contract
+40 rate or range of rates that may be implemented and that exceeds the thirty
+41 percent rate variance identified pursuant to subsection I of this section.
+42 L. Subsections I, J and K of this section are limited to contract
+43 rates or a range of rates applied for prescheduled, interfacility or
+44 convalescent transports.
+45 M. A service contract between an ambulance service and a political
+46 subdivision of this state, including local fire districts, shall be filed
+-12-
+
+House Amendments to H.B. 2402
+1 with and approved by the department in accordance with the following
+2 requirements:
+3 1. On receipt of the proposed contract, the department has fifteen
+4 days to review the contract and notify the ambulance service of any
+5 additional information the department requires, recommended corrections or
+6 any provision that does or may violate this article.
+7 2. The ambulance service has fifteen days to provide the department
+8 with the information requested or to submit a revised or amended contract
+9 if required under paragraph 1 of this subsection.
+10 3. The contract becomes effective fifteen days after the ambulance
+11 service complies with the department's request unless the department
+12 determines that any rate or charge or other provisions specified in the
+13 contract will cause any fixed rate or charge to the general public rate to
+14 be adversely affected or the contract would be in violation of the
+15 ambulance service's certificate of necessity.
+16 4. If the department disallows a proposed contract pursuant to this
+17 subsection, the ambulance service has a right to a hearing for review of
+18 the proposed contract.
+19 5. The rates and charges contained in the contract are the rates
+20 and charges fixed by the director in a decision or order for the ambulance
+21 service and conform to the ambulance service's current or subsequent
+22 general public rates and charges.
+23 6. The area of response is within the ambulance service's
+24 certificated area.
+25 N. In case of emergency, the director may take action providing for
+26 immediate suspension of a certificate of registration or a certificate of
+27 necessity, or both, under this section without notice or a hearing if the
+28 director determines that a potential threat to the public health and
+29 safety exists. If such an action is taken by the director, the director
+30 shall conduct a hearing within ten days after the date of the director's
+31 action unless the person against whom the action is directed waives the
+32 right to have a hearing held within ten days. If the ten-day hearing
+33 requirement is waived, the director shall set a date mutually agreeable to
+34 the interested parties. The purpose of the hearing is to review the
+35 decision of the director to take such an action. The director shall make
+36 findings of fact and may continue, suspend or modify the director's
+37 action.
+38 O. THE DIRECTOR SHALL ASSESS A CIVIL PENALTY OF $1,500 ON AN
+39 AMBULANCE SERVICE IF THE AMBULANCE SERVICE IS NOT COMPLYING WITH THE
+40 CERTIFICATE OF NECESSITY'S REQUIREMENTS. THE CERTIFICATE OF NECESSITY
+41 HOLDER MAY APPEAL THE DIRECTOR'S DECISION PURSUANT TO THIS SUBSECTION BY
+42 REQUESTING A HEARING PURSUANT TO TITLE 41, CHAPTER 6, ARTICLE 10.
+43 O. P. The director shall waive the hearing required under
+44 subsection C of this section if geographic changes in suboperation
+45 stations do not alter the service area or adversely affect approved
+46 response times.
+-13-
+
+House Amendments to H.B. 2402
+1 P. Q. Except as provided in section 41-1092.08, subsection H, a
+2 final decision of the director relating to an adjustment of general public
+3 rates, charges or certificate of necessity transfers is subject to
+4 judicial review pursuant to title 12, chapter 7, article 6.
+5 Q. R. The final administrative decision of the director or the
+6 administrative law judge as prescribed in subsection D of this section for
+7 an initial or amended certificate of necessity is subject to judicial
+8 review pursuant to title 12, chapter 7, article 6.
+9 R. S. For the purposes of this section, "hearing day":
+10 1. Means any portion of a business day that is used for any
+11 hearing-related activity, including testimony, argument or presentation of
+12 evidence.
+13 2. Does not include prehearing conferences or other administrative
+14 matters that occur before the start of the hearing.
+15 Sec. 7. Section 36-2235, Arizona Revised Statutes, is amended to
+16 read:
+17 36-2235. Terms of certificates of necessity; initial term;
+18 renewal
+19 A. The initial certificate of necessity issued pursuant to section
+20 36-2233 to each ambulance service shall be for a term of one year.
+21 B. On the expiration of a certificate of necessity, if the holder
+22 of the certificate OF NECESSITY meets all requirements, applies for a
+23 renewal and pays the fees prescribed in section 36-2240, the director
+24 shall renew the certificate OF NECESSITY for a term of three years without
+25 public hearing or waiver unless cause is shown to set a hearing to
+26 consider denial or renewal for a shorter term.
+27 C. If the director does not conclude a hearing to show cause within
+28 ninety days of the expiration date of the certificate OF NECESSITY, the
+29 certificate OF NECESSITY shall be renewed for a period of not less than AT
+30 LEAST one year. The term of the certificate OF NECESSITY shall be
+31 extended to RENEWED FOR three years if the director determines that cause
+32 is not established for denial or renewal for a shorter term. For the
+33 purposes of this subsection, "hearing to show cause" means a hearing
+34 ordered by the director pursuant to section 36-2245 to determine if
+35 WHETHER any grounds exist to prevent an ambulance service from carrying
+36 out the provisions of subsection B of this section during the current term
+37 of the certificate OF NECESSITY.
+38 D. THE DIRECTOR SHALL BASE ALL DECISIONS RELATING TO THE RENEWAL OF
+39 A CERTIFICATE OF NECESSITY ON CURRENT DATA.
+40 Sec. 8. Section 36-2236, Arizona Revised Statutes, is amended to
+41 read:
+42 36-2236. Certificates of necessity; nature; transfer;
+43 suspension; service area; population changes
+44 A. A certificate of necessity issued pursuant to this article is
+45 not a franchise, may be revoked by the director and does not confer a
+46 property right on its holder.
+-14-
+
+House Amendments to H.B. 2402
+1 B. A certificate of necessity shall not be assigned or otherwise
+2 transferred without the written approval of the director. When any
+3 certificate OF NECESSITY is assigned or transferred, the director shall
+4 issue to the assignee or transferee a new certificate OF NECESSITY that is
+5 valid only for the unexpired term of the transferred or assigned
+6 certificate OF NECESSITY.
+7 C. In case of emergency, the director may suspend a certificate of
+8 necessity as provided in section 36-2234.
+9 D. If a certificate of necessity issued pursuant to this article is
+10 issued to a city, town, fire district, fire authority or other political
+11 subdivision of this state, the service area shall be all the geographic
+12 area lying within the jurisdictional boundaries of the city, town, fire
+13 district, fire authority or political subdivision, unless the certificate
+14 OF NECESSITY issued by the director specifically excludes a portion of the
+15 city, town, fire district, fire authority or political subdivision or
+16 includes an additional service area outside the jurisdictional boundaries
+17 of the city, town, fire district, fire authority or other political
+18 subdivision. If the jurisdictional boundaries of a city, town, fire
+19 district, fire authority or other political subdivision expand, the
+20 service area in the certificate of necessity expands to reflect those
+21 jurisdictional boundaries, except as prescribed in section 36-2233,
+22 subsection I [K] [L], paragraph 2. This subsection does not affect the
+23 validity of any previously granted certificate OF NECESSITY for an
+24 unincorporated area lying within the boundaries of a city.
+25 E. If the population of a service area changes by ten percent or
+26 more based on the most recent decennial census or five-year census
+27 estimate, the department must conduct a review to determine whether
+28 adjustments must be made to the response times in the service area, taking
+29 into consideration the impact on rates and charges.
+30 Enroll and engross to conform
+31 Amend title to conform
+JULIE WILLOUGHBY
+2402FloorWILLOUGHBY
+02/23/2026
+4:50 PM
+C: MH
+130FDDVNK
+-15-

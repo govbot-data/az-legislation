@@ -1,0 +1,1179 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Gress - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2481: school districts; records; noncompliance; penalties
+GRESS FLOOR AMENDMENT
+1. Removes the $1,000 monthly civil penalty imposed against a school district
+superintendent if the school district fails to correct a Uniform System of
+Financial Records (USFR) deficiency within 18 months.
+2. Requires SBE, if a school district fails to correct a deficiency within 18 months
+after receiving notice from the Auditor General (OAG), to notify the school
+district governing board (governing board) that the superintendent is ineligible
+to receive performance-based pay beginning the first day of the 18th month
+after the school district receives notice from the OAG and until the OAG
+reports the school district's compliance with the USFR.
+3. Prohibits a governing board from calling a district additional assistance
+override or bond election if the school district fails to correct a USFR deficiency
+within 18 months, rather than 90 days.
+CH
+2/24/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Gress
+Second Regular Session H.B. 2481
+GRESS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2481
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 15-272, Arizona Revised Statutes, is amended to
+3 read:
+4 15-272. Duties; department of education; state board of
+5 education; sanctions for noncompliance with uniform
+6 system of financial records
+7 A. The department of education shall advise and consult with the
+8 auditor general in the preparation PREPARING and implementation of
+9 IMPLEMENTING a uniform system of financial records.
+10 B. The state board of education, on report from the auditor
+11 general, shall determine whether school districts are maintaining the
+12 uniform system of financial records. If the state board of education
+13 determines that a school district is not in compliance with the uniform
+14 system of financial records or has failed to correct a deficiency within
+15 ninety days after receiving notice from the auditor general FOR ONE OF THE
+16 FOLLOWING PERIODS OF TIME, the state board of education shall:
+17 1. IF THE SCHOOL DISTRICT FAILS TO CORRECT A DEFICIENCY WITHIN
+18 NINETY DAYS AFTER RECEIVING NOTICE FROM THE AUDITOR GENERAL, DO BOTH OF
+19 THE FOLLOWING:
+20 (a) Direct the superintendent of public instruction to withhold up
+21 to ten per cent PERCENT of the portion of state monies to the school
+22 district for each violation from the date of the determination until such
+23 time as the auditor general reports THE SCHOOL DISTRICT'S compliance with
+24 the uniform system of financial records. The auditor general and the
+25 department of education shall assist the school district to achieve
+26 compliance during such period.
+27 (b) CONSULT WITH THE DEPARTMENT OF EDUCATION TO DETERMINE THE
+28 AMOUNT OF TRAINING AND OTHER INTERVENTIONS NECESSARY OR APPROPRIATE TO
+
+House Amendments to H.B. 2481
+1 ASSIST THE SCHOOL DISTRICT TO ACHIEVE COMPLIANCE AND DIRECT THE DEPARTMENT
+2 OF EDUCATION TO PROVIDE THE TRAINING AND INTERVENTIONS WITHIN THIRTY
+3 CALENDAR DAYS. ANY TRAINING UNDER THIS SUBDIVISION MUST BE PROVIDED TO
+4 THE SCHOOL DISTRICT'S SUPERINTENDENT, BUSINESS MANAGER AND CHIEF FINANCIAL
+5 OFFICER AND ANY OTHER ADMINISTRATOR OR EXECUTIVE IDENTIFIED BY THE STATE
+6 BOARD OF EDUCATION OR THE DEPARTMENT OF EDUCATION. THE DEPARTMENT SHALL
+7 NOTIFY THE STATE BOARD OF EDUCATION WHEN THE TRAINING AND INTERVENTIONS
+8 PROVIDED PURSUANT TO THIS SUBDIVISION ARE COMPLETED. THE DEPARTMENT MAY
+9 CONTRACT WITH A THIRD PARTY TO PROVIDE THE TRAINING AND
+10 INTERVENTIONS. THE SCHOOL DISTRICT SHALL PAY FOR ANY COSTS INCURRED BY
+11 THE DEPARTMENT TO PROVIDE THE TRAINING AND INTERVENTIONS PURSUANT TO THIS
+12 SUBDIVISION.
+13 2. IF THE SCHOOL DISTRICT FAILS TO CORRECT A DEFICIENCY WITHIN
+14 EIGHTEEN MONTHS AFTER RECEIVING NOTICE FROM THE AUDITOR GENERAL, [IMPOSE A
+15 CIVIL PENALTY AGAINST THE SCHOOL DISTRICT'S SUPERINTENDENT IN AN AMOUNT
+16 EQUAL TO $1,000 FOR EACH MONTH, BEGINNING THE EIGHTEENTH MONTH,] [NOTIFY
+17 THE SCHOOL DISTRICT GOVERNING BOARD THAT THE SCHOOL DISTRICT'S
+18 SUPERINTENDENT IS INELIGIBLE TO RECEIVE PERFORMANCE-BASED PAY, INCLUDING
+19 THE PORTION OF THE SUPERINTENDENT'S ANNUAL SALARY THAT IS CLASSIFIED AS
+20 PERFORMANCE PAY PURSUANT TO SECTION 15-341, SUBSECTION A, PARAGRAPH 39,
+21 FOR THE PERIOD BEGINNING ON THE FIRST DAY OF THE EIGHTEENTH MONTH AFTER
+22 THE SCHOOL DISTRICT RECEIVES NOTICE FROM THE AUDITOR GENERAL AND] UNTIL
+23 SUCH TIME AS THE AUDITOR GENERAL REPORTS THE SCHOOL DISTRICT'S COMPLIANCE
+24 WITH THE UNIFORM SYSTEM OF FINANCIAL RECORDS.
+25 C. The general budget limit and maintenance and operations section
+26 of the budget for the current year and for the budget year if the school
+27 district is not in compliance before the end of the current year, shall
+28 be reduced by the amount determined in subsection B, PARAGRAPH 1 OF THIS
+29 SECTION until the state board of education determines that the school
+30 district is in compliance.
+31 D. If compliance is determined by the state board of education in
+32 the same year as the determination of noncompliance or in the first year
+33 after the fiscal year of the determination of noncompliance, the resulting
+34 adjustment to budgeted maintenance and operations and to the general
+35 budget limit may be applied to the fiscal year of the determination of
+36 noncompliance equal to the amount adjusted in that fiscal year or to the
+37 current year equal to the amount adjusted in the current year. Previously
+38 withheld monies that resulted from the determination of noncompliance
+39 shall be returned in the year compliance is determined.
+40 Sec. 2. Section 15-302, Arizona Revised Statutes, is amended to
+41 read:
+42 15-302. Powers and duties
+43 A. The county school superintendent shall:
+44 1. Distribute all laws, reports, circulars, instructions and forms
+45 that the county school superintendent may receive for the use of school
+46 officers.
+47 2. Record all official acts.
+-2-
+
+House Amendments to H.B. 2481
+1 3. Appoint governing board members of school districts to fill all
+2 vacancies, but the term of the appointment shall be until the next regular
+3 election for governing board members, at which time a successor shall be
+4 elected to serve the unexpired portion of the term. A person who is
+5 subject to registration as a sex offender in this state or in any other
+6 jurisdiction is ineligible for appointment under this paragraph. Within
+7 thirty days after notification of a vacancy, the school district governing
+8 board may submit up to three names to the county school superintendent for
+9 consideration of an appointment to fill the vacancy. The county school
+10 superintendent is not required to appoint a governing board member from
+11 the list of names submitted by the governing board. The county school
+12 superintendent, if the county school superintendent deems it in the best
+13 interest of the community, may call a special election to fill the
+14 vacancies. If an election is called, the newly elected member shall serve
+15 for the remainder of the unexpired portion of the term.
+16 4. Make reports, when directed by the superintendent of public
+17 instruction, showing matters relating to schools in the county as may be
+18 required on the forms furnished by the superintendent of public
+19 instruction.
+20 5. Have such powers and perform such duties as otherwise prescribed
+21 by law.
+22 6. On or before October 1 of each year, report to the
+23 superintendent of public instruction the amount of monies received from
+24 state school funds, special school district taxes and other sources, the
+25 total expenditures for school purposes and the balance on hand to the
+26 credit of each school district at the close of the school year.
+27 7. Contract with the board of supervisors for the board of
+28 supervisors to conduct all regular school district elections.
+29 8. Be responsible, in cooperation with the school district
+30 governing boards and the board of supervisors, for all special school
+31 district elections.
+32 9. Maintain teacher and administrator certification records of
+33 effective dates and expiration dates of teachers' and administrators'
+34 certificates in compliance with guidelines prescribed in the uniform
+35 system of financial records for those school districts for which the
+36 county school superintendent is the fiscal agent. The county school
+37 superintendent shall not draw a warrant in payment of a teacher's,
+38 substitute teacher's or administrator's salary unless the teacher,
+39 substitute teacher or administrator is legally certified during the fiscal
+40 year in which the term for payment is demanded.
+41 10. Notify a school district three years before the expiration of a
+42 revenue control limit override that the school district's budget must be
+43 adjusted in the final two years of the override pursuant to section
+44 15-481, subsections P Q and Q R, if the voters do not approve another
+45 override.
+46 11. In collaboration with the department of education and other
+47 state agencies, assist school districts, charter schools, county free
+-3-
+
+House Amendments to H.B. 2481
+1 library districts, municipal libraries, nonprofit and public libraries,
+2 tribal libraries, private schools and tribal schools on using student
+3 data, staff development, curriculum alignment and technology to improve
+4 student performance.
+5 12. Assist schools in meeting yearly adequate progress goals as
+6 defined by criteria established by the state board of education and
+7 implemented by the department of education.
+8 B. At the request of school districts and charter schools, the
+9 county school superintendent may provide discretionary programs in
+10 addition to the programs prescribed in subsection A of this section.
+11 C. The county school superintendent may:
+12 1. Provide the services prescribed in subsections A and B of this
+13 section in the county or jointly with two or more counties pursuant to
+14 title 11, chapter 7, article 3.
+15 2. Review the operations and finances, including expenditures, of
+16 any school district that is located in the county.
+17 D. Each county school superintendent may establish an advisory
+18 committee to the office of the county school superintendent.
+19 Sec. 3. Section 15-481, Arizona Revised Statutes, is amended to
+20 read:
+21 15-481. Override election; budget increases; eligibility;
+22 informational pamphlet; notice; ballot; effect
+23 A. If a proposed budget of a school district exceeds the aggregate
+24 budget limit for the budget year, at least ninety days before the proposed
+25 election the governing board shall order an override election to be held
+26 on the first Tuesday following the first Monday in November as prescribed
+27 by section 16-204, subsection F for the purpose of presenting the proposed
+28 budget to the qualified electors of the school district who by a majority
+29 of those voting either shall affirm or reject the budget. At the same
+30 time as the order of the election, the governing board shall publicly
+31 declare the deadline for submitting arguments, as set by the county school
+32 superintendent pursuant to subsection B, paragraph 9 of this section, to
+33 be submitted in the informational pamphlet and shall immediately post the
+34 deadline in a prominent location on the district's website. In addition,
+35 the governing board shall prepare an alternate budget that does not
+36 include an increase in the budget of more than the amount allowed as
+37 provided in section 15-905. If the qualified electors approve the
+38 proposed budget, the governing board of the school district shall follow
+39 the procedures prescribed in section 15-905 for adopting a budget that
+40 includes the authorized increase. If the qualified electors disapprove
+41 the proposed budget, the governing board shall follow the procedures
+42 prescribed in section 15-905 for adopting a budget that does not include
+43 the proposed increase or the portion of the proposed increase that exceeds
+44 the amount authorized by a previously approved budget increase as
+45 prescribed in subsection P Q of this section.
+46 B. The county school superintendent shall prepare an informational
+47 pamphlet on the proposed increase in the budget and a sample ballot and,
+-4-
+
+House Amendments to H.B. 2481
+1 at least forty days before the election, shall transmit the informational
+2 pamphlet and the sample ballot to the governing board of the school
+3 district. The governing board, on receipt of the informational pamphlet
+4 and the ballot, shall mail or distribute the informational pamphlet and
+5 the ballot to the households in which qualified electors reside within the
+6 school district at least thirty-five days before the election. Any
+7 distribution of material concerning the proposed increase in the budget
+8 shall not be conducted by children enrolled in the school district. The
+9 informational pamphlet shall contain the following information:
+10 1. The date of the election.
+11 2. The voter's polling place and the times it is open.
+12 3. The proposed total increase in the budget that exceeds the
+13 amount allowed pursuant to section 15-905.
+14 4. The total amount of the current year's budget, the total amount
+15 of the proposed budget and the total amount of the alternate budget.
+16 5. If the override is for a period of more than one year, a
+17 statement indicating the number of years the proposed increase in the
+18 budget would be in effect and the percentage of the school district's
+19 revenue control limit that the district is requesting for the future
+20 years.
+21 6. The proposed total amount of revenues that will fund the
+22 increase in the budget and the amount that will be obtained from a levy of
+23 taxes on the taxable property within the school district for the first
+24 year for which the budget increase was adopted.
+25 7. The proposed amount of revenues that will fund the increase in
+26 the budget and that will be obtained from other than a levy of taxes on
+27 the taxable property within the school district for the first year for
+28 which the budget increase was adopted.
+29 8. The dollar amount and the purpose for which the proposed
+30 increase in the budget is to be expended for the first year for which the
+31 budget increase was adopted. The purpose statement shall only present
+32 factual information in a neutral manner. Advocacy for the expenditures is
+33 strictly limited to the arguments submitted pursuant to paragraph 9 of
+34 this subsection.
+35 9. At least two arguments, if submitted, but not more than ten
+36 arguments for and two arguments, if submitted, but not more than ten
+37 arguments against the proposed increase in the budget. The arguments
+38 shall be in a form prescribed by the county school superintendent, and
+39 each argument shall not exceed two hundred words. Arguments for the
+40 proposed increase in the budget shall be provided in writing and signed by
+41 the governing board. The ballot arguments for the proposed increase in
+42 the budget shall be signed as the governing board of the school district
+43 without listing any member's individual name for the arguments for the
+44 proposed increase. If submitted, additional arguments in favor of the
+45 proposed increase in the budget shall be provided in writing with a
+46 signed, sworn statement by those in favor. Arguments against the proposed
+47 increase in the budget shall be provided in writing with a signed, sworn
+-5-
+
+House Amendments to H.B. 2481
+1 statement by those in opposition. If the argument is submitted by an
+2 organization, it shall contain the sworn statement of two executive
+3 officers of the organization. If the argument is submitted by a political
+4 committee, it shall contain the sworn statement of the committee's
+5 chairperson or treasurer. If the argument is submitted by an individual
+6 and not on behalf of an organization, a political committee or any other
+7 group, the person INDIVIDUAL shall submit the argument with a sworn,
+8 notarized statement. The names of persons and entities submitting written
+9 arguments shall be included in the informational pamphlet. Persons
+10 signing the argument shall identify themselves by giving their residence
+11 address and telephone number, which may not appear in the informational
+12 pamphlet, except that the person's city or town and state of residence
+13 shall appear in the pamphlet. Any argument that is submitted and that
+14 does not comply with this paragraph may not be included in the pamphlet.
+15 The county school superintendent shall review all factual statements
+16 contained in the written arguments and correct any inaccurate statements
+17 of fact. The superintendent shall not review and correct any portion of
+18 the written arguments that are identified as statements of the author's
+19 opinion. The county school superintendent shall make the written
+20 arguments available to the public as provided in title 39, chapter 1,
+21 article 2. A deadline for submitting arguments to be included in the
+22 informational pamphlet shall be set by the county school superintendent.
+23 10. A statement that the alternate budget shall be adopted by the
+24 governing board if the proposed budget is not adopted by the qualified
+25 electors of the school district.
+26 11. The current limited property value and the net assessed
+27 valuation provided by the department of revenue, the first year tax rate
+28 for the proposed override and the estimated amount of the secondary
+29 property taxes if the proposed budget is adopted for each of the
+30 following:
+31 (a) An owner-occupied residence whose assessed valuation is the
+32 average assessed valuation of property classified as class three, as
+33 prescribed by section 42-12003 for the current year in the school
+34 district.
+35 (b) An owner-occupied residence whose assessed valuation is
+36 one-half of the assessed valuation of the residence in subdivision (a) of
+37 this paragraph.
+38 (c) An owner-occupied residence whose assessed valuation is twice
+39 the assessed valuation of the residence in subdivision (a) of this
+40 paragraph.
+41 (d) A business whose assessed valuation is the average of the
+42 assessed valuation of property classified as class one, as prescribed by
+43 section 42-12001, paragraphs 12 and 13 for the current year in the school
+44 district.
+45 12. If the election is conducted pursuant to subsection L or M of
+46 this section, the following information:
+-6-
+
+House Amendments to H.B. 2481
+1 (a) An executive summary of the school district's most recent
+2 capital improvement plan submitted to the school facilities oversight
+3 board.
+4 (b) A complete list of each proposed capital improvement that will
+5 be funded with the budget increase and a description of the proposed cost
+6 of each improvement, including a separate aggregation of capital
+7 improvements for administrative purposes as defined by the school
+8 facilities oversight board.
+9 (c) The tax rate associated with each of the proposed capital
+10 improvements and the estimated cost of each capital improvement for the
+11 owner of a single family home that is valued at $80,000.
+12 C. For the purpose of this section, the school district may use its
+13 staff, equipment, materials, buildings or other resources only to
+14 distribute the informational pamphlet at the school district office or at
+15 public hearings and to produce such information as required in subsection
+16 B of this section. This subsection does not preclude school districts from
+17 holding or participating in any public hearings at which testimony is
+18 given by at least one person for the proposed increase and one person
+19 against the proposed increase. Any written information provided by the
+20 district pertaining to the override election shall include financial
+21 information showing the estimated first year tax rate for the proposed
+22 budget override amount.
+23 D. If any amount of the proposed increase will be funded by a levy
+24 of taxes in the district, the election prescribed in subsection A of this
+25 section shall be held on the first Tuesday following the first Monday in
+26 November as prescribed by section 16-204, subsection F. If the proposed
+27 increase will be fully funded by revenues from other than a levy of taxes,
+28 the elections prescribed in subsection A of this section shall be held on
+29 any date prescribed by section 16-204. The elections shall be conducted
+30 as nearly as practicable in the manner prescribed in article 1 of this
+31 chapter, sections 15-422, through 15-423, 15-424 and section 15-426,
+32 relating to special elections, except that:
+33 1. The notices required pursuant to section 15-403 shall be posted
+34 not less than twenty-five days before the election.
+35 2. Ballots shall be counted pursuant to title 16, chapter 4,
+36 article 10.
+37 E. If the election is to exceed the revenue control limit and if
+38 the proposed increase will be fully funded by a levy of taxes on the
+39 taxable property within the school district, the ballot shall contain the
+40 words "budget increase, yes" and "budget increase, no", and the voter
+41 shall signify the voter's desired choice. The ballot shall also contain
+42 the amount of the proposed increase of the proposed budget over the
+43 alternate budget, a statement that the amount of the proposed increase
+44 will be based on a percentage of the school district's revenue control
+45 limit in future years, if applicable, as provided in subsection P Q of
+46 this section and the following statement:
+-7-
+
+House Amendments to H.B. 2481
+1 Any budget increase authorized by this election shall be
+2 entirely funded by a levy of taxes on the taxable property
+3 within this school district for the year for which adopted and
+4 for ____ subsequent years, shall not be realized from monies
+5 furnished by the state and shall not be subject to the
+6 limitation on taxes specified in article IX, section 18,
+7 Constitution of Arizona. Based on the current net assessed
+8 valuation used for secondary property tax purposes, to fund
+9 the proposed increase in the school district's budget would
+10 require an estimated tax rate of $_____________ per $100 of
+11 net assessed valuation used for secondary property tax
+12 purposes and is in addition to the school district's tax rate
+13 that will be levied to fund the school district's revenue
+14 control limit allowed by law.
+15 F. If the election is to exceed the revenue control limit and if
+16 the proposed increase will be fully funded by revenues from other than a
+17 levy of taxes on the taxable property within the school district, the
+18 ballot shall contain the words "budget increase, yes" and "budget
+19 increase, no", and the voter shall signify the voter's desired choice.
+20 The ballot shall also contain:
+21 1. The amount of the proposed increase of the proposed budget over
+22 the alternate budget.
+23 2. A statement that the amount of the proposed increase will be
+24 based on a percentage of the school district's revenue control limit in
+25 future years, if applicable, as provided in subsection P Q of this
+26 section.
+27 3. The following statement:
+28 Any budget increase authorized by this election shall be
+29 entirely funded by this school district with revenues from
+30 other than a levy of taxes on the taxable property within the
+31 school district for the year for which adopted and for ______
+32 subsequent years and shall not be realized from monies
+33 furnished by the state.
+34 G. Except as provided in subsection H of this section, the maximum
+35 budget increase that may be requested and authorized as provided in
+36 subsection E or F of this section or the combination of subsections E and
+37 F of this section is fifteen percent of the revenue control limit as
+38 provided in section 15-947, subsection A for the budget year. If a school
+39 district requests an override pursuant to section 15-482 or to continue
+40 with a budget override pursuant to section 15-482 for pupils in
+41 kindergarten programs and grades one through three that was authorized
+42 before December 31, 2008, the maximum budget increase that may be
+43 requested and authorized as provided in subsection E or F of this section
+44 or the combination of subsections E and F of this section is ten percent
+45 of the revenue control limit as provided in section 15-947, subsection A
+46 for the budget year.
+-8-
+
+House Amendments to H.B. 2481
+1 H. Special budget override provisions for school districts with a
+2 student count of less than one hundred fifty-four in kindergarten programs
+3 and grades one through eight or with a student count of less than one
+4 hundred seventy-six in grades nine through twelve are as follows:
+5 1. The maximum budget increase that may be requested and authorized
+6 as provided in subsections E and F of this section is the greater of the
+7 amount prescribed in subsection G of this section or a limit computed as
+8 follows:
+9 (a) For common or unified districts with a student count of less
+10 than one hundred fifty-four in kindergarten programs and grades one
+11 through eight, the limit computed as prescribed in item (i) or (ii) of
+12 this subdivision, whichever is appropriate:
+13 (i)
+14 Small School Support Level Weight Phase Down
+15 Student Student for Small Isolated Reduction
+16 Count Count Limit School Districts Base Level Factor
+17 — 125 x 1.358 + (0.0005 x x $ = $
+18 (500 — Student Count))
+19 Small Isolated
+20 Phase Down Phase Down School District
+21 Base Reduction Factor Elementary Limit
+22 $150,000 - $ = $
+23 (ii)
+24 Small School Support Level Weight Phase Down
+25 Student Student for Small Reduction
+26 Count Count Limit School Districts Base Level Factor
+27 — 125 x 1.278 + (0.0003 x x $ = $
+28 (500 - Student Count))
+29 Small
+30 Phase Down Phase Down School District
+31 Base Reduction Factor Elementary Limit
+32 $150,000 — $ = $
+33 (b) For unified or union high school districts with a student count
+34 of less than one hundred seventy-six in grades nine through twelve, the
+35 limit computed as prescribed in item (i) or (ii) of this subdivision,
+36 whichever is appropriate:
+37 (i)
+38 Small School Support Level Weight Phase Down
+39 Student Student for Small Isolated Reduction
+40 Count Count Limit School Districts Base Level Factor
+41 — 100 x 1.468 + (0.0005 x x $ = $ __
+42 (500 — Student Count))
+43 Small Isolated
+44 Phase Down Phase Down District
+45 Base Reduction Factor Secondary Limit
+46 $350,000 — $ = $
+47 (ii)
+-9-
+
+House Amendments to H.B. 2481
+1 Small School Support Level Weight Phase Down
+2 Student Student for Small Reduction
+3 Count Count Limit School Districts Base Level_ Factor
+4 — 100 x 1.398 + (0.0004 x x $ = $
+5 (500 - Student Count))
+6 Small
+7 Phase Down Phase Down School District
+8 Base Reduction Factor Secondary Limit
+9 $350,000 — $ = $
+10 (c) If both subdivisions (a) and (b) of this paragraph apply to a
+11 unified school district, its limit for the purposes of this paragraph is
+12 the combination of its elementary limit and its secondary limit.
+13 (d) If only subdivision (a) or (b) of this paragraph applies to a
+14 unified school district, the district's limit for the purposes of this
+15 paragraph is the sum of the limit computed as provided in subdivision (a)
+16 or (b) of this paragraph plus ten percent of the revenue control limit
+17 attributable to those grade levels that do not meet the eligibility
+18 requirements of this subsection. If a school district budgets monies
+19 outside the revenue control limit pursuant to section 15-949, subsection
+20 E, the district's limit for the purposes of this paragraph is only the ten
+21 percent of the revenue control limit attributable to those grade levels
+22 that are not included under section 15-949, subsection E. For the
+23 purposes of this subdivision, the revenue control limit is separated into
+24 elementary and secondary components based on the weighted student count as
+25 provided in section 15-971, subsection B, paragraph 2, subdivision (a).
+26 2. If a school district utilizes this subsection to request an
+27 override of more than one year, the ballot shall include an estimate of
+28 the amount of the proposed increase in the future years in place of the
+29 statement that the amount of the proposed increase will be based on a
+30 percentage of the school district's revenue control limit in future years,
+31 as prescribed in subsections E and F of this section.
+32 3. Notwithstanding subsection P Q of this section, the maximum
+33 period of an override authorized pursuant to this subsection is five
+34 years.
+35 4. Subsection P Q, paragraphs 1 and 2 of this section do not apply
+36 to overrides authorized pursuant to this subsection.
+37 I. If the election is to exceed the revenue control limit as
+38 provided in section 15-482 and if the proposed increase will be fully
+39 funded by a levy of taxes on the taxable property within the school
+40 district, the ballot shall contain the words "budget increase, yes" and
+41 "budget increase, no", and the voter shall signify the voter's desired
+42 choice. The ballot shall also contain the amount of the proposed increase
+43 of the budget over the alternate budget, a statement that the amount of
+44 the proposed increase will be based on a percentage of the school
+45 district's revenue control limit in future years, if applicable, as
+46 provided in subsection Q R of this section, and the following statement:
+-10-
+
+House Amendments to H.B. 2481
+1 Any budget increase authorized by this election shall be
+2 entirely funded by a levy of taxes on the taxable property
+3 within this school district for the year for which adopted and
+4 for _____ subsequent years, shall not be realized from monies
+5 furnished by the state and shall not be subject to the
+6 limitation on taxes specified in article IX, section 18,
+7 Constitution of Arizona. Based on the current net assessed
+8 valuation used for secondary property tax purposes, to fund
+9 the proposed increase in the school district's budget that
+10 will be funded by a levy of taxes on the taxable property
+11 within this school district would require an estimated tax
+12 rate of $__________ per $100 of net assessed valuation used
+13 for secondary property tax purposes and is in addition to the
+14 school district's tax rate that will be levied to fund the
+15 school district's revenue control limit allowed by law.
+16 J. If the election is to exceed the revenue control limit as
+17 provided in section 15-482 and if the proposed increase will be fully
+18 funded by revenues other than a levy of taxes on the taxable property
+19 within the school district, the ballot shall contain the words "budget
+20 increase, yes" and "budget increase, no", and the voter shall signify the
+21 voter's desired choice. The ballot shall also contain the amount of the
+22 proposed increase of the proposed budget over the alternate budget, a
+23 statement that the amount of the proposed increase will be based on a
+24 percentage of the school district's revenue control limit in future years,
+25 if applicable, as provided in subsection Q R of this section and the
+26 following statement:
+27 Any budget increase authorized by this election shall be
+28 entirely funded by this school district with revenues from
+29 other than a levy of taxes on the taxable property within the
+30 school district for the year for which adopted and for _____
+31 subsequent years and shall not be realized from monies
+32 furnished by the state.
+33 K. The maximum budget increase that may be requested and authorized
+34 as provided in subsection I or J of this section, or a combination of both
+35 of these subsections, is five percent of the revenue control limit as
+36 provided in section 15-947, subsection A for the budget year. For a
+37 common school district not within a high school district or a common
+38 school district within a high school district that offers instruction in
+39 high school subjects as provided in section 15-447, five percent of the
+40 revenue control limit means five percent of the revenue control limit
+41 attributable to the weighted student count in preschool programs for
+42 children with disabilities, kindergarten programs and grades one through
+43 eight as provided in section 15-971, subsection B. For a unified school
+44 district, five percent of the revenue control limit means five percent of
+45 the revenue control limit attributable to the weighted student count in
+46 preschool programs for children with disabilities, kindergarten programs
+47 and grades one through twelve. For a union high school district, five
+-11-
+
+House Amendments to H.B. 2481
+1 percent of the revenue control limit means five percent of the revenue
+2 control limit attributable to the weighted student count in grades nine
+3 through twelve.
+4 L. If the election is to exceed district additional assistance and
+5 if the proposed increase will be fully funded by a levy of taxes on the
+6 taxable property within the school district, the ballot shall contain the
+7 words "budget increase, yes" and "budget increase, no", and the voter
+8 shall signify the voter's desired choice. An election held pursuant to
+9 this subsection shall be held on the first Tuesday after the first Monday
+10 of November. The ballot shall also contain the amount of the proposed
+11 increase of the proposed budget over the alternate budget and the
+12 following statement:
+13 Any budget increase authorized by this election shall be
+14 entirely funded by a levy of taxes on the taxable property
+15 within this school district for the year in which adopted and
+16 for _____ subsequent years, shall not be realized from monies
+17 furnished by the state and shall not be subject to the
+18 limitation on taxes specified in article IX, section 18,
+19 Constitution of Arizona. Based on the current net assessed
+20 valuation used for secondary property tax purposes, to fund
+21 the proposed increase in the school district's budget would
+22 require an estimated tax rate of $____________ per $100 of net
+23 assessed valuation used for secondary property tax purposes
+24 and is in addition to the school district's tax rate that will
+25 be levied to fund the school district's district additional
+26 assistance allowed by law.
+27 M. If the election is to exceed district additional assistance and
+28 if the proposed increase will be fully funded by revenues from other than
+29 a levy of taxes on the taxable property within the school district, the
+30 ballot shall contain the words "budget increase, yes" and "budget
+31 increase, no", and the voter shall signify the voter's desired choice. An
+32 election held pursuant to this subsection shall be held on the first
+33 Tuesday after the first Monday of November. The ballot shall also contain
+34 the amount of the proposed increase of the proposed budget over the
+35 alternate budget and the following statement:
+36 Any budget increase authorized by this election shall be
+37 entirely funded by this school district with revenues from
+38 other than a levy of taxes on the taxable property within the
+39 school district for the year in which adopted and for ______
+40 subsequent years and shall not be realized from monies
+41 furnished by the state.
+42 N. If the election is to exceed a combination of the revenue
+43 control limit as provided in subsection E or F of this section, the
+44 revenue control limit as provided in subsection I or J of this section or
+45 district additional assistance as provided in subsection L or M of this
+46 section, the ballot shall be prepared so that the voters may vote on each
+-12-
+
+House Amendments to H.B. 2481
+1 proposed increase separately and shall contain statements required in the
+2 same manner as if each proposed increase were submitted separately.
+3 O. IF A SCHOOL DISTRICT FAILS TO CORRECT A DEFICIENCY WITHIN
+4 [NINETY DAYS] [EIGHTEEN MONTHS] AFTER RECEIVING NOTICE FROM THE AUDITOR
+5 GENERAL PURSUANT TO SECTION 15-271, THE SCHOOL DISTRICT GOVERNING BOARD
+6 MAY NOT ORDER AN OVERRIDE ELECTION AS PROVIDED IN SUBSECTION L OR M OF
+7 THIS SECTION UNTIL THE SCHOOL DISTRICT HAS CORRECTED ANY DEFICIENCIES.
+8 FOR THE PURPOSES OF THIS SUBSECTION, THE SCHOOL DISTRICT IS DEEMED TO HAVE
+9 CORRECTED ANY DEFICIENCIES FROM AND AFTER THE DATE THAT THE AUDITOR
+10 GENERAL REPORTS THAT THE SCHOOL DISTRICT IS IN COMPLIANCE WITH THE UNIFORM
+11 SYSTEM OF FINANCIAL RECORDS.
+12 O. P. If the election provides for a levy of taxes on the taxable
+13 property within the school district, at least thirty days before the
+14 election, the department of revenue shall provide the school district
+15 governing board and the county school superintendent with the current net
+16 assessed valuation of the school district. The governing board and the
+17 county school superintendent shall use the current net assessed valuation
+18 of the school district to translate the amount of the proposed dollar
+19 increase in the budget of the school district over that allowed by law
+20 into a tax rate figure.
+21 P. Q. If the voters in a school district vote to adopt a budget in
+22 excess of the revenue control limit as provided in subsection E or F of
+23 this section, any additional increase shall be included in the aggregate
+24 budget limit for each of the years authorized. Any additional increase
+25 shall be excluded from the determination of equalization assistance. The
+26 school district governing board, however, may levy on the net assessed
+27 valuation used for secondary property tax purposes of the property in the
+28 school district the additional increase if adopted under subsection E of
+29 this section for the period of one year, two years or five through seven
+30 years as authorized. If an additional increase is approved as provided in
+31 subsection F of this section, the school district governing board may only
+32 use revenues derived from the school district's prior year's maintenance
+33 and operation fund ending cash balance to fund the additional increase.
+34 If a budget increase was previously authorized and will be in effect for
+35 the budget year or budget year and subsequent years, as provided in
+36 subsection E or F of this section, the governing board may request a new
+37 budget increase as provided in the same subsection under which the prior
+38 budget increase was adopted, which shall not exceed the maximum amount
+39 allowed under subsection G of this section. If the voters in the school
+40 district authorize the new budget increase amount, the existing budget
+41 increase no longer is in effect. If the voters in the school district do
+42 not authorize the budget increase amount, the existing budget increase
+43 remains in effect for the time period for which it was authorized. The
+44 maximum additional increase authorized as provided in subsection E or F of
+45 this section and the additional increase that is included in the aggregate
+46 budget limit is based on a percentage of a school district's revenue
+-13-
+
+House Amendments to H.B. 2481
+1 control limit in future years, if the budget increase is authorized for
+2 more than one year. If the additional increase:
+3 1. Is for two years, the proposed increase in the second year is
+4 equal to the initial proposed percentage increase.
+5 2. Is for five years or more, the proposed increase is equal to the
+6 initial proposed percentage increase in the following years of the
+7 proposed increase, except that in the next to last year it is two-thirds
+8 of the initial proposed percentage increase and it is one-third of the
+9 initial proposed percentage increase in the last year of the proposed
+10 increase.
+11 Q. R. If the voters in a school district vote to adopt a budget in
+12 excess of the revenue control limit as provided in subsection I or J of
+13 this section, any additional increase shall be included in the aggregate
+14 budget limit for each of the years authorized. Any additional increase
+15 shall be excluded from the determination of equalization assistance. The
+16 school district governing board, however, may levy on the net assessed
+17 valuation used for secondary property tax purposes of the property in the
+18 school district the additional increase if adopted under subsection I of
+19 this section for the period of one year, two years or five through seven
+20 years as authorized. If an additional increase is approved as provided in
+21 subsection J of this section, the increase may only be budgeted and
+22 expended if sufficient monies are available in the maintenance and
+23 operation fund of the school district. If a budget increase was
+24 previously authorized and will be in effect for the budget year or budget
+25 year and subsequent years, as provided in subsection I or J of this
+26 section, the governing board may request a new budget increase as provided
+27 in the same subsection under which the prior budget increase was adopted
+28 that does not exceed the maximum amount permitted under subsection K of
+29 this section. If the voters in the school district authorize the new
+30 budget increase amount, the existing budget increase no longer is in
+31 effect. If the voters in the school district do not authorize the budget
+32 increase amount, the existing budget increase remains in effect for the
+33 time period for which it was authorized. The maximum additional increase
+34 authorized as provided in subsection I or J of this section and the
+35 additional increase that is included in the aggregate budget limit is
+36 based on a percentage of a school district's revenue control limit in
+37 future years, if the budget increase is authorized for more than one year.
+38 If the additional increase:
+39 1. Is for two years, the proposed increase in the second year is
+40 equal to the initial proposed percentage increase.
+41 2. Is for five years or more, the proposed increase is equal to the
+42 initial proposed percentage increase in the following years of the
+43 proposed increase, except that in the next to last year it is two-thirds
+44 of the initial proposed percentage increase and it is one-third of the
+45 initial proposed percentage increase in the last year of the proposed
+46 increase.
+-14-
+
+House Amendments to H.B. 2481
+1 R. S. If the voters in a school district vote to adopt a budget in
+2 excess of district additional assistance as provided in subsection L of
+3 this section, any additional increase shall be included in the aggregate
+4 budget limit for each of the years authorized. The additional increase
+5 shall be excluded from the determination of equalization assistance. The
+6 school district governing board, however, may levy on the net assessed
+7 valuation used for secondary property tax purposes of the property in the
+8 school district the additional increase for the period authorized but not
+9 to exceed ten years. For overrides approved by a vote of the qualified
+10 electors of the school district at an election held from and after
+11 October 31, 1998, the period of the additional increase prescribed in this
+12 subsection shall not exceed seven years for any capital override election.
+13 S. T. If the voters in a school district vote to adopt a budget in
+14 excess of district additional assistance as provided in subsection M of
+15 this section, any additional increase shall be included in the aggregate
+16 budget limit for each of the years authorized. The additional increase
+17 shall be excluded from the determination of equalization assistance. The
+18 school district governing board may only use revenues derived from the
+19 school district's prior year's maintenance and operation fund ending cash
+20 balance and capital outlay fund ending cash balance to fund the additional
+21 increase for the period authorized but not to exceed ten years. For
+22 overrides approved by a vote of the qualified electors of the school
+23 district at an election held from and after October 31, 1998, the period
+24 of the additional increase prescribed in this subsection shall not exceed
+25 seven years for any capital override election.
+26 T. U. In addition to subsections P Q and S T of this section,
+27 from the maintenance and operation fund and capital outlay fund ending
+28 cash balances, the school district governing board shall first use any
+29 available revenues to reduce its primary tax rate to zero and shall use
+30 any remaining revenues to fund the additional increase authorized as
+31 provided in subsections F and M of this section.
+32 U. V. If the voters in a school district disapprove the proposed
+33 budget, the alternate budget that, except for any budget increase
+34 authorized by a prior election, does not include an increase in the budget
+35 in excess of the amount provided in section 15-905 shall be adopted by the
+36 governing board as provided in section 15-905.
+37 V. W. The governing board may request that any override election
+38 be cancelled if any change in chapter 9 of this title changes the amount
+39 of the aggregate budget limit as provided in section 15-905. The request
+40 to cancel the override election shall be made to the county school
+41 superintendent at least eighty days before the date of the scheduled
+42 override election.
+43 W. X. For any election conducted pursuant to subsection L or M of
+44 this section:
+45 1. The ballot shall include the following statement in addition to
+46 any other statement required by this section:
+-15-
+
+House Amendments to H.B. 2481
+1 The capital improvements that are proposed to be funded
+2 through this override election are to exceed the state
+3 standards and are in addition to monies provided by the state.
+4 ___________ school district is proposing to increase its
+5 budget by $__________ to fund capital improvements over and
+6 above those funded by the state. Under the students first
+7 capital funding system, _________ school district is entitled
+8 to state monies for new construction and renovation of school
+9 buildings in accordance with state law.
+10 2. The ballot shall contain the words "budget increase, yes" and
+11 "budget increase, no", and the voter shall signify the voter's desired
+12 choice.
+13 3. At least eighty-five days before the election, the school
+14 district shall submit proposed ballot language to the director of the
+15 Arizona legislative council. The director of the Arizona legislative
+16 council shall review the proposed ballot language to determine whether the
+17 proposed ballot language complies with this section. If the director of
+18 the Arizona legislative council determines that the proposed ballot
+19 language does not comply with this section, the director, within ten
+20 calendar days after receiving the proposed ballot language, shall notify
+21 the school district of the director's objections, and the school district
+22 shall resubmit revised ballot language to the director for approval.
+23 X. Y. If the voters approve the budget increase pursuant to
+24 subsection L or M of this section, the school district shall not use the
+25 override proceeds for any purposes other than the proposed capital
+26 improvements listed in the informational pamphlet, except that up to ten
+27 percent of the override proceeds may be used for general capital expenses,
+28 including cost overruns of proposed capital improvements.
+29 Y. Z. Each school district that currently increases its budget
+30 pursuant to this section shall hold a public meeting each year between
+31 September 1 and October 31 at which an update of the programs or capital
+32 improvements financed through the override is discussed and at which the
+33 public is allowed an opportunity to comment and:
+34 1. If the increase is pursuant to subsection L or M of this
+35 section, at a minimum, the update shall include the progress of capital
+36 improvements financed through the override, a comparison of the current
+37 status and the original projections on the construction of capital
+38 improvements, the costs of capital improvements and the costs of capital
+39 improvements in progress or completed since the prior meeting and the
+40 future capital plans of the school district. The school district shall
+41 include in the public meeting a discussion of the school district's use of
+42 state capital aid and voter-approved bonding in funding capital
+43 improvements, if any.
+44 2. If the increase is pursuant to subsection E, F, I or J of this
+45 section, the update shall include at a minimum the amount expended in the
+46 previous fiscal year and the amount included in the current budget for
+-16-
+
+House Amendments to H.B. 2481
+1 each of the purposes listed in the informational pamphlet prescribed by
+2 subsection B of this section.
+3 Z. AA. SUBJECT TO THE REQUIREMENTS PRESCRIBED BY SUBSECTION O OF
+4 THIS SECTION, if a budget in excess of district additional assistance was
+5 previously adopted by the voters in a school district and will be in
+6 effect for the budget year or budget year and subsequent years, as
+7 provided in subsection L or M of this section, the governing board may
+8 request an additional budget in excess of district additional assistance.
+9 If the voters in a school district authorize the additional budget in
+10 excess of district additional assistance, the existing district additional
+11 assistance budget increase remains in effect.
+12 AA. BB. Notwithstanding any other law, the maximum budget increase
+13 that may be authorized pursuant to subsection L or M of this section is
+14 ten percent of the school district's revenue control limit.
+15 BB. CC. If the election is to continue to exceed the revenue
+16 control limit and if the proposed override will be fully funded by a
+17 continuation of a levy of taxes on the taxable property in the school
+18 district, the ballot shall contain the words "budget override
+19 continuation, yes" and "budget override continuation, no", and the voter
+20 shall signify the voter's desired choice. The ballot shall also contain
+21 the amount of the proposed continuation of the budget increase of the
+22 proposed budget over the alternate budget, a statement that the amount of
+23 the proposed increase will be based on a percentage of the school
+24 district's revenue control limit in future years, if applicable, as
+25 provided in subsection P Q of this section and the following statement:
+26 Any budget increase continuation authorized by this
+27 election shall be entirely funded by a levy of taxes on the
+28 taxable property in this school district for the year for
+29 which adopted and for _______ subsequent years, shall not be
+30 realized from monies furnished by the state and shall not be
+31 subject to the limitation on taxes specified in article IX,
+32 section 18, Constitution of Arizona. Based on the current net
+33 assessed valuation used for secondary property tax purposes,
+34 to fund the proposed continuation of the increase in the
+35 school district's budget would require an estimated
+36 continuation of a tax rate of $______________ per $100 of
+37 assessed valuation used for secondary property tax purposes
+38 and is in addition to the school district's tax rate that will
+39 be levied to fund the school district's revenue control limit
+40 allowed by law.
+41 CC. DD. If the election is to continue to exceed the revenue
+42 control limit as provided in section 15-482 and if the proposed override
+43 will be fully funded by a continuation of a levy of taxes on the taxable
+44 property in the school district, the ballot shall contain the words
+45 "budget override continuation, yes" and "budget override continuation,
+46 no", and the voter shall signify the voter's desired choice. The ballot
+47 shall also contain the amount of the proposed continuation of the budget
+-17-
+
+House Amendments to H.B. 2481
+1 increase of the proposed budget over the alternate budget, a statement
+2 that the amount of the proposed increase will be based on a percentage of
+3 the school district's revenue control limit in future years, if
+4 applicable, as provided in subsection P Q of this section and the
+5 following statement:
+6 Any budget increase continuation authorized by this
+7 election shall be entirely funded by a levy of taxes on the
+8 taxable property in this school district for the year for which
+9 adopted and for ______ subsequent years, shall not be realized
+10 from monies furnished by the state and shall not be subject to
+11 the limitation on taxes specified in article IX, section 18,
+12 Constitution of Arizona. Based on the current net assessed
+13 valuation used for secondary property tax purposes, to fund the
+14 proposed continuation of the increase in the school district's
+15 budget would require an estimated continuation of a tax rate of
+16 $______________ per $100 of net assessed valuation used for
+17 secondary property tax purposes and is in addition to the
+18 school district's tax rate that will be levied to fund the
+19 school district's revenue control limit allowed by law.
+20 Sec. 4. Section 15-491, Arizona Revised Statutes, is amended to
+21 read:
+22 15-491. Elections on school property; exceptions
+23 A. The governing board of a school district may, and on petition of
+24 fifteen percent of the school electors as shown by the poll list at the
+25 last preceding annual school election shall, call an election for the
+26 following purposes:
+27 1. To locate or change the location of school buildings.
+28 2. To purchase or sell school sites or buildings or sell school
+29 sites pursuant to section 15-342 or to build school buildings, but the
+30 authorization by vote of the school district shall not necessarily specify
+31 the site to be purchased.
+32 3. To decide whether the bonds of the school district shall be
+33 issued and sold for the purpose of raising monies for purchasing or
+34 leasing school lots, for building or renovating school buildings, for
+35 supplying school buildings with furniture, equipment and technology, for
+36 improving school grounds, for purchasing pupil transportation vehicles or
+37 for liquidating any indebtedness already incurred for such purposes.
+38 Bonds issued for furniture, equipment and technology, other than fixtures,
+39 shall mature not later than the July 1 that follows the fifth year after
+40 the bonds were issued. A school district shall not issue class B bonds
+41 until the school district has obligated in contract the entire proceeds of
+42 any class A bonds issued by the school district. The total amount of
+43 class A and class B bonds issued by a school district shall not exceed the
+44 debt limitations prescribed in article IX, sections 8 and 8.1,
+45 Constitution of Arizona.
+46 4. To lease for twenty or more years, as lessor or as lessee,
+47 school buildings or grounds. Approval by a majority of the school
+-18-
+
+House Amendments to H.B. 2481
+1 district electors voting authorizes the governing board to negotiate for
+2 and enter into a lease. The ballot shall list the school buildings or
+3 grounds for which a lease is sought. If the governing board does not
+4 enter into a lease of twenty or more years of the school buildings or
+5 grounds listed on the ballot within twenty years after the date of the
+6 election and the board continues to seek such a lease, the governing board
+7 shall call a special election to reauthorize the board to negotiate for
+8 and to enter into a lease of twenty or more years.
+9 5. To change the list of capital projects or the purposes
+10 authorized by prior voter approval to issue bonds.
+11 6. To extend from six to ten years the time period to issue class B
+12 bonds authorized in 2009 or earlier. Elections pursuant to this paragraph
+13 may not be held later than the sixth November after the election approving
+14 the issuance of the bonds.
+15 B. A petition is not required for holding the first election to be
+16 held in a joint common school district for any of the purposes specified
+17 in subsection A of this section. The certification of election results
+18 required by section 15-493 shall be made to the board of supervisors of
+19 the jurisdictional county.
+20 C. When the election is called to determine whether or not bonds
+21 of the school district shall be issued and sold for the purposes
+22 enumerated in the call for the election, the question shall be submitted
+23 to the vote of the qualified electors of the school district as defined in
+24 section 15-401 and subject to section 15-402.
+25 D. The governing board shall order the election to be held and the
+26 election notice and procedures to be conducted in the manner prescribed in
+27 title 35, chapter 3, article 3. If a petition for an election has been
+28 filed with the governing board as provided in subsection A of this
+29 section, the board shall act on the petition within sixty days by ordering
+30 the election to be held as provided in this subsection. If a school
+31 district bond election is scheduled for the same date a school district
+32 will hold an override election, the governing body shall deliver a copy of
+33 the notice of election and ballot to the county school superintendent who
+34 shall include the notice of election and ballot with the informational
+35 pamphlet and ballot prepared for the override election. Mailing of the
+36 information required for both the override and bond elections shall
+37 constitute compliance with the notice provisions of this section.
+38 E. The elections to be held pursuant to this section shall only be
+39 held on dates prescribed by section 16-204, except that elections held
+40 pursuant to this section to decide whether class B bonds shall be issued,
+41 or any other obligation incurred that will require the assessment of
+42 secondary property taxes, shall only be held on the first Tuesday after
+43 the first Monday of November.
+44 F. Subsection A, paragraph 2 of this section does not apply to the
+45 sale of school property if the market value of the school property is less
+46 than $50,000.
+-19-
+
+House Amendments to H.B. 2481
+1 G. Bond counsel fees, financial advisory fees, printing costs and
+2 paying agent and registrar fees for bonds issued pursuant to an election
+3 under this section shall be paid from either the amount authorized by the
+4 qualified electors of the school district or current operating funds.
+5 Bond election expenses shall be paid from current operating funds only.
+6 H. For any election conducted to decide whether class B bonds will
+7 be issued pursuant to this section:
+8 1. Except as provided in paragraph 2 of this subsection, the ballot
+9 shall include the following statement:
+10 The capital improvements that are proposed to be funded
+11 through this bond issuance are to exceed the state standards
+12 and are in addition to monies provided by the state.
+13 __________ school district is proposing to issue class B
+14 general obligation bonds totaling $__________ to fund capital
+15 improvements over and above those funded by the state. Under
+16 the students first capital funding system, _________ school
+17 district is entitled to state monies for new construction and
+18 renovation of school buildings in accordance with state law.
+19 2. For a school district that is a career technical education
+20 district, the ballot shall include the following statement:
+21 ________, a career technical education district, is
+22 proposing to issue class B general obligation bonds totaling
+23 $_________ to fund capital improvements at a campus owned or
+24 operated and maintained by the career technical education
+25 district.
+26 3. The ballot shall conform to the requirements of title 35,
+27 chapter 3, article 3.
+28 4. At least eighty-five days before the election, the school
+29 district shall submit proposed ballot language to the county school
+30 superintendent and the director of the Arizona legislative council. The
+31 director of the Arizona legislative council shall review the proposed
+32 ballot language to determine whether the proposed ballot language complies
+33 with this section. If the director of the Arizona legislative council
+34 determines that the proposed ballot language does not comply with this
+35 section, the director, within ten calendar days after receiving the
+36 proposed ballot language, shall notify the school district and the county
+37 school superintendent of the director's objections, and the school
+38 district shall resubmit revised ballot language to the director for
+39 approval.
+40 5. Not later than thirty-five days before a class B bond election
+41 conducted pursuant to this section, the school district shall mail an
+42 informational pamphlet prepared by the county school superintendent to
+43 each household that contains a qualified elector in the school district.
+44 The informational pamphlet shall contain, at a minimum, the following
+45 information:
+46 (a) An executive summary of the school district's most recent
+47 capital plan submitted to the school facilities oversight board.
+-20-
+
+House Amendments to H.B. 2481
+1 (b) A complete list of each proposed capital improvement that will
+2 be funded with the proceeds of the bonds and a description of the proposed
+3 cost of each improvement, including a separate aggregation of capital
+4 improvements for administrative purposes as defined by the school
+5 facilities oversight board.
+6 (c) The tax rate associated with each of the proposed capital
+7 improvements and the estimated cost of each capital improvement for the
+8 owner of a single family home that is valued at $100,000.
+9 I. For any election conducted to decide whether impact aid revenue
+10 bonds shall be issued pursuant to this section:
+11 1. The ballot shall include the following statement:
+12 The capital improvements that are proposed to be funded
+13 through this bond issuance are to exceed the state standards
+14 and are in addition to monies provided by the state.
+15 __________ school district is proposing to issue impact
+16 aid revenue bonds totaling $__________ to fund capital
+17 improvements over and above those funded by the state. Under
+18 the students first capital funding system, _________ school
+19 district is entitled to state monies for new construction and
+20 renovation of school buildings in accordance with state law.
+21 2. The ballot shall contain the words "bond approval, yes" and
+22 "bond approval, no", and the voter shall signify the voter's desired
+23 choice.
+24 3. At least eighty-five days before the election, the school
+25 district shall submit proposed ballot language to the director of the
+26 legislative council. The director of the legislative council shall review
+27 the proposed ballot language to determine whether the proposed ballot
+28 language complies with this section. If the director of the legislative
+29 council determines that the proposed ballot language does not comply with
+30 this section, the director, within ten calendar days after receiving the
+31 proposed ballot language, shall notify the school district of the
+32 director's objections, and the school district shall resubmit revised
+33 ballot language to the director for approval.
+34 4. Not later than thirty-five days before an impact aid revenue
+35 bond election conducted pursuant to this section, the school district
+36 shall mail an informational pamphlet prepared by the county school
+37 superintendent to each household that contains a qualified elector in the
+38 school district. The informational pamphlet shall contain, at a minimum,
+39 the following information:
+40 (a) The date of the election.
+41 (b) The voter's polling place and the times it is open.
+42 (c) An executive summary of the school district's most recent
+43 capital plan submitted to the school facilities oversight board.
+44 (d) A complete list of each proposed capital improvement that will
+45 be funded with the proceeds of the bonds and a description of the proposed
+46 cost of each improvement, including a separate aggregation of capital
+-21-
+
+House Amendments to H.B. 2481
+1 improvements for administrative purposes as defined by the school
+2 facilities oversight board.
+3 (e) A statement that impact aid revenue bonds will be fully funded
+4 by aid that the school district receives from the federal government and
+5 do not require a levy of taxes in the district.
+6 (f) A statement that if the bonds are approved, the first priority
+7 for the impact aid will be to pay the debt service for the bonds and that
+8 other uses of the monies are prohibited until the debt service obligation
+9 is met.
+10 (g) A statement that if the impact aid revenue bonds are approved,
+11 the school district shall not issue or sell class B bonds while the
+12 district has existing indebtedness from impact aid revenue bonds, except
+13 for bonds issued to refund any bonds issued by the board.
+14 J. If the voters approve the issuance of school district class B
+15 bonds or impact aid revenue bonds, the school district shall not use the
+16 bond proceeds for any purposes other than the proposed capital
+17 improvements listed in the informational pamphlet, except that up to ten
+18 percent of the bond proceeds may be used for general capital expenses,
+19 including cost overruns of proposed capital improvements. The proposed
+20 capital improvements may be changed by a subsequent election as provided
+21 by this section.
+22 K. Each school district that issues bonds under this section shall
+23 hold a public meeting each year between September 1 and October 31, until
+24 the bond proceeds are spent, at which an update of the progress of capital
+25 improvements financed through bonding is discussed and at which the public
+26 is allowed an opportunity to comment. At a minimum, the update shall
+27 include a comparison of the current status and the original projections on
+28 the construction of capital improvements, the costs of capital
+29 improvements and the costs of capital improvements in progress or
+30 completed since the prior meeting and the future capital bonding plans of
+31 the school district. The school district shall include in the public
+32 meeting a discussion of the school district's use of state capital aid and
+33 voter-approved capital overrides in funding capital improvements, if any.
+34 L. IF A SCHOOL DISTRICT FAILS TO CORRECT A DEFICIENCY WITHIN
+35 [NINETY DAYS] [EIGHTEEN MONTHS] AFTER RECEIVING NOTICE FROM THE AUDITOR
+36 GENERAL PURSUANT TO SECTION 15-271, THE SCHOOL DISTRICT GOVERNING BOARD
+37 MAY NOT CALL AN ELECTION FOR THE PURPOSES SPECIFIED IN SUBSECTION A,
+38 PARAGRAPH 3 OR 5 OF THIS SECTION UNTIL THE SCHOOL DISTRICT HAS CORRECTED
+39 ANY DEFICIENCIES. FOR THE PURPOSES OF THIS SUBSECTION, THE SCHOOL
+40 DISTRICT IS DEEMED TO HAVE CORRECTED ANY DEFICIENCIES FROM AND AFTER THE
+41 DATE THAT THE AUDITOR GENERAL REPORTS THAT THE SCHOOL DISTRICT IS IN
+42 COMPLIANCE WITH THE UNIFORM SYSTEM OF FINANCIAL RECORDS.
+43 L. M. If an election is held to change the purpose or list of
+44 capital projects authorized by prior voter approval to issue bonds
+45 pursuant to subsection A, paragraph 5 of this section, the following
+46 requirements apply:
+-22-
+
+House Amendments to H.B. 2481
+1 1. The election may be held only on the first Tuesday after the
+2 first Monday in November.
+3 2. Not later than thirty-five days before the election, the school
+4 district shall mail an informational pamphlet prepared by the county
+5 school superintendent to each household in the school district that
+6 contains a qualified elector. The informational pamphlet shall contain,
+7 at a minimum, the following information:
+8 (a) The date of the election.
+9 (b) The voter's polling place and the times it is open.
+10 (c) A statement as to why the election was called.
+11 (d) A complete list of each proposed capital improvement that is in
+12 addition to the initial capital improvements presented in the
+13 informational pamphlet when the bonds were approved and the proposed cost
+14 of each improvement, including a separate aggregation of capital
+15 improvements for administrative purposes as defined by the school
+16 facilities oversight board.
+17 (e) A complete list of each capital improvement that was presented
+18 in the informational pamphlet when the bonds were initially approved and
+19 that is proposed to be eliminated or to have its cost reduced, and the
+20 proposed cost of each improvement, including a separate aggregation of
+21 capital improvements for administrative purposes as defined by the school
+22 facilities oversight board.
+23 (f) Arguments for and against the proposed change, if submitted, as
+24 provided by section 15-481, subsection B, paragraph 9. The ballot
+25 arguments for the proposed change shall be signed as the governing board
+26 of the school district without listing any member's individual name for
+27 the arguments for the proposed change.
+28 3. The ballot shall contain the words "change capital improvements,
+29 yes" and "change capital improvements, no", and the voter shall signify
+30 the voter's desired choice.
+31 4. If the election is to add a purpose that was not on the initial
+32 ballot, the ballot shall list the purpose that is proposed to be added.
+33 M. N. If an election is held to extend the time to issue bonds
+34 pursuant to subsection A, paragraph 6 of this section, the following
+35 requirements apply:
+36 1. The election may be held only on the first Tuesday after the
+37 first Monday in November.
+38 2. Not later than thirty-five days before the election, the school
+39 district shall mail an informational pamphlet prepared by the county
+40 school superintendent to each household in the school district that
+41 contains a qualified elector. The informational pamphlet shall contain,
+42 at a minimum, the following information:
+43 (a) The date of the election.
+44 (b) The voter's polling place and the times it is open.
+45 (c) A statement as to why the election was called.
+46 (d) Arguments for and against the proposed change, if submitted, as
+47 provided in section 15-481, subsection B, paragraph 9. The ballot
+-23-
+
+House Amendments to H.B. 2481
+1 arguments for the proposed change shall be signed as the governing board
+2 of the school district without listing any member's individual name for
+3 the arguments for the proposed change.
+4 3. The ballot shall contain the words "extend time to issue bonds,
+5 yes" and "extend time to issue bonds, no", and the voter shall signify the
+6 voter's desired choice.
+7 Enroll and engross to conform
+8 Amend title to conform
+MATT GRESS
+2481FloorGRESS.docx
+02/23/2026
+9:53 PM
+C: VS
+130HTWKPI
+-24-

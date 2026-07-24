@@ -1,0 +1,137 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Judiciary and Elections
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Judiciary and Elections
+Second Regular Session H.B. 2874
+COMMITTEE ON JUDICIARY AND ELECTIONS
+SENATE AMENDMENTS TO H.B. 2874
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 16-934, Arizona Revised Statutes, is amended to
+3 read:
+4 16-934. Termination statement; filing; contents
+5 A. A committee may terminate only when the committee treasurer
+6 files a termination statement with the filing officer with whom the
+7 committee's statement of organization was filed.
+8 B. In the termination statement, the committee treasurer shall
+9 certify under penalty of perjury that all EITHER of the following apply
+10 APPLIES:
+11 1. THE COMMITTEE RECEIVED NO CONTRIBUTIONS.
+12 2. THE COMMITTEE RECEIVED CONTRIBUTIONS AND ALL OF THE FOLLOWING
+13 APPLY:
+14 1. (a) The committee will no longer receive any contributions or
+15 make any disbursements.
+16 2. (b) The committee either:
+17 (a) (i) Has no outstanding debts or obligations.
+18 (b) (ii) Has outstanding debts or obligations, or both, that are
+19 all more than five years old, and that the committee's creditors have
+20 agreed to discharge the debts and obligations and have agreed to the
+21 termination of the committee.
+22 3. (c) Any surplus monies have been disposed of and that the
+23 committee has no cash on hand.
+24 4. (d) All contributions and expenditures have been reported,
+25 including any disposal of surplus monies.
+26 C. A filing officer may reject the termination statement if it
+27 appears to the filing officer that the requirements in subsection B of
+28 this section have not been satisfied.
+29 D. After a termination statement is filed, a committee:
+
+Senate Amendments to H.B. 2874
+1 1. Is not required to file any subsequent campaign finance reports.
+2 2. Shall have no further receipts or disbursements without filing a
+3 new statement of organization.
+4 E. A standing committee may terminate its activities in a
+5 particular reporting jurisdiction, and remain active in other reporting
+6 jurisdictions, by filing a statement of that intent with the filing
+7 officer in each reporting jurisdiction.
+8 Sec. 2. Section 16-937, Arizona Revised Statutes, is amended to
+9 read:
+10 16-937. Failure to file; penalties; notice; suspension
+11 A. If a committee fails to timely file a complete report as
+12 prescribed by articles 1, 1.1, 1.2, 1.3, 1.4, 1.5 and 1.6 of this chapter,
+13 the filing officer shall send a written notice by e-mail EMAIL to the
+14 committee within five days after the filing deadline that identifies the
+15 late report, describes how fines accrue and identifies methods of payment.
+16 B. A committee that fails to timely file a report shall pay the
+17 filing officer a penalty of ten dollars $10 for each day that the filing
+18 is late during the first fifteen days after the filing deadline and
+19 twenty-five dollars $25 for each subsequent day that the filing is late.
+20 Penalties accrue until the late report is filed[, EXCEPT THAT PENALTIES
+21 SHALL NOT BE ASSESSED AND ANY ACCRUED PENALTIES ARE VOID IF THE COMMITTEE
+22 AT ANY TIME CERTIFIES THAT IT RECEIVED NO CONTRIBUTIONS AND MADE NO
+23 EXPENDITURES DURING THE REPORTING PERIOD TO WHICH THE UNTIMELY REPORT
+24 CORRESPONDS].
+25 C. If a committee fails to file a complete report within thirty
+26 days after the filing deadline and after providing notice pursuant to
+27 subsection A of this section, the filing officer may notify the
+28 appropriate enforcement officer prescribed in this article.
+29 D. For any political action committee or political party that fails
+30 to file three consecutive complete reports, the filing officer shall send
+31 by e-mail EMAIL to the committee a notice of temporary suspension and the
+32 following apply:
+33 1. On receipt, the committee's authority to operate in the
+34 jurisdiction is temporarily suspended.
+35 2. The notice shall state that failure to comply with all filing
+36 and payment requirements within thirty days after the date of the notice
+37 shall result in permanent suspension of the committee's authority to
+38 operate in that jurisdiction.
+39 E. After compliance with subsection D of this section, the filing
+40 officer may permanently suspend the committee and shall notify the
+41 committee by e-mail EMAIL and is not required to provide any further
+42 notice. Permanent or temporary suspension does not eliminate a
+43 committee's continuing obligation to file reports and pay any outstanding
+44 and accruing penalties provided by law.
+45 F. FOR A COMMITTEE THAT FILES A TERMINATION STATEMENT AS PRESCRIBED
+46 BY SECTION 16-934, SUBSECTION B, PARAGRAPH 1 THAT STATES THAT THE
+47 COMMITTEE RECEIVED NO CONTRIBUTIONS, THE FOLLOWING APPLY:
+-2-
+
+Senate Amendments to H.B. 2874
+1 1. PENALTIES MAY NOT BE ASSESSED AGAINST AND MAY NOT ACCRUE AGAINST
+2 THE COMMITTEE.
+3 2. ANY PENALTIES THAT ARE ASSESSED OR THAT ACCRUE AGAINST A
+4 COMMITTEE THAT SUBSEQUENTLY FILES A TERMINATION STATEMENT PURSUANT TO
+5 SECTION 16-934, SUBSECTION B, PARAGRAPH 1 ARE DEEMED VOID RETROACTIVELY.
+6 3. FOR ANY ENFORCEMENT ACTION INITIATED BY THE ENFORCEMENT OFFICER
+7 AGAINST A COMMITTEE THAT SUBSEQUENTLY FILES A TERMINATION STATEMENT
+8 PURSUANT TO SECTION 16-934, SUBSECTION B, PARAGRAPH 1, THE ENFORCEMENT
+9 OFFICER IS DEEMED WITHOUT JURISDICTION AND IF THE MATTER IS BEFORE A
+10 COURT, THE COURT SHALL DISMISS THE MATTER PROMPTLY.
+11 [G. FOR A COMMITTEE THAT HAS ACCRUED PENALTIES FOR UNTIMELY REPORTS
+12 CORRESPONDING TO REPORTING PERIODS DURING WHICH THE COMMITTEE RECEIVED NO
+13 CONTRIBUTIONS AND MADE NO EXPENDITURES, THE FOLLOWING APPLY:
+14 1. PENALTIES MAY NOT BE ASSESSED AGAINST AND MAY NOT ACCRUE AGAINST
+15 THE COMMITTEE IN CONNECTION WITH THOSE REPORTS.
+16 2. ANY PENALTIES THAT ARE ASSESSED OR THAT ACCRUE AGAINST THE
+17 COMMITTEE IN CONNECTION WITH THOSE REPORTS ARE DEEMED VOID RETROACTIVELY.
+18 3. FOR ANY ENFORCEMENT ACTION INITIATED BY THE ENFORCEMENT OFFICER
+19 AGAINST THE COMMITTEE IN CONNECTION WITH THOSE REPORTS, THE ENFORCEMENT
+20 OFFICER IS DEEMED WITHOUT JURISDICTION AND IF THE MATTER IS BEFORE A
+21 COURT, THE COURT SHALL DISMISS THE MATTER PROMPTLY.]
+22 <<Sec. 3. Retroactivity
+23 [This act applies retroactively to from and after December 31,
+24 2021.]>>
+25 Enroll and engross to conform
+26 Amend title to conform
+2874JUDE.docx
+03/13/2026
+4:42 PM
+C: MR
+130XPUBFV
+-3-

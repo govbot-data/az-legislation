@@ -1,0 +1,234 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Health and Human Services - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Health and Human Services
+Second Regular Session S.B. 1494
+COMMITTEE ON HEALTH AND HUMAN SERVICES
+SENATE AMENDMENTS TO S.B. 1494
+(Reference to printed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 13-3730, Arizona Revised Statutes, is amended
+3 to read:
+4 13-3730. Unlawful patient brokering; classification;
+5 definitions
+6 A. It is unlawful for a person, including a health care provider,
+7 behavioral health professional, health care institution or sober living
+8 home, to offer, pay, solicit or receive any commission, bonus, rebate,
+9 kickback or bribe, directly or indirectly, in cash or in kind, or engage
+10 in any split-fee arrangement, in any form whatsoever, in return for
+11 either:
+12 1. Referring patients or clients to or from a sober living home or
+13 a substance use disorder treatment facility.
+14 2. Accepting or acknowledging the enrollment of a patient or client
+15 for substance use disorder services at a sober living home.
+16 B. EXCEPT AS OTHERWISE EXPRESSLY ALLOWED BY FEDERAL LAW, IT IS
+17 UNLAWFUL FOR A HEALTH CARE PROVIDER, HEALTH CARE INSTITUTION OR DRUG
+18 MANUFACTURER TO:
+19 1. PAY, DIRECTLY OR INDIRECTLY, THE PREMIUMS OR SUBSCRIPTION FEES
+20 FOR AN ENROLLEE UNDER ANY HEALTH BENEFITS PLAN ISSUED BY A HEALTH CARE
+21 INSURER IN THIS STATE.
+22 2. STEER, ADVISE, RECOMMEND OR ENCOURAGE AN ENROLLEE TO TERMINATE
+23 COVERAGE UNDER AN EXISTING HEALTH BENEFITS PLAN OR TO CHANGE A HEALTH
+24 BENEFITS PLAN DUE TO ANY HEALTH STATUS-RELATED FACTOR OF THE ENROLLEE
+25 UNLESS THE PERSON STEERING, ADVISING, RECOMMENDING OR ENCOURAGING THE
+26 ENROLLEE IS A LICENSED INSURANCE PRODUCER IN THIS STATE.
+27 B. C. A violation of SUBSECTION A OR B OF this section is:
+28 1. A class 3 felony if the consideration has a value of $1,000 or
+29 more.
+30 2. A class 4 felony if the consideration has a value of more than
+31 $100 but less than $1,000.
+32 3. A class 6 felony if the consideration has a value of $100 or
+33 less.
+34 C. D. For the purposes of this section: ,
+35 1. "ARIZONA HEALTH CARE COST CONTAINMENT SYSTEM HEALTH PLAN" MEANS
+36 THE COVERED SERVICES AVAILABLE TO MEMBERS OF THE ARIZONA HEALTH CARE COST
+37 CONTAINMENT SYSTEM PURSUANT TO TITLE 36, CHAPTER 29, ARTICLE 1.
+38 2. "BEHAVIORAL HEALTH PROFESSIONAL" MEANS ANY PERSON WHO IS
+39 REGULATED PURSUANT TO TITLE 32, CHAPTER 33.
+
+Senate Amendments to S.B. 1494
+1 3. "DRUG MANUFACTURER" MEANS ANY PERSON THAT PRODUCES, PREPARES,
+2 COMPOUNDS, PROCESSES, PACKAGES, LABELS, PROPAGATES OR REPACKAGES
+3 PRESCRIPTION MEDICATION.
+4 4. "ENROLLEE" MEANS AN INDIVIDUAL WHO IS A PATIENT OF OR RECEIVING
+5 HEALTH CARE SERVICES FROM, AND IS NOT AN EMPLOYEE OR DEPENDENT OF AN
+6 EMPLOYEE OF, A HEALTH CARE PROVIDER, HEALTH CARE INSTITUTION OR DRUG
+7 MANUFACTURER AND WHO IS ENROLLED IN A HEALTH BENEFITS PLAN PROVIDED BY A
+8 HEALTH CARE INSURER.
+9 5. "HEALTH BENEFITS PLAN" MEANS A DISABILITY INSURANCE POLICY, A
+10 HOSPITAL AND MEDICAL SERVICE CORPORATION POLICY OR CERTIFICATE, A HEALTH
+11 CARE SERVICES ORGANIZATION CONTRACT, A GROUP DISABILITY POLICY OR A
+12 CERTIFICATE OF INSURANCE OF A GROUP DISABILITY POLICY, INCLUDING MEDICARE
+13 ADVANTAGE PLANS, MEDICARE SUPPLEMENT INSURANCE PLANS AND MEDICARE PART D
+14 PRESCRIPTION DRUG PLANS, AND THE ARIZONA HEALTH CARE COST CONTAINMENT
+15 SYSTEM HEALTH PLAN.
+16 6. "HEALTH CARE INSTITUTION" HAS THE SAME MEANING PRESCRIBED IN
+17 SECTION 36-401.
+18 7. "HEALTH CARE INSURER" MEANS A DISABILITY INSURER, GROUP
+19 DISABILITY INSURER, BLANKET DISABILITY INSURER, HEALTH CARE SERVICES
+20 ORGANIZATION, HOSPITAL SERVICE CORPORATION, MEDICAL SERVICE CORPORATION OR
+21 HOSPITAL AND MEDICAL SERVICE CORPORATION OR A CONTRACTOR AS DEFINED IN
+22 SECTION 36-2901.
+23 8. "HEALTH CARE PROVIDER" MEANS A PERSON WHO IS REGULATED PURSUANT
+24 TO TITLE 32, CHAPTER 7, 8, 11, 13, 14, 15, 15.1, 16, 17, 18, 19, 19.1, 25,
+25 28, 29, 33, 34, 35, 39 OR 41 OR TITLE 36, CHAPTER 6, ARTICLE 7 OR
+26 CHAPTER 17.
+27 9. "HEALTH-STATUS RELATED FACTOR" INCLUDES ANY OF THE FOLLOWING
+28 WITH RESPECT TO AN ENROLLEE:
+29 (a) A MEDICAL CONDITION, WHETHER PHYSICAL OR MENTAL.
+30 (b) A DISABILITY.
+31 (c) A CLAIMS EXPERIENCE.
+32 (d) A RECEIPT OF HEALTH CARE SERVICES.
+33 (e) MEDICAL HISTORY.
+34 (f) GENETIC INFORMATION.
+35 10. "Sober living home" has the same meaning prescribed in section
+36 36-2061.
+37 Sec. 2. Section 20-281, Arizona Revised Statutes, is amended to
+38 read:
+39 20-281. Definitions
+40 In this article, unless the context otherwise requires:
+41 1. "Business entity" means any corporation, association,
+42 partnership, limited liability company, limited liability partnership or
+43 other legal entity except an individual or sole proprietorship.
+44 2. "Designated producer" means the individual insurance producer
+45 that a business entity designates pursuant to section 20-285, subsection
+46 C, paragraph 3 as the individual responsible for the business entity's
+47 compliance with the insurance laws of this state.
+-2-
+
+Senate Amendments to S.B. 1494
+1 3. "HEALTH BENEFITS PLAN" MEANS A DISABILITY INSURANCE POLICY, A
+2 HOSPITAL AND MEDICAL SERVICE CORPORATION POLICY OR CERTIFICATE, A HEALTH
+3 CARE SERVICES ORGANIZATION CONTRACT, A GROUP DISABILITY POLICY OR A
+4 CERTIFICATE OF INSURANCE OF A GROUP DISABILITY POLICY, INCLUDING MEDICARE
+5 ADVANTAGE PLANS, MEDICARE SUPPLEMENT INSURANCE PLANS AND MEDICARE PART D
+6 PRESCRIPTION DRUG PLANS.
+7 3. 4. "Health or sickness insurance" means disability insurance as
+8 defined in section 20-253.
+9 4. 5. "Home state" means the District of Columbia and any state or
+10 territory of the United States in which:
+11 (a) An individual insurance producer maintains a principal place of
+12 residence or principal place of business and is licensed to act as a
+13 resident insurance producer.
+14 (b) A business entity insurance producer maintains its principal
+15 place of business and is licensed to act as a resident insurance producer.
+16 5. 6. "Insurance producer" means a person required to be licensed
+17 under this article to sell, solicit or negotiate insurance.
+18 6. 7. "Limited line credit insurance" means any form of insurance
+19 that is offered in connection with an extension of credit and that is
+20 limited to partially or wholly extinguishing that credit obligation,
+21 including credit life, credit disability, credit property, credit
+22 unemployment, involuntary unemployment, mortgage life, mortgage guaranty,
+23 mortgage disability, guaranteed asset or automobile protection insurance
+24 and any other form of insurance that is offered in connection with an
+25 extension of credit, that is limited to partially or wholly extinguishing
+26 that credit obligation and that the director determines should be
+27 designated a form of limited line credit insurance.
+28 7. 8. "Limited line insurance" means limited line credit
+29 insurance, limited line crop insurance, limited lines travel insurance
+30 under section 20-3553 and any other line of insurance that the director
+31 deems necessary to recognize for the purposes of complying with section
+32 20-287, subsection C, paragraph 2.
+33 8. 9. "Major line insurance" means life insurance, accident and
+34 health or sickness insurance, property insurance, casualty insurance,
+35 personal lines insurance and variable insurance contracts, as described in
+36 section 20-286.
+37 9. 10. "Member" means, if used in reference to a business entity,
+38 a person that holds an ownership interest in the business entity,
+39 excluding any interest in publicly traded securities and any interest of
+40 less than ten percent of the voting rights.
+41 10. 11. "Negotiate" means the act of conferring directly with or
+42 offering advice directly to a purchaser or prospective purchaser of a
+43 particular contract of insurance concerning any of the substantive
+44 benefits, terms or conditions of the contract if the person engaged in
+45 that act either sells insurance or obtains insurance from insurers for
+46 purchasers.
+47 11. 12. "Nonresident" means a person whose home state is not
+48 Arizona.
+-3-
+
+Senate Amendments to S.B. 1494
+1 12. 13. "Person" means an individual or a business entity.
+2 13. 14. "Resident" means a person whose home state is Arizona and
+3 who does not hold a resident insurance producer license in another state
+4 or territory of the United States or in the District of Columbia.
+5 14. 15. "Sell" means to exchange a contract of insurance by any
+6 means, for money or its equivalent, on behalf of an insurer.
+7 15. 16. "Solicit":
+8 (a) Means attempting to sell insurance or asking or urging a person
+9 to apply for a particular kind of insurance from a particular company.
+10 (b) INCLUDES, IF DONE AS A REGULAR COURSE OF DEALING OR BUSINESS,
+11 STEERING, ADVISING, RECOMMENDING OR ENCOURAGING PERSONS IN THIS STATE WITH
+12 A KNOWN HEALTH CONDITION TO TERMINATE THEIR EXISTING HEALTH BENEFITS PLAN
+13 OR COVERAGE OR TO LET THEIR EXISTING HEALTH BENEFITS PLAN OR COVERAGE
+14 LAPSE AND TO PURCHASE A REPLACEMENT OR ALTERNATIVE HEALTH BENEFITS PLAN OR
+15 POLICY FROM AN INSURER AUTHORIZED TO TRANSACT INSURANCE IN THIS STATE.
+16 Sec. 3. Section 20-449, Arizona Revised Statutes, is amended to
+17 read:
+18 20-449. Rebates on life or disability insurance; definitions
+19 A. Except as otherwise expressly provided by law, no person shall
+20 knowingly permit or offer to make or make any contract of life insurance,
+21 life annuity or disability insurance, or agreement as to such contract
+22 other than as plainly expressed in the contract issued thereon, or pay or
+23 allow, or give or offer to pay, allow or give, directly or indirectly, as
+24 an inducement to such insurance or annuity, any rebate of premiums payable
+25 on the contract, or any special favor or advantage in the dividends or
+26 other benefits thereon, or any valuable consideration or inducement
+27 whatever not specified in the contract. FOR THE PURPOSES OF THIS SECTION,
+28 A PROHIBITED REBATE INCLUDES PAYMENT, DIRECTLY OR INDIRECTLY, BY A HEALTH
+29 CARE PROVIDER, HEALTH CARE INSTITUTION OR DRUG MANUFACTURER OF THE
+30 PREMIUMS OR SUBSCRIPTION FEES FOR AN ENROLLEE UNDER ANY HEALTH BENEFITS
+31 PLAN ISSUED BY A HEALTH CARE INSURER IN THIS STATE.
+32 B. This section does not prohibit an insurer from retaining an
+33 independent third party to conduct a customer feedback effort intended to
+34 help the insurer improve the quality of its products or services and to
+35 offer an insured business or individual a reasonable incentive to
+36 participate in the feedback effort. An incentive is presumed reasonable
+37 if it does not exceed two hundred dollars. An insurer may not offer,
+38 reference or promote an incentive or feedback effort under this section in
+39 connection with an application for or renewal of insurance coverage. For
+40 the purposes of this subsection, "feedback effort" means activities that
+41 are designed to elicit customer perceptions on a predetermined set of
+42 topics that are related to the insurer's products or services, including
+43 in-person, telephonic or online surveys, polls, focus groups, interviews,
+44 questionnaires and other recognized opinion-gathering mechanisms.
+45 C. FOR THE PURPOSES OF THIS SECTION:
+46 1. "DRUG MANUFACTURER" MEANS ANY PERSON THAT PRODUCES, PREPARES,
+47 COMPOUNDS, PROCESSES, PACKAGES, LABELS, PROPAGATES OR REPACKAGES
+48 PRESCRIPTION MEDICATION.
+-4-
+
+Senate Amendments to S.B. 1494
+1 2. "ENROLLEE" MEANS AN INDIVIDUAL WHO IS A PATIENT OF OR RECEIVING
+2 HEALTH CARE SERVICES FROM, AND IS NOT AN EMPLOYEE OR DEPENDENT OF AN
+3 EMPLOYEE OF, A HEALTH CARE PROVIDER, HEALTH CARE INSTITUTION OR DRUG
+4 MANUFACTURER AND WHO IS ENROLLED IN A HEALTH BENEFITS PLAN PROVIDED BY A
+5 HEALTH CARE INSURER.
+6 3. "HEALTH BENEFITS PLAN" MEANS A DISABILITY INSURANCE POLICY, A
+7 HOSPITAL AND MEDICAL SERVICE CORPORATION POLICY OR CERTIFICATE, A HEALTH
+8 CARE SERVICES ORGANIZATION CONTRACT, A GROUP DISABILITY POLICY OR A
+9 CERTIFICATE OF INSURANCE OF A GROUP DISABILITY POLICY, INCLUDING MEDICARE
+10 ADVANTAGE PLANS, MEDICARE SUPPLEMENT INSURANCE PLANS AND MEDICARE PART D
+11 PRESCRIPTION DRUG PLANS.
+12 4. "HEALTH CARE INSTITUTION" HAS THE SAME MEANING PRESCRIBED IN
+13 SECTION 36-401.
+14 5. "HEALTH CARE INSURER" MEANS A DISABILITY INSURER, GROUP
+15 DISABILITY INSURER, BLANKET DISABILITY INSURER, HEALTH CARE SERVICES
+16 ORGANIZATION, HOSPITAL SERVICE CORPORATION, MEDICAL SERVICE CORPORATION OR
+17 HOSPITAL AND MEDICAL SERVICE CORPORATION.
+18 6. "HEALTH CARE PROVIDER" MEANS A PERSON WHO IS REGULATED PURSUANT
+19 TO TITLE 32, CHAPTER 7, 8, 11, 13, 14, 15, 15.1, 16, 17, 18, 19, 19.1, 25,
+20 28, 29, 33, 34, 35, 39 OR 41 OR TITLE 36, CHAPTER 6, ARTICLE 7 OR
+21 CHAPTER 17."
+22 Amend title to conform
+1494HHS.docx
+02/16/2026
+10:16 AM
+C: JV
+130SFZYWB
+-5-

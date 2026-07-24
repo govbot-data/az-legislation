@@ -1,0 +1,437 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Angius flr amend (ref JUDE) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1244
+Angius Floor Amendment
+Reference to: JUDICIARY AND ELECTIONS
+Committee Amendment
+Amendment drafted by: Leg. Concil
+FLOOR AMENDMENT EXPLANATION
+1. Specifies that the court must appoint an attorney to represent a patient when an application is filed
+to continue court-ordered treatment, if the patient does not already have an attorney.
+2. Outlines annual reporting requirements for continuing court-ordered treatment and requires that a
+copy of the report be provided to the patient, patient's attorney and guardian.
+3. Specifies that if the annual report supports the continuation of the order for treatment, the court
+may order that continuing treatment remain in place without a hearing.
+4. Stipulates that if a patient objects to an order for continuing treatment, the treatment agency, rather
+than the patient, has the burden of proving by clear and convincing evidence that the order for
+continuing treatment is necessary.
+5. Removes the specification that the process to convert a court order for treatment to an order for
+continuing treatment must follow the current process prescribed for applications to renew court-
+ordered treatment.
+6. Grants a patient the right to request an independent evaluation on objection to an order for
+continuing court-ordered treatment.
+7. Adds a delayed effective date of January 1, 2027.
+Amendment explanation prepared by Kaytie Sherman
+02/23/2026
+
+Fifty-seventh Legislature Angius
+Second Regular Session S.B. 1244
+ANGIUS FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1244
+(Reference to JUDICIARY AND ELECTIONS Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 36-504.01, Arizona Revised Statutes, is amended
+3 to read:
+4 36-504.01. Guardians and agents; rights in proceedings
+5 Guardians and agents who have decisional authority to make personal,
+6 medical and treatment decisions for a patient pursuant to an order of the
+7 court or pursuant to a validly executed mental health power of attorney in
+8 which the principal has been found incapable of giving informed consent
+9 have the following rights in any proceedings under this article regarding
+10 involuntary treatment of the patient:
+11 1. To be notified of any petition for treatment, motion for amended
+12 court order, application for continued court-ordered RENEWAL OF THE COURT
+13 ORDER FOR treatment, APPLICATION FOR CONVERSION TO AN ORDER FOR CONTINUING
+14 COURT-ORDERED TREATMENT and request for judicial review.
+15 2. If allowed by the court, to provide the court with the
+16 guardian's or agent's position regarding the relief being sought in any of
+17 the proceedings set forth in paragraph 1 of this section and to provide
+
+Senate Amendments to S.B. 1244
+1 the court with any relevant information to help the court make a
+2 determination.
+3 3. To provide relevant information to any agency providing
+4 inpatient or outpatient screening, evaluation or treatment to the patient.
+5 4. When appropriate, to participate in treatment and discharge
+6 planning with the inpatient or outpatient treatment providers.
+7 Sec. 2. Section 36-542, Arizona Revised Statutes, is amended to
+8 read:
+9 36-542. Discharge of patient at expiration of period ordered
+10 by court; change to voluntary status; immunity
+11 A. A patient WHO IS ordered by a court to undergo treatment
+12 pursuant to this article shall be discharged from treatment at the
+13 expiration of the period of treatment ordered unless one of the following
+14 occurs:
+15 1. The person accepts voluntary treatment at the mental health
+16 treatment agency.
+17 2. Before the discharge date, a new petition is filed in the county
+18 in which the patient is being treated. The proceedings shall then be
+19 governed by this article. The costs of the proceedings shall be a charge
+20 against the county in which the patient resided or was found prior to
+21 hospitalization.
+22 3. An application for continued court-ordered RENEWAL OF THE COURT
+23 ORDER FOR treatment is granted pursuant to section 36-543.
+24 4. AN APPLICATION FOR CONVERSION TO AN ORDER FOR CONTINUING
+25 COURT-ORDERED TREATMENT IS GRANTED PURSUANT TO SECTION 36-543.01.
+26 B. If a patient to be discharged is under guardianship, the medical
+27 director of the mental health treatment agency shall notify the guardian
+28 ten days before discharge.
+29 C. If a patient to be discharged is undergoing court-ordered
+30 treatment as a result of a petition filed by a prosecutor pursuant to
+31 section 13-4517 and the patient is being discharged because the medical
+32 director OF THE MENTAL HEALTH TREATMENT AGENCY has decided not to file a
+33 new petition for court-ordered evaluation or treatment or has decided not
+34 to request the court to order that the previous order for treatment be
+35 continued RENEWED, the patient may not be discharged or released from
+36 treatment before compliance with section 36-541.01.
+37 D. The medical director OF THE MENTAL HEALTH TREATMENT AGENCY is
+38 not civilly liable for any acts committed by a released or discharged
+39 patient if the medical director OF THE MENTAL HEALTH TREATMENT AGENCY has
+40 in good faith followed the requirements of this article.
+41 Sec. 3. Section 36-543, Arizona Revised Statutes, is amended to
+42 read:
+43 36-543. Annual review; patients with a grave disability or a
+44 persistent or acute disability; notice; renewal of
+45 court order for treatment; rules; immunity
+46 A. Within ninety days before the expiration of a court order for
+47 treatment, the medical director of the mental health treatment agency
+48 shall conduct an annual review of a patient who has been found to have a
+49 grave disability or a persistent or acute disability and who is undergoing
+50 court-ordered treatment to determine whether the continuation of
+-2-
+
+Senate Amendments to S.B. 1244
+1 court-ordered RENEWAL OF THE COURT ORDER FOR treatment is appropriate and
+2 to assess the needs of the patient for guardianship or conservatorship, or
+3 both. The annual review shall consist of the mental health treatment and
+4 clinical records contained in the patient's treatment file. The mental
+5 health treatment agency shall keep a record of the annual review. If the
+6 medical director OF THE MENTAL HEALTH TREATMENT AGENCY believes that a
+7 continuation of court-ordered RENEWAL OF THE COURT ORDER FOR treatment is
+8 appropriate, the medical director of the mental health treatment agency
+9 shall appoint one or more psychiatrists to carry out a psychiatric
+10 examination of the patient. In any proceeding conducted pursuant to this
+11 section, a patient has the right to have an analysis of the patient's
+12 mental condition by an independent evaluation pursuant to section 36-538.
+13 B. Each examiner participating in the psychiatric examination of
+14 the patient shall submit a report to the medical director of the mental
+15 health treatment agency that includes the following:
+16 1. The examiner's opinions as to whether the patient continues to
+17 have a grave disability or a persistent or acute disability as the result
+18 of a mental disorder and be in need of continued court-ordered RENEWAL OF
+19 THE COURT ORDER FOR treatment. In evaluating the patient's need for
+20 continued court-ordered RENEWAL OF THE COURT ORDER FOR treatment, the
+21 examiner must consider, along with all other evidence, the patient's
+22 history before and during the current period of court-ordered treatment,
+23 the patient's compliance with recommended treatment and any other evidence
+24 relevant to the patient's ability and willingness to follow recommended
+25 treatment with or without a court order.
+26 2. A statement as to whether suitable alternatives to court-ordered
+27 treatment are available.
+28 3. A statement as to whether voluntary treatment would be
+29 appropriate.
+30 4. A review of the patient's status as to guardianship or
+31 conservatorship, or both, the adequacy of existing protections of the
+32 patient and the continued need for guardianship or conservatorship, or
+33 both. If the examiner concludes that the patient's needs in these areas
+34 are not being adequately met, the examiner's report shall recommend that
+35 the court order an investigation into the patient's needs.
+36 5. If the patient has an existing guardian who does not have the
+37 mental health powers authorized pursuant to section 14-5312.01, a
+38 recommendation as to whether the additional mental health powers
+39 authorized by section 14-5312.01 should be imposed on the existing
+40 guardian and whether the patient's needs can be adequately addressed by a
+41 guardian with mental health powers without the need for a court order for
+42 treatment or whether the court order for treatment should continue
+43 regardless of the additional mental health powers imposed on the guardian.
+44 6. The results of any physical examination conducted during the
+45 period of court-ordered treatment if relevant to the psychiatric condition
+46 of the patient.
+47 C. After conducting the annual review as prescribed in this
+48 section, if the medical director OF THE MENTAL HEALTH TREATMENT AGENCY
+49 believes that continued court-ordered RENEWAL OF THE COURT ORDER FOR
+50 treatment is necessary or appropriate, not later than thirty days before
+-3-
+
+Senate Amendments to S.B. 1244
+1 the expiration of the court order for treatment, the medical director OF
+2 THE MENTAL HEALTH TREATMENT AGENCY shall file with the court an
+3 application for continued court-ordered RENEWAL OF THE COURT ORDER FOR
+4 treatment alleging the basis for the application and shall file
+5 simultaneously with the application any psychiatric examination conducted
+6 as part of the annual review. If the patient is under guardianship, the
+7 medical director OF THE MENTAL HEALTH TREATMENT AGENCY shall mail a copy
+8 of the application to the patient's guardian.
+9 D. If an application for continued court-ordered RENEWAL OF THE
+10 COURT ORDER FOR treatment is filed, all of the following apply:
+11 1. If the patient does not have an attorney, the court shall
+12 appoint an attorney to represent the patient.
+13 2. Within ten days after appointment, an attorney appointed
+14 pursuant to this subsection, to the extent possible, shall fulfill the
+15 duties imposed pursuant to section 36-537, review the medical director's
+16 report OF THE MEDICAL DIRECTOR OF THE MENTAL HEALTH TREATMENT AGENCY and
+17 the patient's medical records, interview any physician who prepared a
+18 report on the annual review and file a response requesting a hearing or
+19 submitting the matter to the court for a ruling based on the record
+20 without a hearing.
+21 3. If a hearing is not requested, the court shall rule on the
+22 application or set the matter for hearing. If a hearing is requested, the
+23 hearing shall be held within three weeks after the request for hearing is
+24 filed. The hearing may be continued for good cause on motion of a party
+25 or on the court's own motion, and the expiration of the current court
+26 order for treatment may be extended until a ruling by the court on an
+27 application filed pursuant to this subsection.
+28 4. The patient's attorney must be present at all hearings and may
+29 subpoena and cross-examine witnesses and present evidence. The patient
+30 has the right to attend all hearings, but may choose not to attend a
+31 hearing. The patient's attorney may waive the patient's presence after
+32 speaking with the patient and confirming that the patient understands the
+33 right to be present and does not desire to attend. If the patient is
+34 unable to be present at the hearing for medical or psychiatric reasons and
+35 the hearing cannot be conducted where the patient is being treated or
+36 confined, or the patient cannot appear by another reasonably feasible
+37 means, the court shall require clear and convincing evidence that the
+38 patient is unable to be present at the hearing and on such a finding may
+39 proceed with the hearing in the patient's absence.
+40 5. The evidence presented by the applicant includes the testimony
+41 of one or more witnesses acquainted with the patient during the period of
+42 court-ordered treatment, which may be satisfied by a statement agreed on
+43 by the parties, and the testimony of any physician who performed an annual
+44 review of the patient, which may be satisfied by stipulating to the
+45 admission of the examining physicians' written report prepared pursuant to
+46 subsection B of this section. The court may waive the need for the
+47 applicant to present the testimony of witnesses acquainted with the
+48 patient as required by this subsection, if it finds that the need for a
+49 continued RENEWAL OF THE court order for treatment has been established by
+-4-
+
+Senate Amendments to S.B. 1244
+1 clear and convincing evidence from the other testimony and evidence
+2 presented at the hearing.
+3 6. At a hearing held pursuant to this subsection, the court, with
+4 notice, may impose on an existing guardian additional powers pursuant to
+5 section 14-5312.01. If the court finds that the patient's needs can be
+6 adequately met by an existing guardian with the additional powers pursuant
+7 to section 14-5312.01 and that a court order for treatment is not
+8 necessary to ensure compliance with necessary treatment, the court may
+9 terminate the court order for treatment or decline to issue an order
+10 continuing court-ordered FOR RENEWAL OF THE COURT ORDER FOR treatment.
+11 The court may also order an investigation into the need for guardianship
+12 or conservatorship, or both, and may appoint a suitable person or agency
+13 to conduct the investigation. The appointee may include a court-appointed
+14 guardian ad litem, a court-appointed investigator pursuant to section
+15 14-5308 or the public fiduciary if there is no person willing and
+16 qualified to act in that capacity. The court shall give notice of the
+17 appointment to the appointee within three days after the appointment. The
+18 appointee shall submit the report of the investigation to the court within
+19 twenty-one days. The report shall include recommendations as to who
+20 should be guardian or conservator, or both, and the findings and reasons
+21 for the recommendation. If the investigation and report so indicate, the
+22 court may authorize an appropriate person to file a petition for
+23 appointment of a guardian or conservator for the patient.
+24 E. If a hearing is held pursuant to subsection D of this section,
+25 the party seeking the renewal of the court order FOR TREATMENT must prove
+26 all of the following by clear and convincing evidence:
+27 1. The patient continues to have a mental disorder and, as a result
+28 of that disorder, has either a persistent or acute disability or a grave
+29 disability.
+30 2. The patient is in need of continued court-ordered RENEWAL OF THE
+31 COURT ORDER FOR treatment.
+32 3. The patient is either unwilling or unable to accept treatment
+33 voluntarily.
+34 F. After a hearing held pursuant to subsection D of this section,
+35 the court may order the patient to be released from court-ordered
+36 treatment or to undergo continued court-ordered RENEW THE COURT ORDER FOR
+37 treatment for a period not to exceed the time periods prescribed in
+38 section 36-540, subsection D.
+39 G. The director shall create and operate a program to ensure that
+40 the examination and review of persons with grave disabilities or
+41 persistent or acute disabilities under court order are carried out in an
+42 effective and timely manner. The director shall adopt rules needed to
+43 operate this program.
+44 H. The medical director of the mental health treatment agency is
+45 not civilly liable for any acts committed by the released patient if the
+46 medical director OF THE MENTAL HEALTH TREATMENT AGENCY has in good faith
+47 complied with the requirements of this article.
+-5-
+
+Senate Amendments to S.B. 1244
+1 Sec. 4. Title 36, chapter 5, article 5, Arizona Revised Statutes,
+2 is amended by adding section 36-543.01, to read:
+3 36-543.01. Continuing court-ordered treatment; annual review;
+4 order for conversion; annual report; burden of
+5 proof
+6 A. AFTER CONDUCTING A PATIENT'S SECOND CONSECUTIVE ANNUAL REVIEW AS
+7 PRESCRIBED IN SECTION 36-543, SUBSECTION A, IF THE MEDICAL DIRECTOR OF THE
+8 MENTAL HEALTH TREATMENT AGENCY BELIEVES THAT AN ORDER FOR CONTINUING
+9 COURT-ORDERED TREATMENT IS APPROPRIATE, THE MEDICAL DIRECTOR OF THE MENTAL
+10 HEALTH TREATMENT AGENCY SHALL APPOINT {{AN APPROPRIATE MEDICAL
+11 PROFESSIONAL}} {{ONE OR MORE PSYCHIATRISTS}} TO CARRY OUT A PSYCHIATRIC
+12 EXAMINATION OF THE PATIENT AND SUBMIT A REPORT AS SET FORTH IN SECTION
+13 36-543 AND SHALL REQUEST THE EXAMINER TO PROVIDE AN OPINION ABOUT THE
+14 ISSUES SET FORTH IN SUBSECTION {{D }} {{C}} OF THIS SECTION IN ADDITION TO
+15 THE REPORTING REQUIREMENTS PRESCRIBED IN SECTION 36-543, SUBSECTION B.
+16 B. AFTER RECEIVING THE REPORT PURSUANT TO SUBSECTION A OF THIS
+17 SECTION, IF THE MEDICAL DIRECTOR OF THE MENTAL HEALTH TREATMENT AGENCY
+18 BELIEVES THAT AN ORDER FOR CONTINUING COURT-ORDERED TREATMENT IS
+19 APPROPRIATE, AT LEAST THIRTY DAYS BEFORE THE EXPIRATION OF THE COURT ORDER
+20 FOR TREATMENT, THE MEDICAL DIRECTOR OF THE MENTAL HEALTH TREATMENT AGENCY
+21 SHALL FILE WITH THE COURT AN APPLICATION FOR A CONVERSION TO AN ORDER FOR
+22 CONTINUING COURT-ORDERED TREATMENT ALLEGING THE BASIS FOR THE APPLICATION
+23 AND SHALL FILE SIMULTANEOUSLY WITH THE APPLICATION {{ANY}} {{THE}} REPORT
+24 FROM {{A } {{THE}}} PSYCHIATRIC EXAMINATION PERFORMED {{AS PART OF THE
+25 ANNUAL REVIEW CONDUCTED}} PURSUANT TO {{SECTION 36-543,}} SUBSECTION A
+26 {{OF THIS SECTION}}. {{IF THE PATIENT DOES NOT HAVE AN ATTORNEY, THE
+27 COURT SHALL APPOINT AN ATTORNEY TO REPRESENT THE PATIENT.}} A COPY OF THE
+28 APPLICATION SHALL BE PROVIDED TO THE PATIENT AND THE PATIENT'S ATTORNEY
+29 AND, IF THE PATIENT IS UNDER GUARDIANSHIP, TO THE PATIENT'S GUARDIAN.
+30 {{C. SECTION 36-543, SUBSECTION D APPLIES TO PROCEEDINGS FOR
+31 CONVERSION TO AN ORDER FOR CONTINUING COURT-ORDERED TREATMENT.}}
+32 {{D.}} {{C.}} A COURT ORDER FOR TREATMENT MAY BE CONVERTED TO AN
+33 ORDER FOR CONTINUING COURT-ORDERED TREATMENT AS SET FORTH IN THIS SECTION
+34 IF THE COURT FINDS ALL THE FOLLOWING BY CLEAR AND CONVINCING EVIDENCE:
+35 1. THE PATIENT CONTINUES TO HAVE A MENTAL DISORDER AND, AS A RESULT
+36 OF THAT DISORDER, HAS EITHER A PERSISTENT OR ACUTE DISABILITY OR A GRAVE
+37 DISABILITY.
+38 2. THE PATIENT IS EITHER UNWILLING OR UNABLE TO ACCEPT TREATMENT
+39 VOLUNTARILY.
+40 3. WITHOUT AN ORDER FOR CONTINUING COURT-ORDERED TREATMENT THE
+41 PATIENT'S CONDITION IS NOT LIKELY TO SIGNIFICANTLY IMPROVE AND THERE IS A
+42 SUBSTANTIAL PROBABILITY THAT THE PATIENT WILL SUFFER SEVERE AND ABNORMAL
+43 MENTAL, EMOTIONAL OR PHYSICAL HARM OR BE UNABLE TO PROVIDE FOR THE
+44 PATIENT'S OWN BASIC PHYSICAL NEEDS.
+45 {{E.}} {{D.}} IF THE APPLICATION FOR CONVERSION TO AN ORDER FOR
+46 CONTINUING COURT-ORDERED TREATMENT IS DENIED, THE COURT MAY ORDER THE
+47 PATIENT TO BE RELEASED FROM COURT-ORDERED TREATMENT OR, IF THE PROVISIONS
+48 OF SECTION 36-543, SUBSECTION E HAVE BEEN MET, ORDER THAT THE COURT ORDER
+49 FOR TREATMENT BE RENEWED FOR A PERIOD OF NOT MORE THAN THE TIME PERIODS
+50 PRESCRIBED IN SECTION 36-540, SUBSECTION D.
+-6-
+
+Senate Amendments to S.B. 1244
+1 {{F.}} {{E.}} IF THE APPLICATION FOR CONVERSION TO AN ORDER FOR
+2 CONTINUING COURT-ORDERED TREATMENT IS GRANTED, THE COURT SHALL ORDER THE
+3 PATIENT TO CONTINUE IN TREATMENT UNTIL THE ORDER FOR CONTINUING
+4 COURT-ORDERED TREATMENT IS TERMINATED BY THE COURT. THE MAXIMUM PERIODS
+5 FOR INPATIENT TREATMENT THAT A COURT MAY ORDER PURSUANT TO SECTION 36-540,
+6 SUBSECTION F DO NOT APPLY TO AN ORDER FOR CONTINUING COURT-ORDERED
+7 TREATMENT ISSUED PURSUANT TO THIS SECTION.
+8 {{G. THE ANNUAL REVIEW OF THE ORDER FOR CONTINUING COURT-ORDERED
+9 TREATMENT SHALL OCCUR AT LEAST THIRTY DAYS BEFORE THE ANNIVERSARY DATE OF
+10 THE ORDER FOR CONTINUING COURT-ORDERED TREATMENT. THE MEDICAL DIRECTOR OF
+11 THE MENTAL HEALTH TREATMENT AGENCY SHALL FILE A WRITTEN ANNUAL REPORT TO
+12 THE COURT THAT INCLUDES THE FOLLOWING:
+13 1. AN EXAMINATION REPORT BY A PSYCHIATRIST OR PSYCHOLOGIST}} [OR,
+14 IN A COUNTY WITH A POPULATION OF LESS THAN FIVE HUNDRED THOUSAND PERSONS,
+15 BY A PHYSICIAN, PHYSICIAN ASSISTANT OR NURSE PRACTITIONER EXPERIENCED IN
+16 PSYCHIATRIC MATTERS] {{WHO HAS REVIEWED THE TREATMENT RECORDS OF THE
+17 PATIENT AND WHO HAS CONDUCTED AN EXAMINATION OF THE PATIENT WITHIN NINETY
+18 DAYS BEFORE THE ANNIVERSARY DATE OF THE ORDER FOR CONTINUING COURT-ORDERED
+19 TREATMENT.
+20 2. A SUMMARY OF THE EXAMINER'S OBSERVATIONS OF THE PATIENT'S
+21 PHYSICAL AND MENTAL CONDITION AND OF THE SERVICES PROVIDED OVER THE PERIOD
+22 SINCE THE LAST ANNUAL REPORT.
+23 3. THE OPINION OF THE EXAMINER AS TO WHETHER AN ORDER FOR
+24 CONTINUING COURT-ORDERED TREATMENT SHOULD REMAIN IN PLACE.}}
+25 {{F. WITHIN NINETY DAYS BEFORE THE ANNIVERSARY DATE OF THE ORDER
+26 FOR CONTINUING COURT-ORDERED TREATMENT. THE MEDICAL DIRECTOR OF THE
+27 MENTAL HEALTH TREATMENT AGENCY SHALL CONDUCT AN ANNUAL REVIEW OF THE
+28 PATIENT AND SHALL FILE A WRITTEN ANNUAL REPORT WITH THE COURT. THE ANNUAL
+29 REPORT SHALL CONTAIN A SUMMARY OF THE TREATMENT PROVIDED TO THE PATIENT
+30 SINCE THE LAST ANNUAL REVIEW AND THE PATIENT'S COMPLIANCE WITH THE
+31 TREATMENT PROVIDED OR RECOMMENDED AND SHALL STATE THE OPINION OF THE
+32 MEDICAL DIRECTOR WHETHER THE ORDER FOR CONTINUING COURT-ORDERED TREATMENT
+33 SHOULD REMAIN IN EFFECT OR WHETHER COURT-ORDERED TREATMENT SHOULD BE
+34 TERMINATED. A COPY OF THE ANNUAL REPORT SHALL BE PROVIDED TO THE PATIENT
+35 AND THE PATIENT'S ATTORNEY AND, IF THE PATIENT IS UNDER GUARDIANSHIP, TO
+36 THE PATIENT'S GUARDIAN. ON FILING THE ANNUAL REPORT, THE FOLLOWING APPLY:
+37 1. IF THE ANNUAL REPORT STATES THAT IT IS THE OPINION OF THE
+38 MEDICAL DIRECTOR OF THE MENTAL HEALTH TREATMENT AGENCY THAT THE PATIENT'S
+39 COURT-ORDERED TREATMENT SHOULD BE TERMINATED, THE ANNUAL REPORT SHALL
+40 STATE THE BASIS FOR THAT OPINION, SHALL AFFIRM THAT IN REACHING THAT
+41 OPINION THE MEDICAL DIRECTOR OF THE MENTAL HEALTH TREATMENT AGENCY
+42 CONSIDERED THE PATIENT'S ENTIRE HISTORY OF ENGAGEMENT IN AND COMPLIANCE
+43 WITH TREATMENT ORDERED OR RECOMMENDED AND SHALL CONFIRM THAT IT IS THE
+44 OPINION OF THE MEDICAL DIRECTOR OF THE MENTAL HEALTH TREATMENT AGENCY THAT
+45 THE PATIENT IS BOTH WILLING AND ABLE TO ENGAGE IN AND FOLLOW ANY
+46 RECOMMENDED TREATMENT VOLUNTARILY. A COPY OF THE ANNUAL REPORT SHALL BE
+47 PROVIDED TO THE PATIENT AND THE PATIENT'S ATTORNEY AND, IF THE PATIENT IS
+48 UNDER GUARDIANSHIP, TO THE PATIENT'S GUARDIAN. THE GUARDIAN FOR THE
+49 PATIENT HAS THE RIGHT TO REQUEST A HEARING TO DETERMINE WHETHER THE
+-7-
+
+Senate Amendments to S.B. 1244
+1 STANDARD FOR RELEASE HAS BEEN MET AND TO REQUEST THAT AN INDEPENDENT
+2 EVALUATION OF THE PATIENT BE PERFORMED.
+3 2. IF THE ANNUAL REPORT STATES THAT IT IS THE OPINION OF THE
+4 MEDICAL DIRECTOR OF THE MENTAL HEALTH TREATMENT AGENCY THAT THE PATIENT'S
+5 COURT-ORDERED TREATMENT SHOULD REMAIN IN EFFECT, THE ANNUAL REPORT SHALL
+6 INCLUDE A REPORT OF A PSYCHIATRIST WHO CONDUCTED AN EXAMINATION OF THE
+7 PATIENT WITHIN NINETY DAYS BEFORE THE ANNIVERSARY DATE OF THE ORDER FOR
+8 CONTINUING COURT-ORDERED TREATMENT THAT CONTAINS THE FOLLOWING:
+9 (a) CONFIRMATION THAT THE PSYCHIATRIST REVIEWED THE TREATMENT
+10 RECORDS OF THE PATIENT, INCLUDING THE SERVICES PROVIDED TO THE PATIENT
+11 OVER THE PERIOD SINCE THE LAST ANNUAL REPORT.
+12 (b) A SUMMARY OF THE PSYCHIATRIST'S OBSERVATIONS OF THE PATIENT'S
+13 PHYSICAL AND MENTAL CONDITION.
+14 (c) THE OPINION OF THE PSYCHIATRIST AS TO WHETHER AN ORDER FOR
+15 CONTINUING COURT-ORDERED TREATMENT SHOULD REMAIN IN PLACE AND THE BASIS
+16 FOR THAT OPINION.}}
+17 {{H.}} {{3.}} IF THE ANNUAL REPORT SUPPORTS THE CONTINUATION OF
+18 THE COURT ORDER FOR TREATMENT, THE COURT{{, WITHOUT A HEARING,}} MAY ORDER
+19 THAT THE ORDER FOR CONTINUING COURT-ORDERED TREATMENT REMAIN IN
+20 PLACE. THE PATIENT MAY OBJECT TO THE ORDER FOR CONTINUING COURT-ORDERED
+21 TREATMENT BY FILING A REQUEST FOR HEARING WITHIN TEN BUSINESS DAYS AFTER
+22 THE ANNUAL REPORT IS FILED. THE COURT SHALL HOLD THIS HEARING WITHIN
+23 THIRTY CALENDAR DAYS AFTER RECEIPT OF THE REQUEST. TREATMENT PURSUANT TO
+24 THE EXISTING COURT ORDER SHALL CONTINUE PENDING THE COURT'S RULING ON THE
+25 ISSUE. {{THE PATIENT HAS THE RIGHT TO REQUEST AN INDEPENDENT
+26 EVALUATION.}} AT THE HEARING, THE {{PATIENT}} {{MENTAL HEALTH TREATMENT
+27 AGENCY}} HAS THE BURDEN OF PROVING BY CLEAR AND CONVINCING EVIDENCE THAT
+28 {{THE PATIENT NO LONGER MEETS THE CRITERIA FOR}} AN ORDER FOR CONTINUING
+29 COURT-ORDERED TREATMENT PURSUANT TO THIS SECTION {{IS NECESSARY}}.
+30 ≤≤Sec. 5. Effective date
+31 {{This act is effective from and after December 31, 2026.}}≥≥
+32 Enroll and engross to conform
+33 Amend title to conform
+HILDY ANGIUS
+1244FloorANGIUS.docx
+02/13/2026
+2:14 PM
+C: MH
+130FGWKOE
+-8-

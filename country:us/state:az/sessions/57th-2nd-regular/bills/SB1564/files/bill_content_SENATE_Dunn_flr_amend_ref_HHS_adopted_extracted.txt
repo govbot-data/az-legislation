@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Dunn flr amend (ref HHS) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1564
+Dunn Floor Amendment
+Reference to: HEALTH AND HUMAN SERVICES
+Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Expands the electronic monitoring information that assisted living facilities and nursing care
+institutions must submit to the Department of Health Services (DHS) to include whether the
+facility uses:
+a) electronic monitoring devices in the common spaces of the facility; and
+b) a technology solution that allows the facility to monitor and identify who enters and exits a
+resident's room and the movement or activity of the person while in the resident's room.
+2. Requires assisted living facilities and nursing care institutions to notify DHS of any changes to the
+facility's use of electronic monitoring or a technology solution.
+Amendment explanation prepared by Michael Madden
+3/2/2026
+
+Fifty-seventh Legislature Dunn
+Second Regular Session S.B. 1564
+DUNN FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1564
+(Reference to HEALTH AND HUMAN SERVICES Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 36, chapter 4, article 1, Arizona Revised
+3 Statutes, is amended by adding section 36-420.06, to read:
+4 36-420.06. Electronic monitoring; disclosure; posting;
+5 definitions
+6 A. ON [OR BEFORE DECEMBER 1, 2026 OR ON] INITIAL LICENSURE [AND
+7 RELICENSURE], EACH ASSISTED LIVING FACILITY AND NURSING CARE INSTITUTION
+8 SHALL DISCLOSE TO THE DEPARTMENT [IN A DEPARTMENT-APPROVED FORMAT] WHETHER
+9 THE ASSISTED LIVING FACILITY OR NURSING CARE INSTITUTION{{:
+10 1.}} ALLOWS RESIDENTS TO INSTALL AN ELECTRONIC MONITORING DEVICE IN
+11 THE RESIDENT'S ROOM OR PERSONAL SPACE.
+12 {{2. USES ELECTRONIC MONITORING DEVICES IN THE COMMON SPACES OF THE
+13 ASSISTED LIVING FACILITY OR NURSING CARE INSTITUTION.
+14 3. USES A TECHNOLOGY SOLUTION THAT ALLOWS THE ASSISTED LIVING
+15 FACILITY OR NURSING CARE INSTITUTION TO MONITOR AND IDENTIFY WHO ENTERS
+16 AND EXITS A RESIDENT'S ROOM AND THE MOVEMENT OR ACTIVITY OF THE PERSON
+17 WHILE IN THE RESIDENT'S ROOM.
+
+Senate Amendments to S.B. 1564
+1 B.}} [A LICENSEE FOR AN ASSISTED LIVING FACILITY OR NURSING CARE
+2 INSTITUTION SHALL ENSURE THAT THE DEPARTMENT IS NOTIFIED IN A
+3 DEPARTMENT-APPROVED FORMAT OF ANY CHANGES WITH RESPECT TO WHETHER THE
+4 ASSISTED LIVING FACILITY OR NURSING CARE INSTITUTION ALLOWS RESIDENTS TO
+5 INSTALL AN ELECTRONIC MONITORING DEVICE IN THE RESIDENT'S ROOM OR PERSONAL
+6 SPACE {{OR CHANGES ITS USE OF ELECTRONIC MONITORING OR A TECHNOLOGY
+7 SOLUTION PURSUANT TO SUBSECTION A OF THIS SECTION}}.]
+8 {{C.}} THE DEPARTMENT SHALL MAKE {{THIS}} INFORMATION {{IT RECEIVES
+9 PURSUANT TO THIS SECTION}} AVAILABLE ON THE DEPARTMENT'S PUBLIC WEBSITE.
+10 {{B.}} {{D.}} FOR THE PURPOSES OF THIS SECTION:
+11 1. "ELECTRONIC MONITORING":
+12 (a) MEANS THE USE OF AN ELECTRONIC MONITORING DEVICE IN THE ROOM OF
+13 A RESIDENT OF A NURSING CARE INSTITUTION OR ASSISTED LIVING FACILITY TO
+14 RECORD OR TRANSMIT SOUNDS OR ACTIVITY TO OR FOR THE RESIDENT, THE
+15 RESIDENT'S AUTHORIZED REPRESENTATIVE OR AN AUTHORIZED THIRD PARTY.
+16 (b) INCLUDES THE TAPES OR RECORDINGS FROM THE ELECTRONIC MONITORING
+17 DEVICE.
+18 2. "ELECTRONIC MONITORING DEVICE" MEANS ANY DEVICE OR TECHNOLOGY
+19 THAT HAS A PLACED, FIXED OR OTHERWISE INSTALLED LOCATION, THAT CAPTURES,
+20 RECORDS OR BROADCASTS AUDIO OR VIDEO, OR BOTH, AND THAT IS USED FOR
+21 ELECTRONIC MONITORING.
+22 3. "RESIDENT" MEANS A PERSON WHO RESIDES IN AN ASSISTED LIVING
+23 FACILITY OR NURSING CARE INSTITUTION.
+24 Enroll and engross to conform
+25 Amend title to conform
+TIMOTHY "TIM" DUNN
+1564FloorDUNN
+03/02/2026
+01:17 PM
+C: MH
+130QZNYCG
+-2-

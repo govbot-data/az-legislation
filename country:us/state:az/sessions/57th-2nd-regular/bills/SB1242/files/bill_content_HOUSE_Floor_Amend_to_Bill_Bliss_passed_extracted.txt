@@ -1,0 +1,1017 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Bliss - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1242: mental health; hearings; audiovisual technology
+BLISS FLOOR AMENDMENT
+1. Modifies the definition of a mental health treatment agency.
+2. Makes further technical changes and revisions relating to behavioral health
+facilities.
+3. Contains a retroactivity clause.
+A GRAHAM
+4/28/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Bliss
+Second Regular Session S.B. 1242
+ADDITIONAL COW
+BLISS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1242
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 36-501, Arizona Revised Statutes, is amended
+3 to read:
+4 36-501. Definitions
+5 In this chapter, unless the context otherwise requires:
+6 1. "Administration" means the Arizona health care cost containment
+7 system administration.
+8 2. "Admitting officer" means a psychiatrist or other physician or
+9 psychiatric and mental health nurse practitioner with experience in
+10 performing psychiatric examinations who has been designated as an
+11 admitting officer of the evaluation agency by the person in charge of the
+12 evaluation agency.
+13 3. "Authorized transporter" means a transportation entity that is
+14 contracted with a city, town or county to provide services pursuant to
+15 this chapter and that is either:
+16 (a) An ambulance service that holds a valid certificate of
+17 necessity.
+18 (b) A transportation provider authorized by this state to provide
+19 safe behavioral health transportation for individuals requiring
+20 transportation pursuant to this chapter.
+21 4. "Chief medical officer" means the chief medical officer under
+22 the supervision of the superintendent of the state hospital.
+23 5. "Contraindicated" means that access is reasonably likely to
+24 endanger the life or physical safety of the patient or another person.
+25 6. "Court" means the superior court in the county in this state in
+26 which the patient resides or was found before screening or emergency
+27 admission under this title.
+28 7. "Criminal history" means police reports, lists of prior arrests
+29 and convictions, criminal case pleadings and court orders, including a
+30 determination that the person has been found incompetent to stand trial
+31 pursuant to section 13-4510.
+
+House Amendments to S.B. 1242
+1 8. "Danger to others" means that the judgment of a person who has a
+2 mental disorder is so impaired that the person is unable to understand the
+3 person's need for treatment and as a result of the person's mental
+4 disorder the person's continued behavior can reasonably be expected, on
+5 the basis of competent medical opinion, to result in serious physical
+6 harm.
+7 9. "Danger to self":
+8 (a) Means behavior that, as a result of a mental disorder:
+9 (i) Constitutes a danger of inflicting serious physical harm on
+10 oneself, including attempted suicide or the serious threat thereof, if the
+11 threat is such that, when considered in the light of its context and in
+12 light of the individual's previous acts, it is substantially supportive of
+13 an expectation that the threat will be carried out.
+14 (ii) Without hospitalization will result in serious physical harm
+15 or serious illness to the person.
+16 (b) Does not include behavior that establishes only the condition
+17 of having a grave disability.
+18 10. "Department" means the department of health services.
+19 11. "Detention" means the taking into custody of a patient or
+20 proposed patient.
+21 12. "Director" means the director of the administration.
+22 13. "Evaluation" means:
+23 (a) A professional multidisciplinary analysis that may include
+24 firsthand observations or remote observations by interactive audiovisual
+25 media and that is based on data describing the person's identity,
+26 biography and medical, psychological and social conditions carried out by
+27 a group of persons consisting of at least the following:
+28 (i) Two licensed physicians who are qualified psychiatrists, if
+29 possible, or at least experienced in psychiatric matters, who shall
+30 examine and report their findings independently. The person against whom
+31 a petition has been filed shall be notified that the person may select one
+32 of the physicians. A psychiatric resident in a training program approved
+33 by the American medical association or by the American osteopathic
+34 association may examine the person in place of one of the psychiatrists if
+35 the resident is supervised in the examination and preparation of the
+36 affidavit and testimony in court by a qualified psychiatrist appointed to
+37 assist in the resident's training, and if the supervising psychiatrist is
+38 available for discussion with the attorneys for all parties and for court
+39 appearance and testimony if requested by the court or any of the
+40 attorneys.
+41 (ii) Two other individuals, one of whom, if available, is a
+42 psychologist and in any event a social worker familiar with mental health
+43 and human services that may be available placement alternatives
+44 appropriate for treatment. An evaluation may be conducted on an inpatient
+45 basis, an outpatient basis or a combination of both, and every reasonable
+-2-
+
+House Amendments to S.B. 1242
+1 attempt shall be made to conduct the evaluation in any language preferred
+2 by the person.
+3 (b) A physical examination that is consistent with the existing
+4 standards of care and that is performed by one of the evaluating
+5 physicians or by or under the supervision of a physician who is licensed
+6 pursuant to title 32, chapter 13 or 17 or a registered nurse practitioner
+7 who is licensed pursuant to title 32, chapter 15 if the results of that
+8 examination are reviewed or augmented by one of the evaluating physicians.
+9 14. "Evaluation agency" means either of the following:
+10 (a) A health care agency that is licensed by the department and
+11 that has been approved pursuant to this title to provide the services
+12 required of that agency by this chapter.
+13 (b) A facility that is exempt from licensure pursuant to section
+14 36-402, that possesses an accreditation from either a national commission
+15 on correctional health care or an American correctional association and
+16 that has been approved pursuant to this title to provide the services
+17 required of that facility by this chapter.
+18 15. "Family member" means a spouse, parent, adult child, adult
+19 sibling or other blood relative of a person undergoing treatment or
+20 evaluation pursuant to this chapter.
+21 16. "Grave disability" means a condition evidenced by behavior in
+22 which a person, as a result of a mental disorder, is likely to come to
+23 serious physical harm or serious illness because the person is unable to
+24 provide for the person's own basic physical needs.
+25 17. "Health care decision maker" has the same meaning prescribed in
+26 section 12-2801.
+27 18. "Health care entity" means a health care provider, the
+28 department, the administration or a regional behavioral health authority
+29 that is under contract with the administration.
+30 19. "Health care provider" means a health care institution as
+31 defined in section 36-401 that is licensed as a behavioral health provider
+32 pursuant to department rules or a mental health provider.
+33 20. "Independent evaluator" means a licensed physician, psychiatric
+34 and mental health nurse practitioner or psychologist who is selected by
+35 the person to be evaluated or by the person's attorney.
+36 21. "Informed consent" means a voluntary decision following THE
+37 presentation of all facts necessary to form the basis of an intelligent
+38 consent by the patient or guardian with no minimizing of known dangers of
+39 any procedures.
+40 22. "Least restrictive treatment alternative" means the treatment
+41 plan and setting that infringe in the least possible degree with the
+42 patient's right to liberty and that are consistent with providing needed
+43 treatment in a safe and humane manner.
+44 23. "Licensed physician" means any medical doctor or doctor of
+45 osteopathy who is either:
+46 (a) Licensed in this state.
+-3-
+
+House Amendments to S.B. 1242
+1 (b) A full-time hospital physician licensed in another state and
+2 serving on the staff of a hospital operated or licensed by the United
+3 States government.
+4 24. "Medical director of an evaluation agency" means a
+5 psychiatrist, or other licensed physician experienced in psychiatric
+6 matters, who is designated in writing by the governing body of the agency
+7 as the person in charge of the medical services of the agency for the
+8 purposes of this chapter and may include the chief medical officer of the
+9 state hospital.
+10 25. "Medical director of a mental health treatment agency" means a
+11 psychiatrist, or other licensed physician experienced in psychiatric
+12 matters, who is designated in writing by the governing body of the agency
+13 as the person in charge of the medical services of the agency for the
+14 purposes of this chapter and includes the chief medical officer of the
+15 state hospital.
+16 26. "Mental disorder" means a substantial disorder of the person's
+17 emotional processes, thought, cognition or memory. Mental disorder is
+18 distinguished from:
+19 (a) Conditions that are primarily those of drug abuse, alcoholism
+20 or intellectual disability, unless, in addition to one or more of these
+21 conditions, the person has a mental disorder.
+22 (b) The declining mental abilities that directly accompany
+23 impending death.
+24 (c) Character and personality disorders characterized by lifelong
+25 and deeply ingrained antisocial behavior patterns, including sexual
+26 behaviors that are abnormal and prohibited by statute unless the behavior
+27 results from a mental disorder.
+28 27. "Mental health provider" means any physician or provider of
+29 mental health or behavioral health services who is involved in evaluating,
+30 caring for, treating or rehabilitating a patient.
+31 28. "Mental health treatment agency"[:
+32 (a)] Means any of the following:
+33 [(a)] [(i)] The state hospital.
+34 [(b)] [(ii)] A health care agency that is licensed by the
+35 department and that provides the services that are required of the agency
+36 by this chapter.
+37 [(c)] [(iii)] A facility that is exempt from licensure pursuant to
+38 section 36-402, that possesses an accreditation from either a national
+39 commission on correctional health care or an American correctional
+40 association and that provides the services that are required of the
+41 facility by this chapter.
+42 [(b) DOES NOT INCLUDE A SECURE BEHAVIORAL HEALTH RESIDENTIAL
+43 FACILITY THAT PROVIDES SERVICES ONLY TO PERSONS PLACED IN THE FACILITY
+44 PURSUANT TO A COURT ORDER ISSUED PURSUANT TO SECTION 36-550.09.]
+-4-
+
+House Amendments to S.B. 1242
+1 29. "Outpatient treatment" or "combined inpatient and outpatient
+2 treatment" means any treatment program [THAT DOES] not [requiring]
+3 [REQUIRE] continuous inpatient hospitalization.
+4 30. "Outpatient treatment plan" means a treatment plan that does
+5 not require continuous inpatient hospitalization.
+6 31. "Patient" means any person who is undergoing examination,
+7 evaluation or behavioral or mental health treatment under this chapter.
+8 32. "Peace officers" means sheriffs of counties, constables,
+9 marshals and policemen of cities and towns.
+10 33. "Persistent or acute disability" means a severe mental disorder
+11 that meets all the following criteria:
+12 (a) Significantly impairs judgment, reason, behavior or capacity to
+13 recognize reality.
+14 (b) If not treated, has a substantial probability of causing the
+15 person to suffer or continue to suffer severe and abnormal mental,
+16 emotional or physical harm.
+17 (c) Substantially impairs the person's capacity to make an informed
+18 decision regarding treatment, and this impairment causes the person to be
+19 incapable of understanding and expressing an understanding of the
+20 advantages and disadvantages of accepting treatment and understanding and
+21 expressing an understanding of the alternatives to the particular
+22 treatment offered after the advantages, disadvantages and alternatives are
+23 explained to that person.
+24 (d) Has a reasonable prospect of being treatable by outpatient,
+25 inpatient or combined inpatient and outpatient treatment.
+26 34. "Prepetition screening" means the review of each application
+27 requesting court-ordered evaluation, including an investigation of facts
+28 alleged in the application, an interview with each applicant and an
+29 interview, if possible, with the proposed patient. The purpose of the
+30 interview with the proposed patient is to assess the problem, explain the
+31 application and, when indicated, attempt to persuade the proposed patient
+32 to receive, on a voluntary basis, evaluation or other services.
+33 35. "Prescribed form" means a form established by a court or the
+34 rules of the administration in accordance with the laws of this state.
+35 36. "Professional" means a physician who is licensed pursuant to
+36 title 32, chapter 13 or 17, a psychologist who is licensed pursuant to
+37 title 32, chapter 19.1 or a psychiatric and mental health nurse
+38 practitioner who is certified pursuant to title 32, chapter 15.
+39 37. "Proposed patient" means a person for whom an application for
+40 evaluation has been made or a petition for court-ordered evaluation has
+41 been filed.
+42 38. "Prosecuting agency" means the county attorney, attorney
+43 general or city attorney who applied or petitioned for an evaluation or
+44 treatment pursuant to this chapter.
+45 39. "Psychiatric and mental health nurse practitioner" means a
+46 registered nurse practitioner as defined in section 32-1601 who has
+-5-
+
+House Amendments to S.B. 1242
+1 completed an adult or family psychiatric and mental health nurse
+2 practitioner program and who is certified as an adult or family
+3 psychiatric and mental health nurse practitioner by the state board of
+4 nursing.
+5 40. "Psychiatrist" means a licensed physician who has completed
+6 three years of graduate training in psychiatry in a program approved by
+7 the American medical association or the American osteopathic association.
+8 41. "Psychologist" means a person who is licensed under title 32,
+9 chapter 19.1 and who is experienced in the practice of clinical
+10 psychology.
+11 42. "Records" means all communications that are recorded in any
+12 form or medium and that relate to patient examination, evaluation or
+13 behavioral or mental health treatment. Records include medical records
+14 that are prepared by a health care provider or other providers. Records
+15 do not include:
+16 (a) Materials that are prepared in connection with utilization
+17 review, peer review or quality assurance activities, including records
+18 that a health care provider prepares pursuant to section 36-441, 36-445,
+19 36-2402 or 36-2917.
+20 (b) Recorded telephone and radio calls to and from a publicly
+21 operated emergency dispatch office relating to requests for emergency
+22 services or reports of suspected criminal activity.
+23 43. "Regional behavioral health authority" has the same meaning
+24 prescribed in section 36-3401.
+25 44. "Screening agency" means a health care agency that is licensed
+26 by the department and that provides those services required of the agency
+27 by this chapter.
+28 45. "Social worker" means a person who has completed two years of
+29 graduate training in social work in a program approved by the council of
+30 social work education and who has experience in mental health.
+31 46. "State hospital" means the Arizona state hospital.
+32 47. "Superintendent" means the superintendent of the state
+33 hospital.
+34 48. "Voluntary evaluation" means the ongoing collection and
+35 analysis of a person's medical, psychological, psychiatric and social
+36 conditions in order to initially determine if a health disorder exists and
+37 if there is a need for behavioral health services and, on an ongoing
+38 basis, to ensure that the person's service plan is designed to meet the
+39 person's and the person's family's current needs and long-term goals.>>
+40 Sec. 2. Section 36-505, Arizona Revised Statutes, is amended to
+41 read:
+42 36-505. Rights at hearing; virtual proceedings
+43 A. At all hearings conducted pursuant to this chapter, persons
+44 shall have the right to an analysis of their psychological condition by an
+45 independent evaluator.
+-6-
+
+House Amendments to S.B. 1242
+1 B. IN ANY PROCEEDING HELD PURSUANT TO THIS CHAPTER, THE COURT, ON
+2 ITS OWN OR FOR GOOD CAUSE SHOWN BY A PARTY, MAY ORDER THE HEARING TO BE
+3 CONDUCTED OR [MAY ALLOW] A WITNESS OR PARTY [MAY BE ALLOWED] TO APPEAR AND
+4 GIVE TESTIMONY VIRTUALLY THROUGH THE USE OF TELEPHONE, VIDEOCONFERENCING
+5 OR OTHER AUDIOVISUAL TECHNOLOGY IF THE COURT FINDS THAT THIS PROCEDURE
+6 WILL NOT UNFAIRLY PREJUDICE A PARTY OR WITNESS. IN DETERMINING WHETHER A
+7 PROCEEDING SHOULD BE CONDUCTED WHOLLY OR PARTIALLY WITH THE USE OF
+8 TELEPHONE, VIDEOCONFERENCING OR OTHER AUDIOVISUAL TECHNOLOGY, THE COURT
+9 SHALL CONSIDER THE INCONVENIENCE TO OR BURDEN ON A PARTY OR WITNESS TO
+10 ATTEND THE PROCEEDING IN PERSON AND THE ABILITY OF ALL PARTIES TO BE HEARD
+11 BY OTHER PARTIES IN ATTENDANCE, INCLUDING THE JUDICIAL OFFICER AND, IF
+12 APPLICABLE, THE CERTIFIED REPORTER OR AN ELECTRONIC RECORDING SYSTEM. THE
+13 SUPREME COURT MAY ADOPT RULES TO GOVERN THE PROCEDURES TO BE USED IN
+14 CONDUCTING PROCEEDINGS VIRTUALLY PURSUANT TO THIS CHAPTER.
+15 Sec. 3. Section 36-539, Arizona Revised Statutes, is amended to
+16 read:
+17 36-539. Conduct of hearing; record; transcript
+18 A. The medical director of the evaluation agency shall issue
+19 instructions to the physicians or the psychiatric and mental health nurse
+20 practitioner of the evaluation agency who is treating the proposed patient
+21 to take all reasonable precautions to ensure that at the time of the
+22 hearing the proposed patient is not so under the influence of or does not
+23 so suffer the effects of drugs, medication or other treatment as to be
+24 hampered in preparing for or participating in the hearing. If the
+25 proposed patient is being treated as an inpatient by the evaluation
+26 agency, the court at the time of the hearing shall be presented a record
+27 of all drugs, medication or other treatment that the person has received
+28 during the seventy-two hours immediately before the hearing.
+29 B. The patient and the patient's attorney shall be present at all
+30 hearings, and the patient's attorney may subpoena and cross-examine
+31 witnesses and present evidence. THE COURT, FOR GOOD CAUSE SHOWN, MAY
+32 ALLOW THE PATIENT, THE PATIENT'S ATTORNEY OR ANY WITNESS TO APPEAR AND
+33 PRESENT TESTIMONY IN OPEN COURT THROUGH THE USE OF TELEPHONE,
+34 VIDEOCONFERENCING OR OTHER AUDIOVISUAL TECHNOLOGY. The patient may choose
+35 to not attend the hearing or the patient's attorney may waive the
+36 patient's presence. The evidence presented by the petitioner or the
+37 patient shall include the testimony of two or more witnesses, regardless
+38 of the witnesses' professional licensure, if any, who observed or were
+39 acquainted with the patient at the time of the alleged mental disorder
+40 before the submission of the current application for evaluation pursuant
+41 to section 36-520 or, if after the submission of the current application,
+42 who were not formal participants in the evaluation process. The testimony
+43 of the witnesses shall be limited to observed facts and may not include
+44 expert opinion or conclusions. The witness testimony may be satisfied by
+45 a statement agreed on by the parties and testimony of the two physicians
+46 or other health professionals who participated in the evaluation of the
+-7-
+
+House Amendments to S.B. 1242
+1 patient pursuant to section 36-533, which may be satisfied by stipulating
+2 to the admission of the affidavits as required pursuant to section 36-533,
+3 subsection B. The evaluating physicians or other health professionals
+4 shall testify as to their personal observations of the patient. They
+5 shall also testify as to their opinions concerning whether the patient is,
+6 as a result of mental disorder, a danger to self or to others or has a
+7 persistent or acute disability or a grave disability and as to whether the
+8 patient requires treatment. Such testimony shall state specifically the
+9 nature and extent of the danger to self or to others, the persistent or
+10 acute disability or the grave disability. If the patient has a grave
+11 disability, the evaluating physicians or other health professionals shall
+12 testify concerning the need for guardianship or conservatorship, or both,
+13 and whether or not the need is for immediate appointment. Other persons
+14 who have participated in the evaluation of the patient or, if further
+15 treatment was requested by a mental health treatment agency, persons of
+16 that agency who are directly involved in the care of the patient shall
+17 testify at the request of the court or of the patient's attorney.
+18 Witnesses shall testify as to placement alternatives appropriate and
+19 available for the care and treatment of the patient. The clinical record
+20 of the patient for the current admission shall be available and may be
+21 presented in full or in part as evidence at the request of the court, the
+22 county attorney or the patient's attorney.
+23 C. If the patient, for medical or psychiatric reasons, is unable to
+24 be present at the hearing and cannot appear by other reasonably feasible
+25 means, the court shall require clear and convincing evidence that the
+26 patient is unable to be present at the hearing and on such a finding may
+27 proceed with the hearing in the patient's absence.
+28 D. The requirements of subsection B of this section are in addition
+29 to all rules of evidence and the Arizona rules of civil procedure, not
+30 inconsistent with subsection B of this section.
+31 E. A verbatim record of all proceedings under this section shall be
+32 made by stenographic means by a court reporter if a written request for a
+33 court reporter is made by any party to the proceedings at least
+34 twenty-four hours in advance of such proceedings. If stenographic means
+35 are not requested in the manner provided by this subsection, electronic
+36 means shall be directed by the presiding judge. The stenographic notes or
+37 electronic tape shall be retained as provided by statute.
+38 F. A patient who has been ordered to undergo treatment may request
+39 a certified transcript of the hearing. To obtain a copy, the patient
+40 shall pay for a transcript or shall file an affidavit that the patient is
+41 without means to pay for a transcript. If the affidavit is found true by
+42 the court, the expense of the transcript is a charge on the county in
+43 which the proceedings were held, or, if an intergovernmental agreement by
+44 the counties has required evaluation in a county other than that of the
+45 patient's residence, such expense may be charged to the county of the
+46 patient's residence or in which the patient was found before evaluation.
+-8-
+
+House Amendments to S.B. 1242
+1 <<Sec. 4. Section 36-540, Arizona Revised Statutes, is amended to
+2 read:
+3 36-540. Court options; immunity; rules
+4 A. If the court finds by clear and convincing evidence that the
+5 proposed patient, as a result of mental disorder, is a danger to self, is
+6 a danger to others or has a persistent or acute disability or a grave
+7 disability and is in need of treatment, and is either unwilling or unable
+8 to accept voluntary treatment, the court shall order the patient to
+9 undergo one of the following:
+10 1. Treatment in a program of outpatient treatment.
+11 2. Treatment in a program consisting of combined inpatient and
+12 outpatient treatment.
+13 3. Inpatient treatment in a mental health treatment agency, in a
+14 hospital operated by or under contract with the United States department
+15 of veterans affairs to provide treatment to eligible veterans pursuant to
+16 article 9 of this chapter, in the state hospital or in a private hospital,
+17 if the private hospital agrees, subject to the limitations of section
+18 36-541.
+19 B. The court shall consider all available and appropriate
+20 alternatives for the treatment and care of the patient. The court shall
+21 order the least restrictive treatment alternative available.
+22 C. The court may order the proposed patient to undergo outpatient
+23 [TREATMENT] or combined inpatient and outpatient treatment pursuant to
+24 subsection A, paragraph 1 or 2 of this section if the court:
+25 1. Determines that all of the following apply:
+26 (a) The patient does not require continuous inpatient
+27 hospitalization.
+28 (b) The patient will be more appropriately treated in an outpatient
+29 treatment program or in a combined inpatient and outpatient treatment
+30 program.
+31 (c) The patient will follow a prescribed outpatient treatment plan.
+32 (d) The patient will not likely become dangerous or suffer more
+33 serious physical harm or serious illness or further deterioration if the
+34 patient follows a prescribed outpatient treatment plan.
+35 2. Is presented with and approves a written treatment plan that
+36 conforms with the requirements of section 36-540.01, subsection B. [If
+37 the court determines that the patient meets the requirements of section
+38 36-550.09, the court may order the patient to be placed in a secure
+39 behavioral health residential facility that is licensed by the department
+40 pursuant to section 36-425.06.] If the treatment plan presented to the
+41 court pursuant to this subsection provides for supervision of the patient
+42 under court order by a mental health [TREATMENT] agency that is other than
+43 the mental health [TREATMENT] agency that petitioned or requested the
+44 county attorney to petition the court for treatment pursuant to section
+45 36-531, the treatment plan must be approved by the medical director of the
+-9-
+
+House Amendments to S.B. 1242
+1 mental health [TREATMENT] agency that will supervise the treatment
+2 pursuant to subsection E of this section.
+3 D. An order to receive treatment pursuant to subsection A,
+4 paragraph 1 or 2 of this section shall not exceed three hundred sixty-five
+5 days. The period of inpatient treatment under a combined [INPATIENT AND
+6 OUTPATIENT] treatment order pursuant to subsection A, paragraph 2 of this
+7 section shall not exceed the maximum period allowed for an order for
+8 inpatient treatment pursuant to subsection F of this section.
+9 E. If the court enters an order for treatment pursuant to
+10 subsection A, paragraph 1 or 2 of this section, all of the following
+11 apply:
+12 1. The court shall designate the medical director of the mental
+13 health treatment agency that will supervise and administer the patient's
+14 treatment program.
+15 2. The medical director [OF THE MENTAL HEALTH TREATMENT AGENCY]
+16 shall not use the services of any person, agency or organization to
+17 supervise a patient's outpatient treatment program unless the person,
+18 agency or organization has agreed to provide these services in the
+19 individual patient's case and unless the department has determined that
+20 the person, agency or organization is capable and competent to do so.
+21 3. The person, agency or organization assigned to supervise an
+22 outpatient treatment program or the outpatient portion of a combined
+23 [INPATIENT AND OUTPATIENT] treatment program shall be notified at least
+24 three days before a referral. The medical director [OF THE MENTAL HEALTH
+25 TREATMENT AGENCY] making the referral and the person, agency or
+26 organization assigned to supervise the treatment program shall share
+27 relevant information about the patient to provide continuity of treatment.
+28 4. The court may order the medical director [OF THE MENTAL HEALTH
+29 TREATMENT AGENCY] to provide notice to the court of any noncompliance with
+30 the terms of a treatment order.
+31 [5. IF THE COURT DETERMINES THAT THE PATIENT MEETS THE REQUIREMENTS
+32 OF SECTION 36-550.09 AND ORDERS THE PATIENT TO BE PLACED IN A SECURE
+33 BEHAVIORAL HEALTH RESIDENTIAL FACILITY THAT IS LICENSED BY THE DEPARTMENT
+34 PURSUANT TO SECTION 36-425.06, THE MENTAL HEALTH TREATMENT AGENCY THAT
+35 WILL SUPERVISE THE TREATMENT PURSUANT TO THIS SUBSECTION AND THE SECURE
+36 BEHAVIORAL HEALTH RESIDENTIAL FACILITY SHALL COORDINATE THE CARE OF THE
+37 PATIENT PURSUANT TO RULES ADOPTED BY THE DEPARTMENT OR AS REQUIRED BY THE
+38 ADMINISTRATION.]
+39 [5.] [6.] During any period of outpatient treatment under
+40 subsection A, paragraph 2 of this section, if the court, on its own
+41 motion, on request of a guardian pursuant to paragraph [7] [8] of this
+42 subsection or on motion by the medical director of the patient's
+43 outpatient mental health treatment facility, determines that the patient
+44 is not complying with the terms of the order or that the outpatient
+45 treatment plan is no longer appropriate and the patient needs inpatient
+46 treatment, the court, without a hearing and based on the court record, the
+-10-
+
+House Amendments to S.B. 1242
+1 patient's medical record, the affidavits and recommendations of the
+2 medical director [OF THE MENTAL HEALTH TREATMENT AGENCY], and the advice
+3 of staff and physicians or the psychiatric and mental health nurse
+4 practitioner familiar with the treatment of the patient, may enter an
+5 order amending its original order. The amended order may alter the
+6 outpatient treatment plan or order the patient to inpatient treatment
+7 pursuant to subsection A, paragraph 3 of this section. The amended order
+8 shall not increase the total period of commitment originally ordered by
+9 the court or, when added to the period of inpatient treatment provided by
+10 the original order and any other amended orders, exceed the maximum period
+11 allowed for an order for inpatient treatment pursuant to subsection F of
+12 this section. If the patient refuses to comply with an amended order for
+13 inpatient treatment, the court, on its own motion or on the request of the
+14 medical director [OF THE MENTAL HEALTH TREATMENT AGENCY], may authorize
+15 and direct a peace officer to take the patient into protective custody and
+16 transport the patient to the [MENTAL HEALTH TREATMENT] agency for
+17 inpatient treatment. Any authorization, directive or order issued to a
+18 peace officer to take the patient into protective custody shall include
+19 the patient's criminal history and the name and telephone numbers of the
+20 patient's case manager, guardian, spouse, next of kin or significant
+21 other, as applicable. When reporting to or being returned to a [MENTAL
+22 HEALTH] treatment agency for inpatient treatment pursuant to an amended
+23 order, the patient shall be informed of the patient's right to judicial
+24 review and the patient's right to consult with counsel pursuant to section
+25 36-546.
+26 [6.] [7.] During any period of outpatient treatment under
+27 subsection A, paragraph 2 of this section, if the medical director of the
+28 outpatient treatment facility in charge of the patient's care determines,
+29 in concert with the medical director of an inpatient mental health
+30 treatment facility who has agreed to accept the patient, that the patient
+31 is in need of immediate acute inpatient psychiatric care because of
+32 behavior that is dangerous to self or to others, the medical director of
+33 the outpatient treatment facility may order a peace officer to apprehend
+34 and transport the patient to the inpatient treatment facility pending a
+35 court determination on an amended order under paragraph [5 ] [6] of this
+36 subsection. The patient may be detained and treated at the inpatient
+37 treatment facility for a period of not more than forty-eight hours,
+38 [exclusive of] [EXCLUDING] weekends and holidays, from the time that the
+39 patient is taken to the inpatient treatment facility. The medical
+40 director of the outpatient treatment facility shall file the motion for an
+41 amended court order requesting inpatient treatment not later than the next
+42 working day following the patient being taken to the inpatient treatment
+43 facility. Any period of detention within the inpatient treatment facility
+44 pending issuance of an amended order shall not increase the total period
+45 of commitment originally ordered by the court or, when added to the period
+46 of inpatient treatment provided by the original order and any other
+-11-
+
+House Amendments to S.B. 1242
+1 amended orders, exceed the maximum period allowed for an order for
+2 inpatient treatment pursuant to subsection F of this section. If a
+3 patient is ordered to undergo inpatient treatment pursuant to an amended
+4 order, the medical director of the outpatient treatment facility shall
+5 inform the patient of the patient's right to judicial review and to
+6 consult with an attorney pursuant to section 36-546.
+7 [7.] [8.] If there is a court order for treatment and a
+8 guardianship with additional mental health authority pursuant to section
+9 14-5312.01 existing at the same time, the treatment and placement
+10 decisions made by the [MENTAL HEALTH] treatment agency assigned by the
+11 court to supervise and administer the patient's treatment program pursuant
+12 to the court order for treatment are controlling unless the court orders
+13 otherwise. During any period of outpatient treatment, the guardian of a
+14 patient may file a report with the court that addresses whether the
+15 patient is complying with the terms of the order, whether the outpatient
+16 treatment plan is still appropriate and whether the patient needs
+17 inpatient treatment. The report shall state in detail the facts on which
+18 the guardian relies and may include other supporting documents. A copy of
+19 the report and other supporting documents shall be given to the patient's
+20 attorney and the outpatient [MENTAL HEALTH] treatment agency. After
+21 reviewing the report and any supporting documents filed with the report,
+22 if the court determines that there is reasonable cause to believe that the
+23 patient is not complying with the terms of the order, that the outpatient
+24 treatment plan is no longer appropriate or that the patient needs
+25 inpatient treatment, the court must set a conference or a hearing or take
+26 other action described in paragraph [5 ] [6] of this subsection.
+27 F. The maximum periods of inpatient treatment that the court may
+28 order, subject to the limitations of section 36-541, subsection D, are as
+29 follows:
+30 1. Ninety days for a person found to be a danger to self.
+31 2. One hundred eighty days for a person found to be a danger to
+32 others.
+33 3. One hundred eighty days for a person found to have a persistent
+34 or acute disability.
+35 4. Three hundred sixty-five days for a person found to have a grave
+36 disability.
+37 G. If, on finding that the patient meets the criteria for
+38 court-ordered treatment pursuant to subsection A of this section, the
+39 court also finds that there is reasonable cause to believe that the
+40 patient is an incapacitated person as defined in section 14-5101 or is a
+41 person in need of protection pursuant to section 14-5401 and that the
+42 patient is or may be in need of guardianship or conservatorship, or both,
+43 the court may order an investigation concerning the need for a guardian or
+44 conservator, or both, and may appoint a suitable person or agency to
+45 conduct the investigation. The appointee may include a court-appointed
+46 guardian ad litem, an investigator appointed pursuant to section 14-5308
+-12-
+
+House Amendments to S.B. 1242
+1 or the public fiduciary if there is no person willing and qualified to act
+2 in that capacity. The court shall give notice of the appointment to the
+3 appointee within three days after the appointment. The appointee shall
+4 submit the report of the investigation to the court within twenty-one
+5 days. The report shall include recommendations as to who should be
+6 guardian or who should be conservator, or both, and a report of the
+7 findings and reasons for the recommendation. If the investigation and
+8 report so indicate, the court shall order the appropriate person to submit
+9 a petition to become the guardian or conservator, or both, of the patient.
+10 H. In any proceeding for court-ordered treatment in which the
+11 petition alleges that the patient is in need of a guardian or conservator
+12 and states the grounds for that allegation, the court may appoint an
+13 emergency temporary guardian or conservator, or both, for a specific
+14 purpose or purposes identified in its order and for a specific period of
+15 time not to exceed thirty days if the court finds that all of the
+16 following are true:
+17 1. The patient meets the criteria for court-ordered treatment
+18 pursuant to subsection A of this section.
+19 2. There is reasonable cause to believe that the patient is an
+20 incapacitated person as defined in section 14-5101 or is in need of
+21 protection pursuant to section 14-5401, paragraph 2.
+22 3. The patient does not have a guardian or conservator and the
+23 welfare of the patient requires immediate action to protect the patient or
+24 the ward's property.
+25 4. The conditions prescribed pursuant to section 14-5310,
+26 subsection B or section 14-5401.01, subsection B have been met.
+27 I. The court may appoint as a temporary guardian or conservator
+28 pursuant to subsection H of this section a suitable person or the public
+29 fiduciary if there is no person qualified and willing to act in that
+30 capacity. The court shall issue an order for an investigation as
+31 prescribed pursuant to subsection G of this section and, unless the
+32 patient is represented by independent counsel, the court shall appoint an
+33 attorney to represent the patient in further proceedings regarding the
+34 appointment of a guardian or conservator. The court shall schedule a
+35 further hearing within fourteen days on the appropriate court calendar of
+36 a court that has authority over guardianship or conservatorship matters
+37 pursuant to this title to consider the continued need for an emergency
+38 temporary guardian or conservator and the appropriateness of the temporary
+39 guardian or conservator appointed, and shall order the appointed guardian
+40 or conservator to give notice to persons entitled to notice pursuant to
+41 section 14-5309, subsection A or section 14-5405, subsection A. The court
+42 shall authorize certified letters of temporary emergency guardianship or
+43 conservatorship to be issued on presentation of a copy of the court's
+44 order. If a temporary emergency conservator other than the public
+45 fiduciary is appointed pursuant to this subsection, the court shall order
+46 that the use of the monies and property of the patient by the conservator
+-13-
+
+House Amendments to S.B. 1242
+1 be restricted and not be sold, used, transferred or encumbered, except
+2 that the court may authorize the conservator to use monies or property of
+3 the patient specifically identified as needed to pay an expense to provide
+4 for the care, treatment or welfare of the patient pending further hearing.
+5 This subsection and subsection H of this section do not:
+6 1. Prevent the evaluation [AGENCY] or [MENTAL HEALTH] treatment
+7 agency from seeking guardianship and conservatorship in any other manner
+8 allowed by law at any time during the period of court-ordered evaluation
+9 and treatment.
+10 2. Relieve the evaluation [AGENCY] or [MENTAL HEALTH] treatment
+11 agency from its obligations concerning the suspected abuse of a vulnerable
+12 adult pursuant to title 46, chapter 4.
+13 J. If, on finding that a patient meets the criteria for
+14 court-ordered treatment pursuant to subsection A of this section, the
+15 court also learns that the patient has a guardian appointed under title
+16 14, the court with notice may impose on the existing guardian additional
+17 duties pursuant to section 14-5312.01. If the court imposes additional
+18 duties on an existing guardian as prescribed in this subsection, the court
+19 may determine that the patient needs to continue treatment under a court
+20 order for treatment and may issue the order or determine that the
+21 patient's needs can be adequately met by the guardian with the additional
+22 duties pursuant to section 14-5312.01 and decline to issue the court order
+23 for treatment. If at any time after the issuance of a court order for
+24 treatment the court finds that the patient's needs can be adequately met
+25 by the guardian with the additional duties pursuant to section 14-5312.01
+26 and that a court order for treatment is no longer necessary to ensure
+27 compliance with necessary treatment, the court may terminate the court
+28 order for treatment.
+29 K. The court shall file a report as part of the court record on its
+30 findings of alternatives for treatment.
+31 L. Treatment shall not include psychosurgery, lobotomy or any other
+32 brain surgery without specific informed consent of the patient or the
+33 patient's legal guardian and an order of the superior court in the county
+34 in which the treatment is proposed, approving with specificity the use of
+35 the treatment.
+36 M. The medical director [OF A MENTAL HEALTH TREATMENT AGENCY] or
+37 any person, agency or organization used by the medical director [OF A
+38 MENTAL HEALTH TREATMENT AGENCY] to supervise the terms of an outpatient
+39 treatment plan is not civilly liable for any acts committed by a patient
+40 while on outpatient treatment if the medical director [OF THE MENTAL
+41 HEALTH TREATMENT AGENCY], person, agency or organization has in good faith
+42 followed the requirements of this section.
+43 N. A peace officer who in good faith apprehends and transports a
+44 patient to an inpatient treatment facility on the order of the medical
+45 director of the outpatient treatment facility pursuant to subsection E,
+46 paragraph [6 ] [7] of this section is not subject to civil liability.
+-14-
+
+House Amendments to S.B. 1242
+1 O. If a person has been found, as a result of a mental disorder, to
+2 constitute a danger to self or others or to have a persistent or acute
+3 disability or a grave disability and the court enters an order for
+4 treatment pursuant to subsection A of this section, the court shall
+5 transmit the person's name, sex, date of birth, social security number, if
+6 available, and date of the order for treatment to the supreme court. The
+7 supreme court shall transmit the information to the department of public
+8 safety to comply with the requirements of title 13, chapter 31 and title
+9 32, chapter 26. The department of public safety shall transmit the
+10 information to the national instant criminal background check system. The
+11 superior court may access the information of a person who is ordered into
+12 treatment to enforce or facilitate a treatment order.
+13 P. On request, the clerk of the court shall provide certified
+14 copies of the commitment order to a law enforcement or prosecuting agency
+15 that is investigating or prosecuting a prohibited possessor as defined in
+16 section 13-3101.
+17 Q. If the court does not find a person to be in need of treatment
+18 and a prosecutor filed a petition pursuant to section 13-4517, the
+19 evaluation agency, within twenty-four hours, shall notify the prosecuting
+20 agency of its finding. The court shall order the medical director [OF THE
+21 EVALUATION AGENCY] to detain the person for an additional twenty-four
+22 hours to allow the prosecuting agency to be notified. If the court has
+23 retained jurisdiction pursuant to section 13-4517, subsection C, the court
+24 may remand the person to the custody of the sheriff for further
+25 disposition pursuant to section 13-4517, subsection A, paragraph 2 or 3.
+26 R. After an order for treatment has been issued pursuant to this
+27 section, the superior court in a county where a patient under a court
+28 order for treatment is found or resides has concurrent jurisdiction with
+29 the court in the county that issued the court order for treatment for the
+30 purposes of enforcing the court order for treatment, ordering changes to
+31 the treatment plan or amending the order to require the patient to undergo
+32 further inpatient treatment. If the court in which proceedings are
+33 commenced to enforce or administer the order for treatment is not the
+34 court that originally entered the order for treatment, unless prevented by
+35 an emergency, the court in which the proceedings are pending shall consult
+36 with the court of original entry and determine whether to hold hearings
+37 and enter orders to facilitate enforcement or administration of the court
+38 order, whether to refer the case back to the court of original entry for
+39 further proceedings or whether to transfer the entire case to the court of
+40 original entry in that county for all further proceedings. The supreme
+41 court may adopt rules to govern the procedures to be used in enforcing and
+42 administering court orders for treatment in the various counties of this
+43 state and the transfer of cases between counties involving court orders
+44 for treatment.
+45 S. Pursuant to the authority granted in subsection R of this
+46 section, for the purpose of enforcing or facilitating treatment of a
+-15-
+
+House Amendments to S.B. 1242
+1 patient under an active order for treatment, the supreme court shall adopt
+2 a rule to establish a program to enable the judges of the superior court,
+3 county attorneys, patients' attorneys, health care institutions as defined
+4 in section 36-401 that provide services subject to the emergency medical
+5 treatment and labor act (P.L. 99-272; 100 Stat. 164; 42 United States Code
+6 section 1395dd), the regional behavioral health authority and behavioral
+7 health service providers in any county to determine the existence of an
+8 active court order for treatment and the history of court orders for
+9 treatment entered for a patient by a superior court in any county in this
+10 state. The program shall ensure that the information shared with other
+11 persons or entities is necessary only for the purposes stated in this
+12 subsection and shall require that the information shared be maintained as
+13 confidential by the receiving person or entity.>>
+14 Sec. 5. Section 36-543, Arizona Revised Statutes, is amended to
+15 read:
+16 36-543. Annual review; patients with a grave disability or a
+17 persistent or acute disability; notice; court order
+18 for continued treatment; rules; immunity
+19 A. Within ninety days before the expiration of a court order for
+20 treatment, the medical director of the mental health treatment agency
+21 shall conduct an annual review of a patient who has been found to have a
+22 grave disability or a persistent or acute disability and who is undergoing
+23 court-ordered treatment to determine whether the continuation of
+24 court-ordered treatment is appropriate and to assess the needs of the
+25 patient for guardianship or conservatorship, or both. The annual review
+26 shall consist of the mental health treatment and clinical records
+27 contained in the patient's treatment file. The mental health treatment
+28 agency shall keep a record of the annual review. If the medical director
+29 OF THE MENTAL HEALTH TREATMENT AGENCY believes that a continuation of
+30 court-ordered treatment is appropriate, the medical director of the mental
+31 health treatment agency shall appoint one or more psychiatrists to carry
+32 out a psychiatric examination of the patient. In any proceeding conducted
+33 pursuant to this section, a patient has the right to have an analysis of
+34 the patient's mental condition by an independent evaluation pursuant to
+35 section 36-538.
+36 B. Each examiner participating in the psychiatric examination of
+37 the patient shall submit a report to the medical director of the mental
+38 health treatment agency that includes the following:
+39 1. The examiner's opinions as to whether the patient continues to
+40 have a grave disability or a persistent or acute disability as the result
+41 of a mental disorder and be in need of continued court-ordered
+42 treatment. In evaluating the patient's need for continued court-ordered
+43 treatment, the examiner must consider, along with all other evidence, the
+44 patient's history before and during the current period of court-ordered
+45 treatment, the patient's compliance with recommended treatment and any
+-16-
+
+House Amendments to S.B. 1242
+1 other evidence relevant to the patient's ability and willingness to follow
+2 recommended treatment with or without a court order.
+3 2. A statement as to whether suitable alternatives to court-ordered
+4 treatment are available.
+5 3. A statement as to whether voluntary treatment would be
+6 appropriate.
+7 4. A review of the patient's status as to guardianship or
+8 conservatorship, or both, the adequacy of existing protections of the
+9 patient and the continued need for guardianship or conservatorship, or
+10 both. If the examiner concludes that the patient's needs in these areas
+11 are not being adequately met, the examiner's report shall recommend that
+12 the court order an investigation into the patient's needs.
+13 5. If the patient has an existing guardian who does not have the
+14 mental health powers authorized pursuant to section 14-5312.01, a
+15 recommendation as to whether the additional mental health powers
+16 authorized by section 14-5312.01 should be imposed on the existing
+17 guardian and whether the patient's needs can be adequately addressed by a
+18 guardian with mental health powers without the need for a court order for
+19 treatment or whether the court order for treatment should continue
+20 regardless of the additional mental health powers imposed on the guardian.
+21 6. The results of any physical examination conducted during the
+22 period of court-ordered treatment if relevant to the psychiatric condition
+23 of the patient.
+24 C. After conducting the annual review as prescribed in this
+25 section, if the medical director OF THE MENTAL HEALTH TREATMENT AGENCY
+26 believes that continued court-ordered treatment is necessary or
+27 appropriate, not later than thirty days before the expiration of the court
+28 order for treatment, the medical director OF THE MENTAL HEALTH TREATMENT
+29 AGENCY shall file with the court an application for continued
+30 court-ordered treatment alleging the basis for the application and shall
+31 file simultaneously with the application any psychiatric examination
+32 conducted as part of the annual review. If the patient is under
+33 guardianship, the medical director OF THE MENTAL HEALTH TREATMENT AGENCY
+34 shall mail a copy of the application to the patient's guardian.
+35 D. If an application for continued court-ordered treatment is
+36 filed, all of the following apply:
+37 1. If the patient does not have an attorney, the court shall
+38 appoint an attorney to represent the patient.
+39 2. Within ten days after appointment, an attorney appointed
+40 pursuant to this subsection, to the extent possible, shall fulfill the
+41 duties imposed pursuant to section 36-537, review the medical director's
+42 report OF THE MEDICAL DIRECTOR OF THE MENTAL HEALTH TREATMENT AGENCY and
+43 the patient's medical records, interview any physician who prepared a
+44 report on the annual review and file a response requesting a hearing or
+45 submitting the matter to the court for a ruling based on the record
+46 without a hearing.
+-17-
+
+House Amendments to S.B. 1242
+1 3. If a hearing is not requested, the court shall rule on the
+2 application or set the matter for hearing. If a hearing is requested, the
+3 hearing shall be held within three weeks after the request for hearing is
+4 filed. The hearing may be continued for good cause on motion of a party
+5 or on the court's own motion, and the expiration of the current court
+6 order for treatment may be extended until a ruling by the court on an
+7 application filed pursuant to this subsection.
+8 4. The patient's attorney must be present at all hearings and may
+9 subpoena and cross-examine witnesses and present evidence. The patient
+10 has the right to attend all hearings, but may choose not to attend a
+11 hearing. The patient's attorney may waive the patient's presence after
+12 speaking with the patient and confirming that the patient understands the
+13 right to be present and does not desire to attend. If the patient is
+14 unable to be present at the hearing for medical or psychiatric reasons and
+15 the hearing cannot be conducted where the patient is being treated or
+16 confined, or the patient cannot appear by another reasonably feasible
+17 means, the court shall require clear and convincing evidence that the
+18 patient is unable to be present at the hearing and on such a finding may
+19 proceed with the hearing in the patient's absence.
+20 5. The evidence presented by the applicant includes the testimony
+21 of one or more witnesses acquainted with the patient during the period of
+22 court-ordered treatment, which may be satisfied by a statement agreed on
+23 by the parties, and the testimony of any physician who performed an annual
+24 review of the patient, which may be satisfied by stipulating to the
+25 admission of the examining physicians' written report prepared pursuant to
+26 subsection B of this section. The court may waive the need for the
+27 applicant to present the testimony of witnesses acquainted with the
+28 patient as required by this subsection, if it finds that the need for a
+29 continued court order for treatment has been established by clear and
+30 convincing evidence from the other testimony and evidence presented at the
+31 hearing. THE COURT, FOR GOOD CAUSE SHOWN, MAY ALLOW THE PATIENT, THE
+32 PATIENT'S ATTORNEY OR ANY WITNESS TO APPEAR AND PRESENT TESTIMONY IN OPEN
+33 COURT THROUGH THE USE OF TELEPHONE, VIDEOCONFERENCING OR OTHER AUDIOVISUAL
+34 TECHNOLOGY.
+35 6. At a hearing held pursuant to this subsection, the court, with
+36 notice, may impose on an existing guardian additional powers pursuant to
+37 section 14-5312.01. If the court finds that the patient's needs can be
+38 adequately met by an existing guardian with the additional powers pursuant
+39 to section 14-5312.01 and that a court order for treatment is not
+40 necessary to ensure compliance with necessary treatment, the court may
+41 terminate the court order for treatment or decline to issue an order
+42 continuing court-ordered treatment. The court may also order an
+43 investigation into the need for guardianship or conservatorship, or both,
+44 and may appoint a suitable person or agency to conduct the investigation.
+45 The appointee may include a court-appointed guardian ad litem, a
+46 court-appointed investigator pursuant to section 14-5308 or the public
+-18-
+
+House Amendments to S.B. 1242
+1 fiduciary if there is no person willing and qualified to act in that
+2 capacity. The court shall give notice of the appointment to the appointee
+3 within three days after the appointment. The appointee shall submit the
+4 report of the investigation to the court within twenty-one days. The
+5 report shall include recommendations as to who should be guardian or
+6 conservator, or both, and the findings and reasons for the recommendation.
+7 If the investigation and report so indicate, the court may authorize an
+8 appropriate person to file a petition for appointment of a guardian or
+9 conservator for the patient.
+10 E. If a hearing is held pursuant to subsection D of this section,
+11 the party seeking the renewal of the court order must prove all of the
+12 following by clear and convincing evidence:
+13 1. The patient continues to have a mental disorder and, as a result
+14 of that disorder, has either a persistent or acute disability or a grave
+15 disability.
+16 2. The patient is in need of continued court-ordered treatment.
+17 3. The patient is either unwilling or unable to accept treatment
+18 voluntarily.
+19 F. After a hearing held pursuant to subsection D of this section,
+20 the court may order the patient to be released from court-ordered
+21 treatment or to undergo continued court-ordered treatment for a period not
+22 to exceed the time periods prescribed in section 36-540, subsection D.
+23 G. The director shall create and operate a program to ensure that
+24 the examination and review of persons with grave disabilities or
+25 persistent or acute disabilities under court order are carried out in an
+26 effective and timely manner. The director shall adopt rules needed to
+27 operate this program.
+28 H. The medical director of the mental health treatment agency is
+29 not civilly liable for any acts committed by the released patient if the
+30 medical director OF THE MENTAL HEALTH TREATMENT AGENCY has in good faith
+31 complied with the requirements of this article.
+32 <<Sec. 6. Section 36-550.09, Arizona Revised Statutes, is amended
+33 to read:
+34 36-550.09. Secure behavioral health residential facilities;
+35 court determination; findings
+36 A. If a court finds that a patient meets the criteria for
+37 court-ordered treatment pursuant to section 36-540, subsection A, the
+38 court may approve the patient's placement in a secure behavioral health
+39 residential facility that is licensed by the department pursuant to
+40 section 36-425.06 and that is willing to accept the patient if the patient
+41 has been determined to be seriously mentally ill and the court finds that
+42 the patient is chronically resistant to treatment as set forth in this
+43 section. Placement in a [LICENSED] secure behavioral health residential
+44 facility for treatment is not a period of inpatient treatment for the
+45 purposes of section 36-540, subsection F.
+-19-
+
+House Amendments to S.B. 1242
+1 B. A court may determine that a person is chronically resistant to
+2 treatment if the court finds that, within twenty-four months before the
+3 issuance of a court order pursuant to this section, excluding any time
+4 during this period that the person was hospitalized or incarcerated, the
+5 person demonstrated a persistent or recurrent unwillingness or inability
+6 to participate in or adhere to treatment for a mental disorder despite
+7 having treatment offered, prescribed, recommended or ordered to improve
+8 the person's condition or to prevent a relapse or harmful deterioration of
+9 the person's condition. The court's finding shall be based on evidence
+10 that establishes all of the following by clear and convincing evidence:
+11 1. The person received treatment in the preceding twenty-four
+12 months in other less-restrictive settings, including unsecured residential
+13 treatment settings with on-site twenty-four-hour supportive treatment and
+14 supervision by staff with behavioral health training, and the treatment
+15 was unsuccessful or is not likely to be successful due to the person's
+16 expressed or demonstrated unwillingness to cooperate with treatment in
+17 other less-restrictive or unsecured residential treatment settings.
+18 2. The person's nonadherence to or nonparticipation in treatment
+19 over the preceding twenty-four months resulted in one or more of the
+20 following:
+21 (a) Serious harm to self.
+22 (b) Serious harm or threats of serious harm to others.
+23 (c) Recurrent periods of homelessness resulting from the mental
+24 disorder.
+25 (d) Recurrent serious medical problems due to poor self-care or
+26 failure to follow medical treatment recommendations.
+27 (e) Recurrent arrests due to behavior resulting from the mental
+28 disorder.
+29 3. Any other evidence relevant to the person's willingness or
+30 ability to participate in and adhere to treatment or the person's need for
+31 treatment in a licensed secure residential setting to ensure the person's
+32 compliance with court-ordered treatment.
+33 C. A person's placement in a licensed secure behavioral health
+34 residential facility for treatment shall be part of the written treatment
+35 plan [THAT CONFORMS TO THE REQUIREMENTS OF SECTION 36-540.01, SUBSECTION B
+36 AND THAT IS] presented to [THE COURT BY A MENTAL HEALTH TREATMENT AGENCY]
+37 and approved by the court [as required by section 36-540, subsection C,
+38 paragraph 2]. The court shall confirm in the order that the person's
+39 placement in a licensed secure behavioral health residential facility is
+40 the least restrictive environment to ensure the person's compliance with
+41 the treatment plan. [THE MENTAL HEALTH TREATMENT AGENCY THAT WILL
+42 SUPERVISE THE TREATMENT PURSUANT TO SECTION 36-540, SUBSECTION E AND THE
+43 LICENSED SECURE BEHAVIORAL HEALTH RESIDENTIAL FACILITY SHALL COORDINATE
+44 THE CARE OF THE PATIENT PURSUANT TO RULES ADOPTED BY THE DEPARTMENT OR AS
+45 REQUIRED BY THE ADMINISTRATION.
+-20-
+
+House Amendments to S.B. 1242
+1 D. A PERSON WHO IS PLACED IN A LICENSED SECURE BEHAVIORAL HEALTH
+2 RESIDENTIAL FACILITY MAY APPEAR AND PRESENT TESTIMONY IN OPEN COURT
+3 THROUGH THE USE OF TELEPHONE, VIDEOCONFERENCING OR OTHER AUDIOVISUAL
+4 TECHNOLOGY PURSUANT TO SECTION 36-505, SUBSECTION B.]>>
+5 <<Sec. 7. Retroactivity
+6 [Sections 36-501, 36-540 and 36-550.09, Arizona Revised Statutes, as
+7 amended by this act, apply retroactively to from and after April 31,
+8 2025.]>>
+9 Enroll and engross to conform
+10 Amend title to conform
+SELINA BLISS
+1242FloorBLANK.docx
+04/22/2026
+12:33 PM
+C: MH
+130HGNGST
+1242FloorBLISS.docx
+04/28/2026
+08:28 AM
+H: AG/ls
+130HGNGST
+-21-
