@@ -1,0 +1,2817 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Commerce - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON COMMERCE
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2999
+(Reference to printed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 9-463.05, Arizona Revised Statutes, is amended
+3 to read:
+4 9-463.05. Development fees; imposition by cities and towns;
+5 infrastructure improvements plan; annual report;
+6 advisory committee; limitation on actions;
+7 definitions
+8 A. A municipality may assess development fees to offset costs to
+9 the municipality associated with providing necessary public services to a
+10 development, including the costs of infrastructure, improvements, real
+11 property, engineering and architectural services, financing and
+12 professional services required for the preparation or revision of a
+13 development fee pursuant to this section, including the relevant portion
+14 of the infrastructure improvements plan.
+15 B. Development fees assessed by a municipality under this section
+16 are subject to the following requirements:
+17 1. Development fees shall result in a beneficial use to the
+18 development.
+19 2. The municipality shall calculate the development fee based on
+20 the infrastructure improvements plan adopted pursuant to this section.
+21 3. The development fee shall not exceed a proportionate share of
+22 the cost of necessary public services, based on service units, needed to
+23 provide necessary public services to the development.
+24 4. Costs for necessary public services made necessary by new
+25 development shall be based on the same level of service provided to
+26 existing development in the service area.
+27 5. Development fees may not be used for any of the following:
+28 (a) Construction, acquisition or expansion of public facilities or
+29 assets other than necessary public services or facility expansions
+30 identified in the infrastructure improvements plan.
+31 (b) Repair, operation or maintenance of existing or new necessary
+32 public services or facility expansions.
+33 (c) Upgrading, updating, expanding, correcting or replacing
+34 existing necessary public services to serve existing development in order
+35 to meet stricter safety, efficiency, environmental or regulatory
+36 standards.
+37 (d) Upgrading, updating, expanding, correcting or replacing
+38 existing necessary public services to provide a higher level of service to
+39 existing development.
+
+House Amendments to H.B. 2999
+1 (e) Administrative, maintenance or operating costs of the
+2 municipality.
+3 6. Any development for which a development fee has been paid is
+4 entitled to the use and benefit of the services for which the fee was
+5 imposed and is entitled to receive immediate service from any existing
+6 facility with available capacity to serve the new service units if the
+7 available capacity has not been reserved or pledged in connection with the
+8 construction or financing of the facility.
+9 7. Development fees may be collected if any of the following
+10 occurs:
+11 (a) The collection is made to pay for a necessary public service or
+12 facility expansion that is identified in the infrastructure improvements
+13 plan and the municipality plans to complete construction and to have the
+14 service available within the time period established in the infrastructure
+15 improvement IMPROVEMENTS plan, but in no event longer than the time period
+16 provided in subsection H, paragraph 3 of this section.
+17 (b) The municipality reserves in the infrastructure improvements
+18 plan adopted pursuant to this section or otherwise agrees to reserve
+19 capacity to serve future development.
+20 (c) The municipality requires or agrees to allow the owner of a
+21 development to construct or finance the necessary public service or
+22 facility expansion and any of the following apply APPLIES:
+23 (i) The costs incurred or money advanced are credited against or
+24 reimbursed from the development fees otherwise due from a development.
+25 (ii) The municipality reimburses the owner for those costs from the
+26 development fees paid from all developments that will use those necessary
+27 public services or facility expansions.
+28 (iii) For those costs incurred the municipality allows the owner to
+29 assign the credits or reimbursement rights from the development fees
+30 otherwise due from a development to other developments for the same
+31 category of necessary public services in the same service area.
+32 8. Projected interest charges and other finance costs may be
+33 included in determining the amount of development fees only if the monies
+34 are used for the payment of principal and interest on the portion of the
+35 bonds, notes or other obligations issued to finance construction of
+36 necessary public services or facility expansions identified in the
+37 infrastructure improvements plan.
+38 9. Monies received from development fees assessed pursuant to this
+39 section shall be placed in a separate fund and accounted for separately
+40 and may only be used for the purposes authorized by this section. Monies
+41 received from a development fee identified in an infrastructure
+42 improvements plan adopted or updated pursuant to subsection D of this
+43 section shall be used to provide the same category of necessary public
+44 services or facility expansions for which the development fee was assessed
+45 and for the benefit of the same service area, as defined in the
+46 infrastructure improvements plan, in which the development fee was
+47 assessed. Interest earned on monies in the separate fund shall be
+48 credited to the fund.
+-2-
+
+House Amendments to H.B. 2999
+1 10. The schedule for payment of fees shall be provided by the
+2 municipality. Based on the cost identified in the infrastructure
+3 improvements plan, the municipality shall provide a credit toward the
+4 payment of a development fee for the required or agreed to dedication of
+5 public sites, improvements and other necessary public services or facility
+6 expansions included in the infrastructure improvements plan and for which
+7 a development fee is assessed, to the extent the public sites,
+8 improvements and necessary public services or facility expansions are
+9 provided by the developer, A COMMUNITY FACILITIES DISTRICT ESTABLISHED
+10 UNDER TITLE 48, CHAPTER 4, ARTICLE 6 OR AN INFRASTRUCTURE FINANCE DISTRICT
+11 ESTABLISHED UNDER TITLE 48, CHAPTER 40. The developer of residential
+12 dwelling units shall be required to pay development fees when construction
+13 permits for the dwelling units are issued, or at a later time if specified
+14 in a development agreement pursuant to section 9-500.05. If a development
+15 agreement provides for fees to be paid at a time later than the issuance
+16 of construction permits, the deferred fees shall be paid no NOT later than
+17 fifteen days after the issuance of a certificate of occupancy. The
+18 development agreement shall provide for the value of any deferred fees to
+19 be supported by appropriate security, including a surety bond, letter of
+20 credit or cash bond.
+21 11. If a municipality requires as a condition of development
+22 approval the construction or improvement of, contributions to or
+23 dedication of any facilities that were not included in a previously
+24 adopted infrastructure improvements plan, the municipality shall cause the
+25 infrastructure improvements plan to be amended to include the facilities
+26 and shall provide a credit toward the payment of a development fee for the
+27 construction, improvement, contribution or dedication of the facilities to
+28 the extent that the facilities will substitute for or otherwise reduce the
+29 need for other similar facilities in the infrastructure improvements plan
+30 for which development fees were assessed.
+31 12. The municipality shall forecast the contribution to be made in
+32 the future in cash or by taxes, fees, assessments or other sources of
+33 revenue derived from the property owner towards the capital costs of the
+34 necessary public service covered by the development fee and shall include
+35 these contributions in determining the extent of the burden imposed by the
+36 development. Beginning August 1, 2014, for purposes of calculating the
+37 required offset to development fees pursuant to this subsection, if a
+38 municipality imposes a construction contracting or similar excise tax rate
+39 in excess of the percentage amount of the transaction privilege tax rate
+40 imposed on the majority of other transaction privilege tax
+41 classifications, the entire excess portion of the construction contracting
+42 or similar excise tax shall be treated as a contribution to the capital
+43 costs of necessary public services provided to development for which
+44 development fees are assessed, unless the excess portion was already taken
+45 into account for such purpose pursuant to this subsection.
+46 13. If development fees are assessed by a municipality, the fees
+47 shall be assessed against commercial, residential and industrial
+48 development, except that the municipality may distinguish between
+49 different categories of residential, commercial and industrial development
+-3-
+
+House Amendments to H.B. 2999
+1 in assessing the costs to the municipality of providing necessary public
+2 services to new development and in determining the amount of the
+3 development fee applicable to the category of development. If a
+4 municipality agrees to waive any of the development fees assessed on a
+5 development, the municipality shall reimburse the appropriate development
+6 fee accounts for the amount that was waived. The municipality shall
+7 provide notice of any such waiver to the advisory committee established
+8 pursuant to subsection G of this section within thirty days.
+9 14. In determining and assessing a development fee applying to land
+10 in a community facilities district established under title 48, chapter 4,
+11 article 6 OR AN INFRASTRUCTURE FINANCE DISTRICT ESTABLISHED UNDER TITLE
+12 48, CHAPTER 40, the municipality shall take into account all public
+13 infrastructure provided by the district and capital costs paid by the
+14 district for necessary public services and shall not assess a portion of
+15 the development fee based on the infrastructure or costs.
+16 C. A municipality shall give at least thirty days' advance notice
+17 of intention to assess a development fee and shall release to the public
+18 and post on its website or the website of an association of cities and
+19 towns if a municipality does not have a website a written report of the
+20 land use assumptions and infrastructure improvements plan adopted pursuant
+21 to subsection D of this section. The municipality shall conduct a public
+22 hearing on the proposed development fee at any time after the expiration
+23 of the thirty day THIRTY-DAY notice of intention to assess a development
+24 fee and at least thirty days before the scheduled date of adoption of the
+25 fee by the governing body. Within sixty days after the date of the public
+26 hearing on the proposed development fee, a municipality shall approve or
+27 disapprove the imposition of the development fee. A municipality shall
+28 not adopt an ordinance, order or resolution approving a development fee as
+29 an emergency measure. A development fee assessed pursuant to this section
+30 shall not be effective until seventy-five days after its formal adoption
+31 by the governing body of the municipality. Nothing in this subsection
+32 shall affect any development fee adopted before July 24, 1982.
+33 D. Before the adoption or amendment of a development fee, the
+34 governing body of the municipality shall adopt or update the land use
+35 assumptions and infrastructure improvements plan for the designated
+36 service area. The municipality shall conduct a public hearing on the land
+37 use assumptions and infrastructure improvements plan at least thirty days
+38 before the adoption or update of the plan. The municipality shall release
+39 the plan to the public, post the plan on its website or the website of an
+40 association of cities and towns if the municipality does not have a
+41 website, including in the posting its land use assumptions, the time
+42 period of the projections, a description of the necessary public services
+43 included in the infrastructure improvements plan and a map of the service
+44 area to which the land use assumptions apply, make available to the public
+45 the documents used to prepare the assumptions and plan and provide public
+46 notice at least sixty days before the public hearing, subject to the
+47 following:
+48 1. The land use assumptions and infrastructure improvements plan
+49 shall be approved or disapproved within sixty days after the public
+-4-
+
+House Amendments to H.B. 2999
+1 hearing on the land use assumptions and infrastructure improvements plan
+2 and at least thirty days before the public hearing on the report required
+3 by subsection C of this section. A municipality shall not adopt an
+4 ordinance, order or resolution approving the land use assumptions or
+5 infrastructure improvements plan as an emergency measure.
+6 2. An infrastructure improvements plan shall be developed by
+7 qualified professionals using generally accepted engineering and planning
+8 practices pursuant to subsection E of this section.
+9 3. A municipality shall update the land use assumptions and
+10 infrastructure improvements plan at least every five years. The initial
+11 five year FIVE-YEAR period begins on the day the infrastructure
+12 improvements plan is adopted. The municipality shall review and evaluate
+13 its current land use assumptions and shall cause an update of the
+14 infrastructure improvements plan to be prepared pursuant to this section.
+15 4. Within sixty days after completion of the updated land use
+16 assumptions and infrastructure improvements plan, the municipality shall
+17 schedule and provide notice of a public hearing to discuss and review the
+18 update and shall determine whether to amend the assumptions and plan.
+19 5. A municipality shall hold a public hearing to discuss the
+20 proposed amendments to the land use assumptions, the infrastructure
+21 improvements plan or the development fee. The land use assumptions and
+22 the infrastructure improvements plan, including the amount of any proposed
+23 changes to the development fee per service unit, shall be made available
+24 to the public on or before the date of the first publication of the notice
+25 of the hearing on the amendments.
+26 6. The notice and hearing procedures prescribed in paragraph 1 of
+27 this subsection apply to a hearing on the amendment of land use
+28 assumptions, an infrastructure improvements plan or a development fee.
+29 Within sixty days after the date of the public hearing on the amendments,
+30 a municipality shall approve or disapprove the amendments to the land use
+31 assumptions, infrastructure improvements plan or development fee. A
+32 municipality shall not adopt an ordinance, order or resolution approving
+33 the amended land use assumptions, infrastructure improvements plan or
+34 development fee as an emergency measure.
+35 7. The advisory committee established under subsection G of this
+36 section shall file its written comments on any proposed or updated land
+37 use assumptions, infrastructure improvements plan and development fees
+38 before the fifth business day before the date of the public hearing on the
+39 proposed or updated assumptions, plan and fees.
+40 8. If, at the time an update as prescribed in paragraph 3 of this
+41 subsection is required, the municipality determines that no changes to the
+42 land use assumptions, infrastructure improvements plan or development fees
+43 are needed, the municipality may as an alternative to the updating
+44 requirements of this subsection publish notice of its determination on its
+45 website and include the following:
+46 (a) A statement that the municipality has determined that no change
+47 to the land use assumptions, infrastructure improvements plan or
+48 development fee is necessary.
+-5-
+
+House Amendments to H.B. 2999
+1 (b) A description and map of the service area in which an update
+2 has been determined to be unnecessary.
+3 (c) A statement that by a specified date, which shall be at least
+4 sixty days after the date of publication of the first notice, a person may
+5 make a written request to the municipality requesting that the land use
+6 assumptions, infrastructure improvements plan or development fee be
+7 updated.
+8 (d) A statement identifying the person or entity to whom the
+9 written request for an update should be sent.
+10 9. If, by the date specified pursuant to paragraph 8 of this
+11 subsection, a person requests in writing that the land use assumptions,
+12 infrastructure improvements plan or development fee be updated, the
+13 municipality shall cause, accept or reject an update of the assumptions
+14 and plan to be prepared pursuant to this subsection.
+15 10. Notwithstanding the notice and hearing requirements for adoption
+16 of an infrastructure improvements plan, a municipality may amend an
+17 infrastructure improvements plan adopted pursuant to this section without
+18 a public hearing if the amendment addresses only elements of necessary
+19 public services in the existing infrastructure improvements plan and the
+20 changes to the plan will not, individually or cumulatively with other
+21 amendments adopted pursuant to this subsection, increase the level of
+22 service in the service area or cause a development fee increase of greater
+23 than five per cent PERCENT when a new or modified development fee is
+24 assessed pursuant to this section. The municipality shall provide notice
+25 of any such amendment at least thirty days before adoption, shall post the
+26 amendment on its website or on the website of an association of cities and
+27 towns if the municipality does not have a website and shall provide notice
+28 to the advisory committee established pursuant to subsection G of this
+29 section that the amendment complies with this subsection.
+30 E. For each necessary public service that is the subject of a
+31 development fee, the infrastructure improvements plan shall include:
+32 1. A description of the existing necessary public services in the
+33 service area and the costs to upgrade, update, improve, expand, correct or
+34 replace those necessary public services to meet existing needs and usage
+35 and stricter safety, efficiency, environmental or regulatory standards,
+36 which shall be prepared by qualified professionals licensed in this state,
+37 as applicable.
+38 2. An analysis of the total capacity, the level of current usage
+39 and commitments for usage of capacity of the existing necessary public
+40 services, which shall be prepared by qualified professionals licensed in
+41 this state, as applicable.
+42 3. A description of all or the parts of the necessary public
+43 services or facility expansions and their costs necessitated by and
+44 attributable to development in the service area based on the approved land
+45 use assumptions, including a forecast of the costs of infrastructure,
+46 improvements, real property, financing, engineering and architectural
+47 services, which shall be prepared by qualified professionals licensed in
+48 this state, as applicable.
+-6-
+
+House Amendments to H.B. 2999
+1 4. A table establishing the specific level or quantity of use,
+2 consumption, generation or discharge of a service unit for each category
+3 of necessary public services or facility expansions and an equivalency or
+4 conversion table establishing the ratio of a service unit to various types
+5 of land uses, including residential, commercial and industrial.
+6 5. The total number of projected service units necessitated by and
+7 attributable to new development in the service area based on the approved
+8 land use assumptions and calculated pursuant to generally accepted
+9 engineering and planning criteria.
+10 6. The projected demand for necessary public services or facility
+11 expansions required by new service units for a period not to exceed ten
+12 years.
+13 7. A forecast of revenues generated by new service units other than
+14 development fees, which shall include estimated state-shared revenue,
+15 highway users USER revenue, federal revenue, ad valorem property taxes,
+16 construction contracting or similar excise taxes and the capital recovery
+17 portion of utility fees attributable to development based on the approved
+18 land use assumptions, and a plan to include these contributions in
+19 determining the extent of the burden imposed by the development as
+20 required in subsection B, paragraph 12 of this section.
+21 F. A municipality's development fee ordinance shall provide that a
+22 new development fee or an increased portion of a modified development fee
+23 shall not be assessed against a development for twenty-four months after
+24 the date that the municipality issues the final approval for a commercial,
+25 industrial or multifamily development or the date that the first building
+26 permit is issued for a residential development pursuant to an approved
+27 site plan or subdivision plat, provided that no subsequent changes are
+28 made to the approved site plan or subdivision plat that would increase the
+29 number of service units. If the number of service units increases, the
+30 new or increased portion of a modified development fee shall be limited to
+31 the amount attributable to the additional service units. The twenty-four
+32 month period shall not be extended by a renewal or amendment of the site
+33 plan or the final subdivision plat that was the subject of the final
+34 approval. The municipality shall issue, on request, a written statement
+35 of the development fee schedule applicable to the development. If, after
+36 the date of the municipality's final approval of a development, the
+37 municipality reduces the development fee assessed on development, the
+38 reduced fee shall apply to the development.
+39 G. A municipality shall do one of the following:
+40 1. Before the adoption of proposed or updated land use assumptions,
+41 infrastructure improvements plan and development fees as prescribed in
+42 subsection D of this section, the municipality shall appoint an
+43 infrastructure improvements advisory committee, subject to the following
+44 requirements:
+45 (a) The advisory committee shall be composed of at least five
+46 members who are appointed by the governing body of the municipality. At
+47 least fifty per cent PERCENT of the members of the advisory committee must
+48 be representatives of the real estate, development or building industries,
+49 of which at least one member of the committee must be from the home
+-7-
+
+House Amendments to H.B. 2999
+1 building industry. Members shall not be employees or officials of the
+2 municipality.
+3 (b) The advisory committee shall serve in an advisory capacity and
+4 shall:
+5 (i) Advise the municipality in adopting land use assumptions and in
+6 determining whether the assumptions are in conformance with the general
+7 plan of the municipality.
+8 (ii) Review the infrastructure improvements plan and file written
+9 comments.
+10 (iii) Monitor and evaluate implementation of the infrastructure
+11 improvements plan.
+12 (iv) Every year file reports with respect to the progress of the
+13 infrastructure improvements plan and the collection and expenditures of
+14 development fees and report to the municipality any perceived inequities
+15 in implementing the plan or imposing the development fee.
+16 (v) Advise the municipality of the need to update or revise the
+17 land use assumptions, infrastructure improvements plan and development
+18 fee.
+19 (c) The municipality shall make available to the advisory committee
+20 any professional reports with respect to developing and implementing the
+21 infrastructure improvements plan.
+22 (d) The municipality shall adopt procedural rules for the advisory
+23 committee to follow in carrying out the committee's duties.
+24 2. In lieu of creating an advisory committee pursuant to paragraph
+25 1 of this subsection, provide for a biennial certified audit of the
+26 municipality's land use assumptions, infrastructure improvements plan and
+27 development fees. An audit pursuant to this paragraph shall be conducted
+28 by one or more qualified professionals who are not employees or officials
+29 of the municipality and who did not prepare the infrastructure
+30 improvements plan. The audit shall review the progress of the
+31 infrastructure improvements plan, including the collection and
+32 expenditures of development fees for each project in the plan, and
+33 evaluate any inequities in implementing the plan or imposing the
+34 development fee. The municipality shall post the findings of the audit on
+35 the municipality's website or the website of an association of cities and
+36 towns if the municipality does not have a website and shall conduct a
+37 public hearing on the audit within sixty days of the release of the audit
+38 to the public.
+39 H. On written request, an owner of real property for which a
+40 development fee has been paid after July 31, 2014 is entitled to a refund
+41 of a development fee or any part of a development fee if:
+42 1. Pursuant to subsection B, paragraph 6 of this section, existing
+43 facilities are available and service is not provided.
+44 2. The municipality has, after collecting the fee to construct a
+45 facility when service is not available, failed to complete construction
+46 within the time period identified in the infrastructure improvements plan,
+47 but in no event later than the time period specified in paragraph 3 of
+48 this subsection.
+-8-
+
+House Amendments to H.B. 2999
+1 3. For a development fee other than a development fee for water or
+2 wastewater facilities, any part of the development fee is not spent as
+3 authorized by this section within ten years after the fee has been paid
+4 or, for a development fee for water or wastewater facilities, any part of
+5 the development fee is not spent as authorized by this section within
+6 fifteen years after the fee has been paid.
+7 I. If the development fee was collected for the construction of all
+8 or a portion of a specific item of infrastructure, and on completion of
+9 the infrastructure the municipality determines that the actual cost of
+10 construction was less than the forecasted cost of construction on which
+11 the development fee was based and the difference between the actual and
+12 estimated cost is greater than ten per cent, the current owner may receive
+13 a refund of the portion of the development fee equal to the difference
+14 between the development fee paid and the development fee that would have
+15 been due if the development fee had been calculated at the actual
+16 construction cost.
+17 J. A refund shall include any interest earned by the municipality
+18 from the date of collection to the date of refund on the amount of the
+19 refunded fee. All refunds shall be made to the record owner of the
+20 property at the time the refund is paid. If the development fee is paid
+21 by a governmental entity, the refund shall be paid to the governmental
+22 entity.
+23 K. A development fee that was adopted before January 1, 2012 may
+24 continue to be assessed only to the extent that it will be used to provide
+25 a necessary public service for which development fees can be assessed
+26 pursuant to this section and shall be replaced by a development fee
+27 imposed under this section on or before August 1, 2014. Any municipality
+28 having a development fee that has not been replaced under this section on
+29 or before August 1, 2014 shall not collect development fees until the
+30 development fee has been replaced with a fee that complies with this
+31 section. Any development fee monies collected before January 1, 2012
+32 remaining in a development fee account:
+33 1. Shall be used towards the same category of necessary public
+34 services as authorized by this section.
+35 2. If development fees were collected for a purpose not authorized
+36 by this section, shall be used for the purpose for which they were
+37 collected on or before January 1, 2020, and after which, if not spent,
+38 shall be distributed equally among the categories of necessary public
+39 services authorized by this section.
+40 L. A moratorium shall not be placed on development for the sole
+41 purpose of awaiting completion of all or any part of the process necessary
+42 to develop, adopt or update development fees.
+43 M. In any judicial action interpreting this section, all powers
+44 conferred on municipal governments in this section shall be narrowly
+45 construed to ensure that development fees are not used to impose on new
+46 residents a burden all taxpayers of a municipality should bear equally.
+47 N. Each municipality that assesses development fees shall submit an
+48 annual report accounting for the collection and use of the fees for each
+49 service area. The annual report shall include the following:
+-9-
+
+House Amendments to H.B. 2999
+1 1. The amount assessed by the municipality for each type of
+2 development fee.
+3 2. The balance of each fund maintained for each type of development
+4 fee assessed as of the beginning and end of the fiscal year.
+5 3. The amount of interest or other earnings on the monies in each
+6 fund as of the end of the fiscal year.
+7 4. The amount of development fee monies used to repay:
+8 (a) Bonds issued by the municipality to pay the cost of a capital
+9 improvement project that is the subject of a development fee assessment,
+10 including the amount needed to repay the debt service obligations on each
+11 facility for which development fees have been identified as the source of
+12 funding and the time frames in which the debt service will be repaid.
+13 (b) Monies advanced by the municipality from funds other than the
+14 funds established for development fees in order to pay the cost of a
+15 capital improvement project that is the subject of a development fee
+16 assessment, the total amount advanced by the municipality for each
+17 facility, the source of the monies advanced and the terms under which the
+18 monies will be repaid to the municipality.
+19 5. The amount of development fee monies spent on each capital
+20 improvement project that is the subject of a development fee assessment
+21 and the physical location of each capital improvement project.
+22 6. The amount of development fee monies spent for each purpose
+23 other than a capital improvement project that is the subject of a
+24 development fee assessment.
+25 O. Within ninety days following the end of each fiscal year, each
+26 municipality shall submit a copy of the annual report to the city clerk
+27 and post the report on the municipality's website or the website of an
+28 association of cities and towns if the municipality does not have a
+29 website. Copies shall be made available to the public on request. The
+30 annual report may contain financial information that has not been audited.
+31 P. A municipality that fails to file the report and post the report
+32 on the municipality's website or the website of an association of cities
+33 and towns if the municipality does not have a website as required by this
+34 section shall not collect development fees until the report is filed and
+35 posted.
+36 Q. Any action to collect a development fee shall be commenced
+37 within two years after the obligation to pay the fee accrues.
+38 R. A municipality may continue to assess a development fee adopted
+39 before January 1, 2012 for any facility that was financed before June 1,
+40 2011 if:
+41 1. Development fees were pledged to repay debt service obligations
+42 related to the construction of the facility.
+43 2. After August 1, 2014, any development fees collected under this
+44 subsection are used solely for the payment of principal and interest on
+45 the portion of the bonds, notes or other debt service obligations issued
+46 before June 1, 2011 to finance construction of the facility.
+47 S. Through August 1, 2014, a development fee adopted before January
+48 1, 2012 may be used to finance construction of a facility and may be
+49 pledged to repay debt service obligations if:
+-10-
+
+House Amendments to H.B. 2999
+1 1. The facility that is being financed is a facility that is
+2 described under subsection T, paragraph 7, subdivisions (a) through (g) of
+3 this section.
+4 2. The facility was included in an infrastructure improvements plan
+5 adopted before June 1, 2011.
+6 3. The development fees are used for the payment of principal and
+7 interest on the portion of the bonds, notes or other debt service
+8 obligations issued to finance construction of the necessary public
+9 services or facility expansions identified in the infrastructure
+10 improvement IMPROVEMENTS plan.
+11 T. For the purposes of this section:
+12 1. "Dedication" means the actual conveyance date or the date an
+13 improvement, facility or real or personal property is placed into service,
+14 whichever occurs first.
+15 2. "Development" means:
+16 (a) The subdivision of land.
+17 (b) The construction, reconstruction, conversion, structural
+18 alteration, relocation or enlargement of any structure that adds or
+19 increases the number of service units.
+20 (c) Any use or extension of the use of land that increases the
+21 number of service units.
+22 3. "Facility expansion" means the expansion of the capacity of an
+23 existing facility that serves the same function as an otherwise new
+24 necessary public service in order that the existing facility may serve new
+25 development. Facility expansion does not include the repair, maintenance,
+26 modernization or expansion of an existing facility to better serve
+27 existing development.
+28 4. "Final approval" means:
+29 (a) For a nonresidential or multifamily development, the approval
+30 of a site plan or, if no site plan is submitted for the development, the
+31 approval of a final subdivision plat.
+32 (b) For a single family residential development, the approval of a
+33 final subdivision plat.
+34 5. "Infrastructure improvements plan" means a written plan that
+35 identifies each necessary public service or facility expansion that is
+36 proposed to be the subject of a development fee and otherwise complies
+37 with the requirements of this section, and may be the municipality's
+38 capital improvements plan.
+39 6. "Land use assumptions" means projections of changes in land
+40 uses, densities, intensities and population for a specified service area
+41 over a period of at least ten years and pursuant to the general plan of
+42 the municipality.
+43 7. "Necessary public service" means any of the following facilities
+44 that have a life expectancy of three or more years and that are owned and
+45 operated by or on behalf of the municipality:
+46 (a) Water facilities, including the supply, transportation,
+47 treatment, purification and distribution of water, and any appurtenances
+48 for those facilities.
+-11-
+
+House Amendments to H.B. 2999
+1 (b) Wastewater facilities, including collection, interception,
+2 transportation, treatment and disposal of wastewater, and any
+3 appurtenances for those facilities.
+4 (c) Storm water, drainage and flood control facilities, including
+5 any appurtenances for those facilities.
+6 (d) Library facilities of up to ten thousand square feet that
+7 provide a direct benefit to development, not including equipment, vehicles
+8 or appurtenances.
+9 (e) Street facilities located in the service area, including
+10 arterial or collector streets or roads that have been designated on an
+11 officially adopted plan of the municipality, traffic signals and
+12 rights-of-way and improvements thereon.
+13 (f) Fire and police facilities, including all appurtenances,
+14 equipment and vehicles. Fire and police facilities do not include a
+15 facility or portion of a facility that is used to replace services that
+16 were once provided elsewhere in the municipality, vehicles and equipment
+17 used to provide administrative services, helicopters or airplanes or a
+18 facility that is used for training firefighters or officers from more than
+19 one station or substation.
+20 (g) Neighborhood parks and recreational facilities on real property
+21 up to thirty acres in area, or parks and recreational facilities larger
+22 than thirty acres if the facilities provide a direct benefit to the
+23 development. Park and recreational facilities do not include vehicles,
+24 equipment or that portion of any facility that is used for amusement
+25 parks, aquariums, aquatic centers, auditoriums, arenas, arts and cultural
+26 facilities, bandstand and orchestra facilities, bathhouses, boathouses,
+27 clubhouses, community centers greater than three thousand square feet in
+28 floor area, environmental education centers, equestrian facilities, golf
+29 course facilities, greenhouses, lakes, museums, theme parks, water
+30 reclamation or riparian areas, wetlands, zoo facilities or similar
+31 recreational facilities, but may include swimming pools.
+32 (h) Any facility that was financed and that meets all of the
+33 requirements prescribed in subsection R of this section.
+34 8. "Qualified professional" means a professional engineer,
+35 surveyor, financial analyst or planner providing services within the scope
+36 of the person's license, education or experience.
+37 9. "Service area" means any specified area within the boundaries of
+38 a municipality in which development will be served by necessary public
+39 services or facility expansions and within which a substantial nexus
+40 exists between the necessary public services or facility expansions and
+41 the development being served as prescribed in the infrastructure
+42 improvements plan.
+43 10. "Service unit" means a standardized measure of consumption, use,
+44 generation or discharge attributable to an individual unit of development
+45 calculated pursuant to generally accepted engineering or planning
+46 standards for a particular category of necessary public services or
+47 facility expansions.
+48 Sec. 2. Section 11-495, Arizona Revised Statutes, is amended to
+49 read:
+-12-
+
+House Amendments to H.B. 2999
+1 11-495. Taxpayers' information fund
+2 A. A taxpayers' information fund is established in each county
+3 treasury consisting of monies collected from the public records copy
+4 surcharge imposed pursuant to section 11-496, the tax lien processing fee
+5 imposed pursuant to section 42-18116, subsection C, fifteen dollars of
+6 each judgment deed fee collected pursuant to section 42-18205, subsection
+7 A, interest earned from the elderly assistance fund pursuant to section
+8 42-17401, the community facilities district special assessment fee imposed
+9 pursuant to section 48-721, THE STATE HOUSING AFFORDABILITY DISTRICT
+10 SPECIAL ASSESSMENT FEE IMPOSED PURSUANT TO SECTION 48-7023 and the fees
+11 authorized for collecting municipal fire and emergency services fees in
+12 certain areas of the county as prescribed in section 9-500.23.
+13 B. The county treasurer shall administer the fund and spend monies
+14 in the fund only to defray the cost of converting or upgrading an
+15 automated public information system as follows:
+16 1. Purchasing computer hardware and software.
+17 2. Training employees to operate the system.
+18 3. Maintaining the system, including purchasing equipment
+19 maintenance agreements.
+20 4. Updating the system hardware and software.
+21 5. In counties with a population of more than two million persons,
+22 notifying property owners of the tax and ownership status of a taxpayer's
+23 parcel prior to the taxpayer's parcel being sold at a deed sale and the
+24 tax and ownership status of any parcels being sold at a deed sale that are
+25 adjacent to a taxpayer's parcel, prior to the deed sale.
+26 C. The county treasurer shall annually submit to the board of
+27 supervisors the amount of anticipated revenues under this section. If the
+28 projected revenues are considered to be insufficient to establish and
+29 maintain the fund at an adequate level, the monies may accumulate until
+30 sufficient monies are available in the fund.
+31 Sec. 3. Section 11-496, Arizona Revised Statutes, is amended to
+32 read:
+33 11-496. Public records copy; proceeds of sale; agent duties;
+34 surcharge; special district assessments; deposit
+35 A. In addition to the fee prescribed by section 39-121.01,
+36 subsection D, paragraph 1 or section 39-121.03, subsection A, the county
+37 treasurer may impose a surcharge of not more than twenty-five per cent
+38 PERCENT of the fee charged for furnishing a copy, printout or photograph.
+39 B. A county treasurer who is designated as a registrar pursuant to
+40 section 35-491 may impose a surcharge of not more than twenty-five per
+41 cent PERCENT of the average fee charged by commercial bank trust
+42 departments during the previous calendar year for discharging registrar,
+43 transfer and paying agent duties.
+44 C. The county treasurer may impose and collect a fee for expenses
+45 directly related to the collection of special assessments for a community
+46 facilities district pursuant to section 48-721, A STATE HOUSING
+47 AFFORDABILITY DISTRICT PURSUANT TO SECTION 48-7023 and a revitalization
+48 district pursuant to section 48-6815 and for collecting municipal fire and
+-13-
+
+House Amendments to H.B. 2999
+1 emergency services fees from owners of record in certain areas of the
+2 county as prescribed in section 9-500.23.
+3 D. The county treasurer shall deposit monies collected pursuant to
+4 this section in the taxpayers' information fund established by section
+5 11-495.
+6 Sec. 4. Section 11-1102, Arizona Revised Statutes, is amended to
+7 read:
+8 11-1102. County development fees; imposition by counties;
+9 infrastructure improvements plan; advisory
+10 committee; annual report; limitation on actions;
+11 definitions
+12 A. A county may assess development fees to offset costs to the
+13 county associated with providing necessary public services to a
+14 development, including the costs of infrastructure, improvements, real
+15 property, engineering and architectural services, financing and
+16 professional services required for the preparation or revision of
+17 a development fee FEES pursuant to this section, including the relevant
+18 portion of the infrastructure improvements plan.
+19 B. Development fees assessed under this section are subject to the
+20 following requirements:
+21 1. Development fees shall result in a beneficial use to the
+22 development.
+23 2. The county shall calculate the development fee FEES based on the
+24 infrastructure improvements plan adopted pursuant to this section.
+25 3. The development fees may not exceed a proportionate share of the
+26 cost of necessary public services, based on service units, needed to
+27 provide necessary public services to the development.
+28 4. Costs for necessary public services made necessary by new
+29 development shall be based on the same level of service provided to
+30 existing development in the service area at the time the infrastructure
+31 improvements plan is adopted.
+32 5. Development fees may not be used for any of the following:
+33 (a) Funding a level of service that is higher than the current
+34 level of service provided to existing development at the time the
+35 infrastructure improvements plan is adopted.
+36 (b) Construction, acquisition or expansion of public facilities or
+37 assets other than necessary public services or facility expansions
+38 identified in the infrastructure improvements plan.
+39 (c) Repair, operation or maintenance of existing or new necessary
+40 public services or facility expansions.
+41 (d) Upgrading, updating, expanding, correcting or replacing
+42 existing necessary public services to serve existing development in order
+43 to meet stricter safety, efficiency, environmental or regulatory
+44 standards.
+45 (e) Upgrading, updating, expanding, correcting or replacing
+46 existing necessary public services to provide a higher level of service to
+47 existing development.
+48 (f) Administrative, maintenance or operating costs of the county.
+-14-
+
+House Amendments to H.B. 2999
+1 6. Any development for which development fees have been paid is
+2 entitled to the use and benefit of the services for which the development
+3 fees were imposed and is entitled to receive immediate service from any
+4 existing facility with available capacity to serve the new service units
+5 if the available capacity has not been reserved or pledged in connection
+6 with the construction or financing of the facility.
+7 7. Development fees may be collected if any of the following
+8 occurs:
+9 (a) The collection is made to pay for a necessary public service or
+10 facility expansion that is identified in the infrastructure improvements
+11 plan and the county plans to complete construction and have the service
+12 available within the time period established in the infrastructure
+13 improvements plan, but not longer than the time period provided in
+14 subsection J, paragraph 3 of this section.
+15 (b) The county reserves capacity in the infrastructure improvements
+16 plan adopted pursuant to this section or otherwise agrees to reserve
+17 capacity to serve future development.
+18 (c) The county requires or agrees to allow the owner of a
+19 development to construct or finance the necessary public service or
+20 facility expansion and any of the following applies:
+21 (i) The costs incurred or monies advanced are credited against or
+22 reimbursed from the development fees otherwise due from a development.
+23 The amount of credits issued shall equal the costs identified by the
+24 county in the infrastructure improvements plan associated with the
+25 construction of the necessary public services or facility expansions. The
+26 county shall allow the owner to assign the credits from the development
+27 fees otherwise due from a development and any excess credits to other
+28 developments for the same category of necessary public services in the
+29 same service area.
+30 (ii) The county reimburses the owner for those costs from the
+31 development fees paid from all developments that will use those necessary
+32 public services or facility expansions. The county shall allow the owner
+33 to assign the reimbursement rights to other developments for the same
+34 category of necessary public services in the same service area.
+35 8. Projected interest charges and other finance costs may be
+36 included in determining the amount of development fees only if the monies
+37 are used for the payment of principal and interest on the portion of the
+38 bonds, notes or other obligations issued to finance construction of
+39 necessary public services or facility expansions identified in the
+40 infrastructure improvements plan.
+41 9. Monies received from development fees shall be placed in a
+42 separate fund and accounted for separately and may only be used for the
+43 purposes authorized by this section. Monies received from development
+44 fees identified in an infrastructure improvements plan adopted or updated
+45 pursuant to subsection E of this section shall be used to provide the same
+46 category of necessary public services or facilities expansions for which
+47 the development fee was assessed and for the benefit of the same service
+48 area as defined in the infrastructure improvements plan in which the
+-15-
+
+House Amendments to H.B. 2999
+1 development fees were assessed. Interest earned on monies in the separate
+2 fund shall be credited to the fund.
+3 10. The county shall prescribe the schedule for paying the
+4 development fees. Based on the costs identified in the infrastructure
+5 improvements plan, the county shall provide a credit toward the payment of
+6 the development fees for the required or agreed to dedication of public
+7 sites, improvements and other necessary public services or facility
+8 expansions included in the infrastructure improvements plan and for which
+9 development fees are assessed, to the extent the public sites,
+10 improvements and necessary public services or facility expansions are
+11 provided by the developer, A COMMUNITY FACILITIES DISTRICT ESTABLISHED
+12 UNDER TITLE 48, CHAPTER 4, ARTICLE 6 OR AN INFRASTRUCTURE FINANCE DISTRICT
+13 ESTABLISHED UNDER TITLE 48, CHAPTER 40. On request of the developer,
+14 instead of providing a credit toward the payment of development fees, the
+15 county shall provide for reimbursement from the development fees paid from
+16 all development that will use those public sites, improvements or
+17 necessary public services or facility expansions of the actual costs of
+18 the required or agreed to dedication of public sites, improvements or
+19 other necessary public services or facility expansions included in the
+20 infrastructure improvements plan and for which development fees are
+21 assessed, to the extent the public sites, improvements and necessary
+22 public services or facility expansions are provided by the developer, A
+23 COMMUNITY FACILITIES DISTRICT ESTABLISHED UNDER TITLE 48, CHAPTER 4,
+24 ARTICLE 6 OR AN INFRASTRUCTURE FINANCE DISTRICT ESTABLISHED UNDER TITLE
+25 48, CHAPTER 40. The developer of residential dwelling units shall be
+26 required to pay the fees when construction permits for the dwelling units
+27 are issued, or at a later time if specified in the development agreement
+28 pursuant to section 11-1101. If a development agreement provides for
+29 development fees to be paid at a time later than the issuance of
+30 construction permits, the deferred development fees shall be paid not
+31 later than fifteen days after the issuance of a certificate of occupancy.
+32 The development agreement shall provide for the value of any deferred
+33 development fees to be supported by an appropriate security, including a
+34 surety bond, letter of credit or cash bond.
+35 11. If a county requires as a condition of development approval the
+36 construction or improvement of, contributions to or dedication of any
+37 facilities that were not included in a previously adopted infrastructure
+38 improvements plan, the county shall cause the infrastructure improvements
+39 plan to be amended to include the facilities and shall provide a credit
+40 toward the payment of development fees for the construction, improvement,
+41 contribution or dedication of the facilities to the extent that the
+42 facilities will substitute for or otherwise reduce the need for other
+43 similar facilities in the infrastructure improvements plan for which
+44 development fees were assessed. If a county requires as a condition of
+45 development approval the set aside of active or passive open space, the
+46 county shall issue a credit toward any development fees identified in the
+47 infrastructure improvements plan to fund any park facilities or facility
+48 expansion. On request of the individual or entity seeking development
+49 approval, instead of issuing a credit toward the payment of development
+-16-
+
+House Amendments to H.B. 2999
+1 fees, the county shall provide for reimbursement from the development fees
+2 paid from all development that will use those facilities or facility
+3 expansions of the actual costs of the construction or improvement of,
+4 contributions to or dedication of the public facilities required as a
+5 condition of development approval.
+6 12. The county shall forecast the contribution to be made in the
+7 future in cash, taxes, fees, assessments and all other sources of revenue
+8 derived from the property owner towards the capital costs of the necessary
+9 public service covered by the development fees.
+10 13. If development fees are assessed against residential
+11 development, the county shall also assess development fees against
+12 commercial and industrial development. The county may distinguish between
+13 different categories of residential, commercial and industrial development
+14 in assessing the costs to the county of providing necessary public
+15 services to new development and in determining the amount of the
+16 development fees applicable to the category, except that the county may
+17 not distinguish residential developments on the basis of the size of the
+18 dwelling unit or number of bedrooms. If a county agrees to waive any of
+19 the development fees assessed on a development, the county shall reimburse
+20 the appropriate development fees accounts for the amount that was
+21 waived. The county shall provide notice of any such waiver to the
+22 advisory committee established pursuant to subsection I of this section.
+23 14. In determining and assessing development fees applying to land
+24 in a community facilities district established under title 48, chapter 4,
+25 article 6, the county shall take into account all public infrastructure
+26 provided by the district and capital costs paid by the district for
+27 necessary public services and shall not assess a portion of the
+28 development fees based on the infrastructure or costs.
+29 15. The county shall not assess or collect development fees from a
+30 school district or charter school, other than fees assessed or collected
+31 for streets and water and wastewater utility functions.
+32 C. Before assessing development fees, the county shall:
+33 1. Give at least thirty days' advance notice of intention to assess
+34 new or increased development fees.
+35 2. Release to the public and post on the county's website a written
+36 report of the land use assumptions and infrastructure improvements plan
+37 adopted pursuant to subsection E of this section.
+38 3. Conduct a public hearing on the proposed development fees at any
+39 time after the expiration of the thirty-day notice of intention to assess
+40 development fees and at least thirty days before the scheduled date of
+41 adoption of the development fees. Within sixty days after the date of the
+42 public hearing on the proposed development fees, the county shall approve
+43 or disapprove the imposition of the development fees. A county may not
+44 adopt an ordinance, order or resolution approving development fees as an
+45 emergency measure.
+46 D. Development fees assessed pursuant to this section are not
+47 effective for at least ninety days after formal adoption by the board of
+48 supervisors.
+-17-
+
+House Amendments to H.B. 2999
+1 E. Before the adoption or amendment of development fees or
+2 amendment of the boundaries of a service area, the board of supervisors
+3 shall adopt or update the land use assumptions and infrastructure
+4 improvements plan for the designated service area. The county shall
+5 conduct a public hearing on the land use assumptions and infrastructure
+6 improvements plan at least thirty days before the adoption or update of
+7 the infrastructure improvements plan. The county shall release the
+8 infrastructure improvements plan to the public, post the infrastructure
+9 improvements plan on the county's website, including in the posting the
+10 land use assumptions, the time period of the projections, a description of
+11 the necessary public services included in the infrastructure improvements
+12 plan and a map of the service area to which the land use assumptions
+13 apply, make available to the public the documents used to prepare the land
+14 use assumptions and infrastructure improvements plan and provide public
+15 notice at least sixty days before the public hearing, subject to the
+16 following:
+17 1. The land use assumptions and infrastructure improvements plan
+18 shall be approved or disapproved within sixty days after the public
+19 hearing on the land use assumptions and infrastructure improvements plan
+20 and at least thirty days before the public hearing on the report required
+21 by subsection C of this section. A county may not adopt an ordinance,
+22 order or resolution approving the land use assumptions or infrastructure
+23 improvements plan as an emergency measure.
+24 2. An infrastructure improvements plan shall be developed by
+25 qualified professionals using generally accepted engineering and planning
+26 practices pursuant to subsection F of this section.
+27 3. A county shall update the land use assumptions and
+28 infrastructure improvements plan at least every five years. The initial
+29 five-year period begins on the day the infrastructure improvements plan is
+30 adopted. The county shall review and evaluate the current land use
+31 assumptions and shall cause an update of the infrastructure improvements
+32 plan to be prepared pursuant to this section.
+33 4. Within sixty days after completion of the updated land use
+34 assumptions and infrastructure improvements plan, the county shall
+35 schedule and provide notice of a public hearing to discuss and review the
+36 update and shall determine whether to amend the land use assumptions and
+37 infrastructure improvements plan.
+38 5. A county shall hold a public hearing to discuss the proposed
+39 amendments to the land use assumptions, the infrastructure improvements
+40 plan or the development fees. The land use assumptions and the
+41 infrastructure improvements plan, including the amount of any proposed
+42 changes to the development fees per service unit, shall be made available
+43 to the public on or before the date of the first publication of the notice
+44 of the hearing on the amendments.
+45 6. The hearing procedures prescribed in paragraph 1 of this
+46 subsection apply to a hearing on the amendment of land use assumptions, an
+47 infrastructure improvements plan or development fees. Within sixty days
+48 after the date of the public hearing on the amendments, a county shall
+49 approve or disapprove the amendments to the land use assumptions,
+-18-
+
+House Amendments to H.B. 2999
+1 infrastructure improvements plan or development fees. A county may not
+2 adopt an ordinance, order or resolution approving the amended land use
+3 assumptions, infrastructure improvements plan or development fees as an
+4 emergency measure.
+5 7. The advisory committee established under subsection I of this
+6 section shall file its written comments on any proposed or updated land
+7 use assumptions, infrastructure improvements plan and development fees
+8 before the fifth business day before the date of the public hearing on the
+9 proposed or updated land use assumptions, infrastructure improvements plan
+10 and development fees.
+11 8. If, at the time an update as prescribed in paragraph 3 of this
+12 subsection is required, the county determines that no changes to the land
+13 use assumptions, infrastructure improvements plan or development fees are
+14 needed, the county, as an alternative to the updating requirements of this
+15 subsection, may publish notice of the determination on the county's
+16 website that includes the following:
+17 (a) A statement that the county has determined that no change to
+18 the land use assumptions, infrastructure improvements plan or development
+19 fees is necessary.
+20 (b) A description and map of the service area in which an update
+21 has been determined to be unnecessary.
+22 (c) A statement that by a specified date, which shall be at least
+23 sixty days after the date of publication of the first notice, a person may
+24 request to the county in writing that the county update the land use
+25 assumptions, infrastructure improvements plan or development fees.
+26 (d) A statement identifying the person or entity to whom the
+27 written request for an update should be sent.
+28 9. If, by the date specified pursuant to paragraph 8 of this
+29 subsection, a person requests in writing that the county update the land
+30 use assumptions, infrastructure improvements plan or development fees, the
+31 county shall cause, accept or reject an update of the land use
+32 assumptions, infrastructure improvements plan or development fees to be
+33 prepared pursuant to this section.
+34 10. Notwithstanding the notice and hearing requirements for
+35 adoption of an infrastructure improvements plan, the county may amend an
+36 infrastructure improvements plan without a public hearing if the amendment
+37 addresses only elements of necessary public services in the existing
+38 infrastructure improvements plan and the changes to the plan will not,
+39 individually or cumulatively with other amendments adopted pursuant to
+40 this subsection, increase the level of service in the service area or
+41 cause an increase in development fees that is greater than five percent
+42 when new or modified development fees are assessed pursuant to this
+43 section. The county shall provide notice of the amendment at least thirty
+44 days before adoption, shall post the amendment on the county's website and
+45 shall provide notice to the advisory committee established pursuant to
+46 subsection I of this section that the amendment complies with this
+47 subsection.
+48 F. For each necessary public service that is the subject of
+49 development fees, the infrastructure improvements plan shall include:
+-19-
+
+House Amendments to H.B. 2999
+1 1. A description of the existing necessary public services in the
+2 service area and the costs to upgrade, update, improve, expand, correct or
+3 replace those necessary public services to meet existing needs and usage
+4 and stricter safety, efficiency, environmental or regulatory standards.
+5 The description shall be prepared by qualified professionals who are
+6 licensed in this state, as applicable.
+7 2. An analysis of the total capacity, the level of current usage
+8 and commitments for usage of capacity of the existing necessary public
+9 services. The analysis shall be prepared by qualified professionals who
+10 are licensed in this state, as applicable.
+11 3. A description of all or the parts of the necessary public
+12 services or facility expansions and their costs necessitated by and
+13 attributable to new development in the service area based on the approved
+14 land use assumptions, including a forecast of the cost of infrastructure,
+15 improvements, real property, financing, engineering and architectural
+16 services. The description shall be prepared by qualified professionals
+17 who are licensed in this state, as applicable.
+18 4. A table that establishes the specific level or quantity of use,
+19 consumption, generation or discharge of a service unit for each category
+20 of necessary public services or facility expansions and an equivalency or
+21 conversion table that establishes the ratio of a service unit to various
+22 types of land uses, including residential, commercial and industrial.
+23 5. A description of all the costs necessitated by ongoing
+24 maintenance and operations of the necessary public services once
+25 construction is completed and a description of the source of revenue to be
+26 used to fund the maintenance and operations.
+27 6. The total number of projected service units necessitated by and
+28 attributable to new development in the service area based on the approved
+29 land use assumptions and calculated pursuant to generally accepted
+30 engineering and planning criteria.
+31 7. The projected demand for necessary public services or facility
+32 expansions required by new service units for a period of not more than ten
+33 years.
+34 8. A forecast of revenues generated by new service units other than
+35 development fees, including estimated state shared revenue, highway user
+36 revenue, federal revenue, ad valorem property taxes, construction
+37 contracting or similar excise taxes and the capital recovery portion of
+38 utility fees attributable to development based on the approved land use
+39 assumptions, and a plan to include these contributions in determining the
+40 extent of the burden imposed by the development as required in subsection
+41 B, paragraph 12 of this section.
+42 G. A county's infrastructure improvements plan may identify
+43 necessary public services or facility expansions that the county plans to
+44 construct beyond the time period provided for in subsection J, paragraph 3
+45 of this section but may not include the costs of those necessary public
+46 services or facility expansions in the calculation of development fees.
+47 H. A county's development fees ordinance shall provide:
+48 1. That new development fees or an increased portion of modified
+49 development fees may not be assessed against a development for twenty-four
+-20-
+
+House Amendments to H.B. 2999
+1 months after the date that the county issues the final approval for a
+2 commercial, industrial or multifamily development or the date that the
+3 first building permit is issued for a residential development pursuant to
+4 an approved site plan or subdivision plat, only if subsequent changes are
+5 not made to the approved site plan or subdivision plat that would increase
+6 the number of service units. If the number of service units increases,
+7 the new or increased portion of modified development fees shall be limited
+8 to the amount attributable to the additional service units. The period is
+9 not extended by a renewal or amendment of the site plan or the final
+10 subdivision plat that was the subject of the final approval. The county
+11 shall issue, on request, a written statement of the development fees
+12 schedule applicable to the development. If, after the date of the
+13 county's final approval of a development, the county reduces the
+14 development fees assessed on development, the reduced fees shall apply to
+15 the development.
+16 2. A process for a development to request an alternative
+17 development fee calculation or change in category of development that
+18 appears on an adopted development fee schedule based on a projection that
+19 the actual burdens and costs associated with the county's provision of
+20 necessary public services or facility expansions to the development that
+21 are to be paid by development fees will differ substantially from those
+22 costs projected by the county or will be substantially less than the
+23 amount projected to be paid by development fees. The county manager or
+24 the county manager's designee shall review the request and make a
+25 determination as to the development fee to be assessed. The assessed
+26 development fee shall have a substantial nexus to the actual burdens and
+27 costs associated with providing the necessary public services or facility
+28 expansions to that development that are to be funded by development fees.
+29 The determination of the county manager is appealable to the board of
+30 supervisors.
+31 I. A county shall do one of the following:
+32 1. Before the adoption of the proposed or updated land use
+33 assumptions, infrastructure improvements plan and development fees as
+34 prescribed in subsection E of this section, appoint an infrastructure
+35 improvements advisory committee, subject to the following requirements:
+36 (a) The advisory committee shall be composed of at least five
+37 members who are appointed by the board of supervisors. At least fifty
+38 percent of the members of the advisory committee must be representatives
+39 of the real estate, development or building industries, of which at least
+40 one member of the committee must be from the home building industry.
+41 Members may not be employees or officials of the county.
+42 (b) The advisory committee shall serve in an advisory capacity and
+43 shall:
+44 (i) Advise the county in adopting land use assumptions and in
+45 determining whether the assumptions are in conformance with the general
+46 plan of the county.
+47 (ii) Review the infrastructure improvements plan and file written
+48 comments.
+-21-
+
+House Amendments to H.B. 2999
+1 (iii) Monitor and evaluate implementation of the infrastructure
+2 improvements plan.
+3 (iv) Every year file reports with respect to the progress of the
+4 infrastructure improvements plan and the collection and expenditures of
+5 development fees and report to the county any perceived inequities in
+6 implementing the infrastructure improvements plan or assessing the
+7 development fees.
+8 (v) Advise the county of the need to update or revise the land use
+9 assumptions, infrastructure improvements plan and development fees.
+10 (c) The county shall make available to the advisory committee any
+11 professional reports with respect to developing and implementing the
+12 infrastructure improvements plan.
+13 (d) The county shall adopt procedural rules for the advisory
+14 committee to follow in carrying out the advisory committee's duties.
+15 2. Provide for a biennial certified audit of the county's land use
+16 assumptions, infrastructure improvements plan and development fees. An
+17 audit pursuant to this paragraph shall be conducted by one or more
+18 qualified professionals who are not employees or officials of the county
+19 and who did not prepare the infrastructure improvements plan. The audit
+20 shall review the progress of the infrastructure improvements plan,
+21 including the collection and expenditures of development fees for each
+22 project in the infrastructure improvements plan, and evaluate any
+23 inequities in implementing the infrastructure improvements plan or
+24 imposing the development fees. The county shall post the findings of the
+25 audit on the county's website and shall conduct a public hearing on the
+26 audit within sixty days after the release of the audit to the public.
+27 J. On written request, an owner of real property for which
+28 development fees have been paid after December 31, 2020 is entitled to a
+29 refund of the development fees or any part of the development fees if:
+30 1. Pursuant to subsection B, paragraph 6 of this section, existing
+31 facilities are available and service is not provided.
+32 2. The county, after collecting the fees to construct a facility
+33 when service is not available, has failed to complete construction within
+34 the time period identified in the infrastructure improvements plan, but in
+35 no event later than the time period specified in paragraph 3 of this
+36 subsection.
+37 3. For development fees other than development fees for water or
+38 wastewater facilities, any part of the development fees is not spent as
+39 authorized by this section within ten years after the fees have been paid
+40 or, for development fees for water or wastewater facilities, any part of
+41 the development fees is not spent as authorized by this section within
+42 fifteen years after the development fees have been paid.
+43 K. If the development fees were collected for the construction of
+44 all or a portion of a specific item of infrastructure, and on completion
+45 of the infrastructure the county determines that the actual cost of
+46 construction was less than the forecasted cost of construction on which
+47 the development fees were based and the difference between the actual and
+48 estimated cost is greater than ten percent, the current owner may receive
+49 a refund of the portion of the development fees equal to the difference
+-22-
+
+House Amendments to H.B. 2999
+1 between the development fees paid and the development fees that would have
+2 been due if the development fees had been calculated at the actual
+3 construction cost.
+4 L. A refund shall include any interest earned by the county from
+5 the date of collection to the date of refund on the amount of the refunded
+6 fees. All refunds shall be paid to the owner of record of the property at
+7 the time the refund is paid. If the development fees are paid by a
+8 governmental entity, the refund shall be paid to the governmental entity.
+9 M. Development fees that were adopted before January 1, 2017 may
+10 continue to be assessed only to the extent that the development fees will
+11 be used to provide a necessary public service for which development fees
+12 can be assessed pursuant to this section and shall be replaced by
+13 development fees imposed under this section on or before January 1, 2021.
+14 Any county having development fees that have not been replaced under this
+15 section on or before January 1, 2021 may not collect development fees
+16 until the development fees have been replaced with fees that comply with
+17 this section. Development fees adopted or amended by a county after
+18 January 1, 2017 shall comply with this section. Any development fees
+19 monies collected before January 1, 2017 remaining in a development fees
+20 account:
+21 1. Shall be used towards TOWARD the same category of necessary
+22 public services as authorized by this section.
+23 2. And THAT WERE collected for a purpose not authorized by this
+24 section shall be used for the purpose for which the development fees were
+25 collected on or before January 1, 2024, and after which, if not spent,
+26 shall be distributed equally among the categories of necessary public
+27 services authorized by this section.
+28 N. A moratorium may not be placed on development for the sole
+29 purpose of awaiting completion of all or any part of the process necessary
+30 to develop, adopt or update development fees.
+31 O. In any judicial action interpreting this section all powers
+32 conferred on a county by this section shall be narrowly construed to
+33 ensure that development fees are not used to impose on new residents a
+34 burden all taxpayers of a county should bear equally.
+35 P. Each county that assesses development fees shall submit an
+36 annual report accounting for the collection and use of the fees for each
+37 service area. The annual report shall include the following:
+38 1. The amount assessed by the county for each type of development
+39 fee.
+40 2. The balance of each fund maintained for each type of development
+41 fee assessed as of the beginning and end of the fiscal year.
+42 3. The amount of interest or other earnings on the monies in each
+43 fund as of the end of the fiscal year.
+44 4. The amount of development fee monies used to repay:
+45 (a) Bonds issued by the county to pay the cost of a necessary
+46 public service that is the subject of a development fees assessment,
+47 including the amount needed to repay the debt service obligations on each
+48 facility for which development fees have been identified as the source of
+49 funding and the time frames in which the debt service will be repaid.
+-23-
+
+House Amendments to H.B. 2999
+1 (b) Monies advanced by the county from funds other than the funds
+2 established for development fees in order to pay the cost of a necessary
+3 public service that is the subject of a development fees assessment, the
+4 total amount advanced by the county for each facility, the source of the
+5 monies advanced and the terms under which the monies will be repaid to the
+6 county.
+7 5. The amount of development fees monies spent on each necessary
+8 public service or facility expansion that is the subject of a development
+9 fees assessment and the physical location of each capital improvement
+10 project.
+11 6. The amount of development fees monies spent for each purpose
+12 other than a necessary public service or facility expansion that is the
+13 subject of a development fees assessment.
+14 Q. Within ninety days following the end of each fiscal year, each
+15 county shall submit a copy of the annual report to the clerk of the board
+16 of supervisors and post the annual report on the county's website. Copies
+17 shall be made available to the public on request. The annual report may
+18 contain financial information that has not been audited.
+19 R. A county that fails to file the report and post the annual
+20 report on the county's website as required by this section shall not
+21 collect development fees until the report is filed and posted.
+22 S. Any action to collect development fees shall be commenced within
+23 two years after the obligation to pay the development fees accrues.
+24 T. A county may continue to assess development fees adopted before
+25 January 1, 2017 for any facility that was financed before June 1, 2016 if:
+26 1. Development fees were pledged to repay debt service obligations
+27 related to the construction of the facility.
+28 2. After January 1, 2018, any development fees collected under this
+29 subsection are used solely for the payment of principal and interest on
+30 the portion of the bonds, notes or other debt service obligations issued
+31 before June 1, 2016 to finance construction of the facility.
+32 U. Through January 1, 2018, development fees adopted before January
+33 1, 2017 may be used to finance construction of a facility and may be
+34 pledged to repay debt service obligations if:
+35 1. The facility that is being financed is a facility that is
+36 described under subsection V, paragraph 7, subdivision (a), (b), (c), (d)
+37 or (e) of this section.
+38 2. The facility was included in an infrastructure improvements plan
+39 adopted before June 1, 2016.
+40 3. The development fees are used for the payment of principal and
+41 interest on the portion of the bonds, notes or other debt service
+42 obligations issued to finance construction of the necessary public
+43 services or facility expansions identified in the infrastructure
+44 improvements plan.
+45 V. For the purposes of this section:
+46 1. "Dedication" means the actual conveyance date or the date an
+47 improvement, facility or real or personal property is placed into service,
+48 whichever occurs first.
+-24-
+
+House Amendments to H.B. 2999
+1 2. "Development" means:
+2 (a) The subdivision of land.
+3 (b) The construction, reconstruction, conversion, structural
+4 alteration, relocation or enlargement of any structure that adds or
+5 increases the number of service units.
+6 (c) Any use or extension of the use of land that increases the
+7 number of service units.
+8 3. "Facility expansion" means the expansion of the capacity of an
+9 existing facility that serves the same function as an otherwise new
+10 necessary public service in order that the existing facility may serve new
+11 development. Facility expansion does not include the repair, maintenance,
+12 modernization or expansion of an existing facility to better serve
+13 existing development.
+14 4. "Final approval" means, for nonresidential or multifamily
+15 development, the approval of a site plan or, if no site plan is submitted
+16 for the development, the approval of a final subdivision plat.
+17 5. "Infrastructure improvements plan" means a written plan that
+18 identifies each necessary public service or facility expansion that is
+19 proposed to be the subject of development fees and otherwise complies with
+20 the requirements of this section and may be the county's capital
+21 improvements plan.
+22 6. "Land use assumptions" means projections of changes in land
+23 uses, densities, intensities and population for a specified service area
+24 over a period of at least ten years and pursuant to the general plan of
+25 the county.
+26 7. "Necessary public service" means any of the following facilities
+27 that have a life expectancy of three or more years and that are owned and
+28 operated by or on behalf of the county:
+29 (a) Water facilities, including the supply, transportation,
+30 treatment, purification and distribution of water, and any appurtenances
+31 for those facilities.
+32 (b) Wastewater facilities, including collection, interception,
+33 transportation, treatment and disposal of wastewater, and any
+34 appurtenances for those facilities.
+35 (c) Street facilities located in the service area, including
+36 arterial or collector streets or roads that have been designated on an
+37 officially adopted plan of the county, traffic signals and rights-of-way
+38 and improvements thereon. Improvements to rights-of-way do not include
+39 streetcars, railways or other forms of transportation and their
+40 corresponding tracks.
+41 (d) Public safety facilities, including all appurtenances,
+42 equipment and vehicles. Public safety facilities do not include a
+43 facility or portion of a facility that is used to replace services that
+44 were once provided elsewhere in the county, vehicles and equipment used to
+45 provide administrative services, helicopters or airplanes, paramilitary
+46 vehicles, court and judicial facilities, facilities that are used for
+47 training firefighters or officers from more than one station or substation
+48 or jail, correctional or detention facilities.
+-25-
+
+House Amendments to H.B. 2999
+1 (e) Neighborhood parks and recreational facilities on real property
+2 up to thirty acres in area, or parks and recreational facilities larger
+3 than thirty acres if the facilities provide a direct benefit to the
+4 development. Parks and recreational facilities do not include vehicles,
+5 equipment of that portion of any facility that is used for amusement
+6 parks, aquariums, aquatic centers, auditoriums, arenas, arts and cultural
+7 facilities, bandstand and orchestra facilities, bathhouses, boathouses,
+8 clubhouses, community centers greater than three thousand square feet in
+9 floor area, environmental education centers, equestrian facilities,
+10 trails, golf course facilities, greenhouses, lakes, museums, theme parks,
+11 water reclamation or riparian areas, wetlands, zoo facilities or similar
+12 recreational facilities, but may include swimming pools and equipment or
+13 improvements constituting accessory or incidental amenities to a park or
+14 recreational facility allowed under this section.
+15 (f) Any facility that was financed and that meets all of the
+16 requirements prescribed in subsection T of this section.
+17 8. "Qualified professional" means a professional engineer,
+18 surveyor, financial analyst or planner providing services within the scope
+19 of the person's license, education or experience.
+20 9. "Service area" means any specified area within the boundaries of
+21 a county in which development will be served by necessary public services
+22 or facility expansions and within which a substantial nexus exists between
+23 the necessary public services or facility expansions and the development
+24 being served as prescribed in the infrastructure improvements plan.
+25 10. "Service unit" means a standardized measure of consumption,
+26 use, generation or discharge attributable to an individual unit of
+27 development calculated using data specific to the service area in which
+28 the facility will be located and pursuant to generally accepted
+29 engineering or planning standards for a particular category of necessary
+30 public services or facility expansions.
+31 Sec. 5. Title 48, Arizona Revised Statutes, is amended by adding
+32 chapter 40, to read:
+33 CHAPTER 40
+34 STATE HOUSING AFFORDABILITY DISTRICTS
+35 ARTICLE 1. GENERAL PROVISIONS
+36 48-7001. Definitions
+37 IN THIS CHAPTER, UNLESS THE CONTEXT OTHERWISE REQUIRES:
+38 1. "AD VALOREM TAX" MEANS THE LIMITED PROPERTY TAXES LEVIED BY A
+39 DISTRICT AGAINST THE NET ASSESSED LIMITED PROPERTY VALUATION OF REAL AND
+40 PERSONAL PROPERTY IN THE DISTRICT.
+41 2. "ASSESSMENT" MEANS A CHARGE FOR THE COSTS OF ANY PUBLIC
+42 INFRASTRUCTURE PURPOSE LEVIED BY THE DISTRICT AGAINST SPECIFIC REAL
+43 PROPERTY WITHIN THE DISTRICT FOR THE COSTS OF ANY PUBLIC INFRASTRUCTURE
+44 PURPOSE BASED ON THE BENEFIT DETERMINED BY THE BOARD TO BE RECEIVED BY THE
+45 SPECIFIC REAL PROPERTY AGAINST WHICH THE ASSESSMENT IS LEVIED.
+46 3. "AUTHORITY" MEANS THE ARIZONA FINANCE AUTHORITY ESTABLISHED BY
+47 SECTION 41-5352.
+48 4. "BOARD" MEANS THE BOARD OF DIRECTORS OF A DISTRICT CREATED
+49 PURSUANT TO THIS CHAPTER.
+-26-
+
+House Amendments to H.B. 2999
+1 5. "BONDS":
+2 (a) MEANS ANY BOND PRESCRIBED BY THIS CHAPTER AND ISSUED BY A
+3 DISTRICT.
+4 (b) INCLUDES GENERAL OBLIGATION BONDS, ASSESSMENT BONDS, REVENUE
+5 BONDS AND REFUNDING BONDS.
+6 6. "CLERK" MEANS THE PERSON APPOINTED BY THE BOARD TO BE THE
+7 DISTRICT CLERK.
+8 7. "COUNTY" MEANS THE COUNTY IN WHICH A DISTRICT IS FORMED PURSUANT
+9 TO THIS CHAPTER.
+10 8. "DEBT SERVICE" MEANS THE PRINCIPAL OF, INTEREST ON AND PREMIUM,
+11 IF ANY, ON THE BONDS, WHEN DUE, WHETHER AT MATURITY OR PRIOR REDEMPTION
+12 AND FEES AND COSTS OF REGISTRARS, TRUSTEES, PAYING AGENTS OR OTHER AGENTS
+13 NECESSARY TO HANDLE THE BONDS AND THE COSTS OF CREDIT ENHANCEMENT OR
+14 LIQUIDITY SUPPORT.
+15 9. "DISTRICT" MEANS A STATE HOUSING AFFORDABILITY DISTRICT FORMED
+16 PURSUANT TO THIS CHAPTER.
+17 10. “EXECUTIVE DIRECTOR” MEANS THE EXECUTIVE DIRECTOR OF THE
+18 AUTHORITY OR THE EXECUTIVE DIRECTOR’S DESIGNEE.
+19 11. "FINANCING PLAN" MEANS THE DISTRICT'S CAPITAL PLAN CONTAINING
+20 FINANCIAL PROJECTIONS, ENGINEERING STUDIES, COST ALLOCATION, SEQUENCING
+21 AND MARKET-VALUE ANALYSES.
+22 12. "FORMATION ORDER" MEANS THE WRITTEN ORDER ISSUED BY THE
+23 AUTHORITY EVIDENCING ITS FINAL APPROVAL OF THE FORMATION OF A DISTRICT
+24 PURSUANT TO THIS CHAPTER.
+25 13. "GENERAL PLAN" MEANS THE GENERAL PLAN DESCRIBED IN SECTION
+26 48-7002, SUBSECTION B, AS THE PLAN MAY BE AMENDED.
+27 14. "MARKET VALUE" HAS THE SAME MEANING AS PRESCRIBED IN SECTION
+28 28-7091, AS INDICATED BY AN APPRAISAL OF THE REAL PROPERTY BY AN APPRAISER
+29 WHO IS LICENSED OR CERTIFIED PURSUANT TO TITLE 32, CHAPTER 36.
+30 15. "MAXIMUM AUTHORIZED TAX RATE" MEANS THE MAXIMUM TAX RATE FOR AD
+31 VALOREM TAXES PLEDGED TO SECURE GENERAL OBLIGATION BONDS APPROVED AT AN
+32 ELECTION AUTHORIZING THE LEVY OF AD VALOREM TAXES AND THE ISSUANCE OF
+33 GENERAL OBLIGATION BONDS AND INDICATED IN THE PETITION, PROVIDED THAT THE
+34 MAXIMUM AUTHORIZED TAX RATE SHALL NOT EXCEED $10 PER $100 OF NET LIMITED
+35 ASSESSED PROPERTY VALUATION OF PROPERTY WITHIN THE BOUNDARIES OF THE
+36 DISTRICT.
+37 16. "MUNICIPALITY" MEANS A CITY OR TOWN.
+38 17. "NET PREMIUM" MEANS THE DIFFERENCE BETWEEN THE PAR AMOUNT OF THE
+39 GENERAL OBLIGATION BOND ISSUE AND THE GENERAL OBLIGATION BOND ISSUE PRICE
+40 THAT IS DETERMINED PURSUANT TO UNITED STATES DEPARTMENT OF THE TREASURY
+41 REGULATIONS.
+42 18. "O/M TAX" MEANS A SECONDARY PROPERTY TAX LEVIED TO PAY THE
+43 EXPENSES OF OPERATING, MAINTAINING AND ADMINISTERING THE DISTRICT AND THE
+44 PUBLIC INFRASTRUCTURE FINANCED BY THE DISTRICT, INCLUDING LEGAL EXPENSES
+45 AND EXPENSES ASSOCIATED WITH INSURANCE COVERAGE, AS APPROVED BY THE
+46 DISTRICT IN ITS BUDGET.
+47 19. "OWNER" MEANS THE PERSON OR ENTITY THAT, ON THE DAY THE ACTION,
+48 ELECTION OR PROCEEDING IS BEGUN OR HELD, APPEARS TO BE THE FEE-TITLE OWNER
+49 OF REAL PROPERTY AS SHOWN ON THE PROPERTY TAX ASSESSMENT ROLL.
+-27-
+
+House Amendments to H.B. 2999
+1 20. "PETITION" MEANS A PETITION SUBMITTED TO THE AUTHORITY TO
+2 INITIATE FORMATION OF A DISTRICT PURSUANT TO THIS CHAPTER.
+3 21. "PETITIONER" MEANS THE PERSON OR ENTITY THAT INITIATES THE
+4 FORMATION OF A DISTRICT BY SUBMITTING A PETITION TO THE AUTHORITY PURSUANT
+5 TO THIS CHAPTER AND INCLUDES ANY SUCCESSOR OR ASSIGNEE OF THAT PERSON OR
+6 ENTITY THAT THE AUTHORITY RECOGNIZES AS THE PETITIONER FOR THE PURPOSES OF
+7 THE PETITION AND FORMATION ORDER.
+8 22. "PUBLIC INFRASTRUCTURE" MEANS ALL IMPROVEMENTS LISTED IN THIS
+9 PARAGRAPH THAT WILL RESULT IN A BENEFICIAL USE PRINCIPALLY TO LAND WITHIN
+10 THE GEOGRAPHICAL LIMITS OF THE DISTRICT AND MAY INCLUDE A DISTRICT'S SHARE
+11 OF ANY IMPROVEMENTS LISTED IN THIS PARAGRAPH IF THE DISTRICT BOARD
+12 DETERMINES SUCH SHARE IS PROPORTIONATE TO THE BENEFICIAL USE OF SUCH
+13 IMPROVEMENTS TO LAND WITHIN THE GEOGRAPHICAL LIMITS OF THE DISTRICT,
+14 IMPROVEMENTS WITHIN OR OUTSIDE THE GEOGRAPHICAL LIMITS OF THE DISTRICT,
+15 NECESSARY OR INCIDENTAL WORK, INCLUDING LAND CLEARANCE AND ENVIRONMENTAL
+16 REMEDIATION ACTIVITIES, WHETHER NEWLY CONSTRUCTED, RENOVATED OR EXISTING,
+17 AND ALL NECESSARY OR DESIRABLE APPURTENANCES. FOR THE PURPOSES OF THIS
+18 PARAGRAPH, ADOPTION BY THE DISTRICT BOARD OF A RESOLUTION OF INTENT
+19 PURSUANT TO SECTION 48-7008 SHALL CONCLUSIVELY ESTABLISH THAT THE
+20 IMPROVEMENTS OR, IF APPLICABLE, SHARE OF THE IMPROVEMENTS THAT ARE THE
+21 SUBJECT OF THE RESOLUTION WILL RESULT IN A BENEFICIAL USE PRINCIPALLY TO
+22 LAND WITHIN THE GEOGRAPHICAL LIMITS OF THE DISTRICT. PUBLIC INFRASTRUCTURE
+23 IMPROVEMENTS ARE:
+24 (a) WATER, WASTEWATER, SEWER, STORMWATER AND FLOOD CONTROL
+25 FACILITIES AND APPURTENANCES USED FOR THE DEVELOPMENT, TREATMENT, STORAGE,
+26 CONVEYANCE, CONTROL, REUSE, DISTRIBUTION, CONNECTION AND LAWFUL
+27 DISPOSITION OF POTABLE AND NONPOTABLE WATER, WASTEWATER, STORMWATER AND
+28 FLOODWATERS FOR RESIDENTIAL, COMMERCIAL, GOVERNMENTAL, IRRIGATION AND
+29 FIRE-SUPPRESSION USES, EXCLUDING INFRASTRUCTURE DEDICATED PRIMARILY TO
+30 AGRICULTURAL IRRIGATION FACILITIES IMPACTED BY OTHER IMPROVEMENTS
+31 AUTHORIZED BY THIS CHAPTER AND ENERGY AND UTILITY FACILITIES AND
+32 APPURTENANCES USED FOR THE GENERATION, INTERCONNECTION, TRANSMISSION,
+33 DISTRIBUTION, STORAGE AND CONTROL OF ELECTRIC POWER AND OTHER ENERGY
+34 RESOURCES AND NATURAL GAS AND ALTERNATIVE FUEL PIPELINE AND DISTRIBUTION
+35 FACILITIES, ALL TO THE EXTENT LOCATED WITHIN OR NECESSARY TO SERVE THE
+36 DISTRICT.
+37 (b) TRANSPORTATION AND MOBILITY FACILITIES, IMPROVEMENTS AND
+38 APPURTENANCES USED TO PROVIDE VEHICULAR AND NON-VEHICULAR CIRCULATION,
+39 ACCESS, EGRESS AND PARKING, INCLUDING STREETS, ROADS, HIGHWAYS, BRIDGES,
+40 ALLEYS, PARKING FACILITIES, SIDEWALKS, TRAILS, PATHWAYS, BICYCLE
+41 FACILITIES, EQUESTRIAN ROUTES AND OTHER AREAS AND IMPROVEMENTS INTENDED
+42 FOR MOTORIZED AND NONMOTORIZED TRAVEL AND PARKING, AND, IF LOCATED WITHIN
+43 OR NECESSARY TO SERVE THE DISTRICT, RAILWAY CORRIDORS, RAIL CROSSINGS,
+44 GRADE SEPARATIONS, SIDINGS, SIGNALIZATION AND RELATED RAIL TRANSPORTATION
+45 FACILITIES AND TRAFFIC MANAGEMENT AND CONTROL FACILITIES AND DEVICES,
+46 INCLUDING SIGNALS, INTELLIGENT TRANSPORTATION SYSTEMS, CONTROLS, PAVEMENT
+47 MARKINGS, WAYFINDING, SIGNAGE AND LIGHTING AND ILLUMINATIONS SYSTEMS,
+48 INCLUDING STREET LIGHTING, PATHWAY LIGHTING, AREA LIGHTING AND RELATED
+49 ELECTRICAL AND CONTROL FACILITIES.
+-28-
+
+House Amendments to H.B. 2999
+1 (c) PUBLIC REALM AND OPEN SPACE AMENITIES, INCLUDING PEDESTRIAN
+2 MALLS, PARKS, PLAZAS, RECREATIONAL FACILITIES OTHER THAN STADIUMS, AND
+3 OTHER AREAS AND IMPROVEMENTS INTENDED FOR PUBLIC ENTERTAINMENT, ASSEMBLY,
+4 AND RECREATION, TOGETHER WITH LANDSCAPING, GRADING, EARTHWORKS,
+5 STRUCTURES, LAKES AND WATER FEATURES, PLANTINGS, TREES, IRRIGATION AND
+6 WATER DELIVERY SYSTEMS AND RELATED SITE IMPROVEMENTS.
+7 (d) PUBLIC BUILDINGS AND PUBLIC SAFETY FACILITIES, INCLUDING
+8 POLICE, FIRE AND EMERGENCY SERVICES FACILITIES AND RELATED IMPROVEMENTS.
+9 (e) COMMUNICATIONS AND DIGITAL INFRASTRUCTURE, INCLUDING
+10 FIBEROPTIC, WIRELESS AND BROADBAND FACILITIES, CONDUITS, TOWERS, ANTENNAS,
+11 DATA TRANSMISSION SYSTEMS, NETWORK EQUIPMENT, PUBLIC SAFETY COMMUNICATIONS
+12 FACILITIES, AND RELATED APPURTENANCES AND RIGHTS-OF-WAY.
+13 (f) EQUIPMENT, VEHICLES, FURNISHINGS, TECHNOLOGY AND OTHER PERSONAL
+14 PROPERTY AND APPURTENANCES RELATED TO OR NECESSARY FOR THE OPERATION OF
+15 ANY PUBLIC INFRASTRUCTURE AUTHORIZED BY THIS CHAPTER.
+16 (g) REFINANCING ANY MATURED OR UNMATURED BONDS WITH NEW BONDS.
+17 23. "PUBLIC INFRASTRUCTURE PURPOSE" MEANS:
+18 (a) PLANNING, DESIGNING, ENGINEERING, CONSTRUCTING, ACQUIRING OR
+19 INSTALLING OF PUBLIC INFRASTRUCTURE.
+20 (b) ACQUIRING, CONVERTING, RENOVATING OR IMPROVING EXISTING
+21 FACILITIES FOR PUBLIC INFRASTRUCTURE.
+22 (c) ACQUIRING INTERESTS IN REAL PROPERTY FOR PUBLIC INFRASTRUCTURE.
+23 (d) ESTABLISHING, MAINTAINING AND REPLENISHING RESERVES IN ORDER TO
+24 SECURE PAYMENT OF DEBT SERVICE ON BONDS.
+25 (e) FUNDING AND PAYING FROM BOND PROCEEDS INTEREST ACCRUING ON
+26 BONDS FOR A PERIOD OF NOT TO EXCEED THREE YEARS AFTER THEIR DATE OF
+27 ISSUANCE AND COSTS OF ISSUANCE OF THE BONDS AND UNDERWRITER AND PLACEMENT
+28 AGENT FEES.
+29 (f) PROVIDING FOR THE TIMELY PAYMENT OF DEBT SERVICE ON
+30 INDEBTEDNESS OF THE DISTRICT OR OF DEVELOPMENT FEES OR SIMILAR EXACTIONS
+31 IMPOSED BY A MUNICIPALITY OR OTHER PUBLIC ENTITY, TO THE EXTENT THOSE
+32 CHARGES ARE IMPOSED TO FUND PUBLIC INFRASTRUCTURE THAT IS LOCATED WITHIN,
+33 PRIMARILY SERVES OR IS NECESSITATED BY DEVELOPMENT WITHIN THE DISTRICT.
+34 (g) REFINANCING ANY MATURED OR UNMATURED BONDS WITH NEW BONDS.
+35 (h) INCURRING EXPENSES OF THE DISTRICT THAT ARE INCIDENTAL TO AND
+36 REASONABLY NECESSARY TO CARRY OUT THE PURPOSES SPECIFIED IN THIS
+37 PARAGRAPH.
+38 24. "QUALIFIED ELECTOR" MEANS A PERSON WHO IS A QUALIFIED ELECTOR
+39 PURSUANT TO TITLE 16 AND WHO RESIDES WITHIN THE BOUNDARIES OF A DISTRICT.
+40 25. "TREASURER" MEANS THE PERSON APPOINTED BY THE BOARD TO BE THE
+41 DISTRICT TREASURER.
+42 48-7002. Petition to form district; contents of petition;
+43 filings; fees; limitation of liability
+44 A. A STATE HOUSING AFFORDABILITY DISTRICT MAY BE FORMED PURSUANT TO
+45 THIS CHAPTER BY PETITION OF ALL INDIVIDUALS AND ENTITIES HAVING FEE-TITLE
+46 OWNERSHIP OF ALL REAL PROPERTY IN THE PROPOSED DISTRICT. THE PETITION
+47 SHALL BE SUBMITTED TO THE AUTHORITY. THE DISTRICT MAY INCLUDE CONTIGUOUS
+48 OR NONCONTIGUOUS PROPERTY, PROVIDED THAT ALL NONCONTIGUOUS PROPERTY SHALL
+49 BE LOCATED IN THE SAME COUNTY AND SHALL LIE WITHIN FIVE MILES OF THE
+-29-
+
+House Amendments to H.B. 2999
+1 BOUNDARY OF OTHER PROPERTY WITHIN THE DISTRICT, MEASURED IN A STRAIGHT
+2 LINE BETWEEN SUCH PARCEL BOUNDARIES. IF ANY PORTION OF A DISTRICT IS
+3 LOCATED WITHIN THE CORPORATE LIMITS OF A MUNICIPALITY, THE ENTIRE DISTRICT
+4 SHALL AT ALL TIMES BE LOCATED WITHIN THE CORPORATE LIMITS OR WITHIN THE
+5 ADOPTED PLANNING AREA OF THAT MUNICIPALITY, AS SUCH LIMITS OR PLANNING
+6 AREA MAY BE AMENDED FROM TIME TO TIME.
+7 B. THE PETITION SHALL CONTAIN ALL OF THE FOLLOWING:
+8 1. A METES AND BOUNDS DESCRIPTION AND A MAP OF THE DISTRICT
+9 BOUNDARIES.
+10 2. THE PROPOSED NAME OF THE DISTRICT.
+11 3. A GENERAL PLAN SETTING OUT A GENERAL DESCRIPTION OF THE PUBLIC
+12 INFRASTRUCTURE FOR WHICH THE DISTRICT IS PROPOSED TO BE FORMED AND FOR
+13 WHICH BONDS MAY BE ISSUED, THE GENERAL AREAS TO BE IMPROVED AND THE
+14 ESTIMATED COSTS OF CONSTRUCTING OR ACQUIRING THE PUBLIC INFRASTRUCTURE TO
+15 BE FINANCED, CONSTRUCTED OR ACQUIRED BY THE DISTRICT.
+16 4. A GENERAL DESCRIPTION OF THE ESTIMATED COST OF ENGINEERING
+17 SERVICES, LEGAL SERVICES, ADMINISTRATIVE SERVICES AND OTHER MAJOR EXPENSES
+18 THAT ARE RELATED TO ORGANIZING AND INITIALLY OPERATING THE DISTRICT.
+19 5. AN ENGINEER’S ESTIMATE OF THE COSTS OF THE PUBLIC INFRASTRUCTURE
+20 FOR WHICH THE DISTRICT IS PROPOSED TO BE FORMED AND FOR WHICH BONDS MAY BE
+21 ISSUED.
+22 6. THE MAXIMUM AUTHORIZED TAX RATE, THE MAXIMUM AGGREGATE PRINCIPAL
+23 AMOUNT OF GENERAL OBLIGATION BONDS AND THE MAXIMUM AGGREGATE ASSESSMENT
+24 AMOUNT, IF ANY.
+25 7. THE MAXIMUM O/M TAX RATE, IF ANY.
+26 8. A PRELIMINARY FINANCING PLAN THAT INCLUDES THE ANTICIPATED
+27 SOURCES AND USES OF MONIES FOR THE PUBLIC INFRASTRUCTURE.
+28 9. IF THE DISTRICT PROPOSES TO ISSUE ASSESSMENT BONDS, AN APPRAISAL
+29 INDICATING THE AGGREGATE AS‑IS MARKET VALUE OF REAL PROPERTY IN THE
+30 DISTRICT AND THE PROJECTED MARKET VALUE OF THE REAL PROPERTY AND
+31 IMPROVEMENTS IN THE DISTRICT AFTER COMPLETION OF THE PUBLIC INFRASTRUCTURE
+32 PROPOSED TO BE FINANCED WITH SUCH ASSESSMENT BONDS.
+33 10. IF THE DISTRICT PROPOSES TO ISSUE GENERAL OBLIGATION BONDS, A
+34 THIRD-PARTY MARKET STUDY THAT INCLUDES PROJECTIONS OF THE LIMITED PROPERTY
+35 VALUE OF REAL PROPERTY IN THE DISTRICT FOR EACH YEAR IN WHICH GENERAL
+36 OBLIGATION BONDS ARE PROPOSED TO BE OUTSTANDING TOGETHER WITH INFORMATION
+37 DEMONSTRATING THAT DEBT SERVICE ON SUCH BONDS CAN BE SUPPORTED WITHIN THE
+38 MAXIMUM AUTHORIZED TAX RATE.
+39 11. A STATEMENT OF ALL HOLDERS OF FEE TITLE TO ALL REAL PROPERTY IN
+40 THE DISTRICT, THE INITIAL BOARD MEMBERS, THE INITIAL TERMS OF OFFICE OF
+41 THE INITIAL BOARD MEMBERS AND THE DISTRICT CLERK AND THE DISTRICT
+42 TREASURER.
+43 12. A STATEMENT OF BOND COUNSEL INDICATING THAT THE PETITION
+44 COMPLIES WITH THE PROCEDURAL REQUIREMENTS OF THIS SECTION.
+45 13. A COPY OF ANY EXISTING AND APPLICABLE DEVELOPMENT AGREEMENT OR
+46 OTHER AGREEMENT WITH THE MUNICIPALITY OR THE COUNTY THAT RELATES TO THE
+47 LAND INCLUDED WITHIN THE BOUNDARIES OF THE DISTRICT AND A CERTIFICATION
+48 THAT THE FORMATION OF THE DISTRICT WILL NOT VIOLATE ANY SUCH AGREEMENT.
+-30-
+
+House Amendments to H.B. 2999
+1 14. A WRITTEN STATEMENT, SIGNED BY AN ENGINEER, CERTIFYING THAT THE
+2 ESTIMATED COST OF THE PUBLIC INFRASTRUCTURE TO BE CONSTRUCTED IN THE
+3 PROPOSED DISTRICT EXCEEDS $5,000,000.
+4 15. A FORMATION ORDER IN SUBSTANTIALLY FINAL AND RECORDABLE FORM.
+5 16. A DESCRIPTION OF THE PETITIONER, INCLUDING:
+6 (a) THE LEGAL NAME OF EACH ENTITY OR INDIVIDUAL HAVING FEE-TITLE
+7 OWNERSHIP OF ANY REAL PROPERTY IN THE PROPOSED DISTRICT.
+8 (b) THE NAME, ADDRESS AND TELEPHONE NUMBER OF THE PRIMARY CONTACT
+9 FOR THE PETITIONER.
+10 (c) THE NAMES OF ANY LEGAL REPRESENTATIVES, ENGINEERS, ARCHITECTS,
+11 FINANCIAL CONSULTANTS OR OTHER CONSULTANTS THAT ARE SIGNIFICANTLY INVOLVED
+12 IN THE PETITION.
+13 (d) A GENERAL DESCRIPTION OF THE PETITIONER’S EXPERIENCE WITH
+14 SIMILAR TYPES OF DEVELOPMENTS THAT THE DISTRICT WILL SUPPORT.
+15 C. ANY FINANCIAL BURDEN OF A DISTRICT IS BORNE SOLELY BY THE
+16 DISTRICT AND IS NOT BORNE BY THE AUTHORITY, THIS STATE OR ANY
+17 MUNICIPALITY, COUNTY OR OTHER POLITICAL SUBDIVISION OF THIS STATE. ANY
+18 LIABILITY, JUDGMENT OR CLAIM AGAINST A DISTRICT IS THE SOLE RESPONSIBILITY
+19 OF THE DISTRICT AND DOES NOT CONSTITUTE A LIABILITY, JUDGMENT OR CLAIM
+20 AGAINST THE AUTHORITY, THIS STATE OR ANY MUNICIPALITY, COUNTY OR OTHER
+21 POLITICAL SUBDIVISION OF THIS STATE.
+22 D. THE PETITION SHALL BE FILED WITH THE AUTHORITY. THE PETITIONER
+23 SHALL PROVIDE WRITTEN NOTICE OF THE FILING OF THE PETITION TO EACH
+24 AFFECTED MUNICIPALITY AND, IF THE DISTRICT IS LOCATED IN AN UNINCORPORATED
+25 AREA, TO THE COUNTY. THE NOTICE SHALL STATE THAT THE DISTRICT WILL BE
+26 FORMED NOT LESS THAN THIRTY DAYS AND NOT MORE THAN SIXTY DAYS AFTER
+27 SUBMITTING THE PETITION, SUBJECT TO APPROVAL BY THE AUTHORITY.
+28 E. IF THE AUTHORITY DETERMINES THAT THE PETITION IS INCOMPLETE OR
+29 DEFICIENT, THE PETITIONER SHALL HAVE A PERIOD OF SIXTY DAYS AFTER WRITTEN
+30 NOTICE OF THE DEFICIENCIES TO SUBMIT CORRECTIONS OF THE DEFICIENCIES. IF
+31 THE CORRECTIONS OF THE DEFICIENCIES ARE NOT SUBMITTED TO THE AUTHORITY
+32 WITHIN SIXTY DAYS AFTER NOTICE OR DO NOT CORRECT THE DEFICIENCIES, THE
+33 AUTHORITY MAY REJECT THE PETITION.
+34 F. FOR PURPOSES OF THIS CHAPTER, ALL CERTIFICATIONS,
+35 DETERMINATIONS, APPROVALS, FINDINGS AND ACTIONS REQUIRED TO BE MADE BY THE
+36 AUTHORITY SHALL BE MADE BY THE EXECUTIVE DIRECTOR. NOTWITHSTANDING ANY
+37 OTHER LAW, NO ACTION, APPROVAL, RESOLUTION OR VOTE OF THE BOARD OF
+38 DIRECTORS OF THE AUTHORITY IS REQUIRED FOR ANY CERTIFICATION,
+39 DETERMINATION OR ACTION TAKEN BY THE EXECUTIVE DIRECTOR PURSUANT TO THIS
+40 CHAPTER. ANY ACTION TAKEN BY THE EXECUTIVE DIRECTOR PURSUANT TO THIS
+41 CHAPTER IS DEEMED AN ACTION OF THE AUTHORITY.
+42 G. FEES AND OTHER CHARGES THAT ARE ASSESSED BY THE AUTHORITY IN
+43 CONNECTION WITH THE SUBMISSION AND CONSIDERATION OF AN APPLICATION AND
+44 PETITION TO FORM A DISTRICT SHALL NOT EXCEED $15,000 FOR EACH
+45 PETITION. IF A PETITION IS DENIED BY THE AUTHORITY, THE AUTHORITY MAY NOT
+46 ASSESS A FEE OR OTHER CHARGE IN CONNECTION WITH THE SUBMISSION AND
+47 CONSIDERATION OF A REVISED PETITION THAT IS SUBMITTED WITHIN ONE YEAR
+48 AFTER THE DENIAL.
+-31-
+
+House Amendments to H.B. 2999
+1 48-7003. Authority; formation order; limitations on
+2 rejection; fees
+3 A. A DISTRICT SHALL BE FORMED ONLY ON THE ISSUANCE OF A FORMATION
+4 ORDER BY THE AUTHORITY. THE AUTHORITY SHALL REVIEW THE PETITION SUBMITTED
+5 PURSUANT TO SECTION 48-7002 AND ACCOMPANYING MATERIALS TO EVALUATE, SOLELY
+6 ON THE BASIS OF THE INFORMATION INCLUDED WITH THE PETITION, THE FOLLOWING:
+7 1. WHETHER ANY APPRAISAL OR THIRD-PARTY MARKET STUDY PROVIDED IN
+8 CONNECTION WITH THE PETITION IS COMPLETE.
+9 2. WHETHER THE DESCRIPTION OF THE PROPOSED PUBLIC INFRASTRUCTURE IN
+10 THE GENERAL PLAN APPEARS COMPLETE ON ITS FACE AND DOES NOT CONTAIN OBVIOUS
+11 ERRORS, WITHOUT ANY INDEPENDENT ENGINEERING INVESTIGATION, ANALYSIS OR
+12 VERIFICATION.
+13 3. WHETHER THE PRELIMINARY FINANCING PLAN INCLUDES THE ANTICIPATED
+14 SOURCES AND USES OF MONIES FOR THE PUBLIC INFRASTRUCTURE.
+15 4. WHETHER THE DISTRICT IS REASONABLY EXPECTED TO HAVE THE
+16 FINANCIAL ABILITY TO DISCHARGE ITS PROPOSED INDEBTEDNESS WITHIN THE
+17 MAXIMUM AUTHORIZED TAX RATE AND MAXIMUM AGGREGATE ASSESSMENT AMOUNT, AS
+18 APPLICABLE.
+19 5. WHETHER FORMATION OF THE DISTRICT WILL VIOLATE ANY EXISTING AND
+20 APPLICABLE DEVELOPMENT AGREEMENT OR OTHER AGREEMENT WITH THE MUNICIPALITY
+21 OR THE COUNTY THAT RELATES TO THE LAND INCLUDED WITHIN THE BOUNDARIES OF
+22 THE DISTRICT THAT WAS SUBMITTED TO THE AUTHORITY IN CONNECTION WITH THE
+23 PETITION.
+24 B. THE AUTHORITY SHALL APPROVE FORMATION OF THE DISTRICT AND ISSUE
+25 THE FORMATION ORDER FOR THE DISTRICT IF THE AUTHORITY FINDS THAT ALL OF
+26 THE FOLLOWING OCCURRED:
+27 1. ALL REQUIRED DOCUMENTS HAVE BEEN SUBMITTED IN THE FORM
+28 PRESCRIBED BY THIS CHAPTER.
+29 2. THE PROPOSED DISTRICT MEETS ALL STATUTORY ELIGIBILITY AND
+30 BOUNDARY REQUIREMENTS THAT ARE ESTABLISHED UNDER THIS CHAPTER.
+31 3. THE NOTICE TO EACH AFFECTED MUNICIPALITY AND, IF THE DISTRICT IS
+32 LOCATED IN AN UNINCORPORATED AREA, TO THE COUNTY HAS BEEN PROVIDED AS
+33 PRESCRIBED BY SECTION 48-7002, SUBSECTION D.
+34 4. SOLELY ON THE BASIS OF THE INFORMATION SUBMITTED IN CONNECTION
+35 WITH THE PETITION, INCLUDING ANY APPRAISAL OR THIRD-PARTY MARKET STUDY,
+36 THE DISTRICT HAS, OR WILL HAVE, THE FINANCIAL ABILITY TO DISCHARGE ITS
+37 PROPOSED INDEBTEDNESS WITHIN THE MAXIMUM AUTHORIZED TAX RATE AND MAXIMUM
+38 AGGREGATE ASSESSMENT AMOUNT, AS APPLICABLE.
+39 C. IF THE REQUIREMENTS OF SUBSECTION B OF THIS SECTION ARE
+40 SATISFIED, THE AUTHORITY SHALL ISSUE A FORMATION ORDER WITHIN SIXTY DAYS
+41 AFTER THE SUBMISSION OF A COMPLETE PETITION. THE FORMATION ORDER SHALL
+42 INCLUDE ALL OF THE FOLLOWING:
+43 1. THE NAME OF THE DISTRICT.
+44 2. A METES AND BOUNDS DESCRIPTION AND A MAP OF THE DISTRICT'S
+45 BOUNDARIES.
+46 3. A GENERAL DESCRIPTION OF THE PUBLIC INFRASTRUCTURE THAT THE
+47 DISTRICT MAY FINANCE.
+48 4. A STATEMENT THAT A GENERAL PLAN AND A PRELIMINARY FINANCING PLAN
+49 FOR THE DISTRICT WILL BE ON FILE WITH THE CLERK.
+-32-
+
+House Amendments to H.B. 2999
+1 5. THE TYPES OF BONDS THAT THE DISTRICT IS AUTHORIZED TO ISSUE.
+2 6. THE MAXIMUM AUTHORIZED TAX RATE, THE MAXIMUM AUTHORIZED
+3 AGGREGATE PRINCIPAL AMOUNT OF GENERAL OBLIGATION BONDS, THE MAXIMUM
+4 AGGREGATE ASSESSMENT AMOUNT AND THE MAXIMUM O/M TAX RATE.
+5 7. THE NAMES AND INITIAL TERMS OF THE INITIAL BOARD OF DIRECTORS
+6 AND THAT THE DISTRICT WILL BE GOVERNED BY DIRECTORS WHO ARE CHOSEN
+7 PURSUANT TO THIS CHAPTER.
+8 8. A STATEMENT THAT:
+9 (a) THE FORMATION OF THE DISTRICT MAY RESULT IN THE LEVY OF AD
+10 VALOREM TAXES OR ASSESSMENTS TO PAY THE COSTS OF AUTHORIZED PUBLIC
+11 INFRASTRUCTURE THAT IS CONSTRUCTED BY THE DISTRICT AND FOR OPERATING AND
+12 MAINTAINING THE AUTHORIZED PUBLIC INFRASTRUCTURE.
+13 (b) ANY AD VALOREM TAX THAT IS LEVIED FOR THE PAYMENT OF GENERAL
+14 OBLIGATION BONDS MAY NOT BE LEVIED AT A RATE THAT EXCEEDS THE MAXIMUM
+15 AUTHORIZED TAX RATE THAT IS APPROVED AT THE ELECTION THAT AUTHORIZED THE
+16 LEVY AND THE ISSUANCE OF THE BONDS.
+17 (c) ANY BONDS OR OTHER OBLIGATIONS OF THE DISTRICT WILL NOT BE A
+18 DEBT, LEGAL OR MORAL, OF THIS STATE OR ANY MUNICIPALITY OR ANY COUNTY OF
+19 THIS STATE, ARE NOT OBLIGATIONS OF THIS STATE OR ANY MUNICIPALITY OR ANY
+20 COUNTY OF THIS STATE AND ARE OBLIGATIONS OF THE DISTRICT AND ARE PAYABLE
+21 ONLY FROM THE SOURCES PLEDGED FOR THEIR PAYMENT.
+22 D. THE AUTHORITY SHALL APPROVE FORMATION OF THE DISTRICT AND ISSUE
+23 THE FORMATION ORDER IF THE AUTHORITY DETERMINES THAT THE PETITION AND
+24 ACCOMPANYING MATERIALS MEET THE STATUTORY REQUIREMENTS OF THIS CHAPTER.
+25 THE AUTHORITY'S REVIEW IS LIMITED TO CONFIRMING THAT THE STATUTORY
+26 REQUIREMENTS OF THIS CHAPTER HAVE BEEN SATISFIED AND THE AUTHORITY MAY
+27 DENY A PETITION ONLY UPON A WRITTEN FINDING OF ONE OF THE FOLLOWING:
+28 1. THE PETITION IS INCOMPLETE.
+29 2. THE FINANCIAL INFORMATION SUBMITTED IN CONNECTION WITH THE
+30 PETITION, INCLUDING ANY APPRAISAL OR THIRD-PARTY MARKET STUDY, IS
+31 INCOMPLETE OR INSUFFICIENT TO SUPPORT A FINDING THAT THE DISTRICT HAS OR
+32 WILL HAVE THE FINANCIAL ABILITY TO DISCHARGE ITS PROPOSED INDEBTEDNESS
+33 WITHIN THE MAXIMUM AUTHORIZED TAX RATE AND MAXIMUM AGGREGATE ASSESSMENT
+34 AMOUNT, AS APPLICABLE.
+35 3. THE PROPOSED DISTRICT VIOLATES A STATUTORY PROHIBITION OR
+36 BOUNDARY RULE UNDER THIS CHAPTER, AND IN EACH CASE THE PETITIONER FAILED
+37 TO SUBMIT PROPOSED CORRECTIONS OF THE DEFICIENCIES WITHIN SIXTY DAYS AFTER
+38 NOTICE.
+39 E. IF THE AUTHORITY DOES NOT ISSUE THE FORMATION ORDER WITHIN SIXTY
+40 DAYS AFTER SUBMISSION OF A COMPLETE PETITION, THE AUTHORITY SHALL PROVIDE
+41 A WRITTEN BASIS FOR NOT ADOPTING THE FORMATION ORDER AND SHALL IDENTIFY
+42 THE SPECIFIC CHANGES THAT ARE NEEDED FOR THE PETITION TO BE APPROVED AND
+43 FOR THE DISTRICT TO BE FORMED. SUCH ACTION WILL NOT CONSTITUTE A DENIAL
+44 OF THE PETITION AND THE PETITION MAY BE REVISED AND RESUBMITTED AT ANY
+45 TIME.
+46 F. ON ISSUANCE OF THE FORMATION ORDER BY THE AUTHORITY, THE
+47 DISTRICT SHALL CAUSE THE FORMATION ORDER TO BE RECORDED IN THE REAL
+48 PROPERTY RECORDS OF THE COUNTY IN WHICH THE DISTRICT IS LOCATED AND SHALL
+49 CAUSE A COPY OF THE FORMATION ORDER TO BE DELIVERED TO THE COUNTY ASSESSOR
+-33-
+
+House Amendments to H.B. 2999
+1 AND THE BOARD OF SUPERVISORS OF THE COUNTY IN WHICH THE DISTRICT IS
+2 LOCATED, TO ANY MUNICIPALITY IN WHICH THE DISTRICT IS LOCATED AND TO THE
+3 DEPARTMENT OF REVENUE. ON RECORDING THE FORMATION ORDER, THE DISTRICT IS
+4 ESTABLISHED AS A POLITICAL SUBDIVISION OF THIS STATE.
+5 G. BEFORE RECORDING A FORMATION ORDER UNDER THIS SECTION, A GENERAL
+6 PLAN FOR THE DISTRICT SHALL BE RECORDED WITH THE COUNTY RECORDER OF THE
+7 COUNTY IN WHICH THE DISTRICT IS LOCATED THAT SETS OUT A GENERAL
+8 DESCRIPTION OF THE IMPROVEMENTS FOR WHICH THE DISTRICT IS PROPOSED TO BE
+9 FORMED AND THE AREAS TO BE IMPROVED.
+10 H. ON FORMATION, THE DISTRICT IS A SPECIAL PURPOSE DISTRICT FOR THE
+11 PURPOSES OF ARTICLE IX, SECTION 19, CONSTITUTION OF ARIZONA, A TAX LEVYING
+12 PUBLIC IMPROVEMENT DISTRICT FOR THE PURPOSES OF ARTICLE XIII, SECTION 7,
+13 CONSTITUTION OF ARIZONA, AND A MUNICIPAL CORPORATION FOR ALL PURPOSES OF
+14 TITLE 35, CHAPTER 3, ARTICLES 3, 3.1, 3.2, 4 AND 5. A DISTRICT THAT
+15 DISTRIBUTES OR SELLS GROUNDWATER IS A PRIVATE WATER COMPANY ONLY FOR THE
+16 PURPOSES OF TITLE 45, CHAPTERS 2 AND 3.1. EXCEPT AS OTHERWISE PROVIDED IN
+17 THIS SECTION, A DISTRICT IS CONSIDERED TO BE A MUNICIPAL CORPORATION AND
+18 POLITICAL SUBDIVISION OF THIS STATE, SEPARATE AND APART FROM ANY
+19 MUNICIPALITY OR COUNTY IN WHICH THE DISTRICT IS LOCATED. NOTWITHSTANDING
+20 ANY OTHER LAW, A DISTRICT FORMED PURSUANT TO THIS CHAPTER DOES NOT HAVE
+21 THE POWER OF EMINENT DOMAIN AND DOES NOT HAVE THE POWER TO ENACT ZONING
+22 ORDINANCES.
+23 I. ON FORMATION OF THE DISTRICT, THE BOARD SHALL MAKE A GOOD FAITH
+24 EFFORT TO IMPLEMENT THE GENERAL PLAN FOR THE PUBLIC INFRASTRUCTURE OF THE
+25 DISTRICT.
+26 J. FEES AND OTHER CHARGES ASSESSED BY THE AUTHORITY IN CONNECTION
+27 WITH THE SUBMISSION AND CONSIDERATION OF A PETITION TO FORM A DISTRICT MAY
+28 NOT EXCEED $15,000. IF A PETITION IS DENIED BY THE AUTHORITY, IT MAY NOT
+29 ASSESS A FEE OR OTHER CHARGE IN CONNECTION WITH SUBMITTING AND CONSIDERING
+30 A SUBSTANTIALLY SIMILAR PETITION THAT IS SUBMITTED WITHIN ONE YEAR AFTER
+31 THE DENIAL. FEES AND OTHER CHARGES ASSESSED BY A DISTRICT IN CONNECTION
+32 WITH ADMINISTERING THE DISTRICT, INCLUDING THE ISSUANCE AND SALE OF BONDS,
+33 MAY NOT EXCEED THE ACTUAL EXPENSE INCURRED BY THE DISTRICT FOR STAFF AND
+34 CONSULTANT SERVICES AND SUPPORT FACILITIES SUPPLIED BY THE DISTRICT OR THE
+35 FINANCIAL, LEGAL AND ADMINISTRATIVE COSTS OF THE DISTRICT THAT ARE NOT
+36 REIMBURSED FROM PROCEEDS OF THE BONDS OR OTHER DISTRICT REVENUE.
+37 K. AFTER THE FORMATION ORDER IS ISSUED, THE OWNERS OF AT LEAST
+38 FIFTY PERCENT OF THE LAND IN THE DISTRICT MAY PETITION THE AUTHORITY TO
+39 AMEND THE FORMATION ORDER TO MODIFY THE POWERS OR FINANCIAL PARAMETERS OF
+40 THE DISTRICT, INCLUDING ANY MAXIMUM AUTHORIZED TAX RATE, MAXIMUM
+41 AUTHORIZED AGGREGATE PRINCIPAL AMOUNT OF GENERAL OBLIGATION BONDS, MAXIMUM
+42 AGGREGATE ASSESSMENT AMOUNT OR MAXIMUM OPERATIONS AND MAINTENANCE TAX
+43 RATE. ANY SUCH PETITION FOR AMENDMENT SHALL:
+44 1. DESCRIBE THE PROPOSED AMENDMENTS TO THE FORMATION ORDER AND
+45 GENERAL PLAN.
+46 2. INCLUDE UPDATED FINANCIAL INFORMATION, INCLUDING AN UPDATED
+47 PRELIMINARY FINANCING PLAN, SUFFICIENT TO ALLOW THE AUTHORITY TO DETERMINE
+48 WHETHER THE DISTRICT IS REASONABLY EXPECTED TO HAVE THE FINANCIAL ABILITY
+49 TO DISCHARGE ITS PROPOSED INDEBTEDNESS WITHIN THE REVISED MAXIMUM
+-34-
+
+House Amendments to H.B. 2999
+1 AUTHORIZED TAX RATE AND MAXIMUM AGGREGATE ASSESSMENT AMOUNT, AS
+2 APPLICABLE.
+3 3. DEMONSTRATE THAT THE PROPOSED AMENDMENTS DO NOT VIOLATE ANY
+4 APPLICABLE STATUTORY ELIGIBILITY OR BOUNDARY REQUIREMENTS OR ANY
+5 DEVELOPMENT AGREEMENT OR OTHER AGREEMENT WITH THE MUNICIPALITY OR COUNTY
+6 RELATING TO THE LAND WITHIN THE DISTRICT.
+7 L. THE AUTHORITY SHALL REVIEW AND ACT ON A PETITION FOR AMENDMENT
+8 UNDER THE STANDARDS AND WITHIN THE TIME PERIODS PRESCRIBED IN SUBSECTIONS
+9 A THROUGH E OF THIS SECTION, AND, IF APPROVED, SHALL ISSUE AND CAUSE TO BE
+10 RECORDED AN AMENDED FORMATION ORDER REFLECTING THE APPROVED CHANGES.
+11 M. ANY PETITION TO AMEND THE FORMATION ORDER THAT INCREASES THE
+12 MAXIMUM AUTHORIZED TAX RATE OR MAXIMUM AGGREGATE ASSESSMENT AMOUNT SHALL
+13 BE SIGNED BY ALL OWNERS OF ALL REAL PROPERTY IN THE DISTRICT.
+14 N. THE AUTHORITY’S ISSUANCE OF A FORMATION ORDER PURSUANT TO THIS
+15 CHAPTER IS A GOVERNMENTAL DETERMINATION OF STATEWIDE FINANCIAL COMPLIANCE
+16 AND DOES NOT CONSTITUTE ZONING, PLANNING OR LAND-USE APPROVAL.
+17 48-7004. District governance; board of directors; elections;
+18 powers and duties
+19 A. ON ISSUANCE OF THE FORMATION ORDER, A DISTRICT SHALL BE GOVERNED
+20 BY A BOARD OF DIRECTORS THAT CONSISTS OF THREE DIRECTORS. THE INITIAL
+21 DIRECTORS SHALL BE APPOINTED AS SET FORTH IN THE PETITION AND FORMATION
+22 ORDER.
+23 B. SUBJECT TO SUBSECTION J OF THIS SECTION, EACH DIRECTOR SHALL
+24 EITHER HOLD A FEE TITLE TO REAL PROPERTY WITHIN THE DISTRICT OR BE AN
+25 INDIVIDUAL WHO IS DESIGNATED OR APPOINTED BY A HOLDER OF A FEE TITLE TO
+26 REAL PROPERTY WITHIN THE DISTRICT. A DIRECTOR WILL RESIGN FROM THE BOARD
+27 OF DIRECTORS IF AT ANY TIME DURING SUCH DIRECTOR’S TERM THE DIRECTOR IS NO
+28 LONGER AN OWNER OF REAL PROPERTY WITHIN THE DISTRICT OR, IF SUCH DIRECTOR
+29 WAS DESIGNATED OR APPOINTED BY AN OWNER OF REAL PROPERTY WITHIN THE
+30 DISTRICT, SUCH OWNER OF REAL PROPERTY WITHIN THE DISTRICT IS NO LONGER AN
+31 OWNER OF REAL PROPERTY WITHIN THE DISTRICT. SUCH DIRECTOR’S VACANCY WILL
+32 BE FILLED PURSUANT TO SUBSECTION H OF THIS SECTION.
+33 C. THE TERM OF THE INITIAL DIRECTORS BEGINS ON THE DATE OF THE
+34 FORMATION ORDER. OF THE INITIAL DIRECTORS, ONE DIRECTOR SHALL SERVE A
+35 TERM OF THREE YEARS, ONE DIRECTOR SHALL SERVE A TERM OF FOUR YEARS AND ONE
+36 DIRECTOR SHALL SERVE A TERM OF FIVE YEARS, AS SPECIFIED IN THE PETITION.
+37 THEREAFTER, EACH SUBSEQUENTLY ELECTED DIRECTOR SHALL SERVE A TERM OF THREE
+38 YEARS. THESE SUBSEQUENTLY ELECTED DIRECTORS SHALL BE AN OWNER OF REAL
+39 PROPERTY IN THE DISTRICT WHO SHALL BE ELECTED AT LARGE BY THE OWNERS OF
+40 REAL PROPERTY IN THE DISTRICT, AS SHOWN ON THE PROPERTY TAX ASSESSMENT
+41 ROLL, WHO ARE QUALIFIED TO VOTE PURSUANT TO SECTION 48-7041. THE BOARD
+42 SHALL DEVELOP BYLAWS FOR THE OPERATION OF THE DISTRICT.
+43 D. ONLY THE OWNERS THAT HOLD FEE TITLE TO REAL PROPERTY IN THE
+44 DISTRICT AND THEIR RESPECTIVE DESIGNEES AND APPOINTEES ARE ELIGIBLE TO
+45 VOTE IN:
+46 1. AN ELECTION REGARDING AN AD VALOREM TAX OR AN ASSESSMENT TO BE
+47 LEVIED AGAINST THE REAL PROPERTY IN THE DISTRICT.
+48 2. AN ELECTION FOR THE BOARD OF THE DISTRICT.
+49 3. AN ELECTION FOR DISSOLUTION OF THE DISTRICT.
+-35-
+
+House Amendments to H.B. 2999
+1 E. CORPORATIONS, PARTNERSHIPS AND OTHER BUSINESS ENTITIES ARE
+2 ELIGIBLE TO VOTE AS PROPERTY OWNERS, BUT ONLY ONE VOTE MAY BE CAST FOR
+3 EACH ONE‑SEVENTH OF AN ACRE OF REAL PROPERTY IN THE DISTRICT, EXCEPT THAT
+4 ANY FRACTION OF OWNERSHIP OF REAL PROPERTY THAT IS LESS THAN ONE‑SEVENTH
+5 OF AN ACRE ENTITLES THE OWNER TO CAST ONE VOTE. A MAJORITY OF THE ACREAGE,
+6 AS REPRESENTED BY THE VOTES CAST AT AN ELECTION THAT IS CONDUCTED SOLELY
+7 UNDER THIS ACREAGE SYSTEM, DETERMINES THE RESULT OF THE ELECTION.
+8 F. AN ELECTION CONDUCTED UNDER THIS SECTION SHALL BE HELD AS A
+9 SPECIAL ELECTION OF THE DISTRICT AND SHALL BE NOTICED, CALLED, CONDUCTED
+10 AND CANVASSED BY THE BOARD IN THE MANNER PRESCRIBED BY THIS CHAPTER. THE
+11 BOARD MAY ENTER INTO INTERGOVERNMENTAL AGREEMENTS WITH THE COUNTY, A
+12 MUNICIPALITY OR ANOTHER PUBLIC ENTITY FOR ELECTION ADMINISTRATION,
+13 INCLUDING REIMBURSEMENT OF REASONABLE COSTS OF DISTRICT ELECTIONS.
+14 G. THE BOARD SHALL:
+15 1. ADOPT AND AMEND THE GENERAL PLAN FOR THE DISTRICT.
+16 2. AUTHORIZE AND APPROVE THE ISSUANCE OF BONDS OF THE DISTRICT AS
+17 PROVIDED BY THIS CHAPTER.
+18 3. LEVY AD VALOREM TAXES AND ASSESSMENTS, SUBJECT TO THE
+19 LIMITATIONS AND ELECTION REQUIREMENTS OF THIS CHAPTER, INCLUDING THE
+20 MAXIMUM AUTHORIZED TAX RATE.
+21 4. MANAGE AND ADMINISTER THE AFFAIRS OF THE DISTRICT, INCLUDING
+22 OPERATING, MAINTAINING AND REPAIRING PUBLIC INFRASTRUCTURE THAT IS OWNED
+23 OR OPERATED BY THE DISTRICT.
+24 5. ADOPT ANNUAL BUDGETS, STATEMENTS AND ESTIMATES FOR THE DISTRICT.
+25 6. ADMINISTER DISTRICT ELECTIONS OR ENTER INTO INTERGOVERNMENTAL
+26 AGREEMENTS WITH THE COUNTY AND OTHER QUALIFIED PUBLIC ENTITIES TO
+27 ADMINISTER DISTRICT ELECTIONS.
+28 7. PERFORM ALL OTHER ACTS THAT ARE NECESSARY OR CONVENIENT TO CARRY
+29 OUT THE PURPOSES OF THIS CHAPTER.
+30 H. IF A VACANCY OCCURS ON THE BOARD BECAUSE OF A DEATH, A
+31 RESIGNATION OR AN INABILITY OF THE DIRECTOR TO DISCHARGE THE DUTIES OF
+32 DIRECTOR, THE VACANCY SHALL BE FILLED BY APPOINTMENT MADE BY THE REMAINING
+33 DIRECTORS. A DIRECTOR APPOINTED BY THE REMAINING DIRECTORS SHALL HOLD
+34 OFFICE FOR THE REMAINDER OF THE UNEXPIRED TERM UNTIL THE DIRECTOR'S
+35 SUCCESSOR IS ELECTED AS PROVIDED BY THIS ARTICLE. A DIRECTOR SHALL NOT BE
+36 AN ELECTED OFFICIAL OF A MUNICIPALITY IN WHICH THE DISTRICT IS LOCATED OR
+37 AN INDIAN TRIBE OR COMMUNITY OR AN EMPLOYEE OR AGENT OF A MUNICIPALITY OR
+38 INDIAN TRIBE OR COMMUNITY BUT MAY BE A DIRECTOR OF MORE THAN ONE DISTRICT.
+39 I. THE MEMBERS OF THE BOARD ARE NOT ELIGIBLE TO RECEIVE
+40 COMPENSATION FOR THEIR SERVICES AS MEMBERS OF THE BOARD.
+41 J. IF A VACANCY OCCURS ON THE BOARD BECAUSE OF DEATH, RESIGNATION
+42 OR INABILITY OF THE DIRECTOR TO DISCHARGE THE DUTIES OF DIRECTOR, AND
+43 THERE ARE NO OWNERS OF REAL PROPERTY WITHIN THE DISTRICT OR INDIVIDUALS
+44 DESIGNATED OR APPOINTED BY AN OWNER OF REAL PROPERTY WITHIN THE DISTRICT,
+45 WHO ARE WILLING TO FILL SUCH VACANCY, THE AUTHORITY SHALL APPOINT A
+46 DIRECTOR TO FILL THE VACANCY. THE DIRECTOR APPOINTED BY THE AUTHORITY IS
+47 NOT REQUIRED TO BE A FEE-TITLE OWNER OF REAL PROPERTY WITHIN THE DISTRICT
+48 OR AN INDIVIDUAL DESIGNATED OR APPOINTED BY A FEE-TITLE OWNER OF REAL
+49 PROPERTY WITHIN THE DISTRICT. THE DIRECTOR APPOINTED BY THE AUTHORITY
+-36-
+
+House Amendments to H.B. 2999
+1 SHALL HOLD OFFICE FOR THE REMAINDER OF THE UNEXPIRED TERM AND UNTIL THE
+2 DIRECTOR’S SUCCESSOR IS ELECTED, UNLESS A FEE-TITLE OWNER OF REAL PROPERTY
+3 WITHIN THE DISTRICT SUBMITS A WRITTEN REQUEST TO THE AUTHORITY AND THE
+4 BOARD TO REPLACE THE DIRECTOR APPOINTED BY THE AUTHORITY. IN THAT EVENT,
+5 THE AUTHORITY SHALL, AS SOON AS PRACTICABLE, APPOINT THAT FEE-TITLE OWNER
+6 OF REAL PROPERTY WITHIN THE DISTRICT TO REPLACE THE DIRECTOR APPOINTED BY
+7 THE AUTHORITY.
+8 K. THE BOARD SHALL COMPLY WITH TITLE 38, CHAPTER 3, ARTICLE 3.1 AS
+9 A SEPARATE POLITICAL SUBDIVISION.
+10 48-7005. Records; open meetings
+11 A. A DISTRICT SHALL KEEP THE FOLLOWING RECORDS, WHICH SHALL BE
+12 MAINTAINED BY THE CLERK AND OPEN TO PUBLIC INSPECTION:
+13 1. MINUTES OF ALL BOARD MEETINGS.
+14 2. ALL RESOLUTIONS.
+15 3. ACCOUNTS SHOWING ALL MONIES RECEIVED AND DISBURSED.
+16 4. THE ANNUAL BUDGET.
+17 5. ALL OTHER RECORDS REQUIRED TO BE MAINTAINED BY LAW.
+18 B. THE BOARD SHALL COMPLY WITH THE REQUIREMENTS OF TITLE 38,
+19 CHAPTER 3, ARTICLE 3.1 AS A SEPARATE POLITICAL SUBDIVISION.
+20 48-7006. District powers
+21 A. IN ADDITION TO THE POWERS OTHERWISE GRANTED TO A DISTRICT
+22 PURSUANT TO THIS CHAPTER, A DISTRICT, TO FURTHER IMPLEMENT THE GENERAL
+23 PLAN, MAY:
+24 1. ENTER INTO CONTRACTS AND EXPEND MONIES FOR ANY PUBLIC
+25 INFRASTRUCTURE PURPOSE WITH RESPECT TO THE DISTRICT, INCLUDING IN
+26 CONNECTION WITH THE ACQUISITION, CONSTRUCTION OR INSTALLATION OF PUBLIC
+27 INFRASTRUCTURE.
+28 2. ENTER INTO INTERGOVERNMENTAL AGREEMENTS WITH THIS STATE, A
+29 COUNTY, A MUNICIPALITY OR ANY OTHER PUBLIC AGENCY THAT IS AUTHORIZED BY
+30 LAW TO ENTER INTO INTERGOVERNMENTAL AGREEMENTS FOR THE PLANNING, DESIGN,
+31 INSPECTION, OWNERSHIP, CONTROL, MAINTENANCE, OPERATION OR REPAIR OF PUBLIC
+32 INFRASTRUCTURE.
+33 3. ENTER INTO INTERGOVERNMENTAL AGREEMENTS WITH THE COUNTY, A
+34 MUNICIPALITY OR ANOTHER QUALIFIED PUBLIC ENTITY FOR THE ADMINISTRATION OF
+35 DISTRICT ELECTIONS, INCLUDING AGREEMENTS TO REIMBURSE THE PUBLIC ENTITY
+36 FOR THE REASONABLE COSTS OF DISTRICT ELECTIONS.
+37 4. SELL, LEASE OR OTHERWISE DISPOSE OF DISTRICT PROPERTY IF THE
+38 SALE, LEASE OR CONVEYANCE IS NOT A VIOLATION OF THE TERMS OF ANY CONTRACT,
+39 BOND RESOLUTION OR TRUST INDENTURE OF THE DISTRICT.
+40 5. OPERATE, MAINTAIN AND REPAIR PUBLIC INFRASTRUCTURE THAT IS OWNED
+41 OR OPERATED BY THE DISTRICT.
+42 6. ESTABLISH, CHARGE AND COLLECT USER FEES, RATES OR OTHER CHARGES
+43 FOR THE USE OF ANY PUBLIC INFRASTRUCTURE OR SERVICE OF THE DISTRICT.
+44 7. EMPLOY OR CONTRACT FOR STAFF, COUNSEL AND CONSULTANTS, INCLUDING
+45 ENGINEERS, ATTORNEYS, ACCOUNTANTS, FINANCIAL ADVISORS, UNDERWRITERS,
+46 ADMINISTRATORS AND ELECTION OFFICIALS, TO ASSIST WITH DISTRICT AND BOARD
+47 ADMINISTRATION, FINANCING AND ELECTION MATTERS.
+48 8. INCUR AND REPAY LOANS, ADVANCES OR OTHER OBLIGATIONS FOR ANY
+49 PUBLIC INFRASTRUCTURE PURPOSE, INCLUDING TO PROVIDE FOR THE PRESENT
+-37-
+
+House Amendments to H.B. 2999
+1 FINANCING OF COSTS TO BE REIMBURSED FROM FUTURE DISTRICT REVENUES OR
+2 REIMBURSEMENTS RELATED TO PUBLIC INFRASTRUCTURE.
+3 9. ENTER INTO AGREEMENTS WITH LANDOWNERS AND WITH A MUNICIPALITY OR
+4 COUNTY FOR THE COLLECTION OF FEES AND CHARGES FROM LANDOWNERS FOR PUBLIC
+5 INFRASTRUCTURE PURPOSES, FOR THE ADVANCE OF MONIES BY LANDOWNERS FOR
+6 PUBLIC INFRASTRUCTURE PURPOSES OR FOR THE GRANTING OF REAL PROPERTY OR
+7 INTERESTS IN REAL PROPERTY BY A LANDOWNER FOR PUBLIC INFRASTRUCTURE
+8 PURPOSES, AND TO RECOGNIZE, ASSIGN, CONFIRM OR CONSENT TO THE ASSIGNMENT
+9 BY SUCH LANDOWNERS OF THEIR RIGHTS TO RECEIVE ANY REIMBURSEMENTS OR
+10 PAYMENTS FROM THE DISTRICT FOR PUBLIC INFRASTRUCTURE COSTS, INCLUDING TO
+11 OR IN FAVOR OF LENDERS, TRUSTEES OR OTHER FINANCING PARTIES.
+12 10. BY RESOLUTION, LEVY AND ASSESS THE COSTS OF ANY PUBLIC
+13 INFRASTRUCTURE PURPOSE ON ANY LAND THAT IS BENEFITED IN THE DISTRICT,
+14 SUBJECT TO THE LIMITATIONS AND ELECTION REQUIREMENTS OF THIS CHAPTER,
+15 INCLUDING THE MAXIMUM AUTHORIZED TAX RATE.
+16 11. PAY THE FINANCIAL, LEGAL AND ADMINISTRATIVE COSTS OF THE
+17 DISTRICT.
+18 12. ENTER INTO CONTRACTS, AGREEMENTS AND TRUST INDENTURES TO OBTAIN
+19 CREDIT ENHANCEMENT OR LIQUIDITY SUPPORT FOR ITS BONDS AND TO PROVIDE FOR
+20 THE ISSUANCE, REGISTRATION, TRANSFER AND PAYMENT OF ITS BONDS AND FOR THE
+21 DISBURSEMENT AND INVESTMENT OF BOND PROCEEDS.
+22 13. ENTER INTO AGREEMENTS WITH PERSONS OUTSIDE OF THE DISTRICT TO
+23 PROVIDE SERVICES TO PERSONS AND PROPERTY OUTSIDE OF THE DISTRICT AND TO
+24 RECEIVE COMPENSATION FOR THOSE SERVICES.
+25 14. USE PUBLIC EASEMENTS AND RIGHTS‑OF‑WAY IN OR ACROSS PUBLIC
+26 PROPERTY, ROADWAYS, HIGHWAYS, STREETS OR OTHER THOROUGHFARES AND OTHER
+27 PUBLIC EASEMENTS AND RIGHTS‑OF‑WAY, WHETHER IN OR OUT OF THE GEOGRAPHICAL
+28 LIMITS OF THE DISTRICT, A MUNICIPALITY OR A COUNTY, SUBJECT TO APPLICABLE
+29 LAW AND THE RIGHTS OF THE PUBLIC.
+30 B. IN CONNECTION WITH ANY POWER AUTHORIZED BY STATUTE, THE DISTRICT
+31 MAY:
+32 1. CONTRACT.
+33 2. ENTER INTO INTERGOVERNMENTAL AGREEMENTS PURSUANT TO TITLE 11,
+34 CHAPTER 7, ARTICLE 3.
+35 3. ADOPT AND CHANGE A SEAL.
+36 4. SUE AND BE SUED.
+37 5. ENTER INTO DEVELOPMENT AGREEMENTS AS DEFINED IN SECTION
+38 9-500.05.
+39 C. A DISTRICT IS NOT EMPOWERED TO EXERCISE LAND USE OR ZONING
+40 AUTHORITY AND MAY NOT ADOPT, AMEND OR ENFORCE ZONING ORDINANCES OR SIMILAR
+41 LAND USE REGULATIONS.
+42 D. PUBLIC INFRASTRUCTURE OTHER THAN PERSONALTY MAY BE LOCATED ONLY
+43 IN OR ON LANDS OWNED BY THIS STATE, A COUNTY, A MUNICIPALITY OR THE
+44 DISTRICT OR DEDICATED OR OTHERWISE DESIGNATED AS PUBLIC ROADWAYS,
+45 HIGHWAYS, STREETS, THOROUGHFARES, EASEMENTS OR RIGHTS-OF-WAY, WHETHER IN
+46 OR OUT OF THE DISTRICT OR A MUNICIPALITY. PERSONALTY MAY BE USED ONLY FOR
+47 PURPOSES AUTHORIZED BY THE BOARD.
+48 E. AN AGREEMENT PURSUANT TO SUBSECTION A, PARAGRAPH 9 OF THIS
+49 SECTION MAY INCLUDE AGREEMENTS TO REPAY ALL OR PART OF SUCH ADVANCES, FEES
+-38-
+
+House Amendments to H.B. 2999
+1 AND CHARGES FROM THE PROCEEDS OF BONDS IF ISSUED OR FROM ADVANCES, FEES
+2 AND CHARGES COLLECTED FROM OTHER LANDOWNERS OR USERS OR THOSE HAVING A
+3 RIGHT TO USE ANY INFRASTRUCTURE. A PERSON DOES NOT HAVE AUTHORITY TO
+4 COMPEL THE ISSUANCE OR SALE OF THE BONDS OF THE DISTRICT OR THE EXERCISE
+5 OF ANY TAXING POWER OF THE DISTRICT TO MAKE REPAYMENT UNDER ANY AGREEMENT.
+6 48-7007. District finances; revenue
+7 THE PROJECTS TO BE CONSTRUCTED OR ACQUIRED AS SHOWN IN THE GENERAL
+8 PLAN MAY BE FINANCED FROM THE FOLLOWING SOURCES OF REVENUE:
+9 1. PROCEEDS RECEIVED FROM THE SALE OF BONDS OF THE DISTRICT.
+10 2. MONIES OF A MUNICIPALITY OR INDIAN TRIBE OR COMMUNITY THAT ARE
+11 CONTRIBUTED TO THE DISTRICT.
+12 3. ASSESSMENTS.
+13 4. AD VALOREM TAXES.
+14 5. PRIVATE CONTRIBUTIONS.
+15 6. USER, LANDOWNER AND OTHER FEES AND CHARGES.
+16 7. PROCEEDS OF LOANS OR ADVANCES.
+17 8. ANY OTHER MONIES AVAILABLE TO THE DISTRICT BY LAW.
+18 48-7008. Project review by authority; hearing; notice; fees
+19 A. BEFORE CONSTRUCTING OR ACQUIRING ANY PUBLIC INFRASTRUCTURE, THE
+20 BOARD SHALL CAUSE A STUDY OF THE FEASIBILITY AND BENEFITS OF THE PROJECT
+21 THAT SHALL BE PREPARED BY ENGINEERS AND OTHER QUALIFIED PERSONS AND THAT
+22 SHALL INCLUDE A DESCRIPTION OF THE PUBLIC INFRASTRUCTURE TO BE CONSTRUCTED
+23 OR ACQUIRED AND ALL OTHER INFORMATION USEFUL TO UNDERSTAND THE PROJECT, A
+24 MAP SHOWING, IN GENERAL, THE LOCATION OF THE PROJECT, AN ESTIMATE OF THE
+25 COST TO CONSTRUCT, ACQUIRE, OPERATE AND MAINTAIN THE PROJECT, AN ESTIMATED
+26 SCHEDULE FOR COMPLETION OF THE PROJECT, A MAP OR DESCRIPTION OF THE AREA
+27 TO BE BENEFITED BY THE PROJECT AND THE FINANCING PLAN FOR THE PROJECT.
+28 WITHIN SIXTY DAYS AFTER RECEIVING THE REPORT, THE BOARD SHALL HOLD A
+29 PUBLIC HEARING ON THE REPORT AND PROVIDE NOTICE OF THE HEARING BY
+30 PUBLICATION NOT LESS THAN TEN DAYS IN ADVANCE IN THE OFFICIAL NEWSPAPER OF
+31 THE MUNICIPALITY IN WHICH THE DISTRICT IS LOCATED OR, IF NONE IN THE
+32 MUNICIPALITY, A NEWSPAPER OF GENERAL CIRCULATION IN THE COUNTY AND BY MAIL
+33 TO THE GOVERNING BODY OF THE MUNICIPALITY. WITHIN SIXTY DAYS AFTER THE
+34 HEARING, THE BOARD MAY REJECT, AMEND OR APPROVE THE REPORT. IF THE REPORT
+35 IS AMENDED SUBSTANTIALLY, A NEW HEARING SHALL BE HELD WITHIN SIXTY DAYS
+36 AFTER THE DATE THE AMENDED REPORT IS RECEIVED AND BEFORE APPROVAL. IF THE
+37 REPORT IS APPROVED, THE BOARD SHALL ADOPT A RESOLUTION THAT IDENTIFIES THE
+38 PUBLIC INFRASTRUCTURE OF THE PROJECT, THE AREAS BENEFITED, THE EXPECTED
+39 METHOD OF FINANCING, INCLUDING THE NATURE AND TIMING OF THE ISSUANCE OF
+40 BONDS, IF ANY, AND AN APPROPRIATE SYSTEM OF PROVIDING REVENUES TO OPERATE
+41 AND MAINTAIN THE PROJECT. THE BOARD SHALL EXECUTE THE PROVISIONS OF THE
+42 REPORT WITHIN THE TIME FRAMES IDENTIFIED IN THE APPROVED REPORT.
+43 B. BEFORE CONSTRUCTING OR ACQUIRING ANY PUBLIC INFRASTRUCTURE AND
+44 BEFORE THE BOARD HAS HELD THE PUBLIC HEARING PRESCRIBED IN SUBSECTION A OF
+45 THIS SECTION, THE BOARD SHALL CAUSE THE STUDY OF THE FEASIBILITY AND
+46 BENEFITS OF THE PROJECT PRESCRIBED IN SUBSECTION A OF THIS SECTION TO BE
+47 PROVIDED TO THE AUTHORITY. IN ADDITION TO THE STUDY OF THE FEASIBILITY
+48 AND BENEFITS OF THE PROJECT PRESCRIBED IN SUBSECTION A OF THIS SECTION,
+-39-
+
+House Amendments to H.B. 2999
+1 THE BOARD SHALL CAUSE THE FOLLOWING INFORMATION TO BE PROVIDED TO THE
+2 AUTHORITY:
+3 1. THE PROPOSED MAXIMUM PRINCIPAL AMOUNT OF BONDS TO BE ISSUED, THE
+4 MAXIMUM INTEREST RATE AND A PRELIMINARY DEBT SERVICE SCHEDULE FOR THE
+5 BONDS.
+6 2. IF THE PUBLIC INFRASTRUCTURE TO BE CONSTRUCTED OR ACQUIRED IS
+7 PROPOSED TO BE FINANCED WITH THE PROCEEDS OF GENERAL OBLIGATION BONDS, AN
+8 APPRAISAL INDICATING THE PROJECTED MARKET VALUE OF THE REAL PROPERTY AND
+9 IMPROVEMENTS IN THE DISTRICT AFTER THE PUBLIC INFRASTRUCTURE TO BE
+10 CONSTRUCTED OR ACQUIRED BY THE DISTRICT WITH THE PROCEEDS OF SUCH BONDS IS
+11 COMPLETED PLUS THE VALUE OF THE PUBLIC INFRASTRUCTURE OWNED BY THE
+12 DISTRICT AND TO BE CONSTRUCTED OR ACQUIRED BY THE DISTRICT WITH THE
+13 PROCEEDS OF SUCH BONDS.
+14 3. IF THE PUBLIC INFRASTRUCTURE TO BE CONSTRUCTED OR ACQUIRED IS
+15 PROPOSED TO BE FINANCED WITH THE PROCEEDS OF GENERAL OBLIGATION BONDS, A
+16 THIRD-PARTY MARKET STUDY THAT INCLUDES PROJECTIONS OF THE LIMITED PROPERTY
+17 VALUE OF REAL PROPERTY IN THE DISTRICT FOR EACH YEAR IN WHICH GENERAL
+18 OBLIGATION BONDS ARE PROPOSED TO BE OUTSTANDING, TOGETHER WITH A
+19 PROJECTION OF THE AD VALOREM TAX RATE THAT IS REQUIRED TO SUPPORT DEBT
+20 SERVICE ON THE GENERAL OBLIGATION BONDS, WHICH PROJECTED RATE DOES NOT
+21 EXCEED THE MAXIMUM AUTHORIZED TAX RATE.
+22 4. IF THE PUBLIC INFRASTRUCTURE TO BE CONSTRUCTED OR ACQUIRED IS
+23 PROPOSED TO BE FINANCED WITH THE PROCEEDS OF ASSESSMENT BONDS, AN
+24 APPRAISAL INDICATING THE AGGREGATE AS-IS MARKET VALUE OF REAL PROPERTY IN
+25 THE DISTRICT AND THE PROJECTED MARKET VALUE OF THE REAL PROPERTY AND
+26 IMPROVEMENTS IN THE DISTRICT AFTER COMPLETION OF THE PUBLIC INFRASTRUCTURE
+27 PROPOSED TO BE FINANCED WITH SUCH ASSESSMENT BONDS.
+28 5. IF THE PUBLIC INFRASTRUCTURE TO BE CONSTRUCTED OR ACQUIRED IS
+29 PROPOSED TO BE FINANCED WITH THE PROCEEDS OF ASSESSMENT BONDS, THE MAXIMUM
+30 AGGREGATE ASSESSMENT AND THE MAXIMUM PER‑LOT ASSESSMENT TO BE LEVIED IN
+31 CONNECTION WITH THE ASSESSMENT BONDS.
+32 6. THE ANTICIPATED BUILD‑OUT SCHEDULE AND ASSOCIATED VALUATION
+33 INCREASES.
+34 7. THE CURRENTLY OUTSTANDING AGGREGATE PRINCIPAL AMOUNT OF ALL
+35 BONDS OF THE DISTRICT AND THE CURRENT AD VALOREM TAX RATE OF THE DISTRICT,
+36 IF ANY.
+37 8. THE PROPOSED FINANCING TEAM, INCLUDING THE UNDERWRITER OR
+38 PLACEMENT AGENT AND THE DISTRICT’S BOND COUNSEL.
+39 9. A CERTIFICATION AS TO THE REASONABLENESS OF ASSUMPTIONS THAT ARE
+40 USED IN THE MARKET VALUE AND GROWTH PROJECTIONS.
+41 10. A CERTIFICATION THAT THE CONSTRUCTION OR ACQUISITION OF THE
+42 PUBLIC INFRASTRUCTURE, AS APPLICABLE, WILL NOT CONFLICT WITH ANY EXISTING
+43 AND APPLICABLE DEVELOPMENT AGREEMENT OR OTHER AGREEMENT WITH THE
+44 MUNICIPALITY OR THE COUNTY THAT RELATES TO THE LAND INCLUDED WITHIN THE
+45 BOUNDARIES OF THE DISTRICT THAT WAS SUBMITTED TO THE AUTHORITY IN
+46 CONNECTION WITH THE PETITION.
+47 C. THE AUTHORITY SHALL REVIEW THE INFORMATION SUBMITTED PURSUANT TO
+48 SUBSECTION B OF THIS SECTION TO CONFIRM, SOLELY ON THE BASIS OF THE
+49 INFORMATION SUBMITTED AND WITHOUT ANY INDEPENDENT DETERMINATION OF
+-40-
+
+House Amendments to H.B. 2999
+1 FEASIBILITY OR VALUE, THAT ALL INFORMATION REQUIRED PURSUANT TO SUBSECTION
+2 B OF THIS SECTION HAS BEEN SUBMITTED AND THAT THE CONSTRUCTION OR
+3 ACQUISITION OF THE PUBLIC INFRASTRUCTURE, OR BOTH, AS APPLICABLE, COMPLIES
+4 WITH THE FORMATION ORDER AND THE GENERAL PLAN AND DOES NOT OTHERWISE
+5 VIOLATE THE PROVISIONS OF THIS CHAPTER.
+6 D. THE AUTHORITY SHALL PROVIDE WRITTEN NOTICE TO THE DISTRICT
+7 WITHIN THIRTY DAYS AFTER RECEIVING THE INFORMATION SUBMITTED PURSUANT TO
+8 SUBSECTION B OF THIS SECTION IF THE SUBMITTED INFORMATION IS INCOMPLETE OR
+9 HAS NOT BEEN SUBMITTED OR IF THE SUBMITTED INFORMATION INDICATES THAT THE
+10 CONSTRUCTION OR ACQUISITION OF THE PUBLIC INFRASTRUCTURE DOES NOT COMPLY
+11 WITH THE FORMATION ORDER OR THE GENERAL PLAN OR DOES NOT OTHERWISE COMPLY
+12 WITH THE PROVISIONS OF THIS CHAPTER, WHICH WRITTEN NOTICE SHALL IDENTIFY
+13 ANY DEFICIENCIES. THE BOARD MAY NOT HOLD THE PUBLIC HEARING DESCRIBED IN
+14 SUBSECTION A OF THIS SECTION UNTIL THIRTY DAYS HAS ELAPSED SINCE THE
+15 SUBMISSION OF THE INFORMATION SUBMITTED PURSUANT TO SUBSECTION B OF THIS
+16 SECTION AND THE DISTRICT HAS NOT RECEIVED FROM THE AUTHORITY THE NOTICE
+17 PRESCRIBED IN THIS SUBSECTION.
+18 E. FEES AND OTHER CHARGES THAT ARE ASSESSED BY THE AUTHORITY IN
+19 CONNECTION WITH THE REVIEW OF THE INFORMATION SUBMITTED PURSUANT TO
+20 SUBSECTION B OF THIS SECTION SHALL NOT EXCEED $15,000 FOR EACH SUBMISSION.
+21 ARTICLE 2. FINANCIAL PROVISIONS
+22 48-7021. General obligation bonds debt limitations; maximum
+23 authorized tax rate
+24 A. THE TOTAL AGGREGATE OUTSTANDING AMOUNT OF GENERAL OBLIGATION
+25 BONDS AND ANY OTHER INDEBTEDNESS FOR WHICH THE AD VALOREM TAXES OF THE
+26 DISTRICT ARE PLEDGED SHALL NOT EXCEED SIXTY PERCENT OF THE AGGREGATE OF
+27 THE PROJECTED MARKET VALUE OF THE REAL PROPERTY AND IMPROVEMENTS IN THE
+28 DISTRICT AFTER THE PUBLIC INFRASTRUCTURE TO BE CONSTRUCTED OR ACQUIRED BY
+29 THE DISTRICT WITH THE PROCEEDS OF SUCH GENERAL OBLIGATION BONDS IS
+30 COMPLETED PLUS THE VALUE OF THE PUBLIC INFRASTRUCTURE OWNED BY THE
+31 DISTRICT AND TO BE CONSTRUCTED OR ACQUIRED BY THE DISTRICT WITH THE
+32 PROCEEDS OF SUCH GENERAL OBLIGATION BONDS.
+33 B. ANY AD VALOREM TAX LEVIED TO PAY THE DEBT SERVICE ON ALL GENERAL
+34 OBLIGATION BONDS OF THE DISTRICT SHALL NOT BE LEVIED AT A RATE THAT
+35 EXCEEDS THE MAXIMUM AUTHORIZED TAX RATE. THE MAXIMUM AUTHORIZED TAX RATE
+36 SHALL BE INDICATED IN THE PETITION AND THE FORMATION ORDER AND SHALL BE
+37 APPROVED AT AN ELECTION HELD PURSUANT TO SECTION 48-7041 EXCEPT THAT THE
+38 MAXIMUM AUTHORIZED TAX RATE SHALL NOT EXCEED $10 PER $100 OF NET LIMITED
+39 ASSESSED PROPERTY VALUATION OF PROPERTY WITHIN THE BOUNDARIES OF THE
+40 DISTRICT. THE AUTHORITY SHALL NOT OTHERWISE RESTRICT THE MAXIMUM
+41 AUTHORIZED TAX RATE, THE MAXIMUM ASSESSMENT ASSESSED BY A DISTRICT OR THE
+42 MAXIMUM AGGREGATE AMOUNT OF BONDS ISSUED BY A DISTRICT EXCEPT AS EXPRESSLY
+43 PROVIDED IN THIS CHAPTER.
+44 48-7022. General obligation bonds; tax levy; security
+45 A. AT ANY TIME AFTER THE FORMATION OF A DISTRICT, THE BOARD MAY
+46 FROM TIME TO TIME ORDER AND CALL A GENERAL OBLIGATION BOND ELECTION TO
+47 SUBMIT TO THE QUALIFIED ELECTORS OF THE DISTRICT OR TO THOSE PERSONS WHO
+48 ARE QUALIFIED TO VOTE PURSUANT TO SECTION 48-7041 THE QUESTION OF
+49 AUTHORIZING THE BOARD TO ISSUE GENERAL OBLIGATION BONDS OF THE DISTRICT TO
+-41-
+
+House Amendments to H.B. 2999
+1 PROVIDE MONIES FOR ANY PUBLIC INFRASTRUCTURE PURPOSES CONSISTENT WITH THE
+2 GENERAL PLAN AND THE QUESTION OF AUTHORIZING AN AD VALOREM TAX TO BE
+3 LEVIED.
+4 B. IF GENERAL OBLIGATION BONDS ARE APPROVED AT AN ELECTION, THE
+5 BOARD MAY ISSUE AND SELL GENERAL OBLIGATION BONDS OF THE DISTRICT, THE
+6 TERM OF WHICH MAY NOT EXCEED THIRTY YEARS, SUBJECT TO THE LIMITATION THAT
+7 ANY AD VALOREM TAX LEVIED TO PAY THE DEBT SERVICE ON THE GENERAL
+8 OBLIGATION BONDS SHALL NOT BE LEVIED AT A RATE THAT EXCEEDS THE MAXIMUM
+9 AUTHORIZED TAX RATE.
+10 C. THE DISTRICT MAY ISSUE AND SELL REFUNDING BONDS TO REFUND ANY
+11 GENERAL OBLIGATION BONDS OF THE DISTRICT, THE TERM OF WHICH MAY NOT EXCEED
+12 THIRTY YEARS. IF GENERAL OBLIGATION BONDS ARE ISSUED TO REFUND ANY
+13 GENERAL OBLIGATION BONDS OF THE DISTRICT, AN ELECTION ON THE ISSUANCE OF
+14 SUCH REFUNDING BONDS IS NOT REQUIRED, BUT ANY AD VALOREM TAX LEVIED TO PAY
+15 THE DEBT SERVICE ON SUCH REFUNDING BONDS SHALL NOT BE LEVIED AT A RATE
+16 THAT EXCEEDS THE MAXIMUM AUTHORIZED TAX RATE. AD VALOREM TAXES LEVIED TO
+17 PAY GENERAL OBLIGATION BONDS OF A DISTRICT ARE LIMITED TAXES SUBJECT TO
+18 THE MAXIMUM AUTHORIZED TAX RATE APPROVED AT ELECTION AND DO NOT CONSTITUTE
+19 UNLIMITED AD VALOREM TAXES.
+20 D. AFTER THE BONDS ARE ISSUED, THE BOARD SHALL ENTER IN ITS MINUTES
+21 A RECORD OF THE BONDS SOLD AND THEIR NUMBERS AND DATES AND SHALL ANNUALLY
+22 LEVY AND CAUSE AN AD VALOREM TAX TO BE COLLECTED, AT THE SAME TIME AND IN
+23 THE SAME MANNER AS OTHER TAXES ARE LEVIED AND COLLECTED ON ALL TAXABLE
+24 PROPERTY IN THE DISTRICT, SUFFICIENT, TOGETHER WITH ANY MONIES FROM THE
+25 SOURCES DESCRIBED IN SECTION 48-7007, TO PAY DEBT SERVICE ON THE BONDS
+26 WHEN DUE. THE ANNUAL LEVY SHALL NOT EXCEED THE NET AMOUNT NECESSARY TO
+27 MEET ANNUAL PAYMENTS OF PRINCIPAL AND INTEREST, PROJECTED PAYMENTS OF
+28 PRINCIPAL AND INTEREST ON NEW DEBT PLANNED FOR THE ENSUING YEAR, A
+29 REASONABLE DELINQUENCY FACTOR, INCLUDING AN AMOUNT NECESSARY TO CORRECT
+30 PRIOR YEAR ERRORS OR SHORTAGES IN THE LEVY, IF APPLICABLE, AND ANY
+31 EXPENSES AND FEES REQUIRED IN CONJUNCTION WITH THE AUTHORIZATION PURSUANT
+32 TO SECTION 35-512. THE ANNUAL AD VALOREM TAX RATE LEVIED PURSUANT TO THIS
+33 SUBSECTION SHALL NOT EXCEED THE MAXIMUM AUTHORIZED TAX RATE. THE LEVY
+34 SHALL BE THE NET OF ALL CASH IN EXCESS OF TEN PERCENT OF THE ANNUAL
+35 PAYMENTS OF PRINCIPAL AND INTEREST IN THE CURRENT FISCAL YEAR FROM THE
+36 PREVIOUS YEAR THAT REMAIN IN THE FUND OR FUNDS PRESCRIBED BY SUBSECTION E
+37 OF THIS SECTION.
+38 E. MONIES DERIVED FROM THE LEVY OF THE TAX PROVIDED IN THIS SECTION
+39 WHEN COLLECTED CONSTITUTE FUNDS TO PAY THE DEBT SERVICE ON THE BONDS AND
+40 SHALL BE KEPT SEPARATELY FROM OTHER FUNDS OF THE DISTRICT. AMOUNTS LEVIED
+41 FOR DEBT SERVICE ON BONDS PAYABLE FROM THE SECONDARY TAX ARE AND SHALL BE
+42 CONSIDERED SPECIAL REVENUES OF THE DISTRICT, SHALL BE KEPT IN A SPECIAL,
+43 SEGREGATED FUND, ARE NOT AND SHALL NOT BE GENERAL PROPERTY TAXES AND MAY
+44 NOT BE USED FOR ANY OTHER PURPOSE OF THE DISTRICT.
+45 F. ALL GENERAL OBLIGATION BONDS, HERETOFORE AND HEREAFTER ISSUED,
+46 ARE SECURED BY A LIEN ON ALL REVENUES RECEIVED PURSUANT TO THE AD VALOREM
+47 TAX LEVY. THE LIEN ARISES AUTOMATICALLY WITHOUT THE NEED FOR ANY ACTION
+48 OR AUTHORIZATION BY THE DISTRICT OR THE BOARD. THE LIEN IS VALID AND
+49 BINDING FROM THE TIME OF THE ISSUANCE OF THE GENERAL OBLIGATION BONDS.
+-42-
+
+House Amendments to H.B. 2999
+1 THE REVENUES RECEIVED PURSUANT TO THE LEVY OF THE AD VALOREM TAX ARE
+2 IMMEDIATELY SUBJECT TO THE LIEN. THE LIEN ATTACHES IMMEDIATELY TO THE
+3 REVENUES AND IS EFFECTIVE, BINDING AND ENFORCEABLE AGAINST THE DISTRICT,
+4 THE DISTRICT'S SUCCESSORS, TRANSFEREES AND CREDITORS AND ALL OTHER PARTIES
+5 ASSERTING RIGHTS IN THE REVENUES, IRRESPECTIVE OF WHETHER THE PARTIES HAVE
+6 NOTICE OF THE LIEN, WITHOUT THE NEED FOR ANY PHYSICAL DELIVERY,
+7 RECORDATION, FILING OR FURTHER ACT.
+8 48-7023. Assessments; assessment lien bonds; judicial review
+9 A. AFTER APPROVAL OF THE ASSESSMENT AT AN ELECTION HELD AS
+10 PRESCRIBED BY SECTION 48-7041, AND PURSUANT TO THE PROCEDURES PRESCRIBED
+11 BY SECTIONS 48-576 THROUGH 48-589, AS NEARLY AS PRACTICABLE, OR SUCH OTHER
+12 PROCEDURES AS THE BOARD PROVIDES, THE BOARD, MAY LEVY BY RESOLUTION AN
+13 ASSESSMENT OF THE COSTS OF ANY PUBLIC INFRASTRUCTURE PURPOSE OR ANY
+14 OPERATION AND MAINTENANCE OF PUBLIC INFRASTRUCTURE ON ANY LAND IN THE
+15 DISTRICT THAT IS BASED ON THE BENEFIT DETERMINED BY THE BOARD TO BE
+16 RECEIVED BY THE LAND. BEFORE THE ISSUANCE OF ASSESSMENT BONDS, THE
+17 DISTRICT MAY ENTER INTO A WRITTEN AGREEMENT WITH A LANDOWNER AS TO THE
+18 MANNER IN WHICH THE ASSESSMENT IS TO BE ALLOCATED IF THE LAND IS TO BE
+19 DIVIDED INTO MORE THAN ONE PARCEL. IF AN ISSUE OF ASSESSMENT BONDS
+20 FINANCES MORE THAN ONE PURPOSE OR SERVICE, THE BENEFIT RECEIVED BY THE
+21 LAND, IN THE DISCRETION OF THE DISTRICT, MAY BE DETERMINED BY REFERENCE TO
+22 THE PURPOSES AND SERVICES AS A WHOLE OR INDIVIDUALLY. THE ASSESSMENT MAY
+23 BE BASED ON ESTIMATED COSTS AND AMENDED TO REFLECT ACTUAL COSTS, AND THE
+24 PREPARATION OF PLANS AND SPECIFICATIONS AND THE AWARDING OF THE CONTRACT
+25 ARE NOT A PREREQUISITE TO THE LEVYING OF THE ASSESSMENT. AN OWNER OF LAND
+26 ON WHICH AN ASSESSMENT HAS BEEN LEVIED MAY SEEK JUDICIAL REVIEW OF WHETHER
+27 THE LAND IS BENEFITED BY THE PROPOSED PUBLIC INFRASTRUCTURE, ON THE
+28 MERITS, BY SPECIAL ACTION FILED WITH THE COURT OF APPEALS, WITHIN THIRTY
+29 DAYS AFTER THE EFFECTIVE DATE OF THE RESOLUTION.
+30 B. AFTER ADOPTION BY THE BOARD OF A RESOLUTION LEVYING AN
+31 ASSESSMENT ON PROPERTY IN THE DISTRICT, THE BOARD MAY ISSUE AND SELL
+32 ASSESSMENT BONDS, THE TERM OF WHICH MAY NOT EXCEED THIRTY YEARS, PAYABLE
+33 FROM AMOUNTS COLLECTED FROM THE ASSESSMENTS, FROM AMOUNTS AVAILABLE FROM
+34 TIME TO TIME IN ANY RESERVE FUND ESTABLISHED FOR THOSE BONDS AND FROM ANY
+35 OTHER AMOUNTS AVAILABLE FOR THOSE PURPOSES AS PRESCRIBED BY SECTION 48-
+36 7007. THE DISTRICT AND THE COUNTY TREASURER FOR THE COUNTY IN WHICH THE
+37 DISTRICT IS LOCATED MAY ENTER INTO AN AGREEMENT FOR THE COUNTY TREASURER
+38 TO COLLECT THE DISTRICT'S ASSESSMENTS IN THE MANNER AND BY THE OFFICERS
+39 PROVIDED BY LAW FOR THE COLLECTION AND ENFORCEMENT OF GENERAL TAXES. THE
+40 DISTRICT AND THE COUNTY TREASURER MAY PROVIDE BY AGREEMENT FOR THE PAYMENT
+41 OF THE COUNTY TREASURER'S COLLECTION EXPENSES DIRECTLY RELATED TO THE LEVY
+42 OF THE ASSESSMENT AND, IF SO PROVIDED, THE LEVY OF THE ASSESSMENT MAY
+43 INCLUDE AN AMOUNT FOR COMPENSATION OF THE COUNTY TREASURER DIRECTLY
+44 RELATED TO THE COLLECTION OF THE ASSESSMENT. THE COMPENSATION RECEIVED BY
+45 THE COUNTY TREASURER PURSUANT TO THE AGREEMENT SHALL BE GOVERNED BY
+46 SECTION 11-496. THE BOARD MAY ALSO ISSUE AND SELL BOND ANTICIPATION NOTES
+47 PURSUANT TO THE PROCEDURES PRESCRIBED IN SECTION 48-2081 OR WITH
+48 PROCEDURES AS SIMILAR TO THOSE AS IS PRACTICABLE. THE ASSESSMENT SHALL BE
+49 A FIRST LIEN ON THE PROPERTY ASSESSED SUBJECT ONLY TO GENERAL PROPERTY
+-43-
+
+House Amendments to H.B. 2999
+1 TAXES AND PRIOR ASSESSMENTS. IN THE EVENT OF NONPAYMENT OF AN ASSESSMENT
+2 AND EXCEPT AS OTHERWISE PROVIDED IN AN AGREEMENT BETWEEN THE DISTRICT AND
+3 THE COUNTY TREASURER PURSUANT TO THIS SECTION, THE PROCEDURES FOR
+4 COLLECTION OF DELINQUENT ASSESSMENTS, SALE OF DELINQUENT PROPERTY AND
+5 ISSUANCE AND EFFECT OF THE DEED PRESCRIBED BY SECTIONS 48-601 THROUGH 48-
+6 607 APPLY, AS NEARLY AS PRACTICABLE, EXCEPT THAT THE DISTRICT, A
+7 MUNICIPALITY OR THE STATE IS NOT REQUIRED TO PURCHASE THE DELINQUENT LAND
+8 AT THE SALE IF THERE IS NO OTHER PURCHASER. IF THE LANDOWNER OWNS MORE
+9 THAN ONE PARCEL IN THE DISTRICT, THE BOARD MAY PROVIDE PROCEDURES FOR THE
+10 COLLECTION AND ENFORCEMENT OF ASSESSMENTS AS THE BOARD DEEMS APPROPRIATE
+11 BY CONTRACT WITH A LANDOWNER TO ALLOW THE SALE OF ANY OR ALL OF THE
+12 LANDOWNER'S PARCELS IN THE DISTRICT IF THE LANDOWNER BECOMES DELINQUENT AS
+13 TO ANY PARCEL THAT THE LANDOWNER OWNS IN THE DISTRICT.
+14 C. ON ADOPTION OF THE RESOLUTION, BUT BEFORE ISSUANCE OF THE
+15 ASSESSMENT BONDS, THE DISTRICT MAY DIRECT THE TREASURER TO MAKE DEMAND ON
+16 THE OWNERS OF THE PROPERTY SO ASSESSED, AS SHOWN ON THE PROPERTY TAX ROLL,
+17 FOR ADVANCE PAYMENT OF THE AMOUNT ASSESSED. THE DEMAND SHALL STATE A DATE
+18 NOT LESS THAN TWENTY DAYS AFTER THE DATE OF ADOPTION OF THE RESOLUTION
+19 AFTER WHICH THE TREASURER MAY REFUSE TO ACCEPT ADVANCE PAYMENTS OF THE
+20 ASSESSMENT. THE TREASURER SHALL CERTIFY TO THE CLERK ON OR AFTER THE DATE
+21 SPECIFIED IN THE DEMAND THE AMOUNT COLLECTED AND THE ASSESSMENTS REMAINING
+22 UNPAID AGAINST EACH PARCEL OF LAND ASSESSED. ASSESSMENT BONDS MAY NOT BE
+23 ISSUED IN AN AMOUNT IN EXCESS OF THE AMOUNT ASSESSED IN THE RESOLUTION OR,
+24 IF ADVANCE PAYMENTS ARE DEMANDED, THE AMOUNT CERTIFIED TO THE CLERK. THE
+25 DISTRICT MAY ADOPT PROCEDURES FOR PREPAYMENT AND PROVISIONS FOR PAYMENT
+26 AND REALLOCATION OF ASSESSMENTS.
+27 D. THE DISTRICT MAY ISSUE AND SELL REFUNDING BONDS TO REFUND ANY
+28 ASSESSMENT BONDS OF THE DISTRICT, THE TERM OF WHICH MAY NOT EXCEED THIRTY
+29 YEARS.
+30 48-7024. Revenue bonds
+31 A. AT ANY TIME AFTER THE HEARING ON FORMATION OF THE DISTRICT, THE
+32 BOARD MAY HOLD A HEARING ON THE QUESTION OF AUTHORIZING THE BOARD TO ISSUE
+33 REVENUE BONDS OF THE DISTRICT TO PROVIDE MONIES FOR ANY INFRASTRUCTURE
+34 PURPOSES CONSISTENT WITH THE GENERAL PLAN.
+35 B. IF REVENUE BONDS ARE APPROVED BY RESOLUTION, THE BOARD MAY ISSUE
+36 AND SELL REVENUE BONDS OF THE DISTRICT, THE TERM OF WHICH MAY NOT EXCEED
+37 THIRTY YEARS.
+38 C. THE BOARD MAY PLEDGE TO THE PAYMENT OF ITS REVENUE BONDS ANY
+39 REVENUES OF THE DISTRICT OR REVENUES TO BE COLLECTED BY A MUNICIPALITY OR
+40 A COUNTY IN TRUST FOR THE DISTRICT AND RETURNED TO THE DISTRICT.
+41 D. THE DISTRICT SHALL PRESCRIBE FEES AND CHARGES, AND SHALL REVISE
+42 THEM WHEN NECESSARY, TO GENERATE REVENUE SUFFICIENT, TOGETHER WITH ANY
+43 MONIES FROM THE SOURCES DESCRIBED IN SECTION 48-7007, TO PAY WHEN DUE THE
+44 PRINCIPAL AND INTEREST OF ALL REVENUE BONDS FOR THE PAYMENT OF WHICH
+45 REVENUE HAS BEEN PLEDGED. THE ESTABLISHMENT OR REVISION OF ANY RATES, FEES
+46 AND CHARGES SHALL BE IDENTIFIED AND NOTICED CONCURRENTLY WITH THE ANNUAL
+47 BUDGET PROCESS OF THE DISTRICT PURSUANT TO SECTION 48-7027.
+-44-
+
+House Amendments to H.B. 2999
+1 E. IF, IN THE RESOLUTION OF THE BOARD, THE REVENUES TO BE PLEDGED
+2 ARE LIMITED TO CERTAIN TYPES OF REVENUES, ONLY THOSE TYPES OF REVENUES MAY
+3 BE PLEDGED AND ONLY THOSE REVENUES MUST BE MAINTAINED.
+4 F. A HOLDER OF REVENUE BONDS ISSUED UNDER THIS CHAPTER MAY NOT
+5 COMPEL ANY EXERCISE OF THE TAXING POWER OF THE DISTRICT, A MUNICIPALITY,
+6 THE COUNTY OR THIS STATE TO PAY THE BONDS OR THE INTEREST ON THE BONDS.
+7 REVENUE BONDS ISSUED UNDER THIS CHAPTER ARE NOT A DEBT OF THE DISTRICT, A
+8 MUNICIPALITY, THE COUNTY OR THIS STATE, NOR IS THE PAYMENT OF REVENUE
+9 BONDS ENFORCEABLE OUT OF ANY MONIES OTHER THAN THE REVENUE PLEDGED TO THE
+10 PAYMENT OF THE BONDS.
+11 G. THE DISTRICT MAY ISSUE AND SELL REFUNDING BONDS TO REFUND ANY
+12 REVENUE BONDS OF THE DISTRICT, THE TERM OF WHICH MAY NOT EXCEED THIRTY
+13 YEARS.
+14 48-7025. Terms of bonds
+15 A. WITH RESPECT TO ANY BONDS, THE BOARD SHALL PRESCRIBE THE
+16 DENOMINATIONS OF THE BONDS, THE SIZE OF EACH ISSUE AND THE FORM OF THE
+17 BONDS AND SHALL ESTABLISH THE MATURITIES, INTEREST PAYMENT DATES AND
+18 INTEREST RATES, WHETHER FIXED OR VARIABLE, NOT EXCEEDING THE MAXIMUM RATE
+19 STATED IN THE NOTICE OF THE ELECTION OR THE RESOLUTION OF THE BOARD. THE
+20 BONDS MAY BE SOLD BY COMPETITIVE BID OR NEGOTIATED SALE FOR PUBLIC OR
+21 PRIVATE OFFERING AT, BELOW OR ABOVE PAR. IF THE BONDS ARE SOLD BELOW PAR,
+22 THE AGGREGATE AMOUNT OF DISCOUNT AND INTEREST TO BE PAID ON THE BONDS
+23 SHALL NOT EXCEED THE AMOUNT OF INTEREST THAT WOULD HAVE BEEN PAYABLE ON
+24 THOSE BONDS PURSUANT TO THE MATURITY SCHEDULE PRESCRIBED BY THE BOARD AT
+25 THE MAXIMUM RATE SET OUT IN THE BOND RESOLUTION.
+26 B. IF GENERAL OBLIGATION BONDS OF THE DISTRICT ARE SOLD ABOVE PAR,
+27 THE AMOUNT OF NET PREMIUM ASSOCIATED WITH A GENERAL OBLIGATION BOND ISSUE
+28 MAY BE USED ONLY FOR THE FOLLOWING PURPOSES:
+29 1. TO PAY ANY OR ALL COSTS INCURRED IN ISSUING THE GENERAL
+30 OBLIGATION BONDS.
+31 2. AS A DEPOSIT IN A DEBT SERVICE FUND AND USED ONLY TO PAY
+32 INTEREST ON THE ISSUE OF GENERAL OBLIGATION BONDS.
+33 C. IF USED FOR ANY PURPOSE OTHER THAN AS PRESCRIBED IN SUBSECTION B
+34 OF THIS SECTION, AND IF THE DISTRICT HAS GENERAL OBLIGATION BOND VOTER
+35 AUTHORIZATION AND AVAILABLE CAPACITY UNDER ITS DEBT LIMITATIONS PRESCRIBED
+36 BY SECTION 48-7021, SUBSECTION A, THE AMOUNT OF NET PREMIUM USED FOR THAT
+37 PURPOSE SHALL REDUCE IN AN EQUAL AMOUNT BOTH THE AVAILABLE AGGREGATE
+38 INDEBTEDNESS CAPACITY OF THE DISTRICT PRESCRIBED IN SECTION 48-7021,
+39 SUBSECTION A AND THE PRINCIPAL AMOUNT AUTHORIZED AT THE GENERAL OBLIGATION
+40 BOND ELECTION FOR THE DISTRICT FROM WHICH THE ISSUE OF GENERAL OBLIGATION
+41 BONDS IS BEING SOLD. ANY NET PREMIUM THAT IS USED AS PRESCRIBED IN THIS
+42 SUBSECTION SHALL BE AMORTIZED FOR ALL DEBT LIMITATION PURPOSES ON A PRO
+43 RATA BASIS EACH YEAR BY MULTIPLYING THE NET PREMIUM USED BY A PERCENTAGE
+44 EQUAL TO THE PERCENTAGE OF THE TOTAL PRINCIPAL AMOUNT OF THE GENERAL
+45 OBLIGATION BOND ISSUE THAT MATURES IN THAT YEAR.
+46 D. THE PROCEEDS OF THE SALES SHALL BE DEPOSITED WITH THE TREASURER,
+47 OR WITH A TRUSTEE OR AGENT DESIGNATED BY THE BOARD, TO THE CREDIT OF THE
+48 DISTRICT TO BE WITHDRAWN FOR THE PURPOSES PROVIDED BY THIS CHAPTER.
+49 PENDING THAT USE, THE PROCEEDS MAY BE INVESTED AS DETERMINED BY THE
+-45-
+
+House Amendments to H.B. 2999
+1 DISTRICT. THE BONDS MAY CONTAIN TERMS, CONDITIONS, COVENANTS AND
+2 AGREEMENTS AS THE BOARD DEEMS PROPER. THE BONDS MAY BE PAYABLE FROM ANY
+3 COMBINATION OF AD VALOREM TAXES, REVENUES OR ASSESSMENTS OF THE TYPES
+4 DESCRIBED IN THIS CHAPTER AND AS SPECIFIED IN THE BONDS IF ALL APPLICABLE
+5 REQUIREMENTS ARE MET.
+6 48-7026. O/M taxes; election; annual financial estimate and
+7 budget; hearing
+8 A. AT ANY TIME AFTER THE RECORDING OF A FORMATION ORDER, THE BOARD
+9 MAY CALL AN ELECTION TO SUBMIT TO THE PERSONS WHO ARE ELIGIBLE TO VOTE IN
+10 THE DISTRICT AS PRESCRIBED IN SECTION 48-7041 THE QUESTION OF AUTHORIZING
+11 THE BOARD TO LEVY AN O/M TAX ON THE NET LIMITED ASSESSED PROPERTY
+12 VALUATION OF PROPERTY IN THE DISTRICT AT A RATE OR RATES THAT DO NOT
+13 EXCEED THE MAXIMUM RATE OR RATES SPECIFIED IN THE BALLOT. THE CONTINUED
+14 IMPOSITION OF THE TAX MUST BE APPROVED BY A MAJORITY OF THE PERSONS WHO
+15 ARE ELIGIBLE TO VOTE IN THE DISTRICT AS PRESCRIBED IN SECTION 48-7041,
+16 VOTING IN A REGULAR OR SPECIAL ELECTION AT LEAST EVERY SEVEN YEARS AFTER
+17 THE DATE OF THE INITIAL IMPOSITION. ALL O/M TAXES SHALL BE USED FOR THE
+18 OPERATION AND MAINTENANCE EXPENSES OF THE DISTRICT, INCLUDING LEGAL
+19 EXPENSES AND EXPENSES THAT ARE ASSOCIATED WITH INSURANCE COVERAGE, AND
+20 SHALL NOT EXCEED AN AMOUNT EQUAL TO $.30 PER $100 OF ASSESSED VALUATION
+21 FOR ALL REAL AND PERSONAL PROPERTY IN THE DISTRICT. THE BOARD BY SIMPLE
+22 MAJORITY VOTE MAY REDUCE OR ELIMINATE ANY PORTION OF THE O/M TAX IMPOSED
+23 BY THE DISTRICT.
+24 B. THE DISTRICT MAY NOT LEVY AN O/M TAX AT A RATE OR RATES IN
+25 EXCESS OF THE MAXIMUM RATE THEN IN EFFECT.
+26 C. WHEN LEVYING AN O/M TAX, THE BOARD SHALL MAKE ANNUAL STATEMENTS
+27 AND ESTIMATES OF THE OPERATION AND MAINTENANCE EXPENSES OF THE DISTRICT
+28 AND THE AMOUNT OF ALL OTHER EXPENDITURES FOR PUBLIC INFRASTRUCTURE
+29 PROPOSED TO BE PAID FROM THE O/M TAX LEVY OR LEVIES, ALL OF WHICH SHALL BE
+30 PROVIDED FOR BY THE LEVY AND COLLECTION OF AD VALOREM TAXES ON THE
+31 ASSESSED VALUE OF ALL THE REAL AND PERSONAL PROPERTY IN THE DISTRICT. THE
+32 BOARD SHALL FILE THE ANNUAL STATEMENTS AND ESTIMATES WITH THE CLERK. THE
+33 BOARD SHALL PUBLISH A NOTICE OF THE FILING OF THE ESTIMATE, SHALL HOLD
+34 HEARINGS ON THE PORTIONS OF THE ESTIMATE NOT RELATING TO DEBT SERVICE ON
+35 BONDS AND SHALL ADOPT A BUDGET. THE BOARD, ON OR BEFORE THE DATE SET BY
+36 LAW FOR CERTIFYING THE ANNUAL BUDGET OF THE COUNTY OR MUNICIPALITY, SHALL
+37 FIX, LEVY AND ASSESS THE AMOUNTS TO BE RAISED BY O/M TAXES OF THE DISTRICT
+38 AND SHALL CAUSE CERTIFIED COPIES OF THE ORDER TO BE DELIVERED TO THE BOARD
+39 OF SUPERVISORS AND TO THE DEPARTMENT OF REVENUE. ALL STATUTES RELATING TO
+40 THE LEVY AND COLLECTION OF GENERAL COUNTY TAXES, INCLUDING THE COLLECTION
+41 OF DELINQUENT TAXES AND SALE OF PROPERTY FOR NONPAYMENT OF TAXES, APPLY TO
+42 THE DISTRICT TAXES PROVIDED FOR BY THIS SECTION.
+43 48-7027. Budget; hearing
+44 ON OR BEFORE JULY 15 EACH YEAR, THE TREASURER SHALL PREPARE A
+45 PROPOSED BUDGET FOR THE ENSUING FISCAL YEAR TO BE SUBMITTED TO THE BOARD
+46 FOR APPROVAL. THE BOARD SHALL INDICATE ITS APPROVAL OF THE BUDGET BY
+47 RESOLUTION, WHICH SHALL PROVIDE FOR A HEARING ON THE BUDGET AS APPROVED.
+48 THE PARTICIPATING ENTITIES MAY REVIEW THE PROPOSED ANNUAL BUDGET AND MAY
+49 SUBMIT WRITTEN COMMENTS TO THE BOARD FOR ITS ASSISTANCE AND INFORMATION IN
+-46-
+
+House Amendments to H.B. 2999
+1 ADOPTING ITS ANNUAL BUDGET. AT THE CONCLUSION OF THE BUDGET HEARING, THE
+2 BOARD, BY RESOLUTION, SHALL ADOPT THE BUDGET AS FINALLY APPROVED BY THE
+3 BOARD. THE BUDGET SHALL BE ADOPTED BEFORE OCTOBER 1 EACH YEAR.
+4 48-7028. Display of district taxes and assessments on
+5 property tax bills
+6 A. ANY AD VALOREM TAX THAT IS LEVIED BY A DISTRICT PURSUANT TO THIS
+7 CHAPTER SHALL BE SHOWN ON EACH PROPERTY TAX BILL AS A SEPARATE LINE ITEM
+8 THAT:
+9 1. STATES THAT THE DISTRICT IS "STATE-CERTIFIED" TO INDICATE THAT
+10 ITS FORMATION WAS APPROVED BY THE AUTHORITY.
+11 2. IDENTIFIES THE NAME OF THE DISTRICT.
+12 B. ANY ASSESSMENT THAT IS LEVIED BY A DISTRICT PURSUANT TO THIS
+13 CHAPTER AND THAT IS COLLECTED BY THE COUNTY TREASURER SHALL BE SHOWN ON
+14 EACH PROPERTY TAX BILL AS A SEPARATE LINE ITEM THAT:
+15 1. STATES THAT THE DISTRICT IS "STATE-CERTIFIED" TO INDICATE THAT
+16 ITS FORMATION WAS APPROVED BY THE AUTHORITY.
+17 2. IDENTIFIES THE NAME OF THE DISTRICT.
+18 ARTICLE 3. OPERATIONS
+19 48-7041. Notice and conduct of elections; eligible voters
+20 A. ANY ELECTION UNDER THIS ARTICLE SHALL BE A NONPARTISAN ELECTION
+21 AND NOT A GENERAL ELECTION AND IS NOT SUBJECT TO THE REQUIREMENTS
+22 APPLICABLE TO ELECTIONS FOR GENERAL GOVERNMENTAL BODIES, INCLUDING ONE-
+23 PERSON-ONE-VOTE PRINCIPLES. AN ELECTION UNDER THIS ARTICLE SHALL BE
+24 CALLED BY POSTING NOTICES IN THREE PUBLIC PLACES WITHIN THE BOUNDARIES OF
+25 THE DISTRICT NOT LESS THAN TWENTY DAYS BEFORE THE ELECTION. ANY ELECTION
+26 MAY BE CONDUCTED AS A MAIL BALLOT ELECTION IN THE MANNER PRESCRIBED IN
+27 TITLE 16, CHAPTER 4, ARTICLE 8.1 AS NEARLY AS PRACTICABLE. IF THE
+28 ELECTION NOTICE IS NOT MAILED TO THE PROPERTY OWNERS AND, IF APPLICABLE,
+29 TO THE QUALIFIED ELECTORS, THE NOTICE SHALL ALSO BE PUBLISHED IN A
+30 NEWSPAPER OF GENERAL CIRCULATION IN THE MUNICIPALITY, OR IF THERE IS NO
+31 NEWSPAPER SO CIRCULATED IN THE MUNICIPALITY, IN A NEWSPAPER OF GENERAL
+32 CIRCULATION IN THE COUNTY IN WHICH THE DISTRICT IS LOCATED ONCE A WEEK FOR
+33 TWO CONSECUTIVE WEEKS BEFORE THE ELECTION. THE NOTICE SHALL STATE:
+34 1. THE PLACE OF HOLDING THE ELECTION.
+35 2. THE HOURS DURING THE DAY, NOT LESS THAN SIX, IN WHICH THE POLLS
+36 WILL BE OPEN.
+37 3. IF IT IS A BOND ELECTION, THE AMOUNT OF BONDS TO BE AUTHORIZED
+38 FOR THE DISTRICT, THE MAXIMUM RATE OF INTEREST TO BE BORNE ON THE BONDS,
+39 THE MAXIMUM TERM OF THE BONDS, NOT EXCEEDING THIRTY YEARS, AND THE
+40 PURPOSES FOR WHICH THE MONIES RAISED WILL BE USED.
+41 4. IF IT IS AN AD VALOREM TAX LEVY ELECTION PURSUANT TO SECTION
+42 48-7022 OR 48-7023, THE MAXIMUM TAX RATE PER $100 OF NET ASSESSED LIMITED
+43 PROPERTY VALUATION TO BE IMPOSED, THE PURPOSES FOR WHICH THE MONIES RAISED
+44 WILL BE USED AND THE EXISTING MAXIMUM AUTHORIZED TAX RATE.
+45 5. IF IT IS AN ASSESSMENT LEVY ELECTION PURSUANT TO SECTION
+46 48-7023, THE MAXIMUM ASSESSMENT RATE TO BE IMPOSED, THE PURPOSES FOR WHICH
+47 THE MONIES RAISED WILL BE USED AND THE EXISTING MAXIMUM ASSESSMENT RATE,
+48 IF ANY.
+49 6. THAT A GENERAL PLAN IS ON FILE WITH THE CLERK.
+-47-
+
+House Amendments to H.B. 2999
+1 B. THE BOARD SHALL DETERMINE THE DATE OF THE ELECTION AND, IF
+2 APPLICABLE, THE POLLING PLACES FOR THE ELECTION AND MAY CONSOLIDATE
+3 PRECINCTS. THE CLERK OF THE BOARD SHALL PREPARE A LIST OF ELIGIBLE VOTERS
+4 IN THE ELECTION. A PROSPECTIVE LANDOWNER VOTER SHALL EXECUTE AN AFFIDAVIT
+5 STATING THAT THE VOTER IS THE OWNER OF LAND IN THE DISTRICT AND IS
+6 QUALIFIED TO VOTE PURSUANT TO THIS SECTION AND STATING THE PARCEL NUMBER
+7 OWNED BY THE VOTER. ELECTION BOARD MEMBERS MAY ADMINISTER OATHS OR TAKE
+8 ALL AFFIRMATIONS FOR THESE PURPOSES. AN ELECTION HELD PURSUANT TO THIS
+9 ARTICLE IS NOT SUBJECT TO TITLE 16, CHAPTER 2, ARTICLE 3.
+10 C. ONLY THE OWNERS OF REAL PROPERTY IN THE DISTRICT AND THEIR
+11 DESIGNATED REPRESENTATIVES ARE ELIGIBLE TO VOTE IN AN ELECTION REGARDING
+12 AN AD VALOREM TAX LEVY ELECTION, AN ASSESSMENT ELECTION, AN O/M TAX
+13 ELECTION, AN ELECTION FOR THE BOARD OF DIRECTORS OF THE DISTRICT AND IN AN
+14 ELECTION FOR DISSOLUTION. VOTING ELIGIBILITY IS BASED ON OWNERSHIP OF
+15 REAL PROPERTY SUBJECT TO TAXATION OR ASSESSMENT BY THE DISTRICT.
+16 CORPORATIONS, PARTNERSHIPS AND OTHER BUSINESS ENTITIES ARE ELIGIBLE TO
+17 VOTE AS PROPERTY OWNERS, BUT ONLY ONE VOTE MAY BE CAST FOR EACH
+18 ONE-SEVENTH OF AN ACRE OF REAL PROPERTY IN THE DISTRICT, EXCEPT THAT ANY
+19 FRACTION OF OWNERSHIP OF REAL PROPERTY THAT IS LESS THAN ONE-SEVENTH OF AN
+20 ACRE ENTITLES THE OWNER TO CAST ONE VOTE. A MAJORITY OF THE ACREAGE AS
+21 REPRESENTED BY THE VOTES CAST AT AN ELECTION CONDUCTED SOLELY UNDER THE
+22 ACREAGE SYSTEM SHALL DETERMINE THE RESULT. AN ACREAGE SYSTEM ELECTION
+23 SHALL BE CONDUCTED PURSUANT TO THE PROCEDURES PRESCRIBED IN SECTIONS
+24 48-3042 THROUGH 48-3051 AS NEARLY AS PRACTICABLE. QUALIFIED ELECTORS ARE
+25 ELIGIBLE TO VOTE IN AN ELECTION REGARDING GENERAL OBLIGATION BONDS.
+26 D. EXCEPT AS OTHERWISE PROVIDED BY THIS ARTICLE, THE ELECTION SHALL
+27 COMPLY WITH THE GENERAL ELECTION LAWS OF THIS STATE, EXCEPT THAT THE WORDS
+28 TO APPEAR ON THE BALLOTS SHALL BE FOR A BOND ELECTION "BONDS, YES" AND
+29 "BONDS, NO", FOR A TAX ELECTION IF NO TAX IS IN PLACE "TAX, YES" AND "TAX,
+30 NO", FOR AN ASSESSMENT LEVY ELECTION “ASSESSMENT, YES” AND “ASSESSMENT,
+31 NO" AND FOR A TAX ELECTION TO CHANGE AN EXISTING MAXIMUM OR ELIMINATE AN
+32 EXISTING TAX "TAX CHANGE, YES" AND "TAX CHANGE, NO". THE RETURNS OF
+33 ELECTION SHALL BE MADE TO THE BOARD.
+34 E. WITHIN FOURTEEN DAYS AFTER AN ELECTION, THE BOARD SHALL MEET AND
+35 CANVASS THE RETURNS. IF THE MAJORITY OF ACREAGE AS REPRESENTED BY THE
+36 VOTES CAST AT THE ELECTION IS IN FAVOR OF IMPOSING THE TAX, THE BOARD
+37 SHALL ENTER THAT FACT ON ITS MINUTES. THE CANVASS MAY BE CONTINUED FROM
+38 TIME TO TIME. FAILURE OF A MAJORITY TO VOTE IN FAVOR OF THE MATTER
+39 SUBMITTED DOES NOT PREJUDICE THE SUBMISSION OF THE SAME OR SIMILAR MATTERS
+40 AT A LATER ELECTION. ANY CHALLENGE TO THE CONDUCT OR OUTCOME OF AN
+41 ELECTION HELD PURSUANT TO THIS CHAPTER MUST BE COMMENCED WITHIN THIRTY
+42 DAYS AFTER THE CANVASS OF THE ELECTION AND SHALL BE LIMITED TO WHETHER THE
+43 DISTRICT COMPLIED WITH THE PROCEDURAL REQUIREMENTS OF THIS CHAPTER.
+44 F. IF A PERSON LISTED ON THE ASSESSMENT ROLL IS NO LONGER THE OWNER
+45 OF LAND IN THE DISTRICT AND THE NAME OF THE SUCCESSOR OWNER BECOMES KNOWN
+46 AND IS VERIFIED BY RECORDED DEED OR OTHER SIMILAR EVIDENCE OF TRANSFER OF
+47 OWNERSHIP, THE SUCCESSOR OWNER IS DEEMED TO BE THE OWNER FOR THE PURPOSES
+48 OF THIS ARTICLE.
+-48-
+
+House Amendments to H.B. 2999
+1 G. NOTWITHSTANDING ANY OTHER PROVISION OF THIS ARTICLE, IF NO
+2 PERSON HAS REGISTERED TO VOTE WITHIN THE DISTRICT WITHIN FIFTY DAYS
+3 IMMEDIATELY PRECEDING ANY SCHEDULED ELECTION DATE, ANY ELECTION REQUIRED
+4 TO BE HELD PURSUANT TO THIS ARTICLE SHALL BE HELD WITH THE VOTE BY THE
+5 OWNERS OF LAND WITHIN THE DISTRICT WHO ARE QUALIFIED ELECTORS OF THIS
+6 STATE AND OTHER LANDOWNERS ACCORDING TO SECTION 48-3043. EACH OWNER HAS
+7 THE NUMBER OF VOTES OR PORTION OF VOTES EQUAL TO THE NUMBER OF ACRES OR
+8 PORTION OF ACRES ROUNDED UPWARD TO THE NEAREST ONE-FIFTH OF AN ACRE OWNED
+9 IN THE DISTRICT BY THAT PERSON.
+10 H. NOTWITHSTANDING ANY OTHER PROVISION OF THIS ARTICLE, IF THE
+11 DISTRICT RECEIVES A CONSENT TO WAIVER SIGNED BY OWNERS OF ALL OF THE LAND
+12 IN THE DISTRICT, THE DISTRICT MAY WAIVE ANY OR ALL REQUIREMENTS OF
+13 POSTING, PUBLICATION, MAILING, NOTICE, HEARING AND LANDOWNER ELECTION
+14 OTHERWISE REQUIRED IN CONNECTION WITH ASSESSMENTS OR ASSESSMENT BONDS. ON
+15 RECEIPT OF SUCH CONSENT TO WAIVER, THE DISTRICT MAY LEVY THE ASSESSMENT
+16 AND ISSUE THE ASSESSMENT BONDS WITHOUT BEING REQUIRED TO COMPLY WITH THE
+17 PROVISIONS OF THIS ARTICLE FOR POSTING, PUBLICATION, MAILING, NOTICE,
+18 HEARING OR LANDOWNER ELECTION.
+19 48-7042. Recording documents
+20 THE DISTRICT SHALL FILE AND RECORD WITH THE COUNTY RECORDER THE
+21 FORMATION ORDER, THE GENERAL PLAN OF THE DISTRICT, THE CANVASS OF ANY
+22 GENERAL OBLIGATION BOND ELECTION AND ANY ASSESSMENTS LEVIED BY THE
+23 DISTRICT. COPIES OF ALL SUCH INFORMATION SHALL BE PROVIDED TO THE STATE
+24 REAL ESTATE DEPARTMENT.
+25 48-7043. District website; required content; coordination
+26 with seller disclosures
+27 A. THE BOARD SHALL ESTABLISH AND MAINTAIN AN OFFICIAL WEBSITE THAT
+28 IS ELECTRONICALLY SEARCHABLE BY THE PUBLIC AND THAT CONTAINS A
+29 COMPREHENSIVE DATABASE OF DISTRICT CONTRACTS, PUBLIC NOTICES, MEETING
+30 MINUTES, RESOLUTIONS AND ACCOUNTS SHOWING, ON AN AGGREGATE AND SUMMARY
+31 BASIS, ALL MONIES RECEIVED AND DISBURSED, THE ANNUAL BUDGET AND OTHER
+32 RECORDS REQUIRED TO BE MAINTAINED BY LAW. THE BOARD SHALL PROVIDE A LINK
+33 TO THE DATABASE ON THE DISTRICT'S MAIN WEBSITE MAINTAINED BY THE BOARD AND
+34 SHALL PROVIDE A LINK TO THAT DATABASE TO THE DEPARTMENT OF ADMINISTRATION.
+35 THE DATABASE MAY NOT INCLUDE:
+36 1. TAX PAYMENT OR REFUND DATA THAT INCLUDES CONFIDENTIAL TAXPAYER
+37 INFORMATION.
+38 2. WORK PRODUCT IN ANTICIPATION OF LITIGATION OR OTHER INFORMATION
+39 THAT IS SUBJECT TO ATTORNEY-CLIENT PRIVILEGE.
+40 3. ANY OTHER INFORMATION THAT IS DESIGNATED BY LAW AS CONFIDENTIAL.
+41 B. THE DISTRICT SHALL KEEP THE WEBSITE CURRENT AND SHALL POST, IN
+42 ADDITION TO THE INFORMATION DESCRIBED IN SUBSECTION A OF THIS SECTION, ALL
+43 OF THE FOLLOWING INFORMATION:
+44 1. THE DISTRICT'S LEGAL NAME, COMMON NAME, IF ANY, STATUTORY
+45 AUTHORITY, FORMATION DATE AND THE BOUNDARIES OF THE DISTRICT, INCLUDING AT
+46 LEAST ONE MAP IN A DOWNLOADABLE FORMAT.
+47 2. A COPY OF THE FORMATION ORDER AND THE GENERAL PLAN.
+48 3. A STATEMENT THAT THE FORMATION OF THE DISTRICT WAS REVIEWED AND
+49 APPROVED BY THE AUTHORITY DESIGNATED PURSUANT TO THIS CHAPTER, AND THAT
+-49-
+
+House Amendments to H.B. 2999
+1 THE DISTRICT IS A SEPARATE POLITICAL SUBDIVISION FROM THE MUNICIPALITY AND
+2 THE COUNTY IN WHICH IT IS LOCATED AND THAT ANY AD VALOREM TAXES,
+3 ASSESSMENTS, FEES OR CHARGES IMPOSED BY THE DISTRICT ARE LEVIED BY THE
+4 DISTRICT AND ARE NOT TAXES, ASSESSMENTS, FEES OR CHARGES OF THE
+5 MUNICIPALITY OR THE COUNTY.
+6 4. A PLAIN‑LANGUAGE DESCRIPTION OF THE PURPOSE FOR WHICH THE
+7 DISTRICT WAS FORMED AND THE PUBLIC IMPROVEMENTS OR SERVICES THE DISTRICT
+8 IS AUTHORIZED TO FINANCE OR PROVIDE.
+9 5. THE CURRENT YEAR'S ADOPTED BUDGET FOR THE DISTRICT AND THE TWO
+10 MOST RECENT PRIOR YEARS' ADOPTED BUDGETS.
+11 6. A SCHEDULE OF ALL AD VALOREM TAXES, ASSESSMENTS, FEES AND
+12 CHARGES IMPOSED BY THE DISTRICT FOR THE CURRENT FISCAL YEAR.
+13 7. A DESCRIPTION OF ALL OUTSTANDING BONDS AND OTHER LONG‑TERM
+14 OBLIGATIONS OF THE DISTRICT, INCLUDING THE ORIGINAL PRINCIPAL AMOUNT,
+15 CURRENT PRINCIPAL BALANCE, IF REASONABLY AVAILABLE, MAXIMUM AUTHORIZED
+16 PRINCIPAL, FINAL MATURITY DATE AND A GENERAL DESCRIPTION OF THE REVENUE
+17 SOURCES PLEDGED FOR REPAYMENT.
+18 8. THE MAXIMUM AUTHORIZED TAX RATE, THE MAXIMUM AUTHORIZED
+19 AGGREGATE PRINCIPAL AMOUNT OF GENERAL OBLIGATION BONDS, THE MAXIMUM
+20 AGGREGATE ASSESSMENT AMOUNT AND THE MAXIMUM O/M TAX RATE.
+21 9. THE NAMES, OFFICIAL TITLES AND CONTACT INFORMATION FOR THE
+22 BOARD, THE CLERK AND THE TREASURER.
+23 10. NOTICES OF ALL REGULAR AND SPECIAL MEETINGS OF THE BOARD,
+24 AGENDAS AND MINUTES, POSTED IN A TIMELY MANNER.
+25 11. ANY ANNUAL REPORTS, AUDITS OR FINANCIAL REVIEWS REQUIRED TO BE
+26 FILED WITH A COUNTY, THIS STATE OR ANY OTHER PUBLIC BODY AND ANY
+27 ADDITIONAL REPORTS THE DISTRICT ELECTS TO PROVIDE FOR PUBLIC TRANSPARENCY.
+28 C. THE DISTRICT SHALL ALSO MAKE AVAILABLE ON THE WEBSITE, IN A FORM
+29 THAT CAN BE DOWNLOADED AND PROVIDED TO A PURCHASER, A STANDARDIZED
+30 "DISTRICT DISCLOSURE NOTICE" THAT INCLUDES:
+31 1. A BRIEF DESCRIPTION OF THE DISTRICT AND ITS POWERS TO LEVY AD
+32 VALOREM TAXES, ASSESSMENTS, FEES AND CHARGES.
+33 2. THE MOST RECENT AD VALOREM TAX RATE OR ASSESSMENT RATE IMPOSED
+34 BY THE DISTRICT AND A SAMPLE CALCULATION OF THE ESTIMATED ANNUAL AD
+35 VALOREM TAX OR ASSESSMENT ON A HYPOTHETICAL RESIDENTIAL PROPERTY VALUE
+36 SELECTED BY THE BOARD.
+37 3. A STATEMENT THAT ACTUAL AD VALOREM TAXES, ASSESSMENTS, FEES AND
+38 CHARGES ON A PARTICULAR PROPERTY MAY DIFFER BASED ON CHANGES IN TAX RATES,
+39 ASSESSED VALUE AND DISTRICT FINANCING DECISIONS.
+40 4. A STATEMENT DIRECTING PROSPECTIVE PURCHASERS TO THE DISTRICT
+41 WEBSITE FOR ADDITIONAL AND UPDATED INFORMATION.
+42 D. A SELLER OF PROPERTY LOCATED IN THE DISTRICT WHO IS REQUIRED BY
+43 LAW TO PROVIDE A DISTRICT DISCLOSURE TO A PURCHASER MAY SATISFY ANY
+44 REQUIREMENT TO DESCRIBE THE DISTRICT'S PURPOSES, POWERS, TAX RATES OR
+45 INDEBTEDNESS BY:
+46 1. PROVIDING THE PURCHASER WITH A CURRENT COPY OF THE STANDARDIZED
+47 DISTRICT DISCLOSURE NOTICE DESCRIBED IN SUBSECTION C OF THIS SECTION.
+-50-
+
+House Amendments to H.B. 2999
+1 2. IDENTIFYING IN WRITING THE DISTRICT'S WEBSITE ADDRESS ON OR
+2 BEFORE THE DATE THE PURCHASER SIGNS A BINDING CONTRACT TO ACQUIRE THE
+3 PROPERTY.
+4 E. THE FAILURE OF THE DISTRICT TO TIMELY UPDATE ALL INFORMATION ON
+5 THE WEBSITE DOES NOT RELIEVE A SELLER FROM ANY DUTY UNDER OTHER APPLICABLE
+6 DISCLOSURE LAWS, BUT A SELLER WHO, IN GOOD FAITH, RELIES ON INFORMATION
+7 POSTED BY THE DISTRICT ON ITS WEBSITE AT THE TIME OF DISCLOSURE IS NOT
+8 LIABLE FOR AN INACCURACY IN THAT INFORMATION UNLESS THE SELLER HAD ACTUAL
+9 KNOWLEDGE OF THE INACCURACY.
+10 48-7044. Annual report; bond report
+11 A. NOT LATER THAN ONE HUNDRED EIGHTY DAYS AFTER THE END OF EACH
+12 FISCAL YEAR, THE DISTRICT SHALL SUBMIT TO THE AUTHORITY AN ANNUAL REPORT
+13 CONTAINING:
+14 1. THE CURRENT YEAR'S ADOPTED BUDGET FOR THE DISTRICT AND THE TWO
+15 MOST RECENT PRIOR YEARS' ADOPTED BUDGETS.
+16 2. A SCHEDULE OF ALL AD VALOREM TAXES, ASSESSMENTS, FEES AND
+17 CHARGES IMPOSED BY THE DISTRICT FOR THE CURRENT FISCAL YEAR.
+18 3. A DESCRIPTION OF ALL OUTSTANDING BONDS AND OTHER LONG‑TERM
+19 OBLIGATIONS OF THE DISTRICT, INCLUDING THE ORIGINAL PRINCIPAL AMOUNT,
+20 CURRENT PRINCIPAL BALANCE, IF REASONABLY AVAILABLE, MAXIMUM AUTHORIZED
+21 PRINCIPAL, FINAL MATURITY DATE AND A GENERAL DESCRIPTION OF THE REVENUE
+22 SOURCES PLEDGED FOR REPAYMENT.
+23 4. THE MAXIMUM AUTHORIZED TAX RATE, THE MAXIMUM AUTHORIZED
+24 AGGREGATE PRINCIPAL AMOUNT OF GENERAL OBLIGATION BONDS, THE MAXIMUM
+25 AGGREGATE ASSESSMENT AMOUNT AND THE MAXIMUM O/M TAX RATE.
+26 5. THE NAMES, OFFICIAL TITLES AND CONTACT INFORMATION FOR THE
+27 BOARD, THE CLERK AND THE TREASURER.
+28 6. A BRIEF DESCRIPTION OF THE PUBLIC INFRASTRUCTURE THE DISTRICT
+29 HAS ACQUIRED OR CONSTRUCTED.
+30 7. THE NUMBER OF RESIDENTIAL HOUSING UNITS CONSTRUCTED WITHIN THE
+31 DISTRICT.
+32 B. NOT LATER THAN THIRTY DAYS AFTER THE ISSUANCE OF ANY BONDS, THE
+33 DISTRICT SHALL SUBMIT TO THE AUTHORITY A BOND ISSUANCE REPORT CONTAINING:
+34 1. THE FINAL OFFERING DOCUMENT, IF ANY, PURSUANT TO WHICH THE BONDS
+35 WERE SOLD.
+36 2. A DEBT SERVICE SCHEDULE FOR THE BONDS.
+37 3. A DESCRIPTION OF THE PUBLIC INFRASTRUCTURE FINANCED WITH THE
+38 PROCEEDS OF THE BONDS.
+39 4. IF THE BONDS ARE GENERAL OBLIGATION BONDS, A PROJECTION OF THE
+40 AD VALOREM TAX RATE THAT IS REQUIRED TO SUPPORT DEBT SERVICE ON THE BONDS,
+41 WHICH PROJECTED RATE DOES NOT EXCEED THE MAXIMUM AUTHORIZED TAX RATE.
+42 5. IF THE BONDS ARE ASSESSMENT BONDS, THE MAXIMUM AGGREGATE
+43 ASSESSMENT AND THE MAXIMUM PER‑LOT ASSESSMENT LEVIED IN CONNECTION WITH
+44 THE BONDS.
+45 6. A DESCRIPTION OF ALL OUTSTANDING BONDS AND OTHER LONG‑TERM
+46 OBLIGATIONS OF THE DISTRICT, INCLUDING THE ORIGINAL PRINCIPAL AMOUNT,
+47 CURRENT PRINCIPAL BALANCE, IF REASONABLY AVAILABLE, MAXIMUM AUTHORIZED
+48 PRINCIPAL, FINAL MATURITY DATE AND A GENERAL DESCRIPTION OF THE REVENUE
+49 SOURCES PLEDGED FOR REPAYMENT.
+-51-
+
+House Amendments to H.B. 2999
+1 48-7045. Seller disclosure; form of notice
+2 A. THIS SECTION APPLIES TO THE SALE OR OTHER CONVEYANCE OF ANY
+3 RESIDENTIAL REAL PROPERTY THAT IS LOCATED WITHIN THE BOUNDARIES OF A
+4 DISTRICT FORMED UNDER THIS CHAPTER AND THAT IS AUTHORIZED TO LEVY AN AD
+5 VALOREM TAX, ASSESSMENT, FEE OR CHARGE THAT APPEARS AS A SEPARATE LINE
+6 ITEM ON THE PROPERTY TAX BILL FOR THAT PROPERTY.
+7 B. A SELLER OF RESIDENTIAL REAL PROPERTY TO WHICH THIS SECTION
+8 APPLIES SHALL PROVIDE TO EACH PROSPECTIVE PURCHASER A WRITTEN "DISTRICT
+9 DISCLOSURE NOTICE" THAT CONTAINS, AT A MINIMUM, THE INFORMATION DESCRIBED
+10 IN SECTION 48‑7043, SUBSECTION C AND THAT SUBSTANTIALLY COMPLIES WITH THE
+11 FORM PRESCRIBED BY THE DISTRICT.
+12 C. THE SELLER SHALL DELIVER THE DISTRICT DISCLOSURE NOTICE AS
+13 FOLLOWS:
+14 1. FOR A TRANSACTION IN WHICH THE PURCHASER SIGNS A WRITTEN OFFER,
+15 THE SELLER SHALL DELIVER THE NOTICE TO THE PURCHASER ON OR BEFORE THE DATE
+16 ON WHICH THE PURCHASER SIGNS A BINDING PURCHASE CONTRACT FOR THE PROPERTY.
+17 2. FOR ANY OTHER TRANSACTION, THE SELLER SHALL DELIVER THE NOTICE
+18 TO THE PURCHASER BEFORE THE PURCHASER BECOMES OBLIGATED UNDER ANY BINDING
+19 AGREEMENT TO ACQUIRE THE PROPERTY.
+20 D. A DISTRICT DISCLOSURE NOTICE SATISFIES THE SELLER'S OBLIGATION
+21 UNDER THIS SECTION IF THE NOTICE:
+22 1. IDENTIFIES THE DISTRICT BY LEGAL NAME AND COMMON NAME, IF ANY.
+23 2. STATES THAT THE PROPERTY IS LOCATED WITHIN THE DISTRICT AND IS
+24 SUBJECT TO THE DISTRICT'S TAXING AND ASSESSMENT AUTHORITY.
+25 3. INCLUDES A BRIEF DESCRIPTION OF THE DISTRICT'S PURPOSES AND
+26 POWERS, INCLUDING ITS AUTHORITY TO LEVY AD VALOREM TAXES, ASSESSMENTS,
+27 FEES OR CHARGES.
+28 4. STATES THE CURRENT AD VALOREM TAX RATE OR ASSESSMENT RATE
+29 IMPOSED BY THE DISTRICT AND PROVIDES AN EXAMPLE OF THE ESTIMATED ANNUAL
+30 TAX OR ASSESSMENT ON A HYPOTHETICAL RESIDENTIAL PROPERTY VALUE.
+31 5. STATES THAT ACTUAL TAXES, ASSESSMENTS, FEES AND CHARGES ON THE
+32 PROPERTY MAY CHANGE OVER TIME AND MAY DIFFER FROM THE EXAMPLE PROVIDED.
+33 6. STATES THAT THE FORMATION OF THE DISTRICT WAS REVIEWED AND
+34 APPROVED BY THE AUTHORITY DESIGNATED PURSUANT TO THIS CHAPTER AND THAT THE
+35 DISTRICT IS A SEPARATE POLITICAL SUBDIVISION FROM THE MUNICIPALITY AND THE
+36 COUNTY IN WHICH IT IS LOCATED AND THAT ANY AD VALOREM TAXES, ASSESSMENTS,
+37 FEES OR CHARGES IMPOSED BY THE DISTRICT ARE LEVIED BY THE DISTRICT AND ARE
+38 NOT TAXES, ASSESSMENTS, FEES OR CHARGES OF THE MUNICIPALITY OR THE COUNTY.
+39 7. PROVIDES THE INTERNET WEBSITE ADDRESS FOR THE DISTRICT AND
+40 ADVISES THE PURCHASER THAT ADDITIONAL AND UPDATED INFORMATION REGARDING
+41 THE DISTRICT'S FINANCES, MEETINGS AND OPERATIONS IS AVAILABLE ON THAT
+42 WEBSITE.
+43 E. A SELLER MAY SATISFY THE DISCLOSURE REQUIREMENTS OF THIS SECTION
+44 BY:
+45 1. PROVIDING THE PURCHASER WITH A CURRENT COPY OF THE STANDARDIZED
+46 DISTRICT DISCLOSURE NOTICE MADE AVAILABLE BY THE DISTRICT PURSUANT TO
+47 SECTION 48‑7043, SUBSECTION C.
+48 2. IDENTIFYING THE DISTRICT'S WEBSITE ADDRESS IN THE PURCHASE
+49 CONTRACT OR IN A SEPARATE WRITTEN DISCLOSURE DELIVERED WITH THE NOTICE.
+-52-
+
+House Amendments to H.B. 2999
+1 F. A SELLER WHO, IN GOOD FAITH, RELIES ON INFORMATION CONTAINED IN
+2 THE STANDARDIZED DISTRICT DISCLOSURE NOTICE PROVIDED BY THE DISTRICT OR
+3 POSTED ON THE DISTRICT'S WEBSITE AT THE TIME OF DISCLOSURE IS NOT LIABLE
+4 FOR AN INACCURACY IN THAT INFORMATION UNLESS THE SELLER HAD ACTUAL
+5 KNOWLEDGE OF THE INACCURACY.
+6 G. A SELLER'S COMPLIANCE WITH THIS SECTION DOES NOT SATISFY OR
+7 LIMIT ANY OBLIGATION OF A SUBDIVIDER OR OTHER SELLER TO OBTAIN AND DELIVER
+8 A SUBDIVISION PUBLIC REPORT UNDER TITLE 32, CHAPTER 20, ARTICLE 4, AND
+9 DOES NOT LIMIT ANY DISCLOSURE OBLIGATIONS IMPOSED BY SECTION 33-423 OR ANY
+10 OTHER PROVISION OF LAW.
+11 48-7046. Change in district boundaries or general plan
+12 A. AFTER FORMATION OF A DISTRICT, AN AREA MAY BE DELETED FROM THE
+13 DISTRICT ONLY FOLLOWING A HEARING AFTER NOTICE TO THE OWNERS OF LAND IN
+14 THE DISTRICT, ADOPTION OF A RESOLUTION OF INTENTION TO DO SO BY THE BOARD
+15 AND APPROVAL BY THE OWNERS OF LAND IN THE DISTRICT PURSUANT TO SECTION
+16 48-7041, SUBSECTION C. DELETED AREAS REMAIN SUBJECT TO THE LEVY FOR DEBT
+17 SERVICE ON ANY BONDS ISSUED BEFORE THE DATE OF DELETION.
+18 B. AFTER FORMATION OF A DISTRICT, AN AREA MAY BE ADDED TO THE
+19 DISTRICT ON APPROVAL BY THE BOARD FOLLOWING RECEIPT OF A PETITION FOR
+20 ADDITION SIGNED BY THE OWNERS OF ALL OF THE REAL PROPERTY IN THE PROPOSED
+21 ADDITION AREA. THE PETITION MUST INCLUDE A WAIVER OF ANY REQUIREMENT FOR
+22 A SEPARATE RESOLUTION OF INTENTION BY THE BOARD AND A WAIVER OF ANY
+23 REQUIREMENT OF POSTING, PUBLICATION, MAILING, NOTICE, HEARING AND ELECTION
+24 AS TO THAT ADDITION TO THE DISTRICT. THE ADDITION OF PROPERTY TO A
+25 DISTRICT PURSUANT TO THIS SECTION DOES NOT CONSTITUTE THE FORMATION OF A
+26 NEW DISTRICT AND DOES NOT REQUIRE COMPLIANCE WITH THE PROCEDURES
+27 APPLICABLE TO INITIAL DISTRICT FORMATION OR TO AMENDING THE FORMATION
+28 ORDER PURSUANT TO SECTION 48-7041, SUBSECTION K.
+29 C. FOLLOWING A HEARING ON NOTICE TO OWNERS OF LAND IN THE DISTRICT
+30 GIVEN IN THE MANNER PRESCRIBED FOR THE DELETION OF AN AREA FROM THE
+31 DISTRICT, THE BOARD MAY AMEND THE GENERAL PLAN IN ANY MANNER THAT IT
+32 DETERMINES WILL NOT SUBSTANTIALLY REDUCE THE BENEFITS TO BE RECEIVED BY
+33 ANY LAND IN THE DISTRICT FROM THE PUBLIC INFRASTRUCTURE ON COMPLETION OF
+34 THE WORK TO BE PERFORMED UNDER THE GENERAL PLAN.
+35 D. THE AUTHORITY SHALL APPROVE THE ADDITION OR DELETION OF PROPERTY
+36 UPON DETERMINING THAT THE REQUIREMENTS OF THIS SECTION HAVE BEEN SATISFIED
+37 AND WILL AMEND THE FORMATION ORDER ACCORDINGLY.
+38 48-7047. Other districts or improvements
+39 A. THE FORMATION OF A DISTRICT UNDER THIS CHAPTER DOES NOT PREVENT
+40 THE SUBSEQUENT ESTABLISHMENT OF SIMILAR DISTRICTS OR THE IMPROVEMENT OR
+41 ASSESSMENT OF LAND IN THE DISTRICT BY THE MUNICIPALITY OR COUNTY PURSUANT
+42 TO, CHAPTER 4, ARTICLE 2 OF THIS STATE OR THE EXERCISE BY THE MUNICIPALITY
+43 OR COUNTY OF ANY OF ITS POWERS ON THE SAME BASIS AS ON ALL OTHER LAND IN
+44 ITS CORPORATE BOUNDARIES.
+45 B. NOTWITHSTANDING SUBSECTION A OF THIS SECTION, A DISTRICT MAY NOT
+46 BE FORMED IF ANY PORTION OF THE LAND TO BE INCLUDED WITHIN THE DISTRICT IS
+47 ALREADY INCLUDED WITHIN THE BOUNDARIES OF A COMMUNITY FACILITIES DISTRICT
+48 OR REVITALIZATION DISTRICT IF THE COMMUNITY FACILITIES DISTRICT OR
+-53-
+
+House Amendments to H.B. 2999
+1 REVITALIZATION DISTRICT HAS DEBT OUTSTANDING THAT IS SECURED BY AD VALOREM
+2 TAXES OR ASSESSMENTS.
+3 48-7048. Perpetual succession; dissolution of district
+4 A. THE DISTRICT HAS PERPETUAL SUCCESSION, EXCEPT THAT THE DISTRICT
+5 MAY BE DISSOLVED AS PROVIDED IN THIS SECTION AND, IF THE DISTRICT DOES NOT
+6 HAVE ANY BONDS OR OTHER OBLIGATIONS OUTSTANDING, SHALL BE DISSOLVED TEN
+7 YEARS AFTER THE DATE OF FORMATION UNLESS THE AUTHORITY BY RESOLUTION
+8 EXTENDS THE DISTRICT BY AN ADDITIONAL PERIOD OF TEN YEARS.
+9 B. THE BOARD SHALL ADOPT A RESOLUTION DISSOLVING THE DISTRICT IF
+10 THE FOLLOWING CONDITIONS EXIST:
+11 1. ALL OF THE REAL AND PERSONAL PROPERTY OWNED BY THE DISTRICT HAS
+12 BEEN OR WILL BE CONVEYED TO A MUNICIPALITY OR A COUNTY.
+13 2. THE AUTHORITY VERIFIES THAT THE DISTRICT HAS NO BONDS OR
+14 OBLIGATIONS OUTSTANDING.
+15 3. THE AUTHORITY APPROVES THE DISSOLUTION ORDER ON RECEIPT OF A
+16 DISSOLUTION PETITION EXECUTED BY THE OWNERS OF A MAJORITY OF THE REAL
+17 PROPERTY IN THE DISTRICT.
+18 C. ON SATISFACTION OF THE CONDITIONS PRESCRIBED BY SUBSECTION B OF
+19 THIS SECTION, THE AUTHORITY SHALL APPROVE THE DISSOLUTION AND ISSUE A
+20 DISSOLUTION ORDER. THE BOARD SHALL CAUSE THE DISSOLUTION ORDER TO BE
+21 RECORDED IN THE OFFICE OF THE COUNTY RECORDER.
+22 D. ALL PROPERTY IN THE DISTRICT, EXCEPT FEDERAL, STATE, COUNTY AND
+23 MUNICIPAL PROPERTY, REMAINS SUBJECT TO THE LIEN FOR THE PAYMENT OF AD
+24 VALOREM TAXES LEVIED, AND ANY PROPERTY SUBJECT TO AN ASSESSMENT LIEN
+25 REMAINS SUBJECT TO THE LIEN NOTWITHSTANDING DISSOLUTION OF THE DISTRICT.
+26 THE DISTRICT MAY NOT BE DISSOLVED IF ANY GENERAL OBLIGATION BONDS, REVENUE
+27 BONDS OR ASSESSMENT BONDS OF THE DISTRICT REMAIN OUTSTANDING UNLESS AN
+28 AMOUNT OF MONEY SUFFICIENT, TOGETHER WITH INVESTMENT INCOME THEREON, TO
+29 MAKE ALL PAYMENTS DUE ON THE BONDS EITHER AT MATURITY OR PRIOR REDEMPTION
+30 HAS BEEN DEPOSITED WITH A TRUSTEE OR ESCROW AGENT AND PLEDGED TO THE
+31 PAYMENT AND REDEMPTION OF THE BONDS. THE DISTRICT MAY CONTINUE TO OPERATE
+32 AFTER DISSOLUTION ONLY AS NEEDED TO COLLECT MONIES AND MAKE PAYMENTS ON
+33 ANY OUTSTANDING BONDS.
+34 Sec. 6. Legislative findings; purpose
+35 A. The legislature finds and declares that:
+36 1. The provision of public infrastructure in advance of development
+37 is essential to housing affordability, economic development and orderly
+38 growth.
+39 2. State housing affordability districts provide a uniform,
+40 statewide mechanism for financing public infrastructure in a manner that:
+41 (a) Protects taxpayers through limited tax rates and debt
+42 limitations.
+43 (b) Ensures transparency and public accountability.
+44 (c) Facilitates early delivery of public infrastructure at lower
+45 cost.
+46 3. The Arizona finance authority is the appropriate statewide
+47 certification authority to ensure uniform financial, engineering, and
+48 statutory compliance for such districts.
+-54-
+
+House Amendments to H.B. 2999
+1 4. The certification and oversight functions provided in this
+2 chapter constitute governmental functions serving valid public purposes.
+3 B. The legislature further finds and declares that:
+4 1. State housing affordability districts exercise limited, special-
+5 purpose governmental powers relating solely to the financing,
+6 construction, operation and maintenance of public infrastructure.
+7 2. The financial obligations of a district, including ad valorem
+8 taxes, assessments, and liens, are borne directly and proportionally by
+9 real property within the district.
+10 3. Because the powers and financial burdens of a district
+11 disproportionately affect real property owners, it is reasonable and
+12 constitutionally permissible to allocate voting power in district
+13 elections based on land ownership and acreage.
+14 4. Elections conducted pursuant to this chapter are fiscal
+15 determinations relating to property-based obligations and are not general
+16 political elections.
+17 Sec. 7. Short title
+18 This act may be cited as the "State Housing Affordability District
+19 Act".
+20 Amend title to conform
+And, as so amended, it do pass
+JEFF WENINGER
+CHAIRMAN
+2999COMMERCE.docx
+02/18/2026
+06:39 PM
+C: MR; H: PB/ls/ra
+130KDDBBO
+-55-

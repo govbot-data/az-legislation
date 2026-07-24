@@ -1,0 +1,188 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Dunn flr amend (ref PS) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1160
+Dunn Floor Amendment
+Reference to: PUBLIC SAFETY Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+• Specifies that a person must obtain written consent, rather than consent, from another person with
+legal authority over the ticketed entertainment event to operate a civil unmanned aircraft at a
+ticketed entertainment event.
+Amendment explanation prepared by Liam Maher
+2/23/2026
+
+Fifty-seventh Legislature Dunn
+Second Regular Session S.B. 1160
+DUNN FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1160
+(Reference to PUBLIC SAFETY Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-3729, Arizona Revised Statutes, is amended to
+3 read:
+4 13-3729. Unlawful operation of model or unmanned aircraft;
+5 state preemption; classification; definitions
+6 A. It is unlawful for a person to operate a model aircraft or a
+7 civil unmanned aircraft if the operation:
+8 1. Is prohibited by a federal law or regulation that governs
+9 aeronautics, including federal aviation administration regulations.
+10 2. Interferes with a law enforcement, firefighter or emergency
+11 services operation.
+12 B. It is unlawful for a person to operate or use an unmanned
+13 aircraft or unmanned aircraft system to intentionally photograph or loiter
+14 over or near a critical facility in the furtherance of any criminal
+15 offense.
+16 C. IT IS UNLAWFUL FOR A PERSON TO OPERATE A CIVIL UNMANNED AIRCRAFT
+17 IF THE OPERATION IS WITHIN [FOUR HUNDRED] [FIVE THOUSAND TWO HUNDRED
+
+Senate Amendments to S.B. 1160
+1 EIGHTY] FEET OF OR WITHIN [FOUR HUNDRED] [FIVE THOUSAND TWO HUNDRED
+2 EIGHTY] FEET ABOVE A TICKETED ENTERTAINMENT EVENT UNLESS THE PERSON:
+3 1. OBTAINS {{WRITTEN}} CONSENT FROM ANOTHER PERSON WITH LEGAL
+4 AUTHORITY OVER THE TICKETED ENTERTAINMENT EVENT.
+5 2. IS AN EMPLOYEE OF THE PROPERTY WHERE THE TICKETED ENTERTAINMENT
+6 EVENT IS HELD AND IS CONDUCTING OFFICIAL BUSINESS.
+7 3. IS AN EMPLOYEE OF A WATER, SEWER, ELECTRIC, TELECOMMUNICATIONS,
+8 CABLE OR OTHER PUBLIC OR REGULATED UTILITY AND IS CONDUCTING OFFICIAL
+9 BUSINESS.
+10 4. IS OPERATING THE PERSON'S OWN CIVIL UNMANNED AIRCRAFT ABOVE THE
+11 PERSON'S OWN PRIVATE PROPERTY AND THE OPERATION IS CONSISTENT WITH FEDERAL
+12 LAW AND IS NOT USED FOR ANY OF THE FOLLOWING:
+13 (a) COMMERCIAL PURPOSES.
+14 (b) TO CONVEY OR COMMUNICATE A MESSAGE OR TO RECORD FOR THE
+15 PURPOSES OF COMMERCIAL BROADCASTING OR PUBLICATION.
+16 (c) TO MONITOR OR OTHERWISE INTERFERE IN ANY WAY WITH A TICKETED
+17 ENTERTAINMENT EVENT.
+18 C. D. Except as authorized by law, a city, town or county may not
+19 enact or adopt any ordinance, policy or rule that relates to the ownership
+20 or operation of an unmanned aircraft or unmanned aircraft system or
+21 otherwise engage in the regulation of the ownership or operation of an
+22 unmanned aircraft or an unmanned aircraft system. Any ordinance, policy
+23 or rule that violates this subsection, whether enacted or adopted by the
+24 city, town or county before or after August 6, 2016, is void.
+25 D. E. This section does not:
+26 1. Apply to a person or entity that is authorized or allowed by the
+27 federal aviation administration to operate or use an unmanned aircraft
+28 system if the person's or entity's operation or use complies with the
+29 authorization granted to the person or entity or with federal aviation
+30 administration rules.
+31 2. Prohibit a city, town or county from enacting or adopting
+32 ordinances or rules on the operation or use of a public unmanned aircraft
+33 that is owned by the city, town or county.
+34 3. Prohibit a city, town or county from enacting or adopting
+35 ordinances or rules that regulate the takeoff or landing of a model
+36 aircraft in a park or preserve owned by the city, town or county if:
+37 (a) There are other parks or preserves that are within the city,
+38 town or county and that are available for model aircraft operation.
+39 (b) The city, town or county only has one park or preserve that is
+40 within the city, town or county.
+41 4. Apply to the operation of an unmanned aircraft, including a
+42 public unmanned aircraft, by a first responder as defined in section
+43 36-661 while acting in the first responder's official capacity or an
+44 emergency worker while engaged in or supporting authorized emergency
+45 management activities or performing emergency functions pursuant to title
+46 26, chapter 2.
+47 E. F. A violation of subsection B of this section is a class 6
+48 felony, except that a second or subsequent violation is a class 5 felony.
+49 A violation of subsection A OR C of this section is a class 1 misdemeanor.
+-2-
+
+Senate Amendments to S.B. 1160
+1 F. G. For the purposes of this section:
+2 1. "Civil unmanned aircraft" means an unmanned aircraft or unmanned
+3 aircraft system that is operated by a person for any purpose other than
+4 strictly for hobby or recreational purposes, including commercial
+5 purposes, or in furtherance of or incidental to any business or media
+6 service or agency.
+7 2. "Commercial purposes" means the use of an unmanned aircraft in
+8 return for financial compensation and includes aerial photography, aerial
+9 mapping or geospatial imaging.
+10 3. "Critical facility" means any of the following:
+11 (a) A petroleum or alumina refinery.
+12 (b) A petroleum, chemical or rubber production, transportation,
+13 storage or processing facility.
+14 (c) A chemical manufacturing facility.
+15 (d) A water or wastewater treatment facility and water development,
+16 distribution or conveyance system, including a dam.
+17 (e) An electric generation facility, as defined in section
+18 42-14156, and any associated substation or switchyard.
+19 (f) An electrical transmission or distribution substation.
+20 (g) An electrical transmission line of at least sixty-nine thousand
+21 volts.
+22 (h) An electronic communication station or tower.
+23 (i) An energy control center.
+24 (j) A distribution operating center.
+25 (k) A facility that transfers or distributes natural gas, including
+26 a compressor station, regulator station, city gate station or pressure
+27 limiting station or a liquefied natural gas facility or supplier tap
+28 facility.
+29 (l) Any railroad infrastructure or facility.
+30 (m) A federal, state, county or municipal court.
+31 (n) A public safety or emergency operation facility.
+32 (o) A federal, state, county or municipal jail or prison or other
+33 facility in which persons are incarcerated.
+34 (p) A federal or state military installation or facility.
+35 (q) A hospital that receives air ambulance services.
+36 4. "Model aircraft" has the same meaning prescribed in section 336
+37 of the FAA modernization and reform act of 2012 (P.L. 112-95), as amended.
+38 5. "Person" means a corporation, firm, partnership, association,
+39 individual or organization or any other group acting as a unit.
+40 6. "Public unmanned aircraft" means an unmanned aircraft or
+41 unmanned aircraft system that is operated by a public agency for a
+42 government-related purpose.
+43 7. "TICKETED ENTERTAINMENT EVENT" MEANS A MUSIC, SPORTING OR
+44 PERFORMING ARTS EVENT THAT IS HELD IN A LOCATION WITH GATED ENTRIES OR
+45 BARRIERS THAT PREVENT ACCESS TO THE GENERAL PUBLIC AND IN WHICH A
+46 REVOCABLE LICENSE THAT HAS BEEN ISSUED BY AN OWNER, OPERATOR OR LESSEE OF
+47 THE PROPERTY IS REQUIRED FOR ATTENDANCE AT THE EVENT.
+-3-
+
+Senate Amendments to S.B. 1160
+1 7. 8. "Unmanned aircraft" means an aircraft, including an aircraft
+2 commonly known as a drone, that is operated without the possibility of
+3 direct human intervention from within or on the aircraft.
+4 8. 9. "Unmanned aircraft system" means an unmanned aircraft and
+5 associated elements, including any communication links and components that
+6 control the unmanned aircraft.
+7 Enroll and engross to conform
+8 Amend title to conform
+TIMOTHY "TIM" DUNN
+1160FloorDUNN.docx
+02/13/2026
+5:31 PM
+C: JV
+130SCYNCI
+-4-

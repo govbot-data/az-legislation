@@ -1,0 +1,882 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Payne flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1641
+Payne Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Removes the requirement for the Department of Health Services (DHS) to conduct an annual
+review of market conditions to determine whether consumers would benefit from the issuance of
+additional marijuana producer licenses.
+2. Allows, beginning in 2032, DHS to issue additional marijuana producer licenses.
+Amendment explanation prepared by Nicholas Gustoff
+3/11/2026
+
+Fifty-seventh Legislature Payne
+Second Regular Session S.B. 1641
+PAYNE FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1641
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Subject to the requirements of article IV, part 1,
+3 section 1, Constitution of Arizona, section 36-2850, Arizona Revised
+4 Statutes, is amended to read:
+5 36-2850. Definitions
+6 In this chapter, unless the context requires otherwise:
+7 1. "Advertise," "advertisement" and "advertising" mean any public
+8 communication in any medium that offers or solicits a commercial
+9 transaction involving the sale, purchase or delivery of marijuana or
+10 marijuana products.
+11 2. "Child-resistant" means designed or constructed to be
+12 significantly difficult for children under five years of age to open, and
+13 not difficult for normal adults to use properly.
+14 3. "Consume," "consuming" and "consumption" mean the act of
+15 ingesting, inhaling or otherwise introducing marijuana into the human
+16 body.
+17 4. "Consumer" means an individual who is at least twenty-one years
+18 of age and who purchases marijuana or marijuana products.
+19 5. "Cultivate" and "cultivation" mean to propagate, breed, grow,
+20 prepare and package marijuana.
+21 6. "Deliver" and "delivery" mean the transportation, transfer or
+22 provision of marijuana or marijuana products to a consumer at a location
+23 other than the designated retail location of a marijuana establishment.
+24 7. "Department" means the department of health services or its
+25 successor agency.
+26 8. "Designated caregiver" has the same meaning prescribed in
+27 section 36-2801.
+
+Senate Amendments to S.B. 1641
+1 9. "Dual licensee" means an entity that holds both a nonprofit
+2 medical marijuana dispensary registration and a marijuana establishment
+3 license.
+4 10. "Early applicant" means either of the following:
+5 (a) An entity seeking to operate a marijuana establishment in a
+6 county with fewer than two registered nonprofit medical marijuana
+7 dispensaries.
+8 (b) A nonprofit medical marijuana dispensary that is registered and
+9 in good standing with the department.
+10 11. "Employee," "employer," "health care facility," and "places of
+11 employment" have the same meanings prescribed in the smoke-free Arizona
+12 act, section 36-601.01.
+13 12. "Excluded felony offense" has the same meaning prescribed in
+14 section 36-2801.
+15 13. "Good standing" means that a nonprofit medical marijuana
+16 dispensary is not the subject of a pending notice of intent to revoke
+17 issued by the department.
+18 14. "Independent third-party laboratory" has the same meaning
+19 prescribed in section 36-2801.
+20 15. "Industrial hemp" has the same meaning prescribed in section
+21 3-311.
+22 16. "Licensee" means a person that obtains a license pursuant to
+23 section 36-2854.
+24 17. "Locality" means a city, town or county.
+25 18. "Manufacture" and "manufacturing" mean to compound, blend,
+26 extract, infuse or otherwise make or prepare a marijuana product.
+27 19. "Marijuana":
+28 (a) Means all parts of the plant of the genus cannabis, whether
+29 growing or not, as well as the seeds from the plant, the resin extracted
+30 from any part of the plant, and every compound, manufacture, salt,
+31 derivative, mixture or preparation of the plant or its seeds or resin.
+32 (b) Includes cannabis as defined in 13-3401.
+33 (c) Does not include industrial hemp, the fiber produced from the
+34 stalks of the plant of the genus cannabis, oil or cake made from the seeds
+35 of the plant, sterilized seeds of the plant that are incapable of
+36 germination, or the weight of any other ingredient combined with marijuana
+37 to prepare topical or oral administrations, food, drink or other products.
+38 20. "Marijuana concentrate":
+39 (a) Means resin extracted from any part of a plant of the genus
+40 cannabis and every compound, manufacture, salt, derivative, mixture or
+41 preparation of that resin or tetrahydrocannabinol.
+42 (b) Does not include industrial hemp or the weight of any other
+43 ingredient combined with cannabis to prepare topical or oral
+44 administrations, food, drink or other products.
+45 21. "Marijuana establishment" means an entity that is licensed by
+46 the department to operate all of the following:
+-2-
+
+Senate Amendments to S.B. 1641
+1 (a) A single retail location at which the licensee may sell
+2 marijuana and marijuana products to consumers, cultivate marijuana and
+3 manufacture marijuana products.
+4 (b) A single off-site cultivation location at which the licensee
+5 may cultivate marijuana, process marijuana and manufacture marijuana
+6 products, but from which marijuana and marijuana products may not be
+7 transferred or sold to consumers.
+8 (c) A single off-site location at which the licensee may
+9 manufacture marijuana products and package and store marijuana and
+10 marijuana products, but from which marijuana and marijuana products may
+11 not be transferred or sold to consumers.
+12 22. "Marijuana facility agent" means a principal officer, board
+13 member or employee of a marijuana establishment or marijuana testing
+14 facility who is at least twenty-one years of age and who has not been
+15 convicted of an excluded felony offense.
+16 23. "MARIJUANA PRODUCER" MEANS AN ENTITY THAT IS LICENSED BY THE
+17 DEPARTMENT TO OPERATE A SINGLE LOCATION AT WHICH THE LICENSEE MAY
+18 CULTIVATE MARIJUANA, PROCESS MARIJUANA, MANUFACTURE MARIJUANA PRODUCTS AND
+19 PACKAGE AND STORE MARIJUANA AND MARIJUANA PRODUCTS BUT FROM WHICH
+20 MARIJUANA AND MARIJUANA PRODUCTS MAY NOT BE TRANSFERRED OR SOLD TO
+21 CONSUMERS.
+22 23. 24. "Marijuana products PRODUCT" means marijuana concentrate
+23 and products ANY PRODUCT that are IS composed of marijuana and other
+24 ingredients and that are IS intended for use or consumption, including
+25 edible products, ointments and tinctures.
+26 24. 25. "Marijuana testing facility" means the department or
+27 another entity that is licensed by the department to analyze the potency
+28 of marijuana and test marijuana for harmful contaminants.
+29 25. 26. "Nonprofit medical marijuana dispensary" has the same
+30 meaning prescribed in section 36-2801.
+31 26. 27. "Nonprofit medical marijuana dispensary agent" has the
+32 same meaning prescribed in section 36-2801.
+33 27. 28. "Open space" means a public park, public sidewalk, public
+34 walkway or public pedestrian thoroughfare.
+35 28. 29. "Process" and "processing" mean to harvest, dry, cure,
+36 trim or separate parts of the marijuana plant.
+37 29. 30. "Public place" has the same meaning prescribed in section
+38 36-601.01.
+39 30. 31. "Qualifying patient" has the same meaning prescribed in
+40 section 36-2801.
+41 31. 32. "Smoke" means to inhale, exhale, burn, carry or possess
+42 any lighted marijuana or lighted marijuana products, whether natural or
+43 synthetic.
+44 Sec. 2. Subject to the requirements of article IV, part 1, section
+45 1, Constitution of Arizona, section 36-2854, Arizona Revised Statutes, is
+46 amended to read:
+-3-
+
+Senate Amendments to S.B. 1641
+1 36-2854. Rules; licensing; early applicants; fees; civil
+2 penalty; legal counsel
+3 A. The department shall adopt rules to implement and enforce this
+4 chapter and regulate marijuana, marijuana products, marijuana
+5 establishments, MARIJUANA PRODUCERS and marijuana testing
+6 facilities. Those rules shall include requirements for:
+7 1. Licensing marijuana establishments, MARIJUANA PRODUCERS and
+8 marijuana testing facilities, including conducting investigations and
+9 background checks to determine eligibility for licensing for marijuana
+10 establishment, MARIJUANA PRODUCER and marijuana testing facility
+11 applicants, except that:
+12 (a) An application for a marijuana establishment license, MARIJUANA
+13 PRODUCER LICENSE or marijuana testing facility license may not require the
+14 disclosure of the identity of any person who is entitled to a share of
+15 less than ten percent of the profits of an applicant that is a publicly
+16 traded corporation.
+17 (b) The department may not issue more than one marijuana
+18 establishment license for every ten pharmacies that have registered under
+19 section 32-1929, that have obtained a pharmacy permit from the Arizona
+20 board of pharmacy and that operate within this state.
+21 (c) Notwithstanding subdivision (b) of this paragraph, the
+22 department may issue a marijuana establishment license to not more than
+23 two marijuana establishments per county that contains no registered
+24 nonprofit medical marijuana dispensaries, or one marijuana establishment
+25 license per county that contains one registered nonprofit medical
+26 marijuana dispensary. Any license issued pursuant to this subdivision
+27 shall be for a fixed county and may not be relocated outside of that
+28 county.
+29 (d) The department shall accept applications for marijuana
+30 establishment licenses from early applicants beginning January 19, 2021
+31 through March 9, 2021. Not later than sixty days after receiving an
+32 application pursuant to this subdivision, the department shall issue a
+33 marijuana establishment license to each qualified early applicant. If the
+34 department has not adopted final rules pursuant to this section at the
+35 time marijuana establishment licenses are issued pursuant to this
+36 subdivision, licensees shall comply with the rules adopted by the
+37 department to implement chapter 28.1 of this title except those that are
+38 inconsistent with this chapter.
+39 (e) After issuing marijuana establishment licenses to qualified
+40 early applicants, the department shall issue marijuana establishment
+41 licenses available under subdivisions (b) and (c) of this paragraph by
+42 random selection and according to rules adopted pursuant to this section.
+43 At least sixty days before any random selection, the department shall
+44 prominently publicize the random selection on its website and through
+45 other means of general distribution intended to reach as many interested
+46 parties as possible and shall provide notice through an email notification
+47 system to which interested parties can subscribe.
+-4-
+
+Senate Amendments to S.B. 1641
+1 (f) Notwithstanding subdivisions (b) and (c) of this paragraph, and
+2 not later than six months after the department adopts final rules to
+3 implement a social equity ownership program pursuant to paragraph 9 of
+4 this subsection, the department shall issue twenty-six additional
+5 marijuana establishment licenses to entities that are qualified pursuant
+6 to the social equity ownership program.
+7 (g) BEGINNING JANUARY 1, 2029, THE DEPARTMENT SHALL ACCEPT
+8 APPLICATIONS FOR MARIJUANA PRODUCER LICENSES. UNTIL JANUARY 1, 2032, THE
+9 DEPARTMENT SHALL ACCEPT APPLICATIONS ONLY FROM ENTITIES THAT CONTRACTED ON
+10 OR BEFORE JANUARY 1, 2026 WITH A MARIJUANA ESTABLISHMENT, A NONPROFIT
+11 MEDICAL MARIJUANA DISPENSARY OR A MANAGEMENT COMPANY FOR A MARIJUANA
+12 ESTABLISHMENT OR A NONPROFIT MEDICAL MARIJUANA DISPENSARY TO HAVE A RIGHT
+13 TO CULTIVATE MARIJUANA OR MANUFACTURE MARIJUANA PRODUCTS AND KEEP ALL OR
+14 SUBSTANTIALLY ALL OF THE PROFITS GENERATED FROM THAT CULTIVATION. UNTIL
+15 JANUARY 1, 2032, THE DEPARTMENT SHALL PROHIBIT THE TRANSFER OR SUBLEASE OF
+16 MARIJUANA PRODUCER LICENSES AND PROHIBIT ENTITIES THAT LACK A MARIJUANA
+17 PRODUCER LICENSE FROM CULTIVATING MARIJUANA OR MANUFACTURING MARIJUANA
+18 PRODUCTS AT MARIJUANA PRODUCER SITES. BEGINNING IN [2030] [2032], THE
+19 DEPARTMENT [SHALL CONDUCT AN ANNUAL REVIEW OF MARKET CONDITIONS TO
+20 DETERMINE WHETHER CONSUMERS WOULD BENEFIT FROM THE ISSUANCE OF ADDITIONAL
+21 MARIJUANA PRODUCER LICENSES. IF MARKET CONDITIONS ARE SUCH THAT CONSUMERS
+22 WOULD BENEFIT FROM THE ISSUANCE OF ADDITIONAL MARIJUANA PRODUCER LICENSES,
+23 THE DEPARTMENT SHALL ISSUE AN APPROPRIATE NUMBER OF MARIJUANA PRODUCER
+24 LICENSES DURING THE YEAR FOLLOWING THE DEPARTMENT'S REVIEW] [MAY ISSUE
+25 ADDITIONAL MARIJUANA PRODUCER LICENSES]. UNLESS SPECIFICALLY IDENTIFIED IN
+26 THIS CHAPTER, THE DEPARTMENT SHALL NOT IMPOSE ANY RESTRICTIONS OR
+27 OBLIGATIONS ON MARIJUANA PRODUCERS THAT ARE NOT IMPOSED ON MARIJUANA
+28 ESTABLISHMENTS.
+29 (g) (h) Licenses issued by the department to marijuana
+30 establishments, MARIJUANA PRODUCERS and marijuana testing facilities shall
+31 be valid for a period of two years. A dual licensee's initial renewal
+32 date, which will be the ongoing renewal date for both the dual licensee's
+33 marijuana establishment license and nonprofit medical marijuana dispensary
+34 registration, is the earlier of:
+35 (i) The date of the marijuana establishment license renewal.
+36 (ii) The date of the nonprofit medical marijuana dispensary
+37 registration renewal.
+38 (h) (i) The department may not issue a marijuana establishment,
+39 MARIJUANA PRODUCER or marijuana testing facility license to an applicant
+40 who has an ownership interest in an out-of-state marijuana establishment,
+41 MARIJUANA PRODUCER or marijuana testing facility, or the other state's
+42 equivalent, that has had its license revoked by the other state.
+43 2. Licensing fees and renewal fees for marijuana establishments,
+44 MARIJUANA PRODUCERS and marijuana testing facilities in amounts that are
+45 reasonable and related to the actual cost of processing applications for
+46 licenses and renewals and that do not exceed five times the fees
+-5-
+
+Senate Amendments to S.B. 1641
+1 prescribed by the department to register or renew a nonprofit medical
+2 marijuana dispensary.
+3 3. The security of marijuana establishments, MARIJUANA PRODUCERS
+4 and marijuana testing facilities.
+5 4. Marijuana establishments AND MARIJUANA PRODUCERS to safely
+6 cultivate, process and manufacture marijuana and marijuana products. The
+7 department shall require licensees to procure, develop, acquire and
+8 maintain a system to track marijuana and marijuana products at all points
+9 of cultivation, manufacturing and sale, AS APPLICABLE. The system
+10 developed and maintained pursuant to this paragraph shall:
+11 (a) Ensure an accurate accounting and reporting of the production,
+12 processing and sale of marijuana and marijuana products.
+13 (b) Ensure compliance with rules adopted by the department.
+14 (c) Be capable of tracking, at a minimum:
+15 (i) The propagation of immature marijuana plants and the production
+16 of marijuana by a marijuana establishment OR MARIJUANA PRODUCER.
+17 (ii) The processing of marijuana and marijuana products by a
+18 marijuana establishment OR MARIJUANA PRODUCER.
+19 (iii) The sale and purchase of marijuana and marijuana products
+20 between licensees.
+21 (iv) The transfer of marijuana and marijuana products between
+22 premises for which licenses have been issued.
+23 (v) The disposal of marijuana waste.
+24 (vi) The identity of the person making the entry in the system and
+25 the time, date and location of each entry into the system, including any
+26 corrections or changes to that information.
+27 (vii) Any other information that the department determines is
+28 reasonably necessary to accomplish the duties, functions and powers of the
+29 department.
+30 (d) Contain a transactional stamp to ensure accuracy, provide for
+31 chain of custody of the information and foreclose tampering of the data,
+32 human error or intentional misreporting.
+33 5. Tracking, testing, labeling consistent with section 36-2854.01
+34 and packaging marijuana and marijuana products, including requirements
+35 that marijuana and marijuana products be:
+36 (a) Sold to consumers in clearly and conspicuously labeled
+37 containers that contain accurate warnings regarding the use of marijuana
+38 or marijuana products.
+39 (b) Placed in child-resistant packaging on exit from a marijuana
+40 establishment.
+41 6. Forms of government-issued identification that are acceptable by
+42 a marijuana establishment verifying a consumer's age and procedures
+43 related to verifying a consumer's age consistent with section 4-241.
+44 Until the department adopts final rules related to verifying a consumer's
+45 age, marijuana establishments shall comply with the proof of legal age
+46 requirements prescribed in section 4-241.
+-6-
+
+Senate Amendments to S.B. 1641
+1 7. The potency of edible marijuana products that may be sold to
+2 consumers by marijuana establishments at reasonable levels on
+3 consideration of industry standards, except that the rules:
+4 (a) Shall limit the strength of edible marijuana products to not
+5 more than ten milligrams of tetrahydrocannabinol per serving or one
+6 hundred milligrams of tetrahydrocannabinol per package.
+7 (b) Shall require that if a marijuana product contains more than
+8 one serving, it must be delineated or scored into standard serving sizes
+9 and homogenized to ensure uniform disbursement throughout the marijuana
+10 product.
+11 8. Ensuring the health, safety and training of employees of
+12 marijuana establishments and marijuana testing facilities.
+13 9. The creation and implementation of a social equity ownership
+14 program to promote the ownership and operation of marijuana establishments
+15 and marijuana testing facilities by individuals from communities
+16 disproportionately impacted by the enforcement of previous marijuana laws.
+17 10. Prohibiting a marijuana testing facility from having any direct
+18 or indirect familial relationship with or financial ownership interest in
+19 a marijuana establishment, MARIJUANA PRODUCER or related marijuana
+20 business entity or management company. The rules shall include
+21 prohibiting a marijuana establishment OR MARIJUANA PRODUCER from having
+22 any direct or indirect familial relationship with or financial ownership
+23 interest in a marijuana testing facility or related marijuana business
+24 entity or management company.
+25 11. Requiring marijuana establishments to display in a conspicuous
+26 location a sign that warns pregnant women about the potential dangers to
+27 fetuses caused by smoking or ingesting marijuana while pregnant or to
+28 infants while breastfeeding and the risk of being reported to the
+29 department of child safety during pregnancy or at the birth of the child
+30 by persons who are required to report. The rules shall include the
+31 specific warning language that must be included on the sign. The cost and
+32 display of the sign required by rule shall be borne by the marijuana
+33 establishment.
+34 B. The department may:
+35 1. Subject to title 41, chapter 6, article 10, deny any application
+36 submitted or deny, suspend or revoke, in whole or in part, any
+37 registration or license issued under this chapter if the registered or
+38 licensed party or an officer, agent or employee of the registered or
+39 licensed party does any of the following:
+40 (a) Violates this chapter or any rule adopted pursuant to this
+41 chapter.
+42 (b) Has been, is or may continue to be in substantial violation of
+43 the requirements for licensing or registration and, as a result, the
+44 health or safety of the general public is in immediate danger.
+45 2. Subject to title 41, chapter 6, article 10, and unless another
+46 penalty is provided elsewhere in this chapter, assess a civil penalty
+47 against a person that violates this chapter or any rule adopted pursuant
+-7-
+
+Senate Amendments to S.B. 1641
+1 to this chapter in an amount not to exceed $2,000 for each violation.
+2 Each day a violation occurs constitutes a separate violation. In
+3 determining the amount of a civil penalty assessed against a person, the
+4 department shall consider all of the factors set forth in section 36-2816,
+5 subsection H. All civil penalties collected by the department pursuant to
+6 this paragraph shall be deposited in the smart and safe Arizona fund
+7 established by section 36-2856.
+8 3. At any time during regular hours of operation, visit and inspect
+9 a marijuana establishment, marijuana testing facility or dual licensee to
+10 determine if it complies with this chapter and rules adopted pursuant to
+11 this chapter. The department shall make at least one unannounced visit
+12 annually to each facility licensed pursuant to this chapter.
+13 4. Adopt any other rules that are not expressly stated in this
+14 section and that are necessary to ensure the safe and responsible
+15 cultivation, sale, processing, manufacture, testing and transport of
+16 marijuana and marijuana products.
+17 C. Until the department adopts rules allowing and regulating
+18 delivery by marijuana establishments pursuant to subsection D of this
+19 section, delivery is unlawful under this chapter.
+20 D. On or after January 1, 2023, the department may, and not later
+21 than January 1, 2025 the department shall, adopt rules to allow and
+22 regulate delivery by marijuana establishments. The rules shall:
+23 1. Require that delivery and the marijuana and marijuana products
+24 to be delivered originate from a designated retail location of a marijuana
+25 establishment and only after an order is made with the marijuana
+26 establishment by a consumer. The rules may not limit the distance between
+27 the delivery location and the originating designated retail location of
+28 the marijuana establishment.
+29 2. Prohibit delivery to any property owned or leased by the United
+30 States, this state, a political subdivision of this state or the Arizona
+31 board of regents.
+32 3. Limit the amount of marijuana and marijuana products based on
+33 retail price that may be in a delivery vehicle during a single trip from
+34 the designated retail location of a marijuana establishment.
+35 4. Prohibit extra or unallocated marijuana or marijuana products in
+36 delivery vehicles.
+37 5. Require that deliveries be made only by marijuana facility
+38 agents in unmarked vehicles that are equipped with a global positioning
+39 system or similar location tracking system and video surveillance and
+40 recording equipment, and that contain a locked compartment in which
+41 marijuana and marijuana products must be stored. The rules may not limit
+42 the number of vehicles that a marijuana establishment may use for
+43 delivery.
+44 6. Require delivery logs necessary to ensure compliance with this
+45 subsection and rules adopted pursuant to this subsection.
+46 7. Require inspections to ensure compliance with this subsection
+47 and rules adopted pursuant to this subsection.
+-8-
+
+Senate Amendments to S.B. 1641
+1 8. Include any other provisions necessary to ensure safe and
+2 restricted delivery.
+3 9. Require dual licensees to comply with the rules adopted pursuant
+4 to this subsection.
+5 E. Except as provided in subsection D of this section, the
+6 department may not allow delivery of marijuana or marijuana products under
+7 this chapter by any individual or entity. In addition to any other
+8 penalty imposed by law, an individual or entity that delivers marijuana or
+9 marijuana products in a manner that is not authorized by this chapter
+10 shall pay a civil penalty of $20,000 per violation to the smart and safe
+11 Arizona fund established by section 36-2856. This subsection may be
+12 enforced by the attorney general.
+13 F. All rules adopted by the department pursuant to this section
+14 shall be consistent with the purpose of this chapter.
+15 G. The department may not adopt any rule that:
+16 1. Prohibits the operation of marijuana establishments OR MARIJUANA
+17 PRODUCERS, either expressly or through requirements that make the
+18 operation of a marijuana establishment OR MARIJUANA PRODUCER unduly
+19 burdensome.
+20 2. Prohibits or interferes with the ability of a dual licensee to
+21 operate a marijuana establishment and a nonprofit medical marijuana
+22 dispensary at shared locations.
+23 H. Notwithstanding section 41-192, the department may employ legal
+24 counsel and make an expenditure or incur an indebtedness for legal
+25 services for the purposes of:
+26 1. Defending this chapter or rules adopted pursuant to this
+27 chapter.
+28 2. Defending chapter 28.1 of this title or rules adopted pursuant
+29 to chapter 28.1 of this title.
+30 I. The department shall deposit all license fees, application fees
+31 and renewal fees paid to the department pursuant to this chapter in the
+32 smart and safe Arizona fund established by section 36-2856.
+33 J. On request, the department of health services shall share with
+34 the department of revenue information regarding a marijuana establishment,
+35 marijuana testing facility or dual licensee, including its name, physical
+36 address, cultivation site and transaction privilege tax license number.
+37 K. Notwithstanding any other law, the department may:
+38 1. License an independent third-party laboratory to also operate as
+39 a marijuana testing facility.
+40 2. Operate a marijuana testing facility.
+41 L. The department shall maintain and publish a current list of all
+42 marijuana establishments, MARIJUANA PRODUCERS and marijuana testing
+43 facilities by name and license number.
+44 M. Notwithstanding any other law, the issuance of an occupational,
+45 professional or other regulatory license or certification to a person by a
+46 jurisdiction or regulatory authority outside this state does not entitle
+47 that person to be issued a marijuana establishment license, a marijuana
+-9-
+
+Senate Amendments to S.B. 1641
+1 testing facility license, or any other license, registration or
+2 certification under this chapter.
+3 N. Until the department adopts rules as required by subsection A,
+4 paragraph 10 of this section:
+5 1. A marijuana testing facility is prohibited from having any
+6 direct or indirect familial relationship with or financial ownership
+7 interest in a marijuana establishment, MARIJUANA PRODUCER or related
+8 marijuana business entity or management company.
+9 2. A marijuana establishment OR MARIJUANA PRODUCER is prohibited
+10 from having any direct or indirect familial relationship with or financial
+11 ownership interest in a marijuana testing facility or related marijuana
+12 business entity or management company.
+13 Sec. 3. Subject to the requirements of article IV, part 1, section
+14 1, Constitution of Arizona, section 36-2857, Arizona Revised Statutes, is
+15 amended to read:
+16 36-2857. Localities; marijuana establishments, marijuana
+17 producers and marijuana testing facilities
+18 A. A locality may:
+19 1. Enact reasonable zoning regulations that limit the use of land
+20 for marijuana establishments, MARIJUANA PRODUCERS and marijuana testing
+21 facilities to specified areas.
+22 2. Limit the number of marijuana establishments, MARIJUANA
+23 PRODUCERS or marijuana testing facilities, or both ANY COMBINATION
+24 THEREOF.
+25 3. Prohibit marijuana establishments, MARIJUANA PRODUCERS or
+26 marijuana testing facilities, or both ANY COMBINATION THEREOF.
+27 4. Regulate the time, place and manner of marijuana establishment,
+28 MARIJUANA PRODUCER and marijuana testing facility operations.
+29 5. Establish reasonable restrictions on public signage regarding
+30 marijuana, marijuana establishments, MARIJUANA PRODUCERS and marijuana
+31 testing facilities.
+32 6. Prohibit or restrict delivery within its THE LOCALITY'S
+33 jurisdiction.
+34 B. A county may exercise its authority pursuant to subsection A of
+35 this section only in unincorporated areas of the county.
+36 C. A locality may not enact any ordinance, regulation or rule that:
+37 1. Is more restrictive than a comparable ordinance, regulation or
+38 rule that applies to nonprofit medical marijuana dispensaries.
+39 2. Makes the operation of a marijuana establishment, MARIJUANA
+40 PRODUCER or marijuana testing facility unduly burdensome if the locality
+41 has not prohibited marijuana establishments, MARIJUANA PRODUCERS or
+42 marijuana testing facilities.
+43 3. Conflicts with this chapter or rules adopted pursuant to this
+44 chapter.
+45 4. Prohibits the transportation of marijuana by a marijuana
+46 establishment, MARIJUANA PRODUCER or marijuana testing facility on public
+47 roads.
+-10-
+
+Senate Amendments to S.B. 1641
+1 5. Restricts or interferes with the ability of a dual licensee or
+2 an entity eligible to become a dual licensee to operate a nonprofit
+3 medical marijuana dispensary and a marijuana establishment cooperatively
+4 at shared locations.
+5 6. Except as expressly authorized by this section or section
+6 36-2851, prohibits or restricts any conduct or transaction allowed by this
+7 chapter, or imposes any liability or penalty in addition to that
+8 prescribed by this chapter for any conduct or transaction constituting a
+9 violation of this chapter.
+10 7. Allows a marijuana establishment to locate within five hundred
+11 feet of a public or private school, a child care facility or a facility
+12 that provides preschool programs.
+13 Sec. 4. Subject to the requirements of article IV, part 1,
+14 section 1, Constitution of Arizona, section 36-2858, Arizona Revised
+15 Statutes, is amended to read:
+16 36-2858. Lawful operation of marijuana establishments,
+17 marijuana producers and marijuana testing
+18 facilities
+19 A. Except as specifically and expressly provided in section 36-2857
+20 and notwithstanding any other law, it is lawful and is not an offense
+21 under the laws of this state or any locality, may not constitute the basis
+22 for detention, search or arrest, and may not constitute the sole basis for
+23 seizure or forfeiture of assets or the basis for imposing penalties under
+24 the laws of this state or any locality for:
+25 1. A marijuana establishment, or an agent acting on behalf of a
+26 marijuana establishment, to:
+27 (a) Possess marijuana or marijuana products.
+28 (b) Purchase, sell or transport marijuana and marijuana products to
+29 or from a marijuana establishment OR MARIJUANA PRODUCER.
+30 (c) Sell marijuana and marijuana products to consumers, except that
+31 a marijuana establishment may not sell more than one ounce of marijuana to
+32 a consumer in a single transaction, not more than five grams of which may
+33 be in the form of marijuana concentrate.
+34 (d) Cultivate, produce, test or process marijuana or manufacture
+35 marijuana or marijuana products by any means, including chemical
+36 extraction or chemical synthesis.
+37 2. An agent acting on behalf of a marijuana establishment to sell
+38 or otherwise transfer marijuana to an individual under twenty-one years of
+39 age, if the agent reasonably verified that the individual appeared to be
+40 twenty-one years of age or older by means of a government-issued
+41 photographic identification in compliance with rules adopted pursuant to
+42 section 36-2854, subsection A, paragraph 6.
+43 3. A MARIJUANA PRODUCER, OR AN AGENT ACTING ON BEHALF OF A
+44 MARIJUANA PRODUCER, TO:
+45 (a) POSSESS MARIJUANA OR MARIJUANA PRODUCTS.
+46 (b) PURCHASE, SELL OR TRANSPORT MARIJUANA AND MARIJUANA PRODUCTS TO
+47 OR FROM A MARIJUANA ESTABLISHMENT OR MARIJUANA PRODUCER.
+-11-
+
+Senate Amendments to S.B. 1641
+1 (c) CULTIVATE, PRODUCE, TEST OR PROCESS MARIJUANA OR MARIJUANA
+2 PRODUCTS BY ANY MEANS, INCLUDING CHEMICAL EXTRACTION OR CHEMICAL
+3 SYNTHESIS.
+4 3. 4. A marijuana testing facility, or an agent acting on behalf
+5 of a marijuana testing facility, to obtain, possess, process, repackage,
+6 transfer, transport or test marijuana and marijuana products.
+7 4. 5. A nonprofit medical marijuana dispensary or a marijuana
+8 establishment, or an agent acting on behalf of a nonprofit medical
+9 marijuana dispensary or a marijuana establishment, to sell or otherwise
+10 transfer marijuana or marijuana products to a nonprofit medical marijuana
+11 dispensary, a marijuana establishment or an agent acting on behalf of a
+12 nonprofit medical marijuana dispensary or a marijuana establishment.
+13 5. 6. Any individual, corporation or other entity to sell, lease
+14 or otherwise allow property or goods that are owned, managed or controlled
+15 by the individual, corporation or other entity to be used for any activity
+16 authorized by this chapter, or to provide services to a marijuana
+17 establishment, or marijuana testing facility, or AN agent acting on
+18 behalf of a marijuana establishment or marijuana testing facility, in
+19 connection with any activity authorized by this chapter.
+20 B. This section does not preclude the department from imposing
+21 penalties against a marijuana establishment, MARIJUANA PRODUCER or
+22 marijuana testing facility for failing to comply with this chapter or
+23 rules adopted pursuant to this chapter.
+24 C. A marijuana establishment OR MARIJUANA PRODUCER may be owned or
+25 operated by a publicly traded company.
+26 D. Notwithstanding any other law, a dual licensee:
+27 1. May hold a marijuana establishment license and operate a
+28 marijuana establishment pursuant to this chapter.
+29 2. May operate on a for-profit basis if the dual licensee promptly
+30 notifies the department and department of revenue and takes any actions
+31 necessary to enable its for-profit operation, including converting its
+32 corporate form and amending its organizational and operating documents.
+33 3. Must continue to hold both its marijuana establishment license
+34 and nonprofit medical marijuana dispensary registration, regardless of any
+35 change in ownership of the dual licensee, unless it terminates its status
+36 as a dual licensee and forfeits either its marijuana establishment license
+37 or nonprofit medical marijuana dispensary registration by notifying the
+38 department of such a termination and forfeiture.
+39 4. Is not required to:
+40 (a) Employ or contract with a medical director.
+41 (b) Obtain nonprofit medical marijuana dispensary agent or
+42 marijuana facility agent registrations for outside vendors that do not
+43 have regular, unsupervised access to the interior of the dual licensee's
+44 premises.
+45 (c) Have a single secure entrance as required by section 36-2806,
+46 subsection C, but may be required to implement appropriate security
+-12-
+
+Senate Amendments to S.B. 1641
+1 measures to deter and prevent the theft of marijuana and to reasonably
+2 regulate customer access to the premises.
+3 (d) Comply with any other provision of chapter 28.1 of this title
+4 or any rule adopted pursuant to chapter 28.1 of this title that makes its
+5 operation as a dual licensee unduly burdensome.
+6 E. Notwithstanding any other law, a dual licensee that elects to
+7 operate on a for-profit basis pursuant to subsection D, paragraph 2 of
+8 this section:
+9 1. Is subject to the taxes imposed pursuant to title 43.
+10 2. Is not required to submit its annual financial statements or an
+11 audit report to the department for purposes of renewing its nonprofit
+12 medical marijuana dispensary registration.
+13 F. Notwithstanding any other law, a dual licensee must conduct both
+14 of the following operations at a shared location:
+15 1. Sell marijuana and marijuana products to consumers pursuant to
+16 this chapter.
+17 2. Dispense marijuana to registered qualifying patients and
+18 registered designated caregivers pursuant to chapter 28.1 of this title.
+19 G. Notwithstanding chapter 28.1 of this title or any rule adopted
+20 pursuant to chapter 28.1 of this title, a dual licensee may engage in any
+21 act, practice, conduct or transaction allowed for a marijuana
+22 establishment by this chapter.
+23 H. Notwithstanding any other law:
+24 1. An individual may be an applicant, principal officer or board
+25 member of more than one marijuana establishment or more than one dual
+26 licensee regardless of the establishment's location.
+27 2. Two or more marijuana establishments, MARIJUANA PRODUCERS or
+28 dual licensees may designate a single off-site location as prescribed in
+29 section 36-2850, paragraph 21, subdivision (c) to be jointly used by those
+30 dual licensees, MARIJUANA PRODUCERS or marijuana establishments.
+31 I. Marijuana establishments, MARIJUANA PRODUCERS, marijuana testing
+32 facilities and dual licensees that are subject to applicable federal or
+33 state antidiscrimination laws may not pay their employees differently
+34 based solely on a protected class status such as sex, race, color,
+35 religion, national origin, age or disability. This subsection does not
+36 expand or modify the jurisdictional reach, provisions or requirements of
+37 any applicable antidiscrimination law.
+38 Sec. 5. Subject to the requirements of article IV, part 1,
+39 section 1, Constitution of Arizona, section 36-2859, Arizona Revised
+40 Statutes, is amended to read:
+41 36-2859. Advertising; restrictions; warning; enforcement;
+42 civil penalty; exception
+43 A. A marijuana establishment, MARIJUANA PRODUCER or nonprofit
+44 medical marijuana dispensary may advertise or authorize advertising for
+45 marijuana or marijuana products in accordance with restrictions imposed by
+46 this section.
+-13-
+
+Senate Amendments to S.B. 1641
+1 B. An individual or entity that sells marijuana paraphernalia may
+2 advertise or authorize advertising for marijuana paraphernalia in
+3 accordance with restrictions imposed by this section.
+4 C. A marijuana establishment, a nonprofit medical marijuana
+5 dispensary or an individual or entity that sells marijuana paraphernalia
+6 may engage in advertising but may not do any of the following:
+7 1. Advertise marijuana or marijuana products, including marijuana
+8 paraphernalia, to individuals who are under twenty-one years of age,
+9 including advertising:
+10 (a) With names that resemble or imitate food or drink brands that
+11 are marketed to children.
+12 (b) With images or likenesses of toys, cartoons or animated or
+13 fictional characters, including Santa Claus, that are designed to appeal
+14 to or encourage individuals who are under twenty-one years of age to
+15 consume marijuana or marijuana products.
+16 (c) With images or visual representations of the consumption of
+17 marijuana or marijuana products.
+18 (d) With the potency or tetrahydrocannabinol levels of the
+19 marijuana or marijuana product.
+20 (e) In a medium that specifically appeals to individuals who are
+21 under twenty-one years of age such that the advertising has a special
+22 attractiveness to individuals who are under twenty-one years of age beyond
+23 general attractiveness for individuals who are at least twenty-one years
+24 of age.
+25 2. Advertise at, on or within public airports, public
+26 transportation shelters, public buses, public trains, public shuttles or
+27 public trams.
+28 3. Advertise electronically, via social media or on a website,
+29 unless at least 73.6 percent of the audience is expected to be at least
+30 twenty-one years of age.
+31 4. Advertise any health-related statement or statement regarding
+32 the effects of marijuana consumption on health that is known to be untrue.
+33 5. Sponsor any sporting event unless at least 73.6 percent of the
+34 audience is expected to be at least twenty-one years of age or the
+35 sponsored organization provides written approval. Any sponsorship
+36 acknowledgment shall be in accordance with restrictions imposed by this
+37 section.
+38 D. All advertising pursuant to this section must contain the
+39 following conspicuous and legible warning: "Do not use marijuana if you
+40 are under twenty-one years of age or pregnant. Keep marijuana out of
+41 reach of children." All printed warnings must occupy at least ten percent
+42 of the advertising area and must be in black font on a white background,
+43 except that billboard advertisement warnings shall be in a type size that
+44 is at least ten percent of the largest type used in the advertisement.
+45 E. A billboard advertisement under this section is prohibited
+46 within one thousand radial feet of any child care center, church,
+47 substance abuse recovery facility, public park, public playground or
+-14-
+
+Senate Amendments to S.B. 1641
+1 public or private school that provides instruction to students in
+2 preschool or kindergarten programs or any of grades one through twelve.
+3 An individual or entity that violates this subsection, on notification by
+4 the attorney general's office, has thirty days to comply with these
+5 requirements. For circumstances beyond the control of the billboard
+6 operator that may prevent removal within the prescribed time frame, the
+7 advertisement must be removed as soon as safely and legally
+8 practicable. An individual or entity that does not comply with this
+9 subsection is subject to the civil penalties and disciplinary action
+10 prescribed in this section.
+11 F. An advertising platform may host advertising only if all of the
+12 following apply:
+13 1. The advertising is authorized by a marijuana establishment,
+14 MARIJUANA PRODUCER or nonprofit medical marijuana dispensary.
+15 2. The advertising accurately and legibly identifies the marijuana
+16 establishment, MARIJUANA PRODUCER or nonprofit medical marijuana
+17 dispensary responsible for the content of the advertising by name and
+18 license number or registration number.
+19 3. The advertising contains a printed warning that complies with
+20 subsection D of this section.
+21 G. Any advertising under this chapter involving direct,
+22 individualized communication or dialogue shall use a method of age
+23 affirmation to verify that the recipient is at least twenty-one years of
+24 age before engaging in that communication or dialogue. For the purposes
+25 of this subsection, that method of age affirmation may include user
+26 confirmation, birth date disclosure or other similar registration methods.
+27 H. It is unlawful for an individual or entity other than a
+28 marijuana establishment or dual licensee to do any of the following in a
+29 manner that is not authorized by this chapter or rules adopted by the
+30 department pursuant to this chapter:
+31 1. Facilitate the delivery of marijuana or marijuana products.
+32 2. Solicit or accept orders for marijuana or marijuana products or
+33 operate a platform that solicits or accepts orders for marijuana or
+34 marijuana products.
+35 3. Operate a listing service related to the sale or delivery of
+36 marijuana or marijuana products.
+37 I. A marijuana establishment, a nonprofit medical marijuana
+38 dispensary or an individual or entity that sells marijuana paraphernalia
+39 and that violates this section, on notification by the department or
+40 attorney general's office, has fourteen days to comply with the
+41 requirements of this section.
+42 J. A marijuana establishment OR MARIJUANA PRODUCER that is found to
+43 be in violation of this section by the attorney general is subject to
+44 disciplinary action by the department pursuant to section 36-2854,
+45 subsection B. A nonprofit medical marijuana dispensary that is found to
+46 be in violation of this section by the attorney general is subject to
+47 disciplinary action by the department pursuant to section 36-2816.
+-15-
+
+Senate Amendments to S.B. 1641
+1 K. In addition to any other penalty imposed by law, an individual
+2 or entity other than a marijuana establishment, MARIJUANA PRODUCER or
+3 nonprofit medical marijuana dispensary that advertises marijuana or
+4 marijuana products, including marijuana paraphernalia, in violation of
+5 this section or otherwise violates this section shall pay a civil penalty
+6 of $20,000 per violation to the smart and safe Arizona fund established by
+7 section 36-2856.
+8 L. This section shall be enforced by the attorney general.
+9 M. For the purposes of this section, advertising does not include a
+10 communication of a marijuana establishment or nonprofit medical marijuana
+11 dispensary that is targeted only to the established customer base or that
+12 is requested by a customer or potential customer pursuant to an opt-in
+13 with an age affirmation.
+14 Sec. 6. Subject to the requirements of article IV, part 1,
+15 section 1, Constitution of Arizona, section 36-2860, Arizona Revised
+16 Statutes, is amended to read:
+17 36-2860. Packaging; restrictions on particular marijuana
+18 products
+19 A. A marijuana establishment OR MARIJUANA PRODUCER may not:
+20 1. Package or label marijuana or marijuana products in a false or
+21 misleading manner.
+22 2. Manufacture or sell marijuana products that resemble the form of
+23 a human, animal, insect, fruit, toy or cartoon.
+24 3. Sell or advertise marijuana or marijuana products with names
+25 that resemble or imitate food or drink brands marketed to children, or
+26 otherwise advertise marijuana or marijuana products to children.
+27 B. A marijuana establishment OR MARIJUANA PRODUCER that violates
+28 this section is subject to disciplinary action by the department pursuant
+29 to section 36-2854, subsection B.
+30 Sec. 7. Subject to the requirements of article IV, part 1,
+31 section 1, Constitution of Arizona, section 36-2861, Arizona Revised
+32 Statutes, is amended to read:
+33 36-2861. Contracts; professional services
+34 A. It is the public policy of this state that contracts related
+35 to marijuana establishments, MARIJUANA PRODUCERS and marijuana testing
+36 facilities are enforceable.
+37 B. A person that is licensed, certified or registered by any
+38 department, agency or regulatory board of this state is not subject to
+39 disciplinary action by that entity for providing professional assistance
+40 to a prospective or registered LICENSED marijuana establishment,
+41 MARIJUANA PRODUCER, marijuana testing facility or other person for any
+42 lawful activity under this chapter.
+43 Sec. 8. Subject to the requirements of article IV, part 1,
+44 section 1, Constitution of Arizona, section 36-2864, Arizona Revised
+45 Statutes, is amended to read:
+46 36-2864. Transaction privilege tax; use tax; additional taxes
+47 prohibited; exception
+-16-
+
+Senate Amendments to S.B. 1641
+1 A. For THE purposes of the transaction privilege tax and use tax
+2 levied and collected pursuant to title 42, chapters 5 and 6, marijuana and
+3 marijuana products are tangible personal property AS defined in section
+4 42-5001 and are subject to the transaction privilege tax in the retail
+5 classification and use tax.
+6 B. Except as provided in subsection A of this section and section
+7 42-5452, this state and localities may not levy or collect additional
+8 taxes of any kind on the sale of marijuana or marijuana products and may
+9 not levy or collect any fees or assessments of any kind on the sale of
+10 marijuana or marijuana products or on the licensing, operations or
+11 activities of marijuana establishments, MARIJUANA PRODUCERS or marijuana
+12 testing facilities, unless the fee or assessment is of general
+13 applicability to individuals or businesses that are not engaged in the
+14 sale of marijuana or marijuana products.
+15 C. The prohibition imposed by subsection B of this section does not
+16 apply to uniform increases to the transaction privilege tax rate for the
+17 retail classification or use tax rate by this state or a locality or to
+18 uniform increases to fees or assessments allowed by subsection B of this
+19 section.
+20 Sec. 9. Subject to the requirements of article IV, part 1,
+21 section 1, Constitution of Arizona, section 36-2865, Arizona Revised
+22 Statutes, is amended to read:
+23 36-2865. Enforcement of chapter; special action
+24 A. If the department fails to adopt rules necessary to implement
+25 this chapter on or before June 1, 2021, or fails to begin accepting
+26 applications as provided in section 36-2854, subsection A, paragraph 1,
+27 subdivision (d), any citizen may commence a special action in superior
+28 court to compel the department to perform the actions mandated under this
+29 chapter.
+30 B. If the department fails to issue a license or send a notice of
+31 denial within sixty days after receiving a complete marijuana
+32 establishment application pursuant to section 36-2854, subsection A,
+33 paragraph 1, subdivision (d), the applicant may commence a special action
+34 in superior court to compel the department to perform the actions mandated
+35 under this chapter.
+36 C. Notwithstanding chapter 28.1 of this title, if the department
+37 fails to issue any marijuana establishment licenses pursuant to section
+38 36-2854, subsection A, paragraph 1, subdivision (d) on or before April 5,
+39 2021, each nonprofit medical marijuana dispensary in good standing may
+40 begin to cultivate, produce, process, manufacture, transport and test
+41 marijuana and marijuana products and may sell marijuana and marijuana
+42 products to consumers until the department issues licenses to operate
+43 marijuana establishments. If this occurs, nonprofit medical marijuana
+44 dispensaries in good standing shall:
+45 1. Be treated as marijuana establishments for all purposes under
+46 this chapter, and their nonprofit medical marijuana establishment agents
+-17-
+
+Senate Amendments to S.B. 1641
+1 shall be treated as marijuana facility agents for all purposes under this
+2 chapter.
+3 2. Comply with the rules adopted by the department to implement
+4 chapter 28.1 of this title, except those that are inconsistent with this
+5 chapter.
+6 D. IF THE DEPARTMENT FAILS TO BEGIN ACCEPTING APPLICATIONS AS
+7 PROVIDED IN SECTION 36-2854, SUBSECTION A, PARAGRAPH 1, SUBDIVISION (g),
+8 ANY CITIZEN MAY COMMENCE A SPECIAL ACTION IN SUPERIOR COURT TO COMPEL THE
+9 DEPARTMENT TO PERFORM THE REQUIRED ACTIONS.
+10 Sec. 10. Requirements for enactment; three-fourths vote
+11 Pursuant to article IV, part 1, section 1, Constitution of Arizona,
+12 sections 36-2850, 36-2854, 36-2857, 36-2858, 36-2859, 36-2860, 36-2861,
+13 36-2864 and 36-2865, Arizona Revised Statutes, as amended by this act, are
+14 effective only on the affirmative vote of at least three-fourths of the
+15 members of each house of the legislature.
+16 Enroll and engross to conform
+17 Amend title to conform
+KEVIN PAYNE
+1641FloorPAYNE.docx
+03/11/2026
+01:51 PM
+C: MH
+130SPJZSE
+-18-

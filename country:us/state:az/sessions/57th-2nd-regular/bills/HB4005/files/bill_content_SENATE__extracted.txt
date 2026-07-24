@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - SENATE -
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 4005
+Hoffman Floor Amendment
+Reference to: House engrossed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Replaces the requirement for each school district to offer the artificial intelligence (AI) instruction
+with a requirement for each school district to provide the AI instruction to all students enrolled in
+grades 3, 6, 8, 10 and 12.
+2. Directs the Arizona Department of Education (ADE) to adopt AI instruction curriculum that
+includes instruction on:
+a) basic techniques for using AI, including for writing prompts;
+b) ethical considerations for using and adopting AI in learning and daily life; and
+c) how AI might threaten human health and human existence.
+3. Requires ADE, for the purposes of adopting the AI instruction curriculum, to select a curriculum
+that is developed by an organization that:
+a) is a school within an Arizona public university that maintains a campus in the most populous
+county within Arizona;
+b) was established between 2015 and 2018;
+c) fosters a culture of intellectual diversity and promotes ideas that are foundational to a healthy
+constitutional democracy; and
+d) serves as a community resource for civic education.
+4. Makes technical and conforming changes.
+Amendment explanation prepared by Mason Holler
+06/11/2026
+
+Fifty-seventh Legislature Hoffman
+Second Regular Session H.B. 4005
+HOFFMAN FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 4005
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 15, chapter 7, article 1, Arizona Revised
+3 Statutes, is amended by adding section 15-701.05, to read:
+4 15-701.05. Instruction on artificial intelligence; report;
+5 definition
+6 A. BEGINNING IN THE 2027-2028 SCHOOL YEAR, EACH SCHOOL DISTRICT
+7 SHALL [OFFER] [PROVIDE] INSTRUCTION ON THE ETHICAL, MORAL AND EDUCATIONAL
+8 USES OF ARTIFICIAL INTELLIGENCE[, INCLUDING] [TO ALL STUDENTS WHO ARE
+9 ENROLLED IN EACH OF GRADES THREE, SIX, EIGHT, TEN AND TWELVE. THE
+10 DEPARTMENT OF EDUCATION SHALL ADOPT A CURRICULUM FOR THE INSTRUCTION
+11 REQUIRED BY THIS SUBSECTION AND SHALL INCLUDE IN THE CURRICULUM]
+12 INSTRUCTION ON:
+13 1. BASIC TECHNIQUES FOR [USING] ARTIFICIAL INTELLIGENCE[, INCLUDING
+14 TECHNIQUES FOR WRITING] PROMPTS.
+15 2. ETHICAL CONSIDERATIONS FOR USING [AND ADOPTING] ARTIFICIAL
+16 INTELLIGENCE IN LEARNING AND IN DAILY LIFE.
+17 [3. HOW ARTIFICIAL INTELLIGENCE MIGHT THREATEN HUMAN HEALTH AND
+18 HUMAN EXISTENCE.]
+19 B. SCHOOL DISTRICTS MAY PROVIDE THE INSTRUCTION [OFFERED PURSUANT
+20 TO] [REQUIRED BY] SUBSECTION A OF THIS SECTION THROUGH A SEPARATE COURSE
+21 [FOR EACH GRADE LEVEL] OR BY INCORPORATING THE EQUIVALENT INSTRUCTIONAL
+22 TIME INTO EXISTING CURRICULA.
+23 C. ON OR BEFORE OCTOBER 15 OF EACH YEAR, EACH SCHOOL DISTRICT IN
+24 THIS STATE SHALL SUBMIT A REPORT TO THE DEPARTMENT OF EDUCATION THAT
+25 DESCRIBES THE INSTRUCTION THAT THE SCHOOL DISTRICT PROVIDES PURSUANT TO
+26 THIS SECTION AND ENROLLMENT METRICS FOR THE COURSE OR COURSES THROUGH
+27 WHICH THE INSTRUCTION IS PROVIDED.
+28 D. THE DEPARTMENT OF EDUCATION[:
+
+Senate Amendments to H.B. 4005
+1 1.] MAY PROVIDE GUIDELINES, RESOURCES OR GRANTS, OR A COMBINATION
+2 OF GUIDELINES, RESOURCES AND GRANTS, TO SCHOOL DISTRICTS FOR THE
+3 IMPLEMENTATION OF THIS SECTION.
+4 [2. FOR THE PURPOSES OF ADOPTING A CURRICULUM PURSUANT TO
+5 SUBSECTION A OF THIS SECTION, SHALL SELECT A CURRICULUM THAT IS DEVELOPED
+6 BY AN ORGANIZATION THAT MEETS ALL OF THE FOLLOWING REQUIREMENTS:
+7 (a) IS A SCHOOL WITHIN A UNIVERSITY UNDER THE JURISDICTION OF THE
+8 ARIZONA BOARD OF REGENTS THAT MAINTAINS A CAMPUS IN THE MOST POPULOUS
+9 COUNTY WITHIN THIS STATE.
+10 (b) WAS ESTABLISHED BEFORE 2018, BUT NOT BEFORE 2015.
+11 (c) FOSTERS A CULTURE OF INTELLECTUAL DIVERSITY AND PROMOTES IDEAS
+12 THAT ARE FOUNDATIONAL TO A HEALTHY CONSTITUTIONAL DEMOCRACY.
+13 (d) SERVES AS A COMMUNITY RESOURCE FOR CIVIC EDUCATION.]
+14 E. FOR THE PURPOSES OF THIS SECTION, "ARTIFICIAL INTELLIGENCE":
+15 1. MEANS A MACHINE-BASED SYSTEM THAT IS ABLE TO MAKE PREDICTIONS,
+16 RECOMMENDATIONS OR DECISIONS.
+17 2. INCLUDES GENERATIVE SYSTEMS THAT PRODUCE CONTENT IN RESPONSE TO
+18 PROMPTS.
+19 Sec. 2. Legislative findings
+20 The legislature finds that:
+21 1. Artificial intelligence is becoming prevalent in society.
+22 2. Students in this state must understand the ethical, moral and
+23 educational uses of artificial intelligence to avoid falling behind
+24 globally.
+25 3. Public schools have a responsibility to prepare students with
+26 basic skills in prompting and the ethical uses of artificial intelligence.
+27 4. Requiring at least one course, or the equivalent instruction,
+28 [in each of grades three, six, eight, ten and twelve] on the ethical,
+29 moral and educational uses of artificial intelligence will promote the
+30 responsible integration of artificial intelligence into education and
+31 students' future careers.
+32 Enroll and engross to conform
+33 Amend title to conform
+JAKE HOFFMAN
+4005FloorHOFFMAN.docx
+06/10/2026
+05:46 PM
+C: VS
+130JFLHWU
+- 2 -

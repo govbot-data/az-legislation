@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Kupper - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB4005: artificial intelligence; course; public schools
+KUPPER FLOOR AMENDMENT
+1. Removes charter schools.
+TM
+2/13/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Kupper
+Second Regular Session H.B. 4005
+KUPPER FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 4005
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 15, chapter 7, article 1, Arizona Revised
+3 Statutes, is amended by adding section 15-701.05, to read:
+4 15-701.05. Instruction on artificial intelligence; report;
+5 definition
+6 A. BEGINNING IN THE 2027-2028 SCHOOL YEAR, EACH SCHOOL DISTRICT
+7 [AND CHARTER SCHOOL] SHALL OFFER INSTRUCTION ON THE ETHICAL, MORAL AND
+8 EDUCATIONAL USES OF ARTIFICIAL INTELLIGENCE, INCLUDING INSTRUCTION ON:
+9 1. BASIC TECHNIQUES FOR ARTIFICIAL INTELLIGENCE PROMPTS.
+10 2. ETHICAL CONSIDERATIONS FOR USING ARTIFICIAL INTELLIGENCE IN
+11 LEARNING AND IN DAILY LIFE.
+12 B. SCHOOL DISTRICTS [AND CHARTER SCHOOLS] MAY PROVIDE THE
+13 INSTRUCTION OFFERED PURSUANT TO SUBSECTION A OF THIS SECTION THROUGH A
+14 SEPARATE COURSE OR BY INCORPORATING THE EQUIVALENT INSTRUCTIONAL TIME INTO
+15 EXISTING CURRICULA.
+16 C. ON OR BEFORE OCTOBER 15 OF EACH YEAR, EACH SCHOOL DISTRICT [AND
+17 CHARTER SCHOOL] IN THIS STATE SHALL SUBMIT A REPORT TO THE DEPARTMENT OF
+18 EDUCATION THAT DESCRIBES THE INSTRUCTION THAT THE SCHOOL DISTRICT [OR
+19 CHARTER SCHOOL] PROVIDES PURSUANT TO THIS SECTION AND ENROLLMENT METRICS
+20 FOR THE COURSE OR COURSES THROUGH WHICH THE INSTRUCTION IS PROVIDED.
+21 D. THE DEPARTMENT OF EDUCATION MAY PROVIDE GUIDELINES, RESOURCES OR
+22 GRANTS, OR A COMBINATION OF GUIDELINES, RESOURCES AND GRANTS, TO SCHOOL
+23 DISTRICTS [AND CHARTER SCHOOLS] FOR THE IMPLEMENTATION OF THIS SECTION.
+24 E. FOR THE PURPOSES OF THIS SECTION, "ARTIFICIAL INTELLIGENCE":
+25 1. MEANS A MACHINE-BASED SYSTEM THAT IS ABLE TO MAKE PREDICTIONS,
+26 RECOMMENDATIONS OR DECISIONS.
+27 2. INCLUDES GENERATIVE SYSTEMS THAT PRODUCE CONTENT IN RESPONSE TO
+28 PROMPTS.
+
+House Amendments to H.B. 4005
+1 Sec. 2. Legislative findings
+2 The legislature finds that:
+3 1. Artificial intelligence is becoming prevalent in society.
+4 2. Students in this state must understand the ethical, moral and
+5 educational uses of artificial intelligence to avoid falling behind
+6 globally.
+7 3. Public schools have a responsibility to prepare students with
+8 basic skills in prompting and the ethical uses of artificial intelligence.
+9 4. Requiring at least one course, or the equivalent instruction, on
+10 the ethical, moral and educational uses of artificial intelligence will
+11 promote the responsible integration of artificial intelligence into
+12 education and students' future careers.
+13 Enroll and engross to conform
+14 Amend title to conform
+NICK KUPPER
+4005FloorKUPPER.docx
+02/12/2026
+12:30 PM
+H: TM/ls
+130KITYFR
+-2-

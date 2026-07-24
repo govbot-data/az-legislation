@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Judiciary and Elections
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Judiciary and Elections
+Second Regular Session S.B. 1038
+COMMITTEE ON JUDICIARY AND ELECTIONS
+SENATE AMENDMENTS TO S.B. 1038
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 16, chapter 4, article 1, Arizona Revised
+3 Statutes, is amended by adding section 16-407.04, to read:
+4 16-407.04. Cast vote record; public record; definition
+5 [A. NOTWITHSTANDING ANY OTHER LAW, WITHIN ONE HOUR AFTER THE
+6 CLOSING OF THE POLLS FOR EACH ELECTION, THE COUNTY RECORDER SHALL MAKE
+7 AVAILABLE AS A PUBLIC RECORD THE FOLLOWING:
+8 1. THE NAME, VOTER IDENTIFICATION NUMBER AND POLITICAL PARTY
+9 REGISTRATION, IF ANY, OF EVERY PERSON WHO VOTED IN THAT ELECTION.
+10 2. THE CAST VOTE RECORD IN A SORTABLE FORMAT.
+11 B. THE COUNTY RECORDER SHALL NOT RANDOMIZE OR OTHERWISE ALTER THE
+12 ORIGINAL FILES.]
+13 [A. WITHIN FORTY-EIGHT HOURS AFTER THE COUNTY BOARD OF SUPERVISORS
+14 TRANSMITS THE COUNTY CANVASS TO THE SECRETARY OF STATE, THE BOARD OF
+15 SUPERVISORS OR THE OFFICER IN CHARGE OF ELECTIONS SHALL TRANSMIT THE CAST
+16 VOTE RECORD TO THE SECRETARY OF STATE IN A SORTABLE FORMAT. THE
+17 TRANSMITTED CAST VOTE RECORD SHALL BE UNALTERED EXCEPT THAT, FOR
+18 PRECINCTS, PRECINCT SPLITS AND BALLOT STYLES THAT CONTAIN FEWER THAN
+19 TWENTY-FIVE REGISTERED VOTERS, THE BOARD OF SUPERVISORS OR OFFICER IN
+20 CHARGE OF ELECTIONS SHALL INCLUDE ONLY THE NUMBER OF VOTERS AND THE NUMBER
+21 OF CAST VOTE RECORDS.
+22 B. THE BOARD OF SUPERVISORS OR OFFICER IN CHARGE OF ELECTIONS SHALL
+23 NOT RANDOMIZE OR OTHERWISE ALTER THE ORIGINAL FILES.]
+24 C. THE INFORMATION AND RECORDS PRESCRIBED BY SUBSECTION A OF THIS
+25 SECTION CONSTITUTE A PUBLIC RECORD.
+
+Senate Amendments to S.B. 1038
+1 [D. FOR THE PURPOSES OF THIS SECTION, "CAST VOTE RECORD" MEANS AN
+2 ELECTRONIC RECORD OF THE VOTERS' SELECTIONS AS CAPTURED BY A TABULATION
+3 DEVICE FROM A BALLOT OR A BALLOT IMAGE THAT CANNOT BE LINKED TO A SPECIFIC
+4 VOTER.]
+5 Enroll and engross to conform
+6 Amend title to conform
+1038JUDE.docx
+01/12/2026
+03:58 PM
+C: MR
+130EJGXAT
+-2-

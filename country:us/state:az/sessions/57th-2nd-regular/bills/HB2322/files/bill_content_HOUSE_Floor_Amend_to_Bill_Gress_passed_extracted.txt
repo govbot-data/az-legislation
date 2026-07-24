@@ -1,0 +1,188 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Gress - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2322: DCS; investigations; interviews; recording
+GRESS FLOOR AMENDMENT
+1. Requires DCS to apply for a grant if federal legislation is enacted that
+provides grants to states for the recording of child welfare interviews.
+2. Requires DCS to apply for a grant until it is awarded and implement the
+audio and video requirements if a grant is received.
+3. Makes a technical change.
+A. GRAHAM
+2/17/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Gress
+Second Regular Session H.B. 2322
+GRESS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2322
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 8-456, Arizona Revised Statutes, is amended to
+3 read:
+4 8-456. Investigative function; training; voice stress
+5 analysis; recordings; criminal offenses; definitions
+6 A. The department shall train all investigators in forensic
+7 interviewing and processes and the protocols established pursuant to
+8 section 8-817. The training must include:
+9 1. An evidence-informed safety assessment model to assess the
+10 safety of a child.
+11 2. The duty to protect the legal and due process rights of children
+12 and families from the time of the initial contact through case closure.
+13 3. Instruction on a child's rights as a crime victim and
+14 instruction on the legal rights of parents.
+15 4. A checklist or other mechanism to assist the investigator in
+16 giving consideration to the relevant factors in each investigation.
+17 B. The office of child welfare investigations shall investigate DCS
+18 reports that contain a criminal conduct allegation as provided in sections
+19 8-471 and 8-817.
+20 C. The department shall use an evidence-informed safety assessment
+21 model to assess the safety of a child.
+22 D. After receiving a DCS report from the centralized intake hotline
+23 pursuant to section 8-455, an investigator shall do all of the following:
+24 1. Make a prompt and thorough investigation. An investigation must
+25 evaluate and determine the nature, extent and cause of any condition
+26 created by the parents, guardian or custodian, an adult member of the
+27 victim's household or an employee of a child welfare agency where the
+28 child is placed that is licensed by and contracted with the department
+
+House Amendments to H.B. 2322
+1 that would tend to support or refute the allegation that the child is a
+2 victim of abuse or neglect and determine the name, age and condition of
+3 other children in the home. If an investigator has sufficient information
+4 to determine that the child is not a victim of abuse or neglect, the
+5 investigator may close the investigation.
+6 2. If required by section 8-821 and subject to section 8-471, take
+7 a child into temporary custody. Law enforcement officers shall cooperate
+8 with the department to remove a child from the custody of the child's
+9 parents, guardian or custodian when necessary.
+10 E. The department may not use covert voice stress analysis during
+11 an investigation to determine if abuse or neglect exists. The department
+12 may not use overt voice stress analysis during an investigation unless the
+13 person on whom the analysis is used gives informed consent. Results of
+14 computer voice stress analysis are not admissible in court.
+15 F. After an investigation, an investigator shall:
+16 1. Determine whether any child is in need of child safety services
+17 consistent with the evaluation and determination made pursuant to
+18 subsection D of this section.
+19 2. If appropriate pursuant to section 8-846, offer to the family of
+20 any child who is found to be a child in need of child safety services
+21 those services that are designed to correct unresolved problems that would
+22 indicate a reason to adjudicate the child dependent.
+23 3. Submit a written report of the investigator's investigation to:
+24 (a) The department's case management information system within a
+25 reasonable amount of time that does not exceed forty-five days after
+26 receipt of the DCS report except as provided in section 8-811. If the
+27 investigation involves allegations regarding a child who at the time of
+28 the alleged incident was in the custody of a child welfare agency licensed
+29 by the department under this title, a copy of the report and any
+30 additional investigative or other related reports must be provided to the
+31 board of directors of the agency or to the administrative head of the
+32 agency unless the incident is alleged to have been committed by the
+33 person. The department shall excise all information with regard to the
+34 identity of the source of the reports.
+35 (b) The appropriate court forty-eight hours before a dependency
+36 hearing pursuant to a petition of dependency or within twenty-one days
+37 after a petition of dependency is filed, whichever is earlier. On receipt
+38 of the report the court shall make the report available to all parties and
+39 counsel.
+40 4. Accept a child into voluntary placement pursuant to section
+41 8-806.
+42 5. Identify, promptly obtain and abide by court orders that
+43 restrict or deny custody, visitation or contact by a parent or other
+44 person in the home with the child and notify appropriate personnel in the
+45 department to preclude violations of a court order in the provision of any
+46 services.
+-2-
+
+House Amendments to H.B. 2322
+1 G. In conducting an investigation pursuant to this section, if the
+2 investigator is made aware that an allegation of abuse or neglect may also
+3 have been made in another state, the investigator shall contact the
+4 appropriate agency in that state to attempt to determine the outcome of
+5 any investigation of that allegation.
+6 H. If an investigation indicates a reason to believe that a
+7 criminal offense has been committed, the investigator shall immediately
+8 provide the information to the appropriate law enforcement agency and the
+9 office of child welfare investigations, unless the information was
+10 previously provided pursuant to section 8-455.
+11 I. THE DEPARTMENT SHALL RECORD BY [AUDIOTAPE] [AUDIO] OR
+12 [VIDEOTAPE] [VIDEO] ANY INTERVIEW THAT THE DEPARTMENT CONDUCTS WITH A
+13 CHILD PURSUANT TO THIS SECTION UNLESS EITHER OF THE FOLLOWING OCCURS:
+14 1. THE RECORDING EQUIPMENT MALFUNCTIONS AND THE MALFUNCTION IS NOT
+15 THE RESULT OF A FAILURE TO MAINTAIN THE EQUIPMENT OR PROVIDE ADEQUATE
+16 SUPPLIES FOR THE EQUIPMENT.
+17 2. DUE TO CIRCUMSTANCES THAT COULD NOT HAVE BEEN REASONABLY
+18 FORESEEN BY THE DEPARTMENT, THE DEPARTMENT DOES NOT HAVE THE NECESSARY
+19 RECORDING EQUIPMENT.
+20 J. A PERSON WHO IS CHARGED WITH A CRIMINAL OFFENSE INVOLVING ABUSE
+21 OR NEGLECT OF A CHILD DOES NOT HAVE STANDING TO OBJECT TO THE DEPARTMENT'S
+22 FAILURE TO COMPLY WITH SUBSECTION I OF THIS SECTION. THE DEPARTMENT'S
+23 FAILURE TO COMPLY WITH SUBSECTION I OF THIS SECTION IS NOT GROUNDS FOR
+24 PRECLUDING STATEMENTS MADE BY A CHILD DURING AN INTERVIEW THAT ARE
+25 OTHERWISE ADMISSIBLE IN A CRIMINAL OR DEPENDENCY PROCEEDING.
+26 I. K. Except in judicial proceedings, a parent or legal guardian
+27 may not be prohibited from recording conversations with the department
+28 pursuant to this section.
+29 J. L. Before implementing a new safety assessment model, the
+30 department shall present the proposed change to the joint legislative
+31 oversight committee on the department of child safety established by
+32 section 41-1292 or to the committees with jurisdiction over the department
+33 in the senate and house of representatives.
+34 K. M. For the purposes of this section:
+35 1. "Evidence-informed" means based on the best available child
+36 welfare research and practice information.
+37 2. "Investigator" means an employee of the department who
+38 investigates allegations of abuse or neglect pursuant to a DCS report.
+39 <<Sec. 2. Grant application requirement; delayed repeal
+40 [A. If federal legislation is enacted that provides grants to
+41 states for the recording of interviews conducted by the department of
+42 child safety, the director of the department of child safety shall apply
+43 for a grant. If a grant is received, the department shall implement the
+44 audio and video recording requirements of section 8-456, subsection I,
+45 Arizona Revised Statutes, as added by this act.
+-3-
+
+House Amendments to H.B. 2322
+1 B. The director shall apply for a grant annually until a grant is
+2 awarded.
+3 C. This section is repealed from and after December 31, 2036.]>>
+4 Sec. 3. Conditional enactment; notice
+5 A. This act does not become effective unless on or before December
+6 31, 2036 federal legislation is enacted that provides grants to states
+7 [that require] [for the] the recording of interviews conducted by the
+8 department of child safety.
+9 B. The director of the department of child safety shall notify the
+10 director of the Arizona legislative council in writing on or before
+11 December 31, 2036 either:
+12 1. Of the date on which the condition was met.
+13 2. That the condition was not met.
+14 Enroll and engross to conform
+15 Amend title to conform
+MATT GRESS
+2322FloorGRESS.docx
+02/11/2026
+10:13 PM
+C: LAT
+130JXYSTI
+-4-

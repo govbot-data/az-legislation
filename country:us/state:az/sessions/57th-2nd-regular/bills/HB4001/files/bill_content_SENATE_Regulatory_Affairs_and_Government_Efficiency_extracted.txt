@@ -1,0 +1,1570 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Regulatory Affairs and Government Efficiency
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Regulatory Affairs and Government Efficiency
+Second Regular Session H.B. 4001
+COMMITTEE ON REGULATORY AFFAIRS AND GOVERNMENT EFFICIENCY
+SENATE AMENDMENTS TO H.B. 4001
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Heading change
+3 The title heading of title 4, Arizona Revised Statutes, is changed
+4 from "ALCOHOLIC BEVERAGES" to "ALCOHOLIC BEVERAGES AND ALTERNATIVE
+5 NICOTINE PRODUCTS".
+6 Sec. 2. Section 4-101, Arizona Revised Statutes, is amended to
+7 read:
+8 4-101. Definitions
+9 In this title, unless the context otherwise requires:
+10 1. "Act of violence":
+11 (a) Means an incident that consists of a riot, a fight, an
+12 altercation or tumultuous conduct and that meets at least one of the
+13 following criteria:
+14 (i) Bodily injuries are sustained by any person and the injuries
+15 would be obvious to a reasonable person.
+16 (ii) Is of sufficient intensity as to require the intervention of a
+17 peace officer to restore normal order.
+18 (iii) A weapon is brandished, displayed or used.
+19 (iv) A licensee or an employee or contractor of the licensee fails
+20 to follow a clear and direct lawful order from a law enforcement officer
+21 or a fire marshal.
+22 (b) Does not include the use of nonlethal devices by a peace
+23 officer.
+24 2. "Aggrieved party" means a person who resides at, owns or leases
+25 property within a one-mile radius of premises proposed to be licensed and
+26 who filed a written request with the department to speak in favor of or
+27 opposition to the issuance of the license not later than sixty days after
+
+Senate Amendments to H.B. 4001
+1 filing the application or fifteen days after action by the local governing
+2 body, whichever is sooner.
+3 3. "ALTERNATIVE NICOTINE PRODUCT":
+4 (a) MEANS ANY NONCOMBUSTIBLE PRODUCT THAT CONTAINS NICOTINE AND
+5 THAT IS INTENDED FOR HUMAN CONSUMPTION, WHETHER CHEWED, ABSORBED,
+6 DISSOLVED, INGESTED, INHALED OR CONSUMED BY ANY OTHER MEANS.
+7 (b) DOES NOT INCLUDE TOBACCO PRODUCTS OR ANY PRODUCT REGULATED AS A
+8 DRUG OR DEVICE BY THE UNITED STATES FOOD AND DRUG ADMINISTRATION UNDER
+9 CHAPTER V OF THE FEDERAL FOOD, DRUG, AND COSMETIC ACT.
+10 3. 4. "Beer":
+11 (a) Means any beverage obtained by the alcoholic fermentation,
+12 infusion or decoction of barley malt, hops, rice, bran or other grain,
+13 glucose, sugar or molasses, or any combination of them, and may include,
+14 as adjuncts in fermentation, honey, fruit, fruit juice, fruit concentrate,
+15 herbs, spices and other food materials.
+16 (b) Includes beer aged in an empty wooden barrel previously used to
+17 contain wine or distilled spirits and as such is not considered a dilution
+18 or mixture of any other spirituous liquor.
+19 4. 5. "Biometric identity verification device" means a device
+20 authorized by the department that instantly verifies the identity and age
+21 of a person by an electronic scan of a biometric of the person, through a
+22 fingerprint, iris image, facial image or other biometric characteristic,
+23 or any combination of these characteristics, that references the person's
+24 identity and age against any record described in section 4-241, subsection
+25 K, and that meets all of the following conditions:
+26 (a) The authenticity of the record was previously verified by an
+27 electronic authentication process.
+28 (b) The identity of and information about the record holder was
+29 previously verified through either:
+30 (i) A secondary, electronic authentication process or set of
+31 processes using commercially available data, such as a public records
+32 query or a knowledge-based authentication quiz.
+33 (ii) Using a state or federal government system of records for
+34 digital authentication.
+35 (c) The authenticated record was securely linked to biometrics
+36 contemporaneously collected from the verified record holder and is stored
+37 in a centralized, highly secured, encrypted biometric database.
+38 5. 6. "Board" means the state liquor board.
+39 6. 7. "Bona fide guest" means:
+40 (a) An individual who is personally familiar to the member, who is
+41 personally sponsored by the member and whose presence as a guest is in
+42 response to a specific and personal invitation.
+43 (b) In the case of a club that meets the criteria prescribed in
+44 paragraph 8 9, subdivision (a) of this section, a current member of the
+45 armed services of the United States who presents proper military
+46 identification and any member of a recognized veterans' organization of
+-2-
+
+Senate Amendments to H.B. 4001
+1 the United States and of any country allied with the United States during
+2 current or past wars or through treaty arrangements.
+3 7. 8. "Broken package" means any container of spirituous liquor on
+4 which the United States tax seal has been broken or removed or from which
+5 the cap, cork or seal placed on the container by the manufacturer has been
+6 removed.
+7 8. 9. "Club" includes any of the following organizations where the
+8 sale of spirituous liquor for consumption on the premises is made only to
+9 members, spouses of members, families of members, bona fide guests of
+10 members and guests at other events authorized in this title:
+11 (a) A post, chapter, camp or other local unit composed solely of
+12 veterans and its duly recognized auxiliary that has been chartered by the
+13 Congress of the United States for patriotic, fraternal or benevolent
+14 purposes and that has, as the owner, lessee or occupant, operated an
+15 establishment for that purpose in this state.
+16 (b) A chapter, aerie, parlor, lodge or other local unit of an
+17 American national fraternal organization that has, as the owner, lessee or
+18 occupant, operated an establishment for fraternal purposes in this state.
+19 An American national fraternal organization as used in this subdivision
+20 shall actively operate in at least thirty-six states or have been in
+21 active continuous existence for at least twenty years.
+22 (c) A hall or building association of a local unit mentioned in
+23 subdivisions (a) and (b) of this paragraph of which all of the capital
+24 stock is owned by the local unit or the members and that operates the
+25 clubroom facilities of the local unit.
+26 (d) A golf club that has more than fifty bona fide members and that
+27 owns, maintains or operates a bona fide golf links together with a
+28 clubhouse.
+29 (e) A social club that has more than one hundred bona fide members
+30 who are actual residents of the county in which it is located, that owns,
+31 maintains or operates club quarters, that is authorized and incorporated
+32 to operate as a nonprofit club under the laws of this state, and that has
+33 been continuously incorporated and operating for a period of at least one
+34 year. The club shall have had, during this one-year period, a bona fide
+35 membership with regular meetings conducted at least once each month, and
+36 the membership shall be and shall have been actively engaged in carrying
+37 out the objects of the club. The club's membership shall consist of bona
+38 fide dues-paying members paying dues of at least $6 per year, payable
+39 monthly, quarterly or annually, which have been recorded by the secretary
+40 of the club, and the members at the time of application for a club license
+41 shall be in good standing having for at least one full year paid dues. At
+42 least fifty-one percent of the members shall have signified their
+43 intention to secure a social club license by personally signing a
+44 petition, on a form prescribed by the board, which shall also include the
+45 correct mailing address of each signer. The petition shall not have been
+46 signed by a member at a date earlier than one hundred eighty days before
+47 the filing of the application. The club shall qualify for exemption from
+-3-
+
+Senate Amendments to H.B. 4001
+1 the payment of state income taxes under title 43. It is the intent of
+2 this subdivision that a license shall not be granted to a club that is, or
+3 has been, primarily formed or activated to obtain a license to sell
+4 liquor, but solely to a bona fide club, where the sale of liquor is
+5 incidental to the main purposes of the club.
+6 (f) An airline club operated by or for airlines that are
+7 certificated by the United States government and that maintain or operate
+8 club quarters located at airports with international status.
+9 9. 10. "Company" or "association", when used in reference to a
+10 corporation, includes successors or assigns.
+11 10. 11. "Control" means the power to direct or cause the direction
+12 of the management and policies of an applicant or licensee, whether
+13 through the ownership of voting securities or a partnership interest, by
+14 agreement or otherwise. Control is presumed to exist if a person has the
+15 direct or indirect ownership of or power to vote ten percent or more of
+16 the outstanding voting securities of the applicant or licensee or to
+17 control in any manner the election of one or more of the directors of the
+18 applicant or licensee. In the case of a partnership, control is presumed
+19 to mean the general partner or a limited partner who holds ten percent or
+20 more of the voting rights of the partnership. For the purposes of
+21 determining the percentage of voting securities owned, controlled or held
+22 by a person, there shall be aggregated with the voting securities
+23 attributed to the person the voting securities of an officer, partner,
+24 employee or agent of the person or a spouse, parent or child of the
+25 person. Control is also presumed to exist if a creditor of the applicant
+26 or licensee holds a beneficial interest in ten percent or more of the
+27 liabilities of the licensee. The presumptions in this paragraph regarding
+28 control are rebuttable.
+29 11. 12. "Controlling person" means a person directly or indirectly
+30 possessing control of an applicant or licensee.
+31 12. 13. "Craft distiller" means a distiller in the United States
+32 or in a territory or possession of the United States that holds a license
+33 pursuant to section 4-205.10.
+34 13. 14. "Craft producer" means a licensed farm winery, a licensed
+35 microbrewery or a licensed craft distiller.
+36 14. 15. "Department" means the department of liquor licenses and
+37 control.
+38 15. 16. "Director" means the director of the department of liquor
+39 licenses and control.
+40 16. 17. "Distilled spirits" includes alcohol, brandy, whiskey,
+41 rum, tequila, mescal, gin, absinthe, a compound or mixture of any of them
+42 or of any of them with any vegetable or other substance, alcohol bitters,
+43 bitters containing alcohol, fruits preserved in ardent spirits, and any
+44 alcoholic mixture or preparation, whether patented or otherwise, that may
+45 in sufficient quantities produce intoxication.
+46 17. 18. "Employee" means any person who performs any service on
+47 licensed premises on a full-time, part-time or contract basis with consent
+-4-
+
+Senate Amendments to H.B. 4001
+1 of the licensee, whether or not the person is denominated an employee or
+2 independent contractor or otherwise. Employee does not include a person
+3 who is exclusively on the premises for musical or vocal performances, for
+4 repair or maintenance of the premises or for the delivery of goods to the
+5 licensee.
+6 18. 19. "Farm winery" means a winery in the United States or in a
+7 territory or possession of the United States that holds a license pursuant
+8 to section 4-205.04.
+9 19. 20. "Government license" means a license to serve and sell
+10 spirituous liquor on specified premises available only to a state agency,
+11 state board, state commission, county, city, town, community college or
+12 state university or the national guard or Arizona coliseum and exposition
+13 center on application by the governing body of the state agency, state
+14 board, state commission, county, city, town, community college or state
+15 university or the national guard or Arizona exposition and state fair
+16 board.
+17 20. 21. "Legal drinking age" means twenty-one years of age or
+18 older.
+19 21. 22. "License" means a license or an interim retail permit
+20 issued pursuant to this title.
+21 22. 23. "Licensee" means a person who has been issued a license or
+22 an interim retail permit pursuant to this title or a special event
+23 licensee.
+24 23. 24. "License fees" means fees collected for license issuance,
+25 license application, license renewal, interim permit issuance and license
+26 transfer between persons or locations.
+27 24. 25. "Manager" means a natural person who meets the standards
+28 required of licensees and who has authority to organize, direct, carry on,
+29 control or otherwise operate a licensed business on a temporary or
+30 full-time basis.
+31 25. 26. "Menu food item" means a food item from a regular menu,
+32 special menu or happy hour menu that is prepared by the licensee or the
+33 licensee's employee.
+34 26. 27. "Microbrewery" means a brewery in the United States or in
+35 a territory or possession of the United States that meets the requirements
+36 of section 4-205.08.
+37 27. 28. "Mixed cocktail":
+38 (a) Means any drink combined at the premises of an authorized
+39 licensee that contains a spirituous liquor and that is combined with at
+40 least one other ingredient, which may include additional spirituous
+41 liquors, fruit juice, vegetable juice, mixers, cream, flavored syrup or
+42 other ingredients except water, and that when combined contains more than
+43 one-half of one percent of alcohol by volume.
+44 (b) Does not include a drink sold in an original manufacturer's
+45 packaging or any drink poured from an original manufacturer's package
+46 without the addition of all of the cocktail's other ingredients at the
+47 premises of the licensed bar, liquor store or restaurant.
+-5-
+
+Senate Amendments to H.B. 4001
+1 29. "NICOTINE":
+2 (a) MEANS THE CHEMICAL SUBSTANCE NAMED 3-(1-METHYL-2-PYRROLIDINYL)
+3 PYRIDINE OR C(10)H(14)N(2).
+4 (b) INCLUDES ANY SALT OR COMPLEX OF NICOTINE DERIVED FROM ANY
+5 SOURCE.
+6 28. 30. "Off-sale retailer" means any person that operates a bona
+7 fide regularly established retail liquor store that sells spirituous
+8 liquors, wines and beer and any established retail store that sells
+9 commodities other than spirituous liquors and that is engaged in the sale
+10 of spirituous liquors only in the original unbroken package, to be taken
+11 away from the premises of the retailer and to be consumed off the
+12 premises.
+13 29. 31. "On-sale retailer" means any person operating an
+14 establishment where spirituous liquors are sold in the original container
+15 for consumption on or off the premises or in individual portions for
+16 consumption on the premises.
+17 30. 32. "Permanent occupancy" means the maximum occupancy of the
+18 building or facility as set by the office of the state fire marshal for
+19 the jurisdiction in which the building or facility is located.
+20 31. 33. "Person" includes a partnership, limited liability
+21 company, association, company or corporation, as well as a natural person.
+22 32. 34. "Premises" or "licensed premises":
+23 (a) Means the area from which the licensee is authorized to sell,
+24 dispense or serve spirituous liquors under the provision of the license.
+25 (b) Includes a patio that is not contiguous to the remainder of the
+26 premises or licensed premises if the patio is separated from the remainder
+27 of the premises or licensed premises by a public or private walkway or
+28 driveway not to exceed thirty feet, subject to rules the director may
+29 adopt to establish criteria for noncontiguous premises.
+30 33. 35. "Registered alcohol delivery contractor":
+31 (a) Means a person who delivers spirituous liquor to a consumer on
+32 behalf of a bar, beer and wine bar, liquor store, beer and wine store or
+33 restaurant.
+34 (b) Does not include:
+35 (i) A motor carrier as defined in section 28-5201.
+36 (ii) An independent contractor, a subcontractor of an independent
+37 contractor, an employee of an independent contractor or an employee of a
+38 subcontractor as provided in section 4-203, subsection J.
+39 34. 36. "Registered mail" includes certified mail.
+40 35. 37. "Registered retail agent" means any person who is
+41 authorized pursuant to section 4-222 to purchase spirituous liquors for
+42 and on behalf of the person and other retail licensees.
+43 36. 38. "Repeated acts of violence" means:
+44 (a) For licensed premises with a permanent occupancy of two hundred
+45 or fewer persons, two or more acts of violence occurring within seven days
+46 or three or more acts of violence occurring within thirty days.
+-6-
+
+Senate Amendments to H.B. 4001
+1 (b) For licensed premises with a permanent occupancy of more than
+2 two hundred but not more than four hundred persons, four or more acts of
+3 violence within thirty days.
+4 (c) For licensed premises with a permanent occupancy of more than
+5 four hundred but not more than six hundred fifty persons, five or more
+6 acts of violence within thirty days.
+7 (d) For licensed premises with a permanent occupancy of more than
+8 six hundred fifty but not more than one thousand fifty persons, six or
+9 more acts of violence within thirty days.
+10 (e) For licensed premises with a permanent occupancy of more than
+11 one thousand fifty persons, seven or more acts of violence within thirty
+12 days.
+13 [39. "RETAILER OF ALTERNATIVE NICOTINE PRODUCTS" MEANS A PERSON
+14 THAT OPERATES AN ESTABLISHMENT WHERE ALTERNATIVE NICOTINE PRODUCTS ARE
+15 SOLD IN THE ORIGINAL PACKAGING OR CONTAINER AND ARE FOR HUMAN
+16 CONSUMPTION.]
+17 37. [39.] [40.] "Sell" includes soliciting or receiving an order
+18 for, keeping or exposing for sale, directly or indirectly delivering for
+19 value, peddling, keeping with intent to sell and trafficking in.
+20 38. [40.] [41.] "Spirituous liquor" includes alcohol, brandy,
+21 whiskey, rum, tequila, mescal, gin, wine, porter, ale, beer, any malt
+22 liquor or malt beverage, absinthe, a compound or mixture of any of them or
+23 of any of them with any vegetable or other substance, alcohol bitters,
+24 bitters containing alcohol, any liquid mixture or preparation, whether
+25 patented or otherwise, that produces intoxication, fruits preserved in
+26 ardent spirits, and beverages containing more than one-half of one percent
+27 of alcohol by volume.
+28 39. [41.] [42.] "Tamperproof sealed" means designed to prevent
+29 consumption without the removal of a tamperproof cap, seal, cork or
+30 closure that has a device, mechanism or adhesive that clearly shows
+31 whether a container has been opened.
+32 40. [42.] [43.] "Vehicle" means any means of transportation by
+33 land, water or air, and includes everything made use of in any way for
+34 such transportation.
+35 41. [43.] [44.] "Vending machine" means a machine that dispenses
+36 merchandise through the means of coin, token, credit card or other
+37 nonpersonal means of accepting payment for merchandise received.
+38 42. [44.] [45.] "Veteran" means a person who has served in the
+39 United States air force, army, navy, marine corps or coast guard, as an
+40 active nurse in the services of the American red cross, in the army and
+41 navy nurse corps in time of war, or in any expedition of the armed forces
+42 of the United States, and who has received a discharge other than
+43 dishonorable.
+44 43. [45.] [46.] "Voting security" means any security presently
+45 entitling the owner or holder of the security to vote for the election of
+46 directors of an applicant or a licensee.
+-7-
+
+Senate Amendments to H.B. 4001
+1 44. [46.] [47.] "Wine" means the product obtained by the
+2 fermentation of grapes, other agricultural products containing natural or
+3 added sugar or cider or any such alcoholic beverage fortified with grape
+4 brandy and containing not more than twenty-four percent of alcohol by
+5 volume.
+6 Sec. 3. Section 4-112, Arizona Revised Statutes, is amended to
+7 read:
+8 4-112. Powers and duties of board and director of department
+9 of liquor licenses and control; investigations;
+10 county and municipal regulation; definition
+11 A. The board shall:
+12 1. Grant and deny applications in accordance with the provisions of
+13 this title.
+14 2. Adopt rules in order to carry out the provisions of this
+15 section.
+16 3. Hear appeals and hold hearings as provided in this section.
+17 B. Except as provided in subsection A of this section, the director
+18 shall administer the provisions of this title, including AND SHALL DO THE
+19 FOLLOWING:
+20 1. Adopting ADOPT rules:
+21 (a) For carrying TO CARRY out the provisions of this title.
+22 (b) For the proper TO PROPERLY conduct of the business to be
+23 carried on under each specific type of spirituous liquor license.
+24 (c) To enable and assist state officials and political subdivisions
+25 to collect taxes levied or imposed in connection with spirituous liquors.
+26 (d) For the issuance TO ISSUE and revocation of REVOKE certificates
+27 of registration of retail agents, including provisions governing the
+28 shipping, storage and delivery of spirituous liquors by registered retail
+29 agents, the keeping of records and the filing of reports by registered
+30 retail agents.
+31 (e) To establish requirements for licensees under section 4-209,
+32 subsection B, paragraph 12.
+33 2. Subject to title 41, chapter 4, article 4, employing EMPLOY
+34 necessary personnel and fixing FIX their compensation pursuant to section
+35 38-611.
+36 3. Keeping KEEP an index record that is a public record open to
+37 public inspection and that contains the name and address of each licensee
+38 and the name and address of any person having an interest, either legal or
+39 equitable, in each license as shown by any written document that is placed
+40 on file in the office of the board.
+41 4. Providing PROVIDE the board with supplies and personnel as
+42 directed by the board.
+43 5. Responding RESPOND in writing to any law enforcement agency that
+44 submits an investigative report to the department relating to a violation
+45 of this title, setting forth what action, if any, the department has taken
+46 or intends to take on the report and, if the report lacks sufficient
+-8-
+
+Senate Amendments to H.B. 4001
+1 information or is otherwise defective for use by the department, what the
+2 agency must do to remedy the report.
+3 6. Taking TAKE steps that are necessary to maintain effective
+4 liaison with the department of public safety and all local law enforcement
+5 agencies in the enforcement of TO ENFORCE this title, including the laws
+6 of this state against the consumption of spirituous liquor by persons
+7 under the legal drinking age OR THE SALE OR POSSESSION OF ALTERNATIVE
+8 NICOTINE PRODUCTS BY PERSONS UNDER TWENTY-ONE YEARS OF AGE.
+9 7. Providing PROVIDE training to law enforcement agencies in the
+10 proper investigation PROPER INVESTIGATION and reporting of violations of
+11 this title.
+12 C. The director shall establish within the department a separate
+13 investigations unit that has as its WHOSE sole responsibility the
+14 investigation of IS INVESTIGATING compliance with this title, including
+15 the investigation of INVESTIGATING licensees alleged to have sold or
+16 distributed spirituous liquor in any form to persons under the legal
+17 drinking age OR HAVE SOLD OR DISTRIBUTED ALTERNATIVE NICOTINE PRODUCTS TO
+18 A PERSON WHO IS UNDER TWENTY-ONE YEARS OF AGE. Investigations conducted by
+19 this unit may include covert undercover investigations.
+20 D. All employees of the department of liquor licenses and control,
+21 except members of the state liquor board and the director of the
+22 department, shall be employed by the department in the manner prescribed
+23 by the department of administration.
+24 E. The director may enter into a contract or agreement with any
+25 public agency for any joint or cooperative action as provided for by title
+26 11, chapter 7, article 3.
+27 F. The board or the director may take evidence, administer oaths or
+28 affirmations, issue subpoenas requiring attendance and testimony of
+29 witnesses, cause depositions to be taken and require by subpoena duces
+30 tecum the production of books, papers and other documents that are
+31 necessary for the enforcement of TO ENFORCE this title. Proceedings held
+32 during the course of a confidential investigation are exempt from title
+33 38, chapter 3, article 3.1. If a person refuses to obey a subpoena or
+34 fails to answer questions as provided by this subsection, the board or the
+35 director may apply to the superior court in the manner provided in section
+36 12-2212. The board or director may serve subpoenas by personal service or
+37 certified mail, return receipt requested.
+38 G. The director may:
+39 1. Examine books, records and papers of a licensee.
+40 2. Require applicants, licensees, employees who serve, sell or
+41 furnish spirituous liquors to retail customers, managers and managing
+42 agents to take training courses approved by the director in spirituous
+43 liquor handling and spirituous liquor laws and rules. The director shall
+44 adopt rules that set standards for approving training courses. The
+45 director may suspend or revoke the previous approval of trainers who do
+46 not adhere to course administration requirements prescribed by the
+47 department or who do not meet course standards. If the director suspends
+-9-
+
+Senate Amendments to H.B. 4001
+1 or revokes the previous approval of a trainer pursuant to this paragraph,
+2 the trainer may appeal to the board pursuant to section 4-210.02 as if the
+3 suspension or revocation was a sanction against a licensee. After
+4 January 1, 2019, The rules for on-sale retailer basic training and on-sale
+5 retailer management training shall include security procedures for
+6 security personnel assigned to monitor admission of patrons, interaction
+7 with patrons, calls to law enforcement and strategies for use of force and
+8 for the use of de-escalation techniques. If the retailer uses a
+9 registered security guard, the retailer shall attempt to verify the
+10 validity and status of the security guard's registration certificate. The
+11 department's licensed investigators may participate and receive
+12 compensation as lecturers at approved training courses within this state's
+13 jurisdiction that are conducted by other entities but shall not
+14 participate in in-house training programs for licensees.
+15 3. Delegate to employees of the department authority to exercise
+16 powers of the director in order to administer the department.
+17 4. Regulate signs that advertise a spirituous liquor product at
+18 licensed retail premises.
+19 5. Cause to be removed from the marketplace spirituous liquor OR
+20 ALTERNATIVE NICOTINE PRODUCTS that may be contaminated.
+21 6. Regulate the age and conduct of erotic entertainers at licensed
+22 premises. The age limitation governing these erotic entertainers may be
+23 different from other employees of the licensee.
+24 7. Issue and enforce cease and desist orders against any person or
+25 entity that sells beer, wine, or spirituous liquor without an appropriate
+26 license or permit.
+27 8. Confiscate wines carrying a label including a reference to
+28 Arizona or any Arizona city, town or place unless at least seventy-five
+29 percent by volume of the grapes used in making the wine were grown in this
+30 state.
+31 9. Accept and expend private grants of monies, gifts and devises
+32 for conducting educational programs for parents and students on the
+33 repercussions of underage alcohol consumption OR THE SALE OR POSSESSION OF
+34 ALTERNATIVE NICOTINE PRODUCTS BY A PERSON WHO IS UNDER TWENTY-ONE YEARS OF
+35 AGE. State general fund monies shall not be expended for the purposes of
+36 this paragraph. If the director does not receive sufficient monies from
+37 private sources to carry out the purposes of this paragraph, the director
+38 shall not provide the educational programs prescribed in this paragraph.
+39 Grant monies received pursuant to this paragraph are nonlapsing and do not
+40 revert to the state general fund at the close of the fiscal year.
+41 10. Procure fingerprint scanning equipment and provide fingerprint
+42 services to license applicants and licensees. The department may charge a
+43 fee for providing these services.
+44 11. Accept electronic signatures on all department and licensee
+45 forms and documents and applications. The director may adopt requirements
+46 that would require facsimile signatures to be followed by original
+47 signatures within a specified time period.
+-10-
+
+Senate Amendments to H.B. 4001
+1 12. For use after January 1, 2019, Adopt a form that is required to
+2 be used by all on-sale retailers that hire or designate employees to serve
+3 as security personnel. All security personnel job applicants and
+4 employees for on-sale retailers shall complete the form, which shall be
+5 notarized, before assignment to a security role. The form shall require
+6 the applicant or other person to disclose whether in the previous five
+7 years the person has been a registered sex offender or pled guilty TO,
+8 pled no contest TO or been convicted of any offense that constitutes
+9 assault, homicide, domestic violence, sexual misconduct, misconduct
+10 involving a deadly weapon or a drug violation that constitutes the illegal
+11 sale, manufacturing, cultivation or transportation for sale of marijuana,
+12 a dangerous drug or a narcotic drug. A licensee may not hire or assign to
+13 a role as security personnel any person who fails to complete the form or
+14 if the WHOSE form discloses one of the listed offenses within the previous
+15 five years. The licensee shall maintain on file affidavits of all
+16 security personnel hired or designated by the licensee. The form may not
+17 be required for a peace officer who is certified by the Arizona peace
+18 officer standards and training board or other security personnel who hold
+19 a current security guard registration certificate or armed security guard
+20 registration certificate issued pursuant to title 32, chapter 26.
+21 H. A county or municipality may enact and enforce ordinances
+22 regulating the age and conduct of erotic entertainers at licensed premises
+23 in a manner at least as restrictive as rules adopted by the director.
+24 I. For the purposes of this section, "security personnel":
+25 1. Includes individuals whose primary assigned responsibilities
+26 include the security and safety of employees and patrons of an on-sale
+27 retailer premises. Security personnel
+28 2. Does not include a person whose primary responsibilities include
+29 checking the identification cards of patrons to determine compliance with
+30 age requirements.
+31 Sec. 4. Section 4-118, Arizona Revised Statutes, is amended to
+32 read:
+33 4-118. Inspection of premises
+34 The director, the director's agents and any peace officer may, in
+35 enforcing the provisions of this title, MAY visit during the hours in
+36 which the premises are occupied and inspect the premises of a licensee OR
+37 AN ALTERNATIVE NICOTINE PRODUCTS LICENSEE.
+38 Sec. 5. Section 4-205.02, Arizona Revised Statutes, is amended to
+39 read:
+40 4-205.02. Restaurant license; issuance; regulatory
+41 provisions; expiration; off-sale leases and
+42 permits; fee; definitions
+43 A. The director may issue a restaurant license to any restaurant in
+44 this state that is regularly open for serving food to guests for
+45 compensation and that has suitable kitchen facilities connected with the
+46 restaurant for keeping, cooking and preparing foods required for ordinary
+47 meals.
+-11-
+
+Senate Amendments to H.B. 4001
+1 B. The director shall issue the license in the name of the
+2 restaurant on application for the license by the owner or lessee of the
+3 restaurant, if the applicant is otherwise qualified to hold a spirituous
+4 liquor license. The holder of such a license is subject to the penalties
+5 prescribed for any violation of the law relating to alcoholic beverages.
+6 C. The holder of a restaurant license may sell and serve spirituous
+7 liquors solely for consumption on the licensed premises. For the purpose
+8 of this subsection, "licensed premises" may include rooms, areas or
+9 locations in which the restaurant normally sells or serves spirituous
+10 liquors pursuant to regular operating procedures and practices and that
+11 are contiguous to the restaurant or a noncontiguous patio pursuant to
+12 section 4-101, paragraph 32 34. For the purposes of this subsection, a
+13 restaurant licensee must submit proof of tenancy or permission from the
+14 landowner or lessor for all property to be included in the licensed
+15 premises.
+16 D. In addition to other grounds prescribed in this title on which a
+17 license may be revoked, the director may require the holder of a
+18 restaurant license issued pursuant to this section to surrender the
+19 license in any case in which the licensee ceases to operate as a
+20 restaurant, as prescribed in subsection A of this section. The surrender
+21 of a license pursuant to this subsection does not prevent the director
+22 from revoking the license for other grounds prescribed in this title or
+23 for making deliberate material misrepresentations to the department
+24 regarding the licensee's equipment, service or entertainment items or
+25 seating capacity in applying for the restaurant license.
+26 E. Neither the director nor the board may initially issue a
+27 restaurant license if either finds that there is sufficient evidence that
+28 the operation will not satisfy the criteria adopted by the director for
+29 issuing a restaurant license described in section 4-209, subsection B,
+30 paragraph 12. The director shall issue a restaurant license only if the
+31 applicant has submitted a plan for the operation of the restaurant. The
+32 plan shall be completed on forms provided by the department and shall
+33 include listings of all restaurant equipment and service items, the
+34 restaurant seating capacity and other information requested by the
+35 department to substantiate that the restaurant will operate in compliance
+36 with this section.
+37 F. The holder of the license described in section 4-209, subsection
+38 B, paragraph 12 who intends to alter the seating capacity or dimensions of
+39 a restaurant facility shall notify the department in advance on forms
+40 provided by the department.
+41 G. The director may charge a fee for site inspections conducted
+42 before the issuance of a restaurant license.
+43 H. A restaurant applicant or licensee may apply for a permit
+44 allowing for the sale of beer for consumption off the licensed premises
+45 pursuant to section 4-244, paragraph 32, subdivision (c) on a form
+46 prescribed and furnished by the director. The department shall not issue
+47 a permit to a restaurant applicant or licensee that does not meet the
+-12-
+
+Senate Amendments to H.B. 4001
+1 requirements in section 4-207, subsection A. Section 4-207, subsection B
+2 does not apply to this subsection. The permit shall be issued only after
+3 the director has determined that the public convenience requires and that
+4 the best interest of the community will be substantially served by the
+5 issuance of the permit, considering the same criteria adopted by the
+6 director for issuing a restaurant license described in section 4-209,
+7 subsection B, paragraph 12. The amount of beer sold under the permit
+8 shall not exceed ten percent of gross revenue of spirituous liquor sold by
+9 the establishment. After the permit has been issued, the permit shall be
+10 noted on the license itself and in the records of the department. The
+11 director may charge a fee for processing the application for the permit
+12 and a renewal fee.
+13 I. Notwithstanding any rule adopted by the department, business
+14 establishments that relied on a form issued by the department that
+15 provides for a small restaurant exemption for fifty or fewer seats before
+16 January 31, 2019 are allowed to continue to maintain the capacity of fifty
+17 or fewer seats for the duration of the business. The rights of a business
+18 establishment subject to this section are not transferable.
+19 J. Notwithstanding section 4-203, subsection E, section 4-207 and
+20 section 4-210, subsection A, paragraph 6, through December 31, 2025, a
+21 restaurant applicant or licensee may apply to the department for a lease
+22 for the privilege of selling mixed cocktails for consumption off the
+23 licensed premises pursuant to section 4-203.06 and section 4-244,
+24 paragraph 32, subdivision (d).
+25 K. Notwithstanding section 4-207, beginning January 1, 2026, a
+26 restaurant applicant or licensee may apply for a permit to allow the sale
+27 of mixed cocktails for consumption off the licensed premises pursuant to
+28 section 4-203.07 and section 4-244, paragraph 32, subdivision (d), on a
+29 form prescribed and furnished by the director. The sale of mixed
+30 cocktails for consumption off the licensed premises must be accompanied by
+31 the sale of menu food items for consumption on or off the licensed
+32 premises. The department shall issue the permit only after the director
+33 has determined that the public convenience requires and that the best
+34 interest of the community will be substantially served by issuing the
+35 permit. All permit holders and their employees, managers and agents must
+36 complete alcohol training pursuant to section 4-112, subsection G,
+37 paragraph 2. After the department issues the permit, the permit shall be
+38 noted on the license itself and in the records of the department. The
+39 director may establish and charge a fee for processing the permit
+40 application and a renewal fee.
+41 L. A restaurant licensee shall cease selling spirituous liquor,
+42 including mixed cocktails, for off-premises consumption when the licensee
+43 ceases regular kitchen service for food.
+44 M. For the purposes of this section:
+45 1. "Gross revenue":
+46 (a) Means the revenue derived from all sales of food and spirituous
+47 liquor on the licensed premises, regardless of whether the sales of
+-13-
+
+Senate Amendments to H.B. 4001
+1 spirituous liquor are made under a restaurant license issued pursuant to
+2 this section or under any other license that has been issued for the
+3 premises pursuant to this article.
+4 (b) Includes revenue derived from spirituous liquor sold for
+5 off-sale consumption.
+6 2. "Restaurant" means an establishment that derives at least forty
+7 percent of its gross revenue from the sale of food, including sales of
+8 food for consumption off the licensed premises if the amount of these
+9 sales included in the calculation of gross revenue from the sale of food
+10 does not exceed fifteen percent of all gross revenue of the restaurant.
+11 Sec. 6. Section 4-244, Arizona Revised Statutes, is amended to
+12 read:
+13 4-244. Unlawful acts; definition
+14 It is unlawful:
+15 1. For a person to buy for resale, sell or deal in spirituous
+16 liquors in this state without first having procured a license duly issued
+17 by the board, except that the director may issue a temporary permit of any
+18 series pursuant to section 4-205.05 to a trustee in bankruptcy to acquire
+19 and dispose of the spirituous liquor of a debtor.
+20 2. For a person to sell or deal in alcohol for beverage purposes
+21 without first complying with this title.
+22 3. For a distiller, vintner, brewer or wholesaler knowingly to
+23 sell, dispose of or give spirituous liquor to any person other than a
+24 licensee except in sampling wares as may be necessary in the ordinary
+25 course of business, except in donating spirituous liquor to a nonprofit
+26 organization that has obtained a special event license for the purpose of
+27 charitable fundraising activities or except in donating spirituous liquor
+28 with a cost to the distiller, brewer or wholesaler of up to $500 in a
+29 calendar year to an organization that is exempt from federal income taxes
+30 under section 501(c) (3), (4), (6) or (7) of the internal revenue code and
+31 not licensed under this title.
+32 4. For a distiller, vintner or brewer to require a wholesaler to
+33 offer or grant a discount to a retailer, unless the discount has also been
+34 offered and granted to the wholesaler by the distiller, vintner or brewer.
+35 5. For a distiller, vintner or brewer to use a vehicle for trucking
+36 or transporting spirituous liquors unless there is affixed to both sides
+37 of the vehicle a sign showing the name and address of the licensee and the
+38 type and number of the person's license in letters not less than three and
+39 one-half inches in height.
+40 6. For a person to take or solicit orders for spirituous liquors
+41 unless the person is a salesman or solicitor of a licensed wholesaler, a
+42 salesman or solicitor of a distiller, brewer, vintner, importer or broker
+43 or a registered retail agent.
+44 7. For any retail licensee to purchase spirituous liquors from any
+45 person other than a solicitor or salesman of a wholesaler licensed in this
+46 state.
+-14-
+
+Senate Amendments to H.B. 4001
+1 8. For a retailer to acquire an interest in property owned,
+2 occupied or used by a wholesaler in the wholesaler's business, or in a
+3 license with respect to the premises of the wholesaler.
+4 9. Except as provided in paragraphs 10 and 11 of this section, for
+5 a licensee or other person to sell, furnish, dispose of or give, or cause
+6 to be sold, furnished, disposed of or given, to a person under the legal
+7 drinking age or for a person under the legal drinking age to buy, receive,
+8 have in the person's possession or consume spirituous liquor. This
+9 paragraph does not prohibit the employment by an off-sale retailer of
+10 persons who are at least sixteen years of age to check out, if supervised
+11 by a person on the premises who is at least eighteen years of age, package
+12 or carry merchandise, including spirituous liquor, in unbroken packages,
+13 for the convenience of the customer of the employer, if the employer sells
+14 primarily merchandise other than spirituous liquor.
+15 10. For a licensee to employ a person under eighteen years of age
+16 to manufacture, sell or dispose of spirituous liquors. This paragraph
+17 does not prohibit the employment by an off-sale retailer of persons who
+18 are at least sixteen years of age to check out, if supervised by a person
+19 on the premises who is at least eighteen years of age, package or carry
+20 merchandise, including spirituous liquor, in unbroken packages, for the
+21 convenience of the customer of the employer, if the employer sells
+22 primarily merchandise other than spirituous liquor.
+23 11. For an on-sale retailer to employ a person under eighteen years
+24 of age in any capacity connected with the handling of spirituous liquors.
+25 This paragraph does not prohibit the employment by an on-sale retailer of
+26 a person under eighteen years of age who cleans up the tables on the
+27 premises for reuse, removes dirty dishes, keeps a ready supply of needed
+28 items and helps clean up the premises.
+29 12. For a licensee, when engaged in waiting on or serving
+30 customers, to consume spirituous liquor or for a licensee or on-duty
+31 employee to be on or about the licensed premises while in an intoxicated
+32 or disorderly condition.
+33 13. For an employee of a retail licensee, during that employee's
+34 working hours or in connection with such employment, to give to or
+35 purchase for any other person, accept a gift of, purchase for the employee
+36 or consume spirituous liquor, except that:
+37 (a) An employee of a licensee, during that employee's working hours
+38 or in connection with the employment, while the employee is not engaged in
+39 waiting on or serving customers, may give spirituous liquor to or purchase
+40 spirituous liquor for any other person.
+41 (b) An employee of an on-sale retail licensee, during that
+42 employee's working hours or in connection with the employment, while the
+43 employee is not engaged in waiting on or serving customers, may taste
+44 samples of beer or wine of not more than four ounces per day or distilled
+45 spirits of not more than two ounces per day provided by an employee of a
+46 wholesaler or distributor who is present at the time of the sampling.
+-15-
+
+Senate Amendments to H.B. 4001
+1 (c) An employee of an on-sale retail licensee, under the
+2 supervision of a manager as part of the employee's training and education,
+3 while not engaged in waiting on or serving customers may taste samples of
+4 distilled spirits of not more than two ounces per educational session or
+5 beer or wine of not more than four ounces per educational session, and
+6 provided that a licensee does not have more than two educational sessions
+7 in any thirty-day period.
+8 (d) An unpaid volunteer who is a bona fide member of a club and who
+9 is not engaged in waiting on or serving spirituous liquor to customers may
+10 purchase for himself and consume spirituous liquor while participating in
+11 a scheduled event at the club. An unpaid participant in a food
+12 competition may purchase for himself and consume spirituous liquor while
+13 participating in the food competition.
+14 (e) An unpaid volunteer of a special event licensee under section
+15 4-203.02 may purchase and consume spirituous liquor while not engaged in
+16 waiting on or serving spirituous liquor to customers at the special event.
+17 This subdivision does not apply to an unpaid volunteer whose
+18 responsibilities include verification of a person's legal drinking age,
+19 security or the operation of any vehicle or heavy machinery.
+20 (f) A representative of a producer or wholesaler participating at a
+21 special event under section 4-203.02 may consume small amounts of the
+22 products of the producer or wholesaler on the premises of the special
+23 event for the purpose of quality control.
+24 14. For a licensee or other person to serve, sell or furnish
+25 spirituous liquor to a disorderly or obviously intoxicated person, or for
+26 a licensee or employee of the licensee to allow a disorderly or obviously
+27 intoxicated person to come into or remain on or about the premises, except
+28 that a licensee or an employee of the licensee may allow an obviously
+29 intoxicated person to remain on the premises for not more than thirty
+30 minutes after the state of obvious intoxication is known or should be
+31 known to the licensee for a nonintoxicated person to transport the
+32 obviously intoxicated person from the premises. For the purposes of this
+33 section, "obviously intoxicated" means inebriated to the extent that a
+34 person's physical faculties are substantially impaired and the impairment
+35 is shown by significantly uncoordinated physical action or significant
+36 physical dysfunction that would have been obvious to a reasonable person.
+37 15. For an on-sale or off-sale retailer or an employee of such
+38 retailer or an alcohol delivery contractor to sell, dispose of, deliver or
+39 give spirituous liquor to a person between the hours of 2:00 a.m. and
+40 6:00 a.m., except that:
+41 (a) A retailer with off-sale privileges may receive and process
+42 orders, accept payment or package, load or otherwise prepare spirituous
+43 liquor for delivery at any time, if the actual deliveries to customers are
+44 made between the hours of 6:00 a.m. and 2:00 a.m., at which time section
+45 4-241, subsections A and K apply.
+46 (b) The governor, in consultation with the governor's office of
+47 highway safety and the public safety community in this state, may issue an
+-16-
+
+Senate Amendments to H.B. 4001
+1 executive order that extends the closing time until 3:00 a.m. for
+2 spirituous liquor sales in connection with a professional or collegiate
+3 national sporting championship event held in this state.
+4 16. For a licensee or employee to knowingly allow any person on or
+5 about the licensed premises to give or furnish any spirituous liquor to
+6 any person under twenty-one years of age or knowingly allow any person
+7 under twenty-one years of age to have in the person's possession
+8 spirituous liquor on the licensed premises.
+9 17. For an on-sale retailer or an employee of such retailer to
+10 allow a person to consume or possess spirituous liquors on the premises
+11 between the hours of 2:30 a.m. and 6:00 a.m., except that if the governor
+12 extends the closing time for a day for spirituous liquor sales pursuant to
+13 paragraph 15 of this section it is unlawful for an on-sale retailer or an
+14 employee of such retailer on that day to allow a person to consume or
+15 possess spirituous liquor on the premises between the hours of 3:30 a.m.
+16 and 6:00 a.m.
+17 18. For an on-sale retailer to allow an employee or for an employee
+18 to solicit or encourage others, directly or indirectly, to buy the
+19 employee drinks or anything of value in the licensed premises during the
+20 employee's working hours. An on-sale retailer shall not serve employees
+21 or allow a patron of the establishment to give spirituous liquor to,
+22 purchase liquor for or drink liquor with any employee during the
+23 employee's working hours.
+24 19. For an off-sale retailer or employee to sell spirituous liquor
+25 except in the original unbroken container, to allow spirituous liquor to
+26 be consumed on the premises or to knowingly allow spirituous liquor to be
+27 consumed on adjacent property under the licensee's exclusive control.
+28 20. For a person to consume spirituous liquor in a public place,
+29 thoroughfare or gathering. The license of a licensee allowing a violation
+30 of this paragraph on the premises shall be subject to revocation. This
+31 paragraph does not apply to the sale of spirituous liquors on the premises
+32 of and by an on-sale retailer. This paragraph also does not apply to a
+33 person consuming beer or wine from a broken package in a public recreation
+34 area or on private property with permission of the owner or lessor or on
+35 the walkways surrounding such private property or to a person consuming
+36 beer or wine from a broken package in a public recreation area as part of
+37 a special event or festival that is conducted under a license secured
+38 pursuant to section 4-203.02 or 4-203.03.
+39 21. For a person to possess or to transport spirituous liquor that
+40 is manufactured in a distillery, winery, brewery or rectifying plant
+41 contrary to the laws of the United States and this state. Any property
+42 used in transporting such spirituous liquor shall be forfeited to the THIS
+43 state and shall be seized and disposed of as provided in section 4-221.
+44 22. For an on-sale retailer or employee to allow a person under the
+45 legal drinking age to remain in an area on the licensed premises during
+46 those hours in which its primary use is the sale, dispensing or
+47 consumption of alcoholic beverages after the licensee, or the licensee's
+-17-
+
+Senate Amendments to H.B. 4001
+1 employees, know or should have known that the person is under the legal
+2 drinking age. An on-sale retailer may designate an area of the licensed
+3 premises as an area in which spirituous liquor will not be sold or
+4 consumed for the purpose of allowing TO ALLOW underage persons on the
+5 premises if the designated area is separated by a physical barrier and at
+6 no time will underage persons have access to the area in which spirituous
+7 liquor is sold or consumed. A licensee or an employee of a licensee may
+8 require a person who intends to enter a licensed premises or a portion of
+9 a licensed premises where persons under the legal drinking age are
+10 prohibited under this section to exhibit an instrument of identification
+11 that is acceptable under section 4-241 as a condition of entry or may use
+12 a biometric identity verification device to determine the person's age as
+13 a condition of entry. The director, or a municipality, may adopt rules to
+14 regulate the presence of underage persons on licensed premises provided
+15 the rules adopted by a municipality are more stringent than those adopted
+16 by the director. The rules adopted by the municipality shall be adopted
+17 by local ordinance and shall not interfere with the licensee's ability to
+18 comply with this paragraph. This paragraph does not apply:
+19 (a) If the person under the legal drinking age is accompanied by a
+20 spouse, parent, grandparent or legal guardian of legal drinking age or is
+21 an on-duty employee of the licensee.
+22 (b) If the owner, lessee or occupant of the premises is a club as
+23 defined in section 4-101, paragraph 8 9, subdivision (a) and the person
+24 under the legal drinking age is any of the following:
+25 (i) An active duty military service member.
+26 (ii) A veteran.
+27 (iii) A member of the United States army national guard or the
+28 United States air national guard.
+29 (iv) A member of the United States military reserve forces.
+30 (c) To the area of the premises used primarily for serving food
+31 during the hours when food is served.
+32 23. For an on-sale retailer or employee to conduct drinking
+33 contests, to sell or deliver to a person an unlimited number of spirituous
+34 liquor beverages during any set period of time for a fixed price, to
+35 deliver more than fifty ounces of beer, one liter of wine or four ounces
+36 of distilled spirits in any spirituous liquor drink to one person at one
+37 time for that person's consumption or to advertise any practice prohibited
+38 by this paragraph. This paragraph does not prohibit an on-sale retailer
+39 or employee from selling and delivering an opened, original container of
+40 distilled spirits if:
+41 (a) Service or pouring of the spirituous liquor is provided by an
+42 employee of the on-sale retailer. A licensee shall not be charged for a
+43 violation of this paragraph if a customer, without the knowledge of the
+44 retailer, removes or tampers with a locking device on a bottle delivered
+45 to the customer for bottle service and the customer pours the customer's
+46 own drink from the bottle, if when the licensee becomes aware of the
+47 removal or tampering of the locking device the licensee immediately
+-18-
+
+Senate Amendments to H.B. 4001
+1 installs a functioning locking device on the bottle or removes the bottle
+2 and lock from bottle service.
+3 (b) The employee of the on-sale retailer monitors consumption to
+4 ensure compliance with this paragraph. Locking devices may be used, but
+5 are not required.
+6 24. For a licensee or employee to knowingly allow the unlawful
+7 possession, use, sale or offer for sale of narcotics, dangerous drugs or
+8 marijuana on the premises. For the purposes of this paragraph, "dangerous
+9 drug" has the same meaning prescribed in section 13-3401.
+10 25. For a licensee or employee to knowingly allow prostitution or
+11 the solicitation of prostitution on the premises.
+12 26. For a licensee or employee to knowingly allow unlawful gambling
+13 on the premises.
+14 27. For a licensee or employee to knowingly allow trafficking or
+15 attempted trafficking in stolen property on the premises.
+16 28. For a licensee or employee to fail or refuse to make the
+17 premises or records available for inspection and examination as provided
+18 in this title or to comply with a lawful subpoena issued under this title.
+19 29. For any person other than a peace officer while on duty or off
+20 duty or a member of a sheriff's volunteer posse while on duty who has
+21 received firearms training that is approved by the Arizona peace officer
+22 standards and training board, a retired peace officer as defined in
+23 section 38-1113 or an honorably retired law enforcement officer who has
+24 been issued a certificate of firearms proficiency pursuant to section
+25 13-3112, subsection T, the licensee or an employee of the licensee acting
+26 with the permission of the licensee to be in possession of a firearm while
+27 on the licensed premises of an on-sale retailer. This paragraph does not
+28 include a situation in which a person is on licensed premises for a
+29 limited time in order to seek emergency aid and such person does not buy,
+30 receive, consume or possess spirituous liquor. This paragraph does not
+31 apply to:
+32 (a) Hotel or motel guest room accommodations.
+33 (b) Exhibiting or displaying a firearm in conjunction with a
+34 meeting, show, class or similar event.
+35 (c) A person with a permit issued pursuant to section 13-3112 who
+36 carries a concealed handgun on the licensed premises of any on-sale
+37 retailer that has not posted a notice pursuant to section 4-229.
+38 30. For a licensee or employee to knowingly allow a person in
+39 possession of a firearm other than a peace officer while on duty or off
+40 duty or a member of a sheriff's volunteer posse while on duty who has
+41 received firearms training that is approved by the Arizona peace officer
+42 standards and training board, a retired peace officer as defined in
+43 section 38-1113 or an honorably retired law enforcement officer who has
+44 been issued a certificate of firearms proficiency pursuant to section
+45 13-3112, subsection T, the licensee or an employee of the licensee acting
+46 with the permission of the licensee to remain on the licensed premises or
+47 to serve, sell or furnish spirituous liquor to a person in possession of a
+-19-
+
+Senate Amendments to H.B. 4001
+1 firearm while on the licensed premises of an on-sale retailer. It is a
+2 defense to action under this paragraph if the licensee or employee
+3 requested assistance of a peace officer to remove such person. This
+4 paragraph does not apply to:
+5 (a) Hotel or motel guest room accommodations.
+6 (b) Exhibiting or displaying a firearm in conjunction with a
+7 meeting, show, class or similar event.
+8 (c) A person with a permit issued pursuant to section 13-3112 who
+9 carries a concealed handgun on the licensed premises of any on-sale
+10 retailer that has not posted a notice pursuant to section 4-229.
+11 31. For any person in possession of a firearm while on the licensed
+12 premises of an on-sale retailer to consume spirituous liquor. This
+13 paragraph does not prohibit the consumption of small amounts of spirituous
+14 liquor by an undercover peace officer on assignment to investigate the
+15 licensed establishment.
+16 32. For a licensee or employee to knowingly allow spirituous liquor
+17 to be removed from the licensed premises, except in the original unbroken
+18 package. This paragraph does not apply to any of the following:
+19 (a) A person who removes a bottle of wine that has been partially
+20 consumed in conjunction with a purchased meal from licensed premises if a
+21 cork is inserted flush with the top of the bottle or the bottle is
+22 otherwise securely closed.
+23 (b) A person who is in licensed premises that have noncontiguous
+24 portions that are separated by a public or private walkway or driveway and
+25 who takes spirituous liquor from one portion of the licensed premises
+26 across the public or private walkway or driveway directly to the other
+27 portion of the licensed premises.
+28 (c) A licensee of a bar, beer and wine bar, liquor store, beer and
+29 wine store, microbrewery or restaurant that has a permit pursuant to
+30 section 4-205.02, subsection H that dispenses beer only in a clean
+31 container composed of a material approved by a national sanitation
+32 organization with a maximum capacity that does not exceed one gallon and
+33 not for consumption on the premises if:
+34 (i) The licensee or the licensee's employee fills the container at
+35 the tap at the time of sale.
+36 (ii) The container is sealed and displays a government warning
+37 label.
+38 (d) A bar or liquor store licensee that prepares a mixed cocktail
+39 or a restaurant licensee that leases the privilege to sell mixed cocktails
+40 for consumption off the licensed premises pursuant to section 4-203.06 or
+41 holds a permit pursuant to section 4-203.07 and section 4-205.02,
+42 subsection K and that prepares a mixed cocktail and transfers it to a
+43 clean container composed of a material approved by a national sanitation
+44 organization with a maximum capacity that does not exceed thirty-two
+45 ounces and not for consumption on the premises if all of the following
+46 apply:
+-20-
+
+Senate Amendments to H.B. 4001
+1 (i) The licensee or licensee's employee fills the container with
+2 the mixed cocktail on the licensed premises of the bar, liquor store or
+3 restaurant.
+4 (ii) The container is tamperproof sealed by the licensee or the
+5 licensee's employee and displays a government warning label.
+6 (iii) The container clearly displays the bar's, liquor store's or
+7 restaurant's logo or name.
+8 (iv) For a restaurant licensee licensed pursuant to section
+9 4-205.02, the sale of mixed cocktails for consumption off the licensed
+10 premises is accompanied by the sale of menu food items for consumption on
+11 or off the licensed premises.
+12 33. For a person who is obviously intoxicated to buy or attempt to
+13 buy spirituous liquor from a licensee or employee of a licensee or to
+14 consume spirituous liquor on licensed premises.
+15 34. For a person who is under twenty-one years of age to drive or
+16 be in physical control of a motor vehicle while there is any spirituous
+17 liquor in the person's body.
+18 35. For a person who is under twenty-one years of age to operate or
+19 be in physical control of a motorized watercraft that is underway while
+20 there is any spirituous liquor in the person's body. For the purposes of
+21 this paragraph, "underway" has the same meaning prescribed in section
+22 5-301.
+23 36. For a licensee, manager, employee or controlling person to
+24 purposely induce a voter, by means of alcohol, to vote or abstain from
+25 voting for or against a particular candidate or issue on an election day.
+26 37. For a licensee to fail to report an occurrence of an act of
+27 violence to either the department or a law enforcement agency.
+28 38. For a licensee to use a vending machine for the purpose of
+29 dispensing TO DISPENSE spirituous liquor.
+30 39. For a licensee to offer for sale a wine carrying a label
+31 including a reference to Arizona or any Arizona city, town or geographic
+32 location unless at least seventy-five percent by volume of the grapes used
+33 in making the wine were grown in Arizona.
+34 40. For a retailer to knowingly allow a customer to bring
+35 spirituous liquor onto the licensed premises, except that an on-sale
+36 retailer may allow a wine and food club to bring wine onto the premises
+37 for consumption by the club's members and guests of the club's members in
+38 conjunction with meals purchased at a meeting of the club that is
+39 conducted on the premises and that at least seven members attend. An
+40 on-sale retailer that allows wine and food clubs to bring wine onto its
+41 premises under this paragraph shall comply with all applicable provisions
+42 of this title and any rules adopted pursuant to this title to the same
+43 extent as if the on-sale retailer had sold the wine to the members of the
+44 club and their guests. For the purposes of this paragraph, "wine and food
+45 club" means an association that has more than twenty bona fide members
+46 paying at least $6 per year in dues and that has been in existence for at
+47 least one year.
+-21-
+
+Senate Amendments to H.B. 4001
+1 41. For a person who is under twenty-one years of age to have in
+2 the person's body any spirituous liquor. In a prosecution for a violation
+3 of this paragraph:
+4 (a) Pursuant to section 4-249, it is a defense that the spirituous
+5 liquor was consumed in connection with the bona fide practice of a
+6 religious belief or as an integral part of a religious exercise and in a
+7 manner not dangerous to public health or safety.
+8 (b) Pursuant to section 4-226, it is a defense that the spirituous
+9 liquor was consumed for a bona fide medicinal purpose and in a manner not
+10 dangerous to public health or safety.
+11 42. For an employee of a licensee to accept any gratuity,
+12 compensation, remuneration or consideration of any kind to either:
+13 (a) Allow a person who is under twenty-one years of age to enter
+14 any portion of the premises where that person is prohibited from entering
+15 pursuant to paragraph 22 of this section.
+16 (b) Sell, furnish, dispose of or give spirituous liquor to a person
+17 who is under twenty-one years of age.
+18 43. For a person to purchase, offer for sale or use any device,
+19 machine or process that mixes spirituous liquor with pure oxygen or
+20 another gas to produce a vaporized product for the purpose of consumption
+21 by inhalation or to allow patrons to use any item for the consumption of
+22 vaporized spirituous liquor.
+23 44. For a retail licensee or an employee of a retail licensee to
+24 sell spirituous liquor to a person if the retail licensee or employee
+25 knows the person intends to resell the spirituous liquor.
+26 45. Except as authorized by paragraph 32, subdivision (c) of this
+27 section, for a person to reuse a bottle or other container authorized for
+28 use by the laws of the United States or any agency of the United States
+29 for the packaging of distilled spirits or for a person to increase the
+30 original contents or a portion of the original contents remaining in a
+31 liquor bottle or other authorized container by adding any substance.
+32 46. For a direct shipment licensee, a farm winery licensee or an
+33 employee of those licensees to sell, dispose of, deliver or give
+34 spirituous liquor to an individual purchaser between the hours of
+35 2:00 a.m. and 6:00 a.m., except that a direct shipment licensee or a farm
+36 winery licensee may receive and process orders, accept payment, package,
+37 load or otherwise prepare wine for delivery at any time without complying
+38 with section 4-241, subsections A and K, if the actual deliveries to
+39 individual purchasers are made between the hours of 6:00 a.m. and
+40 2:00 a.m. and in accordance with section 4-203.04 for direct shipment
+41 licensees and section 4-205.04 for farm winery licensees.
+42 47. For a supplier to coerce or attempt to coerce a wholesaler to
+43 accept delivery of beer or any other commodity that has not been ordered
+44 by the wholesaler or for which the order was canceled. A supplier may
+45 impose reasonable inventory requirements on a wholesaler if the
+46 requirements are made in good faith and are generally applied to other
+47 similarly situated wholesalers that have an agreement with the supplier.
+-22-
+
+Senate Amendments to H.B. 4001
+1 48. FROM AND AFTER DECEMBER 31, 2027, FOR A RETAILER OF ALTERNATIVE
+2 NICOTINE PRODUCTS TO PURCHASE ALTERNATIVE NICOTINE PRODUCTS FROM AN
+3 UNLICENSED DISTRIBUTOR OF ALTERNATIVE NICOTINE PRODUCTS OR AN UNLICENSED
+4 MANUFACTURER OF ALTERNATIVE NICOTINE PRODUCTS.
+5 Sec. 7. Title 4, Arizona Revised Statutes, is amended by adding
+6 chapter 4, to read:
+7 CHAPTER 4
+8 ALTERNATIVE NICOTINE PRODUCTS
+9 ARTICLE 1. LICENSURE AND SALE OF
+10 ALTERNATIVE NICOTINE PRODUCTS
+11 4-401. Alternative nicotine products distributor license;
+12 fee; violation; classification
+13 A. FROM AND AFTER DECEMBER 31, 2027, A PERSON MAY NOT DISTRIBUTE
+14 ALTERNATIVE NICOTINE PRODUCTS FOR SALE IN THIS STATE WITHOUT A LICENSE
+15 ISSUED PURSUANT TO THIS SECTION. ALTERNATIVE NICOTINE PRODUCTS OFFERED
+16 FOR SALE IN THIS STATE SHALL ONLY BE PROVIDED BY A MANUFACTURER THAT IS
+17 LICENSED PURSUANT TO SECTION 4-402 AND ALL OF THE FOLLOWING REQUIREMENTS
+18 APPLY:
+19 1. A DISTRIBUTOR OF ALTERNATIVE NICOTINE PRODUCTS MAY PURCHASE
+20 ALTERNATIVE NICOTINE PRODUCTS ONLY FROM A DISTRIBUTOR THAT IS LICENSED
+21 PURSUANT TO THIS SECTION OR FROM A MANUFACTURER THAT IS LICENSED PURSUANT
+22 TO SECTION 4-402. A DISTRIBUTOR OF ALTERNATIVE NICOTINE PRODUCTS SHALL
+23 VERIFY THAT THE DISTRIBUTOR OR MANUFACTURER HAS A VALID LICENSE ISSUED
+24 PURSUANT TO THIS SECTION OR SECTION 4-402 AND SHALL OBTAIN PROOF THAT THE
+25 DISTRIBUTOR OR MANUFACTURER HAS A VALID LICENSE BEFORE PURCHASING
+26 ALTERNATIVE NICOTINE PRODUCTS FROM THE DISTRIBUTOR OR MANUFACTURER.
+27 2. A DISTRIBUTOR OF ALTERNATIVE NICOTINE PRODUCTS SHALL MAINTAIN
+28 DOCUMENTATION AT THE DISTRIBUTOR'S FACILITY FOR EACH TRANSACTION THAT
+29 INVOLVES THE SALE, PURCHASE, TRANSFER OR RECEIPT OF ALTERNATIVE NICOTINE
+30 PRODUCTS.
+31 3. ALL ALTERNATIVE NICOTINE PRODUCTS THAT ARE HELD OR STORED FOR
+32 SALE OR DISTRIBUTION IN THIS STATE BY OR ON BEHALF OF A RETAILER [OF
+33 ALTERNATIVE NICOTINE PRODUCTS] SHALL BE ACCESSIBLE TO THE DEPARTMENT AND
+34 OTHER LAW ENFORCEMENT OFFICERS DURING NORMAL BUSINESS HOURS WITHOUT A
+35 JUDICIAL WARRANT OR PRIOR WRITTEN CONSENT OF THE DISTRIBUTOR.
+36 4. ALTERNATIVE NICOTINE PRODUCTS THAT ARE SOLD OR OFFERED FOR SALE
+37 IN VIOLATION OF THIS SECTION ARE DEEMED CONTRABAND AND SUBJECT TO SEIZURE
+38 AND DESTRUCTION OR DISPOSAL.
+39 B. A PERSON DESIRING A LICENSE TO DISTRIBUTE ALTERNATIVE NICOTINE
+40 PRODUCTS FOR SALE IN THIS STATE SHALL APPLY TO THE DIRECTOR ON A FORM
+41 PRESCRIBED BY THE DIRECTOR. THE APPLICATION MUST REQUIRE ALL OF THE
+42 FOLLOWING INFORMATION:
+43 1. THE APPLICANT'S DISTRIBUTION BUSINESS ADDRESS, TELEPHONE NUMBER,
+44 EMAIL ADDRESS AND, IF THE APPLICANT IS AN ENTITY, THE NAME OF THE SENIOR
+45 OFFICER.
+46 2. PROOF OF LIABILITY INSURANCE COVERAGE.
+-23-
+
+Senate Amendments to H.B. 4001
+1 3. A COPY OF THE REGISTRATION FORM PROVIDED BY THE UNITED STATES
+2 BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES AS PROOF OF THE
+3 APPLICANT'S COMPLIANCE WITH THE PREVENT ALL CIGARETTE TRAFFICKING ACT OF
+4 2009 (P.L. 111-154; 124 STAT. 1087; 15 UNITED STATES CODE SECTION 376a).
+5 C. THE DIRECTOR MAY ESTABLISH A FEE FOR A LICENSE ISSUED PURSUANT
+6 TO THIS SECTION. A LICENSE THAT IS ISSUED PURSUANT TO THIS SECTION IS
+7 VALID FOR TWO YEARS.
+8 D. A LICENSE TO DISTRIBUTE ALTERNATIVE NICOTINE PRODUCTS THAT ARE
+9 FOR SALE IN THIS STATE IS NOT TRANSFERABLE. A LICENSEE SHALL REPORT ANY
+10 CHANGE IN OWNERSHIP OF THE BUSINESS OF THE LICENSEE, DIRECTLY OR
+11 INDIRECTLY, AS DEFINED BY RULE, TO THE DIRECTOR WITHIN THIRTY DAYS AFTER
+12 THE CHANGE IN OWNERSHIP.
+13 E. A LICENSE TO DISTRIBUTE ALTERNATIVE NICOTINE PRODUCTS ISSUED
+14 PURSUANT TO THIS SECTION MAY NOT BE LEASED OR SUBLEASED.
+15 F. A PERSON THAT DISTRIBUTES ALTERNATIVE NICOTINE PRODUCTS FOR SALE
+16 IN THIS STATE WITHOUT A LICENSE AS REQUIRED BY THIS SECTION IS GUILTY OF A
+17 CLASS 5 FELONY AND:
+18 1. SHALL PAY A FINE OF AT LEAST $10,000.
+19 2. IS PROHIBITED FROM SELLING, GIVING OR FURNISHING ALTERNATIVE
+20 NICOTINE PRODUCTS FOR A PERIOD OF ONE YEAR.
+21 3. IS SUBJECT TO ANY OTHER PUNISHMENT DEEMED APPROPRIATE BY THE
+22 [DIRECTOR] [COURT].
+23 4-402. Alternative nicotine products manufacturer license;
+24 fee; audit; violation; classification
+25 A. FROM AND AFTER DECEMBER 31, 2027, A PERSON MAY NOT MANUFACTURE
+26 ALTERNATIVE NICOTINE PRODUCTS THAT ARE FOR SALE IN THIS STATE WITHOUT A
+27 LICENSE ISSUED PURSUANT TO THIS SECTION AND ALL OF THE FOLLOWING
+28 REQUIREMENTS APPLY:
+29 1. A MANUFACTURER MAY SELL ALTERNATIVE NICOTINE PRODUCTS ONLY TO A
+30 DISTRIBUTOR THAT IS LICENSED PURSUANT TO SECTION 4-401. A MANUFACTURER
+31 SHALL VERIFY THAT THE DISTRIBUTOR HOLDS A VALID LICENSE ISSUED PURSUANT TO
+32 SECTION 4-401 AND SHALL OBTAIN PROOF OF A VALID LICENSE BEFORE SELLING
+33 ALTERNATIVE NICOTINE PRODUCTS TO THE DISTRIBUTOR.
+34 2. A MANUFACTURER THAT IS LICENSED PURSUANT TO THIS SECTION MAY
+35 SELL ALTERNATIVE NICOTINE PRODUCTS TO A RETAILER [OF ALTERNATIVE NICOTINE
+36 PRODUCTS] IN THIS STATE THAT HOLDS A VALID TRANSACTION PRIVILEGE TAX
+37 LICENSE.
+38 3. A MANUFACTURER OF ALTERNATIVE NICOTINE PRODUCTS SHALL MAINTAIN
+39 DOCUMENTATION AT THE MANUFACTURER'S FACILITY FOR EACH TRANSACTION THAT
+40 INVOLVES THE SALE, PURCHASE, TRANSFER OR RECEIPT OF ALTERNATIVE NICOTINE
+41 PRODUCTS.
+42 4. ALL ALTERNATIVE NICOTINE PRODUCTS THAT ARE HELD OR STORED FOR
+43 SALE OR DISTRIBUTION IN THIS STATE BY OR ON BEHALF OF A DISTRIBUTOR OR
+44 RETAILER [OF ALTERNATIVE NICOTINE PRODUCTS] SHALL BE ACCESSIBLE TO THE
+45 DEPARTMENT AND OTHER LAW ENFORCEMENT OFFICERS DURING NORMAL BUSINESS HOURS
+46 WITHOUT A JUDICIAL WARRANT OR PRIOR WRITTEN CONSENT OF THE MANUFACTURER.
+-24-
+
+Senate Amendments to H.B. 4001
+1 5. ALTERNATIVE NICOTINE PRODUCTS THAT ARE SOLD OR OFFERED FOR SALE
+2 IN VIOLATION OF THIS SECTION ARE DEEMED CONTRABAND AND SUBJECT TO SEIZURE
+3 AND DESTRUCTION OR DISPOSAL.
+4 B. A PERSON DESIRING A LICENSE TO MANUFACTURE ALTERNATIVE NICOTINE
+5 PRODUCTS THAT ARE FOR SALE IN THIS STATE SHALL APPLY TO THE DIRECTOR ON A
+6 FORM FURNISHED BY THE DIRECTOR. THE APPLICANT SHALL PROVIDE ALL OF THE
+7 FOLLOWING:
+8 1. THE APPLICANT'S MANUFACTURING BUSINESS ADDRESS, TELEPHONE
+9 NUMBER, EMAIL ADDRESS AND, IF THE APPLICANT IS AN ENTITY, THE NAME OF THE
+10 SENIOR OFFICER.
+11 2. PROOF OF MANUFACTURING LIABILITY INSURANCE COVERAGE.
+12 3. PROOF OF THE APPLICANT'S COMPLIANCE WITH THE PREVENT ALL
+13 CIGARETTE TRAFFICKING ACT OF 2009 (P.L. 111-154; 124 STAT. 1087; 15 UNITED
+14 STATES CODE SECTION 376a).
+15 4. THE APPLICANT'S PRODUCT CATALOG OF ALTERNATIVE NICOTINE PRODUCTS
+16 THAT THE APPLICANT INTENDS TO MANUFACTURE AND THAT WILL BE FOR SALE IN
+17 THIS STATE. THE PRODUCT CATALOG SHALL INCLUDE ALL OF THE FOLLOWING:
+18 (a) THE ALTERNATIVE PRODUCT NAME, CATEGORY, NICOTINE STRENGTH AND
+19 FLAVORS.
+20 (b) A COPY OR IMAGE OF THE NICOTINE PRODUCT'S PACKAGING AND WARNING
+21 LABEL.
+22 (c) A TOXICOLOGY REPORT FOR THE NICOTINE PRODUCT, IF REQUESTED BY
+23 THE DEPARTMENT.
+24 C. THE DIRECTOR MAY ESTABLISH A FEE FOR A LICENSE ISSUED PURSUANT
+25 TO THIS SECTION. A LICENSE IS VALID FOR TWO YEARS.
+26 D. A LICENSEE SHALL PAY TO THE DEPARTMENT AN ANNUAL FEE FOR EACH
+27 STOCKKEEPING UNIT OF EACH ALTERNATIVE NICOTINE PRODUCT THAT THE LICENSEE
+28 WILL MANUFACTURE AND THAT ARE FOR SALE IN THIS STATE. THE DIRECTOR MAY
+29 DETERMINE THE ANNUAL STOCKKEEPING UNIT FEE THAT IS REQUIRED PURSUANT TO
+30 THIS SUBSECTION.
+31 E. A LICENSE TO MANUFACTURE ALTERNATIVE NICOTINE PRODUCTS THAT ARE
+32 FOR SALE IN THIS STATE IS NOT TRANSFERABLE. THE LICENSEE SHALL REPORT ANY
+33 CHANGE IN OWNERSHIP OF THE BUSINESS OF THE LICENSEE, DIRECTLY OR
+34 INDIRECTLY, AS DEFINED BY RULE, TO THE DIRECTOR WITHIN THIRTY DAYS AFTER
+35 THE CHANGE IN OWNERSHIP.
+36 F. A LICENSE TO MANUFACTURE ALTERNATIVE NICOTINE PRODUCTS MAY NOT
+37 BE LEASED OR SUBLEASED.
+38 G. THE DEPARTMENT MAY CONDUCT AN AUDIT TO ENSURE A MANUFACTURER
+39 THAT IS LICENSED PURSUANT TO THIS SECTION IS IN COMPLIANCE WITH THIS
+40 SECTION. THE DEPARTMENT MAY REQUEST A NOTARIZED ATTESTATION THAT THE
+41 MANUFACTURER'S PRODUCTS THAT ARE SOLD IN THIS STATE WERE IMPORTED IN
+42 CONFORMITY WITH ALL UNITED STATES CUSTOMS AND BORDER REQUIREMENTS, WHETHER
+43 THE NOTARIZED ATTESTATION WAS PROVIDED BY THE MANUFACTURER OR ANOTHER
+44 ENTITY. THE DEPARTMENT MAY REQUEST THAT THE MANUFACTURER PROVIDE ANY
+45 ADDITIONAL DOCUMENTATION THE DEPARTMENT DEEMS RELEVANT.
+-25-
+
+Senate Amendments to H.B. 4001
+1 H. A PERSON THAT MANUFACTURES ALTERNATIVE NICOTINE PRODUCTS FOR
+2 SALE IN THIS STATE WITHOUT A LICENSE AS REQUIRED BY THIS SECTION IS GUILTY
+3 OF A CLASS 5 FELONY AND:
+4 1. SHALL PAY A FINE OF AT LEAST $10,000.
+5 2. IS PROHIBITED FROM SELLING, GIVING OR FURNISHING ALTERNATIVE
+6 NICOTINE PRODUCTS FOR A PERIOD OF ONE YEAR.
+7 3. IS SUBJECT TO ANY OTHER PUNISHMENT DEEMED APPROPRIATE BY THE
+8 [DIRECTOR] [COURT].
+9 [4-403. Selling, delivering or giving of alternative nicotine
+10 products to underage persons; violations;
+11 classification
+12 A. EXCEPT AS PROVIDED IN SECTION 36-798.07, A RETAILER OR A
+13 RETAILER'S EMPLOYEE MAY NOT SELL ALTERNATIVE NICOTINE PRODUCTS TO A PERSON
+14 WHO IS UNDER TWENTY-ONE YEARS OF AGE.
+15 B. ON THE RECEIPT OF NOTICE OF A VIOLATION OF SUBSECTION A OF THIS
+16 SECTION, THE DIRECTOR SHALL PROVIDE NOTICE OF THE ALLEGED VIOLATION TO THE
+17 RETAILER WHO IS ALLEGED TO HAVE COMMITTED THE VIOLATION. AFTER A HEARING,
+18 IF A RETAILER IS FOUND TO HAVE COMMITTED A VIOLATION OF THIS SECTION, THE
+19 FOLLOWING PENALTIES APPLY:
+20 1. THE DIRECTOR SHALL ORDER A RETAILER THAT COMMITS A FIRST
+21 VIOLATION OF THIS SECTION TO ATTEND A DIRECTOR-APPROVED ALTERNATIVE
+22 NICOTINE PRODUCTS RETAILER EDUCATIONAL COURSE THAT HAS BEEN APPROVED BY
+23 THE DIRECTOR AND PAY A CIVIL PENALTY OF AT LEAST $500 BUT NOT MORE THAN
+24 $750.
+25 2. A RETAILER THAT COMMITS A SECOND VIOLATION OF THIS SECTION AT
+26 THE SAME LICENSED LOCATION WITHIN TWENTY-FOUR MONTHS IS GUILTY OF A CLASS
+27 3 MISDEMEANOR AND:
+28 (a) SHALL PAY A FINE OF AT LEAST $2,000 BUT NOT MORE THAN $3,000.
+29 (b) SHALL ATTEND A DIRECTOR-APPROVED ALTERNATIVE NICOTINE PRODUCTS
+30 RETAILER EDUCATIONAL COURSE.
+31 (c) IS SUBJECT TO ANY OTHER PUNISHMENT DEEMED APPROPRIATE BY THE
+32 DIRECTOR.
+33 3. A RETAILER THAT COMMITS A THIRD VIOLATION OF THIS SECTION AT THE
+34 SAME LICENSED LOCATION WITHIN TWENTY-FOUR MONTHS IS GUILTY OF A CLASS 1
+35 MISDEMEANOR AND:
+36 (a) SHALL PAY A CIVIL PENALTY OF AT LEAST $10,000.
+37 (b) SHALL ATTEND A DIRECTOR-APPROVED ALTERNATIVE NICOTINE PRODUCTS
+38 RETAILER EDUCATIONAL COURSE.
+39 (c) IS PROHIBITED FROM SELLING, GIVING OR FURNISHING ALTERNATIVE
+40 NICOTINE PRODUCTS FOR A PERIOD OF ONE HUNDRED TWENTY DAYS.
+41 (d) IS SUBJECT TO ANY OTHER PUNISHMENT DEEMED APPROPRIATE BY THE
+42 DIRECTOR.
+43 4. A RETAILER THAT COMMITS A FOURTH OR SUBSEQUENT VIOLATION OF THIS
+44 SECTION AT THE SAME LICENSED LOCATION WITHIN TWENTY-FOUR MONTHS IS GUILTY
+45 OF A CLASS 6 FELONY AND:
+46 (a) SHALL PAY A FINE OF AT LEAST $10,000.
+-26-
+
+Senate Amendments to H.B. 4001
+1 (b) SHALL ATTEND A DIRECTOR-APPROVED ALTERNATIVE NICOTINE PRODUCTS
+2 EDUCATIONAL COURSE.
+3 (c) IS PROHIBITED FROM SELLING, GIVING OR FURNISHING ALTERNATIVE
+4 NICOTINE PRODUCTS FOR A PERIOD OF ONE YEAR.
+5 (d) IS SUBJECT TO ANY OTHER PUNISHMENT DEEMED APPROPRIATE BY THE
+6 DIRECTOR.
+7 5. A RETAILER THAT COMMITS A FOURTH OR SUBSEQUENT VIOLATION OF THIS
+8 SECTION AT THE SAME LICENSED LOCATION WITHIN TWELVE MONTHS IS GUILTY OF A
+9 CLASS 5 FELONY AND:
+10 (a) SHALL PAY A FINE OF AT LEAST $10,000.
+11 (b) SHALL ATTEND A DIRECTOR-APPROVED ALTERNATIVE NICOTINE PRODUCT
+12 RETAILER EDUCATIONAL COURSE.
+13 (c) IS PROHIBITED FROM SELLING, GIVING OR FURNISHING ALTERNATIVE
+14 NICOTINE PRODUCTS FOR A PERIOD OF ONE YEAR.
+15 (d) IS SUBJECT TO ANY OTHER PUNISHMENT DEEMED APPROPRIATE BY THE
+16 DIRECTOR.
+17 C. IF THE DIRECTOR ORDERS A RETAILER TO ATTEND AN ALTERNATIVE
+18 NICOTINE PRODUCTS RETAILER EDUCATIONAL COURSE, EACH OWNER AND PERSON WHO
+19 SERVES IN A MANAGERIAL POSITION AND AT LEAST ONE PERSON WHO SERVES IN A
+20 NONMANAGERIAL POSITION SHALL ATTEND THE COURSE.
+21 D. THE DEPARTMENT MAY COORDINATE WITH APPROPRIATE LAW ENFORCEMENT
+22 AGENCIES TO ENFORCE THIS SECTION.
+23 E. A PERSON WHO SELLS ALTERNATIVE NICOTINE PRODUCTS IN VIOLATION OF
+24 THIS SECTION IS GUILTY OF A CLASS 5 FELONY AND:
+25 1. SHALL PAY A FINE OF AT LEAST $10,000.
+26 2. IS PROHIBITED FROM SELLING, GIVING OR FURNISHING ALTERNATIVE
+27 NICOTINE PRODUCTS FOR A PERIOD OF ONE YEAR.
+28 3. IS SUBJECT TO ANY OTHER PUNISHMENT DEEMED APPROPRIATE BY THE
+29 DIRECTOR.]
+30 [4-404] [4-403]. Alternative nicotine products marketing
+31 A. A LICENSEE MAY NOT MARKET, ADVERTISE, SELL OR CAUSE TO BE SOLD
+32 AN ALTERNATIVE NICOTINE PRODUCT IN A CONTAINER THAT DOES ANY OF THE
+33 FOLLOWING:
+34 1. DEPICTS A CARTOON-LIKE FICTIONAL CHARACTER THAT MIMICS A
+35 CHARACTER PRIMARILY AIMED AT ENTERTAINING.
+36 2. IMITATES OR MIMICS A TRADEMARK OR TRADE DRESS OF A PRODUCT THAT
+37 IS OR HAS BEEN PRIMARILY MARKETED TO MINORS.
+38 3. INCLUDES A SYMBOL THAT IS PRIMARILY USED TO MARKET PRODUCTS TO
+39 MINORS.
+40 4. INCLUDES AN IMAGE OR THE NAME OF A CELEBRITY.
+41 5. IS IN A PRODUCT SHAPE OR DESIGN THAT IS MEANT TO DISGUISE THE
+42 APPEARANCE OF THE ALTERNATIVE NICOTINE PRODUCT, INCLUDING THE SHAPE OR
+43 DESIGN [OR] [OF] ANY OF THE FOLLOWING:
+44 (a) A SCHOOL OR OFFICE SUPPLY.
+45 (b) A SMART PHONE, SMART WATCH OR SMART PHONE OR SMART WATCH CASE.
+46 (c) HEADPHONES OR EAR BUDS.
+47 (d) ANY ITEM OF CLOTHING.
+-27-
+
+Senate Amendments to H.B. 4001
+1 (e) A BACKPACK.
+2 (f) A COSMETIC OR COSMETIC CONTAINER.
+3 (g) A TOY OR VIDEO GAME DEVICE.
+4 (h) A FOOD OR BEVERAGE PRODUCT.
+5 B. ALTERNATIVE NICOTINE PRODUCTS SOLD OR OFFERED FOR SALE IN
+6 VIOLATION OF THIS SECTION ARE DEEMED CONTRABAND AND SUBJECT TO SEIZURE AND
+7 DESTRUCTION OR DISPOSAL.
+8 [4-405] [4-404]. Sale of alternative nicotine products;
+9 identification requirements
+10 A. IF A RETAILER [OF ALTERNATIVE NICOTINE PRODUCTS] OR ANY OTHER
+11 PERSON QUESTIONS OR HAS REASON TO QUESTION THAT THE PERSON PURCHASING,
+12 ATTEMPTING TO PURCHASE OR OTHERWISE PROCURING OR ATTEMPTING TO PROCURE AN
+13 ALTERNATIVE NICOTINE [PRODUCTS] [PRODUCT] IS UNDER TWENTY-ONE YEARS OF
+14 AGE, THE RETAILER [OF ALTERNATIVE NICOTINE PRODUCTS] OR OTHER PERSON SHALL
+15 DO ALL OF THE FOLLOWING:
+16 1. DEMAND IDENTIFICATION FROM THE PERSON.
+17 2. EXAMINE THE IDENTIFICATION TO DETERMINE THAT THE IDENTIFICATION
+18 REASONABLY APPEARS TO BE A VALID, UNALTERED IDENTIFICATION THAT HAS NOT
+19 BEEN DEFACED.
+20 3. EXAMINE THE PHOTOGRAPH IN THE IDENTIFICATION AND DETERMINE THAT
+21 THE PERSON REASONABLY APPEARS TO BE THE SAME PERSON IN THE IDENTIFICATION.
+22 4. DETERMINE THAT THE DATE OF BIRTH IN THE IDENTIFICATION INDICATES
+23 THE PERSON IS NOT UNDER TWENTY-ONE YEARS OF AGE.
+24 5. SCAN THE PERSON'S IDENTIFICATION USING AN ELECTRONIC SCANNING
+25 DEVICE.
+26 B. THE FOLLOWING WRITTEN INSTRUMENTS CONSTITUTE THE ONLY
+27 IDENTIFICATION THAT IS ACCEPTABLE UNDER SUBSECTION A OF THIS SECTION:
+28 1. AN UNEXPIRED DRIVER LICENSE ISSUED BY THIS STATE. A DRIVER
+29 LICENSE THAT IS ISSUED TO A PERSON WHO IS UNDER TWENTY-ONE YEARS OF AGE
+30 DOES NOT CONSTITUTE ACCEPTABLE IDENTIFICATION THIRTY DAYS AFTER THE PERSON
+31 REACHES TWENTY-ONE YEARS OF AGE.
+32 2. AN UNEXPIRED DRIVER LICENSE ISSUED BY ANY OTHER STATE, THE
+33 DISTRICT OF COLUMBIA, ANY TERRITORY OF THE UNITED STATES OR CANADA IF THE
+34 LICENSE INCLUDES A PICTURE OF THE PERSON AND THE PERSON'S DATE OF BIRTH.
+35 3. AN UNEXPIRED NONOPERATING IDENTIFICATION LICENSE ISSUED PURSUANT
+36 TO SECTION 28-3165. AN UNEXPIRED NONOPERATING IDENTIFICATION LICENSE THAT
+37 IS ISSUED TO A PERSON WHO IS UNDER TWENTY-ONE YEARS OF AGE DOES NOT
+38 CONSTITUTE ACCEPTABLE IDENTIFICATION THIRTY DAYS AFTER THE PERSON REACHES
+39 TWENTY-ONE YEARS OF AGE.
+40 4. A FORM OF IDENTIFICATION LICENSE ISSUED BY ANY OTHER STATE, THE
+41 DISTRICT OF COLUMBIA, ANY TERRITORY OF THE UNITED STATES OR CANADA IF THE
+42 LICENSE IS SUBSTANTIALLY EQUIVALENT TO A NONOPERATING IDENTIFICATION
+43 LICENSE ISSUED PURSUANT TO SECTION 28-3165 AND INCLUDES A PICTURE OF THE
+44 PERSON AND THE PERSON'S DATE OF BIRTH.
+45 5. AN UNEXPIRED ARMED FORCES IDENTIFICATION CARD THAT INCLUDES THE
+46 PERSON'S PICTURE AND DATE OF BIRTH.
+-28-
+
+Senate Amendments to H.B. 4001
+1 6. A VALID UNEXPIRED PASSPORT OR A VALID UNEXPIRED RESIDENT ALIEN
+2 CARD THAT CONTAINS A PHOTOGRAPH OF THE PERSON AND THE PERSON'S DATE OF
+3 BIRTH.
+4 Sec. 8. Section 13-3622, Arizona Revised Statutes, is amended to
+5 read:
+6 13-3622. Tobacco products, alternative nicotine products or
+7 tobacco and shisha instruments and paraphernalia;
+8 furnishing to underage persons; accepting,
+9 receiving or illegally obtaining by underage
+10 person; classification; definitions
+11 A. A person who knowingly sells, gives or furnishes a tobacco
+12 product, a vapor product [AN ALTERNATIVE NICOTINE PRODUCT] or any
+13 instrument or paraphernalia that is solely designed for smoking or
+14 ingesting tobacco PRODUCTS or shisha, including a hookah or waterpipe, to
+15 a person who is under twenty-one years of age is guilty of a petty
+16 offense.
+17 B. Except as provided in section 36-798.07, a person who is under
+18 twenty-one years of age and who buys, or has in the person's possession or
+19 knowingly accepts or receives from any person, a tobacco product, a vapor
+20 product [AN ALTERNATIVE NICOTINE PRODUCT] or any instrument or
+21 paraphernalia that is solely designed for smoking or ingesting tobacco
+22 PRODUCTS or shisha, including a hookah or waterpipe, is guilty of a petty
+23 offense, and if the offense involves any instrument or paraphernalia that
+24 is solely designed for smoking or ingesting tobacco PRODUCTS or shisha,
+25 shall pay a fine of at least $100 or perform at least thirty hours of
+26 community restitution.
+27 C. A person who is under twenty-one years of age AND who
+28 misrepresents the person's age to another person by means of a written
+29 instrument of identification with the intent to induce the other person to
+30 sell, give or furnish a tobacco product, a vapor product [AN ALTERNATIVE
+31 NICOTINE PRODUCT] or any instrument or paraphernalia that is solely
+32 designed for smoking or ingesting tobacco PRODUCTS or shisha, including a
+33 hookah or waterpipe, in violation of subsection A or B of this section is
+34 guilty of a petty offense and, notwithstanding section 13-802, shall pay a
+35 fine of not more than $500.
+36 D. NOTWITHSTANDING SECTIONS 13-802 AND 13-803, THE COURT SHALL
+37 ORDER A PERSON WHO COMMITS A VIOLATION OF THIS SECTION OR AN ENTERPRISE
+38 THAT COMMITS A FIRST VIOLATION OF THIS SECTION TO ATTEND A COURT-APPROVED
+39 TOBACCO RETAILER EDUCATIONAL COURSE AND PAY A FINE OF AT LEAST $500 BUT
+40 NOT MORE THAN $750.
+41 E. NOTWITHSTANDING SUBSECTION A OF THIS SECTION [AND SECTIONS
+42 13-802 AND 13-803]:
+43 1. AN ENTERPRISE THAT COMMITS A SECOND VIOLATION OF THIS SECTION AT
+44 THE SAME LOCATION WITHIN TWENTY-FOUR MONTHS IS GUILTY OF A CLASS 3
+45 MISDEMEANOR AND:
+46 (a) SHALL PAY A FINE OF AT LEAST $2,000 BUT NOT MORE THAN $3,000.
+-29-
+
+Senate Amendments to H.B. 4001
+1 (b) SHALL ATTEND A COURT-APPROVED TOBACCO RETAILER EDUCATIONAL
+2 COURSE.
+3 (c) IS SUBJECT TO ANY OTHER PUNISHMENT DEEMED APPROPRIATE BY THE
+4 COURT.
+5 2. AN ENTERPRISE THAT COMMITS A THIRD VIOLATION OF THIS SECTION AT
+6 THE SAME LOCATION WITHIN TWENTY-FOUR MONTHS IS GUILTY OF A CLASS 1
+7 MISDEMEANOR AND:
+8 (a) SHALL PAY A FINE OF AT LEAST $10,000.
+9 (b) SHALL ATTEND A COURT-APPROVED TOBACCO RETAILER EDUCATIONAL
+10 COURSE.
+11 (c) IS SUBJECT TO ANY OTHER PUNISHMENT DEEMED APPROPRIATE BY THE
+12 COURT.
+13 (d) IS PROHIBITED FROM SELLING, GIVING OR FURNISHING TOBACCO
+14 PRODUCTS FOR A PERIOD OF ONE HUNDRED TWENTY DAYS.
+15 3. AN ENTERPRISE THAT COMMITS A FOURTH OR SUBSEQUENT VIOLATION OF
+16 THIS SECTION AT THE SAME LOCATION WITHIN TWENTY-FOUR MONTHS IS GUILTY OF A
+17 CLASS 6 FELONY AND:
+18 (a) SHALL PAY A FINE OF AT LEAST $10,000.
+19 (b) SHALL ATTEND A COURT-APPROVED TOBACCO RETAILER EDUCATIONAL
+20 COURSE.
+21 (c) IS SUBJECT TO ANY OTHER PUNISHMENT DEEMED APPROPRIATE BY THE
+22 COURT.
+23 (d) IS PROHIBITED FROM SELLING, GIVING OR FURNISHING TOBACCO
+24 PRODUCTS FOR A PERIOD OF ONE YEAR.
+25 4. AN ENTERPRISE THAT COMMITS A FOURTH OR SUBSEQUENT VIOLATION OF
+26 THIS SECTION AT THE SAME LOCATION WITHIN TWELVE MONTHS IS GUILTY OF A
+27 CLASS 5 FELONY AND:
+28 (a) SHALL PAY A FINE OF AT LEAST $10,000.
+29 (b) SHALL ATTEND A COURT-APPROVED TOBACCO RETAILER EDUCATIONAL
+30 COURSE.
+31 (c) IS SUBJECT TO ANY OTHER PUNISHMENT DEEMED APPROPRIATE BY THE
+32 COURT.
+33 (d) IS PROHIBITED FROM SELLING, GIVING OR FURNISHING TOBACCO
+34 PRODUCTS FOR A PERIOD OF ONE YEAR.
+35 F. IF THE COURT ORDERS AN ENTERPRISE TO ATTEND A TOBACCO RETAILER
+36 EDUCATIONAL COURSE, EACH OWNER AND PERSON WHO SERVE IN MANAGERIAL
+37 POSITIONS AND AT LEAST ONE PERSON WHO SERVES IN A NONMANAGERIAL POSITION
+38 SHALL ATTEND THE COURSE.
+39 D. G. This section does not apply to any of the following:
+40 1. Cigars, cigarettes or cigarette papers, smoking or chewing
+41 tobacco or any instrument or paraphernalia that is solely designed for
+42 smoking or ingesting tobacco PRODUCTS or shisha, including a hookah or
+43 waterpipe, if it is used or intended to be used in connection with a bona
+44 fide practice of a religious belief and as an integral part of a religious
+45 or ceremonial exercise.
+46 2. Any instrument or paraphernalia that is solely designed for
+47 smoking or ingesting tobacco PRODUCTS or shisha, including a hookah or
+-30-
+
+Senate Amendments to H.B. 4001
+1 waterpipe, that is given to or possessed by a person who is under
+2 twenty-one years of age if the instrument or paraphernalia was a gift or
+3 souvenir and is not used or intended to be used by the person who is under
+4 twenty-one years of age to smoke or ingest tobacco PRODUCTS or shisha.
+5 E. H. For the purposes of this section:
+6 [1. "ALTERNATIVE NICOTINE PRODUCT" HAS THE SAME MEANING PRESCRIBED
+7 IN SECTION 4-101.
+8 2. "NICOTINE" HAS THE SAME MEANING PRESCRIBED IN SECTION 4-101.]
+9 [1.] [3.] "Shisha" includes any mixture of tobacco leaf and honey,
+10 molasses or dried fruit or any other sweetener.
+11 [2.] [4.] "Tobacco product" means any of the following:
+12 (a) Cigars.
+13 (b) Cigarettes.
+14 (c) Cigarette papers of any kind.
+15 (d) Smoking tobacco of any kind.
+16 (e) Chewing tobacco of any kind.
+17 3. "Vapor product":
+18 (a) Means a noncombustible tobacco-derived product containing
+19 nicotine that employs a mechanical heating element, battery or circuit,
+20 regardless of shape or size, that can be used to heat a liquid nicotine
+21 solution contained in cartridges.
+22 (b) Does not include any product that is regulated by the United
+23 States food and drug administration under chapter V of the federal food,
+24 drug, and cosmetic act.
+25 Sec. 9. Section 36-798.07, Arizona Revised Statutes, is amended to
+26 read:
+27 36-798.07. Possessing, accepting or receiving tobacco
+28 product, alternative nicotine product or tobacco
+29 or shisha instruments or paraphernalia; active
+30 military personnel under twenty-one years of
+31 age; definitions
+32 A. A person who is at least eighteen years of age may possess,
+33 accept, receive or use a tobacco product, [a vapor product,] AN
+34 ALTERNATIVE NICOTINE PRODUCT or any instrument or paraphernalia that is
+35 solely designed for smoking or ingesting A tobacco PRODUCT or shisha as
+36 defined in section 13-3622, including a hookah or waterpipe, only if all
+37 of the following apply:
+38 1. The person is currently serving as a member of the national
+39 guard, the United States armed forces reserves or the active component of
+40 the United States armed forces.
+41 2. The use or possession of the tobacco product, [THE vapor
+42 product,] THE ALTERNATIVE NICOTINE PRODUCT or any instrument or
+43 paraphernalia is allowed by the regulations and policies of the United
+44 States department of defense or the branch of the United States armed
+45 forces in which the person is serving.
+-31-
+
+Senate Amendments to H.B. 4001
+1 3. The person holds a valid military identification card that is
+2 issued by the United States department of defense or the branch of the
+3 United States armed forces in which the person is serving.
+4 B. This section does not apply to any person who is either:
+5 1. No longer serving as a member of the national guard, the United
+6 States armed forces reserves or the active component of the United States
+7 armed forces.
+8 2. Under eighteen years of age.
+9 C. FOR THE PURPOSES OF THIS SECTION:
+10 1. "ALTERNATIVE NICOTINE PRODUCT" HAS THE SAME MEANING PRESCRIBED
+11 IN SECTION 4-101.
+12 [2. "NICOTINE" HAS THE SAME MEANING PRESCRIBED IN SECTION 4-101.]
+13 [2.] [3.] "TOBACCO PRODUCT" HAS THE SAME MEANING PRESCRIBED IN
+14 SECTION 13-3622.
+15 Sec. 10. Effective date
+16 [A.] Sections 4-401 and 4-402, Arizona Revised Statutes, as added
+17 by this act, [become effective on the earlier of the following:
+18 1. From and after June 30, 2027 if the department of liquor
+19 licenses and control adopts rules to implement this act and the state
+20 liquor board determines that the compliance time frames are achievable.
+21 2. From and after December 31, 2027.
+22 B. The department of liquor licenses and control shall notify the
+23 director of the Arizona legislative council in writing on or before July
+24 1, 2027 if the requirements of subsection A, paragraph 1 of this section
+25 have been met] [are effective from and after December 31, 2027].
+26 Enroll and engross to conform
+27 Amend title to conform
+4001RAGE.docx
+03/24/2026
+05:01 PM
+C: NS
+130KPKTAU
+-32-

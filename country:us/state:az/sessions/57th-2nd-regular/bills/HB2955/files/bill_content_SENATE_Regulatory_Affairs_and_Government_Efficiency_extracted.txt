@@ -1,0 +1,534 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Regulatory Affairs and Government Efficiency
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Regulatory Affairs and Government Efficiency
+Second Regular Session H.B. 2955
+PROPOSED
+SENATE AMENDMENTS TO H.B. 2955
+(Reference to House engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 3-3433, Arizona Revised Statutes, is amended
+3 to read:
+4 3-3433. Standards for motor fuel; exceptions
+5 A. Except as provided in section 3-3434 and subsections C, D, E, F,
+6 G and K of this section, a retail seller or fleet owner shall not store,
+7 sell or expose or offer for sale any motor fuel, kerosene, oil or other
+8 liquid or gaseous fuel or lubricating oil, lubricant, mixtures of
+9 lubricants or other similar products if the product fails to meet the
+10 standards specified in this section and in the rules adopted by the
+11 associate director.
+12 B. A person shall not misrepresent the nature, origination,
+13 quality, grade or identity of any product specified in subsection A of
+14 this section or represent the nature, origination, quality, grade or
+15 identity of such product in any manner calculated or tending to mislead or
+16 in any way deceive. This subsection does not prohibit product origination
+17 disclaimer labeling on the retail dispenser.
+18 C. After consultation with the director of the department of
+19 environmental quality, the standards and test methods for motor fuels
+20 shall be established by the associate director of the division by rule.
+21 D. Maximum vapor pressure for gasoline that is supplied or sold by
+22 any person and that is intended as a final product for the fueling of
+23 motor vehicles in a county with a population of one million two hundred
+24 thousand or more persons and any portion of a county contained in area A
+25 shall be 9.0 pounds per square inch from and after September 30 through
+26 March 31 of each year. Fuel used in motor vehicles at a manufacturer's
+27 proving ground or a motor vehicle racing event is exempt from this
+28 subsection.
+
+Senate Amendments to H.B. 2955
+1 E. From and after September 30 through March 31 of each year, a
+2 person shall not supply or sell gasoline that exceeds the ASTM D4814 class
+3 A vapor pressure/distillation class ten volume percent evaporated
+4 distillation temperature.
+5 F. Maximum vapor pressure for gasoline that is supplied or sold by
+6 any person and that is intended as a final product for the fueling of
+7 motor vehicles in a county with a population of one million two hundred
+8 thousand persons or more and any portion of a county contained in area A
+9 shall be [7.0] [7.4] pounds per square inch from and after May 31 through
+10 September 30 of each year. Fuel used in motor vehicles at a
+11 manufacturer's proving ground or a motor vehicle racing event is exempt
+12 from this subsection.
+13 G. Exclusively for the purposes of transportation conformity and
+14 only if the administrator of the United States environmental protection
+15 agency fails to approve the applicable plan required pursuant to section
+16 49-406, maximum vapor pressure for gasoline that is supplied or sold by
+17 any person and that is intended as a final product for the fueling of
+18 motor vehicles in area B shall be ten pounds per square inch from and
+19 after September 30 through March 31 of each year. Fuel used in motor
+20 vehicles at a manufacturer's proving ground or a motor vehicle racing
+21 event is exempt from this subsection.
+22 H. Notwithstanding subsections D, F and G of this section, the
+23 associate director of the division in consultation with the director of
+24 the department of environmental quality shall approve alternate fuel
+25 control measures that are submitted by gasoline providers and that the
+26 director and the associate director determine will result in either of the
+27 following:
+28 1. Motor vehicle carbon monoxide emissions that are equal to or
+29 less than emissions that result under compliance with subsection D of this
+30 section and section 3-3492. In making this determination, the associate
+31 director of the division and the director of the department of
+32 environmental quality shall compare the emissions of the alternate fuel
+33 control measure with the emissions of a fuel with a maximum vapor pressure
+34 standard as prescribed by this section and with the minimum oxygen content
+35 or percentage by volume of ethanol as prescribed by section 3-3492.
+36 2. Motor vehicle non-methane hydrocarbon emissions that are equal
+37 to or less than the emissions that result under compliance with subsection
+38 F of this section. In making this determination, the associate director
+39 of the division and the director of the department of environmental
+40 quality shall compare the motor vehicle non-methane hydrocarbon emissions
+41 of the alternate fuel control measure with the motor vehicle non-methane
+42 hydrocarbon emissions of a fuel that complies with the maximum vapor
+43 pressure standard as prescribed by subsection F of this section.
+44 I. Any alternate fuel control measures that are approved shall not
+45 increase emissions of non-methane hydrocarbons, particulates, carbon
+46 monoxide or oxides of nitrogen. Alternate fuel control measures approved
+47 pursuant to subsection H of this section and this subsection may be used
+-2-
+
+Senate Amendments to H.B. 2955
+1 by any gasoline provider unless the approval is rescinded more than one
+2 hundred eighty days before the first day of a gasoline control
+3 period. Gasoline providers that use an approved alternate fuel control
+4 measure shall annually submit a compliance plan to the associate director
+5 [no] [NOT] later than sixty days before the first day of a gasoline
+6 control period.
+7 J. A person shall not sell or offer or expose for sale diesel fuel
+8 grade 1, 2 or 4 as defined in ASTM D975, biodiesel, biodiesel blends or
+9 biomass-based diesel or biomass-based diesel blends that contain sulfur in
+10 excess of fifteen parts per million. Locomotive and marine diesel fuel is
+11 exempt from this requirement if the fuel meets the requirements of 40 Code
+12 of Federal Regulations section 80.513(g) and (h).
+13 K. A person shall label dispensers at which biodiesel, biodiesel
+14 blends, biomass-based diesel or biomass-based diesel blends are dispensed
+15 in conformance with 16 Code of Federal Regulations part 306. This section
+16 does not preclude a person from labeling a dispenser that dispenses diesel
+17 fuel that contains up to five percent biodiesel or biomass-based diesel
+18 with a label that states "may contain up to five percent biodiesel" or
+19 "may contain up to five percent biomass-based diesel".
+20 L. For biodiesel blends that contain more than five percent by
+21 volume of biodiesel, a person shall prepare product transfer documents in
+22 a manner that notifies the transferee of the percent by volume of
+23 biodiesel in the product.
+24 M. The associate director shall adopt rules regarding the
+25 establishment and enforcement of all of the following:
+26 1. National or federal standards for individual biofuels and
+27 biofuel blends.
+28 2. United States environmental protection agency and ASTM test
+29 methods for individual biofuels and biofuel blends.
+30 3. Registration and reporting requirements for producers, blenders
+31 and suppliers of biofuels and biofuel blends.
+32 4. Labeling requirements for biofuels and biofuel blends other than
+33 biodiesel or biodiesel blends.
+34 5. Quality assurance and quality control programs for producers,
+35 blenders and suppliers of biofuels and biofuel blends addressing rack,
+36 batch or other blending.
+37 6. Requirements that the dispensing equipment meet appropriate
+38 UL ratings where available and applicable, that the equipment comply with
+39 rules adopted by the division relating to approval, installation and sale
+40 of devices and that the equipment be compatible with the products being
+41 dispensed.
+42 N. A biofuels or biofuel blends producer, blender, distributor,
+43 supplier or retail seller that is in compliance with this section and the
+44 rules adopted pursuant to this section is not liable to a consumer for any
+45 injuries or property damage related to a consumer who misfuels.
+46 O. If any person transfers custody or title of a diesel fuel or
+47 distillate, biodiesel, a biodiesel blend, biomass-based diesel or a
+-3-
+
+Senate Amendments to H.B. 2955
+1 biomass-based diesel blend, except if the fuel is dispensed into a motor
+2 vehicle or nonroad, locomotive or marine equipment, the transferor shall
+3 provide to the transferee product transfer documents that conform with 40
+4 Code of Federal Regulations section 80.590.
+5 P. If the transfer of a motor fuel is from a terminal, storage
+6 facility, or transmix facility, the product transfer documents shall
+7 contain the information prescribed in subsection O of this section. In
+8 addition, the fuel transporter shall ensure that the name and address of
+9 the final destination for the shipment, as prescribed by division rule,
+10 are included and that the product transfer documents accompany the
+11 shipment to its final destination.>>
+12 Sec. 2. Section 3-3493, Arizona Revised Statutes, as amended by
+13 Laws 2016, chapter 232, section 27, is amended to read:
+14 3-3493. Area A; fuel reformulation; rules
+15 A. All gasoline produced and shipped to or within this state and
+16 sold or offered for sale for use in motor vehicles in a county with a
+17 population of one million two hundred thousand or more persons and any
+18 portion of a county contained in area A, subject to an appropriate waiver
+19 granted by the administrator of the United States environmental protection
+20 agency pursuant to section 211(c)(4) of the clean air act as defined in
+21 section 49-401.01, shall comply with either of the following fuel
+22 reformulation options:
+23 1. A gasoline that meets standards for federal phase II
+24 reformulated gasoline, as provided in 40 Code of Federal Regulations
+25 section 80.41, paragraphs (e) through (h), in effect on January 1, 1999,
+26 except that the minimum oxygen content standard does not apply. The
+27 gasoline shall also meet the maximum vapor pressure requirements in
+28 section 3-3433, subsections D and F.
+29 2. California phase 2 reformulated gasoline, including alternative
+30 formulations allowed by the predictive model, as adopted by the California
+31 air resources board pursuant to California Code of Regulations title 13,
+32 sections 2261 through 2262.7 and 2265, in effect on January 1, 1997,
+33 except that the minimum oxygen content standard does not apply. The
+34 gasoline shall also meet the maximum vapor pressure requirements in
+35 section 3-3433, subsections D and F.
+36 A. FOR THE PERIOD BEGINNING FROM AND AFTER MARCH 31 THROUGH OCTOBER
+37 31 OF EACH YEAR, ALL GASOLINE PRODUCED AND SHIPPED TO OR WITHIN THIS STATE
+38 AND SOLD OR OFFERED FOR SALE FOR USE IN MOTOR VEHICLES IN A COUNTY WITH A
+39 POPULATION OF ONE MILLION TWO HUNDRED THOUSAND OR MORE PERSONS AND ANY
+40 PORTION OF A COUNTY CONTAINED IN AREA A, SUBJECT TO AN APPROPRIATE WAIVER
+41 GRANTED BY THE ADMINISTRATOR OF THE UNITED STATES ENVIRONMENTAL PROTECTION
+42 AGENCY PURSUANT TO SECTION 211(c)(4) OF THE CLEAN AIR ACT AS DEFINED IN
+43 SECTION 49-401.01, SHALL COMPLY WITH STANDARDS FOR [ASTM D4814 AND SHALL]
+44 [FEDERAL PHASE II REFORMULATED GASOLINE, AS PROVIDED IN 40 CODE OF FEDERAL
+45 REGULATIONS SECTION 1090.200, IN EFFECT ON JANUARY 1, 2021, AS MODIFIED
+46 TO] MEET THE MAXIMUM VAPOR PRESSURE REQUIREMENTS IN SECTION 3-3433,
+47 SUBSECTIONS D AND F.
+-4-
+
+Senate Amendments to H.B. 2955
+1 B. For the period beginning November 1 through March 31 of each
+2 year, all gasoline produced and shipped to or within this state and sold
+3 or offered for sale for use in motor vehicles in a county with a
+4 population of one million two hundred thousand or more persons and any
+5 portion of a county contained in area A, subject to an appropriate waiver
+6 granted by the administrator of the United States environmental protection
+7 agency pursuant to section 211(c)(4) of the clean air act as defined in
+8 section 49-401.01, shall comply with standards for California phase 2
+9 reformulated gasoline, including alternative formulations allowed by the
+10 predictive model, as adopted by the California air resources board
+11 pursuant to California Code of Regulations title 13, sections 2261 through
+12 2262.7 and 2265, in effect on January 1, 1997 and shall meet the maximum
+13 vapor pressure requirements in section 3-3433, subsections D and F. The
+14 fuel described in this subsection shall meet the requirements of section
+15 3-3492, subsection A, paragraph 1.
+16 C. Any registered supplier or oxygenate blender, as defined in
+17 division rules, may petition the associate director to request that all
+18 registered suppliers or oxygenate blenders be allowed to comply with
+19 standards other than the standards prescribed by THIS SECTION OR section
+20 3-3492, subsection A if the petitioner can demonstrate that THE
+21 PETITIONER'S ABILITY TO SUPPLY ethanol supply shortages are OR GASOLINE
+22 MEETING THE SPECIFICATIONS OF SUBSECTION A OR B OF THIS SECTION IS IN
+23 imminent DANGER AND MAY RESULT IN SUPPLY SHORTAGES OF ETHANOL AND GASOLINE
+24 IN AREA A.
+25 D. The petition shall:
+26 1. Identify specific supply conditions that will result in a
+27 shortage of ethanol.
+28 1. FOR OXYGENATE SHORTAGES:
+29 2. (a) Identify which oxygenate or oxygenates and the
+30 concentration that will be blended into gasoline BY THE PETITIONER for
+31 sale or use in area A.
+32 3. (b) Demonstrate that the alternative oxygenate blend comes
+33 closest to meeting a three and one-half percent by weight oxygen content
+34 at reasonable cost, unless the registered supplier or oxygenate blender is
+35 petitioning to use a gasoline-ethanol blend containing less than ten
+36 percent by volume of ethanol.
+37 2. FOR GASOLINE SHORTAGES, IDENTIFY THE FORMULATION OF GASOLINE
+38 THAT THE PETITIONER WILL SELL IN LIEU OF GASOLINE MEETING THE STANDARDS IN
+39 SUBSECTION A OR B OF THIS SECTION.
+40 4. 3. Specify a PROJECTED time period for compliance with any
+41 provision of THIS SECTION AND section 3-3492, subsection A, not to exceed
+42 sixty days.
+43 E. The associate director shall either grant or deny the petition
+44 in writing within seven days of its receipt. Any decision by the
+45 associate director to grant the petition shall be equally applicable to
+46 all registered suppliers or oxygenate blenders and shall not be
+47 selectively applied to any single registered supplier or oxygenate
+-5-
+
+Senate Amendments to H.B. 2955
+1 blender. The petition may be granted only if the associate director
+2 verifies that the basis for requesting the petition is factual.
+3 F. The associate director may reauthorize a petition if the
+4 petitioner can demonstrate that the conditions have continued. The
+5 reauthorization of a petition shall not exceed thirty days.
+6 G. The associate director of the division shall consult with the
+7 director of the department of environmental quality before granting,
+8 reauthorizing or denying any such petition.
+9 H. The ASSOCIATE director, of environmental quality in consultation
+10 with the associate director of the division DEPARTMENT OF ENVIRONMENTAL
+11 QUALITY, shall adopt by rule:
+12 1. Requirements to implement subsections A, B, C and D of this
+13 section.
+14 2. Requirements for recordkeeping, reporting and analytical methods
+15 for fuel providers to demonstrate compliance with subsections A, B, C and
+16 D of this section.
+17 I. This section does not apply to fuel sold for use at a motor
+18 vehicle manufacturer proving ground or at a motor vehicle racing event.
+19 Sec. 3. Section 3-3493, Arizona Revised Statutes, as amended by
+20 Laws 2017, chapter 295, section 2, is amended to read:
+21 3-3493. Area A; fuel reformulation; rules
+22 A. All gasoline produced and shipped to or within this state and
+23 sold or offered for sale for use in motor vehicles in a county with a
+24 population of one million two hundred thousand or more persons and any
+25 portion of a county contained in area A, subject to an appropriate waiver
+26 granted by the administrator of the United States environmental protection
+27 agency pursuant to section 211(c)(4) of the clean air act as defined in
+28 section 49-401.01, shall comply with either of the following fuel
+29 reformulation options:
+30 1. A gasoline that meets standards for federal phase II
+31 reformulated gasoline, as provided in 40 Code of Federal Regulations
+32 section 80.41, paragraphs (e) through (h), in effect on January 1, 1999,
+33 except that the minimum oxygen content standard does not apply. The
+34 gasoline shall also meet the maximum vapor pressure requirements in
+35 section 3-3433, subsections D and F.
+36 2. California phase 2 reformulated gasoline, including alternative
+37 formulations allowed by the predictive model, as adopted by the California
+38 air resources board pursuant to California Code of Regulations title 13,
+39 sections 2261 through 2262.7 and 2265, in effect on January 1, 1997,
+40 except that the minimum oxygen content standard does not apply. The
+41 gasoline shall also meet the maximum vapor pressure requirements in
+42 section 3-3433, subsections D and F.
+43 A. FOR THE PERIOD BEGINNING FROM AND AFTER MARCH 31 THROUGH OCTOBER
+44 31 OF EACH YEAR, ALL GASOLINE PRODUCED AND SHIPPED TO OR WITHIN THIS STATE
+45 AND SOLD OR OFFERED FOR SALE FOR USE IN MOTOR VEHICLES IN A COUNTY WITH A
+46 POPULATION OF ONE MILLION TWO HUNDRED THOUSAND OR MORE PERSONS AND ANY
+47 PORTION OF A COUNTY CONTAINED IN AREA A, SUBJECT TO AN APPROPRIATE WAIVER
+-6-
+
+Senate Amendments to H.B. 2955
+1 GRANTED BY THE ADMINISTRATOR OF THE UNITED STATES ENVIRONMENTAL PROTECTION
+2 AGENCY PURSUANT TO SECTION 211(c)(4) OF THE CLEAN AIR ACT AS DEFINED IN
+3 SECTION 49-401.01, SHALL COMPLY WITH STANDARDS [FOR ASTM D4814 AND SHALL]
+4 [FEDERAL PHASE II REFORMULATED GASOLINE, AS PROVIDED IN 40 CODE OF FEDERAL
+5 REGULATIONS SECTION 1090.200, IN EFFECT ON JANUARY 1, 2021, AS MODIFIED
+6 TO] MEET THE MAXIMUM VAPOR PRESSURE REQUIREMENTS IN SECTION 3-3433,
+7 SUBSECTIONS D AND F.
+8 B. For the period beginning November 1 through March 31 of each
+9 year, all gasoline produced and shipped to or within this state and sold
+10 or offered for sale for use in motor vehicles in a county with a
+11 population of one million two hundred thousand or more persons and any
+12 portion of a county contained in area A, subject to an appropriate waiver
+13 granted by the administrator of the United States environmental protection
+14 agency pursuant to section 211(c)(4) of the clean air act as defined in
+15 section 49-401.01, shall comply with standards for California phase 2
+16 reformulated gasoline, including alternative formulations allowed by the
+17 predictive model, as adopted by the California air resources board
+18 pursuant to California Code of Regulations title 13, sections 2261 through
+19 2262.7 and 2265, in effect on January 1, 1997 and shall meet the maximum
+20 vapor pressure requirements in section 3-3433, subsections D and F. The
+21 fuel described in this subsection shall meet the requirements of section
+22 3-3492, subsection A, paragraph 1 or 2.
+23 C. Any registered supplier or oxygenate blender, as defined in
+24 division rules, may petition the associate director to request that all
+25 registered suppliers or oxygenate blenders be allowed to comply with
+26 standards other than the standards prescribed by THIS SECTION OR section
+27 3-3492, subsection A if the petitioner can demonstrate that THE
+28 PETITIONER'S ABILITY TO SUPPLY ethanol supply shortages are OR GASOLINE
+29 MEETING THE SPECIFICATIONS OF SUBSECTION A OR B OF THIS SECTION IS IN
+30 imminent DANGER AND MAY RESULT IN SUPPLY SHORTAGES OF ETHANOL AND GASOLINE
+31 IN AREA A.
+32 D. The petition shall:
+33 1. Identify specific supply conditions that will result in a
+34 shortage of ethanol.
+35 1. FOR OXYGENATE SHORTAGES:
+36 2. (a) Identify which oxygenate or oxygenates and the
+37 concentration that will be blended into gasoline BY THE PETITIONER for
+38 sale or use in area A.
+39 3. (b) Demonstrate that the alternative oxygenate blend comes
+40 closest to meeting a three and one-half percent by weight oxygen content
+41 at reasonable cost, unless the registered supplier or oxygenate blender is
+42 petitioning to use a gasoline-ethanol blend containing less than ten
+43 percent by volume of ethanol.
+44 2. FOR GASOLINE SHORTAGES, IDENTIFY THE FORMULATION OF GASOLINE
+45 THAT THE PETITIONER WILL SELL IN LIEU OF GASOLINE MEETING THE STANDARDS IN
+46 SUBSECTION A OR B OF THIS SECTION.
+-7-
+
+Senate Amendments to H.B. 2955
+1 4. 3. Specify a PROJECTED time period for compliance with any
+2 provision of THIS SECTION OR section 3-3492, subsection A, not to exceed
+3 sixty days.
+4 E. The associate director shall either grant or deny the petition
+5 in writing within seven days of its receipt. Any decision by the
+6 associate director to grant the petition shall be equally applicable to
+7 all registered suppliers or oxygenate blenders and shall not be
+8 selectively applied to any single registered supplier or oxygenate
+9 blender. The petition may be granted only if the associate director
+10 verifies that the basis for requesting the petition is factual.
+11 F. The associate director may reauthorize a petition if the
+12 petitioner can demonstrate that the conditions have continued. The
+13 reauthorization of a petition shall not exceed thirty days.
+14 G. The associate director of the division shall consult with the
+15 director of the department of environmental quality before granting,
+16 reauthorizing or denying any such petition.
+17 H. The ASSOCIATE director, of environmental quality in consultation
+18 with the associate director of the division DEPARTMENT OF ENVIRONMENTAL
+19 QUALITY, shall adopt by rule:
+20 1. Requirements to implement subsections A, B, C and D of this
+21 section.
+22 2. Requirements for recordkeeping, reporting and analytical methods
+23 for fuel providers to demonstrate compliance with subsections A, B, C
+24 and D of this section.
+25 I. This section does not apply to fuel sold for use at a motor
+26 vehicle manufacturer proving ground or at a motor vehicle racing event.
+27 Sec. 4. Section 3-3494, Arizona Revised Statutes, is amended to
+28 read:
+29 3-3494. Area C; fuel reformulation; rules
+30 A. From and after May 31 through September 30 of each year, all
+31 gasoline produced and shipped to or within this state and sold or offered
+32 for sale for use in motor vehicles in area C shall comply with either of
+33 the following fuel reformulation options:
+34 1. A gasoline that meets standards for federal phase II
+35 reformulated gasoline, as provided in 40 Code of Federal Regulations
+36 section 80.41, paragraphs (e) through (h), in effect on January 1, 1999,
+37 except that the minimum oxygen content standard does not apply. The
+38 gasoline shall also meet the maximum vapor pressure requirements in
+39 section 3-3434, subsection D.
+40 2. California phase 2 reformulated gasoline, including alternative
+41 formulations allowed by the predictive model, as adopted by the California
+42 air resources board pursuant to California Code of Regulations title 13,
+43 sections 2261 through 2262.7 and 2265, in effect on January 1, 1997,
+44 except that the minimum oxygen content standard does not apply. The
+45 gasoline shall also meet the maximum vapor pressure requirements in
+46 section 3-3434, subsection D.
+-8-
+
+Senate Amendments to H.B. 2955
+1 A. FOR THE PERIOD BEGINNING FROM AND AFTER MARCH 31 THROUGH OCTOBER
+2 31 OF EACH YEAR, ALL GASOLINE PRODUCED AND SHIPPED TO OR WITHIN THIS STATE
+3 AND SOLD OR OFFERED FOR SALE FOR USE IN MOTOR VEHICLES IN AREA C, SUBJECT
+4 TO AN APPROPRIATE WAIVER GRANTED BY THE ADMINISTRATOR OF THE UNITED STATES
+5 ENVIRONMENTAL PROTECTION AGENCY PURSUANT TO SECTION 211(c)(4) OF THE CLEAN
+6 AIR ACT AS DEFINED IN SECTION 49-401.01, SHALL COMPLY WITH STANDARDS FOR
+7 [ASTM D4814 AND SHALL] [FEDERAL PHASE II REFORMULATED GASOLINE, AS
+8 PROVIDED IN 40 CODE OF FEDERAL REGULATIONS SECTION 1090.200, IN EFFECT ON
+9 JANUARY 1, 2021, AS MODIFIED TO] MEET THE MAXIMUM VAPOR PRESSURE
+10 REQUIREMENTS IN SECTION 3-3433, SUBSECTION D.
+11 B. Any registered supplier or oxygenate blender, as defined in
+12 division rules, may petition the associate director to request that all
+13 registered suppliers or oxygenate blenders be allowed to supply gasoline
+14 in area C that does not meet the standards in subsection A of this section
+15 if the petitioner demonstrates that a shortage in the PETITIONER'S ABILITY
+16 TO supply of gasoline meeting the standards in subsection A of this
+17 section is IN imminent DANGER AND MAY RESULT IN SUPPLY SHORTAGES OF
+18 GASOLINE IN AREA C.
+19 C. A petition under subsection B of this section shall:
+20 1. Identify specific supply conditions that will result in a
+21 shortage of gasoline meeting the standards in subsection A of this
+22 section.
+23 2. 1. Identify the formulation of gasoline that THE PETITIONER
+24 will be sold SELL in area C in lieu of gasoline meeting the standards in
+25 subsection A of this section.
+26 3. 2. Specify a PROJECTED time period for compliance with the
+27 standards of subsection A of this section not to exceed sixty days.
+28 D. The associate director shall either grant or deny a petition
+29 under subsection B of this section in writing within seven days of its
+30 receipt. Any decision by the associate director to grant the petition
+31 shall be equally applicable to all registered suppliers or oxygenate
+32 blenders and shall not be selectively applied to any single registered
+33 supplier or oxygenate blender. The petition may be granted only if the
+34 associate director verifies that the basis for requesting the petition is
+35 factual.
+36 E. The associate director may reauthorize a petition granted under
+37 subsection B of this section if the petitioner demonstrates that the
+38 conditions identified in the petition have continued. The reauthorization
+39 of a petition shall not exceed thirty days.
+40 F. The associate director of the division shall consult with the
+41 director of the department of environmental quality before granting,
+42 reauthorizing or denying any petition under subsection B of this section.
+43 G. The associate director, in consultation with the director of the
+44 department of environmental quality, shall adopt by rule:
+45 1. Requirements to implement subsections A, B and C of this
+46 section.
+-9-
+
+Senate Amendments to H.B. 2955
+1 2. Requirements for recordkeeping, reporting and analytical methods
+2 for fuel providers to demonstrate compliance with subsection A of this
+3 section.
+4 H. This section does not apply to fuel sold for use at a motor
+5 vehicle manufacturer proving ground or at a motor vehicle racing event.
+6 <<Sec. 5. Department of environmental quality; fuel
+7 formulation; state implementation plan
+8 [A. Within nine months after the effective date of this act, the
+9 governor and the director of the department of environmental quality shall
+10 collaborate with the Maricopa association of governments to submit a
+11 revision to the state implementation plan for 2015 national ambient air
+12 quality standards eight-hour ozone nonattainment for the Maricopa
+13 nonattainment area that removes summer cleaner burning gasoline with a
+14 maximum vapor pressure of 7.0 pounds per square inch for the nonattainment
+15 areas of this state and replace it with federal reformulated gasoline with
+16 a maximum vapor pressure of 7.4 pounds per square inch. The revised state
+17 implementation plan may not make or proposes any other changes to the
+18 control measures in the state implementation plan.
+19 B. The governor and the director of the department of environmental
+20 quality shall include appropriate documentation with the revised state
+21 implementation plan to demonstrate that the requested revision specified
+22 meets all Appendix V and clean air act requirements for the Maricopa
+23 nonattainment area, including a demonstration showing that the revision
+24 will not increase eight-hour ground-level ozone levels in the Maricopa
+25 nonattainment area to seventy parts per billion or greater or that the
+26 revision will not otherwise interfere with the state's ability to attain
+27 or make reasonable further progress on any national ambient air quality
+28 standards under the clean air act. The governor and the director of the
+29 department of environmental quality shall request all necessary
+30 information from the Maricopa association of governments and the Maricopa
+31 association of governments shall provide all relevant supporting documents
+32 necessary for the governor and the director of the department of
+33 environmental quality to comply with this subsection.
+34 C. Unless more favorable parameters exist that would lead to the
+35 approval of the requested revision or the United States environmental
+36 protection agency requests additional information or the use of an
+37 alternative parameter that would lead to the approval of the requested
+38 revision, the emissions modeling and supporting documentation required
+39 pursuant this section shall use the same emissions modeling parameters
+40 that the Maricopa association of governments used in the 2025 clean air
+41 act section 179B(b) retrospective demonstration that the Maricopa
+42 association of governments submitted to the United States environmental
+43 protection agency in September 2025 that used average day emissions for
+44 2023 and ozone concentrations calculated as part per billions.]>>
+-10-
+
+Senate Amendments to H.B. 2955
+1 Sec. 6. Conditional enactment; notice
+2 [A. Section 3-3433, Arizona Revised Statutes, as amended by this
+3 act, does not become effective unless on or before July 1, 2030 the United
+4 States environmental protection agency approves the proposed modifications
+5 to the gasoline fuel formulation requirements as part of the state
+6 implementation plan for air quality.]
+7 [A.] [B.] Section 3-3493, Arizona Revised Statutes, as amended by
+8 Laws 2016, chapter 232, section 27 and this act, and section 3-3494,
+9 Arizona Revised Statutes, as amended by this act, do not become effective
+10 unless on or before July 1, 2030 the United States environmental
+11 protection agency approves the proposed modifications to the gasoline fuel
+12 formulation requirements as part of the state implementation plan for air
+13 quality.
+14 [B.] [C.] Section 3-3493, Arizona Revised Statutes, as amended by
+15 Laws 2017, chapter 295, section 2 and this act, does not become effective
+16 unless the condition prescribed by Laws 2017, chapter 295, section 3, as
+17 amended by Laws 2022, chapter 177, section 12 and Laws 2024, chapter 70,
+18 section 1, is met and on or before July 1, 2030 the United States
+19 environmental protection agency approves the proposed modifications to the
+20 gasoline fuel formulation requirements as part of the state implementation
+21 plan for air quality.
+22 [C.] [D.] The director of the department of environmental quality
+23 shall notify in writing the director of the Arizona legislative council on
+24 or before October 1, 2030 either:
+25 1. Of the date on which the condition prescribed by subsection A[,]
+26 [or] B [or C] of this section was met.
+27 2. That neither condition was met.
+28 Enroll and engross to conform
+29 Amend title to conform
+SHAWNNA BOLICK
+2955BOLICK.docx
+03/24/2026
+10:31 AM
+C: CT
+130KDTYSK
+-11-

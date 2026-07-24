@@ -1,0 +1,412 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to ED - Gress - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2379: school district governing boards; training
+GRESS FLOOR AMENDMENT
+1. Specifies each school district governing board (governing board) member must
+undergo a total of at least eight hours of instruction on school finance, including
+how the specified topics relate to school finance.
+2. Sets October 1 as the date by which each governing board member must notify
+the county school superintendent that they completed the required training.
+3. Requires, by November 1, each county school superintendent to:
+a. compile the notifications received from the governing board members; and
+b. submit a report to the State Board of Education (SBE) that indicates
+whether each governing board member completed the required training.
+4. Instructs SBE to submit a compiled report to specified individuals by
+December 1 that indicates whether each governing board member completed
+the required training.
+5. Removes language that makes a governing board member ineligible to be a
+candidate for nomination, election or appointment to any governing board if
+the county school superintendent determines the governing board member has
+failed to complete the required training.
+6. Makes a governing board member who fails to complete the required training
+ineligible to be a candidate for nomination, election or appointment to any
+governing board if they:
+a. were not appointed during the current term; and
+b. are a member of the governing board of a school district that is identified
+by the Auditor General (OAG) as one of the highest risk school districts.
+7. Removes the requirement for the Arizona Department of Education (ADE) to
+consult with the OAG when developing the training program.
+8. Allows ADE, if the OAG disapproves an ADE training program, to submit the
+training program to the Joint Legislative Audit Committee (JLAC) for review
+and approval.
+9. Requires JLAC to hear and approve or disapprove the training program at its
+first regular meeting after the training program is submitted.
+10. Allows ADE to provide the training program to any governing board member
+without approval from the OAG if JLAC approves the training program by a
+majority vote.
+CH
+2/25/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Gress
+Second Regular Session H.B. 2379
+GRESS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2379
+(Reference to EDUCATION Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 15-302, Arizona Revised Statutes, is amended to
+3 read:
+4 15-302. Powers and duties
+5 A. The county school superintendent shall:
+6 1. Distribute all laws, reports, circulars, instructions and forms
+7 that the county school superintendent may receive for the use of school
+8 officers.
+9 2. Record all official acts.
+10 3. Appoint governing board members of school districts to fill all
+11 vacancies, but the term of the appointment shall be until the next regular
+12 election for governing board members, at which time a successor shall be
+13 elected to serve the unexpired portion of the term. A person who is
+14 subject to registration as a sex offender in this state or in any other
+
+House Amendments to H.B. 2379
+1 jurisdiction is ineligible for appointment under this paragraph. Within
+2 thirty days after notification of a vacancy, the school district governing
+3 board may submit up to three names to the county school superintendent for
+4 consideration of an appointment to fill the vacancy. The county school
+5 superintendent is not required to appoint a governing board member from
+6 the list of names submitted by the governing board. The county school
+7 superintendent, if the county school superintendent deems it in the best
+8 interest of the community, may call a special election to fill the
+9 vacancies. If an election is called, the newly elected member shall serve
+10 for the remainder of the unexpired portion of the term. A PERSON IS
+11 INELIGIBLE FOR APPOINTMENT UNDER THIS PARAGRAPH IF EITHER OF THE FOLLOWING
+12 APPLIES:
+13 (a) THE PERSON IS SUBJECT TO REGISTRATION AS A SEX OFFENDER IN THIS
+14 STATE OR IN ANY OTHER JURISDICTION.
+15 (b) THE PERSON IS INELIGIBLE TO BE A CANDIDATE FOR APPOINTMENT TO
+16 THE OFFICE OF SCHOOL DISTRICT GOVERNING BOARD MEMBER PURSUANT TO SECTION
+17 15-349, SUBSECTION E.
+18 4. Make reports, when directed by the superintendent of public
+19 instruction, showing matters relating to schools in the county as may be
+20 required on the forms furnished by the superintendent of public
+21 instruction.
+22 5. Have such powers and perform such duties as otherwise prescribed
+23 by law.
+24 6. On or before October 1 of each year, report to the
+25 superintendent of public instruction the amount of monies received from
+26 state school funds, special school district taxes and other sources, the
+27 total expenditures for school purposes and the balance on hand to the
+28 credit of each school district at the close of the school year.
+29 7. Contract with the board of supervisors for the board of
+30 supervisors to conduct all regular school district elections.
+31 8. Be responsible, in cooperation with the school district
+32 governing boards and the board of supervisors, for all special school
+33 district elections.
+34 9. Maintain teacher and administrator certification records of
+35 effective dates and expiration dates of teachers' and administrators'
+36 certificates in compliance with guidelines prescribed in the uniform
+37 system of financial records for those school districts for which the
+38 county school superintendent is the fiscal agent. The county school
+39 superintendent shall not draw a warrant in payment of a teacher's,
+40 substitute teacher's or administrator's salary unless the teacher,
+41 substitute teacher or administrator is legally certified during the fiscal
+42 year in which the term for payment is demanded.
+43 10. Notify a school district three years before the expiration of a
+44 revenue control limit override that the school district's budget must be
+45 adjusted in the final two years of the override pursuant to section
+46 15-481, subsections P and Q, if the voters do not approve another
+47 override.
+-2-
+
+House Amendments to H.B. 2379
+1 11. In collaboration with the department of education and other
+2 state agencies, assist school districts, charter schools, county free
+3 library districts, municipal libraries, nonprofit and public libraries,
+4 tribal libraries, private schools and tribal schools on using student
+5 data, staff development, curriculum alignment and technology to improve
+6 student performance.
+7 12. Assist schools in meeting yearly adequate progress goals as
+8 defined by criteria established by the state board of education and
+9 implemented by the department of education.
+10 B. At the request of school districts and charter schools, the
+11 county school superintendent may provide discretionary programs in
+12 addition to the programs prescribed in subsection A of this section.
+13 C. The county school superintendent may:
+14 1. Provide the services prescribed in subsections A and B of this
+15 section in the county or jointly with two or more counties pursuant to
+16 title 11, chapter 7, article 3.
+17 2. Review the operations and finances, including expenditures, of
+18 any school district that is located in the county.
+19 D. Each county school superintendent may establish an advisory
+20 committee to the office of the county school superintendent.
+21 Sec. 2. Title 15, chapter 3, article 3, Arizona Revised Statutes,
+22 is amended by adding section 15-349, to read:
+23 15-349. Governing board members; biennial training
+24 requirements; annual reports; ineligibility;
+25 auditor general approval; joint legislative audit
+26 committee hearing and approval
+27 A. AT LEAST ONCE IN EVERY TWO-YEAR PERIOD, EACH GOVERNING BOARD
+28 MEMBER OF EACH SCHOOL DISTRICT IN THIS STATE SHALL COMPLETE A TRAINING
+29 PROGRAM THAT INCLUDES {{A TOTAL OF AT LEAST EIGHT HOURS OF}} INSTRUCTION
+30 ON {{SCHOOL FINANCE, INCLUDING HOW}} ALL OF THE FOLLOWING TOPICS {{RELATE
+31 TO SCHOOL FINANCE}}:
+32 1. SCHOOL DISTRICT GOVERNANCE.
+33 2. THE FIDUCIARY DUTIES OF SCHOOL DISTRICT GOVERNING BOARD MEMBERS.
+34 3. HOW TO DEVELOP, ADOPT AND IMPLEMENT SCHOOL DISTRICT GOVERNING
+35 BOARD POLICIES.
+36 4. COMMUNITY ENGAGEMENT AND COLLABORATION WITH STAKEHOLDERS.
+37 5. STUDENT OUTCOME-FOCUSED SCHOOL DISTRICT GOVERNANCE.
+38 6. THE LEGAL AND ETHICAL RESPONSIBILITIES OF SCHOOL DISTRICT
+39 GOVERNING BOARD MEMBERS.
+40 7. ANY OTHER PROFESSIONAL DEVELOPMENT TOPICS THAT ARE RELEVANT TO
+41 SERVICE AS A SCHOOL DISTRICT GOVERNING BOARD MEMBER.
+42 [C.] [B.] [A] [THE] COUNTY SCHOOL SUPERINTENDENT [MAY] [OF THE
+43 COUNTY IN WHICH A SCHOOL DISTRICT IS LOCATED OR, IF A SCHOOL DISTRICT IS
+44 LOCATED IN MORE THAN ONE COUNTY, THE COUNTY SCHOOL SUPERINTENDENT OF THE
+45 COUNTY IN WHICH A GOVERNING BOARD MEMBER RESIDES SHALL] PROVIDE A TRAINING
+46 PROGRAM THAT IS APPROVED BY THE AUDITOR GENERAL AND THAT MEETS THE
+47 REQUIREMENTS PRESCRIBED BY SUBSECTION A OF THIS SECTION FOR [THE SCHOOL
+-3-
+
+House Amendments to H.B. 2379
+1 DISTRICT] GOVERNING BOARD MEMBERS [OF ANY SCHOOL DISTRICT IN THIS STATE].
+2 [A COUNTY SCHOOL SUPERINTENDENT MAY ENTER INTO AN INTERGOVERNMENTAL
+3 AGREEMENT OR CONTRACT WITH ANOTHER COUNTY SCHOOL SUPERINTENDENT TO PROVIDE
+4 THE TRAINING PROGRAM THROUGH THE OTHER COUNTY SCHOOL SUPERINTENDENT'S
+5 OFFICE.]
+6 [B.] [C.] ON {{COMPLETING THE TRAINING REQUIRED BY SUBSECTION A OF
+7 THIS SECTION}} {{OR BEFORE OCTOBER 1, 2027 AND EVERY SECOND YEAR
+8 THEREAFTER}}, EACH SCHOOL DISTRICT GOVERNING BOARD MEMBER SHALL NOTIFY THE
+9 COUNTY SCHOOL SUPERINTENDENT OF THE COUNTY IN WHICH THE SCHOOL DISTRICT IS
+10 LOCATED THE DATE ON WHICH THE GOVERNING BOARD MEMBER COMPLETED THE
+11 TRAINING. IF THE SCHOOL DISTRICT IS LOCATED IN MORE THAN ONE COUNTY, THE
+12 GOVERNING BOARD MEMBER MAY NOTIFY THE COUNTY SCHOOL SUPERINTENDENT OF THE
+13 COUNTY IN WHICH THE GOVERNING BOARD MEMBER RESIDES. {{ON OR BEFORE
+14 NOVEMBER 1, 2027 AND EVERY SECOND YEAR THEREAFTER, EACH COUNTY SCHOOL
+15 SUPERINTENDENT SHALL COMPILE THE NOTIFICATIONS RECEIVED PURSUANT TO THIS
+16 SUBSECTION AND SUBMIT A REPORT TO THE STATE BOARD OF EDUCATION THAT
+17 INDICATES WHETHER EACH SCHOOL DISTRICT GOVERNING BOARD MEMBER COMPLETED
+18 THE TRAINING. THE STATE BOARD OF EDUCATION SHALL COMPILE THE REPORTS
+19 RECEIVED PURSUANT TO THIS SUBSECTION AND, ON OR BEFORE DECEMBER 1, 2027
+20 AND EVERY SECOND YEAR THEREAFTER, SHALL SUBMIT A REPORT TO THE GOVERNOR,
+21 THE PRESIDENT OF THE SENATE, THE SPEAKER OF THE HOUSE OF REPRESENTATIVES,
+22 THE OFFICE OF THE AUDITOR GENERAL AND THE SUPERINTENDENT OF PUBLIC
+23 INSTRUCTION THAT INDICATES WHETHER EACH SCHOOL DISTRICT GOVERNING BOARD
+24 MEMBER COMPLETED THE TRAINING.}}
+25 D. THE DEPARTMENT OF EDUCATION SHALL PROVIDE A TRAINING PROGRAM
+26 THAT IS APPROVED BY THE AUDITOR GENERAL AND THAT MEETS THE REQUIREMENTS
+27 PRESCRIBED BY SUBSECTION A OF THIS SECTION FOR EACH SCHOOL DISTRICT
+28 GOVERNING BOARD MEMBER WHO HAS NOT COMPLETED A TRAINING PROGRAM THAT IS
+29 [OFFERED] [PROVIDED] BY A COUNTY SCHOOL SUPERINTENDENT PURSUANT TO
+30 SUBSECTION [C] [B] OF THIS SECTION DURING THE CURRENT TWO-YEAR PERIOD.
+31 THE DEPARTMENT MAY CHARGE EACH SCHOOL DISTRICT FOR THE COST OF PROVIDING
+32 THE TRAINING PROGRAM TO THE SCHOOL DISTRICT'S GOVERNING BOARD MEMBERS
+33 PURSUANT TO THIS SUBSECTION. EACH SCHOOL DISTRICT SHALL PAY FOR ANY COSTS
+34 INCURRED BY THE DEPARTMENT TO PROVIDE THE TRAINING TO THE SCHOOL
+35 DISTRICT'S GOVERNING BOARD MEMBERS.
+36 E. {{IF A GOVERNING BOARD MEMBER FAILS TO NOTIFY THE COUNTY SCHOOL
+37 SUPERINTENDENT PURSUANT TO SUBSECTION [B] [C] OF THIS SECTION AND THAT
+38 COUNTY SCHOOL SUPERINTENDENT DETERMINES THAT THE}} {{A}} GOVERNING BOARD
+39 MEMBER {{HAS FAILED}} {{WHO FAILS}} TO COMPLETE THE TRAINING REQUIRED BY
+40 SUBSECTION A OF THIS SECTION{{, THE GOVERNING BOARD MEMBER}} IS INELIGIBLE
+41 TO BE A CANDIDATE FOR NOMINATION, ELECTION OR APPOINTMENT TO THE OFFICE OF
+42 GOVERNING BOARD MEMBER IN ANY SCHOOL DISTRICT IN THIS STATE {{IF THE
+43 SCHOOL DISTRICT GOVERNING BOARD MEMBER BOTH:
+44 1. WAS NOT APPOINTED TO THE OFFICE OF GOVERNING BOARD MEMBER DURING
+45 THE CURRENT TERM.
+-4-
+
+House Amendments to H.B. 2379
+1 2. IS A MEMBER OF THE SCHOOL DISTRICT GOVERNING BOARD OF A SCHOOL
+2 DISTRICT THAT IS IDENTIFIED BY THE AUDITOR GENERAL AS ONE OF THE HIGHEST
+3 RISK SCHOOL DISTRICTS IN THIS STATE}}.
+4 F. THE DEPARTMENT OF EDUCATION AND EACH COUNTY SCHOOL
+5 SUPERINTENDENT WHO PROVIDES A TRAINING PROGRAM PURSUANT TO SUBSECTION [C]
+6 [B] OF THIS SECTION {{SHALL CONSULT WITH THE AUDITOR GENERAL WHEN
+7 DEVELOPING THE TRAINING PROGRAM AND}} SHALL SUBMIT THE TRAINING PROGRAM TO
+8 THE AUDITOR GENERAL, IN A FORM AND MANNER PRESCRIBED BY THE AUDITOR
+9 GENERAL, FOR APPROVAL BEFORE PROVIDING THE TRAINING PROGRAM TO ANY
+10 GOVERNING BOARD MEMBER. {{IF THE AUDITOR GENERAL DISAPPROVES A TRAINING
+11 PROGRAM SUBMITTED PURSUANT TO THIS SUBSECTION, THE DEPARTMENT MAY SUBMIT
+12 THE TRAINING PROGRAM TO THE JOINT LEGISLATIVE AUDIT COMMITTEE FOR REVIEW
+13 AND APPROVAL. THE JOINT LEGISLATIVE AUDIT COMMITTEE MUST HEAR AND APPROVE
+14 OR DISAPPROVE THE TRAINING PROGRAM AT THE FIRST REGULAR MEETING AFTER THE
+15 PROGRAM IS SUBMITTED PURSUANT TO THIS SUBSECTION. IF THE JOINT
+16 LEGISLATIVE AUDIT COMMITTEE APPROVES THE TRAINING PROGRAM BY A MAJORITY
+17 VOTE, THE DEPARTMENT MAY PROVIDE THE TRAINING PROGRAM TO ANY GOVERNING
+18 BOARD MEMBER WITHOUT APPROVAL FROM THE AUDITOR GENERAL.}}
+19 Sec. 3. Section 15-421, Arizona Revised Statutes, is amended to
+20 read:
+21 15-421. Governing boards; members; qualifications;
+22 prohibitions; candidate statements; definitions
+23 A. The governing body of a school district shall be a governing
+24 board. There shall be three governing board members, except as otherwise
+25 provided by this section and section 15-425, subsection A.
+26 B. The governing body of a high school district shall be a
+27 governing board composed of:
+28 1. In a single district, the governing board members of the common
+29 school district.
+30 2. In a union high school district, five members.
+31 C. A person is eligible for election to the office of governing
+32 board member if all of the following apply:
+33 1. The person is a registered voter of this state.
+34 2. The person has been a resident of the school district for at
+35 least one year immediately preceding the day of election.
+36 3. The person is not subject to registration as a sex offender in
+37 this state or in any other jurisdiction.
+38 4. THE PERSON IS NOT INELIGIBLE TO BE A CANDIDATE FOR NOMINATION OR
+39 ELECTION TO THE OFFICE OF GOVERNING BOARD MEMBER PURSUANT TO SECTION
+40 15-349, SUBSECTION E.
+41 D. An employee of a school district, including a person who
+42 directly provides certified or classified services to the school district
+43 as an employee of a third-party contractor, or the spouse of such an
+44 employee may not hold membership on the governing board of a school
+45 district by which the employee is employed.
+46 E. Notwithstanding subsection D of this section and title 38,
+47 chapter 3, article 8, a small school district may employ, including
+-5-
+
+House Amendments to H.B. 2379
+1 employment through a third-party contractor that provides services to the
+2 small school district, a substitute teacher who is related to a member of
+3 the governing board as immediate family and who has had the same household
+4 of residence within the preceding four years. If a small school district
+5 employs a substitute teacher pursuant to this subsection, the member of
+6 the governing board who is related to the substitute teacher shall be
+7 recused from voting on any matter relating to substitute teachers.
+8 F. A school district may employ, including employment through a
+9 third-party contractor that provides services to the school district, a
+10 person who served as a member of the school district's governing board
+11 during the preceding two years only in a position in which the person will
+12 provide services directly to students, including as a certificated
+13 teacher, a substitute teacher and an employee or contractor who provides
+14 transportation, instructional support or student support services. A
+15 school district may increase the time period prescribed in this subsection
+16 to be more than two years.
+17 G. A member of one governing board is ineligible to be a candidate
+18 for nomination or election to or serve simultaneously as a member of any
+19 other governing board, except that a member of a governing board may be a
+20 candidate for nomination or election for any other governing board if the
+21 member is serving in the last year of a term of office. A member of a
+22 governing board shall resign the member's seat on the governing board
+23 before becoming a candidate for nomination or election to the governing
+24 board of any other school district, unless the member of the governing
+25 board is serving in the last year of a term of office.
+26 H. Notwithstanding section 15-511, each county school
+27 superintendent shall publish on the superintendent's website the statement
+28 of each certified candidate for membership on a school district governing
+29 board located in the county. The county school superintendent shall list
+30 each school district on the superintendent's website from which a link
+31 shall be established to the candidate's name, which shall link to the
+32 candidate's statement and photograph. The candidate shall submit the
+33 statement to the person at the county school superintendent's office
+34 assigned to manage candidate statements, after notice of certification
+35 from the county school superintendent's office but not later than
+36 twenty-one days before the date that general election early ballots are
+37 allowed to be mailed. The person shall post each candidate's statement on
+38 the county school superintendent's website not later than fourteen days
+39 before the date that general election early ballots are allowed to be
+40 mailed. If a candidate does not submit a statement, the county school
+41 superintendent's website shall state "no response submitted" for the
+42 candidate. The candidate statements shall be posted on the website
+43 alphabetically by each school district and by candidate. The candidate
+44 statement shall be typewritten or electronically submitted. The county
+45 school superintendent shall post the statements verbatim as they are
+46 received unless a candidate requests in writing that typographical errors
+-6-
+
+House Amendments to H.B. 2379
+1 be corrected. The candidate statement shall contain the following items
+2 in the same size and format for each candidate:
+3 1. A recent photograph of the candidate.
+4 2. A statement not to exceed five hundred words.
+5 3. A disclosure of any relationships by affinity, by consanguinity
+6 or by law to the third degree that exist between the candidate and any
+7 current governing board members or other candidates for election to the
+8 same governing board.
+9 I. Persons related as immediate family who have the same household
+10 of residence within four years prior shall not serve simultaneously on the
+11 governing board of the same school district if the governing board is
+12 composed of five members. For a school district with a student count of
+13 at least two hundred fifty that is located in a county with a population
+14 of more than five hundred thousand persons, not more than two persons
+15 related by affinity, by consanguinity or by law to the third degree shall
+16 serve simultaneously on the governing board of the same school district if
+17 the governing board is composed of five members. A qualified elector who
+18 resides in the school district may bring an action in superior court to
+19 enforce this subsection.
+20 J. A person related as immediate family who has the same household
+21 of residence within four years prior to a member of the governing board of
+22 the same school district is ineligible to be a candidate for nomination or
+23 election to that governing board if the governing board is composed of
+24 five members, except that a person related as immediate family who has the
+25 same household of residence within four years prior to a member of a
+26 governing board may be a candidate for nomination or election to the
+27 governing board of the same school district if the member is serving in
+28 the last year of a term of office. For a school district with a student
+29 count of at least two hundred fifty that is located in a county with a
+30 population of more than five hundred thousand persons, not more than two
+31 persons related by affinity, by consanguinity or by law to the third
+32 degree shall be eligible to be a candidate for nomination or election to a
+33 governing board that is composed of five members. A qualified elector who
+34 resides in the school district may bring an action in superior court to
+35 enforce this subsection.
+36 K. Persons related as immediate family who have the same household
+37 of residence within four years prior are ineligible to be simultaneous
+38 candidates for nomination or election to the governing board of the same
+39 school district if the governing board is composed of five members. For a
+40 school district with a student count of at least two hundred fifty that is
+41 located in a county with a population of more than five hundred thousand
+42 persons, not more than two persons related by affinity, by consanguinity
+43 or by law to the third degree shall be simultaneous candidates for
+44 nomination or election to a governing board that is composed of five
+45 members. A qualified elector who resides in the school district may bring
+46 an action in superior court to enforce this subsection.
+47 L. For the purposes of this section:
+-7-
+
+House Amendments to H.B. 2379
+1 1. "Household of residence" means the place of abode during
+2 applicable time periods or the residence address used by an individual for
+3 voter registration or property tax purposes.
+4 2. "Immediate family" means individuals who are married to each
+5 other and any children of those individuals.
+6 3. "Small school district" has the same meaning prescribed in
+7 section 15-901.
+8 Enroll and engross to conform
+9 Amend title to conform
+MATT GRESS
+2379FloorGRESS.docx
+02/24/2026
+07:23 PM
+C: VS
+130LGMVZX
+-8-

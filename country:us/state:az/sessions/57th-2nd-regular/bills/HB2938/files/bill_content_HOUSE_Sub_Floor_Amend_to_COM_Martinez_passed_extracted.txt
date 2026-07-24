@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Sub Floor Amend to COM - Martinez - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2938: mandatory rounding method; cash transactions
+MARTINEZ SUBSTITUTE FLOOR AMENDMENT
+1. Adds an emergency clause.
+2. Contains the language of the Commerce Committee amendment.
+PAUL BENNY
+2/17/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Martinez
+Second Regular Session H.B. 2938
+MARTINEZ SUBSTITUTE FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2938
+I move the following SUBSTITUTE amendment to the COMMERCE Committee Amendment to
+HOUSE BILL 2938 (Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Heading change
+3 The chapter heading of title 44, chapter 38, Arizona Revised
+4 Statutes, is changed from "BUSINESSES EXEMPT FROM MASK MANDATE" to
+5 "BUSINESSES GENERALLY".
+6 Sec. 2. Title 44, chapter 38, article 1, Arizona Revised Statutes,
+7 is amended by adding section 44-7952, to read:
+8 44-7952. Cash transactions; mandatory rounding of transaction
+9 totals; notice; enforcement
+10 A. IF ONE-CENT COINS ARE NOT AVAILABLE OR ARE NOT USED BY A SELLER
+11 AT A POINT OF SALE, THE SELLER SHALL APPLY SWEDISH ROUNDING TO A TOTAL
+12 TRANSACTION AMOUNT THAT ROUNDS THE TOTAL TRANSACTION AMOUNT TO THE NEAREST
+13 FIVE-CENT INCREMENT. IF A TOTAL TRANSACTION AMOUNT ENDS:
+14 1. IN ONE OR TWO CENTS, THE TOTAL TRANSACTION AMOUNT IS ROUNDED
+15 DOWN TO THE NEAREST MULTIPLE OF FIVE CENTS.
+16 2. IN THREE OR FOUR CENTS, THE TOTAL TRANSACTION AMOUNT IS ROUNDED
+17 UP TO THE NEAREST MULTIPLE OF FIVE CENTS.
+18 3. IN SIX OR SEVEN CENTS, THE TOTAL TRANSACTION AMOUNT IS ROUNDED
+19 DOWN TO THE NEAREST MULTIPLE OF FIVE CENTS.
+20 4. IN EIGHT OR NINE CENTS, THE TOTAL TRANSACTION AMOUNT IS ROUNDED
+21 UP TO THE NEAREST MULTIPLE OF FIVE CENTS.
+22 B. SWEDISH ROUNDING APPLIES TO A FINAL TOTAL TRANSACTION AMOUNT OF
+23 A CASH TRANSACTION AFTER TAXES, FEES AND OTHER CHARGES ARE CALCULATED.
+24 C. SWEDISH ROUNDING DOES NOT APPLY TO A TRANSACTION THAT IS PAID BY
+25 A CREDIT CARD, DEBIT CARD, ELECTRONIC FUNDS TRANSFER, MOBILE PAYMENT
+26 APPLICATION OR OTHER NON-CASH PAYMENT METHOD.
+
+House Amendments to H.B. 2938
+1 D. A SELLER THAT IS SUBJECT TO THIS SECTION SHALL POST A NOTICE
+2 THAT IS VISIBLE TO CUSTOMERS AT THE POINT OF SALE STATING "CASH
+3 TRANSACTIONS ARE ROUNDED TO THE NEAREST FIVE-CENT INCREMENT PURSUANT TO
+4 STATE LAW".
+5 E. A SELLER MAY NOT APPLY A ROUNDING METHOD OTHER THAN SWEDISH
+6 ROUNDING.
+7 [F. A SELLER SHALL CALCULATE AND REMIT ALL TAXES AND FEES THAT ARE
+8 IMPOSED BY A STATE OR MUNICIPAL TAXING AUTHORITY BASED ON THE SALES PRICE
+9 BEFORE THE CASH TRANSACTION WAS ROUNDED.]
+10 [F.] [G.] THIS SECTION SHALL BE ENFORCED BY THE WEIGHTS AND
+11 MEASURES SERVICES DIVISION OF THE ARIZONA DEPARTMENT OF AGRICULTURE
+12 PURSUANT TO TITLE 3, CHAPTER 19. THE DIVISION MAY ISSUE WARNINGS AND
+13 ORDERS AND IMPOSE CIVIL PENALTIES IN ADDITION TO OTHER ENFORCEMENT
+14 MEASURES.
+15 [H. A SELLER IS NOT IN VIOLATION OF ANY STATE OR MUNICIPAL
+16 REQUIREMENT, LAW, REGULATION OR STANDARD IF THE ACTION IS BASED ON
+17 COMPLIANCE WITH THIS SECTION.]
+18 [G.] [I.] THIS SECTION IS INTENDED TO OPERATE CONSISTENTLY WITH
+19 FEDERAL LAW THAT GOVERNS UNITED STATES COINAGE AND LEGAL TENDER.
+20 [H.] [J.] THIS SECTION DOES NOT:
+21 1. DECLARE ANY COIN OR CURRENCY INVALID AS LEGAL TENDER.
+22 2. REQUIRE ACCEPTANCE OR REFUSAL OF ANY SPECIFIC DENOMINATION OF
+23 THE UNITED STATES COIN OR CURRENCY.
+24 3. PREEMPT, CONFLICT WITH OR SUPERSEDE ANY PROVISION OF FEDERAL LAW
+25 REGULATION.
+26 Sec. 3. Legislative intent
+27 The legislature intends that section 44-7952, Arizona Revised
+28 Statutes, as added by this act, protects businesses and governmental
+29 agencies in this state.
+30 <<Sec. 4. Emergency
+31 [This act is an emergency measure that is necessary to preserve the
+32 public peace, health or safety and is operative immediately as provided by
+33 law.]>>
+34 Enroll and engross to conform
+35 Amend title to conform
+TERESA MARTINEZ
+2938FloorMARTINEZ.docx
+02/17/2026
+02:00 PM
+H: PB/ls
+130HXWDCN
+-2-

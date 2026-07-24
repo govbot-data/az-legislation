@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Health and Human Services
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Health and Human Services
+Second Regular Session S.B. 1193
+COMMITTEE ON HEALTH AND HUMAN SERVICES
+SENATE AMENDMENTS TO S.B. 1193
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 36, chapter 21.1, article 1, Arizona Revised
+3 Statutes, is amended by adding section 36-2202.02, to read:
+4 36-2202.02. Sale or disclosure of information; prohibition;
+5 exception; definition
+6 A. THE DEPARTMENT MAY NOT SELL OR DISCLOSE ANY PERSONAL IDENTIFYING
+7 INFORMATION OF AN EMERGENCY MEDICAL CARE TECHNICIAN. THE PERSONAL
+8 IDENTIFYING INFORMATION OF AN EMERGENCY MEDICAL CARE TECHNICIAN IS
+9 CONFIDENTIAL AND [, IF A REQUEST FOR THE PERSONAL IDENTIFYING INFORMATION
+10 IS MADE FOR A COMMERCIAL PURPOSE, THE PERSONAL IDENTIFYING INFORMATION IS]
+11 EXEMPT FROM TITLE 39, CHAPTER 1, ARTICLE 2. THE DEPARTMENT MAY DISCLOSE
+12 PERSONAL IDENTIFYING INFORMATION OF AN EMERGENCY MEDICAL CARE TECHNICIAN
+13 WITH THE EMERGENCY MEDICAL CARE TECHNICIAN'S CONSENT THAT INCLUDES THE
+14 INFORMATION THAT MAY BE DISCLOSED AND THE PURPOSES FOR THE DISCLOSURE.
+15 B. THE DEPARTMENT MAY DISCLOSE INFORMATION THAT HAS BEEN
+16 DE-IDENTIFIED OR THAT IS IN AN AGGREGATED FORM AND THAT DOES NOT
+17 REASONABLY ALLOW THE IDENTIFICATION OF AN EMERGENCY MEDICAL CARE
+18 TECHNICIAN.
+19 C. FOR THE PURPOSES OF THIS SECTION, "PERSONAL IDENTIFYING
+20 INFORMATION" INCLUDES[:][ ANY INFORMATION THAT IDENTIFIES OR THAT COULD BE
+21 USED TO IDENTIFY AN EMERGENCY MEDICAL CARE TECHNICIAN.]
+22 [1. A SOCIAL SECURITY NUMBER, PASSPORT NUMBER, DRIVER LICENSE
+23 NUMBER OR TAXPAYER IDENTIFICATION NUMBER.
+24 2. A PERSONAL ADDRESS, PERSONAL EMAIL ADDRESS OR PERSONAL TELEPHONE
+25 NUMBER.
+26 3. A BIOMETRIC RECORD, INCLUDING A PHOTOGRAPHIC IMAGE, A
+27 FINGERPRINT, A RETINAL SCAN, A VOICE SIGNATURE OR FACIAL GEOMETRY.
+28 4. BULK INFORMATION THAT WHEN COMBINED WITH OTHER REQUEST DETAILS
+29 CAN EASILY IDENTIFY AN EMERGENCY MEDICAL CARE TECHNICIAN, INCLUDING:
+
+Senate Amendments to S.B. 1193
+1 (a) DATE OF BIRTH.
+2 (b) PLACE OF BIRTH.
+3 (c) RACE.
+4 (d) RELIGION.
+5 (e) GEOGRAPHIC INDICATORS.
+6 (f) EMPLOYMENT INFORMATION.
+7 (g) EDUCATION INFORMATION.]
+8 Enroll and engross to conform
+9 Amend title to conform
+1193HHS.docx
+02/09/2026
+04:16 PM
+C: MU
+130LYNHBL
+-2-

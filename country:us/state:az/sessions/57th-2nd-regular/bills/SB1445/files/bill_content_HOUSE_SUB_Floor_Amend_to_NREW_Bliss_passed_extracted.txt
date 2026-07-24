@@ -1,0 +1,498 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - SUB Floor Amend to NREW - Bliss - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+SB 1445: water quality; testing; on-site
+BLISS FLOOR AMENDMENT
+1. Prohibits ADEQ from requiring the minimum storage capacity for a
+community water system to be greater than 1,000 gallons if serving 25 or
+fewer connections and in a county with a population less than 400,000
+persons.
+2. Makes technical and conforming changes.
+3. Contains the language of the NREW Committee amendment.
+CORBIN W.
+4/21/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Bliss
+Second Regular Session S.B. 1445
+BLISS SUBSTITUTE FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1445
+I move the following SUBSTITUTE amendment to the NATURAL RESOURCES, ENERGY & WATER
+Committee Amendment to SENATE BILL 1445 (Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 45-341, Arizona Revised Statutes, is amended
+3 to read:
+4 45-341. Definitions
+5 In this article, unless the context otherwise requires:
+6 1. "Community water system" means a public water system that serves
+7 at least fifteen service connections used by year-round residents of the
+8 area served by the system or that regularly serves at least twenty-five
+9 year-round residents of the area served by the system. A person is a
+10 year-round resident of the area served by a system if the person’s primary
+11 residence is served water by that system.
+12 2. "Large community water system" means a community water system
+13 that serves water to more than one thousand eight hundred fifty persons.
+14 3. "Public water system" means an entity that distributes or sells
+15 water and that qualifies as a public water system under section 49-352[,
+16 subsection B].
+17 4. "Small community water system" means a community water system
+18 that does not qualify as a large community water system. >>
+19 Sec. 2. Section 49-241, Arizona Revised Statutes, is amended to
+20 read:
+21 49-241. Permit required to discharge
+22 A. Unless otherwise provided by this article, any person who
+23 discharges or who owns or operates a facility that discharges shall obtain
+24 an aquifer protection permit from the director.
+25 B. Unless exempted under section 49-250, or unless the director
+26 determines that the facility will be designed, constructed and operated so
+27 that there will be no migration of pollutants directly to the aquifer or
+
+House Amendments to S.B. 1445
+1 to the vadose zone, the following are considered to be discharging
+2 facilities and shall be operated pursuant to either an individual permit
+3 or a general permit, including agricultural general permits, under this
+4 article:
+5 1. Surface impoundments, including holding, storage settling,
+6 treatment or disposal pits, ponds and lagoons.
+7 2. Solid waste disposal facilities except for mining overburden and
+8 wall rock that has not been and will not be subject to mine leaching
+9 operations.
+10 3. Injection wells.
+11 4. Land treatment facilities.
+12 5. Facilities that add a pollutant to a salt dome formation, salt
+13 bed formation, dry well or underground cave or mine.
+14 6. Mine tailings piles and ponds.
+15 7. Mine leaching operations.
+16 8. Underground water storage facilities.
+17 9. Sewage treatment facilities, including on-site wastewater
+18 treatment facilities.
+19 10. Wetlands designed and constructed to treat municipal and
+20 domestic wastewater for underground storage.
+21 C. The director shall provide public notice and an opportunity for
+22 public comment on any request for a determination from the director under
+23 subsection B of this section that there will be no migration of pollutants
+24 from a facility. A public hearing may be held at the discretion of the
+25 director if sufficient public comment warrants a hearing. The director
+26 may inspect and may require reasonable conditions and appropriate
+27 monitoring and reporting requirements for a facility managing pollutants
+28 that are determined not to migrate under subsection B of this section.
+29 The director may identify types of facilities, available technologies and
+30 technical criteria for facilities that will qualify for a
+31 determination. The director's determination may be revoked on evidence
+32 that pollutants have migrated from the facility. The director may impose
+33 a review fee for a determination under subsection B of this section. Any
+34 issuance, denial or revocation of a determination may be appealed pursuant
+35 to section 49-323.
+36 D. The director shall annually make the fee schedule for aquifer
+37 protection permit applications available to the public on request and on
+38 the department's website, and a list of the names and locations of the
+39 facilities that have filed applications for aquifer protection permits,
+40 with a description of the status of each application, is available to the
+41 public on request.
+42 E. The director shall prescribe the procedures for aquifer
+43 protection permit applications and fee collection under this section. The
+44 director shall deposit, pursuant to sections 35-146 and 35-147, all monies
+45 collected under this section in the water quality fee fund established by
+46 section 49-210 and may authorize expenditures from the fund, subject to
+-2-
+
+House Amendments to S.B. 1445
+1 legislative appropriation, to pay reasonable and necessary costs of
+2 processing and issuing permits and administering the registration program.
+3 F. FOR AQUIFER PROTECTION PERMITS ISSUED TO A CITY OR A TOWN [WITH
+4 A POPULATION OF ONE THOUSAND PERSONS OR MORE BUT LESS THAN TEN THOUSAND
+5 PERSONS, THE DIRECTOR MAY REQUIRE BACTERIOLOGICAL SAMPLING NOT MORE
+6 FREQUENTLY THAN FOUR TIMES PER MONTH. A CITY OR TOWN] WITH A POPULATION
+7 OF ONE THOUSAND PERSONS OR MORE BUT LESS THAN TEN THOUSAND PERSONS[, THE
+8 CITY OR TOWN] MAY TEST BACTERIOLOGICAL SAMPLES ON-SITE WITH TESTING
+9 EQUIPMENT THAT IS APPROVED BY THE UNITED STATES ENVIRONMENTAL PROTECTION
+10 AGENCY.
+11 Sec. 3. Section 49-255.01, Arizona Revised Statutes, is amended to
+12 read:
+13 49-255.01. Arizona pollutant discharge elimination system
+14 program; rules and standards; affirmative
+15 defense; fees; general permit
+16 A. A person shall not discharge except under either of the
+17 following conditions:
+18 1. In conformance with a permit that is issued or authorized under
+19 this article or rules authorized under section 49-203, subsection A,
+20 paragraph 2.
+21 2. Pursuant to a permit that is issued or authorized by the United
+22 States environmental protection agency until a permit that is issued or
+23 authorized under this article takes effect.
+24 B. The director shall adopt rules to establish an AZPDES permit
+25 program for discharges to WOTUS consistent with the requirements of
+26 sections 402(b) and 402(p) of the clean water act. This program shall
+27 include requirements to ensure compliance with section 307 and
+28 requirements for the control of discharges consistent with sections 318
+29 and 405(a) of the clean water act. The director shall not adopt any
+30 requirement for WOTUS that is more stringent than any requirement of the
+31 clean water act. The director shall not adopt any requirement that
+32 conflicts with any requirement of the clean water act. The director may
+33 adopt federal rules pursuant to section 41-1028 or may adopt rules to
+34 reflect local environmental conditions to the extent that the rules are
+35 consistent with and not more stringent than the clean water act and this
+36 article.
+37 C. The rules adopted by the director under subsection B of this
+38 section shall provide for:
+39 1. Issuing, authorizing, denying, modifying, suspending or revoking
+40 individual or general permits.
+41 2. Establishing permit conditions, discharge limitations and
+42 standards of performance as prescribed by section 49-203, subsection A,
+43 paragraph 8, including case-by-case effluent limitations that are
+44 developed in a manner consistent with 40 Code of Federal Regulations
+45 section 125.3(c).
+46 3. Modifications and variances as allowed by the clean water act.
+-3-
+
+House Amendments to S.B. 1445
+1 4. Other provisions necessary for maintaining state program
+2 authority under section 402(b) of the clean water act.
+3 5. FOR A CITY OR TOWN WITH A POPULATION OF ONE THOUSAND PERSONS OR
+4 MORE BUT LESS THAN TEN THOUSAND PERSONS, USING ON-SITE TESTING EQUIPMENT
+5 THAT IS APPROVED BY THE UNITED STATES ENVIRONMENTAL PROTECTION AGENCY TO
+6 DETECT BACTERIOLOGICAL MATERIAL.
+7 D. This article does not affect the validity of any existing rules
+8 that are adopted by the director and that are equivalent to and consistent
+9 with the national pollutant discharge elimination system program
+10 authorized under section 402 of the clean water act until new rules for
+11 AZPDES discharges are adopted pursuant to this article.
+12 E. An upset constitutes an affirmative defense to any
+13 administrative, civil or criminal enforcement action brought for
+14 noncompliance with technology-based permit discharge limitations if the
+15 permittee complies with all of the following:
+16 1. The permittee demonstrates through properly signed
+17 contemporaneous operating logs or other relevant evidence that:
+18 (a) An upset occurred and that the permittee can identify the
+19 specific cause of the upset.
+20 (b) The permitted facility was being properly operated at the time
+21 of the upset.
+22 (c) If the upset causes the discharge to exceed any discharge
+23 limitation in the permit, the permittee submitted notice to the department
+24 within twenty-four hours after the upset.
+25 (d) The permittee has taken appropriate remedial measures including
+26 all reasonable steps to minimize or prevent any discharge or sewage sludge
+27 use or disposal that is in violation of the permit and that has a
+28 reasonable likelihood of adversely affecting human health or the
+29 environment.
+30 2. In any administrative, civil or criminal enforcement action, the
+31 permittee shall prove, by a preponderance of the evidence, the occurrence
+32 of an upset condition.
+33 F. Compliance with a permit issued pursuant to this article shall
+34 be deemed compliance with both of the following:
+35 1. All requirements in this article or rules adopted pursuant to
+36 this article relating to state implementation of sections 301, 302, 306
+37 and 307 of the clean water act, except for any standard that is imposed
+38 under section 307 of the clean water act for a toxic pollutant that is
+39 injurious to human health.
+40 2. Limitations for pollutants in WOTUS adopted pursuant to sections
+41 49-221 and 49-222, if the discharge of the pollutant is specifically
+42 limited in a permit issued pursuant to this article or the pollutant was
+43 specifically identified as present or potentially present in facility
+44 discharges during the application process for the permit.
+45 G. Notwithstanding section 49-203, subsection D, permits that are
+46 issued under this article shall not be combined with permits issued under
+47 article 3 of this chapter.
+-4-
+
+House Amendments to S.B. 1445
+1 H. The decision of the director to issue or modify a permit takes
+2 effect on issuance if there were no changes requested in comments that
+3 were submitted on the draft permit unless a later effective date is
+4 specified in the decision. In all other cases, the decision of the
+5 director to issue, deny, modify, suspend or revoke a permit takes effect
+6 thirty days after the decision is served on the permit applicant, unless
+7 either of the following applies:
+8 1. Within the thirty-day period, an appeal is filed with the water
+9 quality appeals board pursuant to section 49-323.
+10 2. A later effective date is specified in the decision.
+11 I. In addition to other reservations of rights provided by this
+12 chapter, this article does not impair or affect rights or the exercise of
+13 rights to water claimed, recognized, permitted, certificated, adjudicated
+14 or decreed pursuant to state or other law.
+15 J. The director shall establish by rule fees, including maximum
+16 fees, to pay expenses incurred in implementing the AZPDES PERMIT
+17 program. Monies collected pursuant to this section shall be deposited,
+18 pursuant to sections 35-146 and 35-147, in the water quality fee fund
+19 established by section 49-210.
+20 K. Any permit conditions concerning threatened or endangered
+21 species shall be limited to those required by the endangered species act.
+22 L. When developing a general permit for discharges of storm water
+23 from construction activity, the director shall provide for reduced control
+24 measures at sites that retain storm water in a manner that eliminates
+25 discharges from the site, except for the occurrence of an extreme event.
+26 Reduced control measures shall be available if all of the following
+27 conditions are met:
+28 1. The nearest downstream receiving water is ephemeral and the
+29 construction site is a sufficient distance from a water warranting
+30 additional protection as described in the general permit.
+31 2. The construction activity occurs on a site designed so that all
+32 storm water generated by disturbed areas of the site exclusive of public
+33 rights-of-way is directed to one or more retention basins that are
+34 designed to retain the runoff from an extreme event. For the purposes of
+35 this subsection, "extreme event" means a rainfall event that meets or
+36 exceeds the local one hundred-year, two-hour storm event as calculated by
+37 an Arizona registered professional engineer using industry practices.
+38 3. The owner or operator complies with good housekeeping measures
+39 included in the general permit.
+40 4. The owner or operator maintains the capacity of the retention
+41 basins.
+42 5. Construction conforms to the standards prescribed by this
+43 section.
+44 M. If the director commences proceedings for the renewal of a
+45 general permit issued pursuant to this article, the existing general
+46 permit shall not expire and coverage may continue to be obtained by new
+47 dischargers until the proceedings have resulted in a final determination
+-5-
+
+House Amendments to S.B. 1445
+1 by the director. If the proceedings result in a decision not to renew the
+2 general permit, the existing general permit shall continue in effect until
+3 the last day for filing for review of the decision of the director not to
+4 renew the permit or until any later date that is fixed by court order.
+5 <<Sec. 4. Section 49-352, Arizona Revised Statutes, is amended to
+6 read:
+7 49-352. Classifying systems and certifying personnel;
+8 limitation
+9 A. The department shall establish and enforce rules for [the
+10 classification of] [CLASSIFYING] systems for potable water and certifying
+11 operating personnel according to the skill, knowledge and experience
+12 necessary within the classification. The rules shall also provide that
+13 operating personnel may be certified on the basis of training and
+14 supervision at the place of employment. The department may assess and
+15 collect reasonable certification fees to reimburse the cost of
+16 certification services, which shall be deposited in the water quality fee
+17 fund established by section 49-210. Such rules apply to all public water
+18 systems involved in the collection, storage, treatment or distribution of
+19 potable water. The rules do not apply to systems that are not public
+20 water systems, including irrigation, industrial or similar systems where
+21 the water is used for nonpotable purposes.
+22 [B. NOTWITHSTANDING ANY OTHER LAW, THE DEPARTMENT MAY NOT REQUIRE A
+23 COMMUNITY WATER SYSTEM THAT IS LOCATED IN A COUNTY WITH A POPULATION OF
+24 FOUR HUNDRED THOUSAND PERSONS OR LESS AND THAT SERVES TWENTY-FIVE OR FEWER
+25 SERVICE CONNECTIONS TO MAINTAIN A MINIMUM STORAGE CAPACITY THAT IS LARGER
+26 THAN ONE THOUSAND GALLONS.]
+27 [B.] [C.] For the purposes of this article:
+28 1. A public water system is a water system that:
+29 (a) Provides water for human consumption through pipes or other
+30 constructed conveyances.
+31 (b) Has at least fifteen service connections or regularly serves an
+32 average of at least twenty-five persons daily for at least sixty days a
+33 year.
+34 2. A public water system as described in paragraph 1, subdivisions
+35 (a) and (b) of this subsection includes any collection, treatment, storage
+36 and distribution facilities that are under the control of the operator of
+37 a public water system and that are used primarily in connection with the
+38 system and any collection or pretreatment storage facilities that are not
+39 under the control of the operator of a public water system and that are
+40 used primarily in connection with a public water system.
+41 3. A service connection does not include a connection to a system
+42 that delivers water by a constructed conveyance other than a pipe, if any
+43 of the following applies:
+44 (a) The water is used exclusively for purposes other than
+45 residential uses consisting of drinking, cooking or bathing or other
+46 similar uses.
+-6-
+
+House Amendments to S.B. 1445
+1 (b) The department determines that alternative water is provided
+2 for residential or similar uses for drinking and cooking and that the
+3 water achieves a level of public health protection that is equivalent to
+4 the applicable national primary drinking water regulations.
+5 (c) The department determines that the water that is provided for
+6 residential or similar uses for drinking, cooking and bathing is centrally
+7 treated or is treated at the point of entry by the water provider, a
+8 pass-through entity or the user to achieve the level of public health
+9 protection that is equivalent to the applicable national primary drinking
+10 water regulations.
+11 4. An irrigation district in existence before May 18, 1994 and that
+12 provides primarily agricultural service through a piped water system with
+13 only incidental residential or similar use is not a public water system if
+14 the system or the residential or other similar users of the system comply
+15 with paragraph 3, subdivision (b) or (c) of this subsection.
+16 5. Persons who receive water through connections that are not
+17 service connections pursuant to paragraph 3 of this subsection are not
+18 included in the computation of the number of persons prescribed by
+19 paragraph 1, subdivision (b) of this subsection.>>
+20 <<Sec. 5. Section 49-353, Arizona Revised Statutes, is amended to
+21 read:
+22 49-353. Duties of director; rules; prohibited lead use
+23 A. The director shall:
+24 1. Exercise general supervision over all matters related to water
+25 quality control of public water systems throughout this state.
+26 2. Prescribe rules regarding the production, treatment,
+27 distribution and testing of potable water by public water systems, except
+28 that such rules shall not apply to irrigation, industrial or similar
+29 systems where the water is used for nonpotable purposes. The rules shall
+30 comply with at least the following:
+31 (a) The requirements established by the United States environmental
+32 protection agency for state primary enforcement responsibility of the safe
+33 drinking water act, including the requirements of 40 Code of Federal
+34 Regulations parts 141 and 142.
+35 (b) Require that the plans and specifications for all public water
+36 systems, including water treatment plants, distribution systems,
+37 distribution system extensions, water treatment methods and devices and
+38 all appurtenances and devices for sale to be used in water supplies and
+39 public water systems be submitted with a fee for review to the
+40 department. The department, in establishing fees authorized by this
+41 section, shall comply with title 41, chapter 6. The department shall not
+42 set a fee at more than the department's cost of providing the service for
+43 which the fee is charged. State agencies are exempt from all fees imposed
+44 pursuant to this section. Monies collected from the fees shall be
+45 deposited in the water quality fee fund established by section 49-210.
+46 The director may require that plans and specifications for public water
+47 systems include programs to meet future needs for drinking water and to
+-7-
+
+House Amendments to S.B. 1445
+1 supply specified minimum quantities of drinking water. The director
+2 shall:
+3 (i) Require that a new public water system demonstrate that the
+4 system possesses adequate managerial and financial capacity to operate in
+5 compliance with this article and the rules adopted pursuant to this
+6 article.
+7 (ii) Accept adequate findings of other public authorities regarding
+8 the adequate managerial and financial capacity of a public water system to
+9 operate in compliance with this article and the rules adopted pursuant to
+10 this article.
+11 (c) Provide that no public water system, including a water
+12 treatment plant, distribution system, distribution system extension, water
+13 treatment method or device, appurtenance and device used in water supplies
+14 or public water systems be constructed, reconstructed, installed or
+15 initiated before compliance with the standards and rules has been
+16 demonstrated by approval of the plans and specifications by the
+17 department. The rules shall prescribe minimum standards for the
+18 bacteriological, physical and chemical quality of water distributed
+19 through public water systems. The director of environmental quality may
+20 consult with the director of the department of health services in
+21 developing these standards.
+22 (d) Provide for a simplified administrative procedure for approving
+23 structural revisions, additions, extensions or modifications to existing
+24 small public water systems for potable water serving a population of three
+25 thousand three hundred or fewer persons.
+26 (e) Exempt from the plan review requirements of this paragraph,
+27 including any requirements for approval to construct or approval of
+28 construction, any structural revisions, additions, extensions or
+29 modifications to public water systems which are in compliance with the
+30 department's rules applicable to those systems or which are making
+31 satisfactory progress towards compliance under a schedule approved by the
+32 department if either of the following conditions is satisfied:
+33 (i) The revision, addition, extension or modification has a project
+34 cost of [twelve thousand five hundred dollars] [$12,500] or less.
+35 (ii) The revision, addition, extension or modification is made to a
+36 water line [which] [THAT] is not for a subdivision requiring plat approval
+37 by a city, town or county, and has a project cost of more than [twelve
+38 thousand five hundred dollars] [$12,500] but less than [fifty thousand
+39 dollars] [$50,000], the design of which is sealed by a professional
+40 engineer registered in this state and the construction of which is
+41 reviewed for conformance with the design by a professional engineer.
+42 (f) Require a notice of compliance with the conditions for
+43 exemption on the completion of any revisions, additions, extensions or
+44 modifications completed in accordance with subdivision (e) of this
+45 paragraph.
+46 (g) Provide for the submission of samples at stated intervals.
+-8-
+
+House Amendments to S.B. 1445
+1 (h) Provide for inspection and certification of such water
+2 supplies.
+3 (i) Provide for the abatement as public nuisances of any premises,
+4 equipment, process or device, or public water system that does not comply
+5 with the minimum standards and rules.
+6 (j) Provide for records regarding water quality to be kept by
+7 owners and operators of the public water systems and that reports
+8 regarding water quality be filed with the department.
+9 (k) Provide for appropriate actions to be taken if a water supply
+10 does not meet the standards established by the department.
+11 (l) Require a public water system to implement a specified program
+12 to control contamination from backflow, backsiphonage or cross connection.
+13 All such programs shall be consistent with section 37-1388.
+14 (m) Require that public water systems identify and provide notice
+15 to persons that may be affected by lead contamination of their drinking
+16 water where such contamination results from either or both of the
+17 following:
+18 (i) The lead content in the construction materials of the public
+19 water distribution system.
+20 (ii) Corrosivity of the water supply sufficient to cause leaching
+21 of lead.
+22 (n) Provide for relief from water testing and monitoring
+23 requirements for public water systems qualifying under the federal safe
+24 drinking water act (P.L. 93-523; 88 Stat. [1661] [1660]; P.L. 95-190; 91
+25 Stat. 1393; P.L. 104-182; 110 Stat. 1613), as amended in 1996.
+26 3. Develop and implement strategies to assist public water systems
+27 in acquiring and maintaining the technical, managerial and financial
+28 capacity to operate in compliance with this article and the rules adopted
+29 pursuant to this article. Assistance may be provided based on the needs
+30 of the water system.
+31 B. Pipes, pipe fittings and plumbing fittings and fixtures having a
+32 lead content in excess of a weighted average of one-quarter of one percent
+33 lead when used with respect to the wetted surfaces and solders and flux
+34 having a lead content in excess of two-tenths of one percent shall not be
+35 used in the installation or repair of public water systems or of any
+36 plumbing in residential or nonresidential facilities providing water for
+37 human consumption. The weighted average lead content of a pipe, pipe
+38 fitting or plumbing fitting or fixture shall be calculated as follows:
+39 1. For each wetted component, the percentage of lead in the
+40 component shall be multiplied by the ratio of the wetted surface area of
+41 that component to the total wetted surface area of the entire product to
+42 arrive at the weighted percentage of lead of the component.
+43 2. The weighted percentage of lead of each wetted component shall
+44 be added together, and the sum of these weighted percentages shall
+45 constitute the weighted average lead content of the product.
+46 3. The lead content of the material used to produce a wetted
+47 component shall be used to determine compliance with this subsection.
+-9-
+
+House Amendments to S.B. 1445
+1 4. For lead content of materials that are provided as a range, the
+2 maximum content of that range shall be used.
+3 C. Subsection B of this section does not apply to:
+4 1. Leaded joints necessary for the repair of cast iron pipes.
+5 2. Pipes, pipe fittings and plumbing fittings and fixtures,
+6 including backflow preventers, that are used exclusively for nonpotable
+7 water services such as manufacturing, industrial processing, irrigation,
+8 outdoor watering or any other uses where the water is not anticipated to
+9 be used for human consumption.
+10 3. Toilets, bidets, urinals, fill valves, flushometer valves, tub
+11 fillers, shower valves or service saddles or water distribution main gate
+12 valves that are two inches in diameter or larger.
+13 D. Notwithstanding subsection A, paragraph 2, subdivision (c) of
+14 this section, a public water system may construct, reconstruct, install,
+15 extend or initiate a water supply system, water treatment plant,
+16 distribution system, water treatment method or device, or appurtenance
+17 that is used in water supply or in a public water system when the system
+18 is out of compliance with standards and rules adopted pursuant to this
+19 article only if the construction is necessary to correct the system's
+20 noncompliance.
+21 E. This section and the rules adopted pursuant to this section
+22 apply to public water systems as described by section 49-352[,
+23 subsection B].>>
+24 Enroll and engross to conform
+25 Amend title to conform
+SELINA BLISS
+1445FloorBLISS.docx
+04/20/2026
+4:47 PM
+C: CT
+130ERAJUL
+-10-

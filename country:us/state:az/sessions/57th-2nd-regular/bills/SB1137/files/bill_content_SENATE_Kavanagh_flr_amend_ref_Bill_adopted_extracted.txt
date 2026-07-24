@@ -1,0 +1,809 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Kavanagh flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1137
+Kavanagh Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Adds the local jurisdiction to the list of entities involved in the large project coordination
+meeting.
+2. Specifies that an excavator, before submitting a location request, rather than an excavation notice,
+must meet the white lining requirements.
+3. Requires an excavator to clearly and carefully, rather than only clearly, mark with white lining an
+area that is requested to be excavated.
+4. Specifies that the white lining may be in compliance with a color code that is established by custom
+and standard, rather than by applicable custom and standard.
+5. Clarifies that the white lining requirements apply to large projects and excavations on residential
+properties, except on a single-family resident property, regardless if by persons who are employed
+by the homeowner or the occupant of the residential property.
+6. Specifies that the large project meeting is expected to:
+a) discuss, rather than evaluate, any potential underground facility conflicts; and
+b) establish a marking and excavation schedule, rather than a marking schedule.
+7. Specifies that the underground facilities operator must, on receipt of the large project notification:
+a) discuss any potential conflicts, rather than identify any excepted conflicts, related to the
+underground facilities that may occur within the complete geographic scope of the large
+project; and
+b) determine the expected time frames that are necessary to complete markings.
+8. Removes the requirement for the large project coordination meeting to establish a schedule for
+remarking and other protective measures that are appropriate to the scope of duration of the large
+project.
+9. Requires the local jurisdiction's public works or utility inspector to also agree on the quantities of
+tickets and the geographic area that tickets will cover.
+10.Removes the applicability of the validity period for the ticket refresh procedures to both large
+project tickets and standard excavation tickets.
+11.States that the underground facilities statutes do not supersede or preempt any ordinance,
+standard, policy, procedure or other requirements of a city or town that relates to excavations.
+12.Modifies the definition of large project.
+13.Makes technical and conforming changes.
+Amendment explanation prepared by Nicholas Gustoff
+2/20/2026
+
+Fifty-seventh Legislature Kavanagh
+Second Regular Session S.B. 1137
+KAVANAGH FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1137
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 40-360.21, Arizona Revised Statutes, is amended
+3 to read:
+4 40-360.21. Definitions
+5 In this article, unless the context otherwise requires:
+6 1. "Abandoned" means no longer in service and physically
+7 disconnected from a portion of the facility, or from any other facility,
+8 that is in use or still carries service.
+9 2. "Apartment community" means any real property that has one or
+10 more structures and THAT contains five or more dwelling units for rent or
+11 lease that are subject to title 33, chapter 10. For the purposes of this
+12 paragraph, "dwelling unit" has the same meaning prescribed in section
+13 33-1310.
+14 3. "Building official" means the agency or officer employed by a
+15 political subdivision of this state and charged with the administration
+16 and enforcement of a building code to regulate the quality, type of
+17 material and workmanship of construction of buildings or structures.
+18 4. "Careful and prudent manner" means conducting an excavation in
+19 such a way that when the excavation is less than or equal to twenty-four
+20 inches from an underground facility that is marked with stakes or paint or
+21 in some customary manner, the facility is carefully exposed with hand
+22 tools, and the uncovered facility is supported and protected.
+23 5. "Carefully" means acting with reasonable care under the
+24 circumstances.
+25 6. "Cross culverts or similar roadway drainage facilities" means
+26 transverse drainage structures with both ends or openings visible
+27 including box culverts, drainage pipes or other covered structures.
+
+Senate Amendments to S.B. 1137
+1 7. "Detectible underground location device" means any device that
+2 is installed underground and that is capable of being detected from above
+3 ground with an electronic locating device.
+4 8. "Excavation" means any operation in which earth, rock or other
+5 material in the ground is moved, removed or otherwise displaced by means
+6 or use of any tools, equipment or explosives and includes, without
+7 limitation, grading, trenching, digging, ditching, drilling, augering,
+8 boring, tunnelling, scraping, cable or pipe plowing and driving.
+9 12. 9. "Homeowners' association" has the same meaning prescribed
+10 in section 33-2001.
+11 9. 10. "Implied easement" means any easement or right-of-way on
+12 private property required to provide utility services by means of
+13 underground facilities in property of the owner requesting such service.
+14 10. 11. "Inactive" means:
+15 (a) That portion of an underground facility that is not in use but
+16 is still connected to the facility, or to any other facility, that is in
+17 use or still carries service.
+18 (b) A new underground facility that has not been connected to any
+19 portion of an existing facility.
+20 11. 12. "Installation records of an underground facility" means
+21 maps, drawings, diagrams, surveys, schematics, illustrations, sketches or
+22 any other depictions or descriptions of an underground facility that
+23 reflect the location at the time of installation of the underground
+24 facility and any surface extensions in a reasonably accurate manner.
+25 13. "INTERACTIVE POSITIVE RESPONSE SYSTEM" MEANS AN ELECTRONIC
+26 INTERNET-BASED PLATFORM THAT IS ADMINISTERED BY A ONE-CALL NOTIFICATION
+27 CENTER AND THAT ENABLES EXCAVATORS AND UNDERGROUND FACILITIES OPERATORS TO
+28 EXCHANGE, RECORD AND VERIFY RESPONSES AND LOCATE STATUS UPDATES AND OTHER
+29 REQUIRED COMMUNICATIONS.
+30 13. 14. "Landlord" has the same meaning prescribed in section
+31 33-1310 for an apartment community and has the same meaning prescribed in
+32 section 33-1409 for a mobile home park.
+33 15. "LARGE PROJECT":
+34 (a) MEANS AN EXCAVATION ACTIVITY THAT MEETS ONE OR MORE OF THE
+35 FOLLOWING CRITERIA:
+36 (i) THE OVERALL PROJECT LENGTH EXCEEDS ONE MILE OF LINEAR
+37 EXCAVATION OR A POLYGON WITH AN AREA OF A QUARTER SQUARE MILE OR MORE.
+38 (ii) THE PROJECT DURATION IS EXPECTED TO EXCEED NINETY CALENDAR
+39 DAYS.
+40 (iii) THE PROJECT INCLUDES [MORE THAN] [AT LEAST] TEN [ADJACENT]
+41 [CONTIGUOUS] LAND PARCELS[, RIGHTS-OF-WAY OR EASEMENTS].
+42 (b) DOES NOT INCLUDE THE ON-SITE DEVELOPMENT OF A NEW RESIDENTIAL
+43 OR COMMERCIAL PROJECT ON A PREVIOUSLY UNDEVELOPED PARCEL OF LAND.
+44 16. "LARGE PROJECT NOTIFICATION" MEANS A NOTICE THAT IS FILED WITH
+45 A ONE-CALL NOTIFICATION CENTER FOR A LARGE PROJECT.
+46 14. 17. "Locator strip" means a type of detectible underground
+47 location device that consists of a plastic or other durable material
+-2-
+
+Senate Amendments to S.B. 1137
+1 ribbon containing a material capable of being detected from above ground
+2 with an electronic locating device and color coded by type of underground
+3 facility.
+4 15. 18. "Locator wire" means a type of detectible underground
+5 location device that consists of a copper wire or metallic, conductive,
+6 noncorrosive trace wire capable of being detected from above ground with
+7 an electronic locating device.
+8 16. 19. "Mobile home park" has the same meaning prescribed in
+9 section 33-1409.
+10 17. 20. "One-call notification center" means an organization of
+11 owners or operators of underground facilities that provides a telephone
+12 number notification service for the purpose of receiving and distributing
+13 to its members advance notifications from persons regarding planned
+14 excavations.
+15 18. 21. "Person":
+16 (a) Means any individual, firm, joint venture, partnership,
+17 corporation, association, homeowners' association, municipality,
+18 governmental unit, department or agency. and shall include
+19 (b) INCLUDES any trustee, receiver, assignee or personal
+20 representative thereof OF AN ENTITY LISTED IN SUBDIVISION (a) OF THIS
+21 PARAGRAPH.
+22 19. 22. "Routine road maintenance grading" means the routine
+23 grading or resurfacing of the concrete, asphaltic or composite surface but
+24 not the subbase of a roadway by the THIS state or a political subdivision
+25 of the THIS state for the purpose of maintaining the surface condition of
+26 the road and includes recovery of material from a borrow ditch.
+27 20. 23. "Stakes or paint or in some customary manner" means
+28 marking the location of an underground facility by the colors established
+29 by the commission. These colors shall be restricted to the underground
+30 facility location.
+31 21. 24. "Underground facilities operator" means a public utility,
+32 municipal corporation, landlord or other person having the right to bury
+33 underground facilities in any public street, alley, right-of-way dedicated
+34 to the public use or public utility easement, in any apartment community
+35 or mobile home park or pursuant to any express or implied private property
+36 easement. Underground facilities operator does not include a homeowner or
+37 homeowners' association that owns a sewer facility in a public street,
+38 alley, right-of-way dedicated to public use or public utility easement.
+39 22. 25. "Underground facility" means any item of personal property
+40 that is buried or placed below ground for use in connection with the
+41 storage or conveyance of water, sewage, electronic, telephonic or
+42 telegraphic communications, electric energy, oil, gas or other substances,
+43 and shall include but not be limited to pipes, sewers, conduits, cables,
+44 valves, lines, wires, manholes, attachments and those portions of poles
+45 and their attachments below ground except cross culverts or similar
+46 roadway drainage facilities and landscape irrigation systems of two inches
+47 in diameter or less.
+-3-
+
+Senate Amendments to S.B. 1137
+1 26. "WHITE LINING" MEANS THE PRACTICE OF MARKING THE PROPOSED AREA
+2 OF EXCAVATION ON THE GROUND SURFACE USING ANY OF THE FOLLOWING:
+3 (a) PAINT.
+4 (b) FLAGS.
+5 (c) CHALK.
+6 (d) ANY OTHER METHOD THAT IS CUSTOMARILY USED.
+7 23. 27. "Working day" means every day excluding Saturday of each
+8 week, the fourth Friday in November, Sunday of each week and other legal
+9 holidays as prescribed in section 1-301.
+10 Sec. 2. Section 40-360.22, Arizona Revised Statutes, is amended to
+11 read:
+12 40-360.22. Excavations; determining location of underground
+13 facilities; providing information; excavator
+14 marking; on-site representative; validity period
+15 of markings; liability for misuse of locate
+16 requests; detectible underground locating
+17 devices; civil penalty; large project
+18 coordination
+19 A. A person shall not make or begin any excavation in any public
+20 street, alley, right-of-way dedicated to the public use or public utility
+21 easement or in any express or implied private property utility easement or
+22 in any apartment community or mobile home park without first determining
+23 whether underground facilities will be encountered, and if so where they
+24 are located from each and every underground facilities operator and taking
+25 measures for control of the facilities in a careful and prudent manner.
+26 For all excavations in an apartment community or mobile home park, the
+27 excavator shall inform the landlord as promptly as practical PRACTICABLE
+28 that the excavator intends to submit an inquiry to the landlord that will
+29 trigger the landlord's obligations provided by subsection B of this
+30 section and the inquiry itself shall be made by certified mail to the
+31 landlord, using a form prepared by a one-call notification center. The
+32 inquiry to a landlord may be made by a one-call notification center for a
+33 reasonable fee to the excavator.
+34 B. Except as otherwise provided in this subsection OR SUBSECTION R
+35 OF THIS SECTION, upon ON receipt of the excavator's inquiry, the
+36 underground facilities operator shall respond as promptly as practical
+37 PRACTICABLE, but in no event NOT later than two working days, by carefully
+38 marking [such] [THE UNDERGROUND] facility with stakes or paint or in some
+39 customary manner. A landlord shall respond in the same manner and as
+40 promptly as practical PRACTICABLE, but in no event NOT later than ten
+41 working days. No A person shall MAY NOT begin excavating before the
+42 location and marking are complete or the excavator is notified that
+43 marking is unnecessary. If the excavator consents, an underground
+44 facilities operator may notify a one-call notification center that marking
+45 is unnecessary pursuant to a method established by the one-call
+46 notification center. An underground facilities operator may assign any
+47 marking or notification obligations required by this subsection to an
+-4-
+
+Senate Amendments to S.B. 1137
+1 agent or servant of the underground facilities operator. An underground
+2 facilities operator may SHALL notify the excavator that marking is
+3 unnecessary pursuant to any mutually agreeable method THE INTERACTIVE
+4 POSITIVE RESPONSE SYSTEM.
+5 C. On a timely request by the underground facilities operator, the
+6 excavator shall mark the boundaries of the area requested to be excavated
+7 in accordance with a color code designated by the commission or by
+8 applicable custom or standard in the industry. A request under this
+9 subsection for excavator marking does not alter any other requirement of
+10 this section.
+11 C. BEFORE AN [EXCAVATION NOTICE IS SUBMITTED] [EXCAVATOR SUBMITS A
+12 LOCATION REQUEST] TO THE ONE-CALL NOTIFICATION CENTER, [AN] [THE]
+13 EXCAVATOR SHALL CLEARLY [AND CAREFULLY] MARK WITH WHITE LINING THE AREA
+14 THAT IS REQUESTED TO BE EXCAVATED IN COMPLIANCE WITH A COLOR CODE THAT IS
+15 ESTABLISHED BY THE COMMISSION OR BY [APPLICABLE] CUSTOM OR STANDARD. THIS
+16 SUBSECTION:
+17 1. DOES NOT APPLY TO EXCAVATIONS THAT ARE PERFORMED BY A PERSON ON
+18 [A SINGLE-FAMILY] RESIDENTIAL PROPERTY THAT IS OWNED OR OCCUPIED BY THE
+19 PERSON.
+20 2. EXCEPT FOR EXCAVATIONS PRESCRIBED IN PARAGRAPH 1 OF THIS
+21 SUBSECTION, APPLIES TO ALL EXCAVATIONS, INCLUDING LARGE PROJECTS AND
+22 EXCAVATIONS ON RESIDENTIAL PROPERTIES [THAT ARE PERFORMED BY PERSONS WHO
+23 ARE EMPLOYED BY THE HOMEOWNER OR OCCUPANT OF THE RESIDENTIAL PROPERTY].
+24 D. Except as provided in subsection F of this section, a person
+25 shall not begin excavating in any apartment community or mobile home park
+26 before the landlord has completed marking the underground facility or the
+27 excavator is notified that marking is unnecessary. After underground
+28 facility markings are complete or the excavator has received notice that
+29 marking is unnecessary, an excavator shall notify the landlord if any of
+30 the following conditions exist:
+31 1. Visible and obvious evidence, such as pavement cuts, that would
+32 alert a reasonable excavator to the presence of an unmarked underground
+33 facility within the boundary of the intended area of excavation.
+34 2. The excavator has concerns regarding the accuracy and meaning of
+35 the marks.
+36 3. The excavator encounters an underground facility that has not
+37 been marked.
+38 4. The excavator encounters an underground facility that has been
+39 incorrectly marked or marked in the wrong location.
+40 E. For every excavation in an apartment community or mobile home
+41 park where the excavation method is boring:
+42 1. Every underground facilities operator shall be notified of this
+43 methodology.
+44 2. The excavator shall ensure that sufficient clearance is
+45 maintained between the bore path and any marked underground facility.
+-5-
+
+Senate Amendments to S.B. 1137
+1 3. The excavator shall visually check the drill head each time it
+2 passes through potholes, entrances and exit pits, including during
+3 pullback.
+4 4. Each underground facilities operator shall be given a reasonable
+5 opportunity to inspect its facility before and during the boring
+6 operation.
+7 F. If a landlord fails to respond to an excavator's request in a
+8 manner required by this article, an excavator does not violate this
+9 article and fulfills the standard of care of a reasonably prudent
+10 excavator if the excavator complies with all of the following:
+11 1. One working day before conducting the excavation, the excavator
+12 notifies the landlord in writing or by fax that the excavator has
+13 determined that the acts or omissions of the landlord is CONSTITUTE a
+14 refusal to respond to an excavator's request.
+15 2. The excavator investigates for the presence of visible and
+16 obvious evidence that would alert a reasonable excavator to the presence
+17 of an unmarked underground facility within the boundaries of the area to
+18 be excavated.
+19 3. The excavator carefully locates all unmarked facilities that are
+20 known to exist due to the excavator's investigation performed pursuant to
+21 paragraph 2 of this subsection using one of the methods listed in
+22 subsection G of this section and carefully marks the facilities with
+23 stakes or paint or in some customary manner. In addition, when a landlord
+24 provides verbal or written information regarding the location of
+25 underground facilities that are within the boundaries of the area to be
+26 excavated, the excavator carefully locates all such identified facilities
+27 using one of the methods listed in subsection G of this section and
+28 carefully marks the facilities with stakes or paint or in some customary
+29 manner.
+30 4. The excavator takes measures to control all such located
+31 facilities in a careful and prudent manner.
+32 5. The excavator shall not excavate if the excavator receives a
+33 response from the landlord that notifies or alerts the excavator to the
+34 presence of a mistake or an intention by the landlord to respond in a
+35 manner that is consistent with this article, even if the response will be
+36 untimely. A landlord's delay, failure to respond to a location request,
+37 failure to mark or other noncompliance is not excused by the excavator's
+38 or landlord's compliance with this subsection.
+39 G. Except as otherwise provided in this section, in performing the
+40 marking required by subsection B of this section, the underground
+41 facilities operator of an underground facility installed after December
+42 31, 1988 in a public street, alley or right-of-way dedicated to public use
+43 or public utility easement, but not including any express or implied
+44 private property utility easement, shall carefully locate the facility by
+45 referring to installation records of the facility that are in the
+46 possession of the underground facility operator and utilizing one of the
+47 following methods:
+-6-
+
+Senate Amendments to S.B. 1137
+1 1. Vertical line or facility markers.
+2 2. Locator strip or locator wire.
+3 3. Signs or permanent markers.
+4 4. Electronic or magnetic location or tracing techniques.
+5 5. Electronic or magnetic sensors or markers.
+6 6. Metal sensors or sensing techniques.
+7 7. Sonar techniques.
+8 8. Underground electrical or radio transmitters.
+9 9. Manual location techniques, including pot-holing.
+10 10. Surface extensions of underground facilities.
+11 11. Any other surface or subsurface location technique that is at
+12 least as accurate as the other marking methods in this subsection and that
+13 is not prohibited by the commission or by federal or state law. This
+14 paragraph does not obligate an underground facilities operator to be aware
+15 of and utilize every surface or subsurface location technique available.
+16 H. Except as otherwise provided in this section, for an underground
+17 facility other than one installed after December 31, 1988, in a public
+18 street, alley or right-of-way dedicated to public use or public utility
+19 easement, in performing the marking required by subsection B of this
+20 section, the underground facilities operator may refer to installation
+21 records or other records relating to the facility to assist in locating
+22 the facility and shall carefully locate the facility utilizing one of the
+23 methods listed under subsection G of this section.
+24 I. If an underground facilities operator is unable to complete the
+25 location and marking within the time period provided by subsection B of
+26 this section, the UNDERGROUND facilities operator shall satisfy the
+27 requirements of this section by providing prompt notice of these facts to
+28 the excavator and assigning one or more representatives to be present on
+29 the excavation site at all pertinent times as requested by the excavator
+30 to provide facility location services until the facilities have been
+31 located and marked or the excavator is notified that marking is
+32 unnecessary pursuant to any mutually agreeable method. A person that
+33 receives notice from the underground facilities operator of these facts
+34 shall not begin excavating before the underground facilities operator has
+35 completed marking the underground facility or the excavator is notified
+36 that marking is unnecessary. Except as provided in subsection J of this
+37 section, the underground facilities operator shall bear all of its own
+38 expenses associated with assigning representatives.
+39 J. The marking required by subsection B of this section is valid
+40 for fifteen working days from the date of the marking. If the excavation
+41 will continue past the validity period of the marks as provided by this
+42 subsection, the excavator shall notify the underground facilities operator
+43 or an organization designated by the underground facilities operator at
+44 least two working days before the end of the validity period. All
+45 requests for facility markings and requests to extend the validity period
+46 of the markings shall be for the purpose of excavating within the validity
+47 period of the markings. An excavator that requests facility markings
+-7-
+
+Senate Amendments to S.B. 1137
+1 shall limit the request to an area that can reasonably be excavated within
+2 the validity period of the markings. A person who violates this
+3 subsection is liable to the one-call notification center and to all
+4 affected underground facilities operators for any damages proximately
+5 caused by the violation, including economic loss.
+6 K. Nothing in [IN ADDITION TO] [NOTWITHSTANDING] THE
+7 PRECONSTRUCTION CONFERENCE THAT IS REQUIRED [IN THE] [FOR A] LARGE PROJECT
+8 [NOTIFICATION PROCESS], this section shall be construed to DOES NOT
+9 prevent an excavator and an underground facilities operator from holding a
+10 preconstruction conference regarding marking and location of underground
+11 facilities and entering into a mutually agreeable written schedule for
+12 marking or excavating or written arrangement that may constrain the
+13 excavation methods or that may provide for the delivery of installation
+14 records to the excavator for the purpose of satisfying the requirements of
+15 this section, except that this subsection does not eliminate the
+16 excavator's obligation to notify the underground facilities operator to
+17 locate and mark excavation sites under subsection B of this section based
+18 on the actual construction schedule.
+19 L. For abandoned and apparently abandoned underground facilities:
+20 1. The underground facilities operator shall notify the excavator
+21 whether the facility is active or abandoned. An inactive facility shall
+22 be considered active for purposes of this subsection. This section does
+23 not obligate any person to represent that an underground sewer facility in
+24 any public street, alley, right-of-way dedicated to public use or public
+25 utility easement is abandoned if it was installed on or before December
+26 31, 2005 and it is not owned by an underground facilities operator of a
+27 sewer system. This paragraph does not obligate a landlord to represent
+28 that an underground facility in any apartment community or mobile home
+29 park is abandoned if it was installed before January 1, 2007.
+30 2. For an underground facility abandoned after December 31, 1988 or
+31 covered by installation records prepared under section 40-360.30, the
+32 underground facilities operator may not advise or represent to the
+33 excavator that a facility or portion of a facility is abandoned unless the
+34 underground facilities operator has verified, by reference to installation
+35 records or by testing, that the facility or portion is actually abandoned
+36 and not merely inactive. For all other abandoned or apparently abandoned
+37 underground facilities, each one-call notification center shall establish
+38 a method of providing personnel from an underground facilities operator
+39 qualified to safely inspect and verify that the facility is abandoned or
+40 active. For the purposes of this article, an underground facilities
+41 operator shall not represent that an underground facility is abandoned
+42 unless the facility has been verified as abandoned pursuant to this
+43 subsection.
+44 3. For the purposes of this article, if an excavator encounters an
+45 apparently abandoned underground facility, the excavator shall not treat
+46 the underground facility as abandoned until the excavator has received
+47 notification that the underground facility is abandoned pursuant to
+-8-
+
+Senate Amendments to S.B. 1137
+1 paragraph 1 of this subsection or has notified the underground facilities
+2 operator of the apparent abandonment and has received verification of
+3 abandonment pursuant to paragraph 2 of this subsection.
+4 4. Each one-call notification center may establish a method for
+5 reimbursing the verifying underground facilities operator for the expenses
+6 incurred under paragraph 2 of this subsection. The reimbursement method
+7 shall not include any charge or expense to the excavator. A landlord that
+8 fails to advise or represent that an underground facility is abandoned
+9 pursuant to paragraph 1 of this subsection, whose underground facility is
+10 verified as abandoned pursuant to this subsection and who has not filed
+11 information with a one-call notification center is liable to the one-call
+12 notification center and to all affected underground facilities operators
+13 and excavators for the cost of verifying abandonment together with any
+14 damages, including economic loss, proximately caused by the violation.
+15 M. All new and active underground facilities installed in any real
+16 property after December 31, 2005 shall be installed with a detectible
+17 underground location device unless the facility is capable of being
+18 detected from above ground with an electronic locating device or the
+19 facility is installed within single family residential property and is
+20 beneath a pool, permanent pool decking that is less than forty-eight
+21 inches from the pool or a permanent building. A person who violates this
+22 subsection is subject to a civil penalty in an amount OF not to exceed
+23 five thousand dollars MORE THAN $5,000. The building official shall
+24 administer and enforce this subsection for all underground facilities
+25 except those that are installed for a public utility or municipal
+26 corporation. Any penalties received by the building official shall be
+27 deposited in the municipality's or political subdivision's general fund,
+28 as applicable. Except as required by a city, town or county building code
+29 or other related code, for purposes of locating an underground facility a
+30 building official or political subdivision shall not compel the
+31 installation of one or more clean-outs on any underground sewer facility
+32 that is owned by another person and serves one customer where any portion
+33 of the underground sewer facility is in any public street, alley,
+34 right-of-way dedicated to public use, private property or easement.
+35 N. Nothing in This section shall be construed as prohibiting DOES
+36 NOT PROHIBIT the use of warning tape, warning markers or any other warning
+37 device by the underground facilities operator.
+38 O. For every underground facilities operator of a sewer system:
+39 1. For the purposes of this article, an underground facilities
+40 operator of a sewer system is responsible for locating and carefully
+41 marking the underground sewer facilities owned by another person pursuant
+42 to subsection B of this section if those underground facilities are
+43 installed after December 31, 2005 and are in any public street, alley,
+44 right-of-way dedicated to public use or public utility easement.
+-9-
+
+Senate Amendments to S.B. 1137
+1 2. In performing the marking required by this subsection, the
+2 underground facilities operator of the sewer system shall carefully locate
+3 the facility by referring to installation records of the facility and by
+4 using one of the methods listed in subsection G of this section.
+5 3. This subsection does not obligate an underground facilities
+6 operator of a sewer system to locate and mark the underground sewer
+7 facilities owned by another person if the customer receiving sewer service
+8 from the underground sewer facility refuses to grant permission to the
+9 underground facilities operator of a sewer system to access the real
+10 property for the purpose of ascertaining the location of the underground
+11 sewer facility in any public street, alley, right-of-way dedicated to
+12 public use or public utility easement.
+13 4. This subsection does not obligate an underground facilities
+14 operator of a sewer system to maintain, clean or unstop underground sewer
+15 facilities owned by another person.
+16 P. For every landlord:
+17 1. For the purposes of this article, each landlord is responsible
+18 for marking the underground facilities operated by the landlord pursuant
+19 to subsection B of this section. For the purposes of this paragraph,
+20 "underground facilities operated by the landlord" includes every
+21 underground facility that is in an apartment community or a mobile home
+22 park and that:
+23 (a) Discharges into an underground facility that is operated by the
+24 landlord.
+25 (b) Is supplied by an underground facility that is operated by the
+26 landlord.
+27 (c) Is not operated by a public utility or municipal corporation.
+28 2. If a landlord is unable to complete the location and marking
+29 within the time period provided by subsection B of this section, the
+30 landlord shall satisfy its obligations in the manner provided by
+31 subsection I of this section. Nothing in This subsection shall be
+32 construed to DOES NOT prevent the excavator and the landlord from entering
+33 into a mutually agreeable written schedule or written arrangement for
+34 satisfying the requirements of this section in the manner provided by
+35 subsection K of this section.
+36 3. In performing the marking required by this subsection for an
+37 underground facility installed after December 31, 2006, the landlord shall
+38 carefully locate the facility by referring to installation records of the
+39 facility that are in the possession of the landlord and by using one of
+40 the methods listed in subsection G of this section.
+41 4. In performing the marking required by this subsection for an
+42 underground facility installed before January 1, 2007, the landlord may
+43 refer to installation records or other records relating to the facility to
+44 assist in locating the facility and shall locate the facility using one of
+45 the methods listed in subsection G of this section.
+-10-
+
+Senate Amendments to S.B. 1137
+1 5. Subject to the availability of monies, landlords may apply for
+2 grants from a grant account established for the purpose of meeting the
+3 standards prescribed by this article and for the purpose of creating
+4 installation records for facilities that are not required to be created or
+5 maintained by this article.
+6 6. Notwithstanding any other provision in this article, a landlord
+7 is not liable for any costs or expenses, including damage to third
+8 parties, resulting from damage to an underground sewer facility owned by
+9 the landlord and located within a public right-of-way if the damage was
+10 not caused by either:
+11 (a) The landlord’s or tenant’s actions.
+12 (b) The landlord’s or tenant’s refusal to grant access to the
+13 operator of the sewer system that connects to the landlord’s underground
+14 sewer facility.
+15 7. This article does not obligate a landlord to locate and mark a
+16 facility owned by a tenant if the tenant owns the mobile home, the tenant
+17 refuses to grant permission to the landlord to access the mobile home and
+18 the facility cannot be located without accessing the mobile home.
+19 8. Any rule, regulation, lease or agreement that purports to
+20 obligate a tenant to perform the landlord's obligations required by this
+21 article is against the public policy of this state and is void.
+22 9. This subsection does not obligate a landlord to maintain, clean
+23 or unstop underground facilities owned by another person.
+24 Q. All inquiries and notices to a landlord shall be made to the
+25 address on file at a one-call notification center. Notwithstanding any
+26 other law, if the landlord has not filed information at the one-call
+27 notification center, the excavator does not violate this article and
+28 fulfills the standard of care of a reasonably prudent excavator if the
+29 excavator makes the inquiry or notice to the property owner of record
+30 according to the records of the county assessor in the county in which the
+31 property is located.
+32 R. AN EXCAVATOR THAT PROPOSES TO PERFORM A LARGE PROJECT SHALL
+33 NOTIFY A ONE-CALL NOTIFICATION CENTER AS SOON AS POSSIBLE BUT NOT LESS
+34 THAN FIFTEEN BUSINESS DAYS OR TWENTY-ONE CALENDAR DAYS BEFORE THE PROPOSED
+35 START DATE TO SCHEDULE A LARGE PROJECT COORDINATION MEETING. THE LARGE
+36 PROJECT NOTIFICATION TO A ONE-CALL NOTIFICATION CENTER INITIATES A MEETING
+37 BETWEEN THE EXCAVATOR[, THE LOCAL JURISDICTION] AND THE UNDERGROUND
+38 FACILITIES OPERATOR TO:
+39 1. IDENTIFY THE PROPOSED PLAN FOR MARKING REQUEST NOTIFICATIONS.
+40 2. [EVALUATE] [DISCUSS] ANY POTENTIAL UNDERGROUND FACILITY
+41 CONFLICTS.
+42 3. ESTABLISH A MARKING [AND EXCAVATION] SCHEDULE.
+43 4. DISCUSS ANY OTHER PROTECTIVE MEASURES THAT ARE APPROPRIATE TO
+44 THE SCOPE AND DURATION OF THE LARGE PROJECT.
+45 S. AN EXCAVATOR THAT REQUESTS A LARGE PROJECT COORDINATION MEETING
+46 AS PRESCRIBED IN SUBSECTION R OF THIS SECTION SHALL PROVIDE THE FOLLOWING
+47 INFORMATION TO THE ONE-CALL NOTIFICATION CENTER:
+-11-
+
+Senate Amendments to S.B. 1137
+1 1. THE TYPE OF WORK TO BE PERFORMED.
+2 2. THE COMPLETE GEOGRAPHIC SCOPE.
+3 3. THE PROPOSED PHASED PLAN FOR MARKING NOTIFICATIONS WITHIN THE
+4 COMPLETE GEOGRAPHIC SCOPE OF THE LARGE PROJECT.
+5 4. THE PROPOSED START DATE.
+6 5. THE EXPECTED COMPLETION DATE.
+7 6. A PROPOSED MEETING DATE, TIME AND LENGTH [FOR SCHEDULING A] [OF
+8 THE LARGE PROJECTION COORDINATION] MEETING WITH THE AFFECTED UNDERGROUND
+9 [FACILITY OPERATORS] [FACILITIES OPERATOR AND THE LOCAL JURISDICTION].
+10 T. ON RECEIPT OF THE LARGE PROJECT NOTIFICATION FROM THE EXCAVATOR,
+11 THE UNDERGROUND FACILITIES OPERATOR SHALL:
+12 1. CONFIRM THE UNDERGROUND FACILITIES OPERATOR'S INTENT TO ATTEND
+13 THE MEETING AS SOON AS POSSIBLE BUT NOT LATER THAN TWO BUSINESS DAYS AFTER
+14 RECEIVING THE LARGE PROJECT NOTIFICATION.
+15 2. [IDENTIFY] [DISCUSS] ANY [EXPECTED] [POTENTIAL] CONFLICTS
+16 RELATED TO THE UNDERGROUND FACILITIES THAT MAY OCCUR WITHIN THE COMPLETE
+17 GEOGRAPHIC SCOPE OF THE LARGE PROJECT.
+18 3. DETERMINE THE RESOURCES AND [EXPECTED] TIME FRAMES THAT ARE
+19 NECESSARY TO COMPLETE MARKINGS BASED ON THE EXCAVATOR'S PROPOSED [PHASE]
+20 [PHASED] PLAN FOR MARKING NOTIFICATIONS.
+21 U. THE FOLLOWING APPLY TO THE LARGE PROJECT COORDINATION MEETING:
+22 1. THE MEETING MAY BE ON-SITE OR VIRTUAL. THE EXCAVATOR MAY
+23 INDICATE WHETHER THE MEETING SHOULD TAKE PLACE ON-SITE OR VIRTUALLY BASED
+24 ON THE DISCRETION OF THE EXCAVATOR. IF VIRTUAL, THE EXCAVATOR SHALL
+25 PROVIDE A LINK TO JOIN THE MEETING. IF ON-SITE, THE EXCAVATOR MAY USE THE
+26 MEETING TO COMPLETE WHITE LINING.
+27 2. AT THE MEETING, THE EXCAVATOR[, THE LOCAL JURISDICTION] AND THE
+28 UNDERGROUND FACILITIES OPERATOR SHALL ESTABLISH A SCHEDULE FOR MARKING[,]
+29 [AND] EXCAVATION[,] [REMARKING AND OTHER PROTECTIVE MEASURES THAT ARE
+30 APPROPRIATE TO] [FOR] THE SCOPE AND DURATION OF THE LARGE PROJECT. THE
+31 EXCAVATOR[, THE LOCAL JURISDICTION'S PUBLIC WORKS OR UTILITY INSPECTOR]
+32 AND THE UNDERGROUND FACILITIES OPERATOR SHALL AGREE ON THE QUANTITY OF
+33 TICKETS AND THE GEOGRAPHIC AREA THAT THE TICKETS WILL COVER. THE
+34 EXCAVATOR [WILL] [SHALL] FOLLOW THE [PHASED] PLAN FOR TICKET CREATION THAT
+35 WAS AGREED TO AT THE MEETING.
+36 3. THE UNDERGROUND FACILITIES OPERATOR HAS FIFTEEN BUSINESS DAYS
+37 FROM THE DATE THE EXCAVATOR NOTIFIES THE ONE-CALL NOTIFICATION CENTER TO
+38 LOCATE AND MARK THE GEOGRAPHIC AREA [IDENTIFIED IN THE PHASED PLAN]. THIS
+39 TIME FRAME MAY BE EXTENDED IF AGREED ON BY THE EXCAVATOR IN THE
+40 INTERACTIVE POSITIVE RESPONSE SYSTEM.
+41 V. THE ONE-CALL NOTIFICATION CENTER SHALL PROVIDE THE INTERACTIVE
+42 POSITIVE RESPONSE SYSTEM, WHICH IS A TOOL FOR COMMUNICATION BETWEEN THE
+43 EXCAVATOR AND THE UNDERGROUND FACILITIES OPERATOR FOR THE STATUS OF
+44 LOCATING SITES, WORK UPDATES, CHANGES IN SCHEDULING AND OTHER FACTORS THAT
+45 MAY IMPACT THE LARGE PROJECT.
+46 W. THE EXCAVATOR[, THE LOCAL JURISDICTION] AND THE UNDERGROUND
+47 FACILITIES OPERATOR MAY AGREE TO A PHASED MARKING SCHEDULE THAT PROVIDES
+-12-
+
+Senate Amendments to S.B. 1137
+1 FOR TIMELY AND ACCURATE MARKINGS OF ACTIVE WORK AREAS AS SUBMITTED BY THE
+2 EXCAVATOR WITHIN THE MARKING REQUEST. COMPLIANCE WITH AN AGREED PHASED
+3 SCHEDULE IS DEEMED COMPLIANCE WITH THE NOTICE AND MARKING REQUIREMENTS OF
+4 THIS ARTICLE. ANY CHANGES TO THE AGREED PHASED SCHEDULE SHALL BE
+5 COMMUNICATED AND AGREED TO BY THE EXCAVATOR[, THE LOCAL JURISDICTION] AND
+6 THE UNDERGROUND FACILITIES OPERATOR THROUGH THE INTERACTIVE POSITIVE
+7 RESPONSE SYSTEM.
+8 X. THE ONE-CALL NOTIFICATION CENTER IS RESPONSIBLE FOR DEVELOPING A
+9 PROCESS FOR UNDERGROUND FACILITIES OPERATORS, EXCAVATORS AND DESIGNERS TO
+10 USE THE INTERACTIVE POSITIVE RESPONSE SYSTEM TO ADMINISTER LARGE PROJECT
+11 NOTIFICATIONS, INCLUDING TICKET REQUEST PROCEDURES, COORDINATION MEETING
+12 STANDARDS AND RECORDKEEPING REQUIREMENTS.
+13 Y. IF THE EXCAVATOR[, LOCAL JURISDICTION] AND UNDERGROUND
+14 FACILITIES OPERATOR DO NOT MUTUALLY AGREE ON A MARKING SCHEDULE, THE
+15 MARKINGS SHALL BE COMPLETED WITHIN FIFTEEN BUSINESS DAYS.
+16 Z. THE VALIDITY PERIOD FOR THE MARKINGS [AND THE TICKET REFRESH
+17 PROCEDURES] PRESCRIBED IN SUBSECTION J OF THIS SECTION APPLIES TO BOTH
+18 LARGE PROJECT TICKETS AND STANDARD EXCAVATION NOTICE TICKETS.
+19 Sec. 3. Section 40-360.23, Arizona Revised Statutes, is amended to
+20 read:
+21 40-360.23. Conducting excavation in careful, prudent manner;
+22 liability for negligence; notice; obliteration
+23 of marks
+24 A. Except as otherwise provided in section 40-360.28, subsection E,
+25 obtaining information as required by this article does not excuse any
+26 person making any excavation from doing so in a careful and prudent
+27 manner, nor shall it excuse such persons from liability for any damage or
+28 injury resulting from their negligence.
+29 B. Except as otherwise provided in section 40-360.22, subsection D,
+30 after markings have been made pursuant to section 40-360.22, an excavator
+31 shall notify either the underground facilities operator or an organization
+32 designated by the underground facilities operator if the excavator
+33 encounters an underground facility that has not been located and marked or
+34 has been marked in the wrong location.
+35 C. An excavator or an underground facilities operator shall not
+36 move or obliterate markings made pursuant to this article or fabricate
+37 markings in an unmarked location for the purpose of concealing or avoiding
+38 liability for a violation of or noncompliance with this article.
+39 D. AN EXCAVATOR MAY BEGIN EXCAVATING AFTER THE EXCAVATOR CONTACTS
+40 AND RECEIVES ALL OF THE AFFECTED UNDERGROUND [FACILITY] [FACILITIES]
+41 OWNERS' RESPONSES THROUGH THE INTERACTIVE POSITIVE RESPONSE SYSTEM. AN
+42 UNDERGROUND FACILITIES OPERATOR SHALL ENTER ALL LOCATE STATUS INFORMATION,
+43 INCLUDING MARKED, NO CONFLICT OR DELAYED INTO THE INTERACTIVE POSITIVE
+44 RESPONSE SYSTEM WITHIN THE TIME REQUIRED BY THIS ARTICLE. AN UNDERGROUND
+45 FACILITIES OPERATOR'S DUTY TO MARK IS SATISFIED BY COMPLIANCE WITH A LARGE
+46 PROJECT PLAN AS PRESCRIBED IN SECTION 40-360.22.
+-13-
+
+Senate Amendments to S.B. 1137
+1 [E. NOTWITHSTANDING ANY OTHER LAW, THIS ARTICLE DOES NOT SUPERSEDE
+2 OR PREEMPT ANY ORDINANCE, STANDARD, POLICY, PROCEDURE OR OTHER REQUIREMENT
+3 OF A CITY OR TOWN THAT RELATES TO EXCAVATIONS.]
+4 Sec. 4. Section 40-360.26, Arizona Revised Statutes, is amended to
+5 read:
+6 40-360.26. Damage of underground facility; liability to
+7 owner; homeowner and tenant exemption
+8 A. If any underground facility is damaged by any person in
+9 violation of this article as a result of failing to obtain information as
+10 to its location, failing to take measures for protection of the facilities
+11 or failing to excavate in a careful and prudent manner, the person is
+12 liable to the owner of the underground facility for the total cost of the
+13 repair of the facility.
+14 B. A homeowner or homeowners' association engaging in excavating in
+15 an express or implied private property utility easement across property
+16 owned by the homeowner or homeowners’ association is not liable to the
+17 owner or operator of the underground facility THAT IS damaged by the
+18 homeowner or homeowners' association pursuant to this section if the
+19 damaged underground facility is not buried or placed below ground in
+20 accordance with the applicable standards, if the underground facility is
+21 not located within the easement or if the homeowner or homeowners'
+22 association engaged in the excavation has complied with section 40-360.22.
+23 This subsection does not apply to any person WHO IS employed by a
+24 homeowner or a homeowners' association including a contractor licensed
+25 pursuant to title 32, chapter 10 or a person engaging WHO ENGAGES in
+26 contracting without a license as prohibited by section 32-1151.
+27 C. Notwithstanding any other provision in this article, a homeowner
+28 is not liable for any costs or expenses, including damage to third
+29 parties, resulting from damage to an underground facility THAT IS owned by
+30 the homeowner but located within a public right-of-way if the damage was
+31 not caused by the homeowner's actions or by the homeowner's refusal to
+32 grant permission to the underground facilities operator of a sewer system
+33 to access the real property for the purpose of ascertaining the location
+34 of the underground sewer facility. A tenant is not liable for any costs
+35 or expenses, including damage to third parties, resulting from damage to
+36 an underground facility THAT IS owned by the tenant but located within a
+37 mobile home park if the damage was not caused by the tenant's actions or
+38 by the tenant's refusal to grant permission to the landlord to access the
+39 mobile home for the purpose of ascertaining the location of the
+40 underground facility.
+41 D. AN EXCAVATOR THAT COMPLIES WITH AN AGREED LARGE PROJECT SCHEDULE
+42 PURSUANT TO SECTION 40-360.22 AND THAT USES THE INTERACTIVE POSITIVE
+43 RESPONSE SYSTEM FOR ALL COMMUNICATIONS REQUIRED UNDER THIS ARTICLE IS
+44 DEEMED TO HAVE SATISFIED THE EXCAVATOR'S DUTY TO REQUEST AND MAINTAIN
+45 MARKINGS UNDER THIS ARTICLE FOR THE PORTION OF THE PROJECT COVERED BY THE
+46 LARGE PROJECT SCHEDULE.
+-14-
+
+Senate Amendments to S.B. 1137
+1 Sec. 5. Section 40-360.28, Arizona Revised Statutes, is amended to
+2 read:
+3 40-360.28. Civil penalty; liability
+4 A. Except as provided in section 40-360.22, subsection M, a person
+5 who violates any provision of this article is subject to a civil penalty
+6 in an amount OF not to exceed five thousand dollars MORE THAN $5,000 to be
+7 imposed by the court in favor of the state. Any penalties received by the
+8 state shall be deposited in the state general fund.
+9 B. If a violation of this article results in damage to an
+10 underground facility, the violator is liable to all affected underground
+11 facilities operators and excavators for all resulting damages proximately
+12 caused by the violations, including economic loss.
+13 C. If a person violates this article by failing to provide timely
+14 notice as required by this article, by failing to respond in the time and
+15 manner provided by this article or by failing to locate and mark an
+16 underground facility in the manner provided by this article, the person is
+17 liable to all affected underground facilities operators and excavators for
+18 all damages proximately caused by the violation, including economic loss.
+19 D. Notwithstanding any other law, a violation of section 40-360.22,
+20 subsection D or subsection L, paragraph 3 is a superseding event that
+21 breaks the chain of causation for any damages that could result from an
+22 underground facilities operator's failure to accurately locate or mark an
+23 underground facility.
+24 E. If a landlord or an excavator complies with the duties set forth
+25 in sections 40-360.22, 40-360.30 and 40-360.32 for all facilities operated
+26 by a landlord as provided in section 40-360.22, subsection P, paragraph 1,
+27 the person is not liable for any death or injury to persons or property or
+28 for any economic loss to any person to the extent the conduct is regulated
+29 by this article. This section does not excuse any landlord or excavator
+30 from liability for any death or injury to persons or property or for any
+31 economic loss to any person to the extent the injury or loss does not
+32 arise from the conduct regulated by this article.
+33 F. This section is not applicable DOES NOT APPLY to an excavation
+34 made:
+35 1. During an emergency which THAT involves IMMEDIATE danger to
+36 life, health or property if reasonable precautions are taken to protect
+37 underground facilities.
+38 2. In agricultural operations or for the purpose of finding or
+39 extracting natural resources.
+40 3. With hand tools on property owned or occupied by the person
+41 performing the excavation while gardening or tilling such property.
+42 G. AN UNDERGROUND FACILITIES OPERATOR OR AN EXCAVATOR MAY BE
+43 SUBJECT TO A CIVIL PENALTY AS PROVIDED BY THIS SECTION IF THE UNDERGROUND
+44 FACILITIES OPERATOR OR THE EXCAVATOR FAILS:
+-15-
+
+Senate Amendments to S.B. 1137
+1 1. TO NOTIFY THE ONE-CALL NOTIFICATION CENTER AT LEAST TWO BUSINESS
+2 DAYS BEFORE BEGINNING EXCAVATION.
+3 2. TO COMPLY WITH A LARGE PROJECT TICKET COORDINATION PLAN.
+4 3. TO ADHERE TO THE REQUIREMENTS OF THE INTERACTIVE POSITIVE
+5 RESPONSE SYSTEM.
+6 Sec. 6. Title 40, chapter 2, article 6.3, Arizona Revised Statutes,
+7 is amended by adding section 40-360.33, to read:
+8 40-360.33. Corporation commission; rulemaking; one-call
+9 notification center
+10 THE COMMISSION, IN CONSULTATION WITH THE ONE-CALL NOTIFICATION
+11 CENTER AND IMPACTED STAKEHOLDERS, SHALL:
+12 1. ADOPT RULES TO IMPLEMENT THIS ARTICLE THAT INCLUDE ALL OF THE
+13 FOLLOWING:
+14 (a) PROCEDURES FOR LARGE PROJECT TICKETS.
+15 (b) MANDATORY WHITE LINING.
+16 (c) THE INTERACTIVE POSITIVE RESPONSE SYSTEM.
+17 2. ESTABLISH MINIMUM TECHNICAL AND DATA SECURITY STANDARDS FOR THE
+18 INTERACTIVE POSITIVE RESPONSE SYSTEM.
+19 Sec. 7. Corporation commission; rulemaking; one year
+20 The corporation commission shall adopt rules to implement this act
+21 within one year after the effective date of this act.
+22 Enroll and engross to conform
+23 Amend title to conform
+JOHN KAVANAGH
+1137FloorKAVANAGH.docx
+02/19/2026
+11:47 AM
+C: SK
+130HCUXAQ
+-16-

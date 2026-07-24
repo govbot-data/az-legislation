@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Appropriations, Transportation and Technology - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Appropriations, Transportation and Technology
+Second Regular Session H.B. 2940
+COMMITTEE ON APPROPRIATIONS, TRANSPORTATION AND TECHNOLOGY
+SENATE AMENDMENTS TO H.B. 2940
+(Reference to House engrossed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 41-1733, Arizona Revised Statutes, is amended
+3 to read:
+4 41-1733. School safety interoperability fund; school safety
+5 program; annual report; testing
+6 A. The school safety interoperability fund is established
+7 consisting of monies appropriated to the fund by the legislature. The
+8 department of administration shall administer the fund. Monies in the
+9 fund are continuously appropriated. Monies in the fund shall be
+10 distributed to the sheriff of a county or a city or town police department
+11 that establishes a school safety program and may be used only for a school
+12 safety program that meets all of the following:
+13 1. Encompasses schools throughout this state.
+14 2. In a school safety program county, CITY OR TOWN, enables the
+15 deployment of a secure, multimedia data communications system to a user
+16 base consisting of public safety agencies and public schools providing
+17 instruction in any combination of kindergarten programs and grades one
+18 through twelve.
+19 3. Provides a communications solution environment that allows for:
+20 (a) Identifying system users' identity, location and operational
+21 status during an incident.
+22 (b) Secure text messaging and file sharing to all users involved in
+23 DURING an incident.
+24 (c) Secure sharing of collaborative maps, building floor plans and
+25 images between schools and public safety agencies.
+26 (d) Integrating manually activated panic alarm systems that, when
+27 activated, establish direct collaboration between schools and public
+28 safety agencies.
+29 (e) Using multiple forms of real-time communications and
+30 information collaboration, including voice and, IF FEASIBLE, full-motion
+31 video sharing, during an incident.
+32 4. Is capable of being deployed to end users on existing
+33 communications assets owned by participating entities.
+34 5. Allows each participating entity to maintain discretionary
+35 real-time control of all communications assets owned or operated by the
+36 entity.
+37 6. Encrypts all media communications.
+38 7. Is certified under the United States department of homeland
+39 security safety act as qualified anti-terrorism technology.
+
+Senate Amendments to H.B. 2940
+1 8. Is compatible with the federal emergency management agency
+2 interoperable gateway system for disaster communications.
+3 9. Ensures student and staff privacy.
+4 10. Enables integration to school access control systems to allow
+5 remote lockdown by law enforcement through the same multimedia system.
+6 B. On or before November 1 of each year, the sheriff of a county or
+7 a city or town police department that has established a school safety
+8 program pursuant to this section shall submit a report to the joint
+9 legislative budget committee of all expenditures made for the school
+10 safety program in the preceding fiscal year.
+11 C. EACH PARTICIPATING PUBLIC SCHOOL SHALL TEST THE SCHOOL SAFETY
+12 PROGRAM NOT LESS THAN TWICE EACH CALENDAR YEAR TO ENSURE FUNCTIONALITY.
+13 Sec. 2. Appropriation: school safety interoperability fund;
+14 distributions
+15 A. The sum of $3,450,000 is appropriated from the state general
+16 fund in fiscal year 2026-2027 to the school safety interoperability fund
+17 established by section 41-1733, Arizona Revised Statutes, as amended by
+18 this act.
+19 B. Notwithstanding any other law, in fiscal year 2026-2027, the
+20 department of administration may distribute monies in the fund to the
+21 following sheriffs' offices in the following amounts for continuing
+22 operation and maintenance of school safety programs authorized pursuant to
+23 section 41-1733, Arizona Revised Statutes, as amended by this act:
+24 1. $275,000 to Apache county sheriff's office.
+25 2. $280,000 to Gila county sheriff's office.
+26 3. $280,000 to Graham county sheriff's office.
+27 4. $170,000 to Greenlee county sheriff's office.
+28 5. $200,000 to La Paz county sheriff's office.
+29 6. $525,000 to Mohave county sheriff's office.
+30 7. $540,000 to Navajo county sheriff's office.
+31 8. $350,000 to Santa Cruz county sheriff's office.
+32 9. $600,000 to Yavapai county sheriff's office.
+33 10. $250,000 to Cochise county sheriff's office."
+34 Amend title to conform
+2940ATT.docx
+03/26/2026
+1:04 PM
+C: JR
+130ZXTFHM
+-2-

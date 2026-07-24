@@ -1,0 +1,439 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Rogers flr amend (ref Resolution) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.C.R. 1004
+Rogers Floor Amendment
+Reference to: printed resolution
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Restores the ability of local authorities and state agencies to use photo enforcement systems when
+specified conditions are met, as well as the requirements relating to the use of photo enforcement
+systems.
+2. Prohibits a local authority or state agency from using a photo enforcement system unless the local
+authority or state agency has a signed contract to operate the photo enforcement system by
+December 31, 2026.
+3. Requires a local authority that has a signed photo enforcement contract to seek approval of the
+voters at the general election immediately following the effective date to continue operation of the
+photo enforcement system.
+4. Requires a local authority to cease operation of a photo enforcement system within 90 days of the
+general election at which the voters fail to approve the operation of the photo enforcement system.
+5. Stipulates that, if the voters approve the photo enforcement system, the local authority may
+continue to operate the system for 10 years.
+6. Requires a local authority that has received voter approval for the use of photo enforcement to
+seek voter approval every 10 years to continue use of the photo enforcement system.
+Amendment explanation prepared by Kaytie Sherman
+2/25/2026
+
+Fifty-seventh Legislature Rogers
+Second Regular Session S.C.R. 1004
+ROGERS FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.C.R. 1004
+(Reference to printed resolution)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The resolution as proposed to be amended is reprinted as follows:
+2 1. Under the power of the referendum, as vested in the Legislature,
+3 the following measure, relating to photo enforcement systems, is enacted
+4 to become valid as a law if approved by the voters and on proclamation of
+5 the Governor:
+6 AN ACT
+7 AMENDING SECTIONS 28-601, 28-627 AND 28-1201, ARIZONA REVISED
+8 STATUTES; REPEALING SECTIONS 28-1202, 28-1203, 28-1204,
+9 28-1205 AND 28-1206, ARIZONA REVISED STATUTES; AMENDING TITLE
+10 28, CHAPTER 3, ARTICLE 21, ARIZONA REVISED STATUTES, BY ADDING
+11 A NEW SECTION 28-1202; REPEALING SECTION 28-1602, ARIZONA
+12 REVISED STATUTES; RELATING TO PHOTO ENFORCEMENT.
+13 Be it enacted by the Legislature of the State of Arizona:
+14 <<Section 1. Section 28-601, Arizona Revised Statutes,
+15 is amended to read:
+16 28-601. Definitions
+17 In this chapter, unless the context otherwise requires:
+18 1. "Commercial motor vehicle" means a motor vehicle or
+19 combination of vehicles that is designed, used or maintained
+20 to transport passengers or property in the furtherance of a
+21 commercial enterprise, that is a commercial motor vehicle as
+22 defined in section 28-5201 and that is not exempt from gross
+23 weight fees as prescribed in section 28-5432, subsection B.
+24 2. "Controlled access highway" means a highway, street
+25 or roadway to or from which owners or occupants of abutting
+26 lands and other persons have no legal right of access except
+27 at such points only and in the manner determined by the public
+
+Senate Amendments to S.C.R. 1004
+1 authority that has jurisdiction over the highway, street or
+2 roadway.
+3 3. "Crosswalk" means:
+4 (a) That part of a roadway at an intersection included
+5 within the prolongations or connections of the lateral lines
+6 of the sidewalks on opposite sides of the highway measured
+7 from the curbs or, in absence of curbs, from the edges of the
+8 traversable roadway.
+9 (b) Any portion of a roadway at an intersection or
+10 elsewhere that is distinctly indicated for pedestrian crossing
+11 by lines or other markings on the surface.
+12 4. "Escort vehicle" means a vehicle that is required
+13 pursuant to rules adopted by the department to escort motor
+14 vehicles or combinations of vehicles that require issuance of
+15 a permit pursuant to article 18 or 19 of this chapter for
+16 operation on the highways of this state.
+17 5. "Explosives" means any chemical compound, mixture or
+18 device that is commonly used or intended for the purpose of
+19 producing an explosion and that is defined in 49 Code of
+20 Federal Regulations part 173.
+21 6. "Flammable liquid" means any liquid that has a flash
+22 point of less than one hundred degrees Fahrenheit and that is
+23 defined in 49 Code of Federal Regulations section 173.120.
+24 7. "Gross weight" means the weight of a vehicle without
+25 a load plus the weight of any load on the vehicle.
+26 8. "Intersection" means the area embraced within the
+27 prolongation or connection of the lateral curb lines, or if
+28 none, the lateral boundary lines of the roadways of two
+29 highways that join one another at, or approximately at, right
+30 angles, or the area within which vehicles traveling on
+31 different highways joining at any other angle may come in
+32 conflict. If a highway includes two roadways thirty or more
+33 feet apart, each crossing of each roadway of the divided
+34 highway by an intersecting highway is a separate intersection.
+35 If the intersecting highway also includes two roadways thirty
+36 or more feet apart, each crossing of two roadways of the
+37 highways is a separate intersection.
+38 9. "License" means any license, temporary instruction
+39 permit or temporary license issued under the laws of this
+40 state or any other state that pertain to the licensing of
+41 persons to operate motor vehicles.
+42 10. "Low emission and energy efficient vehicle" means a
+43 vehicle that has been certified by the United States
+44 environmental protection agency administrator in accordance
+45 with 23 United States Code section 166 or that is part of a
+46 federally approved pilot program.
+-2-
+
+Senate Amendments to S.C.R. 1004
+1 11. "Motorized wheelchair" means any self-propelled
+2 wheelchair that is used by a person for mobility.
+3 12. "Official traffic control device" means any sign,
+4 signal, marking or device that is not inconsistent with this
+5 chapter and that is placed or erected by authority of a public
+6 body or official having jurisdiction for the purpose of
+7 regulating, warning or guiding traffic.
+8 13. "Park", if prohibited, means the standing of a
+9 vehicle, whether occupied or not, otherwise than temporarily
+10 for the purpose of and while actually engaged in loading or
+11 unloading.
+12 14. "Photo enforcement system" means a device
+13 substantially consisting of a radar unit or sensor linked to a
+14 camera or other recording device that produces one or more
+15 photographs, microphotographs, videotapes or digital or other
+16 recorded images of a vehicle's license plate for the purpose
+17 of identifying violators of articles 3 and 6 of this chapter.
+18 15. 14. "Pneumatic tire" means a tire in which
+19 compressed air is designed to support the load.
+20 16. 15. "Pole trailer" means a vehicle that is all of
+21 the following:
+22 (a) Without motive power.
+23 (b) Designed to be drawn by another vehicle and
+24 attached to the towing vehicle by means of a reach or pole or
+25 by being boomed or otherwise secured to the towing vehicle.
+26 (c) Used ordinarily for transporting long or
+27 irregularly shaped loads such as poles, pipes or structural
+28 members capable generally of sustaining themselves as beams
+29 between the supporting connections.
+30 17. 16. "Police officer" means an officer authorized
+31 to direct or regulate traffic or make arrests for violations
+32 of traffic rules or other offenses.
+33 18. 17. "Private road or driveway" means a way or
+34 place that is in private ownership and that is used for
+35 vehicular travel by the owner and those persons who have
+36 express or implied permission from the owner but not by other
+37 persons.
+38 19. 18. "Railroad" means a carrier of persons or
+39 property on cars operated on stationary rails.
+40 20. 19. "Railroad sign or signal" means a sign, signal
+41 or device erected by authority of a public body or official or
+42 by a railroad and intended to give notice of the presence of
+43 railroad tracks or the approach of a railroad train.
+44 21. 20. "Railroad train" means a steam engine or any
+45 electric or other motor that is with or without cars coupled
+46 to the steam engine or electric or other motor and that is
+47 operated on rails.
+-3-
+
+Senate Amendments to S.C.R. 1004
+1 22. 21. "Roadway" means that portion of a highway that
+2 is improved, designed or ordinarily used for vehicular travel,
+3 exclusive of the berm or shoulder. If a highway includes two
+4 or more separate roadways, roadway refers to any such roadway
+5 separately but not to all such roadways collectively.
+6 23. 22. "Safety zone" means the area or space that is
+7 both:
+8 (a) Officially set apart within a roadway for the
+9 exclusive use of pedestrians.
+10 (b) Protected or either marked or indicated by adequate
+11 signs as to be plainly visible at all times while set apart as
+12 a safety zone.
+13 24. 23. "Sidewalk" means that portion of a street that
+14 is between the curb lines or the lateral lines of a roadway
+15 and the adjacent property lines and that is intended for the
+16 use of pedestrians.
+17 25. 24. "Stop", if required, means complete cessation
+18 from movement.
+19 26. 25. "Stop, stopping or standing", if prohibited,
+20 means any stopping or standing of an occupied or unoccupied
+21 vehicle, except when necessary to avoid conflict with other
+22 traffic or in compliance with directions of a police officer
+23 or traffic control sign or signal.
+24 27. 26. "Through highway" means a highway or portion
+25 of a highway at the entrances to which vehicular traffic from
+26 intersecting highways is required by law to stop before
+27 entering or crossing and when stop signs are erected as
+28 provided in this chapter.
+29 28. 27. "Traffic" means pedestrians, ridden or herded
+30 animals, vehicles and other conveyances either singly or
+31 together while using a highway for purposes of travel.
+32 29. 28. "Traffic control signal" means a device,
+33 whether manually, electrically or mechanically operated, by
+34 which traffic is alternately directed to stop and to proceed.
+35 30. 29. "Truck" means a motor vehicle that is
+36 designed, used or maintained primarily for the transportation
+37 of property.>>
+38 <<Sec. 2. Section 28-627, Arizona Revised Statutes, is
+39 amended to read:
+40 28-627. Powers of local authorities
+41 A. This chapter and chapters 4 and 5 of this title do
+42 not prohibit a local authority, with respect to streets and
+43 highways under its jurisdiction and within the reasonable
+44 exercise of the police power, from:
+45 1. Regulating the standing or parking of vehicles.
+46 2. Regulating traffic by means of police officers,
+47 traffic control signals or volunteer posse organization
+-4-
+
+Senate Amendments to S.C.R. 1004
+1 members authorized by the sheriff under section 11-441 for the
+2 purpose of directing traffic only.
+3 3. Regulating or prohibiting processions or assemblages
+4 on the highways.
+5 4. Designating particular highways as one-way highways
+6 and requiring that all vehicles on one-way highways be moved
+7 in one specific direction.
+8 5. Regulating the speed of vehicles in public parks.
+9 6. Designating any highway as a through highway and
+10 requiring that all vehicles stop before entering or crossing
+11 the highway or designating any intersection as a stop
+12 intersection and requiring all vehicles to stop at one or more
+13 entrances to the intersection.
+14 7. Restricting the use of highways as authorized in
+15 section 28-1106.
+16 8. Regulating the operation of bicycles and requiring
+17 the registration and licensing of bicycles, including the
+18 requirement of a registration fee.
+19 9. Regulating or prohibiting the turning of vehicles or
+20 specified types of vehicles at intersections.
+21 10. Altering the prima facie speed limits as authorized
+22 by this chapter.
+23 11. Designating routes over streets and highways for
+24 vehicles not exceeding one hundred two inches in width,
+25 exclusive of safety equipment.
+26 12. Adopting other traffic regulations that are
+27 specifically authorized by this chapter or chapter 4 or 5 of
+28 this title.
+29 13. Designating routes on certain streets and highways
+30 for the purpose of allowing off-highway vehicle operators to
+31 gain access to or from a designated off-highway recreation
+32 facility as defined in section 28-1171, off-highway vehicle
+33 trail as defined in section 28-1171 or off-highway vehicle
+34 special event as defined in section 28-1171.
+35 14. Regulating electric bicycles and electric standup
+36 scooters. A local authority may consider the environmental
+37 benefits and traffic benefits of electric bicycles and
+38 electric standup scooters when regulating electric bicycles
+39 and electric standup scooters.
+40 B. A local authority shall not erect or maintain a stop
+41 sign or traffic control signal at any location that requires
+42 the traffic on any state highway to stop before entering or
+43 crossing any intersecting highway unless approval in writing
+44 has first been obtained from the director.
+45 C. An ordinance or regulation enacted under subsection
+46 A, paragraph 4, 5, 6, 7, 9 or 10 of this section is not
+47 effective until signs giving notice of the local traffic
+-5-
+
+Senate Amendments to S.C.R. 1004
+1 regulations are posted on or at the entrances to the highway
+2 or part of the highway affected as is most appropriate.
+3 D. The definition of motor vehicle prescribed in
+4 section 28-101 does not prevent a local authority from
+5 adopting ordinances that regulate or prohibit the operation of
+6 motorized skateboards, except that a local authority shall not
+7 adopt an ordinance that requires registration and licensing of
+8 motorized skateboards. For the purposes of this subsection,
+9 "motorized skateboard" means a self-propelled device that does
+10 not have handlebars and that has a motor, a deck on which a
+11 person may ride and at least two tandem wheels in contact with
+12 the ground.
+13 E. In addition to the appointment of peace officers, a
+14 local authority may provide by ordinance for the appointment
+15 of:
+16 1. Unarmed police aides or municipally approved private
+17 contractors who are employed or contracted by the police
+18 department and who are empowered to commence an action or
+19 proceeding before a court or judge for a violation of the
+20 local authority's ordinances regulating the standing or
+21 parking of vehicles. A municipally approved private
+22 contractor shall not include a relative of an employee or of
+23 an elected official of the municipality. The authority of the
+24 unarmed police aide or municipally approved private contractor
+25 as authorized in this section is limited to the enforcement of
+26 the ordinances of local authorities regulating the standing or
+27 parking of vehicles. Pursuant to rules established by the
+28 supreme court, an unarmed police aide appointed pursuant to
+29 this paragraph may serve any process originating out of a
+30 municipal court in the municipality in which the unarmed
+31 police aide is employed. Service of process under this
+32 paragraph shall only be made during the hours the municipal
+33 court is open for the transaction of business and only on
+34 court premises. This paragraph does not grant to unarmed
+35 police aides or municipally approved private contractors other
+36 powers or benefits to which peace officers of this state are
+37 entitled.
+38 2. Traffic investigators who may:
+39 (a) Investigate traffic accidents within the
+40 jurisdiction of the local authority.
+41 (b) Commence an action or proceeding before a court or
+42 judge for any violation of a state statute or local ordinance
+43 relating to traffic, if the violation is related to a traffic
+44 accident within the jurisdiction of the local authority.
+45 (c) Pursuant to rules established by the supreme court,
+46 serve any process originating out of a municipal court in the
+47 municipality in which the traffic investigator is employed.
+-6-
+
+Senate Amendments to S.C.R. 1004
+1 Service of process under paragraph 1 of this subsection shall
+2 only be made during the hours the municipal court is open for
+3 the transaction of business and only on court premises.
+4 F. A traffic investigator appointed pursuant to this
+5 section shall:
+6 1. Be unarmed at all times during the course of the
+7 traffic investigator's duties.
+8 2. Be an employee of the appointing local authority.
+9 3. File written reports as required pursuant to section
+10 28-667.
+11 G. Notwithstanding subsection E of this section, an
+12 unarmed police aide, a municipally approved private contractor
+13 or a traffic investigator shall not serve any process
+14 resulting from a citation issued for a violation of article 3
+15 or 6 of this chapter or of a city or town ordinance for
+16 excessive speed or failure to obey a traffic control device
+17 that is obtained using a photo enforcement system.
+18 H. G. This section does not grant other powers or
+19 benefits to traffic investigators to which peace officers of
+20 this state are entitled.
+21 I. H. Pursuant to section 28-1092, a local authority
+22 shall provide reasonable access to and from terminals and
+23 service facilities on highways under its jurisdiction.>>
+24 Section 1. Section 28-1201, Arizona Revised Statutes,
+25 is amended to read:
+26 28-1201. Definition of photo enforcement system
+27 In this article, unless the context otherwise requires,
+28 "photo enforcement system" has the same meaning prescribed in
+29 section 28-601 MEANS A DEVICE SUBSTANTIALLY CONSISTING OF A
+30 RADAR UNIT OR SENSOR LINKED TO A CAMERA OR OTHER RECORDING
+31 DEVICE THAT PRODUCES ONE OR MORE PHOTOGRAPHS,
+32 MICROPHOTOGRAPHS, VIDEOTAPES OR DIGITAL OR OTHER RECORDED
+33 IMAGES OF A VEHICLE'S LICENSE PLATE FOR THE PURPOSE OF
+34 IDENTIFYING VIOLATORS OF ARTICLE 3 OR 6 OF THIS CHAPTER OR OF
+35 A CITY OR TOWN ORDINANCE FOR EXCESSIVE SPEED OR FAILURE TO
+36 OBEY A TRAFFIC CONTROL DEVICE.
+37 <<Sec. 4. Repeal
+38 Sections 28-1202, 28-1203, 28-1204, 28-1205 and 28-1206,
+39 Arizona Revised Statutes, are repealed.>>
+40 Sec. 2. Title 28, chapter 3, article 21, Arizona
+41 Revised Statutes, is amended by adding [a new] section
+42 [28-1202] [28-1207], to read:
+43 [28-1202.] [28-1207.] Photo enforcement system; voter
+44 approval requirement
+45 [A.] A LOCAL AUTHORITY OR AN AGENCY OF THIS STATE MAY
+46 NOT USE A PHOTO ENFORCEMENT SYSTEM TO IDENTIFY VIOLATORS OF
+47 ARTICLE 3 OR 6 OF THIS CHAPTER OR OF A CITY OR TOWN ORDINANCE
+-7-
+
+Senate Amendments to S.C.R. 1004
+1 FOR EXCESSIVE SPEED OR FAILURE TO OBEY A TRAFFIC CONTROL
+2 DEVICE[, UNLESS, ON OR BEFORE DECEMBER 31, 2026, THE LOCAL
+3 AUTHORITY OR THE AGENCY OF THIS STATE HAS A SIGNED CONTRACT TO
+4 OPERATE A PHOTO ENFORCEMENT SYSTEM].
+5 [B. NOTWITHSTANDING SECTION 16-204, A LOCAL AUTHORITY
+6 THAT HAS A SIGNED CONTRACT TO OPERATE A PHOTO ENFORCEMENT
+7 SYSTEM PURSUANT TO SUBSECTION A OF THIS SECTION SHALL SEEK
+8 APPROVAL OF THE VOTERS OF THE LOCAL AUTHORITY AT THE NEXT
+9 GENERAL ELECTION IMMEDIATELY AFTER THE EFFECTIVE DATE OF THIS
+10 SECTION TO CONTINUE OPERATION OF THE PHOTO ENFORCEMENT SYSTEM.
+11 C. IF THE LOCAL AUTHORITY DOES NOT RECEIVE VOTER
+12 APPROVAL TO OPERATE A PHOTO ENFORCEMENT SYSTEM PURSUANT TO
+13 SUBSECTION B OF THIS SECTION, THE LOCAL AUTHORITY SHALL CEASE
+14 OPERATIONS OF THE PHOTO ENFORCEMENT SYSTEM WITHIN NINETY DAYS
+15 AFTER THE GENERAL ELECTION IN WHICH THE VOTERS FAILED TO
+16 APPROVE THE OPERATION OF THE PHOTO ENFORCEMENT SYSTEM.
+17 D. IF THE LOCAL AUTHORITY RECEIVES VOTER APPROVAL TO
+18 OPERATE A PHOTO ENFORCEMENT SYSTEM PURSUANT TO SUBSECTION B OF
+19 THIS SECTION, THE LOCAL AUTHORITY MAY CONTINUE TO OPERATE THE
+20 PHOTO ENFORCEMENT SYSTEM FOR A PERIOD OF TEN YEARS AND ALL OF
+21 THE FOLLOWING APPLY:
+22 1. NOTWITHSTANDING SECTION 16-204, THE LOCAL AUTHORITY
+23 SHALL SUBMIT TO THE LOCAL AUTHORITY'S VOTERS THE QUESTION OF
+24 THE CONTINUED OPERATION OF THE PHOTO ENFORCEMENT SYSTEM FOR AN
+25 ADDITIONAL TEN YEARS THAT SHALL BE PLACED ON THE GENERAL
+26 ELECTION BALLOT FOR THE GENERAL ELECTION THAT IS HELD TEN
+27 YEARS AFTER THE PREVIOUS VOTE THAT APPROVED THE OPERATION OF
+28 THE PHOTO ENFORCEMENT SYSTEM.
+29 2. IF THE LOCAL AUTHORITY RECEIVES VOTER APPROVAL AT
+30 THE ELECTION PRESCRIBED BY PARAGRAPH 1 OF THIS SUBSECTION, THE
+31 LOCAL AUTHORITY MAY CONTINUE TO OPERATE THE PHOTO ENFORCEMENT
+32 SYSTEM FOR A PERIOD OF TEN YEARS AND SHALL SUBMIT TO THE LOCAL
+33 AUTHORITY'S VOTERS THE QUESTION OF THE CONTINUED OPERATION OF
+34 THE PHOTO ENFORCEMENT SYSTEM EVERY TEN YEARS THEREAFTER AS
+35 PRESCRIBED BY THIS SECTION.]
+36 <<Sec. 6. Repeal
+37 Section 28-1602, Arizona Revised Statutes, is
+38 repealed.>>
+39 Sec. 3. Legislative intent
+40 Pursuant to section 41-1107, Arizona Revised Statutes,
+41 the legislature intends to:
+42 1. Keep the enforcement of the laws in this state in
+43 the hands of trained law enforcement officers who are
+44 authorized by the people of this state to enforce the laws.
+45 2. Protect the citizens of this state from the abuses
+46 that accompany the outsourcing of law enforcement to private,
+47 for-profit entities.
+-8-
+
+Senate Amendments to S.C.R. 1004
+1 3. Ensure that the purpose of law enforcement remains to serve and
+2 protect and not to generate revenue for governments.
+3 2. The Secretary of State shall submit this proposition to the
+4 voters at the next general election as provided by article IV, part 1,
+5 section 1, Constitution of Arizona.
+6 Enroll and engross to conform
+7 Amend title to conform
+WENDY ROGERS
+SCR1004FloorROGERS.docx
+02/25/2026
+03:23 PM
+C: JR
+130IHYMTY
+-9-

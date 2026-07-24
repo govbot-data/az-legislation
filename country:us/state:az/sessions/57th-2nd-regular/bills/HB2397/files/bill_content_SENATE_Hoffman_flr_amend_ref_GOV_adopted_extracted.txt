@@ -1,0 +1,520 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Hoffman flr amend (ref GOV) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: H.B. 2397
+HOFFMAN Floor Amendment
+Reference to: GOVERNMENT Committee Amendment
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Removes the requirement that the association manager assigned to a capital or reserve account
+project for a condominium unit owner's association (COA) or a planned community association
+(HOA) must be on-site for specified periods of time.
+2. Requires a COA or HOA with 50 units or more to transmit a disclosure packet as prescribed after
+receipt of the owner's written notice of a pending purchase offer, rather than a pending sale.
+3. Removes the ability for a COA or HOA to charge the disclosure packet fee to a purchaser.
+4. Requires the statement that a property is governed by multiple associations to identify that the
+property is subject to each association's disclosure report and corresponding disclosure fee.
+5. Removes the requirement that the association manager assigned to a capital or reserve account
+project for a COA or HOA must be on-site for specified periods of time.
+6. Makes technical and conforming changes.
+Amendment explanation prepared by Kati Pratt
+06/10/2026
+
+Fifty-seventh Legislature Hoffman
+Second Regular Session H.B. 2397
+HOFFMAN FLOOR AMENDMENT
+SENATE AMENDMENTS TO H.B. 2397
+(Reference to GOVERNMENT Committee amendment)
+Amendment instruction key:
+[GREEN UPPERCASE UNDERLINING IN BRACKETS] indicates that the amendment is adding text to
+statute
+or previously enacted session law.
+[Green lowercase underlining in brackets] indicates that the amendment is adding text to new
+session law or is restoring previously stricken text to existing statute.
+[GREEN UPPERCASE STRIKEOUT IN BRACKETS] indicates that the amendment is removing new text from
+statute or previously enacted session law.
+[Green lowercase strikeout in brackets] indicates that the amendment is removing text from
+existing statute, previously enacted session law or new session law.
+<<Double green carets enclosing an entire section>> indicates that the amendment is adding the
+section to the bill.
+<<Green strikeout with double green carets enclosing an entire section>> indicates that the
+amendment is removing the section to the bill.
+{{ORANGE UPPERCASE UNDERLINING IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is adding text to statute or previously enacted session law.
+{{Orange lowercase underlining in double curly brackets}} indicates that the amendment to an
+amendment is adding text to new session law or is restoring previously stricken text to
+existing statute.
+{{ORANGE UPPERCASE STRIKEOUT IN DOUBLE CURLY BRACKETS}} indicates that the amendment to an
+amendment is removing new text from statute or previously enacted session law.
+{{Orange lowercase strikeout in double curly brackets}} indicates that the amendment to an
+amendment is removing text from existing statute, previously enacted session law or new
+session law.
+≤≤Double orange underlined carets enclosing an entire section≥≥ indicate that the amendment to
+an amendment is adding the section to the bill.
+≤≤Orange strikeout with double orange underlined carets enclosing an entire section≥≥
+indicates that the amendment to an amendment is removing the section from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 33-1260, Arizona Revised Statutes, is amended to
+3 read:
+4 33-1260. Sale of units; information required; fees; civil
+5 penalty; applicability; definition
+6 A. For condominiums with fewer than fifty units, a unit owner shall
+7 mail ELECTRONICALLY TRANSMIT or deliver to a purchaser or a purchaser's
+8 authorized DESIGNATED agent THE INFORMATION REQUIRED BY THIS SUBSECTION
+9 within ten days after receipt of a written notice of a pending sale of the
+10 unit, and ACCEPTANCE OF THE PURCHASER'S OFFER TO PURCHASE. For
+11 condominiums with fifty or more units, [{{ON THE UNIT OWNER'S ACCEPTANCE
+12 OF THE PURCHASER'S OFFER TO PURCHASE,}} THE UNIT OWNER SHALL PROVIDE A
+13 WRITTEN NOTICE TO THE ASSOCIATION OF THE UNIT OWNER'S ACCEPTANCE OF THE
+14 PURCHASER'S OFFER TO PURCHASE {{AND}} {{THAT CONTAINS THE NAME, EMAIL
+15 ADDRESS AND MAILING ADDRESS OF THE PURCHASER OR THE PURCHASER'S DESIGNATED
+16 AGENT.}}] The association shall mail ELECTRONICALLY TRANSMIT or deliver
+17 to [a ] [THE] purchaser or [a ] [THE] purchaser's authorized DESIGNATED
+
+Senate Amendments to H.B. 2397
+1 agent within ten days after receipt of [a ] [THE] written notice of
+2 [a pending sale] {{[THE SELLER'S ACCEPTANCE OF THE PURCHASER'S OFFER TO
+3 PURCHASE] that contains the name, EMAIL ADDRESS and MAILING address of the
+4 purchaser OR THE PURCHASER'S DESIGNATED AGENT}} {{A PENDING PURCHASE
+5 OFFER}} all of the following in either paper or electronic format:
+6 1. A copy of the CURRENT bylaws and the CURRENT rules of the
+7 association.
+8 2. A copy of the CURRENT RECORDED declaration AND FINAL PLAT OR AN
+9 ELECTRONIC COPY OF THE FINAL PLAT, IF AVAILABLE.
+10 3. A COPY OF THE BOARD OF DIRECTORS-APPROVED MINUTES [OF ALL OPEN]
+11 [FROM THE PREVIOUS THREE OPEN] MEETINGS OF THE BOARD OF DIRECTORS [FOR THE
+12 PREVIOUS THREE MEETINGS].
+13 3. 4. A dated statement containing:
+14 (a) The telephone number and address of a principal contact for the
+15 association, which may be an association manager, an association
+16 management company, an officer of the association or any other person
+17 designated by the board of directors.
+18 (b) The amount of AND PAYMENT SCHEDULE FOR the ANNUAL common
+19 expense assessment for the unit and THE REMAINING INSTALLMENTS AND PAYMENT
+20 SCHEDULES ON ANY APPROVED AND ASSESSED SPECIAL ASSESSMENT, IF ANY.
+21 (c) THE AMOUNT AND PURPOSE OF ANY SPECIAL ASSESSMENT APPROVED BY
+22 THE BOARD OF DIRECTORS BUT NOT YET ASSESSED OR ANY SPECIAL ASSESSMENT
+23 SUBMITTED BY THE BOARD OF DIRECTORS FOR UNIT OWNER APPROVAL WITHIN THE
+24 PREVIOUS FOUR MONTHS, IF ANY.
+25 (d) ANY KNOWN MATERIAL DEFICIENCY OR CONDITION OF THE LIMITED
+26 COMMON ELEMENTS ASSOCIATED WITH THE UNIT OR COMMON ELEMENTS KNOWN BY THE
+27 ASSOCIATION FOR WHICH THE PURCHASER WILL BE LIABLE FOR THE DIRECTLY
+28 ASSESSED REPAIR COSTS WITHIN SIX MONTHS OF THE PURCHASE, IF ANY.
+29 (e) THE CURRENT AMOUNT OF any unpaid common expense
+30 assessment, special assessment or other assessment, fee or charge
+31 currently due and payable from the selling unit owner. If the request is
+32 made by a lienholder, escrow agent, unit owner or person designated by a
+33 unit owner pursuant to section 33-1256, failure to provide the information
+34 pursuant to this subdivision within the time provided for in this
+35 subsection shall extinguish any lien for any unpaid assessment then due
+36 against that unit LIEN OR JUDGMENT LIEN ON THE UNIT DUE TO THE ASSOCIATION
+37 PURSUANT TO SECTION 33-1256 AND ANY LIS PENDENS RECORDED BY THE
+38 ASSOCIATION AGAINST THE UNIT.
+39 (c) A statement as to whether a portion of the unit is covered by
+40 insurance maintained by the association.
+41 (d) The total amount of money held by the association as reserves.
+42 (e) If the statement is being furnished by the association, a
+43 statement as to whether the records of the association reflect any
+44 alterations or improvements to the unit that violate the declaration. The
+45 association is not obligated to provide information regarding alterations
+46 or improvements that occurred more than six years before the proposed
+47 sale. Nothing in this subdivision relieves the seller of a unit from the
+48 obligation to disclose alterations or improvements to the unit that
+49 violate the declaration, nor precludes the association from taking action
+-2-
+
+Senate Amendments to H.B. 2397
+1 against the purchaser of a unit for violations that are apparent at the
+2 time of purchase and that are not reflected in the association's records.
+3 (f) If the statement is being furnished by the unit owner, a
+4 statement as to whether the unit owner has any knowledge of any
+5 alterations or improvements to the unit that violate the declaration.
+6 (g) A statement of case names and case numbers for pending
+7 litigation with respect to the unit filed by the association against the
+8 unit owner or filed by the unit owner against the association. The unit
+9 owner or the association shall not be required to disclose information
+10 concerning the pending litigation that would violate any applicable rule
+11 of attorney-client privilege under Arizona law.
+12 (h) A statement that provides "I hereby acknowledge that the
+13 declaration, bylaws and rules of the association constitute a contract
+14 between the association and me (the purchaser). By signing this
+15 statement, I acknowledge that I have read and understand the association's
+16 contract with me (the purchaser). I also understand that as a matter of
+17 Arizona law, if I fail to pay my association assessments, the association
+18 may foreclose on my property." The statement shall also include a
+19 signature line for the purchaser and shall be returned to the association
+20 within fourteen calendar days.
+21 (f) THE AMOUNT AND PURPOSE OF ANY TITLE TRANSFER FEE OR OTHER
+22 SIMILAR FEE, HOWEVER DENOMINATED, THAT IS AUTHORIZED IN THE DECLARATION
+23 {{AND ESTABLISHED BY THE ASSOCIATION PURSUANT TO SECTION 33-442}}.
+24 (g) A COPY OF THE ASSOCIATION'S MOST RECENT INCOME AND EXPENSES
+25 FINANCIAL STATEMENT FOR ALL OPERATING AND RESERVE ACCOUNTS, AS APPLICABLE.
+26 (h) ANY OUTSTANDING AND UNRESOLVED VIOLATION OF THE ASSOCIATION'S
+27 CONDOMINIUM DOCUMENTS THAT WAS CITED AGAINST THE UNIT, IF ANY.
+28 4. 5. A copy of the current operating budget of the association.
+29 5. 6. A copy of the most recent annual financial AUDIT, REVIEW OR
+30 COMPILATION report of the association PRESCRIBED BY SECTION 33-1243,
+31 SUBSECTION J. If the report is more than ten pages, the association may
+32 provide a summary of the report in lieu of the entire report.
+33 6. 7. A copy of the most recent reserve study of the association,
+34 if any. IF THE REPORT IS MORE THAN TEN PAGES, THE ASSOCIATION MAY PROVIDE
+35 A SUMMARY OF THE REPORT IN LIEU OF THE ENTIRE REPORT.
+36 7. 8. A statement summarizing any pending lawsuits, except those
+37 relating to the collection of assessments owed by unit owners other than
+38 the selling unit owner, in which the association is a named party,
+39 including the amount of any money claimed.
+40 9. A STATEMENT AS TO WHETHER A PORTION OF THE UNIT IS COVERED BY
+41 INSURANCE MAINTAINED BY THE ASSOCIATION AND A COPY OF ALL INSURANCE
+42 CERTIFICATES IDENTIFYING THE COVERAGE LIMITS AND DEDUCTIBLES MAINTAINED BY
+43 THE ASSOCIATION PURSUANT TO SECTION 33-1253.
+44 10. A STATEMENT AS TO WHETHER THE CONDOMINIUM IS UNDER DECLARANT
+45 CONTROL AND THE APPROXIMATE PERCENTAGE OF UNITS IDENTIFIED ON THE RECORDED
+46 PLAT THAT ARE CURRENTLY OWNED BY THE DECLARANT.
+47 11. A STATEMENT IDENTIFYING WHETHER ANY CORPORATION OR LIMITED
+48 LIABILITY COMPANY OWNS AND LEASES THIRTY-FIVE PERCENT OR MORE OF THE
+49 UNITS.
+-3-
+
+Senate Amendments to H.B. 2397
+1 12. A STATEMENT THAT, FOR ANY REPORT PROVIDED IN SUMMARY FORMAT
+2 PURSUANT TO THIS SUBSECTION, THE PURCHASER MAY REQUEST TO VIEW THE ENTIRE
+3 REPORT FROM THE ASSOCIATION DIRECTLY, AND THE ASSOCIATION SHALL PROVIDE
+4 ACCESS TO THAT REPORT WITHIN TEN DAYS AFTER A WRITTEN REQUEST.
+5 13. A STATEMENT TO BE SIGNED BY THE PURCHASER AT THE CLOSE OF
+6 ESCROW THAT PROVIDES "I HEREBY ACKNOWLEDGE THAT WITH THE PURCHASE OF THIS
+7 HOME OR PROPERTY, I WILL BE CONTRACTUALLY BOUND TO THE VALID COVENANTS,
+8 CONDITIONS AND RESTRICTIONS OF THE RECORDED DECLARATION, AND WILL BE
+9 CONTRACTUALLY BOUND TO PAY ALL COMMON EXPENSE ASSESSMENTS APPLIED TO MY
+10 HOME OR PROPERTY AS AUTHORIZED IN THE DECLARATION AND TITLE 33, CHAPTER 9
+11 OR 16, ARIZONA REVISED STATUTES, AS APPLICABLE. IF I FAIL TO PAY COMMON
+12 EXPENSE ASSESSMENTS, I MAY BE SUBJECT TO COLLECTION ACTIVITY BY THE
+13 ASSOCIATION UP TO AND INCLUDING FORECLOSURE ACTION, WITHOUT THE EQUITY
+14 PROTECTION OF THE HOMESTEAD ACT PURSUANT TO TITLE 33, CHAPTER 8, ARIZONA
+15 REVISED STATUTES."
+16 14. IF THE UNIT IS GOVERNED BY MULTIPLE ASSOCIATIONS, A STATEMENT
+17 {{NOTIFYING THE PURCHASER}} {{IDENTIFYING}} THAT THE UNIT IS SUBJECT TO
+18 EACH ASSOCIATION'S {{DISCLOSURE REPORT AND CORRESPONDING}} RESALE
+19 DISCLOSURE FEE AUTHORIZED UNDER SUBSECTION D OF THIS SECTION.
+20 B. ALL INFORMATION THAT IS PROVIDED UNDER SUBSECTION A OF THIS
+21 SECTION SHALL BE BASED ON THE GOOD FAITH RELIANCE ON ASSOCIATION RECORDS
+22 OR INFORMATION, WITHOUT THE NEED FOR INDEPENDENT INVESTIGATION OR
+23 VALIDATION.
+24 B. C. A purchaser or seller who is damaged by the failure of the
+25 unit owner or the association KNOWINGLY OR RECKLESSLY FAILING to disclose
+26 the information required by subsection A of this section OR KNOWINGLY OR
+27 RECKLESSLY PROVIDING MATERIALLY FALSE OR MISLEADING STATEMENTS IN THE
+28 DISCLOSURE may pursue all remedies at law or in equity against the unit
+29 owner or the association, whichever failed to comply with subsection A of
+30 this section, including the recovery of reasonable attorney fees AS
+31 AWARDED BY THE COURT.
+32 C. D. The association may charge the unit owner a fee of not more
+33 than an aggregate of four hundred dollars $400 to compensate the
+34 association for the costs incurred in the preparation and delivery of a
+35 statement REPORT or other documents furnished by the association pursuant
+36 to this section for purposes of resale disclosure, lien estoppel and any
+37 other services related to the transfer or use of the property. In
+38 addition, the association may charge a rush fee of not more than one
+39 hundred dollars $100 if the rush services are required to be performed
+40 within seventy-two hours after the request for rush services. , and THE
+41 UNIT OWNER may REQUEST THE ASSOCIATION TO UPDATE THE REPORT IF THIRTY DAYS
+42 OR MORE HAVE PASSED SINCE THE DATE OF THE ORIGINAL DISCLOSURE REPORT. THE
+43 ASSOCIATION MAY charge a statement or other documents DOCUMENT update fee
+44 of not more than fifty dollars if thirty days or more have passed since
+45 the date of the original disclosure statement or the date the documents
+46 were delivered $50. The association shall make available to any
+47 interested party the amount of any fee established from time to time by
+48 the association. If the aggregate fee for purposes of resale disclosure,
+49 lien estoppel and any other services related to the transfer or use of a
+-4-
+
+Senate Amendments to H.B. 2397
+1 property is less than four hundred dollars on January 1, 2010, the fee may
+2 increase at a rate of not more than twenty percent per year based on the
+3 immediately preceding fiscal year's amount not to exceed the four hundred
+4 dollar aggregate fee. The association may charge the same fee without
+5 regard to whether the association is furnishing the statement or other
+6 documents in paper or electronic format.
+7 D. E. The fees prescribed by this section shall be collected no
+8 NOT earlier than at the close of escrow and may only be charged once to a
+9 unit owner {{OR PURCHASER}} for that transaction between the parties
+10 specified in the notice required pursuant to subsection A of this
+11 section. An association shall not charge or collect a fee relating to
+12 services for resale disclosure, lien estoppel and any other services
+13 related to the transfer or use of a property except as specifically
+14 authorized in this section. An association that charges or collects a fee
+15 in violation of this section is subject to a civil penalty of not more
+16 than one thousand two hundred dollars $1,200.
+17 E. F. This section applies to a managing agent for an association
+18 that is acting on behalf of the association.
+19 F. G. The following are exempt from this section:
+20 1. A sale in which a public report is issued pursuant to section
+21 32-2183 or 32-2197.02.
+22 2. A sale pursuant to section 32-2181.02.
+23 3. A conveyance by recorded deed that bears an exemption listed in
+24 section 11-1134, subsection B, paragraph 3 or 7. On recordation of the
+25 deed and for no additional charge, the unit owner PURCHASER shall provide
+26 the association with the changes in ownership, including the unit owner's
+27 name, billing address and phone number. Failure to provide the
+28 information shall not prevent the unit owner from qualifying for the
+29 exemption pursuant to this section.
+30 G. H. This section does not apply to timeshare plans or
+31 associations that are subject to chapter 20 of this title.
+32 H. I. For the purposes of this section, unless the context
+33 otherwise requires, "unit owner":
+34 1. Means the seller of the condominium unit title. and excludes
+35 2. DOES NOT INCLUDE:
+36 (a) Any real estate salesperson or real estate broker who is
+37 licensed under title 32, chapter 20 and who is acting as a salesperson or
+38 broker. ,
+39 (b) Any escrow agent who is licensed under title 6, chapter 7 and
+40 who is acting as an escrow agent. and also excludes
+41 (c) A trustee of a deed of trust who is selling the property in a
+42 trustee's sale pursuant to chapter 6.1 of this title.
+43 ≤≤<<Sec. 2. Title 33, chapter 9, article 3, Arizona Revised
+44 Statutes, is amended by adding section 33-1262, to read:
+45 33-1262. Capital projects; reserve account; on-site manager
+46 [NOTWITHSTANDING ANY PROVISION IN THE CONDOMINIUM DOCUMENTS, FOR ANY
+47 CAPITAL OR RESERVE ACCOUNT PROJECT AUTHORIZED BY THE ASSOCIATION, THE
+48 ASSOCIATION MANAGER ASSIGNED TO THE PROJECT BY THE ASSOCIATION'S
+49 CONTRACTED MANAGEMENT COMPANY SHALL BE ON-SITE AS FOLLOWS:
+-5-
+
+Senate Amendments to H.B. 2397
+1 1. FOR AT LEAST THIRTY MINUTES BEFORE THE START OF WORK AND SHALL
+2 REMAIN ON-SITE FOR AT LEAST THR INITIAL TWO HOURS.
+3 2. FOR AT LEAST TWO HOURS EACH DAY THAT THE PROJECT CONTINUES.
+4 3. THE TIME REQUIRED TO COMPLETE AN ON-SITE JOB SITE INSPECTION
+5 WITH THE ASSOCIATION'S CONTRACTED VENDOR FOR THE PROJECT.
+6 4. FOR AT LEAST TWENTY-FIVE PRECENT OF THE TOTAL PROJECT TIME.>>≥≥
+7 Sec. 2. Section 33-1806, Arizona Revised Statutes, is amended to
+8 read:
+9 33-1806. Sale of properties; information required; fees;
+10 civil penalty; definition
+11 A. For planned communities with fewer than fifty units PROPERTIES,
+12 a member shall mail ELECTRONICALLY TRANSMIT or deliver to a purchaser or a
+13 purchaser's authorized DESIGNATED agent THE INFORMATION REQUIRED BY THIS
+14 SUBSECTION within ten days after receipt of a written notice of a pending
+15 sale of the unit, and ACCEPTANCE OF THE PURCHASER'S OFFER TO PURCHASE.
+16 For planned communities with fifty or more units PROPERTIES, [{{ON THE
+17 MEMBER'S ACCEPTANCE OF THE PURCHASER'S OFFER TO PURCHASE,}} THE MEMBER
+18 SHALL PROVIDE A WRITTEN NOTICE TO THE ASSOCIATION OF THE MEMBER'S
+19 ACCEPTANCE OF THE PURCHASER'S OFFER TO PURCHASE {{AND}} {{THAT CONTAINS
+20 THE NAME, EMAIL ADDRESS AND MAILING ADDRESS OF THE PURCHASER OR THE
+21 PURCHASER'S DESIGNATED AGENT.}}] The association shall mail ELECTRONICALLY
+22 TRANSMIT or deliver to [a ] [THE] purchaser or [a ] [THE] purchaser's
+23 authorized DESIGNATED agent within ten days after receipt of [a ] [THE]
+24 written notice of [a pending sale] {{[THE SELLER'S ACCEPTANCE OF THE
+25 PURCHASER'S OFFER TO PURCHASE] that contains the name, EMAIL ADDRESS and
+26 MAILING address of the purchaser OR THE PURCHASER'S DESIGNATED AGENT}} {{A
+27 PENDING PURCHASE OFFER}} all of the following in either paper or
+28 electronic format:
+29 1. A copy of the CURRENT bylaws and the CURRENT rules of the
+30 association.
+31 2. A copy of the CURRENT declaration AND FINAL PLAT OR AN
+32 ELECTRONIC COPY OF THE FINAL PLAT, IF AVAILABLE.
+33 3. A COPY OF THE BOARD-APPROVED MINUTES [OF ALL OPEN] [FOR THE
+34 PREVIOUS THREE OPEN] MEETINGS OF THE BOARD OF DIRECTORS [FOR THE PREVIOUS
+35 THREE MEETINGS].
+36 3. 4. A dated statement containing:
+37 (a) The telephone number and address of a principal contact for the
+38 association, which may be an association manager, an association
+39 management company, an officer of the association or any other person
+40 designated by the board of directors.
+41 (b) The amount of AND PAYMENT SCHEDULE FOR the ANNUAL common
+42 regular assessment and the REMAINING INSTALLMENTS AND PAYMENT SCHEDULES ON
+43 ANY APPROVED AND ASSESSED SPECIAL ASSESSMENT, IF ANY.
+44 (c) THE AMOUNT AND PURPOSE OF ANY SPECIAL ASSESSMENT APPROVED BY
+45 THE BOARD OF DIRECTORS BUT NOT YET ASSESSED OR ANY SPECIAL ASSESSMENT
+46 SUBMITTED BY THE BOARD FOR MEMBER APPROVAL WITHIN THE PREVIOUS FOUR
+47 MONTHS, IF ANY.
+48 (d) THE CURRENT AMOUNT OF ANY unpaid common regular
+49 assessment, special assessment or other assessment, fee or charge
+-6-
+
+Senate Amendments to H.B. 2397
+1 currently due and payable from the selling member. If the request is made
+2 by a lienholder, escrow agent, member or person designated by a member
+3 pursuant to section 33-1807, failure to provide the information pursuant
+4 to this subdivision within the time provided for in this subsection shall
+5 extinguish any lien for any unpaid assessment then due against that
+6 property LIEN OR JUDGMENT LIEN ON THE PROPERTY DUE TO THE ASSOCIATION
+7 PURSUANT TO SECTION 33-1807 AND ANY LIS PENDENS RECORDED BY THE
+8 ASSOCIATION AGAINST THE PROPERTY.
+9 (c) A statement as to whether a portion of the unit is covered by
+10 insurance maintained by the association.
+11 (d) The total amount of money held by the association as reserves.
+12 (e) If the statement is being furnished by the association, a
+13 statement as to whether the records of the association reflect any
+14 alterations or improvements to the unit that violate the declaration. The
+15 association is not obligated to provide information regarding alterations
+16 or improvements that occurred more than six years before the proposed
+17 sale. Nothing in this subdivision relieves the seller of a unit from the
+18 obligation to disclose alterations or improvements to the unit that
+19 violate the declaration, nor precludes the association from taking action
+20 against the purchaser of a unit for violations that are apparent at the
+21 time of purchase and that are not reflected in the association's records.
+22 (f) If the statement is being furnished by the member, a statement
+23 as to whether the member has any knowledge of any alterations or
+24 improvements to the unit that violate the declaration.
+25 (g) A statement of case names and case numbers for pending
+26 litigation with respect to the unit filed by the association against the
+27 member or filed by the member against the association. The member shall
+28 not be required to disclose information concerning such pending litigation
+29 that would violate any applicable rule of attorney-client privilege under
+30 Arizona law.
+31 (h) A statement that provides "I hereby acknowledge that the
+32 declaration, bylaws and rules of the association constitute a contract
+33 between the association and me (the purchaser). By signing this
+34 statement, I acknowledge that I have read and understand the association's
+35 contract with me (the purchaser). I also understand that as a matter of
+36 Arizona law, if I fail to pay my association assessments, the association
+37 may foreclose on my property." The statement shall also include a
+38 signature line for the purchaser and shall be returned to the association
+39 within fourteen calendar days.
+40 (e) THE AMOUNT AND PURPOSE OF ANY TITLE TRANSFER FEE OR OTHER
+41 SIMILAR FEE, HOWEVER DENOMINATED, THAT IS AUTHORIZED IN THE DECLARATION
+42 {{AND ESTABLISHED BY THE ASSOCIATION PURSUANT TO SECTION 33-442}}.
+43 (f) A COPY OF THE ASSOCIATION'S MOST RECENT INCOME AND EXPENSES
+44 FINANCIAL STATEMENT FOR ALL OPERATING AND RESERVE ACCOUNTS, AS APPLICABLE.
+45 (g) ANY OUTSTANDING AND UNRESOLVED VIOLATION OF THE ASSOCIATION'S
+46 COMMUNITY DOCUMENTS THAT WAS CITED AGAINST THE PROPERTY, IF ANY.
+47 4. 5. A copy of the current operating budget of the association.
+48 5. 6. A copy of the most recent annual financial AUDIT, REVIEW OR
+49 COMPILATION report of the association PURSUANT TO SECTION 33-1810. If the
+-7-
+
+Senate Amendments to H.B. 2397
+1 report is more than ten pages, the association may provide a summary of
+2 the report in lieu MAY BE PROVIDED IN PLACE of the entire report.
+3 6. 7. A copy of the most recent reserve study of the association,
+4 if any. IF THE REPORT IS MORE THAN TEN PAGES, THE ASSOCIATION MAY PROVIDE
+5 A SUMMARY OF THE REPORT IN PLACE OF THE ENTIRE REPORT.
+6 7. 8. A statement summarizing any pending lawsuits, except those
+7 relating to the collection of assessments owed by members other than the
+8 selling member, in which the association is a named party, including the
+9 amount of any money claimed.
+10 9. A STATEMENT AS TO WHETHER THE PLANNED COMMUNITY IS UNDER
+11 DECLARANT CONTROL AND THE APPROXIMATE PERCENTAGE OF LOTS IDENTIFIED ON THE
+12 RECORDED PLAT THAT ARE CURRENTLY OWNED BY THE DECLARANT.
+13 10. A STATEMENT THAT, FOR ANY REPORT PROVIDED IN SUMMARY FORMAT
+14 PURSUANT TO THIS SUBSECTION, THE PURCHASER MAY REQUEST TO VIEW THE ENTIRE
+15 REPORT FROM THE ASSOCIATION DIRECTLY, AND THE ASSOCIATION SHALL PROVIDE
+16 ACCESS TO THAT REPORT WITHIN TEN DAYS AFTER A WRITTEN REQUEST.
+17 11. A STATEMENT TO BE SIGNED BY THE PURCHASER AT THE CLOSE OF
+18 ESCROW THAT PROVIDES "I HEREBY ACKNOWLEDGE THAT WITH THE PURCHASE OF THIS
+19 HOME OR PROPERTY, I WILL BE CONTRACTUALLY BOUND TO THE VALID COVENANTS,
+20 CONDITIONS AND RESTRICTIONS OF THE RECORDED DECLARATION, AND WILL BE
+21 CONTRACTUALLY BOUND TO PAY ALL COMMON EXPENSE ASSESSMENTS APPLIED TO MY
+22 HOME OR PROPERTY AS AUTHORIZED IN THE DECLARATION AND TITLE 33, CHAPTER 9
+23 OR 16, ARIZONA REVISED STATUTES, AS APPLICABLE. IF I FAIL TO PAY COMMON
+24 EXPENSE ASSESSMENTS, I MAY BE SUBJECT TO COLLECTION ACTIVITY BY THE
+25 ASSOCIATION UP TO AND INCLUDING FORECLOSURE ACTION, WITHOUT THE EQUITY
+26 PROTECTION OF THE HOMESTEAD ACT PURSUANT TO TITLE 33, CHAPTER 8, ARIZONA
+27 REVISED STATUTES."
+28 12. IF THE PROPERTY IS GOVERNED BY MULTIPLE ASSOCIATIONS, A
+29 STATEMENT {{NOTIFYING THE PURCHASER}} {{IDENTIFYING}} THAT THE PROPERTY IS
+30 SUBJECT TO EACH ASSOCIATION'S {{DISCLOSURE REPORT AND CORRESPONDING}}
+31 RESALE DISCLOSURE FEE AUTHORIZED UNDER SUBSECTION D OF THIS SECTION.
+32 B. ALL INFORMATION THAT IS PROVIDED UNDER SUBSECTION A OF THIS
+33 SECTION SHALL BE BASED ON THE GOOD FAITH RELIANCE ON ASSOCIATION RECORDS
+34 OR INFORMATION, WITHOUT THE NEED FOR INDEPENDENT INVESTIGATION OR
+35 VALIDATION.
+36 B. C. A purchaser or seller who is damaged by the failure of the
+37 member or the association KNOWINGLY OR RECKLESSLY FAILING to disclose the
+38 information required by subsection A of this section OR KNOWINGLY OR
+39 RECKLESSLY PROVIDING MATERIALLY FALSE OR MISLEADING STATEMENTS IN THE
+40 DISCLOSURE may pursue all remedies at law or in equity against the member
+41 or the association, whichever failed to comply with subsection A of this
+42 section, including the recovery of reasonable attorney fees AS AWARDED BY
+43 THE COURT.
+44 C. D. The association may charge the member a fee of not more than
+45 an aggregate of four hundred dollars $400 to compensate the association
+46 for the costs incurred in the preparation and delivery of a statement
+47 REPORT or other documents furnished by the association pursuant to this
+48 section for purposes of resale disclosure, lien estoppel and any other
+49 services related to the transfer or use of the property. In addition, the
+-8-
+
+Senate Amendments to H.B. 2397
+1 association may charge a rush fee of not more than one hundred dollars
+2 $100 if the rush services are required to be performed within seventy-two
+3 hours after the request for rush services. , and THE MEMBER may REQUEST
+4 THE ASSOCIATION TO UPDATE THE REPORT IF THIRTY DAYS OR MORE HAVE PASSED
+5 SINCE THE DATE OF THE ORIGINAL DISCLOSURE REPORT. THE ASSOCIATION MAY
+6 charge a statement or other documents DOCUMENT update fee of not more than
+7 fifty dollars if thirty days or more have passed since the date of the
+8 original disclosure statement or the date the documents were delivered
+9 $50. The association shall make available to any interested party the
+10 amount of any fee established from time to time by the association. If
+11 the aggregate fee for purposes of resale disclosure, lien estoppel and any
+12 other services related to the transfer or use of a property is less than
+13 four hundred dollars on January 1, 2010, the fee may increase at a rate of
+14 not more than twenty percent per year based on the immediately preceding
+15 fiscal year's amount not to exceed the four hundred dollar aggregate fee.
+16 The association may charge the same fee without regard to whether the
+17 association is furnishing the statement or other documents in paper or
+18 electronic format.
+19 D. E. The fees prescribed by this section shall be collected no
+20 NOT earlier than at the close of escrow and may only be charged once to a
+21 member {{OR PURCHASER}} for that transaction between the parties specified
+22 in the notice required pursuant to subsection A of this section. An
+23 association shall not charge or collect a fee relating to services for
+24 resale disclosure, lien estoppel and any other services related to the
+25 transfer or use of a property except as specifically authorized in this
+26 section. An association that charges or collects a fee in violation of
+27 this section is subject to a civil penalty of not more than one thousand
+28 two hundred dollars $1,200.
+29 E. F. This section applies to a managing agent for an association
+30 that is acting on behalf of the association.
+31 F. G. The following are exempt from this section:
+32 1. A sale in which a public report is issued pursuant to section
+33 32-2183 or 32-2197.02.
+34 2. A sale pursuant to section 32-2181.02.
+35 3. A conveyance by recorded deed that bears an exemption listed in
+36 section 11-1134, subsection B, paragraph 3 or 7. On recordation of the
+37 deed and for no additional charge, the member PURCHASER shall provide the
+38 association with the changes in ownership, including the member's name,
+39 billing address and phone number. Failure to provide the information
+40 shall not prevent the member from qualifying for the exemption pursuant to
+41 this section.
+42 G. H. For the purposes of this section, unless the context
+43 otherwise requires, "member":
+44 1. Means the seller of the unit PROPERTY title. and excludes
+45 2. DOES NOT INCLUDE:
+46 (a) Any real estate salesperson or real estate broker who is
+47 licensed under title 32, chapter 20 and who is acting as a salesperson or
+48 broker. ,
+-9-
+
+Senate Amendments to H.B. 2397
+1 (b) Any escrow agent who is licensed under title 6, chapter 7 and
+2 who is acting as an escrow agent. and also excludes
+3 (c) A trustee of a deed of trust who is selling the property in a
+4 trustee's sale pursuant to chapter 6.1 of this title.
+5 ≤≤<<Sec. 4. Title 33, chapter 16, article 1, Arizona Revised
+6 Statutes, is amended by adding section 33-1821, to read:
+7 33-1821. Capital projects; reserve account; on-site manager
+8 [NOTWITHSTANDING ANY PROVISION IN THE CONDOMINIUM DOCUMENTS, FOR ANY
+9 CAPITAL OR RESERVE ACCOUNT PROJECT AUTHORIZED BY THE ASSOCIATION, THE
+10 ASSOCIATION MANAGER ASSIGNED TO THE PROJECT BY THE ASSOCIATION'S
+11 CONTRACTED MANAGEMENT COMPANY SHALL BE ON-SITE AS FOLLOWS:
+12 1. FOR AT LEAST THE INITIAL THIRTY MINUTES BEFORE THE START OF WORK
+13 AND SHALL REMAIN ON-SITE FOR AT LEAST TWO HOURS.
+14 2. FOR AT LEAST TWO HOURS EACH DAY THAT THE PROJECT CONTINUES.
+15 3. THE TIME REQUIRED TO COMPLETE AN ON-SITE JOB SITE INSPECTION
+16 WITH THE ASSOCIATION'S CONTRACTED VENDOR FOR THE PROJECT.
+17 4. FOR AT LEAST TWENTY-FIVE PERCENT OF THE TOTAL PROJECT TIME.]>>≥≥
+18 Enroll and engross to conform
+19 Amend title to conform
+JAKE HOFFMAN
+2397FloorHOFFMAN2.docx
+06/10/2026
+1:39 PM
+C: MR
+130ASKYLB
+-10-

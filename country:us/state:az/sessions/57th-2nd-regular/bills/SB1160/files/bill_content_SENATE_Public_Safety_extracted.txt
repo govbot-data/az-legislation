@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Public Safety
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Public Safety
+Second Regular Session S.B. 1160
+COMMITTEE ON PUBLIC SAFETY
+SENATE AMENDMENTS TO S.B. 1160
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 13-3729, Arizona Revised Statutes, is amended to
+3 read:
+4 13-3729. Unlawful operation of model or unmanned aircraft;
+5 state preemption; classification; definitions
+6 A. It is unlawful for a person to operate a model aircraft or a
+7 civil unmanned aircraft if the operation:
+8 1. Is prohibited by a federal law or regulation that governs
+9 aeronautics, including federal aviation administration regulations.
+10 2. Interferes with a law enforcement, firefighter or emergency
+11 services operation.
+12 B. It is unlawful for a person to operate or use an unmanned
+13 aircraft or unmanned aircraft system to intentionally photograph or loiter
+14 over or near a critical facility in the furtherance of any criminal
+15 offense.
+16 C. IT IS UNLAWFUL FOR A PERSON TO OPERATE A CIVIL UNMANNED AIRCRAFT
+17 IF THE OPERATION IS WITHIN [FOUR HUNDRED] [FIVE THOUSAND TWO HUNDRED
+18 EIGHTY] FEET OF OR WITHIN [FOUR HUNDRED] [FIVE THOUSAND TWO HUNDRED
+19 EIGHTY] FEET ABOVE A TICKETED ENTERTAINMENT EVENT UNLESS THE PERSON:
+20 1. OBTAINS CONSENT FROM ANOTHER PERSON WITH LEGAL AUTHORITY OVER
+21 THE TICKETED ENTERTAINMENT EVENT.
+22 2. IS AN EMPLOYEE OF THE PROPERTY WHERE THE TICKETED ENTERTAINMENT
+23 EVENT IS HELD AND IS CONDUCTING OFFICIAL BUSINESS.
+24 3. IS AN EMPLOYEE OF A WATER, SEWER, ELECTRIC, TELECOMMUNICATIONS,
+25 CABLE OR OTHER PUBLIC OR REGULATED UTILITY AND IS CONDUCTING OFFICIAL
+26 BUSINESS.
+
+Senate Amendments to S.B. 1160
+1 4. IS OPERATING THE PERSON'S OWN CIVIL UNMANNED AIRCRAFT ABOVE THE
+2 PERSON'S OWN PRIVATE PROPERTY AND THE OPERATION IS CONSISTENT WITH FEDERAL
+3 LAW AND IS NOT USED FOR ANY OF THE FOLLOWING:
+4 (a) COMMERCIAL PURPOSES.
+5 (b) TO CONVEY OR COMMUNICATE A MESSAGE OR TO RECORD FOR THE
+6 PURPOSES OF COMMERCIAL BROADCASTING OR PUBLICATION.
+7 (c) TO MONITOR OR OTHERWISE INTERFERE IN ANY WAY WITH A TICKETED
+8 ENTERTAINMENT EVENT.
+9 C. D. Except as authorized by law, a city, town or county may not
+10 enact or adopt any ordinance, policy or rule that relates to the ownership
+11 or operation of an unmanned aircraft or unmanned aircraft system or
+12 otherwise engage in the regulation of the ownership or operation of an
+13 unmanned aircraft or an unmanned aircraft system. Any ordinance, policy
+14 or rule that violates this subsection, whether enacted or adopted by the
+15 city, town or county before or after August 6, 2016, is void.
+16 D. E. This section does not:
+17 1. Apply to a person or entity that is authorized or allowed by the
+18 federal aviation administration to operate or use an unmanned aircraft
+19 system if the person's or entity's operation or use complies with the
+20 authorization granted to the person or entity or with federal aviation
+21 administration rules.
+22 2. Prohibit a city, town or county from enacting or adopting
+23 ordinances or rules on the operation or use of a public unmanned aircraft
+24 that is owned by the city, town or county.
+25 3. Prohibit a city, town or county from enacting or adopting
+26 ordinances or rules that regulate the takeoff or landing of a model
+27 aircraft in a park or preserve owned by the city, town or county if:
+28 (a) There are other parks or preserves that are within the city,
+29 town or county and that are available for model aircraft operation.
+30 (b) The city, town or county only has one park or preserve that is
+31 within the city, town or county.
+32 4. Apply to the operation of an unmanned aircraft, including a
+33 public unmanned aircraft, by a first responder as defined in section
+34 36-661 while acting in the first responder's official capacity or an
+35 emergency worker while engaged in or supporting authorized emergency
+36 management activities or performing emergency functions pursuant to title
+37 26, chapter 2.
+38 E. F. A violation of subsection B of this section is a class 6
+39 felony, except that a second or subsequent violation is a class 5 felony.
+40 A violation of subsection A OR C of this section is a class 1 misdemeanor.
+41 F. G. For the purposes of this section:
+42 1. "Civil unmanned aircraft" means an unmanned aircraft or unmanned
+43 aircraft system that is operated by a person for any purpose other than
+44 strictly for hobby or recreational purposes, including commercial
+45 purposes, or in furtherance of or incidental to any business or media
+46 service or agency.
+-2-
+
+Senate Amendments to S.B. 1160
+1 2. "Commercial purposes" means the use of an unmanned aircraft in
+2 return for financial compensation and includes aerial photography, aerial
+3 mapping or geospatial imaging.
+4 3. "Critical facility" means any of the following:
+5 (a) A petroleum or alumina refinery.
+6 (b) A petroleum, chemical or rubber production, transportation,
+7 storage or processing facility.
+8 (c) A chemical manufacturing facility.
+9 (d) A water or wastewater treatment facility and water development,
+10 distribution or conveyance system, including a dam.
+11 (e) An electric generation facility, as defined in section
+12 42-14156, and any associated substation or switchyard.
+13 (f) An electrical transmission or distribution substation.
+14 (g) An electrical transmission line of at least sixty-nine thousand
+15 volts.
+16 (h) An electronic communication station or tower.
+17 (i) An energy control center.
+18 (j) A distribution operating center.
+19 (k) A facility that transfers or distributes natural gas, including
+20 a compressor station, regulator station, city gate station or pressure
+21 limiting station or a liquefied natural gas facility or supplier tap
+22 facility.
+23 (l) Any railroad infrastructure or facility.
+24 (m) A federal, state, county or municipal court.
+25 (n) A public safety or emergency operation facility.
+26 (o) A federal, state, county or municipal jail or prison or other
+27 facility in which persons are incarcerated.
+28 (p) A federal or state military installation or facility.
+29 (q) A hospital that receives air ambulance services.
+30 4. "Model aircraft" has the same meaning prescribed in section 336
+31 of the FAA modernization and reform act of 2012 (P.L. 112-95), as amended.
+32 5. "Person" means a corporation, firm, partnership, association,
+33 individual or organization or any other group acting as a unit.
+34 6. "Public unmanned aircraft" means an unmanned aircraft or
+35 unmanned aircraft system that is operated by a public agency for a
+36 government-related purpose.
+37 7. "TICKETED ENTERTAINMENT EVENT" MEANS A MUSIC, SPORTING OR
+38 PERFORMING ARTS EVENT THAT IS HELD IN A LOCATION WITH GATED ENTRIES OR
+39 BARRIERS THAT PREVENT ACCESS TO THE GENERAL PUBLIC AND IN WHICH A
+40 REVOCABLE LICENSE THAT HAS BEEN ISSUED BY AN OWNER, OPERATOR OR LESSEE OF
+41 THE PROPERTY IS REQUIRED FOR ATTENDANCE AT THE EVENT.
+42 7. 8. "Unmanned aircraft" means an aircraft, including an aircraft
+43 commonly known as a drone, that is operated without the possibility of
+44 direct human intervention from within or on the aircraft.
+-3-
+
+Senate Amendments to S.B. 1160
+1 8. 9. "Unmanned aircraft system" means an unmanned aircraft and
+2 associated elements, including any communication links and components that
+3 control the unmanned aircraft.
+4 Enroll and engross to conform
+5 Amend title to conform
+1160PS.docx
+01/26/2026
+02:35 PM
+C: JV
+130SJWHMZ
+-4-

@@ -1,0 +1,191 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Education - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature Education
+Second Regular Session S.B. 1497
+COMMITTEE ON EDUCATION
+SENATE AMENDMENTS TO S.B. 1497
+(Reference to printed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Section 15-382, Arizona Revised Statutes, is amended to
+3 read:
+4 15-382. Authorization to self-insure; pooling agreements;
+5 joint agreements; trustees; liability coverage and
+6 pool requirements; annual required coverage
+7 information; definition
+8 A. The A school district governing board may determine that
+9 self-insurance is necessary or desirable in the best interest of the
+10 district and may provide for a self-insurance program or programs for the
+11 district, including risk management consultation. Any risk management
+12 consultant or insurance administrator employed by a school district
+13 governing board must be licensed under title 20, chapter 2, article 3 or
+14 9, and such THE license shall be verified by the school district governing
+15 board prior to BEFORE employment.
+16 B. The school district governing board may:
+17 1. Enter into intergovernmental agreements or contracts with pools
+18 operated pursuant to section 11-952.01 for participation in SELF-INSURANCE
+19 programs offered by public agency pools. In addition to the joint
+20 purchasing of insurance or reinsurance or the pooling of the retention of
+21 risks for property, fidelity and liability losses, these SELF-INSURANCE
+22 programs may include the joint purchasing of health benefits plan, life or
+23 disability insurance, prepaid legal insurance or the pooling of the
+24 retention of their risks of losses for health, accident, life or
+25 disability claims or the provision of the health and medical services
+26 enumerated in section 36-2907.
+27 2. Separately contract with a trustee or board of trustees that
+28 provides a common self-insurance program or SELF-INSURANCE programs with
+29 pooled funds and risks to more than one district, a community college
+30 district formed pursuant to chapter 12 of this title or an association of
+31 school districts within this state that is funded by member school
+32 districts pursuant to section 15-342, paragraph 8 or a pool created for
+33 and operated solely for charter schools pursuant to section 11-952.01.
+34 Beginning January 1, 2010, a trustee, board of trustees or pool that
+35 contracts with a school district governing board or charter school
+36 pursuant to this paragraph shall comply with title 38, chapter 3, article
+37 3.1, title 39, chapter 1 and section 11-952.01, subsections M and N.
+38 3. Enter into cooperative procurement agreements with other
+39 districts pursuant to rules adopted pursuant to section 15-213 to
+
+Senate Amendments to S.B. 1497
+1 participate in programs for either self-insurance or the joint purchase of
+2 insurance.
+3 4. Separately establish a self-insurance program solely for its
+4 district.
+5 C. If the school district governing board, either alone or in
+6 combination with another school district or an association of school
+7 districts in this state that is funded by member school districts pursuant
+8 to section 15-342, paragraph 8, establishes a self-insurance program, the
+9 governing board or an association of school districts shall place all
+10 funds into a trust to be used for payment of uninsured losses, claims,
+11 defense costs, costs of training designed to reduce losses and claims, the
+12 cost of related employee benefits including wellness programs, life,
+13 disability and other fully and partially insured group insurance plans,
+14 programs that allow for participation in a cafeteria plan that meets the
+15 requirements of the United States internal revenue code of 1986, costs of
+16 administration and other related expenses. If a member of the governing
+17 board or employee of the school district is acting as a trustee, the trust
+18 shall be administered by at least five joint trustees, of whom no NOT more
+19 than one may be a member of the governing board and no NOT more than one
+20 may be an employee of the school district. Funds budgeted for
+21 self-insurance programs shall be ARE subject to district budgetary
+22 requirements, including but not limited to the requirements that the funds
+23 be budgeted within the maintenance and operation section and the budget
+24 limitation on increases as prescribed in section 15-905. The funds, upon
+25 ON being placed in the trust, shall DO not lapse at the close of the
+26 fiscal year, except that any cash balance remaining after termination of
+27 the SELF-INSURANCE program and settlement of all outstanding claims shall
+28 be used for reduction of school district taxes for the budget year. The
+29 trustees of the trust must be bonded, a stop-loss provision must be
+30 incorporated in the trust agreement, and an annual audit must be performed
+31 by a certified public accountant and a copy of the report kept on file in
+32 the district office for a period of not less than AT LEAST five years.
+33 D. If the self-insurance is for liability losses, excess liability
+34 coverage or reinsurance must be obtained as follows:
+35 1. For a single school district, the coverage may include an annual
+36 aggregate limit of no NOT more than three million dollars $3,000,000 and
+37 the maximum retention per occurrence shall be one-half of one per cent
+38 PERCENT of the district's maintenance and operation budget.
+39 2. For a pool, the coverage may include an annual aggregate limit
+40 set by the pool and the maximum retention per occurrence shall not exceed
+41 one-half of one per cent PERCENT of the combined maintenance and operation
+42 budgets of the districts in the pool.
+43 E. IF A SCHOOL DISTRICT GOVERNING BOARD ESTABLISHES A
+44 SELF-INSURANCE PROGRAM PURSUANT TO THIS SECTION AND THE SCHOOL DISTRICT
+45 EMPLOYS AT LEAST THREE HUNDRED EMPLOYEES, THE SCHOOL DISTRICT GOVERNING
+46 BOARD SHALL OBTAIN QUOTES FOR COVERAGE AND SERVICES FROM AUTHORIZED
+47 SERVICE PROVIDERS AT LEAST ONCE DURING EVERY THREE-YEAR PERIOD TO
+48 DETERMINE WHETHER COMPARABLE COVERAGE AND SERVICES ARE AVAILABLE AT A MORE
+49 FAVORABLE PRICE. A SCHOOL DISTRICT GOVERNING BOARD MAY NOT RENEW COVERAGE
+-2-
+
+Senate Amendments to S.B. 1497
+1 OR SERVICES FROM ANY PERSON THAT FAILS TO PROVIDE TIMELY, ACCURATE AND
+2 COMPLETE INFORMATION AS REQUIRED BY SUBSECTION F OF THIS SECTION.
+3 F. AT LEAST SIXTY DAYS BEFORE THE END OF THE CURRENT BENEFIT
+4 PROGRAM YEAR, EACH TRUST, INSURER, THIRD-PARTY ADMINISTRATOR, PHARMACY
+5 BENEFIT MANAGER OR OTHER PERSON WHO SUPPORTS THE SCHOOL DISTRICT'S
+6 SELF-INSURANCE PROGRAM SHALL PROVIDE THE FOLLOWING INFORMATION TO THE
+7 SCHOOL DISTRICT IN AN ELECTRONIC, MACHINE-READABLE FORMAT:
+8 1. MONTHLY ENROLLMENT COUNTS BY EMPLOYEE-ONLY AND DEPENDENT TIERS
+9 FOR EACH PLAN OPTION OFFERED TO THE SCHOOL DISTRICT FOR THE TWO CALENDAR
+10 YEARS THAT IMMEDIATELY PRECEDE THE CURRENT YEAR.
+11 2. MONTHLY TOTAL CLAIMS PAID, DISAGGREGATED BY MEDICAL CLAIMS AND
+12 PRESCRIPTION DRUG CLAIMS, FOR THE TWO CALENDAR YEARS THAT IMMEDIATELY
+13 PRECEDE THE CURRENT YEAR.
+14 3. A DETAILED REPORT ON INDIVIDUALS WHOSE TOTAL CLAIMS PAID EXCEEDS
+15 $50,000 FOR ANY OF THE THREE CALENDAR YEARS THAT IMMEDIATELY PRECEDE THE
+16 CURRENT YEAR AND INDIVIDUALS WHOSE TOTAL CLAIMS PAID IS PROJECTED TO
+17 EXCEED $50,000 IN THE CURRENT YEAR. THE REPORT REQUIRED BY THIS PARAGRAPH
+18 MUST INCLUDE ONLY DE-IDENTIFIED DATA, COMPLY WITH THE HEALTH INSURANCE
+19 PORTABILITY AND ACCOUNTABILITY ACT OF 1996 (P.L. 104-191; 110 STAT. 1936)
+20 AND INCLUDE THE FOLLOWING:
+21 (a) THE TOTAL CLAIMS PAID FOR EACH INDIVIDUAL.
+22 (b) EACH INDIVIDUAL'S DIAGNOSIS OR A DESCRIPTION OF EACH
+23 INDIVIDUAL'S MEDICAL CONDITION OR CONDITIONS.
+24 (c) A STATEMENT INDICATING WHETHER EACH CLAIM IS:
+25 (i) COMPLETED WITH NO FURTHER HEALTH CARE SERVICES EXPECTED.
+26 (ii) ONGOING WITH ADDITIONAL HEALTH CARE SERVICES EXPECTED OR
+27 REQUIRED TO ADDRESS THE INDIVIDUAL'S DIAGNOSIS, MEDICAL CONDITION OR
+28 MEDICAL CONDITIONS.
+29 4. DETAILED PRESCRIPTION DRUG DATA FOR THE IMMEDIATELY PRECEDING
+30 TWELVE-MONTH PERIOD FOR ALL ENROLLEES, INCLUDING THE FOLLOWING LINE-LEVEL
+31 DETAILS:
+32 (a) THE NATIONAL DRUG CODE.
+33 (b) THE DATE EACH PRESCRIPTION WAS FILLED.
+34 (c) THE DRUG NAME.
+35 (d) THE TOTAL DAYS' SUPPLY OF THE DRUG.
+36 (e) THE METRIC QUANTITY THAT IS DISPENSED.
+37 (f) THE INGREDIENT COST.
+38 (g) THE DISPENSING FEE.
+39 (h) THE PHARMACY PROVIDER NUMBER.
+40 (i) THE AMOUNT PAID BY THE SCHOOL DISTRICT, IF ANY.
+41 (j) THE AMOUNT PAID BY THE ENROLLEE, IF ANY.
+42 (k) THE TOTAL AMOUNT OF REBATES RECEIVED, INCLUDING REBATES BY THE
+43 DRUG MANUFACTURER AND THE METHOD OF ALLOCATION.
+44 (l) THE AMOUNT OF PHARMACY BENEFIT MANAGER ADMINISTRATIVE FEES
+45 PAID, IF ANY.
+46 (m) ANY OTHER FEES CHARGED TO THE SCHOOL DISTRICT, INCLUDING
+47 PER-CLAIM FEES, NETWORK ACCESS FEES, DATA OR CLINICAL PROGRAM FEES,
+48 SPREAD-PRICING COMPONENTS AND ALL SOURCES OF PHARMACY BENEFIT MANAGER
+49 COMPENSATION CHARGED TO THE SCHOOL DISTRICT.
+-3-
+
+Senate Amendments to S.B. 1497
+1 (n) WHETHER PRICING IS SET ON A PASS-THROUGH OR SPREAD BASIS.
+2 5. COMPLETE DOCUMENTATION FOR EACH BENEFIT PLAN CURRENTLY AVAILABLE
+3 TO THE SCHOOL DISTRICT'S EMPLOYEES, INCLUDING THE FOLLOWING FOR EACH PLAN:
+4 (a) SUMMARY BENEFITS AND COVERAGE.
+5 (b) FULL PLAN DOCUMENTS OR BENEFIT BOOKLETS.
+6 (c) PRESCRIPTION DRUG FORMULARIES.
+7 (d) COST-SHARING STRUCTURES, DEDUCTIBLES AND OUT-OF-POCKET
+8 MAXIMUMS.
+9 6. A REPORT OF COMPREHENSIVE ELIGIBILITY CENSUS DATA FOR ALL
+10 EMPLOYEES AND FOR ALL DEPENDENTS WHO PARTICIPATE IN THE SCHOOL DISTRICT'S
+11 INSURANCE PROGRAM THAT IS UPDATED NOT MORE THAN SIXTY DAYS BEFORE THE
+12 REPORT IS SUBMITTED. THE REPORT REQUIRED BY THIS PARAGRAPH MUST INCLUDE
+13 ONLY DE-IDENTIFIED DATA, COMPLY WITH THE HEALTH INSURANCE PORTABILITY AND
+14 ACCOUNTABILITY ACT OF 1996 (P.L. 104-191; 110 STAT. 1936) AND INCLUDE ALL
+15 OF THE FOLLOWING FOR EACH PERSON:
+16 (a) DATE OF BIRTH.
+17 (b) GENDER.
+18 (c) ZIP CODE OF RESIDENCE.
+19 (d) COVERAGE TIER.
+20 (e) SELECTED PLAN.
+21 E. G. FOR THE PURPOSES OF THIS SECTION, "self-insurance program":
+22 as used in this section
+23 1. Means programs established and wholly or partially funded by the
+24 school district governing board. Self-insurance programs shall
+25 2. DOES not include a decision by the governing board not to carry
+26 insurance upon ON a particular risk or risks."
+27 Amend title to conform
+1497ED.docx
+02/16/2026
+2:30 PM
+C: VS
+130SUKASO
+-4-

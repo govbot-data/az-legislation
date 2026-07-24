@@ -1,0 +1,192 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Bliss - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2195: nursing facilities; records; surveys; timelines
+BLISS FLOOR AMENDMENT
+1. Prohibits DHS from imposing a violation on a licensee for not making a
+vaccination available if there is a shortage of that vaccination.
+2. Removes the quality assurance document provisions.
+3. Describes what is a long-term incident report.
+A GRAHAM
+2/19/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Bliss
+Second Regular Session H.B. 2195
+BLISS FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2195
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 36-406, Arizona Revised Statutes, is amended to
+3 read:
+4 36-406. Powers and duties of the department; access to
+5 personnel records
+6 A. In addition to its other powers and duties:
+7 1. The department shall:
+8 (a) Administer and enforce this chapter and the rules, regulations
+9 and standards adopted pursuant thereto TO THIS CHAPTER.
+10 (b) Review, and may approve, plans and specifications for
+11 construction or modification OF or additions to health care institutions
+12 regulated by this chapter.
+13 (c) EXCEPT AS PROVIDED IN SUBSECTION B OF THIS SECTION, have access
+14 to books, records, accounts and any other information of any health care
+15 institution THAT ARE reasonably necessary for the purposes of this
+16 chapter.
+17 (d) Require as a condition of licensure that nursing care
+18 institutions and assisted living facilities make vaccinations for
+19 influenza and pneumonia available to residents on site ON-SITE on a yearly
+20 basis. The department shall prescribe the manner by which the NURSING
+21 CARE institutions and ASSISTED LIVING facilities shall MUST document
+22 compliance with this subdivision, including documenting residents who
+23 refuse to be immunized. [The department shall not impose a violation on a
+24 licensee for not making a vaccination available] [THIS SUBDIVISION DOES
+25 NOT APPLY] if there is a shortage of [that vaccination] [A VACCINE] in
+26 this state as determined by the director.
+27 2. The department may:
+
+House Amendments to H.B. 2195
+1 (a) Make or cause to be made inspections consistent with standard
+2 medical practice of every part of the premises of health care institutions
+3 which THAT are subject to the provisions of this chapter as well as those
+4 which THAT apply for or hold a license required by this chapter.
+5 (b) Make studies and investigations of conditions and problems in
+6 health care institutions, or any class or subclass thereof, as they relate
+7 to compliance with this chapter and rules, regulations and standards
+8 adopted pursuant thereto TO THIS CHAPTER.
+9 (c) Develop manuals and guides relating to any of the several
+10 aspects of physical facilities and operations of health care institutions
+11 or any class or subclass thereof for distribution to the governing
+12 authorities of health care institutions and to the general public.
+13 B. THE DEPARTMENT'S ACCESS TO THE PERSONNEL RECORDS OF A NURSING
+14 CARE INSTITUTION IS LIMITED TO THE FOLLOWING INFORMATION FOR EACH
+15 PERSONNEL MEMBER, EMPLOYEE OR VOLUNTEER:
+16 1. THE INDIVIDUAL'S NAME, DATE OF BIRTH AND CONTACT TELEPHONE
+17 NUMBER.
+18 2. THE INDIVIDUAL'S STARTING DATE OF EMPLOYMENT OR VOLUNTEER
+19 SERVICE AND, IF APPLICABLE, THE ENDING DATE.
+20 3. DOCUMENTATION OF ALL OF THE FOLLOWING AS PERTAINING TO THE
+21 INDIVIDUAL:
+22 (a) QUALIFICATIONS, INCLUDING SKILLS AND KNOWLEDGE APPLICABLE TO
+23 THE INDIVIDUAL'S JOB DUTIES.
+24 (b) EDUCATION AND EXPERIENCE APPLICABLE TO THE INDIVIDUAL'S JOB
+25 DUTIES.
+26 (c) COMPLIANCE WITH THE REQUIREMENTS OF SECTION 36-411.
+27 (d) ORIENTATION AND IN-SERVICE EDUCATION AS REQUIRED BY POLICIES
+28 AND PROCEDURES.
+29 (e) LICENSURE OR CERTIFICATION, IF THE INDIVIDUAL IS REQUIRED TO BE
+30 LICENSED OR CERTIFIED PURSUANT TO THIS ARTICLE OR POLICIES AND PROCEDURES.
+31 (f) IF THE INDIVIDUAL IS A BEHAVIORAL HEALTH TECHNICIAN, CLINICAL
+32 OVERSIGHT AS REQUIRED BY RULE.
+33 (g) CARDIOPULMONARY RESUSCITATION TRAINING, IF REQUIRED FOR THE
+34 INDIVIDUAL BY RULE.
+35 (h) FIRST AID TRAINING, IF REQUIRED FOR THE INDIVIDUAL PURSUANT TO
+36 THIS ARTICLE OR POLICIES AND PROCEDURES.
+37 (i) EVIDENCE OF FREEDOM FROM INFECTIOUS TUBERCULOSIS, IF REQUIRED
+38 FOR THE INDIVIDUAL BY RULE.
+39 (j) IF THE INDIVIDUAL IS A NUTRITION AND FEEDING ASSISTANT, BOTH:
+40 (i) COMPLETION OF THE NUTRITION AND FEEDING ASSISTANT TRAINING
+41 COURSE AS REQUIRED BY RULE.
+42 (ii) A NURSE'S OBSERVATIONS AS REQUIRED BY RULE.
+43 Sec. 2. Title 36, chapter 4, article 7, Arizona Revised Statutes,
+44 is amended by adding section 36-447.03, to read:
+45 36-447.03. Surveys; statement of deficiencies; initiation of
+46 complaint investigations; time frames; record
+47 retention
+-2-
+
+House Amendments to H.B. 2195
+1 A. THE DEPARTMENT SHALL ISSUE ANY STATEMENT OF DEFICIENCIES TO A
+2 NURSING CARE INSTITUTION WITHIN TEN BUSINESS DAYS AFTER COMPLETING THE
+3 STATE SURVEY.
+4 B. THE DEPARTMENT MAY NOT INITIATE A COMPLAINT INVESTIGATION
+5 RELATING TO A NURSING CARE INSTITUTION MORE THAN TWELVE MONTHS AFTER THE
+6 ALLEGED BASIS OF THE INCIDENT OCCURRED UNLESS THE COMPLAINT INVOLVES
+7 ALLEGATIONS OF CRIMINAL ABUSE OR NEGLECT AND A FAILURE BY A PERSON WHO HAS
+8 A DUTY TO REPORT THE POSSIBLE ABUSE OR NEGLECT PURSUANT TO SECTION 13-3620
+9 OR 46-454. IF RECORDS THAT ARE MAINTAINED PURSUANT TO ARTICLE 4 OF THIS
+10 CHAPTER HAVE BEEN LAWFULLY DESTROYED PURSUANT TO RETENTION REQUIREMENTS,
+11 THE DEPARTMENT MAY NOT CITE THE LICENSEE FOR FAILURE TO PRODUCE THE
+12 RECORDS FOR AN INVESTIGATION INITIATED MORE THAN TWELVE MONTHS AFTER THE
+13 ALLEGED BASIS OF THE INCIDENT OCCURRED.
+14 C. THE DEPARTMENT SHALL INITIATE COMPLAINT INVESTIGATIONS RELATING
+15 TO NURSING CARE INSTITUTIONS CONSISTENT WITH THE CENTERS FOR MEDICARE AND
+16 MEDICAID SERVICES TIME FRAMES BASED ON THE TRIAGED SEVERITY LEVEL OF EACH
+17 COMPLAINT.
+18 Sec. 3. Section 36-2402, Arizona Revised Statutes, is amended to
+19 read:
+20 36-2402. Quality assurance activities; sharing of quality
+21 assurance information; immunity; confidentiality
+22 A. State health care providers, hospitals and outpatient surgical
+23 centers shall, and other health care entities may, conduct quality
+24 assurance activities.
+25 B. A health care entity may share quality assurance information
+26 with appropriate state licensing or certifying agencies and with licensed
+27 health care providers who are the subject of quality assurance
+28 activities. A hospital may share quality assurance information with other
+29 health care entities only with the approval of the hospital's medical
+30 executive committee or an equivalent committee.
+31 C. A health care entity may share quality assurance information
+32 with other health care entities only for the purpose of conducting quality
+33 assurance activities.
+34 D. A health care entity or person that provides or receives
+35 information, that participates, takes any action or makes any decision or
+36 recommendation in the course of quality assurance activities or that
+37 furnishes any records, information or assistance to a health care entity
+38 for or in the course of quality assurance activities is not subject to
+39 liability for civil damages or any legal action in consequence of such
+40 action except as provided in section 36-445.02.
+41 E. Quality assurance activities conducted by state, county or local
+42 medical, pharmacy and dental associations and societies on behalf of a
+43 health care entity are immune from civil liability to the same degree as
+44 the facility for which the review activities are conducted.
+45 F. Health care entities may jointly conduct quality assurance
+46 activities.
+-3-
+
+House Amendments to H.B. 2195
+1 G. This section does not relieve any health care entity from
+2 liability arising from the treatment of a patient or from negligent
+3 credentialing decisions.
+4 [H. QUALITY ASSURANCE DOCUMENTS PREPARED BY A NURSING CARE
+5 INSTITUTION PURSUANT TO THIS SECTION ARE NOT A PART OF A PATIENT'S MEDICAL
+6 RECORD. QUALITY ASSURANCE DOCUMENTS PROVIDED BY A NURSING CARE
+7 INSTITUTION TO THE DEPARTMENT OF HEALTH SERVICES FOR REGULATORY PURPOSES
+8 REMAIN CONFIDENTIAL AND PRIVILEGED PURSUANT TO SECTION 36-2403.]
+9 [H. LONG-TERM CARE INCIDENT REPORTS:
+10 1. ARE A RISK MANAGEMENT TOOL TO BE USED SOLELY FOR INTERNAL
+11 INVESTIGATIONS AND QUALITY IMPROVEMENT EFFORTS.
+12 2. ARE CONFIDENTIAL RECORDS OF AN UNPLANNED EVENT OR OCCURRENCE
+13 THAT IS INCONSISTENT WITH ROUTINE CARE AND THAT MAY IMPACT A RESIDENT'S
+14 SAFETY, HEALTH OR WELL-BEING.
+15 3. ARE USED TO SUPPORT FOLLOW-UP ACTIONS AND IDENTIFY OPPORTUNITIES
+16 FOR IMPROVEMENT AND MANAGE RISK.
+17 4. ARE MAINTAINED SEPARATELY FROM THE RESIDENT'S MEDICAL RECORD.]
+18 Enroll and engross to conform
+19 Amend title to conform
+SELINA BLISS
+2195FloorBLISS.docx
+02/11/2026
+03:58 PM
+H: AG/ls
+130AMXBVB
+-4-

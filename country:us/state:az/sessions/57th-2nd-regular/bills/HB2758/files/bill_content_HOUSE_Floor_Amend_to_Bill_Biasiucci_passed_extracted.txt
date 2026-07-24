@@ -1,0 +1,417 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Floor Amend to Bill - Biasiucci - passed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ARIZONA HOUSE OF REPRESENTATIVES
+FLOOR AMENDMENT EXPLANATION
+57th Legislature, 2nd Regular Session
+Majority Research Staff
+HB 2758: McMullen Valley; eligible entities; groundwater
+BIASIUCCI FLOOR AMENDMENT
+1. Adds an exception that a county BOS may use general county monies for grants
+for certain water improvements programs. (Sec. 1)
+2. Requires the ADWR Director to post the provided table of groundwater
+transportation fees on ADWR's website. (Sec. 4)
+3. Instructs the ADWR Director to annually update the table of fees with changes in
+the GDP price deflator and fee adjustments determined pursuant to existing
+statute. (Sec. 4)
+4. Allows a county, that establishes a water improvements program, to allocate a
+portion of collected groundwater transportation fees to the county water
+improvements program for qualified owners of residential property who reside
+within the related groundwater basin or subbasin. (Sec. 4)
+5. Makes technical and conforming changes. (Sec. 1, 4, 5)
+CORBIN W.
+2/17/2026
+(602) 926-3848
+
+Fifty-seventh Legislature Biasiucci
+Second Regular Session H.B. 2758
+BIASIUCCI FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2758
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 <<Section 1. Section 11-254.09, Arizona Revised Statutes, is
+3 amended to read:
+4 11-254.09. Water improvements program; grants; requirements;
+5 annual report
+6 A. The board of supervisors may establish a program to allow
+7 persons to make gifts, grants or donations for the purpose of providing
+8 financial assistance to qualified owners of residential real property for
+9 making improvements to an existing drinking water well or providing for a
+10 water delivery system for the residence.
+11 B. The board shall designate an entity to operate the program, to
+12 establish criteria for grants and to award grants as prescribed by this
+13 section. The entity may be a county agency, department or division or may
+14 be a private, nonprofit corporation as determined by the board of
+15 supervisors.
+16 C. The program shall do all of the following:
+17 1. Limit grant recipients to persons who are low-income or
+18 fixed-income owners of residential property.
+19 2. Develop application criteria and criteria for awarding grants.
+20 3. Restrict a grant recipient's use of grant monies to deepening an
+21 existing drinking water well for the recipient's residence or to plumbing
+22 or replumbing the recipient's residence for a water delivery system.
+23 D. [EXCEPT AS PROVIDED IN SECTION 45-556, SUBSECTION G,] the board
+24 of supervisors may not use general county monies for grants under the
+25 program.
+26 E. The entity that operates the program shall make and submit to
+27 the county board of supervisors, the president of the senate and the
+28 speaker of the house of representatives on or before July 1 of each year a
+29 report containing a description of program operations of the preceding
+
+House Amendments to H.B. 2758
+1 year, including the amount of gifts, grants or donations received and the
+2 grants awarded.>>
+3 Sec. 2. Repeal
+4 Section 45-552, Arizona Revised Statutes, is repealed.
+5 Sec. 3. Title 45, chapter 2, article 8.1, Arizona Revised Statutes,
+6 is amended by adding a new section 45-552, to read:
+7 45-552. Transportation of groundwater withdrawn in McMullen
+8 Valley basin to an active management area; annual
+9 report; definition
+10 A. AN ENTITY DESCRIBED IN SUBSECTION B OF THIS SECTION THAT OWNS
+11 HISTORICALLY IRRIGATED ACRES IN THE MCMULLEN VALLEY GROUNDWATER BASIN MAY
+12 WITHDRAW GROUNDWATER FROM THE LAND FOR TRANSPORTATION TO A LOCATION AND
+13 FOR THE PURPOSES PRESCRIBED IN SUBSECTION D OF THIS SECTION:
+14 1. IF THE GROUNDWATER IS WITHDRAWN:
+15 (a) FROM A DEPTH TO ONE THOUSAND TWO HUNDRED FEET AT THE SITE OR
+16 SITES OF THE PROPOSED WITHDRAWALS.
+17 (b) AT A RATE THAT, WHEN ADDED TO THE EXISTING RATE OF WITHDRAWALS
+18 IN THE AREA, DOES NOT CAUSE THE GROUNDWATER TABLE AT THE SITE OR SITES OF
+19 THE WITHDRAWALS TO DECLINE MORE THAN AN AVERAGE OF TEN FEET PER YEAR
+20 DURING THE ONE HUNDRED YEAR EVALUATION PERIOD.
+21 2. IN AN AMOUNT EITHER:
+22 (a) PER ACRE OF THE HISTORICALLY IRRIGATED ACRES, NOT TO EXCEED:
+23 (i) SIX ACRE-FEET IN ANY YEAR.
+24 (ii) THIRTY ACRE-FEET FOR ANY PERIOD OF TEN CONSECUTIVE YEARS
+25 COMPUTED IN CONTINUING PROGRESSIVE SERIES BEGINNING IN THE YEAR
+26 TRANSPORTATION OF GROUNDWATER FROM THE LAND BEGINS.
+27 (b) ESTABLISHED BY THE DIRECTOR, BUT ONLY IF THE DIRECTOR
+28 DETERMINES THAT WITHDRAWALS IN AN AMOUNT GREATER THAN THAT ALLOWED BY
+29 SUBDIVISION (a) OF THIS PARAGRAPH WILL NOT UNREASONABLY INCREASE DAMAGE TO
+30 RESIDENTS OF SURROUNDING LAND AND OTHER WATER USERS IN THE MCMULLEN VALLEY
+31 GROUNDWATER BASIN, OR THAT ONE OR MORE OF THE ENTITIES WITHDRAWING THE
+32 GROUNDWATER WILL MITIGATE THE DAMAGE TO THE RESIDENTS AND OTHER WATER
+33 USERS.
+34 3. BY A PUBLIC SERVICE CORPORATION, IF ALL COSTS ASSOCIATED WITH
+35 WITHDRAWING, TRANSPORTING AND DELIVERING GROUNDWATER AWAY FROM THE
+36 MCMULLEN VALLEY GROUNDWATER BASIN ARE COLLECTED FROM THE CUSTOMERS OF THE
+37 PUBLIC SERVICE CORPORATION'S WATER DISTRICT WHERE THE TRANSPORTED
+38 GROUNDWATER IS USED.
+39 4. IF BEFORE THE WITHDRAWAL OF GROUNDWATER FROM THE MCMULLEN VALLEY
+40 GROUNDWATER BASIN, THE ELIGIBLE ENTITY HAS DEMONSTRATED COMPLIANCE WITH
+41 THE CRITERIA IN THIS SUBSECTION USING A HYDROLOGICAL STUDY. THE DIRECTOR
+42 SHALL PRESCRIBE THE CONTENTS OF THE STUDY THAT IS SUBMITTED WITH THE
+43 APPLICATION.
+44 5. IF BEFORE THE WITHDRAWAL OF GROUNDWATER FROM THE MCMULLEN VALLEY
+45 GROUNDWATER BASIN, THE ELIGIBLE ENTITY INSTALLS WATER MEASURING DEVICES,
+46 OR OTHER SIMILARLY RELIABLE AND ACCESSIBLE METHODS AS APPROVED BY THE
+47 DEPARTMENT, TO DETERMINE THE VOLUME OF GROUNDWATER THAT IS WITHDRAWN FROM
+-2-
+
+House Amendments to H.B. 2758
+1 WELLS RELATED TO THE TRANSPORTATION ACTIVITY AND THAT IS TRANSPORTED OUT
+2 OF THE MCMULLEN VALLEY GROUNDWATER BASIN BY PIPELINES, CANALS OR CONDUITS.
+3 6. IF WITHIN THIRTY DAYS AFTER THE WITHDRAWAL OF GROUNDWATER FROM
+4 THE MCMULLEN VALLEY GROUNDWATER BASIN FOR TRANSPORTATION, THE ELIGIBLE
+5 ENTITY SUBMITS A MONTHLY REPORT TO THE DEPARTMENT CONTAINING ALL OF THE
+6 FOLLOWING INFORMATION:
+7 (a) THE VOLUME OF GROUNDWATER THE ENTITY WITHDREW FROM THE MCMULLEN
+8 VALLEY GROUNDWATER BASIN IN THE PRECEDING MONTH.
+9 (b) THE VOLUME OF GROUNDWATER THE ENTITY TRANSPORTED OUT OF THE
+10 MCMULLEN VALLEY GROUNDWATER BASIN IN THE PRECEDING MONTH.
+11 (c) THE END USE OR DESTINATION OF GROUNDWATER THE ENTITY
+12 TRANSPORTED OUT OF THE MCMULLEN VALLEY GROUNDWATER BASIN IN THE PRECEDING
+13 MONTH.
+14 B. THE FOLLOWING ENTITIES ARE ELIGIBLE TO TRANSPORT GROUNDWATER
+15 AWAY FROM THE MCMULLEN VALLEY GROUNDWATER BASIN PURSUANT TO SUBSECTION A
+16 OF THIS SECTION:
+17 1. THIS STATE.
+18 2. A POLITICAL SUBDIVISION OF THIS STATE.
+19 3. A PUBLIC SERVICE CORPORATION THAT IS REGULATED BY THE
+20 CORPORATION COMMISSION AND THAT HOLDS A CERTIFICATE OF CONVENIENCE AND
+21 NECESSITY FOR WATER SERVICE.
+22 C. THE DIRECTOR SHALL ADOPT RULES TO IMPLEMENT THIS SECTION,
+23 INCLUDING FOR THE REPORTING OF GROUNDWATER TRANSPORTED FROM THE MCMULLEN
+24 VALLEY GROUNDWATER BASIN.
+25 D. THE FOLLOWING LOCATIONS AND PURPOSES ARE ELIGIBLE TO RECEIVE
+26 GROUNDWATER TRANSPORTED AWAY FROM THE MCMULLEN VALLEY GROUNDWATER BASIN
+27 PURSUANT TO SUBSECTION A OF THIS SECTION:
+28 1. AN INITIAL ACTIVE MANAGEMENT AREA FOR USE BY AN ELIGIBLE ENTITY
+29 OR THE ARIZONA WATER BANKING AUTHORITY PURSUANT TO SECTION 45-2491.
+30 2. LA PAZ COUNTY BY AN ELIGIBLE ENTITY IN A TOTAL CUMULATIVE VOLUME
+31 NOT TO EXCEED TEN PERCENT OF THE TOTAL ANNUAL VOLUME OF GROUNDWATER THE
+32 DEPARTMENT DETERMINES IS AVAILABLE FOR TRANSPORT OUT OF THE MCMULLEN
+33 VALLEY GROUNDWATER BASIN. AN ELIGIBLE ENTITY IN LA PAZ COUNTY MAY DO
+34 EITHER OF THE FOLLOWING:
+35 (a) TRANSPORT GROUNDWATER FROM HISTORICALLY IRRIGATED ACRES IN THE
+36 MCMULLEN VALLEY GROUNDWATER BASIN OWNED BY THE ELIGIBLE ENTITY TO A
+37 LOCATION IN LA PAZ COUNTY FOR THE ELIGIBLE ENTITY'S OWN USE.
+38 (b) SELL OR LEASE GROUNDWATER FROM HISTORICALLY IRRIGATED ACRES
+39 OWNED BY THE ELIGIBLE ENTITY THAT ARE LOCATED IN LA PAZ COUNTY TO A
+40 DESIGNATED PROVIDER IN THE PHOENIX, TUCSON OR PINAL ACTIVE MANAGEMENT AREA
+41 FOR THE DESIGNATED PROVIDER'S OWN USE.
+42 E. ANY LOCAL USE OF GROUNDWATER BY AN ELIGIBLE ENTITY THAT SELLS OR
+43 LEASES GROUNDWATER PURSUANT TO SUBSECTION D, PARAGRAPH 2 OF THIS SECTION
+44 SHALL COUNT TOWARD THE ELIGIBLE ENTITY'S MAXIMUM PER ACRE WITHDRAWAL LIMIT
+45 PRESCRIBED IN SUBSECTION A, PARAGRAPH 2, SUBDIVISION (a) OF THIS SECTION.
+46 F. ON OR BEFORE JULY 1 OF EACH YEAR, THE DEPARTMENT SHALL SUBMIT A
+47 REPORT TO THE GOVERNOR, THE PRESIDENT OF THE SENATE AND THE SPEAKER OF THE
+-3-
+
+House Amendments to H.B. 2758
+1 HOUSE OF REPRESENTATIVES, AND SHALL PROVIDE A COPY OF THIS REPORT TO THE
+2 SECRETARY OF STATE, OF THE TOTAL AMOUNT OF GROUNDWATER ALL ELIGIBLE
+3 ENTITIES WITHDREW FROM THE MCMULLEN VALLEY GROUNDWATER BASIN IN THE
+4 PRECEDING YEAR.
+5 G. THIS SECTION DOES NOT PROHIBIT A PERSON FROM STORING AND
+6 RECOVERING WATER THAT IS NOT GROUNDWATER AND THAT IS STORED PURSUANT TO
+7 CHAPTER 3.1 OF THIS TITLE. WATER THAT IS NOT GROUNDWATER AND THAT IS
+8 STORED PURSUANT TO CHAPTER 3.1 OF THIS TITLE DOES NOT COUNT TOWARD THE
+9 WITHDRAWAL LIMITS PRESCRIBED IN SUBSECTION A, PARAGRAPH 2 OF THIS SECTION.
+10 H. FOR THE PURPOSES OF THIS SECTION, "HISTORICALLY IRRIGATED ACRES"
+11 MEANS LAND OVERLAYING AN AQUIFER THAT WAS IRRIGATED WITH GROUNDWATER FROM
+12 THAT AQUIFER BEFORE JANUARY 1, 1988.
+13 <<Sec. 4. Section 45-556, Arizona Revised Statutes, is amended to
+14 read:
+15 45-556. Groundwater transportation fee; annual adjustment;
+16 credits; enforcement
+17 A. Except as provided in subsection B of this section, a person who
+18 directly or indirectly transports groundwater, withdrawn in a groundwater
+19 basin or [sub-basin] [SUBBASIN] as provided by this article or in the
+20 Pinal active management area, away from the county in which it was
+21 withdrawn to an initial active management area shall pay annually to the
+22 county a groundwater transportation fee determined by the director for
+23 each acre-foot of groundwater transported directly or indirectly away from
+24 the county, [less] [MINUS] any amount of central Arizona project water
+25 actually used on the property from which the groundwater is transported.
+26 [THE FEES COLLECTED PURSUANT TO THIS SUBSECTION ARE CONSIDERED GENERAL
+27 COUNTY MONIES AND SHALL BE DEPOSITED IN THE COUNTY GENERAL FUND.]
+28 B. A person is not required to pay a transportation fee under this
+29 section for stored water withdrawn pursuant to recovery well permits
+30 issued by the director pursuant to this title.
+31 C. Except as provided in subsection D of this section[,] the
+32 director shall set the fee as follows for the cumulative amount of
+33 groundwater transported away from the county, [less] [MINUS] any amount of
+34 central Arizona project water actually used on the property from which the
+35 groundwater is transported:
+36 Net Groundwater Transported Fee Per Acre-Foot
+37 0 - 1,000,000 acre-feet $ 3.00
+38 1,000,001 - 2,000,000 acre-feet $ 5.00
+39 2,000,001 - 3,000,000 acre-feet $ 7.50
+40 3,000,001 - 4,000,000 acre-feet $10.00
+41 4,000,001 - 5,000,000 acre-feet $15.00
+42 Over 5,000,000 acre-feet $30.00
+43 D. The director shall[:
+44 1. WITHIN SIXTY DAYS AFTER THE EFFECTIVE DATE OF THIS AMENDMENT TO
+45 THIS SECTION, POST ON THE DEPARTMENT'S WEBSITE THE TABLE OF FEES
+46 ESTABLISHED PURSUANT TO SUBSECTION C OF THIS SECTION AND ANNUALLY UPDATE
+-4-
+
+House Amendments to H.B. 2758
+1 THE TABLE WITH THE ANNUAL CHANGE IN THE GDP PRICE DEFLATOR AND FEE
+2 ADJUSTMENTS DETERMINED PURSUANT TO PARAGRAPH 2 OF THIS SUBSECTION.
+3 2.] Annually adjust the dollar amount of the fee according to the
+4 annual changes in the GDP price deflator, as defined in section 41-563,
+5 using the 1993 calendar year as the base year. The director shall
+6 immediately notify all concerned parties of the fee adjustments under this
+7 [subsection] [PARAGRAPH].
+8 E. Credits are allowed against the fees imposed by this section as
+9 described and in the amounts provided under this subsection. If the
+10 amount of the credit exceeds the amount of the fee imposed for any year,
+11 the unused portion of the credit may be carried forward and applied to
+12 subsequent years' fees until the amount of the credit is exhausted. The
+13 allowable credits are as follows:
+14 1. The amount of any increase in property tax revenues, including
+15 contributions in lieu of property taxes under title 9, chapter 4, article
+16 3, derived from remote municipal property, as defined in section 42-15251,
+17 from which the groundwater is withdrawn. The credit shall account for
+18 increased revenues due to improvements to the property and increased
+19 revenues due to higher property tax valuations and assessment ratios
+20 resulting from changes in use of the property. The credit shall not
+21 account for increased revenues due to normal market or economic factors.
+22 The amount of the credit for any year is the sum of the amounts computed
+23 under subdivisions (a) and (b) [OF THIS PARAGRAPH] as follows:
+24 (a) Delete from consideration under this subdivision any property
+25 with respect to which an amount is computed under subdivision (b) [OF THIS
+26 PARAGRAPH]. Subtract the amount of property tax or in lieu revenues that
+27 would have been derived from the remaining property during the immediately
+28 preceding tax year if the use of and improvements to the property had
+29 remained unchanged since the date the city or town acquired the property
+30 from the amount of property tax or in lieu revenues actually derived from
+31 that property during the immediately preceding tax year. If a city or
+32 town conveys all or part of its interest in remote municipal property to
+33 another political subdivision, the political subdivision succeeds to the
+34 credit allowed under this section. The amount of credit computed under
+35 this subdivision shall be computed each year[, ] beginning in the year
+36 groundwater is first transported[, ] and, if not used to offset the fee
+37 under this section, shall be cumulated from year to year.
+38 (b) This subdivision applies with respect to any portion of the
+39 remote municipal property that, before January 1, 1992, was classified at
+40 that time as class four property for purposes of property taxation under
+41 title 42 but was developed or improved at any time after December 31, 1991
+42 and is not currently classified as class two property. Subtract the
+43 amount of property tax or in lieu revenues that would have been derived
+44 from that developed or improved portion of the remote municipal property
+45 during the immediately preceding tax year if the use of and improvements
+46 to the property had remained unchanged since the date the city or town
+47 acquired the property from the amount of property tax or in lieu revenues
+-5-
+
+House Amendments to H.B. 2758
+1 actually derived from that portion of the property during the immediately
+2 preceding tax year. If a city or town conveys all or part of its interest
+3 in remote municipal property to another political subdivision, the
+4 political subdivision succeeds to the credit allowed under this section.
+5 The amount of credit computed under this subdivision shall be computed
+6 each year[, ] beginning in the year that the property is developed or
+7 improved and reclassified for tax purposes[, ] and, if not used to offset
+8 the fee under this section, shall be cumulated from year to year.
+9 2. An amount equal to the market value of land donated to the
+10 county if the county agrees in writing to prohibit or limit the withdrawal
+11 of groundwater from the land. The amount of the credit shall account for
+12 the reduced value of the land due to the groundwater withdrawal
+13 limitations.
+14 3. An amount agreed to by intergovernmental agreement between the
+15 county in which the groundwater is withdrawn and the city, town or other
+16 person transporting the groundwater.
+17 F. The board of supervisors of a county to which fees are due and
+18 payable under this section may request the county attorney to commence and
+19 prosecute any action or proceeding to enforce the collection of the fees.
+20 [G. NOTWITHSTANDING SUBSECTION A OF THIS SECTION, A COUNTY THAT
+21 ESTABLISHES A WATER IMPROVEMENTS PROGRAM PURSUANT TO SECTION 11-254.09 MAY
+22 DESIGNATE AN AMOUNT OR PERCENTAGE OF THE TOTAL GROUNDWATER TRANSPORTATION
+23 FEES RECEIVED TO BE USED UNDER THE WATER IMPROVEMENTS PROGRAM ONLY FOR
+24 QUALIFIED OWNERS OF RESIDENTIAL PROPERTY WHO RESIDE WITHIN THE GROUNDWATER
+25 BASIN OR SUBBASIN FROM WHICH THE GROUNDWATER WAS WITHDRAWN AND TRANSPORTED
+26 AWAY. THE COUNTY SHALL SEPARATELY ACCOUNT FOR MONIES RECEIVED FROM THE
+27 FEES IMPOSED PURSUANT TO SUBSECTION A OF THIS SECTION, AND ANY MONIES IN
+28 EXCESS OF THE AMOUNT OR PERCENTAGE DESIGNATED BY THE COUNTY SHALL BE
+29 DEPOSITED IN THE COUNTY GENERAL FUND.]>>
+30 <<Sec. 5. Section 45-2281, Arizona Revised Statutes, is amended to
+31 read:
+32 45-2281. Establishment of funds; allocation of authority
+33 revenues; member dues; applicability
+34 A. On the authority's formation, a grant fund, a water acquisition
+35 fund and an operating fund are established. The authority's revenues
+36 shall be deposited in and disbursed from the funds as provided by this
+37 section. Revenues deposited in the grant fund may be used to make grants
+38 to authority members for water acquisition, water conservation and water
+39 reuse. Revenues deposited in the water acquisition fund may be used to
+40 acquire water pursuant to section 45-2245. Revenues deposited in the
+41 operating fund shall be used as provided in subsection E of this section.
+42 B. Except as provided in subsection D of this section and for an
+43 authority that is formed in a county that contains a portion of the
+44 Harquahala irrigation non-expansion area and that does not contain any
+45 portion of an active management area, all revenues of the authority shall
+46 be deposited in the grant fund except the following:
+-6-
+
+House Amendments to H.B. 2758
+1 1. Dues paid by authority members which shall be deposited in the
+2 operating fund.
+3 2. Ten percent of all amounts paid by municipal subcontractors
+4 under subcontracts entered into as provided in section 45-2244, subsection
+5 B which may be deposited in the operating fund or the water acquisition
+6 fund as determined by the board.
+7 3. Fifty percent of all amounts paid by subcontractors of the
+8 authority pursuant to subcontracts entered into as provided in section
+9 45-2244, subsection E or F.
+10 4. That portion of the monies earned by the authority under
+11 subcontracts entered into pursuant to section 45-2245, subsection H that
+12 is equal to the cost to the authority of obtaining the water transferred
+13 under those subcontracts and, after payment of $7,500,000 as adjusted
+14 pursuant to subsection C of this section, all of the monies earned from
+15 those subcontracts.
+16 C. Except as provided in subsection B of this section, all of the
+17 authority's revenues shall be deposited in the grant fund until the full
+18 amount of the initial grant and any additional amounts required in a grant
+19 agreement between the authority and the member that receives the grant
+20 have been disbursed from the grant fund as provided in this subsection.
+21 The initial grant from the grant fund shall be made to the authority
+22 member that transferred, or caused to be transferred, to the authority the
+23 right to the delivery of eighteen thousand five hundred acre-feet per year
+24 of Colorado River water in connection with the authority's formation. The
+25 amount of the grant to that member shall equal $7,500,000 plus any
+26 additional monies that the authority and the member agree to in a grant
+27 agreement between the authority and the member, which amount shall be
+28 adjusted annually from the date of the authority's formation either for
+29 inflation or as may otherwise be provided in the subcontracts of the
+30 authority or in the grant agreement, until the amount of the initial grant
+31 required by this subsection and any additional amounts required by the
+32 grant agreement are paid in full. The initial grant may be disbursed in a
+33 lump sum or in partial payments in accordance with the request of the
+34 authority member that is entitled to receive the grant and as revenues
+35 become available to the authority and are deposited in the grant fund.
+36 The authority member that is entitled to receive the grant may request
+37 that disbursements be made whenever revenues have been deposited in the
+38 grant fund. Notwithstanding section 45-2282, the authority shall promptly
+39 disburse those revenues that are deposited in the fund on receipt of a
+40 request from that member.
+41 D. After the disbursement of the full amount of the initial grant
+42 and any additional amounts required in a grant agreement of the authority
+43 from the grant fund as provided in subsection C of this section, the
+44 authority's revenues, except dues paid by authority members, may be
+45 deposited in the grant fund, water acquisition fund or operating fund as
+46 determined by the board.
+-7-
+
+House Amendments to H.B. 2758
+1 E. The authority shall establish a schedule of dues that is
+2 sufficient, when aggregated with other monies available for the payment of
+3 administrative expenses, to pay the estimated administrative expenses of
+4 the authority. Dues shall be assessed and allocated equitably among
+5 authority members as determined by the board. All dues received by the
+6 authority shall be deposited in the operating fund. Expenditures may be
+7 made from the operating fund to pay:
+8 1. The authority's administrative expenses.
+9 2. The costs of the authority's formation including an equitable
+10 portion of the costs of the municipal corporation that transferred rights
+11 to the delivery of Colorado River water as provided in section 45-2202.
+12 3. The costs associated with holding any entitlement to water
+13 acquired by the authority.
+14 4. Subject to subsection C of this section, the costs incurred by
+15 the authority in the operation of any project undertaken by the authority
+16 pursuant to this chapter.
+17 5. Amounts payable to the United States annually for the right to
+18 hold and use the eighteen thousand five hundred acre-feet per year of
+19 Colorado River water acquired by the authority pursuant to section
+20 45-2202, subsection C which amounts may include any tax, fee or excise
+21 imposed on the sale or transfer of the water.
+22 F. Any authority member that is in arrears in the payment of its
+23 dues for more than sixty days shall lose the right of its appointed
+24 director to vote on all authority matters until all of the dues that are
+25 in arrears are fully paid. An authority member whose dues are in arrears
+26 does not lose membership in the authority because of the arrearage.
+27 G. [EXCEPT AS PROVIDED IN SECTION 45-556, SUBSECTION G,] all
+28 transportation fees paid to the authority pursuant to section 45-556 may
+29 be deposited in the grant fund, water acquisition fund or operating fund
+30 established [by] [PURSUANT TO] this section as determined by the board.
+31 H. For an authority that is formed in a county with a population of
+32 less than ninety thousand persons, all revenues of the authority shall be
+33 deposited in the grant fund, water acquisition fund or operating fund
+34 established [by] [PURSUANT TO] this section as determined by the board.>>
+35 Enroll and engross to conform
+36 Amend title to conform
+LEO BIASIUCCI
+2758FloorBIASIUCCI.docx
+02/16/2026
+6:30 PM
+C: CT
+130JXFLGK
+-8-

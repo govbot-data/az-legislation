@@ -1,0 +1,274 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Commerce
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON COMMERCE
+HOUSE OF REPRESENTATIVES AMENDMENTS TO S.B. 1206
+(Reference to Senate engrossed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Section 20-321, Arizona Revised Statutes, is amended to
+3 read:
+4 20-321. Definitions
+5 In this article, unless the context otherwise requires:
+6 1. "ADJUST" MEANS TO INVESTIGATE OR NEGOTIATE THE SETTLEMENT OF A
+7 CLAIM ARISING PURSUANT TO A PROPERTY AND CASUALTY INSURANCE CONTRACT.
+8 1. 2. "Adjuster":
+9 (a) Means any person who for compensation, fee or commission either
+10 DOES ANY OF THE FOLLOWING:
+11 (i) Adjusts, investigates or negotiates settlement of claims
+12 arising under property and casualty insurance contracts ADJUSTS CLAIMS on
+13 behalf of either the insurer or the insured.
+14 (ii) Holds oneself out to perform a service listed in item (i) of
+15 this subdivision.
+16 (iii) DIRECTLY OR INDIRECTLY SOLICITS BUSINESS FROM, INVESTIGATES
+17 OR ADVISES AN INSURED ABOUT CLAIMS ARISING PURSUANT TO PROPERTY AND
+18 CASUALTY INSURANCE CONTRACTS FOR A PERSON THAT PERFORMS SERVICES PURSUANT
+19 TO ITEM (i) OF THIS SUBDIVISION.
+20 (b) Does not include:
+21 (i) A licensed attorney-at-law who is qualified to practice law in
+22 this state.
+23 (ii) A salaried employee of an insurer or of a managing general
+24 agent. For the purposes of this item, "salaried employee" means an
+25 employee whose compensation is not contingent on the outcome of a claim
+26 determination.
+
+House Amendments to S.B. 1206
+1 (iii) A licensed insurance producer who adjusts or assists in
+2 adjustment of losses arising under policies procured through the insurance
+3 producer.
+4 (iv) An employee of a political subdivision who adjusts or assists
+5 in the adjustment of losses arising under policies covering the political
+6 subdivision or persons indemnified by the political subdivision.
+7 (v) An independent contractor retained by a licensed adjuster or a
+8 person listed in items (i), (ii), (iii) and (iv) of this subdivision for
+9 the sole purpose of providing technical assistance in connection with a
+10 claim. Independent contractors may include photographers, estimators,
+11 engineers, private detectives or handwriting experts.
+12 (vi) An individual who collects claim information from or furnishes
+13 claim information to insureds or claimants and who conducts data entry,
+14 including entering data into an automated claims adjudication system, if
+15 not more than twenty-five persons, as described in this item, are under
+16 the supervision of a single licensed adjuster or licensed producer.
+17 (vii) A licensed insurance producer who supervises or adjusts
+18 claims pursuant to item (vi) of this subdivision.
+19 (viii) Registered third-party administrators and their employees
+20 who are engaged in administering accident and health or life insurance
+21 claims.
+22 (ix) An individual who adjusts, investigates or negotiates
+23 settlement of only workers' compensation claims.
+24 2. 3. "Automated claims adjudication system" means a preprogrammed
+25 computer system that is designed for the collection, data entry,
+26 calculation and final resolution of portable consumer electronic products
+27 insurance claims and that:
+28 (a) May be used only by a licensed adjuster, a licensed producer or
+29 supervised individuals operating pursuant to this paragraph.
+30 (b) Must comply with all claims payment requirements under this
+31 title and be certified as compliant by a licensed adjuster.
+32 3. 4. "Portable consumer electronic products" means electronic
+33 devices and related accessories that are portable in nature.
+34 Sec. 2. Section 20-321.02, Arizona Revised Statutes, is amended to
+35 read:
+36 20-321.02. Application of other laws
+37 A. To the extent permitted ALLOWED by this article, sections 20-281
+38 and 20-284, section 20-286, subsections B, C and D, sections 20-287,
+39 20-288, 20-289 and 20-289.01, section 20-290, subsection A and sections
+40 20-291, 20-292, 20-295, 20-296, 20-297, 20-299, 20-301 and 20-302 apply to
+41 adjusters.
+42 B. AN ADJUSTER MAY NOT PROPOSE OR ATTEMPT TO PROPOSE TO ANY INSURED
+43 THAT THE ADJUSTER REPRESENTS THE INSURED WHILE A LOSS-PRODUCING OCCURRENCE
+44 IS CONTINUING AT THE DAMAGED PREMISES OR WHILE THE FIRE DEPARTMENT OR ANY
+45 OTHER PUBLIC SAFETY SERVICE IS ENGAGED IN A PUBLIC SAFETY EMERGENCY
+46 RESPONSE AT THE DAMAGED PREMISES.
+-2-
+
+House Amendments to S.B. 1206
+1 C. AN ADJUSTER MAY NOT PARTICIPATE EITHER DIRECTLY OR INDIRECTLY,
+2 INCLUDING AS CONTRACTOR OR SUBCONTRACTOR, IN THE RESTORATION,
+3 RECONSTRUCTION OR REPAIR OF ANY DAMAGED PREMISES OR PROPERTY THAT IS THE
+4 SUBJECT OF A CLAIM ADJUSTED BY THE ADJUSTER.
+5 D. AN ADJUSTER MAY NOT ENDORSE PAYMENT INSTRUMENTS ISSUED TO AN
+6 INSURED AS A RESULT OF A CLAIM ARISING UNDER AN INSURANCE CONTRACT WITHOUT
+7 THE INSURED'S DIRECT ENDORSEMENT AND SIGNATURE.
+8 Sec. 3. Section 32-1158.02, Arizona Revised Statutes, is amended to
+9 read:
+10 32-1158.02. Residential construction contracts
+11 A. For residential repair or replacement of damage resulting
+12 directly from a catastrophic storm in a specific area that is designated
+13 by an insurer, in addition to the requirements of section 32-1158, a
+14 licensed contractor who enters into a contract for the repair or
+15 replacement of a residential roof or other repair or replacement within
+16 the scope of the regulation of this chapter with a purchaser who resides
+17 in the residence or who intends to reside in the residence after the
+18 completion of the contract shall include IN THE CONTRACT at least the
+19 following provisions:
+20 1. A statement in at least ten-point bold type in substantially the
+21 following form: "You may cancel this contract at any time within
+22 seventy-two hours after you have been notified that your insurer has
+23 denied your claim to pay for the goods and services to be provided under
+24 this contract."
+25 2. A statement in at least ten-point bold type in substantially the
+26 following form: "You may cancel this contract at any time, for any
+27 reason, within four business days after signing this contract."
+28 3. A copy of a repair estimate that contains the following
+29 disclosures:
+30 (a) A precise description and location of all damage claimed on the
+31 repair estimate.
+32 (b) For roofing repair or replacement, a detailed description of
+33 the work to be done, including the square footage of the repair area or
+34 the replacement area.
+35 (c) If the damaged areas are not included in the repair estimate, a
+36 specification of those areas and any reason for their exclusion from the
+37 repair estimate.
+38 (d) Whether or not the property was inspected before the
+39 preparation of the estimate and the nature of that inspection,
+40 specifically whether the roof was physically accessed.
+41 (e) That a contractor has made no assurances that the claimed loss
+42 will be covered by an insurance policy.
+43 (f) That the policyholder is responsible for payment for any work
+44 performed if the insurer should deny payment or coverage for any part of
+45 the loss.
+46 B. A residential owner of a property or casualty insurance policy
+47 has the right to cancel the contract described in subsection A of this
+-3-
+
+House Amendments to S.B. 1206
+1 section within seventy-two hours after the insured owner has been notified
+2 by the insurer that the claim has been denied.
+3 C. In addition to the right prescribed in subsection B of this
+4 section, the insured owner of a residence has the right to cancel the
+5 contract described in subsection A of this section for any reason within
+6 four business days after signing the contract. A cancellation shall be
+7 evidenced by the insured owner giving written notice of cancellation to
+8 the contractor's address stated in the contract. Notice of cancellation
+9 does not need to be in a particular form, except that the notice must
+10 indicate in writing the intent of the insured owner not to be bound by the
+11 contract.
+12 D. Within ten days after a contract has been canceled pursuant to
+13 this section, the contractor must tender to the insured owner any payments
+14 made by the insured owner and any note or other evidence of indebtedness,
+15 except that if the contractor has performed any emergency services, the
+16 contractor is entitled to receive reasonable compensation for the services
+17 if the insured owner has received a detailed description and itemization
+18 of the charges for those services.
+19 E. The down payment section on the execution of a contract entered
+20 into pursuant to this section shall not require more than fifty per cent
+21 PERCENT of the total contract.
+22 F. Any changes, additions or deletions to the work order specified
+23 in the original contract shall be included in a written change order that
+24 is signed by the homeowner.
+25 G. A contractor shall immediately notify and disclose in writing to
+26 the residential owner of a property or casualty insurance policy any
+27 cancellation of the contractor's workers' compensation coverage.
+28 H. A contractor's failure to comply with this section is grounds
+29 for license suspension or revocation pursuant to section 32-1154.
+30 I. An individual or contractor who prepares a repair estimate for
+31 post-storm repair or replacement services as described in subsection A of
+32 this section in anticipation of making an insurance claim must disclose
+33 the following information to the insured owner:
+34 1. A precise description and location of all damage claimed or
+35 included on the repair estimate.
+36 2. Documentation to support the damage claimed on the estimate,
+37 including photographs, digital images or another medium.
+38 3. A detailed description and itemization of any emergency repairs
+39 already completed by the contractor.
+40 4. If damaged areas are not included in the repair estimate, a
+41 specification of those areas and any reason for their exclusion from the
+42 repair estimate.
+43 5. A provision stating whether or not the property was inspected
+44 before the preparation of the estimate, if the contract is a contract for
+45 repair or replacement of a roof, and whether the roof was physically
+46 accessed.
+-4-
+
+House Amendments to S.B. 1206
+1 6. A provision stating that the contractor has made no assurances
+2 that the claimed loss will be covered by an insurance policy.
+3 J. If an insured owner submits a claim with the insurer for
+4 residential repair or replacement pursuant to this section, the contractor
+5 MAY NOT ADVERTISE TO PAY, ISSUE PAYMENT FOR OR PROMISE TO PAY ANY
+6 DEDUCTIBLE PAYABLE ON THE POLICY OR ISSUE ANY REBATE DEDUCTIBLE EITHER
+7 DIRECTLY OR INDIRECTLY AND may not begin work on the repair or replacement
+8 until the insurer approves or denies the claim, except if the work is
+9 necessary to prevent further loss.
+10 K. A person who is not licensed pursuant to this chapter and who is
+11 not exempt from licensure pursuant to this chapter may not bring a private
+12 cause of action to recover monies from a homeowner for any residential
+13 repair or replacement that the person does pursuant to this section.
+14 L. Except as otherwise provided in this subsection, a contractor
+15 providing post-storm repair or replacement contracting services shall not
+16 ALSO act AS AN ADJUSTER ON BEHALF OF THE INSURED FOR THE CLAIM, SHALL NOT
+17 ACT on behalf of an insured owner in OTHERWISE negotiating for the
+18 settlement of a claim for loss or damage under any policy of insurance
+19 covering the insured owner's residence and shall not make any assurance
+20 that the proposed repair or replacement contracting services will be
+21 covered by an insurance policy. The contractor may communicate with an
+22 insurer to assist in any claim disputes, including actual damages
+23 incurred, if both of the following apply:
+24 1. The insured owner gives the contractor permission.
+25 2. The contractor is not compensated for the communication.
+26 M. With a policyholder's written consent, an insurer providing
+27 coverage for a post-storm residential repair or replacement may issue its
+28 check in the name of both the policyholder and the contractor with the
+29 contractor's license number issued pursuant to this chapter noted on the
+30 check.
+31 N. This section shall DOES not limit the following individuals from
+32 contacting and negotiating with the insured owner:
+33 1. A government official WHO IS engaged in the performance of
+34 official duties.
+35 2. An attorney WHO IS engaged in the performance of professional
+36 duties.
+37 3. Licensed insurers and licensed insurance producers while engaged
+38 in the performance of their duties in connection with insurance
+39 transactions.
+40 4. Any salaried office employee WHO IS performing exclusively
+41 clerical or administrative duties and who is not compensated in any manner
+42 for securing contracts related to post-storm residential repair or
+43 replacement contracting.
+44 5. Photographers, estimators, appraisers or engineers WHO ARE
+45 employed exclusively for the purpose of furnishing technical assistance.
+46 6. A private investigator who is licensed pursuant to chapter 24 of
+47 this title.
+-5-
+
+House Amendments to S.B. 1206
+1 7. A full-time salaried employee of a property owner or property
+2 management company who is retained by a property owner, who has not been
+3 hired for the purpose of handling a specific claim resulting from a fire
+4 or casualty loss and who acts at the sole discretion of the property owner
+5 or management company regarding a claim related to the owner's property.
+6 O. A CONTRACTOR MAY NOT PROPOSE TO ANY PERSON THAT THE PERSON SIGN
+7 AN AGREEMENT FOR WORK ON ANY DAMAGED PREMISES WHILE A LOSS-PRODUCING
+8 OCCURRENCE IS CONTINUING AT THE DAMAGED PREMISES OR WHILE THE FIRE
+9 DEPARTMENT OR ANY OTHER PUBLIC SAFETY SERVICE IS ENGAGED IN A PUBLIC
+10 SAFETY EMERGENCY RESPONSE AT THE DAMAGED PREMISES. [THIS SUBSECTION DOES
+11 NOT PREVENT A CONTRACTOR FROM PROVIDING SERVICES TO A HOMEOWNER IN ORDER
+12 TO MAINTAIN OR RESTORE ESSENTIAL SERVICES TO THE PREMISES OR TO PREVENT
+13 FURTHER IMMEDIATE DAMAGE TO THE PREMISES.]
+14 Enroll and engross to conform
+15 Amend title to conform
+And, as so amended, it do pass
+JEFF WENINGER
+CHAIRMAN
+1206COMMERCE.docx
+03/24/2026
+03:16 PM
+H: PB/ls
+130OCBGOI
+-6-

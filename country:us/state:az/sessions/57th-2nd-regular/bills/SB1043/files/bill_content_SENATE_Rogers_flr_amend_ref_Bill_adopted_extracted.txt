@@ -1,0 +1,132 @@
+Title: 
+Official Title: 
+Source: versions - SENATE - Rogers flr amend (ref Bill) adopted
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Bill Number: S.B. 1043
+Rogers Floor Amendment
+Reference to: printed bill
+Amendment drafted by: Leg. Council
+FLOOR AMENDMENT EXPLANATION
+1. Allows a state agency to enter into an agreement with a virtual currency service provider, rather
+than a cryptocurrency service provider.
+2. Replaces the definition of cryptocurrency with a definition of virtual currency.
+3. Defines stablecoin.
+4. Makes conforming changes.
+Amendment explanation prepared by Molly Graver
+2/24/2026
+
+Fifty-seventh Legislature Rogers
+Second Regular Session S.B. 1043
+ROGERS FLOOR AMENDMENT
+SENATE AMENDMENTS TO S.B. 1043
+(Reference to printed bill)
+Amendment instruction key:
+[GREEN UNDERLINING IN BRACKETS] indicates text added to statute or
+previously enacted session law.
+[Green underlining in brackets] indicates text added to new session law
+or text restoring existing law.
+[GREEN STRIKEOUT IN BRACKETS] indicates new text removed from statute
+or previously enacted session law.
+[Green strikeout in brackets] indicates text removed from existing statute,
+previously enacted session law or new session law.
+<<Green carets>> indicate a section added to the bill.
+<<Green strikeout in carets>> indicates a section removed from the bill.
+1 The bill as proposed to be amended is reprinted as follows:
+2 Section 1. Title 35, chapter 1, article 3, Arizona Revised
+3 Statutes, is amended by adding section 35-156, to read:
+4 35-156. Method of payment; virtual currency; agreement;
+5 definitions
+6 A. A STATE AGENCY MAY ENTER INTO AN AGREEMENT WITH A
+7 [CRYPTOCURRENCY] [VIRTUAL CURRENCY] SERVICE PROVIDER TO PROVIDE A METHOD
+8 TO ACCEPT [CRYPTOCURRENCY] [VIRTUAL CURRENCY] AS A PAYMENT METHOD OF
+9 FINES, CIVIL PENALTIES OR OTHER PENALTIES, RENT, RATES, TAXES, FEES,
+10 CHARGES, REVENUE, FINANCIAL OBLIGATIONS AND SPECIAL ASSESSMENTS TO PAY ANY
+11 AMOUNT DUE TO THAT AGENCY OR THIS STATE.
+12 B. THE AGREEMENT SHALL:
+13 1. GOVERN THE TERMS AND CONDITIONS ON WHICH [CRYPTOCURRENCY]
+14 [VIRTUAL CURRENCY] AS A MEANS OF PAYMENT CAN BE ACCEPTED OR DECLINED.
+15 2. PROVIDE THE MANNER IN AND CONDITIONS ON WHICH A [CRYPTOCURRENCY]
+16 [VIRTUAL CURRENCY] SERVICE PROVIDER SHALL PAY THIS STATE BY MEANS OF
+17 [CRYPTOCURRENCY] [VIRTUAL CURRENCY] OR UNITED STATES DOLLARS PURSUANT TO
+18 THE AGREEMENT.
+19 C. A STATE AGENCY THAT HAS ENTERED INTO AN AGREEMENT WITH A
+20 [CRYPTOCURRENCY] [VIRTUAL CURRENCY] SERVICE PROVIDER AS PROVIDED BY THIS
+21 SECTION MAY ACCEPT [CRYPTOCURRENCY] [VIRTUAL CURRENCY] AS A METHOD OF
+22 PAYMENT FOR FINES, CIVIL PENALTIES OR OTHER PENALTIES, RENT, RATES, TAXES,
+23 FEES, CHARGES, REVENUE, FINANCIAL OBLIGATIONS AND SPECIAL ASSESSMENTS TO
+24 PAY ANY AMOUNT DUE TO THAT AGENCY OR THIS STATE.
+25 D. A STATE AGENCY MAY PAY ANY SERVICE FEES SPECIFIED IN THE
+26 AGREEMENT FOR THE [CRYPTOCURRENCY] [VIRTUAL CURRENCY] TRANSACTION OR MAY
+27 REQUIRE A PERSON THAT PAYS WITH [CRYPTOCURRENCY] [VIRTUAL CURRENCY] TO PAY
+28 THE SERVICE FEES ASSOCIATED WITH THE [CRYPTOCURRENCY] [VIRTUAL CURRENCY]
+29 TRANSACTION.
+
+Senate Amendments to S.B. 1043
+1 E. A PERSON THAT PAYS WITH [CRYPTOCURRENCY] [VIRTUAL CURRENCY] IS
+2 LIABLE FOR THE PAYMENT AND ALL INTEREST AND PENALTIES UNTIL THE STATE
+3 AGENCY HAS RECEIVED FINAL AND UNCONDITIONAL PAYMENT OF THE FULL AMOUNT DUE
+4 FROM THE [CRYPTOCURRENCY] [VIRTUAL CURRENCY] SERVICE PROVIDER FOR THE
+5 [CRYPTOCURRENCY] [VIRTUAL CURRENCY] TRANSACTION.
+6 F. FOR THE PURPOSES OF THIS SECTION:
+7 [1. "CRYPTOCURRENCY" MEANS ANY FORM OF DIGITAL CURRENCY IN WHICH
+8 ENCRYPTION TECHNIQUES ARE USED TO REGULATE THE GENERATION OF UNITS OF
+9 CURRENCY AND VERIFY THE TRANSFER OF MONIES, OPERATING INDEPENDENTLY OF A
+10 CENTRAL BANK, INCLUDING BITCOIN, ETHEREUM, LITECOIN AND BITCOIN CASH.]
+11 [1. "VIRTUAL CURRENCY" MEANS A DIGITAL REPRESENTATION OF VALUE THAT
+12 FUNCTIONS AS A MEDIUM OF EXCHANGE, A UNIT OF ACCOUNT AND A STORE OF VALUE,
+13 INCLUDING BITCOIN, ETHEREUM, XRP, LITECOIN AND BITCOIN CASH, AND INCLUDES
+14 STABLECOINS. VIRTUAL CURRENCY DOES NOT INCLUDE LEGAL TENDER ISSUED BY THE
+15 UNITED STATES OR A FOREIGN GOVERNMENT.]
+16 2. "[CRYPTOCURRENCY] [VIRTUAL CURRENCY] SERVICE PROVIDER" MEANS A
+17 PERSON OR ENTITY WITH DEMONSTRATED EXPERIENCE CONVERTING ANY FORM OF
+18 [CRYPTOCURRENCY] [VIRTUAL CURRENCY], INCLUDING BITCOIN, ETHEREUM, [XRP,]
+19 LITECOIN AND BITCOIN CASH, TO LEGAL TENDER.
+20 [3. "STABLECOIN" MEANS A PAYMENT STABLECOIN AS DEFINED IN THE
+21 GUIDING AND ESTABLISHING NATIONAL INNOVATION FOR U.S. STABLECOINS (GENIUS)
+22 ACT OF 2025 (P.L. 119-27) AND THAT IS ISSUED IN COMPLIANCE WITH ALL
+23 APPLICABLE FEDERAL LAWS GOVERNING SUCH ISSUANCE.]
+24 Sec. 2. Section 42-5018, Arizona Revised Statutes, is amended to
+25 read:
+26 42-5018. Method of payment
+27 A. All remittances of taxes imposed by this article shall be made
+28 by bank draft, check, cashier's check, money order, cash or electronic
+29 funds transfer to the department, which shall issue receipts therefor to
+30 the taxpayers, but no remittance other than cash shall be final discharge
+31 of liability for the tax levied by this article until it has been paid in
+32 cash to the department.
+33 B. IN ADDITION TO THE METHODS DESCRIBED IN SUBSECTION A OF THIS
+34 SECTION, THE DEPARTMENT MAY ENTER INTO AN AGREEMENT PURSUANT TO SECTION
+35 35-156 TO ACCEPT [CRYPTOCURRENCY] [VIRTUAL CURRENCY] FOR REMITTANCES OF
+36 TAXES IMPOSED BY THIS ARTICLE.
+37 Sec. 3. Section 43-505, Arizona Revised Statutes, is amended to
+38 read:
+39 43-505. Tax payments made to department; order of crediting
+40 A. The tax and any interest and penalties shall be paid to the
+41 department. Remittances may be in the form of EITHER:
+42 1. A check payable to the department during such A time and under
+43 such regulations as the director may prescribe. If a check is not paid by
+44 the bank on which it is drawn, the taxpayer tendering the check shall
+45 remain IS liable for the payment of the tax and all interest and penalties
+46 as if he had THE CHECK WERE not tendered the check.
+-2-
+
+Senate Amendments to S.B. 1043
+1 2. IF THE DEPARTMENT ENTERS INTO AN AGREEMENT PURSUANT TO SECTION
+2 35-156, [CRYPTOCURRENCY] [VIRTUAL CURRENCY].
+3 B. The department shall credit payments against a taxpayer's unpaid
+4 tax liability before crediting payments against any interest or penalties.
+5 Sec. 4. Effective date
+6 This act is effective from and after December 31, 2026.
+7 Enroll and engross to conform
+8 Amend title to conform
+WENDY ROGERS
+1043ROGERS0500.docx
+02/24/2026
+05:00 PM
+S: MG/ci
+130MJFTFC
+-3-

@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - HOUSE - Government - Strike Everything
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Fifty-seventh Legislature
+Second Regular Session
+COMMITTEE ON GOVERNMENT
+HOUSE OF REPRESENTATIVES AMENDMENTS TO H.B. 2857
+(Reference to printed bill)
+1 Strike everything after the enacting clause and insert:
+2 "Section 1. Title 41, chapter 11, article 1, Arizona Revised
+3 Statutes, is amended by adding section 41-1610.04, to read:
+4 41-1610.04. Inmate medical records; electronic storage;
+5 definition
+6 A. THE DEPARTMENT MAY STORE AN INMATE'S MEDICAL RECORDS
+7 ELECTRONICALLY.
+8 B. NOTWITHSTANDING ANY OTHER LAW, IF THE DEPARTMENT STORES AN
+9 INMATE'S MEDICAL RECORDS ELECTRONICALLY, THE DEPARTMENT IS NOT REQUIRED TO
+10 KEEP AND MAY DISPOSE OF ANY PHYSICAL COPIES OF AN INMATE'S MEDICAL
+11 RECORDS.
+12 C. FOR THE PURPOSES OF THIS SECTION, "MEDICAL RECORDS" INCLUDES ANY
+13 MEDICAL RECORDS THAT ARE RETAINED BY THE DEPARTMENT OR A MEDICAL
+14 PROFESSIONAL AND THAT RELATE TO MEDICAL TREATMENT THAT WAS PROVIDED TO THE
+15 INMATE WHILE IN A DEPARTMENT FACILITY."
+16 Amend title to conform
+And, as so amended, it do pass
+WALT BLACKMAN
+CHAIRMAN
+2857GOVERNMENT.docx
+02/18/2026
+10:59 AM
+C: AH
+130PMNEXT
