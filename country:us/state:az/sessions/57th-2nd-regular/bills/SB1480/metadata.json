@@ -16,6 +16,18 @@
   ],
   "actions": [
     {
+      "description": "Senate First Reading",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T11:50:08Z"
+      }
+    },
+    {
       "description": "Senate Second Reading",
       "date": "2026-02-02",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -136,7 +148,7 @@
     "division_id": "ocd-division/country:us/state:az"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-24T17:19:01Z",
+    "logs_latest_update": "2026-09-02T11:50:08Z",
     "text_extraction_latest_update": "2026-07-24T20:30:21.580102Z"
   }
 }
